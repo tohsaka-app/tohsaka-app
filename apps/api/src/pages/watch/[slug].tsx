@@ -37,7 +37,7 @@ export const getStaticProps: GetStaticProps<{ slug: string; show: Show }> = asyn
 const Watch: NextPage<InferGetStaticPropsType<typeof getStaticProps>> = ({ slug, show }) => {
 	return (
 		<div>
-			<Video hash={show.episodes[0].content["1080"]} />
+			<Video hash={show.episodes[0].content["480"]} />
 		</div>
 	);
 };

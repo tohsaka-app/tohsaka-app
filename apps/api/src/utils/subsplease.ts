@@ -1,6 +1,6 @@
 import MagnetUri from "magnet-uri";
 
-const url = (pathname: string) => `https://subsplease.org/api/?f=${pathname}&tz=UTC`;
+const url = (pathname: string) => `https://subsplease.org/api/?f=${pathname}&tz=America/Edmonton`;
 
 export type TitleLanguage = "english" | "romaji";
 
@@ -44,7 +44,7 @@ export function getHashFromMagnet(magnetUri: string): string {
 }
 
 export async function getShow(slug: string): Promise<Show> {
-	console.log(process.browser)
+	console.log(process.browser);
 	const response = await fetch(`/api/show/${slug}`);
 	return response.json();
 }
@@ -56,22 +56,22 @@ export async function getShowById(sid: number, slug?: string): Promise<Show> {
 	return {
 		title: (Object.values(json.episode) as any)[0].show,
 		slug,
-		episodes: Object.values(json.episode).map((episode: any) => ({
-			name: episode.episode,
-			released_at: new Date(episode.release_date).toISOString(),
-			content: Object.fromEntries(
-				episode.downloads.map((download: any) => [download.res, getHashFromMagnet(download.magnet)])
-			)
-		}))
+		episodes: Object.values(json.episode)
+			.map((episode: any) => ({
+				name: episode.episode,
+				released_at: new Date(episode.release_date).toISOString(),
+				content: Object.fromEntries(
+					episode.downloads.map((download: any) => [
+						download.res,
+						getHashFromMagnet(download.magnet)
+					])
+				)
+			}))
+			.reverse()
 	};
 }
 
 export async function getSchedule(): Promise<Schedule> {
-	if (typeof window !== "undefined") {
-		const response = await fetch("/api/schedule");
-		return response.json();
-	}
-
 	const response = await fetch(url("schedule"));
 	const json = await response.json();
 

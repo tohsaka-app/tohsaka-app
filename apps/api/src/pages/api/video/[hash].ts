@@ -3,8 +3,11 @@ import { getType } from "mime";
 import WebTorrent from "webtorrent-hybrid";
 import { Instance, Torrent } from "webtorrent";
 import MagnetUri from "magnet-uri";
+import ffmpeg from "fluent-ffmpeg";
+
 
 import type { NextApiRequest, NextApiResponse } from "next";
+import { Readable } from "stream";
 
 const client: Instance = new WebTorrent();
 
@@ -41,9 +44,10 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
 	const file = torrent.files[0];
 	if (!file) return res.status(404).end();
 
+
 	const range = req.headers.range || "bytes=0-";
 
-	const chunkSize = 10 ** 6; // 1MB
+	const chunkSize = (10 ** 6) * 4; // 4MB
 	const start = Number(range.replace(/\D/g, ""));
 	const end = Math.min(start + chunkSize, file.length - 1);
 
@@ -57,5 +61,6 @@ export default async (req: NextApiRequest, res: NextApiResponse) => {
 	res.writeHead(206, headers);
 
 	const videoStream = file.createReadStream({ start, end });
+	//ffmpeg().input(videoStream as Readable).output(res, { end: true })
 	videoStream.pipe(res);
 };

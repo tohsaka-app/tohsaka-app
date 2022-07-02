@@ -1,0 +1,11 @@
+*:not(button,input) {
+	@apply select-none;
+}
+
+* {
+	@apply transition-all
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
