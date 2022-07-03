@@ -1,0 +1,26 @@
+{
+  "slug": "piplup-step",
+  "synopsis": "A music video from Project Pochama for the song Piplup Step by Serph featuring Zun, animated by coalowl.",
+  "title": {
+    "en": "Piplup Step",
+    "jp": "Piplup Step"
+  },
+  "releasedAt": "2022-02-10T00:00:00.000Z",
+  "finishedAt": "2022-02-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45851/poster_image/80c2b4506e4975077cb34b86051c8d27.jpg",
+  "categories": [
+    "kids",
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/bm0nLJuRNbw"
+  ],
+  "relations": {
+    "kitsu": "45851",
+    "anilist/anime": "144990"
+  }
+}

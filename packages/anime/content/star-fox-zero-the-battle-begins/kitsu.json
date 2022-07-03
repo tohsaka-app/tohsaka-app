@@ -1,0 +1,27 @@
+{
+  "slug": "star-fox-zero-the-battle-begins",
+  "synopsis": "Andross, an ape exiled from the Lylad Planetary System by General Pepper seeks revenge by attacking the planet Corneria and its innocence, kidnapping Pepper in the process. Meanwhile, it's another usual day for Team Star Fox, a gang of space mercenaries: Lazing around, getting angry at video games, and being lectured by their mentors. But all of that changes once they receive a distress call from a familiar face. \nMeet Fox McCloud, son of the deceased James McCloud, as he and his top-notch crew—Slippy Toad, Falco Lombarde and Peppy Hare—fight back against Andross's robotic army in style, and attempt to save Corneria from the skies.",
+  "title": {
+    "jp": "Star Fox Zero: The Battle Begins"
+  },
+  "releasedAt": "2016-04-20T00:00:00.000Z",
+  "finishedAt": "2016-04-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12089/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12089/original.jpg",
+  "categories": [
+    "action",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12089",
+    "anidb": "12090",
+    "anilist/anime": "21783",
+    "aozora": "Gf7W3ahl5O",
+    "myanimelist/anime": "33205"
+  }
+}

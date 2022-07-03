@@ -1,0 +1,21 @@
+{
+  "slug": "ring-ring-boy",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Ring Ring Boy"
+  },
+  "releasedAt": "1963-01-01T00:00:00.000Z",
+  "finishedAt": "1963-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9034/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "9034",
+    "aozora": "WQ0fDTGTuW",
+    "myanimelist/anime": "22391"
+  }
+}

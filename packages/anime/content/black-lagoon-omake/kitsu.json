@@ -1,0 +1,23 @@
+{
+  "slug": "black-lagoon-omake",
+  "synopsis": "Special omake episodes from the Blu-Ray releases, showing the heroines and foes in funny, uncommon situations.",
+  "title": {
+    "jp": "Black Lagoon Omake"
+  },
+  "releasedAt": "2009-12-23T00:00:00.000Z",
+  "finishedAt": "2010-03-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5335/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5335",
+    "anilist/anime": "8440",
+    "aozora": "1O4OHMv9Be",
+    "myanimelist/anime": "8440"
+  }
+}

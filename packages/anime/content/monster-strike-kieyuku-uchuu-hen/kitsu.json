@@ -1,0 +1,28 @@
+{
+  "slug": "monster-strike-kieyuku-uchuu-hen",
+  "synopsis": "Second part of Monster Strike 2.",
+  "title": {
+    "en": "Monster Strike The Fading Cosmos",
+    "jp": "Monsuto Anime: Kieyuku Uchuu-hen"
+  },
+  "releasedAt": "2017-10-07T00:00:00.000Z",
+  "finishedAt": "2018-01-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13970/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/monster-strike"
+  ],
+  "relations": {
+    "kitsu": "13970",
+    "anidb": "13486",
+    "anilist/anime": "100262",
+    "myanimelist/anime": "36246"
+  }
+}

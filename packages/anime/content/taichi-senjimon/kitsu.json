@@ -1,0 +1,33 @@
+{
+  "slug": "taichi-senjimon",
+  "synopsis": "Tai Chi Chasers focuses on Rai, a young orphan, shocked to discover he's a secret descendent of the Tigeroids: an ancient race of peaceful beings locked in struggle with the ruthless and cunning Dragonoids. In a parallel universe called Suhn, the Tigeroids and Dragonoids are locked in an age-old race to recover 500 lost tai chi symbols. Whoever recovers these precious and potent symbols will possess the ultimate power to rule their realm…and destroy their enemies. Rai must now hone his innate tai chi card skills to fight the Dragonoids, find the lost symbols and battle to become one of the champion Tai Chi Chasers.\n(Source: ANN)",
+  "title": {
+    "en": "Tai Chi Chasers",
+    "jp": "Taichi Senjimon"
+  },
+  "releasedAt": "2007-04-29T00:00:00.000Z",
+  "finishedAt": "2008-01-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5012/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [
+    "http://www.hulu.com/tai-chi-chasers"
+  ],
+  "relations": {
+    "kitsu": "5012",
+    "anidb": "9320",
+    "anilist/anime": "7522",
+    "aozora": "6O3ps6xRGj",
+    "myanimelist/anime": "7522",
+    "thetvdb": "257321/1",
+    "thetvdb/series": "257321",
+    "trakt": "40109"
+  }
+}

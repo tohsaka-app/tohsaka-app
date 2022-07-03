@@ -1,0 +1,24 @@
+{
+  "slug": "kanojo-okarishimasu-collab-mini-animation",
+  "synopsis": "Short collab animations featuring the musical artists of the opening and ending songs of Kanojo, Okarishimasu.\n\nIncludes:\n• Kanojo, Okarishimasu × halca\n• Kanojo, Okarishimasu × the peggies",
+  "title": {
+    "en": "Kanojo, Okarishimasu Collab Mini Animation",
+    "jp": "Kanojo, Okarishimasu Collab Mini Animation"
+  },
+  "releasedAt": "2020-08-21T00:00:00.000Z",
+  "finishedAt": "2020-08-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45075/original.png",
+  "categories": [
+    "comedy",
+    "slice of life",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45075",
+    "anilist/anime": "123464"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "burutabu-chan",
+  "synopsis": "Burutabu-chan is a series of animated shorts that follow the exploits of Burutabu, a genie who constantly finds himself creating bizarre scenarios with his own excrement.",
+  "title": {
+    "jp": "Burutabu-chan"
+  },
+  "releasedAt": "1994-01-01T00:00:00.000Z",
+  "finishedAt": "1994-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12335/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12335",
+    "aozora": "apaWoIOZnD",
+    "myanimelist/anime": "32237"
+  }
+}

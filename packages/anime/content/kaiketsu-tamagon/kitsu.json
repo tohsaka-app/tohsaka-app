@@ -1,0 +1,26 @@
+{
+  "slug": "kaiketsu-tamagon",
+  "synopsis": "Tamagon is a cute monster who is fond of eggs. He acts as a counselor to those in trouble, asking only eggs in payment. He goes to work as soon as he has eaten his fee. However, despite his schemes, his service usually ends in total failure and he winds up being chased by his irate clients. Short as it is, this program is full of laughs and lively humour. \n(Source: AniDB)",
+  "title": {
+    "jp": "Kaiketsu Tamagon"
+  },
+  "releasedAt": "1972-10-05T00:00:00.000Z",
+  "finishedAt": "1973-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7790/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7790",
+    "anidb": "2986",
+    "anilist/anime": "19087",
+    "aozora": "GA0tDOaTdq",
+    "myanimelist/anime": "19087"
+  }
+}

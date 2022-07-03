@@ -1,0 +1,25 @@
+{
+  "slug": "gekiyaba-bokkan",
+  "synopsis": "Music video directed by Toshitaka Shinoda and Takashi Ohashi for the single Gekiyaba∞Bokkan!! by Moso Calibration. It features a blend of live action, 2D, and 3D animation. The song was featured as the second ending for Time Bokan 24.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Gekiyaba∞Bokkan!!"
+  },
+  "releasedAt": "2017-02-20T00:00:00.000Z",
+  "finishedAt": "2017-02-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45463/poster_image/3c4f73a8b45a4b717bfb456dd9f2e58f.png",
+  "categories": [
+    "action",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=jhNzkspyepQ"
+  ],
+  "relations": {
+    "kitsu": "45463",
+    "anilist/anime": "112126",
+    "myanimelist/anime": "39707"
+  }
+}

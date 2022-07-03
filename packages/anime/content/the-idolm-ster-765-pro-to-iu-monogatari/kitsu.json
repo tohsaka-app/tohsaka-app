@@ -1,0 +1,25 @@
+{
+  "slug": "the-idolm-ster-765-pro-to-iu-monogatari",
+  "synopsis": "An unaired episode included with the volume 9 Blu-ray.",
+  "title": {
+    "jp": "The iDOLM@STER: 765 Pro to Iu Monogatari"
+  },
+  "releasedAt": "2012-06-28T00:00:00.000Z",
+  "finishedAt": "2012-06-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6627/original.png",
+  "categories": [
+    "comedy",
+    "drama",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6627",
+    "anilist/anime": "11889",
+    "aozora": "oxCXYfulse",
+    "myanimelist/anime": "11889"
+  }
+}

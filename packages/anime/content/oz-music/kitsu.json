@@ -1,0 +1,24 @@
+{
+  "slug": "oz-music",
+  "synopsis": "The music video for the song Oz. by yama. The music video mostly features scenes not seen in the anime's first ending sequence.\n\nNote: This song, and parts of this music video, was originally used as the first ending theme in Ousama Ranking.",
+  "title": {
+    "en": "Oz.",
+    "jp": "Oz."
+  },
+  "releasedAt": "2021-10-22T00:00:00.000Z",
+  "finishedAt": "2021-10-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45943/poster_image/7677bc8d01a36ff6c20ec3a86eae9fac.png",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45943",
+    "anilist/anime": "145893",
+    "myanimelist/anime": "50324"
+  }
+}

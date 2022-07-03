@@ -1,0 +1,32 @@
+{
+  "slug": "wooser-no-sono-higurashi-kakusei-hen",
+  "synopsis": "Second season of Wooser no Sono Higurashi.",
+  "title": {
+    "en": "Wooser's Hand-to-Mouth Life: Awakening Arc",
+    "jp": "Wooser no Sono Higurashi: Kakusei-hen"
+  },
+  "releasedAt": "2014-01-08T00:00:00.000Z",
+  "finishedAt": "2014-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7979/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "fantasy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7979",
+    "anidb": "10038",
+    "anilist/anime": "20267",
+    "aozora": "eqlw7i00yV",
+    "myanimelist/anime": "20267",
+    "thetvdb": "263851/2",
+    "thetvdb/season": "568285",
+    "thetvdb/series": "263851",
+    "trakt": "68498"
+  }
+}

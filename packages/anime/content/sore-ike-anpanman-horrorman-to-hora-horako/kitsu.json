@@ -1,0 +1,27 @@
+{
+  "slug": "sore-ike-anpanman-horrorman-to-hora-horako",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Horrorman to Hora Horako"
+  },
+  "releasedAt": "2007-07-14T00:00:00.000Z",
+  "finishedAt": "2007-07-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9047/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9047",
+    "anidb": "7743",
+    "anilist/anime": "121826",
+    "aozora": "yB0DN7zuhN",
+    "myanimelist/anime": "21953"
+  }
+}

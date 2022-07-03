@@ -1,0 +1,34 @@
+{
+  "slug": "inazuma-eleven",
+  "synopsis": "While other schools in Japan compete for the title of being the best soccer team in the country, Raimon Middle School's soccer club, Inazuma Eleven, struggles to rise from the verge of being disbanded. The grandson of Inazuma Eleven's first generation goalkeeper and captain of the team, Mamoru Endou, takes the challenge of kicking the long neglected club back into shape. To do this, he'll need a little help and more than a little luck.\nMamoru Endou finds hope in the hands of Shuuya Gouenji, a brilliant young player who has given up on soccer. Mamoru is determined to get Shuuya and other new recruits to join his team, no matter what the cost. Is his passion and determination enough to treat the ailing club? Or is there no more hope for the team?",
+  "title": {
+    "jp": "Inazuma Eleven"
+  },
+  "releasedAt": "2008-10-05T00:00:00.000Z",
+  "finishedAt": "2011-04-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4000/original.jpg",
+  "categories": [
+    "earth",
+    "japan",
+    "school clubs",
+    "soccer",
+    "sports",
+    "stereotypes",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4000",
+    "anidb": "6143",
+    "anilist/anime": "5231",
+    "aozora": "4TeTg9fJYv",
+    "myanimelist/anime": "5231",
+    "thetvdb": "146401/1",
+    "thetvdb/season": "205041",
+    "thetvdb/series": "146401",
+    "trakt": "61993"
+  }
+}

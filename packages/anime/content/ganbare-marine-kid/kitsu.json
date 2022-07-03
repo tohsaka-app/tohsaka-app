@@ -1,0 +1,29 @@
+{
+  "slug": "ganbare-marine-kid",
+  "synopsis": "An expansion of the original Dolphin Ouji series.  Character names were altered, (changing 'Dolphin Prince' to 'Marine Kid' and 'Neptuna' to 'Neptina'), characters were added and concepts expanded. In order to distance the new series from the original trial episodes, the series was re-titled Ganbare! Marine Kid.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Ganbare! Marine Kid"
+  },
+  "releasedAt": "1966-10-06T00:00:00.000Z",
+  "finishedAt": "1966-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5524/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5524",
+    "anidb": "5167",
+    "anilist/anime": "8897",
+    "aozora": "oRlXyMIZh4",
+    "myanimelist/anime": "8897",
+    "thetvdb": "77775",
+    "trakt": "9235"
+  }
+}

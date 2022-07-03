@@ -1,0 +1,22 @@
+{
+  "slug": "ed-to-lilly",
+  "synopsis": "Graduation work of Sawako Nakagawa and Yoshino Kosaka at Kyoto Seika University.",
+  "title": {
+    "en": "Ed to Lilly",
+    "jp": "Ed to Lilly"
+  },
+  "releasedAt": "2021-03-19T00:00:00.000Z",
+  "finishedAt": "2021-03-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45935/poster_image/be4320ee376bd0faba85217ceaee9118.png",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45935",
+    "anilist/anime": "145847"
+  }
+}

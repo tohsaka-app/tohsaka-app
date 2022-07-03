@@ -1,0 +1,36 @@
+{
+  "slug": "high-school-dxd-new-ova",
+  "synopsis": "Unaired anime episode bundled with the limited edition of High School DxD DX.1.",
+  "title": {
+    "jp": "High School DxD New: Oppai, Tsutsumimasu!"
+  },
+  "releasedAt": "2015-03-10T00:00:00.000Z",
+  "finishedAt": "2015-03-10T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10744/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10744/original.jpg",
+  "categories": [
+    "angel",
+    "comedy",
+    "demon",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "romance",
+    "school life",
+    "super power"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/high-school-dxd/videos/episodes",
+    "http://www.hulu.com/high-school-dxd"
+  ],
+  "relations": {
+    "kitsu": "10744",
+    "anidb": "11184",
+    "anilist/anime": "21103",
+    "aozora": "vVreG98hgV",
+    "myanimelist/anime": "30300"
+  }
+}

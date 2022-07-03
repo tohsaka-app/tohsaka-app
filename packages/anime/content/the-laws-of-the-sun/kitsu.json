@@ -1,0 +1,26 @@
+{
+  "slug": "the-laws-of-the-sun",
+  "synopsis": "The second title in the series of anime films by the Happy Science religion.",
+  "title": {
+    "en": "The Laws of the Sun",
+    "jp": "Taiyou no Hou: El Cantare e no Michi"
+  },
+  "releasedAt": "2000-10-28T00:00:00.000Z",
+  "finishedAt": "2000-10-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5170/original.jpg",
+  "categories": [
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5170",
+    "anidb": "4276",
+    "anilist/anime": "7985",
+    "aozora": "NnoDbhSewF",
+    "myanimelist/anime": "7985"
+  }
+}

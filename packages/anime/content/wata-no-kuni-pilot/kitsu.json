@@ -1,0 +1,23 @@
+{
+  "slug": "wata-no-kuni-pilot",
+  "synopsis": "A pilot of Wata no Kuni Hoshi released only on the DVD of the film. It is entirely without dialogue.\n\n(Source: MAL)",
+  "title": {
+    "en": "Wata no Kuni Hoshi Pilot",
+    "jp": "Wata no Kuni Hoshi Pilot"
+  },
+  "releasedAt": "2007-06-20T00:00:00.000Z",
+  "finishedAt": "2007-06-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41048/original.jpeg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41048",
+    "anilist/anime": "101815",
+    "myanimelist/anime": "37387"
+  }
+}

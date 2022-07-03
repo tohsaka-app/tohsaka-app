@@ -1,0 +1,27 @@
+{
+  "slug": "the-boondocks",
+  "synopsis": "Based on the original comic strip Boondocks, Two young brothers (Huey and Riley) move away from their birth city to live with their irascible grandfather out in the suburbs. With one brother being socially and politically motivated and the younger brother a stereotypical black youth who likes rap music and its culture. Socio-political commentary ensues when they meet a whole cast of crazy exaggerated characters set in a mainly white middle upper class neighbourhood.",
+  "title": {
+    "en": "",
+    "jp": "The Boondocks"
+  },
+  "releasedAt": "2005-11-06T00:00:00.000Z",
+  "finishedAt": "2014-06-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7950/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7950/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7950",
+    "thetvdb": "74413/1",
+    "thetvdb/series": "74413"
+  }
+}

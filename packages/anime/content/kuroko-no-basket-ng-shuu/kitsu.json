@@ -1,0 +1,29 @@
+{
+  "slug": "kuroko-no-basket-ng-shuu",
+  "synopsis": "Animated bloopers, based on the extra section of the original manga series, included with the BD/DVD series for Kuroko no Basket (both limited and normal editions).",
+  "title": {
+    "en": "Kuroko's Basketball Specials",
+    "jp": "Kuroko no Basket NG-shuu"
+  },
+  "releasedAt": "2012-07-27T00:00:00.000Z",
+  "finishedAt": "2013-03-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7262/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7262/original.jpg",
+  "categories": [
+    "basketball",
+    "comedy",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7262",
+    "anilist/anime": "15487",
+    "aozora": "rLJccyLXS4",
+    "myanimelist/anime": "15487"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "xixing-ji-zhi-zaijian-wukong",
+  "synopsis": null,
+  "title": {
+    "en": "The Westward"
+  },
+  "releasedAt": "2020-05-04T00:00:00.000Z",
+  "finishedAt": "2020-05-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44089/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44089",
+    "anilist/anime": "121856",
+    "myanimelist/anime": "42209"
+  }
+}

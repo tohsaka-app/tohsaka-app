@@ -1,0 +1,24 @@
+{
+  "slug": "takamiya-nasuno-desu-teekyuu-spin-off-special",
+  "synopsis": "Unaired special included in the Blu-ray and DVD release.",
+  "title": {
+    "jp": "Takamiya Nasuno Desu!: Teekyuu Spin-off Special"
+  },
+  "releasedAt": "2015-08-28T00:00:00.000Z",
+  "finishedAt": "2015-08-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11443/original.png",
+  "categories": [
+    "comedy",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11443",
+    "anilist/anime": "21436",
+    "aozora": "Is7bf3RnF0",
+    "myanimelist/anime": "31669"
+  }
+}

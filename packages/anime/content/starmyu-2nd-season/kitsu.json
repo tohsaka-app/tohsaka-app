@@ -1,0 +1,29 @@
+{
+  "slug": "starmyu-2nd-season",
+  "synopsis": "Second season of the Starmyu television series. ",
+  "title": {
+    "jp": "Starmyu 2nd Season"
+  },
+  "releasedAt": "2017-04-04T00:00:00.000Z",
+  "finishedAt": "2017-06-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12241/original.jpg",
+  "categories": [
+    "music",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/starmyu-season-2"
+  ],
+  "relations": {
+    "kitsu": "12241",
+    "anidb": "12141",
+    "anilist/anime": "97820",
+    "aozora": "C29prgY5jG",
+    "myanimelist/anime": "33362",
+    "thetvdb": "299742/2"
+  }
+}

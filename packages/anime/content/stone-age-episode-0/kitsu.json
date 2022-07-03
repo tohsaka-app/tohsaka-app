@@ -1,0 +1,23 @@
+{
+  "slug": "stone-age-episode-0",
+  "synopsis": "The introductory episode of Stone Age before its formal TV broadcast started two months later.\n",
+  "title": {
+    "en": "Stone Age Episode 0",
+    "jp": "Stone Age Episode 0"
+  },
+  "releasedAt": "2017-05-02T00:00:00.000Z",
+  "finishedAt": "2017-05-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40572/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40572",
+    "myanimelist/anime": "36656"
+  }
+}

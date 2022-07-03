@@ -1,0 +1,20 @@
+{
+  "slug": "ohanashi-de-te-koi",
+  "synopsis": "An anime adaptation of NHK Radio two children's folktales that were broadcasted in 1954.",
+  "title": {
+    "jp": "Ohanashi de Te Koi"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40684/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40684",
+    "aozora": "t2FaKqw9x0",
+    "myanimelist/anime": "35061"
+  }
+}

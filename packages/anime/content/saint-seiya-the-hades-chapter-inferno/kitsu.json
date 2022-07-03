@@ -1,0 +1,42 @@
+{
+  "slug": "saint-seiya-the-hades-chapter-inferno",
+  "synopsis": "Seiya and the rest of the Bronze and Gold Saints who have survived the Sanctuary battle have entered the world of the Dead. They are fighting to get to Hades and defeat him. \n(Source: ANN)",
+  "title": {
+    "en": "Saint Seiya: The Hades Chapter - Inferno",
+    "jp": "Saint Seiya: Meiou Hades Meikai-hen"
+  },
+  "releasedAt": "2005-12-17T00:00:00.000Z",
+  "finishedAt": "2007-02-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1128/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1128/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "deity",
+    "demon",
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "henshin",
+    "plot continuity",
+    "present",
+    "science fiction",
+    "shounen",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "t"
+  ],
+  "relations": {
+    "kitsu": "1128",
+    "anidb": "3705",
+    "anilist/anime": "1253",
+    "aozora": "xCGL5AyefV",
+    "myanimelist/anime": "1253"
+  }
+}

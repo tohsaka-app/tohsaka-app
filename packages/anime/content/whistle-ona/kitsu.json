@@ -1,0 +1,24 @@
+{
+  "slug": "whistle-ona",
+  "synopsis": "An adaption of the manga Whistle! which is to stream in 2017.",
+  "title": {
+    "en": "Whistle!",
+    "jp": "Whistle! (ONA)"
+  },
+  "releasedAt": "2016-12-17T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12595/original.jpg",
+  "categories": [
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12595",
+    "aozora": "t6zLTfDVLX",
+    "myanimelist/anime": "34022"
+  }
+}

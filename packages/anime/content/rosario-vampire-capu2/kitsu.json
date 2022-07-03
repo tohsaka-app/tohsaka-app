@@ -1,0 +1,45 @@
+{
+  "slug": "rosario-vampire-capu2",
+  "synopsis": "A year has passed since Tsukune was sent to the Youkai academy. Tsukune has gotten used to life there, or so he thought. As a second year, he and the girls are looked up to by the juniors. On the first day back to school, a sudden encounter with Shuzen Kokoa, takes a turn for the worst. What Adventures or should we say, misadventures await our human, vampire and friends?",
+  "title": {
+    "en": "Rosario + Vampire Capu2",
+    "jp": "Rosario to Vampire Capu2"
+  },
+  "releasedAt": "2008-10-02T00:00:00.000Z",
+  "finishedAt": "2008-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3529/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3529/original.png",
+  "categories": [
+    "comedy",
+    "demon",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "high school",
+    "japan",
+    "love polygon",
+    "present",
+    "romance",
+    "school life",
+    "slapstick",
+    "slow when it comes to love",
+    "stereotypes",
+    "super power",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3529",
+    "anidb": "5873",
+    "anilist/anime": "4214",
+    "aozora": "M1WspQJAut",
+    "myanimelist/anime": "4214",
+    "thetvdb": "81184/2",
+    "thetvdb/season": "35961",
+    "thetvdb/series": "81184",
+    "trakt": "36826"
+  }
+}

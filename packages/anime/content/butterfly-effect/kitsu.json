@@ -1,0 +1,20 @@
+{
+  "slug": "butterfly-effect",
+  "synopsis": "",
+  "title": {
+    "jp": "Butterfly Effect"
+  },
+  "releasedAt": "2011-03-29T00:00:00.000Z",
+  "finishedAt": "2011-03-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13285/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13285"
+  }
+}

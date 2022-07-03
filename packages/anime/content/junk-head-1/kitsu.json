@@ -1,0 +1,23 @@
+{
+  "slug": "junk-head-1",
+  "synopsis": "In the distant future, mankind begins research on clones that live underground in search of lost genetic information. [Imdb]",
+  "title": {
+    "en": "Junk Head 1",
+    "jp": "Junk Head 1"
+  },
+  "releasedAt": "2013-11-16T00:00:00.000Z",
+  "finishedAt": "2013-11-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45342/poster_image/7cfdbc492f646c3eee874a624644e16a.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45342",
+    "anilist/anime": "110214",
+    "myanimelist/anime": "49478"
+  }
+}

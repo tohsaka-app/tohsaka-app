@@ -1,0 +1,25 @@
+{
+  "slug": "bakemonogatari-pv",
+  "synopsis": "A promotional video coinciding with the release of the sixteenth Bakemonogatari manga volume.\n\nNote: Initially shown off at the Ito Oogure's \"Oh! Great Exhibition\" in 2021.",
+  "title": {
+    "en": "Bakemonogatari PV",
+    "jp": "Bakemonogatari PV"
+  },
+  "releasedAt": "2022-02-17T00:00:00.000Z",
+  "finishedAt": "2022-02-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45896/poster_image/d5bee559c4e8d990e14fd8047fe1949e.png",
+  "categories": [
+    "mystery",
+    "romance",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45896",
+    "anilist/anime": "143663",
+    "myanimelist/anime": "51068"
+  }
+}

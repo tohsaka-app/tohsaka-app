@@ -1,0 +1,35 @@
+{
+  "slug": "nisekoi-ova",
+  "synopsis": "Episodes released on DVDs bundled with the 14th, 16th, and 17th volumes of the Nisekoi manga.",
+  "title": {
+    "jp": "Nisekoi OVA"
+  },
+  "releasedAt": "2014-10-03T00:00:00.000Z",
+  "finishedAt": "2015-04-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8490/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8490/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "harem",
+    "japan",
+    "love polygon",
+    "present",
+    "romance",
+    "school life",
+    "shounen",
+    "slow when it comes to love"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8490",
+    "anidb": "10638",
+    "anilist/anime": "20728",
+    "aozora": "wvEm2THo4u",
+    "myanimelist/anime": "24227"
+  }
+}

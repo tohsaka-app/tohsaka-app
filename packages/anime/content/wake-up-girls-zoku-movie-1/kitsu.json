@@ -1,0 +1,27 @@
+{
+  "slug": "wake-up-girls-zoku-movie-1",
+  "synopsis": "Movie sequel of Wake Up, Girls!, announced at Wake Up, Girls! Festa.2014 Winter.",
+  "title": {
+    "jp": "Wake Up, Girls! Seishun no Kage"
+  },
+  "releasedAt": "2015-09-25T00:00:00.000Z",
+  "finishedAt": "2015-09-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10068/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10068/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10068",
+    "anidb": "10977",
+    "anilist/anime": "20989",
+    "aozora": "7yNKcabFGv",
+    "myanimelist/anime": "28841"
+  }
+}

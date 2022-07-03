@@ -1,0 +1,22 @@
+{
+  "slug": "tephlon-funk-anime-teaser",
+  "synopsis": "Anime Teaser for the OEL manga Tephlon Funk.",
+  "title": {},
+  "releasedAt": "2017-07-27T00:00:00.000Z",
+  "finishedAt": "2017-07-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42236/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42236/original.jpg",
+  "categories": [
+    "anime influenced",
+    "drama",
+    "new york",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42236"
+  }
+}

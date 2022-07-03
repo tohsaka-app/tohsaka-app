@@ -1,0 +1,28 @@
+{
+  "slug": "shimajirou-to-ehon-no-kuni",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Shimajirou to Ehon no Kuni"
+  },
+  "releasedAt": "2016-03-11T00:00:00.000Z",
+  "finishedAt": "2016-03-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12415/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12415",
+    "anidb": "11757",
+    "anilist/anime": "131641",
+    "aozora": "hcHzfIWV9P",
+    "myanimelist/anime": "32014"
+  }
+}

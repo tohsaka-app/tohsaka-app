@@ -1,0 +1,23 @@
+{
+  "slug": "luigi-s-toy-adventure",
+  "synopsis": "A stop-motion short from Bandai, promoting the line of Super Mario Figuarts.",
+  "title": {
+    "jp": "Luigi's Toy Adventure"
+  },
+  "releasedAt": "2014-12-02T00:00:00.000Z",
+  "finishedAt": "2014-12-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10122/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10122",
+    "anilist/anime": "103364",
+    "aozora": "ZxXtSsD9qA",
+    "myanimelist/anime": "28717"
+  }
+}

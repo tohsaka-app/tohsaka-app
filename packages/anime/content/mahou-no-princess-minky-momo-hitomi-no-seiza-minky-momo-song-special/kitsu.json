@@ -1,0 +1,25 @@
+{
+  "slug": "mahou-no-princess-minky-momo-hitomi-no-seiza-minky-momo-song-special",
+  "synopsis": "This music video features full versions of 9 songs from the series' OST.",
+  "title": {
+    "jp": "Mahou no Princess Minky Momo: Hitomi no Seiza - Minky Momo Song Special"
+  },
+  "releasedAt": "1987-01-21T00:00:00.000Z",
+  "finishedAt": "1987-01-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9118/original.jpg",
+  "categories": [
+    "magic",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9118",
+    "anidb": "9833",
+    "anilist/anime": "104148",
+    "aozora": "Tohtg2VkSM",
+    "myanimelist/anime": "23129"
+  }
+}

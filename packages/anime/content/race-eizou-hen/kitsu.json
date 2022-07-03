@@ -1,0 +1,22 @@
+{
+  "slug": "race-eizou-hen",
+  "synopsis": "Advertisements for JRA-VAN's racehorse software.",
+  "title": {
+    "jp": "Race Eizou-hen"
+  },
+  "releasedAt": "2014-05-07T00:00:00.000Z",
+  "finishedAt": "2015-06-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42818/original.jpg",
+  "categories": [
+    "music",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42818",
+    "myanimelist/anime": "38800"
+  }
+}

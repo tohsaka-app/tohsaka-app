@@ -1,0 +1,27 @@
+{
+  "slug": "ok-ko-let-s-be-heroes-season-3",
+  "synopsis": "Season 3 of OK K.O.! Let's Be Heroes.",
+  "title": {},
+  "releasedAt": "2019-07-07T00:00:00.000Z",
+  "finishedAt": "2017-08-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42418/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42418/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "friendship",
+    "kids",
+    "robot",
+    "super power",
+    "superhero",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42418"
+  }
+}

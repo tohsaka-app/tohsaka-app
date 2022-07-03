@@ -1,0 +1,29 @@
+{
+  "slug": "yatterman-2008",
+  "synopsis": "Remake of the Yatterman series.",
+  "title": {
+    "jp": "Yatterman"
+  },
+  "releasedAt": "2008-01-14T00:00:00.000Z",
+  "finishedAt": "2009-05-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2915/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2915",
+    "anidb": "5522",
+    "anilist/anime": "3295",
+    "aozora": "6BSxKhXs4g",
+    "myanimelist/anime": "3295",
+    "thetvdb": "284587/1",
+    "thetvdb/series": "284587",
+    "trakt": "65745"
+  }
+}

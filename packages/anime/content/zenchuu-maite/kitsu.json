@@ -1,0 +1,24 @@
+{
+  "slug": "zenchuu-maite",
+  "synopsis": "Based on a poem by Kenji Miyazawa.\nA worm in this river looks shiny to me.\n8  γ  e  6  α\n(Source: Official website)",
+  "title": {
+    "en": "Dancer of Vermicular",
+    "jp": "Zenchuu Maite"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10722/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10722",
+    "anilist/anime": "103434",
+    "aozora": "E1hqxUoxQX",
+    "myanimelist/anime": "30211"
+  }
+}

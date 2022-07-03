@@ -1,0 +1,46 @@
+{
+  "slug": "chaos-head",
+  "synopsis": "Shibuya, Japan, 2008. Takumi Nishijou, a high school student at the Private Suimei Academy, one day hears about the 'New Gen' murders that have been occurring around the city. Although dismissing the subject because it doesn't involve him, Takumi begins to experience strange mishaps around him, from a horrific picture he received while on his PC, to a mysterious Pink-Haired girl standing at a murder scene.\nFrom there on Takumi struggles to cope with the events unfolding around him, and is soon unaware of what is real or a delusion. As his fate opens up before him, the perpetrator behind the 'New Gen' events attempts to find him, leading him into a world where nothing is as it seems.",
+  "title": {
+    "en": "ChäoS;HEAd",
+    "jp": "ChäoS;HEAd"
+  },
+  "releasedAt": "2008-10-09T00:00:00.000Z",
+  "finishedAt": "2008-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3871/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3871/original.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "detective",
+    "earth",
+    "harem",
+    "horror",
+    "japan",
+    "mystery",
+    "psychological",
+    "school life",
+    "science fiction",
+    "slice of life",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/chaoshead",
+    "https://www.funimation.com/shows/chaoshead/"
+  ],
+  "relations": {
+    "kitsu": "3871",
+    "anidb": "6088",
+    "anilist/anime": "4975",
+    "aozora": "qn1Q7Urnev",
+    "hulu": "50005294",
+    "myanimelist/anime": "4975",
+    "thetvdb": "83358/1",
+    "thetvdb/series": "83358",
+    "trakt": "56630"
+  }
+}

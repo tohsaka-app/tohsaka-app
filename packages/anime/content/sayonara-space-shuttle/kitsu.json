@@ -1,0 +1,24 @@
+{
+  "slug": "sayonara-space-shuttle",
+  "synopsis": "A music video for Phatmans After School's song \"Sayonara Space Shuttle\".",
+  "title": {
+    "jp": "Sayonara Space Shuttle"
+  },
+  "releasedAt": "2014-11-14T00:00:00.000Z",
+  "finishedAt": "2014-11-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12219/original.jpg",
+  "categories": [
+    "music",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12219",
+    "anilist/anime": "103794",
+    "aozora": "VbrUESpHxa",
+    "myanimelist/anime": "32856"
+  }
+}

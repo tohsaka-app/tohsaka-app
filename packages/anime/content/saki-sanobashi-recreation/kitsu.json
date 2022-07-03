@@ -1,0 +1,27 @@
+{
+  "slug": "saki-sanobashi-recreation",
+  "synopsis": "This is a fan recreation of a supposedly lost anime. No such anime is known to exist and the only \"proof\" is an old online post detailing what they remember seeing.\n\nSaki Sanobashi is a supposedly lost horror anime about the violent deaths of girls trapped in a bathroom.",
+  "title": {
+    "en": "Go for a Punch Recreation",
+    "jp": "Saki Sanobashi Recreation"
+  },
+  "releasedAt": "2021-02-28T00:00:00.000Z",
+  "finishedAt": "2021-02-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45688/poster_image/edea4e322a6f48a4412fd3a7a266a23e.png",
+  "coverUrl": "https://media.kitsu.io/anime/45688/cover_image/7bb159573cf6a7808ce05719dc402d58.png",
+  "categories": [
+    "anime influenced",
+    "female student",
+    "horror",
+    "violence"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Zo74aqpHY4s"
+  ],
+  "relations": {
+    "kitsu": "45688"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "teekyuu-5-specials",
+  "synopsis": "Unaired specials included in the Blu-ray and DVD release.",
+  "title": {
+    "jp": "Teekyuu 5 Specials"
+  },
+  "releasedAt": "2015-11-27T00:00:00.000Z",
+  "finishedAt": "2015-11-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11444/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11444",
+    "anilist/anime": "21437",
+    "aozora": "fppOzYQx3N",
+    "myanimelist/anime": "31668"
+  }
+}

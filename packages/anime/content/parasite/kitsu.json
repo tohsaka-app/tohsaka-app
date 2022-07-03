@@ -1,0 +1,25 @@
+{
+  "slug": "parasite",
+  "synopsis": "Music video directed by 1024 for the song Parasite by DECO*27 featuring vocals by Hatsune Miku.",
+  "title": {
+    "en": "Parasite",
+    "jp": "Parasite"
+  },
+  "releasedAt": "2022-02-07T00:00:00.000Z",
+  "finishedAt": "2022-02-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45853/poster_image/ca81f6c3942279ce15f017f9ef0fae04.png",
+  "categories": [
+    "music",
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/agcoHM2CJ3s"
+  ],
+  "relations": {
+    "kitsu": "45853",
+    "anilist/anime": "144991"
+  }
+}

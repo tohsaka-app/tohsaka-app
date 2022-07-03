@@ -1,0 +1,29 @@
+{
+  "slug": "hakata-tonkotsu-ramens",
+  "synopsis": "\"There is a person you desperately want to kill. Now, how do you kill that person?\" At a glance, Fukuoka seems like a peaceful town, but crime runs rampant behind the scenes. It's now a battleground for professional killers, with urban legends suggesting that there's even one who specializes in killing professional killers. Assassins, detectives, revenge seekers, informants, torture specialists... When stories are told of these and other professionals of the underground, a \"killer of professional killers\" appears...\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Hakata Tonkotsu Ramens",
+    "jp": "Hakata Tonkotsu Ramens"
+  },
+  "releasedAt": "2018-01-12T00:00:00.000Z",
+  "finishedAt": "2018-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14024/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14024/original.jpg",
+  "categories": [
+    "action",
+    "assassin"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/hakata-tonkotsu-ramens"
+  ],
+  "relations": {
+    "kitsu": "14024",
+    "anilist/anime": "99483",
+    "aozora": "FHXwsjEs33",
+    "myanimelist/anime": "35889",
+    "thetvdb": "337617/1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-pikachu-no-natsumatsuri",
+  "synopsis": "Summer has arrived, and many Pokemon have set up shops for a summer festival on the beach. Soon the gang will be blessed by a special performance from the pop idol Azumarill, but upon her arrival, she's kidnapped by the flying Pokemon Skarmory! Pikachu, along with Plusle, Minun, Meowth, Wobbuffet and a number of other Pokemon must now track down the singing beauty; the show must go on!\n(Source: Anime-Planet)",
+  "title": {
+    "en": "Pokemon: Pikachu's Summer Festival!",
+    "jp": "Pokemon: Pikachu no Natsumatsuri"
+  },
+  "releasedAt": "2004-08-01T00:00:00.000Z",
+  "finishedAt": "2004-08-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4302/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4302",
+    "anidb": "3510",
+    "anilist/anime": "5845",
+    "aozora": "PydpcUW3KR",
+    "myanimelist/anime": "5845"
+  }
+}

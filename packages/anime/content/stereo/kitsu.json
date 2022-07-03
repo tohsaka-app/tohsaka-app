@@ -1,0 +1,19 @@
+{
+  "slug": "stereo",
+  "synopsis": "Official lyric video for ohashiTrio's song Stereo. It features abstract art as if displayed on a old stereo's screen, along with the lyrics of the song. \n\nThe song itself was released two weeks prior on an album of the same name.",
+  "title": {
+    "en": "STEREO",
+    "jp": "Stereo"
+  },
+  "releasedAt": "2018-02-28T00:00:00.000Z",
+  "finishedAt": "2018-02-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41132/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41132"
+  }
+}

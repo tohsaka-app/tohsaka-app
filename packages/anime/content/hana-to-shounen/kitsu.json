@@ -1,0 +1,26 @@
+{
+  "slug": "hana-to-shounen",
+  "synopsis": "Yuji and Koichi set off on a journey to find a rare bamboo flower for a school project. In the forest they encounter a legendary phoenix who asks for their help to save the forest.",
+  "title": {
+    "en": "The Flower and the Phoenix",
+    "jp": "Hana to Shounen"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9298/original.jpg",
+  "categories": [
+    "fantasy",
+    "friendship",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9298",
+    "anidb": "9054",
+    "aozora": "q7T78K7xGl",
+    "myanimelist/anime": "23709"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-pikachu-no-fushigi-na-fushigi-na-daibouken",
+  "synopsis": "While being let out to play by their trainers, Pikachu and Piplup wind up separated from their Pokémon friends and wind up travelling with a Skitty into a strange dimension, unknowingly followed by Croagunk, Team Rocket's Pokémon and a Marill that's desperate to have someone hear her sing... \n(Source: Bulbapedia)",
+  "title": {
+    "en": "Pokemon: Pikachu's Big Mysterious Adventure",
+    "jp": "Pokemon: Pikachu no Fushigi na Fushigi na Daibouken"
+  },
+  "releasedAt": "2010-08-01T00:00:00.000Z",
+  "finishedAt": "2010-08-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6451/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6451",
+    "anidb": "8139",
+    "anilist/anime": "11069",
+    "aozora": "OQQvX1gE7Q",
+    "myanimelist/anime": "11069"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "paperman",
+  "synopsis": "Within the <i>Paperman</i> game, glimpses of an anime were shown.   \nSeveral years later after a mobile version of the game was released, a special promotion was created where players can follow a link within the mobile game to take them to a special website where they could purchase a full 6 minute remake of the anime to view.",
+  "title": {
+    "jp": "Paperman"
+  },
+  "releasedAt": "2011-08-17T00:00:00.000Z",
+  "finishedAt": "2011-08-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40783/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40783",
+    "aozora": "ErlvRg7C8p",
+    "myanimelist/anime": "35527"
+  }
+}

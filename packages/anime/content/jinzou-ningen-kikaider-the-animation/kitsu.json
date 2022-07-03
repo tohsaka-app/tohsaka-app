@@ -1,0 +1,31 @@
+{
+  "slug": "jinzou-ningen-kikaider-the-animation",
+  "synopsis": "The genius robotics professor, Dr. Komyoji has created Jiro (who has the ability to transform into Kikaider) – a humanoid robot tasked with the protection of Dr. Komyoji’s son, Masaru, and daughter, Mitsuko. Gifted with a conscience circuit, which has the power to simulate real emotions that helps to distinguish between “right and wrong”, Jiro must protect Mitsuko and Masaru from the evil Dr. Gil who wants Jiro to join his army and aid in his goal of world domination.\n(Source: ANN)",
+  "title": {
+    "en": "Android Kikaider",
+    "jp": "Jinzou Ningen Kikaider The Animation"
+  },
+  "releasedAt": "2000-10-16T00:00:00.000Z",
+  "finishedAt": "2001-01-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/553/original.jpg",
+  "categories": [
+    "action",
+    "android",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "553",
+    "anidb": "980",
+    "anilist/anime": "598",
+    "aozora": "dvViJ1Qt1W",
+    "myanimelist/anime": "598",
+    "thetvdb": "74304/1",
+    "thetvdb/series": "74304",
+    "trakt": "20008"
+  }
+}

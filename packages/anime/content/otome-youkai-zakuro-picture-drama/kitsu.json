@@ -1,0 +1,27 @@
+{
+  "slug": "otome-youkai-zakuro-picture-drama",
+  "synopsis": "Picture dramas included with the first and third limited edition DVD volumes.",
+  "title": {
+    "jp": "Otome Youkai Zakuro Picture Drama"
+  },
+  "releasedAt": "2010-11-24T00:00:00.000Z",
+  "finishedAt": "2011-01-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6066/original.jpg",
+  "categories": [
+    "demon",
+    "fantasy",
+    "friendship",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6066",
+    "anilist/anime": "10180",
+    "aozora": "OCIfWssEEb",
+    "myanimelist/anime": "10180"
+  }
+}

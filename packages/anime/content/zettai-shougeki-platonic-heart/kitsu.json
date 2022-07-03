@@ -1,0 +1,34 @@
+{
+  "slug": "zettai-shougeki-platonic-heart",
+  "synopsis": "The story centers on the Platonic Heart, a jewel that—according to an old urban legend—can grant any wish when collected. Only a chosen few are allowed to compete in the Platonic Heart hunt, and high school junior Aya Iseshima is one of 11 girls and women who are taking part.",
+  "title": {
+    "en": "Master of Martial Hearts",
+    "jp": "Zettai Shougeki: Platonic Heart"
+  },
+  "releasedAt": "2008-10-29T00:00:00.000Z",
+  "finishedAt": "2009-02-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3886/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3886/original.jpg",
+  "categories": [
+    "action",
+    "ecchi",
+    "female student",
+    "martial arts",
+    "present",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/master-of-martial-hearts",
+    "https://www.funimation.com/shows/master-of-martial-hearts/"
+  ],
+  "relations": {
+    "kitsu": "3886",
+    "anidb": "6045",
+    "anilist/anime": "5020",
+    "aozora": "bKJQtCcdXh",
+    "myanimelist/anime": "5020"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "bouen-no-march",
+  "synopsis": "Music video directed by YP for the single Bouen no March by BUMP OF CHICKEN.",
+  "title": {
+    "jp": "Bouen no March"
+  },
+  "releasedAt": "2018-09-23T00:00:00.000Z",
+  "finishedAt": "2018-09-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42787/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42787",
+    "anilist/anime": "110490",
+    "myanimelist/anime": "38974"
+  }
+}

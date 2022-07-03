@@ -1,0 +1,35 @@
+{
+  "slug": "grand-blue",
+  "synopsis": "After moving out on his own to a seaside town, Iori Kitahara makes a college debut he never anticipated. A new chapter of his life unfolds, full of diving with beautiful girls and shenanigans with a gaggle of lovable bastards! Idiot-expert Kenji Inoue and au naturel authority Kimitake Yoshioka bring you a glorious college tale filled with booze-fueled antics!\n\n(Source: Kodansha Comics)",
+  "title": {
+    "en": "Grand Blue Dreaming",
+    "jp": "Grand Blue"
+  },
+  "releasedAt": "2018-07-14T00:00:00.000Z",
+  "finishedAt": "2018-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14190/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14190/original.png",
+  "categories": [
+    "comedy",
+    "japan",
+    "romance",
+    "school clubs",
+    "slice of life",
+    "sports",
+    "summer",
+    "university"
+  ],
+  "externals": [
+    "https://www.amazon.com/Deep-Blue/dp/B07FFVCQMG/"
+  ],
+  "relations": {
+    "kitsu": "14190",
+    "anidb": "13734",
+    "anilist/anime": "100922",
+    "myanimelist/anime": "37105",
+    "thetvdb": "343913/1"
+  }
+}

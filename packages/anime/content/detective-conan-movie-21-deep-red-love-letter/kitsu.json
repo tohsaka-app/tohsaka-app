@@ -1,0 +1,29 @@
+{
+  "slug": "detective-conan-movie-21-deep-red-love-letter",
+  "synopsis": "Movie 21 is about Heiji, Kazuha, and the new character Momiji.",
+  "title": {
+    "en": "Case Closed Movie 21: The Crimson Love Letter",
+    "jp": "Detective Conan Movie 21: The Crimson Love Letter"
+  },
+  "releasedAt": "2017-04-15T00:00:00.000Z",
+  "finishedAt": "2017-04-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12772/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "drama",
+    "historical",
+    "mystery",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12772",
+    "anilist/anime": "98222",
+    "aozora": "GHsvynACh5",
+    "myanimelist/anime": "34430"
+  }
+}

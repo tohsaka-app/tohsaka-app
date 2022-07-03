@@ -1,0 +1,30 @@
+{
+  "slug": "mobile-suit-sd-gundam-mk-iii",
+  "synopsis": "The SD Gundams in Warring States Era Japan.\n(Source: ANN)",
+  "title": {
+    "jp": "Mobile Suit SD Gundam Mk III"
+  },
+  "releasedAt": "1990-03-23T00:00:00.000Z",
+  "finishedAt": "1990-03-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2087/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "mecha",
+    "parody",
+    "robot",
+    "science fiction",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2087",
+    "anidb": "3060",
+    "anilist/anime": "2305",
+    "aozora": "40D7tYLURd",
+    "myanimelist/anime": "2305"
+  }
+}

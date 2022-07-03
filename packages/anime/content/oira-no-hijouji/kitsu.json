@@ -1,0 +1,21 @@
+{
+  "slug": "oira-no-hijouji",
+  "synopsis": "A country of peaceful frogs is attacked by a country of devils.   \nThe film is meant for crisis awareness as Japan was on the brink of war with China at the time. Unfortunately, both countries did end up going to war the following year; it was the <i>Second Sino-Japanese War</i>.",
+  "title": {
+    "jp": "Oira no Hijouji"
+  },
+  "releasedAt": "1936-01-01T00:00:00.000Z",
+  "finishedAt": "1936-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40747/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40747",
+    "anilist/anime": "104389",
+    "aozora": "KOcQqChEcG",
+    "myanimelist/anime": "35394"
+  }
+}

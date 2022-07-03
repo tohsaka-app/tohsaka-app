@@ -1,0 +1,23 @@
+{
+  "slug": "exosquad",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "1993-09-11T00:00:00.000Z",
+  "finishedAt": "1994-11-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12300/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "mecha",
+    "military",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12300"
+  }
+}

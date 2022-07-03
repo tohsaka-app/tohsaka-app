@@ -1,0 +1,41 @@
+{
+  "slug": "kimikiss-pure-rouge",
+  "synopsis": "Kouichi Sanada and Kazuki Aihara's childhood friend Mao Mizusawa has returned after living in France for a couple of years. Kouichi is surprised to learn that, since her parents are remaining overseas for the time being, his mother has agreed to let Mao stay with them. The three friends help each other deal with the ups and downs of high school romance.\n(Source: ANN)",
+  "title": {
+    "en": "Kimikiss: Pure Rouge",
+    "jp": "Kimikiss Pure Rouge"
+  },
+  "releasedAt": "2007-10-07T00:00:00.000Z",
+  "finishedAt": "2008-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2651/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2651/original.jpg",
+  "categories": [
+    "angst",
+    "asia",
+    "coming of age",
+    "earth",
+    "high school",
+    "japan",
+    "love polygon",
+    "present",
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/kimikiss"
+  ],
+  "relations": {
+    "kitsu": "2651",
+    "anidb": "5276",
+    "anilist/anime": "2927",
+    "aozora": "cGGFS3jGd9",
+    "hulu": "50002877",
+    "myanimelist/anime": "2927",
+    "thetvdb": "81624/1",
+    "thetvdb/series": "81624",
+    "trakt": "63595"
+  }
+}

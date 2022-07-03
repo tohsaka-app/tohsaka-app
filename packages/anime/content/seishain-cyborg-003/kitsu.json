@@ -1,0 +1,26 @@
+{
+  "slug": "seishain-cyborg-003",
+  "synopsis": "A collaboration between 009 Re:Cyborg and Staff Service, featuring Cyborg 003 as a businesswoman.",
+  "title": {
+    "jp": "Seishain Cyborg 003"
+  },
+  "releasedAt": "2012-01-10T00:00:00.000Z",
+  "finishedAt": "2012-01-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12410/original.jpg",
+  "categories": [
+    "comedy",
+    "cyborg",
+    "science fiction",
+    "super power",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12410",
+    "aozora": "FuoxqDfxTn",
+    "myanimelist/anime": "33163"
+  }
+}

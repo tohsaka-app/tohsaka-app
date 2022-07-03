@@ -1,0 +1,23 @@
+{
+  "slug": "kanokon-manatsu-no-dai-shanikusai-specials",
+  "synopsis": "DVD/BD specials featuring more excessive fan-service than the OVA.",
+  "title": {
+    "jp": "Kanokon: Manatsu no Dai Shanikusai Specials"
+  },
+  "releasedAt": "2009-11-25T00:00:00.000Z",
+  "finishedAt": "2009-12-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5149/original.jpg",
+  "categories": [
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5149",
+    "anilist/anime": "7875",
+    "aozora": "jlhFk3ajXK",
+    "myanimelist/anime": "7875"
+  }
+}

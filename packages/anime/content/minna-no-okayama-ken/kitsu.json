@@ -1,0 +1,22 @@
+{
+  "slug": "minna-no-okayama-ken",
+  "synopsis": " ",
+  "title": {
+    "jp": "Minna no Okayama-ken"
+  },
+  "releasedAt": "2015-07-01T00:00:00.000Z",
+  "finishedAt": "2016-12-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12904/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12904",
+    "aozora": "K3YfzKmhgo",
+    "myanimelist/anime": "34726"
+  }
+}

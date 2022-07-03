@@ -1,0 +1,27 @@
+{
+  "slug": "konjiki-no-gash-bell-hashire-gash-ubawareta-umagon",
+  "synopsis": "An old acquaintance of Gash's has kidnapped Umagon in revenge for his arrest. Can Gash rescue Umagon?",
+  "title": {
+    "jp": "Konjiki no Gash Bell!!: Hashire Gash!! Ubawareta Umagon"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6322/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6322",
+    "anilist/anime": "10732",
+    "aozora": "Ie97gm7Z3W",
+    "myanimelist/anime": "10732"
+  }
+}

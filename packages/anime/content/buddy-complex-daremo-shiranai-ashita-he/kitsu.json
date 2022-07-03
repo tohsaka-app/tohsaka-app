@@ -1,0 +1,25 @@
+{
+  "slug": "buddy-complex-daremo-shiranai-ashita-he",
+  "synopsis": "A summary of the Buddy Complex series told from the point of view of Nasu Mayuka.",
+  "title": {
+    "jp": "Buddy Complex: Daremo Shiranai Ashita e"
+  },
+  "releasedAt": "2014-09-20T00:00:00.000Z",
+  "finishedAt": "2014-09-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11262/original.gif",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11262",
+    "anilist/anime": "119665",
+    "aozora": "4Dnb1cGliy",
+    "myanimelist/anime": "31105"
+  }
+}

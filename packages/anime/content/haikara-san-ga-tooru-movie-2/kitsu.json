@@ -1,0 +1,26 @@
+{
+  "slug": "haikara-san-ga-tooru-movie-2",
+  "synopsis": "The story follows Benio \"Haikara-san\" Hanamura, who lost her mother when she was very young and has been raised by her father, a high-ranking official in the Japanese army. As a result, she has grown into a tomboy. Contrary to traditional Japanese notions of femininity, she studies kendo, drinks sake, dresses in often outlandish-looking Western fashions instead of the traditional kimono, and is not as interested in housework as she is in literature. She also rejects the idea of arranged marriages and believes in a woman's right to a career and to marry for love.\n\n(Source: ANN)",
+  "title": {
+    "en": "Haikara-San: Here Comes Miss Modern",
+    "jp": "Haikara-san ga Tooru Movie 2: Hana no Tokyo Dai Roman"
+  },
+  "releasedAt": "2018-10-19T00:00:00.000Z",
+  "finishedAt": "2018-10-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13892/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13892/original.png",
+  "categories": [
+    "comedy",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13892",
+    "anilist/anime": "100652",
+    "myanimelist/anime": "35228"
+  }
+}

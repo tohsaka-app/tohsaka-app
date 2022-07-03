@@ -1,0 +1,26 @@
+{
+  "slug": "ishindenshin-shiyou",
+  "synopsis": "Music video for the song by Mitsue Ooshiro (大城光恵) that was featured on NHK's Minna no Uta program. ",
+  "title": {
+    "en": "From Heart to Heart",
+    "jp": "Ishindenshin Shiyou"
+  },
+  "releasedAt": "1993-06-01T00:00:00.000Z",
+  "finishedAt": "1993-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10815/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10815",
+    "anidb": "11440",
+    "anilist/anime": "111029",
+    "aozora": "m2qdFlGeO3",
+    "myanimelist/anime": "30405"
+  }
+}

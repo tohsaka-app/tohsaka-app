@@ -1,0 +1,22 @@
+{
+  "slug": "kando-reduction",
+  "synopsis": "A music video for Aki Akane's song \"Kando≠Reduction\"",
+  "title": {
+    "jp": "Kando≠Reduction"
+  },
+  "releasedAt": "2012-11-14T00:00:00.000Z",
+  "finishedAt": "2012-11-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14017/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14017",
+    "myanimelist/anime": "36778"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "ouritsu-uchuugun-honneamise-no-tsubasa-pilot-film",
+  "synopsis": "Short film/pilot from year 1985 for the Royal Space Force movie that came out two years later.",
+  "title": {
+    "jp": "Ouritsu Uchuugun: Honneamise no Tsubasa - Pilot Film"
+  },
+  "releasedAt": "1985-01-01T00:00:00.000Z",
+  "finishedAt": "1985-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8913/original.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8913",
+    "anilist/anime": "17787",
+    "aozora": "JCvthiAsS5",
+    "myanimelist/anime": "17787"
+  }
+}

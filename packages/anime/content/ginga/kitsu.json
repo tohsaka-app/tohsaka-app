@@ -1,0 +1,27 @@
+{
+  "slug": "ginga",
+  "synopsis": "Official music video for Oresama's new single \"Ginga\".",
+  "title": {
+    "en": "Ginga",
+    "jp": "Ginga"
+  },
+  "releasedAt": "2016-05-10T00:00:00.000Z",
+  "finishedAt": "2016-05-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14180/original.jpg",
+  "categories": [
+    "adventure",
+    "music",
+    "science fiction",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14180",
+    "anilist/anime": "99644",
+    "aozora": "fE4irRW5E8",
+    "myanimelist/anime": "35800"
+  }
+}

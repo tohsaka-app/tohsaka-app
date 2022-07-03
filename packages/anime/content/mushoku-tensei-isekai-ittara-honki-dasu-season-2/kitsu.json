@@ -1,0 +1,27 @@
+{
+  "slug": "mushoku-tensei-isekai-ittara-honki-dasu-season-2",
+  "synopsis": "The second season of Mushoku Tensei: Isekai Ittara Honki Dasu.",
+  "title": {
+    "en": "Mushoku Tensei: Isekai Ittara Honki Dasu Season 2",
+    "jp": "Mushoku Tensei: Jobless Reincarnation Season 2"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45950/poster_image/d3afddcf7fc69cb85612ead53b53536a.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "ecchi",
+    "fantasy",
+    "fantasy world",
+    "isekai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45950",
+    "anilist/anime": "146065"
+  }
+}

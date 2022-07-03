@@ -1,0 +1,25 @@
+{
+  "slug": "ghost-music",
+  "synopsis": "MV for the song GHOST by Hoshimachi Suisei.",
+  "title": {
+    "en": "GHOST"
+  },
+  "releasedAt": "2021-04-13T00:00:00.000Z",
+  "finishedAt": "2021-04-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44380/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=IKKar5SS29E"
+  ],
+  "relations": {
+    "kitsu": "44380",
+    "anilist/anime": "132692",
+    "myanimelist/anime": "50030"
+  }
+}

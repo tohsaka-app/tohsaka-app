@@ -1,0 +1,25 @@
+{
+  "slug": "gakkou-no-kowai-uwasa-hanako-san-ga-kita",
+  "synopsis": "Based on the short story \"Ghost Toilet\" from Toru Tsunemitsu's urban myth collection \"School Ghost Stories.\" This was adapted into the children's book \"Hanako in the Toilet: Scary Stories of Your School\" (1993). Several artists then adapted this into the \"Here Comes Hanako\" manga; most of them also wrote the anime version, which was aired as a segment of the TV series \"Ponkikki Kids.\" Episodes, introduced by Hanako, included \"The Haunted Cinema\" and \"The Cursed Promise Ring.\" ",
+  "title": {
+    "en": "Scary High School Rumors",
+    "jp": "Gakkou no Kowai Uwasa: Hanako-san ga Kita!!"
+  },
+  "releasedAt": "1994-08-15T00:00:00.000Z",
+  "finishedAt": "1995-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4574/original.jpg",
+  "categories": [
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4574",
+    "anidb": "5456",
+    "anilist/anime": "6472",
+    "aozora": "mMc87iHIDd",
+    "myanimelist/anime": "6472"
+  }
+}

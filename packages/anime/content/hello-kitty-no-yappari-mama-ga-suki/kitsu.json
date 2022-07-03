@@ -1,0 +1,26 @@
+{
+  "slug": "hello-kitty-no-yappari-mama-ga-suki",
+  "synopsis": "Hello Kitty has a fight with her mom. And she discovers that even though they may get into fights, her mother has always and will always love her.",
+  "title": {
+    "en": "Hello Kitty in Mom Loves Me After All",
+    "jp": "Hello Kitty no Yappari Mama ga Suki"
+  },
+  "releasedAt": "1992-08-21T00:00:00.000Z",
+  "finishedAt": "1992-08-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9857/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9857",
+    "anidb": "7828",
+    "aozora": "DtRX3caatv",
+    "myanimelist/anime": "22445"
+  }
+}

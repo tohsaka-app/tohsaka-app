@@ -1,0 +1,28 @@
+{
+  "slug": "Jackie-chan-s-fantasia",
+  "synopsis": "An animated Jackie Chan is protecting the seven holy weapons from getting into the wrong hands. Once upon a time, the holy dragon died and its body separated into seven parts. Those seven treasures hold enormous power and humans made them into seven holy weapons. Evil minded Dr. Black and Orbar plan to rule the world and manage to steal all seven weapons.\n\n(Source: Amazon)",
+  "title": {
+    "en": "Jackie Chan's Fantasia"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43111/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43111/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "kids",
+    "martial arts"
+  ],
+  "externals": [
+    "https://www.amazon.com/Jackie-Chans-Fantasia/dp/B07HLHBNP5",
+    "https://www.contv.com/details-movie/CEG10023523/jackie-chan's-fantasia---season-1"
+  ],
+  "relations": {
+    "kitsu": "43111"
+  }
+}

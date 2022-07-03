@@ -1,0 +1,28 @@
+{
+  "slug": "armageddon-korean",
+  "synopsis": "Four billion years ago, in the Andromeda Nebula, an ambitious project was launched. An ancient race of aliens, seeing that there was no other intelligent life in the Universe, set their massive supercomputers the task of seeding more races that could grow to sentience. The project was known as the Omega Program. The human race was the result of this project.\nHowever, humans were not the only races to grow from the Omega Program, and lurking in the future is the deadliest threat the human race has ever faced. In time, the products of this Program are destined to clash in violent opposition. Hopelessly outnumbered by the technologically superior enemy, Earth has one last hope—the secret fail-safe of the Omega Program—the Delta Boy, living avatar of the supercomputer that began life on Earth.\nHis only problem is staying alive long enough to save his future—and that of all humanity...",
+  "title": {
+    "en": "Armageddon",
+    "jp": "Armageddon"
+  },
+  "releasedAt": "1996-01-19T00:00:00.000Z",
+  "finishedAt": "1996-01-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3691/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3691",
+    "anidb": "2592",
+    "anilist/anime": "4567",
+    "aozora": "K1UxfsxpfV",
+    "myanimelist/anime": "4567"
+  }
+}

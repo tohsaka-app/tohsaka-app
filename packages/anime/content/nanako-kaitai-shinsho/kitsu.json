@@ -1,0 +1,34 @@
+{
+  "slug": "nanako-kaitai-shinsho",
+  "synopsis": "Nanako is a an inept apprentice nurse to the brilliant young Dr. Kouji. Now for some reason, Nanako is always being targeted by various elements which makes Nanako wonder if she has done anything wrong. But there are certain secrets to Nanako's past that only Dr. Kouji and his family know about. ",
+  "title": {
+    "en": "Amazing Nurse Nanako",
+    "jp": "Nanako Kaitai Shinsho"
+  },
+  "releasedAt": "1999-07-05T00:00:00.000Z",
+  "finishedAt": "2000-03-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/723/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "future",
+    "mecha",
+    "military",
+    "nurse",
+    "plot continuity",
+    "science fiction",
+    "slapstick",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "723",
+    "anidb": "115",
+    "anilist/anime": "816",
+    "aozora": "tzagIdIsGW",
+    "myanimelist/anime": "816"
+  }
+}

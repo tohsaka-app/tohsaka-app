@@ -1,0 +1,25 @@
+{
+  "slug": "anime-tenchou-x-touhou-project",
+  "synopsis": "A collaboration anime project of Anime Tenchou and Touhou animated by ufotable. The anime was shown at the 2010 Animate Ichioshi Bishojo Anime Matsuri.",
+  "title": {
+    "jp": "Anime Tenchou x Touhou Project"
+  },
+  "releasedAt": "2010-11-20T00:00:00.000Z",
+  "finishedAt": "2010-11-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5914/original.jpg",
+  "categories": [
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5914",
+    "anidb": "7982",
+    "anilist/anime": "9875",
+    "aozora": "VZbl3DIBBL",
+    "myanimelist/anime": "9875"
+  }
+}

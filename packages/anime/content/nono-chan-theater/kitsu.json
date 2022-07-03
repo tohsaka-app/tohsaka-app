@@ -1,0 +1,22 @@
+{
+  "slug": "nono-chan-theater",
+  "synopsis": "Animated shorts focusing on the Yamada family.",
+  "title": {
+    "jp": "Nono-chan Theater"
+  },
+  "releasedAt": "2001-09-03T00:00:00.000Z",
+  "finishedAt": "2001-09-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13528/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13528",
+    "aozora": "G8ziCQUWcz",
+    "myanimelist/anime": "35575"
+  }
+}

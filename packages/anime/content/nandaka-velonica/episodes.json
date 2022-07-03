@@ -1,0 +1,102 @@
+[
+  {
+    "title": {
+      "jp": "My Name Is Velonica"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/161857/original.jpg",
+    "releasedAt": "2014-03-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Let's Make A Contract"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/161868/original.jpg",
+    "releasedAt": "2014-03-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I Want Croquettes!"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/161879/original.jpg",
+    "releasedAt": "2014-03-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Wasteful"
+    },
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/161892/original.jpg",
+    "releasedAt": "2014-03-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Go Back to Space"
+    },
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/161906/original.jpg",
+    "releasedAt": "2014-03-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Love, Love, So In Love"
+    },
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/161922/original.jpg",
+    "releasedAt": "2014-03-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sing, Velonica!"
+    },
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/161941/original.jpg",
+    "releasedAt": "2014-03-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Friend Prawn"
+    },
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/161956/original.jpg",
+    "releasedAt": "2014-03-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Little Friend"
+    },
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/161970/original.jpg",
+    "releasedAt": "2014-03-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Goodbye Earth"
+    },
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/161989/original.jpg",
+    "releasedAt": "2014-03-19T00:00:00.000Z",
+    "content": {}
+  }
+]

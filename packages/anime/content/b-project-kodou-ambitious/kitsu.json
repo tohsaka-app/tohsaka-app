@@ -1,0 +1,28 @@
+{
+  "slug": "b-project-kodou-ambitious",
+  "synopsis": "The anime's story follows Tsubasa, a new hire in the A&amp;R department of the major recording company Gandala Music. Tsubasa is immediately assigned to oversee the idol unit \"B-PROJECT,\" which is made up of three idol groups: Kitakore, THRIVE, and MooNs. This is Tsubasa's first job, and she gets involved in various incidents and accidents as she deals with this group of young men who each have their own differing personalities.\n(Source: ANN)",
+  "title": {
+    "jp": "B-Project: Kodou*Ambitious"
+  },
+  "releasedAt": "2016-07-03T00:00:00.000Z",
+  "finishedAt": "2016-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12088/original.jpg",
+  "categories": [
+    "bishounen",
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12088",
+    "anidb": "12044",
+    "anilist/anime": "21751",
+    "aozora": "q6n9vgP8IC",
+    "myanimelist/anime": "33046",
+    "thetvdb": "313487/1",
+    "trakt": "108674"
+  }
+}

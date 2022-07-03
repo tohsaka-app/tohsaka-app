@@ -1,0 +1,28 @@
+{
+  "slug": "brotherhood-final-fantasy-xv",
+  "synopsis": "Brotherhood is a prequel to the Final Fantasy XV role-playing game.",
+  "title": {
+    "jp": "Brotherhood: Final Fantasy XV"
+  },
+  "releasedAt": "2016-03-31T00:00:00.000Z",
+  "finishedAt": "2016-09-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12019/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12019/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/brotherhood-final-fantasy-xv",
+    "vrv.co/series/GYNQX4QJY/BROTHERHOOD-FINAL-FANTASY-XV"
+  ],
+  "relations": {
+    "kitsu": "12019",
+    "anidb": "12053",
+    "anilist/anime": "21728",
+    "aozora": "hiy9fAfCIc",
+    "myanimelist/anime": "33080"
+  }
+}

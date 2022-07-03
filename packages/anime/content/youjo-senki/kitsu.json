@@ -1,0 +1,35 @@
+{
+  "slug": "youjo-senki",
+  "synopsis": "On the front lines of the war, there is a little girl. Blond hair, blue eyes, and porcelain white skin, she commands her squad with lisping voice. Her name is Tanya Degurechaff. But in reality, she is one of Japan's most elite salarymen, reborn as a little girl after angering a mysterious being who calls himself God. This little girl, who prioritizes efficiency and her own career over anything else, will become the most dangerous being amongst the sorcerers of the imperial army.",
+  "title": {
+    "en": "Saga of Tanya the Evil",
+    "jp": "Youjo Senki"
+  },
+  "releasedAt": "2017-01-06T00:00:00.000Z",
+  "finishedAt": "2017-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11794/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11794/original.jpg",
+  "categories": [
+    "alternative past",
+    "europe",
+    "germany",
+    "magic",
+    "military",
+    "war"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/saga-of-tanya-the-evil"
+  ],
+  "relations": {
+    "kitsu": "11794",
+    "anidb": "11905",
+    "anilist/anime": "21613",
+    "aozora": "BXiXQh1XNA",
+    "myanimelist/anime": "32615",
+    "thetvdb": "315500",
+    "trakt": "110492"
+  }
+}

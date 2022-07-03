@@ -1,0 +1,35 @@
+{
+  "slug": "yurumates-3d-plus",
+  "synopsis": "The continuation of Yurumates 3D right after the first season.",
+  "title": {
+    "jp": "Yurumates 3D Plus"
+  },
+  "releasedAt": "2012-07-03T00:00:00.000Z",
+  "finishedAt": "2012-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7156/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/yurumates3dei"
+  ],
+  "relations": {
+    "kitsu": "7156",
+    "anidb": "9260",
+    "anilist/anime": "14693",
+    "aozora": "C0YVZAKxGV",
+    "myanimelist/anime": "14693",
+    "thetvdb": "255848/2",
+    "thetvdb/season": "495716",
+    "thetvdb/series": "255848",
+    "trakt": "45058"
+  }
+}

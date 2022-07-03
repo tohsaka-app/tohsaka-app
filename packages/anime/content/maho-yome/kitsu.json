@@ -1,0 +1,26 @@
+{
+  "slug": "maho-yome",
+  "synopsis": "As the television anime Mahoutsukai no Yome debuts a new episode every week, one new 30-second episode of the series of shorts will debut every week on the official Twitter every Tuesday. The previous week's episode will no longer be available when the each new episode debuts.\n\n(Source: ANN)",
+  "title": {
+    "jp": "MahoYome"
+  },
+  "releasedAt": "2017-10-10T00:00:00.000Z",
+  "finishedAt": "2018-03-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13918/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13918",
+    "anidb": "12942",
+    "anilist/anime": "100256",
+    "aozora": "tmw3Gphogp",
+    "myanimelist/anime": "36502"
+  }
+}

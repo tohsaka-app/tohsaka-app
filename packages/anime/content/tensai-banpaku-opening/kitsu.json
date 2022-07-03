@@ -1,0 +1,24 @@
+{
+  "slug": "tensai-banpaku-opening",
+  "synopsis": "Opening animation for Tensai Banpaku Genius Expo directed by Mirai Mizue.",
+  "title": {
+    "jp": "Tensai Banpaku Opening"
+  },
+  "releasedAt": "2014-12-29T00:00:00.000Z",
+  "finishedAt": "2014-12-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10323/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10323",
+    "anidb": "12215",
+    "anilist/anime": "103408",
+    "aozora": "pKHaBdUDTZ",
+    "myanimelist/anime": "29173"
+  }
+}

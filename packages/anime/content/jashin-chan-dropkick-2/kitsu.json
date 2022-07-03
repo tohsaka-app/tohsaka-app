@@ -1,0 +1,32 @@
+{
+  "slug": "jashin-chan-dropkick-2",
+  "synopsis": "Second season of Jashin-chan Dropkick.",
+  "title": {
+    "en": "Dropkick on My Devil!! Dash",
+    "jp": "Jashin-chan Dropkick`"
+  },
+  "releasedAt": "2020-04-06T00:00:00.000Z",
+  "finishedAt": "2020-04-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42126/original.jpg",
+  "categories": [
+    "angel",
+    "comedy",
+    "demon",
+    "seinen",
+    "slice of life",
+    "supernatural",
+    "violence"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/dropkick-on-my-devil-dash",
+    "vrv.co/series/G62487M9Y/Dropkick-on-My-Devil-Dash"
+  ],
+  "relations": {
+    "kitsu": "42126",
+    "anilist/anime": "107294",
+    "myanimelist/anime": "39049"
+  }
+}

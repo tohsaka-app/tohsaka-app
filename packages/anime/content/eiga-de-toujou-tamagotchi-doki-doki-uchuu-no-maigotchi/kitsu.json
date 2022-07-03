@@ -1,0 +1,25 @@
+{
+  "slug": "eiga-de-toujou-tamagotchi-doki-doki-uchuu-no-maigotchi",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Eiga de Toujou! Tamagotchi Dokidoki! Uchuu no Maigotchi!?"
+  },
+  "releasedAt": "2007-12-15T00:00:00.000Z",
+  "finishedAt": "2007-12-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4591/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4591",
+    "anidb": "7018",
+    "anilist/anime": "6518",
+    "aozora": "R1cn3GGPSB",
+    "myanimelist/anime": "6518"
+  }
+}

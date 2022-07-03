@@ -1,0 +1,40 @@
+{
+  "slug": "afro-samurai-resurrection",
+  "synopsis": "Takashi Okazaki said in the new season Afro \"loses his way, gets tired of all the killing\" and he \"wakes up to his destiny, which is to be the world's number one warrior\".\nProduced by Japanese studio GONZO in association/partnership with GDH K.K. and based on the original art and story telling of manga artist Takashi Okazaki. Funimation is also collaborating on the production.",
+  "title": {
+    "en": "Afro Samurai: Resurrection",
+    "jp": "Afro Samurai: Resurrection"
+  },
+  "releasedAt": "2009-01-25T00:00:00.000Z",
+  "finishedAt": "2009-01-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3870/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3870/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "cyborg",
+    "drama",
+    "martial arts",
+    "mecha",
+    "plot continuity",
+    "samurai",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [
+    "http://www.hulu.com/afro-samurai-resurrection",
+    "https://tubitv.com/movies/406602/afro_samurai_resurrection"
+  ],
+  "relations": {
+    "kitsu": "3870",
+    "anidb": "6063",
+    "anilist/anime": "4970",
+    "aozora": "Vqbp9WQatx",
+    "hulu": "50017280",
+    "myanimelist/anime": "4970"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "urawa-no-usagi-chan",
+  "synopsis": "An original anime to advertise Urawa City in Saitama, Japan.",
+  "title": {
+    "jp": "Urawa no Usagi-chan"
+  },
+  "releasedAt": "2015-04-10T00:00:00.000Z",
+  "finishedAt": "2015-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9949/original.jpg",
+  "categories": [
+    "comedy",
+    "school clubs",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/urawa-no-usagi-chan"
+  ],
+  "relations": {
+    "kitsu": "9949",
+    "anidb": "10879",
+    "anilist/anime": "20949",
+    "aozora": "be79XsyzEK",
+    "myanimelist/anime": "27927",
+    "thetvdb": "291724/1",
+    "trakt": "95831"
+  }
+}

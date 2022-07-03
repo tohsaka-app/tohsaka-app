@@ -1,0 +1,24 @@
+{
+  "slug": "ojiichan-no-komoriuta",
+  "synopsis": "A music video for the song \"Ojiichan no Komoriuta\" by Yuuji Akimoto. Aired as part of NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Ojiichan no Komoriuta"
+  },
+  "releasedAt": "1987-02-01T00:00:00.000Z",
+  "finishedAt": "1987-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11594/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11594",
+    "anidb": "12679",
+    "aozora": "hsNgGxT50Z",
+    "myanimelist/anime": "32229"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "tsuujou-kougeki-ga-zentai-kougeki-de-ni-kai-kougeki-no-okaasan-wa-suki-desu-ka-ova",
+  "synopsis": "",
+  "title": {
+    "en": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks? OVA",
+    "jp": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka? OVA"
+  },
+  "releasedAt": "2020-03-25T00:00:00.000Z",
+  "finishedAt": "2020-03-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42450/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "isekai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42450",
+    "anilist/anime": "110445",
+    "myanimelist/anime": "40102"
+  }
+}

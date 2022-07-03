@@ -1,0 +1,23 @@
+{
+  "slug": "amnesia-ova",
+  "synopsis": "Animate Tokuten for purchasing all 6 volumes of TV Anime Series.\nThe contents of the OVA are from the Drama CDs.",
+  "title": {
+    "jp": "Amnesia OVA"
+  },
+  "releasedAt": "2013-09-25T00:00:00.000Z",
+  "finishedAt": "2013-09-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8041/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8041",
+    "anilist/anime": "20734",
+    "aozora": "cMqtQPKRal",
+    "myanimelist/anime": "20655"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "chuunibyou-demo-koi-ga-shitai-depth-of-field-ai-to-nikushimi-gekijou",
+  "synopsis": "Specials bundled with the 1st season's BD/DVD volumes. ",
+  "title": {
+    "en": "Love, Chunibyo & Other Delusions! Specials",
+    "jp": "Chuunibyou demo Koi ga Shitai!: Depth of Field - Ai to Nikushimi Gekijou"
+  },
+  "releasedAt": "2012-12-19T00:00:00.000Z",
+  "finishedAt": "2013-06-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7330/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7330/original.jpg",
+  "categories": [
+    "action",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7330",
+    "anilist/anime": "15879",
+    "aozora": "LM2bbCBcC2",
+    "myanimelist/anime": "15879"
+  }
+}

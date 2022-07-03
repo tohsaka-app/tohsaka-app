@@ -1,0 +1,26 @@
+{
+  "slug": "doraemon-it-s-autumn",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Doraemon: It's Autumn!"
+  },
+  "releasedAt": "1986-04-04T00:00:00.000Z",
+  "finishedAt": "1986-04-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2401/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2401",
+    "anilist/anime": "2637",
+    "aozora": "y7iF04CwYx",
+    "myanimelist/anime": "2637"
+  }
+}

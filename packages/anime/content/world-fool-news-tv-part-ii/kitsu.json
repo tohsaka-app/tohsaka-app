@@ -1,0 +1,27 @@
+{
+  "slug": "world-fool-news-tv-part-ii",
+  "synopsis": "Direct continuation of World Fool News (TV).",
+  "title": {
+    "en": "World Fool News Part II",
+    "jp": "World Fool News (TV) Part II"
+  },
+  "releasedAt": "2017-04-02T00:00:00.000Z",
+  "finishedAt": "2017-06-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13320/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/world-fool-news"
+  ],
+  "relations": {
+    "kitsu": "13320",
+    "anilist/anime": "98553",
+    "aozora": "F9QL8LBsxT",
+    "myanimelist/anime": "35332"
+  }
+}

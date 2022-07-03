@@ -1,0 +1,24 @@
+{
+  "slug": "miato",
+  "synopsis": "Graduate Work 2016, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\nMemories from the ancient times have been engraved on his body. \"Where do we come from?\"he asks,\"Where are we going?\" Would the light guide us there? This is a journey of blind pursuit for wisdom.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Awakened Seed",
+    "jp": "Miato"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45129/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/JrPguSIsCI0"
+  ],
+  "relations": {
+    "kitsu": "45129",
+    "anilist/anime": "116249"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "turning-mecard-w-black-mirror-ui-buhwal",
+  "synopsis": "",
+  "title": {
+    "en": "Turning Mecard W: Resurrection of the Black Mirror",
+    "jp": "Turning Mecard W: Black Mirror ui buhwal"
+  },
+  "releasedAt": "2017-01-18T00:00:00.000Z",
+  "finishedAt": "2017-01-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40584/original.jpg",
+  "categories": [
+    "adventure",
+    "mecha",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40584",
+    "myanimelist/anime": "35545"
+  }
+}

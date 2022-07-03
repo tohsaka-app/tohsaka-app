@@ -1,0 +1,32 @@
+{
+  "slug": "kodomo-no-omocha",
+  "synopsis": "Sixth grader Sana Kurata has a perfect life. Her mother is a (fairly) successful author, she has a young man employed to keep her happy and safe, and best of all, she is the star of the children's television show Kodomo no Omocha. There's just one thing bothering her, and that's Akito Hayama.\nAkito is a classmate of Sana's, and ever since he's started acting out in class, the rest of the boys have followed his example. Every day, the girls and the teacher wage a battle to keep the class under control and to get some actual learning done. That rotten Akito… Sana won't stand for this!\nThe hyperactive Sana decides to dig deeper and find out what makes Akito tick, so class can go back to normal and the teacher can stop spending every day crying instead of teaching. But the more she learns about him, the more she realizes that there might be more to Akito than meets the eye. ",
+  "title": {
+    "en": "Kodocha",
+    "jp": "Kodomo no Omocha (TV)"
+  },
+  "releasedAt": "1996-04-05T00:00:00.000Z",
+  "finishedAt": "1998-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1332/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1332/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life",
+    "tone changes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1332",
+    "anidb": "285",
+    "anilist/anime": "1486",
+    "aozora": "RjD9h72OBO",
+    "myanimelist/anime": "1486",
+    "thetvdb": "79544/1",
+    "thetvdb/series": "79544",
+    "trakt": "36613"
+  }
+}

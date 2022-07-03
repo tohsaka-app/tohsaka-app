@@ -1,0 +1,25 @@
+{
+  "slug": "sango-no-umi-to-ouji",
+  "synopsis": "On the island of Okinawa, driven by his kindhearted nature, a boy named Ray determines to stop the destruction of the island's natural forests and coral reef, no matter what he has to give. What will he give to stop a tidal wave from killing the island's people?",
+  "title": {
+    "en": "The Prince and the Coral Sea",
+    "jp": "Sango no Umi to Ouji"
+  },
+  "releasedAt": "2000-02-01T00:00:00.000Z",
+  "finishedAt": "2000-02-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6024/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6024",
+    "anidb": "7121",
+    "anilist/anime": "10077",
+    "aozora": "Vgb1SsGJb6",
+    "myanimelist/anime": "10077"
+  }
+}

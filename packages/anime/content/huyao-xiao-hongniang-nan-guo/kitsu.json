@@ -1,0 +1,25 @@
+{
+  "slug": "huyao-xiao-hongniang-nan-guo",
+  "synopsis": "The 6th season of Huyao Xiao Hongniang\n",
+  "title": {
+    "en": "Fox Spirit Matchmaker 6th Season"
+  },
+  "releasedAt": "2017-11-24T00:00:00.000Z",
+  "finishedAt": "2018-06-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14238/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14238",
+    "anilist/anime": "102603",
+    "myanimelist/anime": "36824"
+  }
+}

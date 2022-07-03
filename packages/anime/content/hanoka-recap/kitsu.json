@@ -1,0 +1,23 @@
+{
+  "slug": "hanoka-recap",
+  "synopsis": "Recap episode.",
+  "title": {
+    "jp": "Hanoka Recap"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1794/original.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1794",
+    "anilist/anime": "1993",
+    "aozora": "CeEVfYYdau",
+    "myanimelist/anime": "1993"
+  }
+}

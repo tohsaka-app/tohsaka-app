@@ -1,0 +1,25 @@
+{
+  "slug": "robodz",
+  "synopsis": "not available",
+  "title": {
+    "en": null,
+    "jp": "RoboDz"
+  },
+  "releasedAt": "2008-06-02T00:00:00.000Z",
+  "finishedAt": "2008-11-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3674/original.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3674",
+    "anidb": "5963",
+    "anilist/anime": "4547",
+    "aozora": "Y8kD6k7xvV",
+    "myanimelist/anime": "4547"
+  }
+}

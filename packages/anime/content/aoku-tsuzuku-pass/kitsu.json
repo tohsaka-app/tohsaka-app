@@ -1,0 +1,21 @@
+{
+  "slug": "aoku-tsuzuku-pass",
+  "synopsis": "A promotional piece for the Kirin Challenge Cup 2018. This year is the 40th anniversary of the competition.",
+  "title": {
+    "jp": "Aoku Tsuzuku Pass"
+  },
+  "releasedAt": "2018-10-12T00:00:00.000Z",
+  "finishedAt": "2018-10-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42691/original.jpg",
+  "categories": [
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42691",
+    "myanimelist/anime": "38554"
+  }
+}

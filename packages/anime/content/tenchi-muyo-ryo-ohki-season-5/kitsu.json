@@ -1,0 +1,34 @@
+{
+  "slug": "tenchi-muyo-ryo-ohki-season-5",
+  "synopsis": "",
+  "title": {
+    "en": "Tenchi Muyo! Ryo-Ohki 5th Season",
+    "jp": "Tenchi Muyou! Ryououki 5th Season"
+  },
+  "releasedAt": "2020-02-28T00:00:00.000Z",
+  "finishedAt": "2021-05-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42491/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "comedy",
+    "harem",
+    "humanoid alien",
+    "romance",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/tenchi-muyo-ryo-ohk",
+    "vrv.co/series/G60XPMX7R/Tenchi-Muyo-Ryo-Ohki"
+  ],
+  "relations": {
+    "kitsu": "42491",
+    "anidb": "15007",
+    "anilist/anime": "114442",
+    "myanimelist/anime": "40097"
+  }
+}

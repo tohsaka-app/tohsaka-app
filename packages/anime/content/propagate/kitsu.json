@@ -1,0 +1,22 @@
+{
+  "slug": "propagate",
+  "synopsis": "Dynamically expressing the growth and prosperity of organic plants with geometric figures.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Propagate"
+  },
+  "releasedAt": "1935-01-01T00:00:00.000Z",
+  "finishedAt": "1935-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14003/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "14003",
+    "anidb": "12877",
+    "anilist/anime": "98965",
+    "aozora": "SvJvDdQDBA",
+    "myanimelist/anime": "35406"
+  }
+}

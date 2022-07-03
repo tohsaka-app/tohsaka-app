@@ -1,0 +1,25 @@
+{
+  "slug": "dr-slump-arale-chan-penguin-mura-eiyuu-densetsu",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Dr. Slump: Arale-chan - Penguin Mura Eiyuu Densetsu"
+  },
+  "releasedAt": "1982-01-02T00:00:00.000Z",
+  "finishedAt": "1982-01-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10169/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10169",
+    "aozora": "CMOkX6tDkf",
+    "myanimelist/anime": "28371"
+  }
+}

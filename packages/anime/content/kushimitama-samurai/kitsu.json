@@ -1,0 +1,27 @@
+{
+  "slug": "kushimitama-samurai",
+  "synopsis": "The blind samurai Haku can perceive that which cannot be seen by the eye. But he does not try to see the world that the eye can see. 'This world is the full of darkness' Attacked by thief in the dead of night, he lost both his parents and his sight. From that day on his faith in the world was gone. \n(Source: IMDb)",
+  "title": {
+    "jp": "Kushimitama Samurai"
+  },
+  "releasedAt": "2014-11-14T00:00:00.000Z",
+  "finishedAt": "2014-11-14T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12367/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "historical",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12367",
+    "anilist/anime": "126878",
+    "aozora": "iKrn9pszLc",
+    "myanimelist/anime": "33348"
+  }
+}

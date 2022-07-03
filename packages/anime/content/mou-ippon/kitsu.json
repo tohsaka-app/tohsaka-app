@@ -1,0 +1,31 @@
+{
+  "slug": "mou-ippon",
+  "synopsis": "After performing in their final middle school judo tournament, Michi and Sanae begin high school and walk in on Michi's final opponent fighting to save their new high school's judo club.\n\nSource: MU",
+  "title": {
+    "en": "\"Ippon\" again!",
+    "jp": "Mou Ippon!"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44877/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "friendship",
+    "martial arts",
+    "school clubs",
+    "school life",
+    "shounen",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44877",
+    "anilist/anime": "136435",
+    "myanimelist/anime": "49376"
+  }
+}

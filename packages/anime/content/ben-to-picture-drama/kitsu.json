@@ -1,0 +1,25 @@
+{
+  "slug": "ben-to-picture-drama",
+  "synopsis": "Picture dramas from the DVD/BDs.",
+  "title": {
+    "jp": "Ben-To Picture Drama"
+  },
+  "releasedAt": "2011-12-21T00:00:00.000Z",
+  "finishedAt": "2012-05-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6735/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6735/original.jpg",
+  "categories": [
+    "comedy",
+    "cooking"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6735",
+    "anilist/anime": "12447",
+    "aozora": "79xHLtn1pG",
+    "myanimelist/anime": "12447"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "hatsukoi-no-ehon",
+  "synopsis": "",
+  "title": {
+    "jp": "Hatsukoi no Ehon"
+  },
+  "releasedAt": "2012-01-19T00:00:00.000Z",
+  "finishedAt": "2012-01-19T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13383/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13383"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "fifteen-sonyeon-uju-pyoryugi",
+  "synopsis": "A Korean film about a group of children saving the galaxy.",
+  "title": {
+    "jp": "15 Sonyeon Uju Pyoryugi"
+  },
+  "releasedAt": "1980-01-01T00:00:00.000Z",
+  "finishedAt": "1980-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8818/original.jpg",
+  "categories": [
+    "action",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8818",
+    "anidb": "9629",
+    "anilist/anime": "18305",
+    "aozora": "EYCUOjX3Zv",
+    "myanimelist/anime": "18305"
+  }
+}

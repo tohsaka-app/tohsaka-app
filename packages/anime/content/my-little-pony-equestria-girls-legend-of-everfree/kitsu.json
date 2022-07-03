@@ -1,0 +1,26 @@
+{
+  "slug": "my-little-pony-equestria-girls-legend-of-everfree",
+  "synopsis": "The film's plot concerns the students of Canterlot High School attending a field trip to Camp Everfree, which becomes plagued with bizarre magical circumstances relating to a local urban legend.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "My Little Pony: Equestria Girls – Legend of Everfree"
+  },
+  "releasedAt": "2016-09-24T00:00:00.000Z",
+  "finishedAt": "2016-09-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44361/original.png",
+  "categories": [
+    "anime influenced",
+    "fantasy",
+    "high school",
+    "kids",
+    "magic",
+    "magical girl",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44361"
+  }
+}

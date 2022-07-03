@@ -1,0 +1,33 @@
+{
+  "slug": "go-princess-precure",
+  "synopsis": "Once upon a time, there was a little girl who desperately wanted to become a princess just like the ones in her picture book. Other children made fun of her childish wishes, but she never stopped believing. One day, a boy who looked like a prince appeared, asking her if she would like to be a princess. He gave the girl magical charm to make her wish come true.\nThat little girl, Haruka Haruno, is now a thirteen-year-old attending Noble Academy, a junior high boarding school. Her school life is interrupted by two fairies, Pafu and Aroma, who give her a Princess Perfume, which mysteriously matches the charm she was given eight years ago! Turns out, Haruka is one of the Princess Precures, and must team up with Cure Mermaid and Cure Twinkle in Go! Princess Precure in order to defeat the dark witch Dyspear before she brings the the Hope Kingdom and Haruka's world to a nightmareish end!",
+  "title": {
+    "jp": "Go! Princess Precure"
+  },
+  "releasedAt": "2015-02-01T00:00:00.000Z",
+  "finishedAt": "2016-01-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10034/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10034/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "magic",
+    "magical girl",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10034",
+    "anidb": "10903",
+    "anilist/anime": "21001",
+    "aozora": "cwpZW4ze5n",
+    "myanimelist/anime": "28669",
+    "thetvdb": "291565/1",
+    "trakt": "95674"
+  }
+}

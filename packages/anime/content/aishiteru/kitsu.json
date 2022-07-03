@@ -1,0 +1,25 @@
+{
+  "slug": "aishiteru",
+  "synopsis": "Music video by Kouki Tange and YELLOW BRAIN for the song Aishiteru by Monkey Majik in their three-song album under the same name. It features a blend of live-action and animation.",
+  "title": {
+    "en": "I Love You",
+    "jp": "Aishiteru"
+  },
+  "releasedAt": "2010-07-11T00:00:00.000Z",
+  "finishedAt": "2010-07-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43472/original.jpg",
+  "categories": [
+    "music",
+    "romance"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=NV4PX6oOxZM"
+  ],
+  "relations": {
+    "kitsu": "43472",
+    "myanimelist/anime": "39095"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "yasai-no-yousei-n-y-salad",
+  "synopsis": "It is based on N.Y.SALAD written by Yoshitaka Amano. It depicts lives of vegetable fairies at a kitchen in N. Y.",
+  "title": {
+    "jp": "Yasai no Yousei: N.Y.Salad"
+  },
+  "releasedAt": "2007-04-05T00:00:00.000Z",
+  "finishedAt": "2007-05-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6305/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6305",
+    "anidb": "6203",
+    "anilist/anime": "10705",
+    "aozora": "5yvaReKLli",
+    "myanimelist/anime": "10705"
+  }
+}

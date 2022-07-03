@@ -1,0 +1,23 @@
+{
+  "slug": "pianoman-trailer",
+  "synopsis": "Trailer for Echoes' PIANOMAN with original animation that was not reused in the resulting short film.",
+  "title": {
+    "jp": "Pianoman Trailer"
+  },
+  "releasedAt": "2017-12-28T00:00:00.000Z",
+  "finishedAt": "2017-12-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45473/poster_image/4feebbe6b63ab51f67a33c9881d3dfb1.jpg",
+  "categories": [
+    "fantasy",
+    "music",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45473",
+    "myanimelist/anime": "41505"
+  }
+}

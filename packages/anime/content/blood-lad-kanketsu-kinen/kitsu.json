@@ -1,0 +1,26 @@
+{
+  "slug": "blood-lad-kanketsu-kinen",
+  "synopsis": "A short conclusion memorial PV promoting the final tankoban volume of the Blood Lad manga going on sale. The PV shows various moments throughout the whole manga.",
+  "title": {
+    "jp": "Blood Lad: Kanketsu Kinen"
+  },
+  "releasedAt": "2017-01-11T00:00:00.000Z",
+  "finishedAt": "2017-01-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13018/original.jpeg",
+  "categories": [
+    "music",
+    "vampire"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=27ojgrCSy2g"
+  ],
+  "relations": {
+    "kitsu": "13018",
+    "anilist/anime": "100502",
+    "aozora": "uyYy9thogg",
+    "myanimelist/anime": "34751"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "dreaming-pupa-yumemiru-bokura",
+  "synopsis": "A music video for \"Dreaming Pupa: Yumemiru Bokura\" by Pupa.",
+  "title": {
+    "jp": "Dreaming Pupa: Yumemiru Bokura"
+  },
+  "releasedAt": "2010-08-12T00:00:00.000Z",
+  "finishedAt": "2010-08-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12211/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12211",
+    "anilist/anime": "103510",
+    "aozora": "MMWDdwktLy",
+    "myanimelist/anime": "32803"
+  }
+}

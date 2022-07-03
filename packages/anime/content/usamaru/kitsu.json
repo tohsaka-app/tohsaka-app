@@ -1,0 +1,24 @@
+{
+  "slug": "usamaru",
+  "synopsis": "",
+  "title": {
+    "jp": "Usamaru"
+  },
+  "releasedAt": "2016-08-05T00:00:00.000Z",
+  "finishedAt": "2016-10-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12750/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12750",
+    "anidb": "12316",
+    "anilist/anime": "103664",
+    "aozora": "0kKxzwpZ0n",
+    "myanimelist/anime": "33787"
+  }
+}

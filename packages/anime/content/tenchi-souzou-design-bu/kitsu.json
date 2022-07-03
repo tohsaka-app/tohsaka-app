@@ -1,0 +1,31 @@
+{
+  "slug": "tenchi-souzou-design-bu",
+  "synopsis": "\"In Heaven's Animal Design Department, designers create a variety of new animals daily while contending with the unreasonable requests of their client: God. This series answers questions such as, 'Why can’t unicorns exist?', 'What makes an animal taste delicious?', 'What’s the most powerful creature in the ocean?', and, 'Bird versus snake: who would win?'\"\n\n(Source: Kodansha Comics, edited)",
+  "title": {
+    "en": "Heaven's Design Team",
+    "jp": "Tenchi Souzou Design-bu"
+  },
+  "releasedAt": "2021-01-07T00:00:00.000Z",
+  "finishedAt": "2021-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43137/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43137/original.png",
+  "categories": [
+    "comedy",
+    "deity",
+    "fantasy",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/heavens-design-team"
+  ],
+  "relations": {
+    "kitsu": "43137",
+    "anidb": "15513",
+    "anilist/anime": "117696",
+    "myanimelist/anime": "41762"
+  }
+}

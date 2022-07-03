@@ -1,0 +1,23 @@
+{
+  "slug": "minna-de-bokumetsu-inshu-unten",
+  "synopsis": "A Fukuoka City commissioned commercial from Tekken during their anti-drunk driving campaign. ",
+  "title": {
+    "jp": "Minna de Bokumetsu Inshu Unten"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12604/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12604",
+    "anilist/anime": "103010",
+    "aozora": "vaaCBZDJ2C",
+    "myanimelist/anime": "34122"
+  }
+}

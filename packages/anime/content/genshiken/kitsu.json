@@ -1,0 +1,40 @@
+{
+  "slug": "genshiken",
+  "synopsis": "Sasahara Kanji is a college freshman who decides to join a student society to share his hidden thoughts on manga, anime and gaming.\nWhen he first visited Genshiken, short for \"Gendai Shikaku Bunka Kenkyuu Kai\" (Society for the Study of Modern Visual Culture), his groundless pride was destroyed by the plotting of Madarame, a sophomore student in Genshiken, but he still couldn't admit that he is an otaku.\nHowever, as he participates in society activities such as visiting dojin (private publishing) shops and anime festivals, and hangs out with other society members Kosaka (a hardcore otaku despite his extreme eccentricities and good looks), Kosaka's girlfriend Kasukabe Saki (who isn't really an otaku), Ohno (a cosplayer) and the others, he opens his mind and resolves that he will make his way into the otaku world. With their help, Sasahara slowly adjusts to otaku life in Genshiken.\n(Source: AnimeNfo)",
+  "title": {
+    "en": "Genshiken",
+    "jp": "Genshiken"
+  },
+  "releasedAt": "2004-10-10T00:00:00.000Z",
+  "finishedAt": "2004-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/215/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/215/original.jpeg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "parody",
+    "present",
+    "school clubs",
+    "school life",
+    "slice of life",
+    "stereotypes",
+    "university"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "215",
+    "anidb": "1783",
+    "anilist/anime": "240",
+    "aozora": "234VBGcTc1",
+    "myanimelist/anime": "240",
+    "thetvdb": "78919/1",
+    "thetvdb/season": "15851",
+    "thetvdb/series": "78919",
+    "trakt": "34559"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "warau-salesman",
+  "synopsis": "Each episode follows Fukuzou Moguro, a traveling salesman, and his current customer. Moguro deals in things that give his customers their heart's desire, and once his deals are made and their unhealthy desires are satisfied, Moguro's customers are often left with terrible repercussions, especially if they break the rules of his deals...",
+  "title": {
+    "en": "Laughing Salesman",
+    "jp": "Warau Salesman"
+  },
+  "releasedAt": "1989-10-17T00:00:00.000Z",
+  "finishedAt": "1992-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2775/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "psychological",
+    "seinen",
+    "slice of life",
+    "supernatural",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2775",
+    "anidb": "2106",
+    "anilist/anime": "3077",
+    "aozora": "lR3m82V4J1",
+    "myanimelist/anime": "3077",
+    "thetvdb": "283189/1",
+    "thetvdb/series": "283189"
+  }
+}

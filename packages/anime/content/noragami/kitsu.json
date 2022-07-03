@@ -1,0 +1,43 @@
+{
+  "slug": "noragami",
+  "synopsis": "In times of need, if you look in the right place, you just may see a strange telephone number scrawled in red. If you call this number, you will hear a young man introduce himself as the Yato God.\nYato is a minor deity and a self-proclaimed \"Delivery God,\" who dreams of having millions of worshippers. Without a single shrine dedicated to his name, however, his goals are far from being realized. He spends his days doing odd jobs for five yen apiece, until his weapon partner becomes fed up with her useless master and deserts him.\nJust as things seem to be looking grim for the god, his fortune changes when a middle school girl, Hiyori Iki, supposedly saves Yato from a car accident, taking the hit for him. Remarkably, she survives, but the event has caused her soul to become loose and hence able to leave her body. Hiyori demands that Yato return her to normal, but upon learning that he needs a new partner to do so, reluctantly agrees to help him find one. And with Hiyori's help, Yato's luck may finally be turning around.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Noragami",
+    "jp": "Noragami"
+  },
+  "releasedAt": "2014-01-05T00:00:00.000Z",
+  "finishedAt": "2014-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7881/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7881/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "contemporary fantasy",
+    "ghost",
+    "shounen",
+    "super power",
+    "supernatural",
+    "swordplay",
+    "tone changes"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/noragami",
+    "http://www.funimation.com/shows/noragami/videos/episodes",
+    "http://www.hulu.com/noragami"
+  ],
+  "relations": {
+    "kitsu": "7881",
+    "anidb": "9925",
+    "anilist/anime": "20447",
+    "aozora": "eZZ5HvmkB3",
+    "hulu": "50014612",
+    "myanimelist/anime": "20507",
+    "thetvdb": "275610/1",
+    "thetvdb/series": "275610",
+    "trakt": "74197"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "monogatari-no-aru-satou",
+  "synopsis": "A short animation promoting the Komaya company. A lonely sugar elephant searches for companionship.",
+  "title": {
+    "jp": "Monogatari no Aru Satou"
+  },
+  "releasedAt": "2017-10-10T00:00:00.000Z",
+  "finishedAt": "2017-10-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40977/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40977",
+    "anilist/anime": "104323",
+    "aozora": "f7UnkjCkbz",
+    "myanimelist/anime": "36578"
+  }
+}

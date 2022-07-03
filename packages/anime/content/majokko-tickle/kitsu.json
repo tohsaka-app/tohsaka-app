@@ -1,0 +1,25 @@
+{
+  "slug": "majokko-tickle",
+  "synopsis": "On Chiiko's 11th birthday, her father gives her a special book. Inside the book is a trapped witch, Majokko Tickle. When Chiiko frees Tickle from the book, she uses her magic to pass off as Chiiko's twin sister.\n(Source: ANN)",
+  "title": {
+    "jp": "Majokko Tickle"
+  },
+  "releasedAt": "1978-03-06T00:00:00.000Z",
+  "finishedAt": "1979-01-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3321/original.jpg",
+  "categories": [
+    "comedy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3321",
+    "anidb": "3053",
+    "anilist/anime": "3881",
+    "aozora": "QSaUuJlswG",
+    "myanimelist/anime": "3881"
+  }
+}

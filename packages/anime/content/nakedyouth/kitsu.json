@@ -1,0 +1,34 @@
+{
+  "slug": "nakedyouth",
+  "synopsis": "In Naked Youth Shishido takes us on a journey through the uncertainty and excitement of young love and homoerotic love. These gentle films quiver with sexual tension, which is linked to the natural world: trees reflecting on the surface of a pond, butterflies fluttering in the breeze. ",
+  "title": {
+    "en": "Naked Youth",
+    "jp": "Nakedyouth"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3922/original.jpg",
+  "categories": [
+    "boxing",
+    "coming of age",
+    "high school",
+    "japan",
+    "present",
+    "romance",
+    "school clubs",
+    "shounen ai",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3922",
+    "anidb": "5728",
+    "anilist/anime": "5085",
+    "aozora": "wwKRiiHKu7",
+    "myanimelist/anime": "5085"
+  }
+}

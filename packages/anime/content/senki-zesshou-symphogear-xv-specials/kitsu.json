@@ -1,0 +1,25 @@
+{
+  "slug": "senki-zesshou-symphogear-xv-specials",
+  "synopsis": "Original short episodes featuring characters in super-deformed style. Bundled with Blu-ray/DVD volumes 3 to 6 of the anime.\n\n(Source: MyAnimeList)",
+  "title": {
+    "jp": "Senki Zesshou Symphogear XV: Senki Zesshou Shinai Symphogear"
+  },
+  "releasedAt": "2019-12-04T00:00:00.000Z",
+  "finishedAt": "2020-03-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43035/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "seinen",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43035",
+    "anilist/anime": "113348",
+    "myanimelist/anime": "40659"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "meat-or-die",
+  "synopsis": "The series of comedy shorts is set in New York in the future, when plants and dinosaurs have overrun the city. Yans and Gans are carnivorous dinosaurs who spend their days scaring and hunting down the herbivore dinosaurs.",
+  "title": {
+    "jp": "Meat or Die"
+  },
+  "releasedAt": "2009-10-02T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5096/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5096/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "future",
+    "post apocalypse",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5096",
+    "anidb": "7616",
+    "anilist/anime": "7721",
+    "aozora": "pOlYWUVDBy",
+    "myanimelist/anime": "7721"
+  }
+}

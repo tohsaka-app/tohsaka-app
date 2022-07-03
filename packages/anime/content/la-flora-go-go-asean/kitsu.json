@@ -1,0 +1,20 @@
+{
+  "slug": "la-flora-go-go-asean",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "2016-01-04T00:00:00.000Z",
+  "finishedAt": "2016-04-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45620/poster_image/716ceee61a7d61a9166ae9f2509eb25e.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45620",
+    "anidb": "13052"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "machine-hayabusa",
+  "synopsis": "Because of the appearance of a villain team, Black Shadow, the international racing was ruined. To compete with Black Shadow, Saionji Racing Team was founded. They developed a racing car, Hayabusa. It was a super racing machine that carries hyper power engine, Cavalier Engine. The main driver of the team was Hayabusa Ken whose big brother was killed by Black Shadow.\n(Source: AnimeNfo)",
+  "title": {
+    "jp": "Machine Hayabusa"
+  },
+  "releasedAt": "1976-04-02T00:00:00.000Z",
+  "finishedAt": "1976-09-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6241/original.jpg",
+  "categories": [
+    "action",
+    "motorsport",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6241",
+    "anidb": "1912",
+    "anilist/anime": "10562",
+    "aozora": "9kGjUv5K95",
+    "myanimelist/anime": "10562",
+    "thetvdb": "261250/1",
+    "thetvdb/series": "261250"
+  }
+}

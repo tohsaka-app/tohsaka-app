@@ -1,0 +1,36 @@
+{
+  "slug": "shirogane-no-ishi-argevollen",
+  "synopsis": "The Kingdom of Arandas Alliance and the Countries Unification of Ingelmia have been at war for many years. The situation has been at a stalemate across the fortress of the Great Wall, which has never been penetrated since the foundation of Arandas. The gate to the fortress has remained firmly closed, but when it creaks open, the complexity of war starts to change dramatically.\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Argevollen",
+    "jp": "Shirogane no Ishi: Argevollen"
+  },
+  "releasedAt": "2014-07-03T00:00:00.000Z",
+  "finishedAt": "2014-12-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8401/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "piloted robot",
+    "war"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/argevollen",
+    "http://www.hulu.com/argevollen"
+  ],
+  "relations": {
+    "kitsu": "8401",
+    "anidb": "10550",
+    "anilist/anime": "20667",
+    "aozora": "Rcu4Lhv9xJ",
+    "hulu": "50017259",
+    "myanimelist/anime": "23325",
+    "thetvdb": "279826/1",
+    "thetvdb/series": "279826",
+    "trakt": "76762"
+  }
+}

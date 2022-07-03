@@ -1,0 +1,28 @@
+{
+  "slug": "poketoon",
+  "synopsis": "Animations released on Pokémon Kids TV Japan YouTube channel\n\nEpisodes:\n#1: Zuruggu and Mimikkyu (ズルッグとミミッキュ), released June 4, 2020.\n#2: The Yancham Who Wants to Be a Hero (ヒーローになりたいヤンチャム), released May 5, 2021.\n#3: A Budding Dream (ユメノツボミ) released June 6, 2021.\n#4: Wait Here, Koiking! (まっててね！コイキング) released July 2, 2021\n#5: The Warm and Cozy Magmag House (ぽかぽかマグマッグハウス) released August 5, 2021\n#6: I Turned Into a Gengar! (ゲンガーになっちゃった！？)  released September 10, 2021\n#7: Summer Vacation Blizzard (ふぶきのなつやすみ) release October 8, 2021\n#8: Purin no Uta (プリンのうた), released December 28, 2021.",
+  "title": {
+    "jp": "Pokétoon"
+  },
+  "releasedAt": "2020-06-04T00:00:00.000Z",
+  "finishedAt": "2021-12-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/43228/poster_image/b3482ca965d06734b0454d0b780bec6e.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43228/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids",
+    "stereotypes"
+  ],
+  "externals": [
+    "https://youtu.be/u909_O6CqYc"
+  ],
+  "relations": {
+    "kitsu": "43228",
+    "anilist/anime": "119964",
+    "myanimelist/anime": "42161"
+  }
+}

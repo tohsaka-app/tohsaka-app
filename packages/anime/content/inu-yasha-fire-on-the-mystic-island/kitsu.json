@@ -1,0 +1,50 @@
+{
+  "slug": "inu-yasha-fire-on-the-mystic-island",
+  "synopsis": "The mysterious island of Houraijima has reappeared after 50 years, and with its reappearance has brought the attack of four gods, the Shitoushin, who have their eyes set on the powers that protect and sustain the island. Now it's up to Inuyasha and his friends, along with Sesshoumaru, to find a way to defeat the powerful Shitoushin. \n(Source: ANN)",
+  "title": {
+    "en": "InuYasha the Movie 4: Fire on the Mystic Island",
+    "jp": "InuYasha: Guren no Houraijima"
+  },
+  "releasedAt": "2004-12-23T00:00:00.000Z",
+  "finishedAt": "2004-12-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/412/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/412/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative past",
+    "asia",
+    "comedy",
+    "demon",
+    "earth",
+    "fantasy",
+    "historical",
+    "isekai",
+    "japan",
+    "parallel universe",
+    "past",
+    "romance",
+    "shounen",
+    "super power",
+    "swordplay"
+  ],
+  "externals": [
+    "crunchyroll.com/inuyasha-the-movie-4-fire-on-the-mystic-island",
+    "https://vrv.co/series/GRW4WQ7NY/Inuyasha-the-Movie-4-Fire-On-the-Mystic-Island",
+    "https://www.netflix.com/title/70052492",
+    "https://www.youtube.com/watch?v=KmgLd2ri5Jc"
+  ],
+  "relations": {
+    "kitsu": "412",
+    "anidb": "2321",
+    "anilist/anime": "449",
+    "aozora": "TYSsS8PHF5",
+    "hulu": "50002121",
+    "myanimelist/anime": "449",
+    "thetvdb": "71361",
+    "trakt": "60942"
+  }
+}

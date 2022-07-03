@@ -1,0 +1,26 @@
+{
+  "slug": "battle-spirits-shounen-gekiha-dan",
+  "synopsis": "The Japanese toy conglomerate Bandai has revealed that the second television anime series based on the Battle Spirits trading card game will premiere on September 13 under the name Battle Spirits: Shounen Gekiha Dan. The Sunrise anime studio will continue to produce along with the Nagoya TV station and the Asatsu-DK (ADK) advertising agency. JAM Project (MazinKaiser, Yu-Gi-Oh! Duel Monster GX, Super Robot Wars) will perform the opening theme and Mitsuhiro Oikawa (Battle Spirits: Shounen Toppa Bashin, Revolutionary Girl Utena: The Movie) will sing the ending theme. Like the first anime series, the new series will incorporate computer graphics to portray the battles from the card game.\n(Source: ANN)",
+  "title": {
+    "jp": "Battle Spirits: Shounen Gekiha Dan"
+  },
+  "releasedAt": "2009-09-13T00:00:00.000Z",
+  "finishedAt": "2010-09-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4779/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4779",
+    "anidb": "6978",
+    "anilist/anime": "6901",
+    "aozora": "pf7XJ6TgaN",
+    "myanimelist/anime": "6901"
+  }
+}

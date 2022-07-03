@@ -1,0 +1,25 @@
+{
+  "slug": "san-biki-no-koguma-san",
+  "synopsis": "A story of three little bears going on an adventure to find the lost little duck.",
+  "title": {
+    "en": "Three Little Bears",
+    "jp": "San-biki no Koguma-san"
+  },
+  "releasedAt": "1931-01-01T00:00:00.000Z",
+  "finishedAt": "1931-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10485/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10485",
+    "anidb": "11880",
+    "anilist/anime": "125790",
+    "aozora": "LUkCN4TPyJ",
+    "myanimelist/anime": "29559"
+  }
+}

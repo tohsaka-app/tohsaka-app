@@ -1,0 +1,22 @@
+{
+  "slug": "seer-da-dianying-xunzhao-fenghuang-shenshou",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "2011-07-28T00:00:00.000Z",
+  "finishedAt": "2011-07-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44045/original.png",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44045",
+    "anilist/anime": "129550"
+  }
+}

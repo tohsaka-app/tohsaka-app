@@ -1,0 +1,20 @@
+{
+  "slug": "asunal-kanayama",
+  "synopsis": "Animated commercials for Asunal Kanayama, a large open-air mall in Nagoya.",
+  "title": {
+    "jp": "Asunal Kanayama"
+  },
+  "releasedAt": "2013-06-03T00:00:00.000Z",
+  "finishedAt": "2015-04-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41801/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41801",
+    "anilist/anime": "109690",
+    "myanimelist/anime": "37535"
+  }
+}

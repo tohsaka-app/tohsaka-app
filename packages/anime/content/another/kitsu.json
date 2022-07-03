@@ -1,0 +1,45 @@
+{
+  "slug": "another",
+  "synopsis": "In 1972, a popular student in Yomiyama North Middle School's class 3-3 named Misaki passed away during the school year. Since then, the town of Yomiyama has been shrouded by a fearful atmosphere, from the dark secrets hidden deep within.\nTwenty-six years later, 15-year-old Kouichi Sakakibara transfers into class 3-3 of Yomiyama North and soon after discovers that a strange, gloomy mood seems to hang over all the students. He also finds himself drawn to the mysterious, eyepatch-wearing student Mei Misaki; however, the rest of the class and the teachers seem to treat her like she doesn't exist. Paying no heed to warnings from everyone including Mei herself, Kouichi begins to get closer not only to her, but also to the truth behind the gruesome phenomenon plaguing class 3-3 of Yomiyama North.Another follows Kouichi, Mei, and their classmates as they are pulled into the enigma surrounding a series of inevitable, tragic events—but unraveling the horror of Yomiyama may just cost them the ultimate price.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Another",
+    "jp": "Another"
+  },
+  "releasedAt": "2012-01-10T00:00:00.000Z",
+  "finishedAt": "2012-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6462/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6462/original.jpg",
+  "categories": [
+    "angst",
+    "asia",
+    "drama",
+    "earth",
+    "horror",
+    "japan",
+    "middle school",
+    "mystery",
+    "plot continuity",
+    "present",
+    "school life",
+    "thriller",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/another",
+    "http://www.hulu.com/another"
+  ],
+  "relations": {
+    "kitsu": "6462",
+    "anidb": "8556",
+    "anilist/anime": "11111",
+    "aozora": "GwCBzow207",
+    "hulu": "50006525",
+    "myanimelist/anime": "11111",
+    "thetvdb": "254349/1",
+    "thetvdb/series": "254349",
+    "trakt": "42364"
+  }
+}

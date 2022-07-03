@@ -1,0 +1,22 @@
+{
+  "slug": "ousama-no-takaramono",
+  "synopsis": "A bird steals a king's treasure and becomes upset. A boy helps the kind feel better and he realizes that his greatest treasure is his friends and family rather than gold and jewels.",
+  "title": {
+    "jp": "Ousama no Takaramono"
+  },
+  "releasedAt": "2009-02-01T00:00:00.000Z",
+  "finishedAt": "2009-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41186/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41186",
+    "myanimelist/anime": "37688"
+  }
+}

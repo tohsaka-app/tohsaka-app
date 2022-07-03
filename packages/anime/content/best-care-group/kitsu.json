@@ -1,0 +1,23 @@
+{
+  "slug": "best-care-group",
+  "synopsis": "Commercials for Best Care Group, a facility that provides elderly entertainment assistance in Japan. ",
+  "title": {
+    "jp": "Best Care Group"
+  },
+  "releasedAt": "2012-09-12T00:00:00.000Z",
+  "finishedAt": "2014-09-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12799/original.jpg",
+  "categories": [
+    "drama",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12799",
+    "aozora": "NE1vxBk1F4",
+    "myanimelist/anime": "33940"
+  }
+}

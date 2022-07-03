@@ -1,0 +1,29 @@
+{
+  "slug": "shadow-skill-1996",
+  "synopsis": "In a war torn world of deadly conflict, one small group of heroes stands against the forces of darkness, armed only with two weapons—their unswerving dedication to good and the superhuman martial art known as the Shadow Skill... \n(Source: ANN) ",
+  "title": {
+    "en": "Shadow Skill: The Movie",
+    "jp": "Shadow Skill (1996)"
+  },
+  "releasedAt": "1996-09-21T00:00:00.000Z",
+  "finishedAt": "1996-11-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/621/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "martial arts",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "621",
+    "anidb": "348",
+    "anilist/anime": "679",
+    "aozora": "miZrFfavLC",
+    "myanimelist/anime": "679"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "kyoushoku-soukou-guyver-2005",
+  "synopsis": "Sho Fukamachi, a normal teenager accidentally found an alien object called Unit and thus, changed his life forever. The Unit bonded with Sho, resulting in an incredibly powerful life-form called Guyver. With this great power, Sho battles the mysterious Chronos organization and it's Zoanoids, in order to protect his friends and his world. Unknown to Sho, the battle against Chronos will lead to the discovery of the origins of human, their destiny, and the Creators...\n(Source: ANN)",
+  "title": {
+    "jp": "Kyoushoku Soukou Guyver (2005)"
+  },
+  "releasedAt": "2005-08-06T00:00:00.000Z",
+  "finishedAt": "2006-02-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1228/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "conspiracy",
+    "dark fantasy",
+    "horror",
+    "parasite",
+    "power suit",
+    "present",
+    "school life",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/guyver-the-bioboosted-armor",
+    "https://www.funimation.com/shows/84041/",
+    "https://www.hulu.com/guyver-the-bioboosted-armor"
+  ],
+  "relations": {
+    "kitsu": "1228",
+    "anidb": "3185",
+    "anilist/anime": "1374",
+    "aozora": "mFa9OxqCn1",
+    "hulu": "50000939",
+    "myanimelist/anime": "1374",
+    "thetvdb": "79104/1",
+    "thetvdb/series": "79104",
+    "trakt": "35430"
+  }
+}

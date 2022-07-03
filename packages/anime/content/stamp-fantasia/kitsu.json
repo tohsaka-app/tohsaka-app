@@ -1,0 +1,24 @@
+{
+  "slug": "stamp-fantasia",
+  "synopsis": "Short experimental animation from 1961 from animation pioneer Yoji Kuri.",
+  "title": {
+    "jp": "Kitte no Gensou"
+  },
+  "releasedAt": "1961-01-01T00:00:00.000Z",
+  "finishedAt": "1961-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4845/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4845",
+    "anidb": "8572",
+    "anilist/anime": "7032",
+    "aozora": "khoOVlUJp7",
+    "myanimelist/anime": "7032"
+  }
+}

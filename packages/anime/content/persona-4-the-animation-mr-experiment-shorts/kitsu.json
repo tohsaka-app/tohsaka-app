@@ -1,0 +1,23 @@
+{
+  "slug": "persona-4-the-animation-mr-experiment-shorts",
+  "synopsis": "Short animations included in the Persona 4 The Animation Collection 2nd DVD Box set.",
+  "title": {
+    "jp": "Persona 4 the Animation: Mr. Experiment Shorts"
+  },
+  "releasedAt": "2013-04-01T00:00:00.000Z",
+  "finishedAt": "2013-04-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8785/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8785",
+    "anilist/anime": "127042",
+    "aozora": "HFz27uRgNz",
+    "myanimelist/anime": "25257"
+  }
+}

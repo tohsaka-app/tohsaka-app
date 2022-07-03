@@ -1,0 +1,20 @@
+{
+  "slug": "humanoid-mv",
+  "synopsis": "\"Humanoid\" Music Video\r\n\r\nLyrics, Music, and Vocal: ACAne\r\nArrangement: Akihiro Sekiguchi, ramseeni, Naoki Itai (MUSIC FOR MUSIC)\r\nIllustration and Animation: sakiyama\r\nMovie: notai",
+  "title": {
+    "en": "Humanoid",
+    "jp": "Humanoid"
+  },
+  "releasedAt": "2018-11-06T00:00:00.000Z",
+  "finishedAt": "2018-11-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "categories": [],
+  "externals": [
+    "https://youtu.be/GAB26GgJ8V8"
+  ],
+  "relations": {
+    "kitsu": "42312"
+  }
+}

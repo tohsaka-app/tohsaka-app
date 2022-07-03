@@ -1,0 +1,36 @@
+{
+  "slug": "pop-team-epic",
+  "synopsis": "Popuko and Pipimi are a pair of foul-mouthed girls ready to take on every pop culture reference ever made. Pop Team Epic follows the pair through a series of surreal skits and short stories full of internet, movie, video game, and self-referential based comedy.\n\n(Source: Anime News Network)",
+  "title": {
+    "jp": "Pop Team Epic"
+  },
+  "releasedAt": "2018-01-07T00:00:00.000Z",
+  "finishedAt": "2018-03-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13319/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13319/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "comedy",
+    "parody",
+    "satire",
+    "slapstick",
+    "super deformed"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/pop-team-epic",
+    "https://vrv.co/series/G64PM71PR/Pop-Team-Epic",
+    "https://vrv.co/series/G69P1K90Y/Pop-Team-Epic",
+    "https://www.funimation.com/shows/pop-team-epic/",
+    "https://www.hidive.com/tv/pop-team-epic"
+  ],
+  "relations": {
+    "kitsu": "13319",
+    "anilist/anime": "98549",
+    "aozora": "WanOKC0fZp",
+    "myanimelist/anime": "35330",
+    "thetvdb": "339278/1"
+  }
+}

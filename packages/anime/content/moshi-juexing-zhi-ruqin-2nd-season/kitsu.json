@@ -1,0 +1,23 @@
+{
+  "slug": "moshi-juexing-zhi-ruqin-2nd-season",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2019-07-11T00:00:00.000Z",
+  "finishedAt": "2019-10-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44649/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44649",
+    "anilist/anime": "120231",
+    "myanimelist/anime": "45445"
+  }
+}

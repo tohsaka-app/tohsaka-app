@@ -1,0 +1,24 @@
+{
+  "slug": "mahou-shoujo-lyrical-nanoha-vivid-special-program",
+  "synopsis": "Recap of the Mahou Shoujo Lyrical Nanoha ViVid TV anime.",
+  "title": {
+    "jp": "Mahou Shoujo Lyrical Nanoha ViVid: Special Program"
+  },
+  "releasedAt": "2015-06-26T00:00:00.000Z",
+  "finishedAt": "2015-06-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11185/original.jpg",
+  "categories": [
+    "action",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11185",
+    "aozora": "gmOrTH9XQ1",
+    "myanimelist/anime": "31137"
+  }
+}

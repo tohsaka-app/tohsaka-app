@@ -1,0 +1,37 @@
+{
+  "slug": "net-ghost-pipopa",
+  "synopsis": "About a young boy named Akigawa Yuta who gets sucked into a virtual world through his cell phone. He meets three strange creatures that travel with him on Yuta's adventure in this strange new world.",
+  "title": {
+    "en": "Web Ghosts PiPoPa",
+    "jp": "Net Ghost Pipopa"
+  },
+  "releasedAt": "2008-04-06T00:00:00.000Z",
+  "finishedAt": "2009-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3431/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "future",
+    "kids",
+    "magic",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/web-ghosts-pipopa"
+  ],
+  "relations": {
+    "kitsu": "3431",
+    "anidb": "5773",
+    "anilist/anime": "4051",
+    "aozora": "yBP5SggQRf",
+    "myanimelist/anime": "4051",
+    "thetvdb": "227751/1",
+    "thetvdb/series": "227751",
+    "trakt": "44277"
+  }
+}

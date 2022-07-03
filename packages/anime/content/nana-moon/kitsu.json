@@ -1,0 +1,25 @@
+{
+  "slug": "nana-moon",
+  "synopsis": "There is a mysterious Nana Moon in the universe with lovely little moonies as residents. One day, a girl named Coco from the Earth suddenly appeared, which reminded the moonies of an old saying that whenever a catastrophe would happen, a human with magic power will surely come from the Earth to help them discover 7 treasures to rescue Nana Moon.\n\n(Source: Official Youtube)",
+  "title": {
+    "en": null,
+    "jp": "Nana Moon"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12622/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12622",
+    "anilist/anime": "104362",
+    "aozora": "aUc9v8cZ5H",
+    "myanimelist/anime": "33583"
+  }
+}

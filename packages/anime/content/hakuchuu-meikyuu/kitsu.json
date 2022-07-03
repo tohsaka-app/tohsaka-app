@@ -1,0 +1,23 @@
+{
+  "slug": "hakuchuu-meikyuu",
+  "synopsis": "Short animation by Taro Shinkai.",
+  "title": {
+    "jp": "Hakuchuu Meikyuu"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10572/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10572",
+    "anilist/anime": "103168",
+    "aozora": "5ykzU7jQdr",
+    "myanimelist/anime": "29972"
+  }
+}

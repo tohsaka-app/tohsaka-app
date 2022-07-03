@@ -1,0 +1,33 @@
+{
+  "slug": "ousama-ranking",
+  "synopsis": "How prosperous your nation is, how many powerful warriors it boasts, and how heroic and strong its king is. These are the criteria that factor into the system known as the Ranking of Kings. The main character, Bojji, was born the first prince of the kingdom ruled by King Bossu, who is ranked number seven. But Bojji was born unable to hear and is so powerless that he can’t even swing a sword. In consequence, his own retainers and the public, look down upon him as completely unfit to be king. It is then that Bojji finds his first friend, Kage, and Bojji’s life takes a dramatic turn…\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Ranking of Kings",
+    "jp": "Ousama Ranking"
+  },
+  "releasedAt": "2021-10-14T00:00:00.000Z",
+  "finishedAt": "2022-03-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/43849/poster_image/c4bb1dcd2789c323628bd97599d1408c.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/43849/cover_image/50bf254fd6858adeaaa5a2f63a6a4860.png",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "historical",
+    "seinen"
+  ],
+  "externals": [
+    "https://www.amazon.com/Ranking-Kings-Original-Japanese-Version/dp/B09KB66WH8",
+    "https://www.crunchyroll.com/ranking-of-kings",
+    "https://www.funimation.com/shows/ranking-of-kings/"
+  ],
+  "relations": {
+    "kitsu": "43849",
+    "anilist/anime": "113717",
+    "myanimelist/anime": "40834"
+  }
+}

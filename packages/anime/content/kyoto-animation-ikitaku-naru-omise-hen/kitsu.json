@@ -1,0 +1,26 @@
+{
+  "slug": "kyoto-animation-ikitaku-naru-omise-hen",
+  "synopsis": "Kyoto Animation commercial for the Kyoto Animation Shop.",
+  "title": {
+    "en": "Shop",
+    "jp": "Kyoto Animation: Ikitaku Naru Omise-hen"
+  },
+  "releasedAt": "2012-07-01T00:00:00.000Z",
+  "finishedAt": "2012-07-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7739/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7739/original.png",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7739",
+    "anidb": "9758",
+    "anilist/anime": "17791",
+    "aozora": "hWSKHkCW2D",
+    "myanimelist/anime": "17791"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "vampire-s-pathos",
+  "synopsis": "If you believe that tradition is a long-lost pathos… Then tonight we shall finally capture that monster making the town thrive in the middle of nowhere.\n\n(Source: Vocaloid Wiki)",
+  "title": {
+    "en": "Vampire’s ∞ pathoS",
+    "jp": "Vampire’s ∞ pathoS"
+  },
+  "releasedAt": "2019-08-03T00:00:00.000Z",
+  "finishedAt": "2019-08-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44499/original.png",
+  "categories": [
+    "action",
+    "music",
+    "supernatural",
+    "vampire"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=R0CRCP0DPyM"
+  ],
+  "relations": {
+    "kitsu": "44499"
+  }
+}

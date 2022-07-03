@@ -1,0 +1,24 @@
+{
+  "slug": "hedler-no-yama",
+  "synopsis": "A monster \"Hedler\" is born from the mountain. Who gets bigger and smellier as he eats the town's garbage. The song is meant to invoke children to pick up their trash, to not litter, and to respect the environment.",
+  "title": {
+    "jp": "Hedler no Yama"
+  },
+  "releasedAt": "1994-10-01T00:00:00.000Z",
+  "finishedAt": "1994-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40918/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40918",
+    "anilist/anime": "120709",
+    "aozora": "cAbx9MIeya",
+    "myanimelist/anime": "36376"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "kanashiki-debu-neko-chan",
+  "synopsis": "The anime's story centers on a cat named Maru, adopted by a girl named Anna from a shelter in Matsuyama city. Loved and well fed by the family, Maru gets rounder and fatter every day, spending most of his day sitting by the window and looking at the garden outside. When the family gets a new cat named Cerisier and begins doting on it, Maru gets jealous. In a fight with Cerisier, Maru is hurt by the family's words to him, and follows the advice of another cat to leave and see the world.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "The Sad and Fat Cat",
+    "jp": "Kanashiki Debu Neko-chan"
+  },
+  "releasedAt": "2021-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45223/poster_image/6bc60383e26a06c935450fcf1951b914.png",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45223",
+    "anilist/anime": "131477",
+    "myanimelist/anime": "49431"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "nemuri-no-mori",
+  "synopsis": "Music video for the single Nemuri no Mori by Aimer. The video was directed by Gaku Kinoshita.\n",
+  "title": {
+    "jp": "Nemuri no Mori"
+  },
+  "releasedAt": "2013-08-04T00:00:00.000Z",
+  "finishedAt": "2013-08-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43439/original.jpg",
+  "categories": [
+    "adventure",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=A6btE6zdHfw"
+  ],
+  "relations": {
+    "kitsu": "43439",
+    "anilist/anime": "140866",
+    "myanimelist/anime": "42433"
+  }
+}

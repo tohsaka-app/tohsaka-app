@@ -1,0 +1,25 @@
+{
+  "slug": "ginga-hyouryuu-vifam-atsumatta-13-nin",
+  "synopsis": "A summary of the second half of the Galactic Drifter Vifam series.",
+  "title": {
+    "jp": "Ginga Hyouryuu Vifam: Atsumatta 13-nin"
+  },
+  "releasedAt": "1984-12-21T00:00:00.000Z",
+  "finishedAt": "1984-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5714/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5714",
+    "anidb": "2364",
+    "aozora": "XSIm3BhYat"
+  }
+}

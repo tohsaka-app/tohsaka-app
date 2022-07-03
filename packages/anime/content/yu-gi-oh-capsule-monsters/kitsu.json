@@ -1,0 +1,29 @@
+{
+  "slug": "yu-gi-oh-capsule-monsters",
+  "synopsis": "A twelve-episode mini-series, serving as a spin-off to the second Yu-Gi-Oh! anime series. It is set between the Grand Championship and Dawn of the Duel story-arcs of the Yu-Gi-Oh! series.",
+  "title": {},
+  "releasedAt": "2006-09-09T00:00:00.000Z",
+  "finishedAt": "2006-11-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7921/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7921/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "card games",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "science fiction",
+    "shounen",
+    "virtual reality"
+  ],
+  "externals": [
+    "https://www.hulu.com/yu-gi-oh"
+  ],
+  "relations": {
+    "kitsu": "7921"
+  }
+}

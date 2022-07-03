@@ -1,0 +1,24 @@
+{
+  "slug": "shining-hearts-shiawase-no-pan-specials",
+  "synopsis": "The 6 short \"Chibi Style\" Specials on each of the Blu-rays/DVDs.",
+  "title": {
+    "en": "Shining Hearts: Bread of Happiness Specials",
+    "jp": "Shining Hearts: Shiawase no Pan Specials"
+  },
+  "releasedAt": "2012-07-27T00:00:00.000Z",
+  "finishedAt": "2012-12-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7264/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7264",
+    "anilist/anime": "15505",
+    "aozora": "NJIzvL7NJ4",
+    "myanimelist/anime": "15505"
+  }
+}

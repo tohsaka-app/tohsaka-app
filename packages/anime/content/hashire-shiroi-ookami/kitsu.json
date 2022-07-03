@@ -1,0 +1,27 @@
+{
+  "slug": "hashire-shiroi-ookami",
+  "synopsis": "A boy named Lasset who lives on a farm in the rural northern US makes a perilous trek through the wilderness to a sanctuary 300 miles to the north to save the life of a gray wolf that he had raised from a puppy after an incident in which the wolf kills the family dog.",
+  "title": {
+    "en": "White Fang",
+    "jp": "Hashire! Shiroi Ookami"
+  },
+  "releasedAt": "1990-04-28T00:00:00.000Z",
+  "finishedAt": "1990-04-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4352/original.jpg",
+  "categories": [
+    "adventure",
+    "present",
+    "united states"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4352",
+    "anidb": "3189",
+    "anilist/anime": "5936",
+    "aozora": "nH8oO0eUTe",
+    "myanimelist/anime": "5936"
+  }
+}

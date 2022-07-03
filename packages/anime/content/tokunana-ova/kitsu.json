@@ -1,0 +1,28 @@
+{
+  "slug": "tokunana-ova",
+  "synopsis": "The OVA will be focus on when Kujaku Nijou first entering group, which occurs one year before the main anime begins.\n\n(Source: MAL)",
+  "title": {
+    "en": "Special 7: Special Crime Investigation Unit - One Year Earlier: Kujaku Nijo's Melancholy",
+    "jp": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA"
+  },
+  "releasedAt": "2020-01-24T00:00:00.000Z",
+  "finishedAt": "2020-01-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42963/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "fantasy",
+    "vampire"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/special-7-special-crime-investigation-unit/"
+  ],
+  "relations": {
+    "kitsu": "42963",
+    "anilist/anime": "113864",
+    "myanimelist/anime": "40762"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "snow-fairy-story",
+  "synopsis": "",
+  "title": {
+    "jp": "Snow Fairy Story"
+  },
+  "releasedAt": "2015-01-31T00:00:00.000Z",
+  "finishedAt": "2015-01-31T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13355/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13355/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13355"
+  }
+}

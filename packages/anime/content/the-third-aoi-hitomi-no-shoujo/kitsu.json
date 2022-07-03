@@ -1,0 +1,41 @@
+{
+  "slug": "the-third-aoi-hitomi-no-shoujo",
+  "synopsis": "In a devastated world overrun by monstrous bugs and ravaged by outlaws, there’s only one person to call when you really need a job done right: Honoka. With a sixth sense for danger, sword skills second to none, and a smart-aleck A.I. tank by the name of Bogie, she’s ready to tackle any job and solve any problem for her clients. But while crossing the desert one night, she finds a young man alone in the wasteland. It’s the first step of a journey that will challenge even Honoka’s amazing skills to their very limit!\n\n(Source: Nozomi Entertainment)",
+  "title": {
+    "en": "The Third: The Girl with the Blue Eye",
+    "jp": "The Third: Aoi Hitomi no Shoujo"
+  },
+  "releasedAt": "2006-04-14T00:00:00.000Z",
+  "finishedAt": "2006-10-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/840/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "contemporary fantasy",
+    "desert",
+    "earth",
+    "future",
+    "post apocalypse",
+    "power suit",
+    "robot helper",
+    "science fiction",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-third-the-girl-with-the-blue-eye",
+    "https://tubitv.com/series/1034/the_third_the_girl_with_the_blue_eye"
+  ],
+  "relations": {
+    "kitsu": "840",
+    "anidb": "4088",
+    "anilist/anime": "944",
+    "aozora": "bviY8P6Dic",
+    "myanimelist/anime": "944",
+    "thetvdb": "80205",
+    "thetvdb/series": "80205",
+    "trakt": "42267"
+  }
+}

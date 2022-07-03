@@ -1,0 +1,23 @@
+{
+  "slug": "minna-de-tonda",
+  "synopsis": "An educational film about compassion. The story follows a class trying to break a jump rope record and one student is terrible at the task. The issue causes a divide in the classroom.",
+  "title": {
+    "jp": "Minna de Tonda"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10989/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10989",
+    "aozora": "T28rm9XiYw",
+    "myanimelist/anime": "30759"
+  }
+}

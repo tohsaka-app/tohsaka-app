@@ -1,0 +1,35 @@
+{
+  "slug": "prism-ark",
+  "synopsis": "The Sablum Empire has been attempting to take over the kingdom of Windland for many years, and are now plotting with the mercenaries Sister Hell and Darkness Knight to start a new offensive using powerful magical beings called Angels. \nHyaweh, a carefree yet talented swordsman, and Priecia, who just might be the lost princess of Windland, are enrolled at the Knight's Academy in Windland to hone their skill at swords and sorcery. There they meet many friends and allies who can help them protect their homeland from the impending invasion. ",
+  "title": {
+    "jp": "Prism Ark"
+  },
+  "releasedAt": "2007-10-08T00:00:00.000Z",
+  "finishedAt": "2007-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1626/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1626",
+    "anidb": "5068",
+    "anilist/anime": "1807",
+    "aozora": "mawVwCVBY8",
+    "myanimelist/anime": "1807",
+    "thetvdb": "93491/1",
+    "thetvdb/series": "93491",
+    "trakt": "64076"
+  }
+}

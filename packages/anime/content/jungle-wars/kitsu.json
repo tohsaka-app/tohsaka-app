@@ -1,0 +1,25 @@
+{
+  "slug": "jungle-wars",
+  "synopsis": "Based on the RPG game series \"Jungle Wars\", released on Game Boy and Super Famicom.\n(Source: AniDB)",
+  "title": {
+    "jp": "Jungle Wars"
+  },
+  "releasedAt": "1991-06-21T00:00:00.000Z",
+  "finishedAt": "1991-06-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9356/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9356",
+    "anidb": "7696",
+    "anilist/anime": "17473",
+    "aozora": "MzBKAm5WGz",
+    "myanimelist/anime": "17473"
+  }
+}

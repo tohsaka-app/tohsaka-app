@@ -1,0 +1,24 @@
+{
+  "slug": "tide-line-blue-special",
+  "synopsis": "13th episode of the series (DVD only).",
+  "title": {
+    "jp": "Tide-Line Blue Special"
+  },
+  "releasedAt": "2006-04-26T00:00:00.000Z",
+  "finishedAt": "2006-04-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/891/original.jpg",
+  "categories": [
+    "adventure",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "891",
+    "anilist/anime": "1001",
+    "aozora": "rOtRYh0I84",
+    "myanimelist/anime": "1001"
+  }
+}

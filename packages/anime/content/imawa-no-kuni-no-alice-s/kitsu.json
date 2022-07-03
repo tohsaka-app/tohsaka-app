@@ -1,0 +1,23 @@
+{
+  "slug": "imawa-no-kuni-no-alice-s",
+  "synopsis": "An animated commercial produced by Production I.G to advertise Shogakukan's manga series of the same name.",
+  "title": {
+    "jp": "Imawa no Kuni no Alice"
+  },
+  "releasedAt": "2013-07-09T00:00:00.000Z",
+  "finishedAt": "2013-07-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11766/original.jpg",
+  "categories": [
+    "action",
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11766",
+    "aozora": "1o9lbKE7BX",
+    "myanimelist/anime": "32548"
+  }
+}

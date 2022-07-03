@@ -1,0 +1,24 @@
+{
+  "slug": "manzai-taikouki",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Manzai Taikouki"
+  },
+  "releasedAt": "1981-11-28T00:00:00.000Z",
+  "finishedAt": "1981-11-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9435/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9435",
+    "anidb": "4586",
+    "aozora": "MIq5ZscP99",
+    "myanimelist/anime": "24683"
+  }
+}

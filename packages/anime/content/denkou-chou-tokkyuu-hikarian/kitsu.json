@@ -1,0 +1,28 @@
+{
+  "slug": "denkou-chou-tokkyuu-hikarian",
+  "synopsis": "The second season of Chou Tokkyuu Hikarian.",
+  "title": {
+    "jp": "Denkou Chou Tokkyuu Hikarian"
+  },
+  "releasedAt": "2002-04-07T00:00:00.000Z",
+  "finishedAt": "2003-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5548/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5548",
+    "anidb": "4064",
+    "anilist/anime": "8956",
+    "aozora": "FvXnEtSA7V",
+    "myanimelist/anime": "8956"
+  }
+}

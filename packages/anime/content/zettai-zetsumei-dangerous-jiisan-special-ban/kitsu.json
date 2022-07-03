@@ -1,0 +1,23 @@
+{
+  "slug": "zettai-zetsumei-dangerous-jiisan-special-ban",
+  "synopsis": "Jiisan tries to compete at the local marathon against all his friends.",
+  "title": {
+    "jp": "Zettai Zetsumei Dangerous Jiisan Special-ban"
+  },
+  "releasedAt": "2003-12-30T00:00:00.000Z",
+  "finishedAt": "2003-12-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9129/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9129",
+    "aozora": "eaQCDC4zA0",
+    "myanimelist/anime": "23315"
+  }
+}

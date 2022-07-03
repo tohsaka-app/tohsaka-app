@@ -1,0 +1,35 @@
+{
+  "slug": "let-s-nupu-nupu",
+  "synopsis": "With four-frame comic origins, this animated title preserves the same quick pace by following the regular cast of colorful characters through separate but interwoven story lines in every episode. From Ms. Shitara's relentless but always ineffective sexual pursuit of young Takagi to the adventures of the heroicly stupid but cute Sushi Cat, you will be mystified at the silliness of it all but find yourself laughing for the same reason! \n(Source: AniDB)",
+  "title": {
+    "en": "Let's Nupu Nupu",
+    "jp": "Let's Nupu Nupu"
+  },
+  "releasedAt": "1998-10-05T00:00:00.000Z",
+  "finishedAt": "1998-11-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3942/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "elementary school",
+    "japan",
+    "school life",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3942",
+    "anidb": "3297",
+    "anilist/anime": "21486",
+    "aozora": "HkSnrT7ifZ",
+    "myanimelist/anime": "5132",
+    "thetvdb": "265632/1",
+    "thetvdb/series": "265632",
+    "trakt": "72701"
+  }
+}

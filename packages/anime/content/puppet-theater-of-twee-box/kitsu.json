@@ -1,0 +1,20 @@
+{
+  "slug": "puppet-theater-of-twee-box",
+  "synopsis": "",
+  "title": {
+    "jp": "Puppet Theater of Twee-Box"
+  },
+  "releasedAt": "2013-05-01T00:00:00.000Z",
+  "finishedAt": "2013-05-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13447/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13447"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "ttoli-janggun",
+  "synopsis": "An anti-communist animation about a boy catching Noth Korean spies in South Korea.",
+  "title": {
+    "jp": "Ttoli Janggun"
+  },
+  "releasedAt": "1978-01-01T00:00:00.000Z",
+  "finishedAt": "1978-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9772/original.jpg",
+  "categories": [
+    "action",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9772",
+    "anilist/anime": "19555",
+    "aozora": "3rLauQHrgE",
+    "myanimelist/anime": "19555"
+  }
+}

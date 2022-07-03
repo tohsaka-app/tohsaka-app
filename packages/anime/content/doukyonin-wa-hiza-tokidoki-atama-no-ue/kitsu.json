@@ -1,0 +1,29 @@
+{
+  "slug": "doukyonin-wa-hiza-tokidoki-atama-no-ue",
+  "synopsis": "The story of Mikazuki Subaru, a novelist who is shy and struggles in relationships with other people, and a cat who was dumped by humans and lived a tough life on the streets. Through a twist of fate, the two of them end up living together. This heartwarming tale illustrates day-to-day life through the eyes of both man and cat. These moments seem trivial, but as they build upon themselves, the two become family and find happiness in their life together.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "My Roommate is a Cat",
+    "jp": "Doukyonin wa Hiza, Tokidoki, Atama no Ue."
+  },
+  "releasedAt": "2019-01-09T00:00:00.000Z",
+  "finishedAt": "2019-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42000/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42000/original.png",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/my-roommate-is-a-cat",
+    "https://www.funimation.com/shows/my-roommate-is-a-cat/"
+  ],
+  "relations": {
+    "kitsu": "42000",
+    "anidb": "a14253",
+    "anilist/anime": "103874",
+    "myanimelist/anime": "38145"
+  }
+}

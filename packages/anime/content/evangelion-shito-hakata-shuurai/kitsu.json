@@ -1,0 +1,26 @@
+{
+  "slug": "evangelion-shito-hakata-shuurai",
+  "synopsis": "A short movie screened at Canal Aqua Panorama in Fukuoka City.",
+  "title": {
+    "en": "Rebuild of Evangelion: Hakata Angel Attack Alternative",
+    "jp": "Evangelion Shito, Hakata Shuurai"
+  },
+  "releasedAt": "2019-06-07T00:00:00.000Z",
+  "finishedAt": "2019-06-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45532/poster_image/994bdb7165afa7a760067b6e414588d8.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "mecha",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45532",
+    "myanimelist/anime": "41030"
+  }
+}

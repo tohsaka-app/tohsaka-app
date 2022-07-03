@@ -1,0 +1,25 @@
+{
+  "slug": "kappa-kawatarou",
+  "synopsis": "A kappa village is devastated by a large storm during festival preparations. With no fish in the river, the village is weakened. Kawatarou and his girlfriend head the mountains to find anything to bring back.",
+  "title": {
+    "jp": "Kappa Kawatarou"
+  },
+  "releasedAt": "1954-04-01T00:00:00.000Z",
+  "finishedAt": "1954-04-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9365/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9365",
+    "anidb": "6870",
+    "anilist/anime": "114344",
+    "aozora": "mG8gHCpuem",
+    "myanimelist/anime": "23639"
+  }
+}

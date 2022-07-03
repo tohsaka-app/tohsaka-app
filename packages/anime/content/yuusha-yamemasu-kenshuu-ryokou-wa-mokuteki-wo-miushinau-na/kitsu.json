@@ -1,0 +1,26 @@
+{
+  "slug": "yuusha-yamemasu-kenshuu-ryokou-wa-mokuteki-wo-miushinau-na",
+  "synopsis": "A two-part new animation released with both Blu-ray/DVD boxes.",
+  "title": {
+    "en": "I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity",
+    "jp": "Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na"
+  },
+  "releasedAt": "2022-06-24T00:00:00.000Z",
+  "finishedAt": "2022-08-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46219/poster_image/d5627d5f1b613a74865e49acad50d83e.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46219",
+    "anilist/anime": "140457",
+    "myanimelist/anime": "51562"
+  }
+}

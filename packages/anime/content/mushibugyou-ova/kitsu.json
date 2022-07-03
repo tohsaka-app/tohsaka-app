@@ -1,0 +1,30 @@
+{
+  "slug": "mushibugyou-ova",
+  "synopsis": "OVAs bundled with the 15-17th volumes of the Mushibugyou manga.",
+  "title": {
+    "jp": "Mushibugyou OVA"
+  },
+  "releasedAt": "2014-07-18T00:00:00.000Z",
+  "finishedAt": "2015-01-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8560/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "samurai",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8560",
+    "anidb": "10627",
+    "anilist/anime": "20909",
+    "aozora": "1QGetDGVLH",
+    "myanimelist/anime": "24171"
+  }
+}

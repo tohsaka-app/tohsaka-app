@@ -1,0 +1,27 @@
+{
+  "slug": "the-doraemons-the-mysterious-thief-dorapan-the-mysterious-cartel",
+  "synopsis": "The mysterious thief Dorapin sets up a scheme with the intent of stealing the Friendship Telecards from the Doraemons. \n(Source: ANN) ",
+  "title": {
+    "jp": "The☆Doraemons: The Mysterious Thief Dorapan The Mysterious Cartel"
+  },
+  "releasedAt": "1997-03-08T00:00:00.000Z",
+  "finishedAt": "1997-03-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2389/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2389",
+    "anidb": "7767",
+    "anilist/anime": "2625",
+    "aozora": "FiY13rmP0k",
+    "myanimelist/anime": "2625"
+  }
+}

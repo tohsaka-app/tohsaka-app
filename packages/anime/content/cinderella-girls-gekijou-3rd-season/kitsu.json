@@ -1,0 +1,28 @@
+{
+  "slug": "cinderella-girls-gekijou-3rd-season",
+  "synopsis": "Third season of Cinderella Girls Gekijou.",
+  "title": {
+    "en": "The iDOLM@STER Cinderella Girls Theater 3rd Season",
+    "jp": "Cinderella Girls Gekijou 3rd Season"
+  },
+  "releasedAt": "2018-07-03T00:00:00.000Z",
+  "finishedAt": "2018-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41377/original.jpg",
+  "categories": [
+    "comedy",
+    "idol",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-idolmster-cinderella-girls-theater"
+  ],
+  "relations": {
+    "kitsu": "41377",
+    "anidb": "13859",
+    "anilist/anime": "101267",
+    "myanimelist/anime": "37422"
+  }
+}

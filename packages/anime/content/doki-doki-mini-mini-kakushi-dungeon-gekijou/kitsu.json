@@ -1,0 +1,24 @@
+{
+  "slug": "doki-doki-mini-mini-kakushi-dungeon-gekijou",
+  "synopsis": "Mini anime for Ore dake Haireru Kakushi Dungeon released weekly on the official YouTube channel.\n\nContains 12 regular episodes + 2 collab episodes.",
+  "title": {
+    "en": "The Hidden Dungeon Only I Can Enter Mini Anime",
+    "jp": "Doki Doki! Mini Mini! Kakushi Dungeon Gekijou"
+  },
+  "releasedAt": "2021-01-09T00:00:00.000Z",
+  "finishedAt": "2021-03-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44295/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44295",
+    "anilist/anime": "128367",
+    "myanimelist/anime": "45658"
+  }
+}

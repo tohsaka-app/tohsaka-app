@@ -1,0 +1,30 @@
+{
+  "slug": "birthday-boy",
+  "synopsis": "Korean War, 1951. Little Manuk is playing on the streets of his village and dreaming of life at the front where his father is a soldier. He returns home to find a parcel on the doorstep and, thinking it is a birthday present, he opens it. But its contents will change his life.\n(Source: IMDB)",
+  "title": {
+    "jp": "Birthday Boy"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4112/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4112/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "korea",
+    "military",
+    "past",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4112",
+    "anidb": "6755",
+    "anilist/anime": "5469",
+    "aozora": "0gzg5tr3Ew",
+    "myanimelist/anime": "5469"
+  }
+}

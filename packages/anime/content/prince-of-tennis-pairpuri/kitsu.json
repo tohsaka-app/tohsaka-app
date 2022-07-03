@@ -1,0 +1,26 @@
+{
+  "slug": "prince-of-tennis-pairpuri",
+  "synopsis": "This is a series of 8 short stories inspired by the popular series Prince of Tennis featuring different schools' characters.",
+  "title": {
+    "jp": "Tennis no Ouji-sama: Pair Prince"
+  },
+  "releasedAt": "2010-06-25T00:00:00.000Z",
+  "finishedAt": "2010-12-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6388/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6388",
+    "anilist/anime": "10862",
+    "aozora": "Q5H3Zb7YkS",
+    "myanimelist/anime": "10862"
+  }
+}

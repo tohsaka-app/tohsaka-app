@@ -1,0 +1,24 @@
+{
+  "slug": "yume",
+  "synopsis": "A visualization of how dreams mush up unrelated events together to make up a single story.",
+  "title": {
+    "jp": "Yume"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10451/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10451",
+    "anidb": "11565",
+    "anilist/anime": "103439",
+    "aozora": "O87I3xe9lx",
+    "myanimelist/anime": "29932"
+  }
+}

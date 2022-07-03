@@ -1,0 +1,25 @@
+{
+  "slug": "ghost-in-the-shell-arise-logicoma-specials",
+  "synopsis": "Short 3D CG Specials included in the Blu-rays of the Ghost in the Shell: Arise movies.",
+  "title": {
+    "en": "Ghost in the Shell: Arise - Logicoma Specials",
+    "jp": "Ghost in the Shell: Arise - Logicoma Specials"
+  },
+  "releasedAt": "2013-07-26T00:00:00.000Z",
+  "finishedAt": "2014-09-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8584/original.jpg",
+  "categories": [
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8584",
+    "anilist/anime": "20776",
+    "aozora": "HwU6eoGm01",
+    "myanimelist/anime": "21575"
+  }
+}

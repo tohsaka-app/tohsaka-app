@@ -1,0 +1,24 @@
+{
+  "slug": "harukanaru-toki-no-naka-de-3-onsen-chibi-special",
+  "synopsis": "Hot spring chibi episode.",
+  "title": {
+    "jp": "Harukanaru Toki no Naka de 3: Kurenai no Tsuki Special"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3512/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3512",
+    "anilist/anime": "4190",
+    "aozora": "wqgkd4mnQ1",
+    "myanimelist/anime": "4190"
+  }
+}

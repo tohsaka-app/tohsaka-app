@@ -1,0 +1,30 @@
+{
+  "slug": "tales-of-crestoria-toga-waga-o-shoite-kare-wa-tatsu",
+  "synopsis": "The World called it a Sin. Yasutaka Nakata and Kamikaze Douga team up once again in a new collaboration. Together, they portray a beautiful re-imagining of the main characters embarking on their journey, the prologue to TALES OF CRESTORIA's main story. Experience the game's uniquely depicted world in this superbly rendered 3D animation. Witness the tale of those who set out on a journey in the wake of sin. (Source: Crunchyroll)",
+  "title": {
+    "en": "Tales of Crestoria: The Wake of Sin",
+    "jp": "Tales of Crestoria: Toga Waga o Shoite Kare wa Tatsu"
+  },
+  "releasedAt": "2020-10-18T00:00:00.000Z",
+  "finishedAt": "2020-10-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43676/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/tales-of-crestoria-the-wake-of-sin-",
+    "https://www.youtube.com/watch?v=GLsuACdAfeA"
+  ],
+  "relations": {
+    "kitsu": "43676",
+    "anidb": "15707",
+    "anilist/anime": "125208",
+    "myanimelist/anime": "42832"
+  }
+}

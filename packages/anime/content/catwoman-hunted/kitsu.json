@@ -1,0 +1,25 @@
+{
+  "slug": "catwoman-hunted",
+  "synopsis": "Catwoman: Hunted, picks up with Catwoman as she attempts to steal a priceless jewel. The heist puts her squarely in the crosshairs of both a powerful consortium of villains and the ever-resourceful Interpol as well as Batwoman.",
+  "title": {
+    "en": "Catwoman: Hunted"
+  },
+  "releasedAt": "2022-02-08T00:00:00.000Z",
+  "finishedAt": "2022-02-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44989/poster_image/a70b40e3ee815aefb24ade42092d1b0a.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44989/cover_image/6682b7bb23b1c046e2018a6ea739738a.png",
+  "categories": [
+    "action",
+    "anime influenced",
+    "crime",
+    "superhero",
+    "thievery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44989"
+  }
+}

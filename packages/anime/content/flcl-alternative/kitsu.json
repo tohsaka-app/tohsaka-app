@@ -1,0 +1,33 @@
+{
+  "slug": "flcl-alternative",
+  "synopsis": "Life seems to drift by for Kana Koumoto and her friends in their small Japanese town. Every day is just like the last, and it feels like every new day will be the same. Kana goes to school, hangs out with her friends, and likes to paint her nails and listen to music, but it feels like nothing special is ever going to happen.\n\nAs a change of pace, Kana and her friends decide to design a bottle rocket and launch it into space, even though it might not get there at all. However, just when the rocket is completed, a robot suddenly crashes into and destroys it, shortly followed by a pink-haired woman claiming to be a \"Galactic Investigator.\" Kana's life quickly becomes more exciting than she ever imagined, dealing with new feelings, changing friends, and even boy troubles. It turns out life can go by in the blink of an eye, fast enough to even miss it, so what's with these weird robots that seem to show up at the worst times?!\n\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "FLCL: Alternative",
+    "jp": "FLCL Alternative"
+  },
+  "releasedAt": "2018-03-31T00:00:00.000Z",
+  "finishedAt": "2018-10-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11962/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11962/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "dementia",
+    "mecha",
+    "parody",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/flcl"
+  ],
+  "relations": {
+    "kitsu": "11962",
+    "anilist/anime": "21748",
+    "aozora": "N6J7NQEnCn",
+    "myanimelist/anime": "35842",
+    "thetvdb": "78878/3"
+  }
+}

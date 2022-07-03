@@ -1,0 +1,23 @@
+{
+  "slug": "mirai-no-hito-e",
+  "synopsis": "",
+  "title": {
+    "en": "Dear Future Person",
+    "jp": "Mirai no Hito e"
+  },
+  "releasedAt": "2018-01-26T00:00:00.000Z",
+  "finishedAt": "2018-01-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41035/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41035",
+    "myanimelist/anime": "37212"
+  }
+}

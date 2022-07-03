@@ -1,0 +1,25 @@
+{
+  "slug": "apo-apo-world-giant-baba-90-bun-1-hon-shoubu",
+  "synopsis": "Animation based around the real-life Japanese wrestler Giant Baba (Baba Shouhei, January 23, 1938 - January 31, 1999).\n(Source: AniDB)",
+  "title": {
+    "jp": "Apo Apo World: Giant Baba 90-bun 1-hon Shoubu"
+  },
+  "releasedAt": "1996-06-15T00:00:00.000Z",
+  "finishedAt": "1996-06-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8365/original.jpg",
+  "categories": [
+    "comedy",
+    "sports",
+    "wrestling"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8365",
+    "anidb": "7188",
+    "aozora": "SbShFNRlyv",
+    "myanimelist/anime": "22851"
+  }
+}

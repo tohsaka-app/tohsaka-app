@@ -1,0 +1,25 @@
+{
+  "slug": "bai-gui-youeryuan-2nd-season",
+  "synopsis": "Second season of Bai Gui Youeryuan.\n",
+  "title": {
+    "en": "Onmyoji - Hundred Spirits Kindergarten Season 2"
+  },
+  "releasedAt": "2019-03-26T00:00:00.000Z",
+  "finishedAt": "2019-06-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43376/original.jpg",
+  "categories": [
+    "china",
+    "ghost",
+    "magic",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43376",
+    "anilist/anime": "115825",
+    "myanimelist/anime": "42444"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "kuroi-hitomi",
+  "synopsis": "",
+  "title": {
+    "jp": "Kuroi Hitomi"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2018-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41545/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41545",
+    "myanimelist/anime": "35210"
+  }
+}

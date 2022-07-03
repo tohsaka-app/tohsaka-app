@@ -1,0 +1,20 @@
+{
+  "slug": "delete-movie",
+  "synopsis": "Duplicate of: https://kitsu.io/anime/ne-zha-zhi-mo-tong-jiang-shi",
+  "title": {
+    "jp": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44640/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "44640",
+    "anilist/anime": "110464",
+    "myanimelist/anime": "40111"
+  }
+}

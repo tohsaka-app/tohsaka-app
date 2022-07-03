@@ -1,0 +1,23 @@
+{
+  "slug": "koi-wo-shita-no-wa",
+  "synopsis": "The limited first edition of the Blu-ray Disc for Kyoto Animation's film adaptation of Yoshitoki Ooima's A Silent Voice manga includes two bonus new animation videos of AIKO's theme song Koi wo Shita no wa and kensuke Ushio's in-film track Speed of Youth.\n\nKyoto Animation produced the videos inspired by the songs, and the film's director Naoko Yamada personally handled the videos' storyboards and technical direction.\n\n(Source: ANN)",
+  "title": {
+    "en": "Speed of Youth",
+    "jp": "Koi wo Shita no wa"
+  },
+  "releasedAt": "2017-05-17T00:00:00.000Z",
+  "finishedAt": "2017-05-17T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/41567/poster_image/9f34a05189bd0717faf2e584ac3c8907.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41567",
+    "anilist/anime": "107764",
+    "myanimelist/anime": "35566"
+  }
+}

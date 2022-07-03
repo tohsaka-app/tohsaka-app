@@ -1,0 +1,25 @@
+{
+  "slug": "doraemon-summer-holiday",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Doraemon: Summer Holiday"
+  },
+  "releasedAt": "1986-04-04T00:00:00.000Z",
+  "finishedAt": "1986-04-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2407/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2407",
+    "aozora": "HkfxGUsNdM"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "takunomi",
+  "synopsis": "20-year-old Michiru Amatsuki moved to Tokyo due to a change of career. She decided to live in a woman-only share house \"Stella House Haruno\" with people of different ages and occupations. It's always fun when there's delicious alcohol and meal!! \n\n(Source: MAL News)",
+  "title": {
+    "jp": "Takunomi."
+  },
+  "releasedAt": "2018-01-12T00:00:00.000Z",
+  "finishedAt": "2018-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13992/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13992/original.jpeg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/takunomi"
+  ],
+  "relations": {
+    "kitsu": "13992",
+    "anilist/anime": "99753",
+    "aozora": "Dy9t5VsjOB",
+    "myanimelist/anime": "36108",
+    "thetvdb": "337015/1"
+  }
+}

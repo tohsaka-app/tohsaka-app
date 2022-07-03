@@ -1,0 +1,24 @@
+{
+  "slug": "children",
+  "synopsis": "A short film by Takuya Okada set in a conformist society.\n\n(Source: IMDB)",
+  "title": {
+    "jp": "Children"
+  },
+  "releasedAt": "2011-06-30T00:00:00.000Z",
+  "finishedAt": "2011-06-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42442/original.jpg",
+  "categories": [
+    "dementia",
+    "drama",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42442",
+    "anilist/anime": "108170",
+    "myanimelist/anime": "39290"
+  }
+}

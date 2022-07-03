@@ -1,0 +1,44 @@
+{
+  "slug": "full-metal-panic-fumoffu",
+  "synopsis": "It's back-to-school mayhem with Kaname Chidori and her war-freak classmate Sousuke Sagara as they encounter more misadventures in and out of Jindai High School. But when Kaname gets into some serious trouble, Sousuke takes the guise of Bonta-kun—the gun-wielding, butt-kicking mascot. And while he struggles to continue living as a normal teenager, Sousuke also has to deal with protecting his superior officer Teletha Testarossa, who has decided to take a vacation from Mithril and spend a couple of weeks as his and Kaname's classmate.\n(Source: ANN)",
+  "title": {
+    "en": "Full Metal Panic? Fumoffu",
+    "jp": "Full Metal Panic? Fumoffu"
+  },
+  "releasedAt": "2003-08-26T00:00:00.000Z",
+  "finishedAt": "2003-10-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/52/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/52/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "present",
+    "school life",
+    "slapstick"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/full-metal-panic-fumoffu",
+    "http://www.funimation.com/shows/full-metal-panic-fumoffu/videos/episodes",
+    "http://www.hulu.com/full-metal-panic-fumoffu",
+    "https://tubitv.com/series/2377"
+  ],
+  "relations": {
+    "kitsu": "52",
+    "anidb": "959",
+    "anilist/anime": "72",
+    "aozora": "sT4QjVnCvH",
+    "hulu": "50001148",
+    "myanimelist/anime": "72",
+    "thetvdb": "78914/2",
+    "thetvdb/season": "40172",
+    "thetvdb/series": "78914",
+    "trakt": "12432"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "nemuranu-machi-no-cinderella-hirose-ryouichi-memorial-date",
+  "synopsis": "Short animation created for the most voted character in Voltage's 2012 Character Ranking Commemorative Animation.",
+  "title": {
+    "jp": "Nemuranu Machi no Cinderella: Hirose Ryouichi - Memorial Date"
+  },
+  "releasedAt": "2012-09-26T00:00:00.000Z",
+  "finishedAt": "2012-09-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10948/original.jpg",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10948",
+    "anilist/anime": "131974",
+    "aozora": "FDZo4rUT5D",
+    "myanimelist/anime": "30647"
+  }
+}

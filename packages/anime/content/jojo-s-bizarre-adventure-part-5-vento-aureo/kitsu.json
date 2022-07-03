@@ -1,0 +1,35 @@
+{
+  "slug": "jojo-s-bizarre-adventure-part-5-vento-aureo",
+  "synopsis": "Naples, 2001. Giorno Giovanna is a small-time crook with one big dream—to become a \"Gang-Star.\" No ordinary thief, Giorno has a connection to the remarkable Joestar bloodline, and possesses a Stand named Gold Experience. His dream starts to become reality when he meets Bruno Buccellati, a mobster from the gang Passione and a fellow Stand user himself. Realizing that they share similar ideals, and both disagree with the gang's harmful affairs, Giorno reveals his goal to Bruno: with Bruno's help, he will reform Passione by overthrowing the boss.\n\nAs Giorno becomes a member of Passione, and is inducted into Bruno's squad, he discovers that it is no simple gang; its numbers are teeming with Stand users. Now confronted by other squads of differing loyalties and unpredictable caliber, their goal to change the gang from the inside out will be a tough one. Taking on these adversaries, Giorno attempts to rise through the ranks and inch closer to the boss, a man who is shrouded in mystery. \n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "JoJo's Bizarre Adventure: Golden Wind",
+    "jp": "JoJo no Kimyou na Bouken: Ougon no Kaze"
+  },
+  "releasedAt": "2018-10-06T00:00:00.000Z",
+  "finishedAt": "2019-07-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41410/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41410/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "europe",
+    "italy",
+    "mafia",
+    "proxy battles",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/jojos-bizarre-adventure",
+    "vrv.co/series/GYP8DP1MY/JoJos-Bizarre-Adventure"
+  ],
+  "relations": {
+    "kitsu": "41410",
+    "anidb": "14173",
+    "anilist/anime": "102883",
+    "myanimelist/anime": "37991"
+  }
+}

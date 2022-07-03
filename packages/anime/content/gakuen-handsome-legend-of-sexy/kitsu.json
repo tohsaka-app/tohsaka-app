@@ -1,0 +1,24 @@
+{
+  "slug": "gakuen-handsome-legend-of-sexy",
+  "synopsis": "Two music videos for the songs \"Legend of Sexy\" and \"Kagami no Naka no ME\", sung by Sakuya Mitsurugi from the Gakuen Handsome franchise.",
+  "title": {
+    "jp": "Gakuen Handsome: Legend of Sexy"
+  },
+  "releasedAt": "2016-02-04T00:00:00.000Z",
+  "finishedAt": "2016-02-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12675/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12675",
+    "anilist/anime": "118043",
+    "aozora": "rg4dq7JAzG",
+    "myanimelist/anime": "33911"
+  }
+}

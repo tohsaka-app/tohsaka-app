@@ -1,0 +1,36 @@
+{
+  "slug": "black-jack-21",
+  "synopsis": "No direct-relation sequel to original Black Jack. Black Jack attempts to find out the conspiracy, of why he was involved in the bombfield accident that killed his mother, while he uncovers secrets of Organization and Project \"Noir\", which, his father and other famous doctors were involved in...",
+  "title": {
+    "jp": "Black Jack 21"
+  },
+  "releasedAt": "2006-04-10T00:00:00.000Z",
+  "finishedAt": "2006-09-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2005/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "conspiracy",
+    "detective",
+    "drama",
+    "earth",
+    "epidemic",
+    "japan",
+    "plot continuity",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2005",
+    "anidb": "4377",
+    "anilist/anime": "2214",
+    "aozora": "ZGnbTZd3Z9",
+    "myanimelist/anime": "2214",
+    "thetvdb": "81093/1",
+    "thetvdb/series": "81093",
+    "trakt": "65448"
+  }
+}

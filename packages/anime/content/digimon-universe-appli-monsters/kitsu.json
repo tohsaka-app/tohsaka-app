@@ -1,0 +1,36 @@
+{
+  "slug": "digimon-universe-appli-monsters",
+  "synopsis": "Everyone in the world uses smartphone apps. But inside them lurks unknown creatures called \"Appli Monsters,\" or \"Appmon.\" The Appmon are AI lifeforms with the ability to think and act, and exist in the boundary between the human world and digital space. In the vast sea of the internet, the \"last boss AI\" Leviathan takes control of the Appmon with a virus and begins hacking every system, thus starting to control the human world from the world of the net. Haru Shinkai is led to acquire the Appli Drive, and uses it to materialize Gatchmon, a search app monster.\n(Source: ANN)",
+  "title": {
+    "en": "Digimon Universe",
+    "jp": "Digimon Universe: Appli Monsters"
+  },
+  "releasedAt": "2016-10-01T00:00:00.000Z",
+  "finishedAt": "2017-09-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12314/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [
+    "https://vrv.co/series/GRDKJ3Q3Y/Digimon-Universe-App-Monsters",
+    "https://www.crunchyroll.com/digimon-universe-app-monsters"
+  ],
+  "relations": {
+    "kitsu": "12314",
+    "anidb": "12132",
+    "anilist/anime": "21820",
+    "aozora": "vbErz9caxn",
+    "myanimelist/anime": "33314",
+    "thetvdb": "317566/1",
+    "trakt": "111608"
+  }
+}

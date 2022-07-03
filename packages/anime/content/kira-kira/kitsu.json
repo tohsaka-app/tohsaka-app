@@ -1,0 +1,26 @@
+{
+  "slug": "kira-kira",
+  "synopsis": "Music video directed by Awashima for the song Kira Kira by Minato Aqua.",
+  "title": {
+    "jp": "Kira Kira"
+  },
+  "releasedAt": "2021-12-01T00:00:00.000Z",
+  "finishedAt": "2021-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45552/poster_image/b994cfc1d643f0eaa7f5635c24a8d4a7.png",
+  "categories": [
+    "idol",
+    "maid",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=fXeM0fXvOp8"
+  ],
+  "relations": {
+    "kitsu": "45552",
+    "anilist/anime": "142262",
+    "myanimelist/anime": "50505"
+  }
+}

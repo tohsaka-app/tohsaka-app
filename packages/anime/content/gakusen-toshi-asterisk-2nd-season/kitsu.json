@@ -1,0 +1,38 @@
+{
+  "slug": "gakusen-toshi-asterisk-2nd-season",
+  "synopsis": "Second season of Gakusen Toshi Asterisk.",
+  "title": {
+    "en": "The Asterisk War: The Academy City on the Water",
+    "jp": "Gakusen Toshi Asterisk 2nd Season"
+  },
+  "releasedAt": "2016-04-02T00:00:00.000Z",
+  "finishedAt": "2016-06-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11421/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11421/original.png",
+  "categories": [
+    "action",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "plot continuity",
+    "romance",
+    "school life",
+    "science fiction",
+    "super power",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11421",
+    "anidb": "11673",
+    "anilist/anime": "21390",
+    "aozora": "ghlcinxai9",
+    "myanimelist/anime": "31737",
+    "thetvdb": "293996/1",
+    "trakt": "97794"
+  }
+}

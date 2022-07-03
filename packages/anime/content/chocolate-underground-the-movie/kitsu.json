@@ -1,0 +1,24 @@
+{
+  "slug": "chocolate-underground-the-movie",
+  "synopsis": "The previously announced Chocolate Underground anime adaptation of Alex Shearer's Bootleg novel will be heading to Japanese theaters this January. The satirical novel follows two English boys who create a bootleg chocolate factory after their country bans chocolate. The theatrical version will add 20 minutes of new footage and present the entire project in widescreen format.\n(Source: ANN)",
+  "title": {
+    "jp": "Chocolate Underground: Bokura no Chocolate Sensou"
+  },
+  "releasedAt": "2009-01-31T00:00:00.000Z",
+  "finishedAt": "2009-01-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4006/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4006",
+    "anidb": "11387",
+    "anilist/anime": "5238",
+    "aozora": "gA3ZXIvztP",
+    "myanimelist/anime": "5238"
+  }
+}

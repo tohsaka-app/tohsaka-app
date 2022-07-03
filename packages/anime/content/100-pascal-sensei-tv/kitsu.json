@@ -1,0 +1,26 @@
+{
+  "slug": "100-pascal-sensei-tv",
+  "synopsis": "The story centers around an elementary school teacher who is so stupid that he cannot even write his own name. He does whatever he likes in his classroom. Plus, by all appearances, he is not human.\n\n(Source: ANN)",
+  "title": {
+    "en": "100% Teacher Pascal",
+    "jp": "100% Pascal-sensei (TV)"
+  },
+  "releasedAt": "2017-04-15T00:00:00.000Z",
+  "finishedAt": "2017-12-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13433/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/100-teacher-pascal"
+  ],
+  "relations": {
+    "kitsu": "13433",
+    "anilist/anime": "97638",
+    "aozora": "KHboDiIbWA",
+    "myanimelist/anime": "34052"
+  }
+}

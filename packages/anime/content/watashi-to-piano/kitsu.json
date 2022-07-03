@@ -1,0 +1,25 @@
+{
+  "slug": "watashi-to-piano",
+  "synopsis": "Music video for a song by Junko Yagami that was featured on NHK's Minna no Uta program. Originally released in April 1991 as Watashi to Piano, the title was changed to Piano to Watashi when it was rebroadcast in August that same year. The video features illustrations by Seiichi Hayashi which were animated by Yumiko Kanaumi.",
+  "title": {
+    "en": "Piano and Me",
+    "jp": "Watashi to Piano"
+  },
+  "releasedAt": "1991-04-05T00:00:00.000Z",
+  "finishedAt": "1991-04-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43197/original.png",
+  "categories": [
+    "kids",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43197",
+    "anilist/anime": "140233",
+    "myanimelist/anime": "40576"
+  }
+}

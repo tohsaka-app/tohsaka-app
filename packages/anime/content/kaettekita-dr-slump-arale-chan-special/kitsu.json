@@ -1,0 +1,23 @@
+{
+  "slug": "kaettekita-dr-slump-arale-chan-special",
+  "synopsis": "",
+  "title": {
+    "jp": "Kaettekita Dr. Slump: Arale-chan Special"
+  },
+  "releasedAt": "1990-12-31T00:00:00.000Z",
+  "finishedAt": "1990-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13339/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13339",
+    "aozora": "ncN46JO8RW",
+    "myanimelist/anime": "34877"
+  }
+}

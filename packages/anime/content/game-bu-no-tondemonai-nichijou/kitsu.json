@@ -1,0 +1,23 @@
+{
+  "slug": "game-bu-no-tondemonai-nichijou",
+  "synopsis": "Comedic shorts starring Vtubers from the Game Club Project.",
+  "title": {
+    "jp": "Game-bu no Tondemonai Nichijou"
+  },
+  "releasedAt": "2018-07-04T00:00:00.000Z",
+  "finishedAt": "2019-11-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43842/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43842",
+    "anilist/anime": "127504"
+  }
+}

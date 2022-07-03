@@ -1,0 +1,31 @@
+{
+  "slug": "neko-rahmen",
+  "synopsis": "Taishou is the entrepreneurial ramen chef of Neko Rahmen, the only restaurant in Tokyo run by a cat. All 13 episodes are produced by a different cutting-edge creator—each creator's vision and unique style harmonizes into a fantastic anime series.\n(Source: Vuze)",
+  "title": {
+    "en": "Neko Rahmen",
+    "jp": "Neko Ramen"
+  },
+  "releasedAt": "2006-12-29T00:00:00.000Z",
+  "finishedAt": "2007-03-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3081/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "asia",
+    "comedy",
+    "cooking",
+    "earth",
+    "japan",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3081",
+    "anidb": "5843",
+    "anilist/anime": "3535",
+    "aozora": "YkdyMlfnwv",
+    "myanimelist/anime": "3535"
+  }
+}

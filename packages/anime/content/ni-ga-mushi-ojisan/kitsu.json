@@ -1,0 +1,22 @@
+{
+  "slug": "ni-ga-mushi-ojisan",
+  "synopsis": "A angry looking old man who walks his equally angry looking old dog scares children away.",
+  "title": {
+    "jp": "Ni ga Mushi Ojisan"
+  },
+  "releasedAt": "1987-12-02T00:00:00.000Z",
+  "finishedAt": "1987-12-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44844/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44844",
+    "myanimelist/anime": "37193"
+  }
+}

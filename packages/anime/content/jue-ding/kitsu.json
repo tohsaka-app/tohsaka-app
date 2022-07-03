@@ -1,0 +1,23 @@
+{
+  "slug": "jue-ding",
+  "synopsis": null,
+  "title": {
+    "en": "Jueding"
+  },
+  "releasedAt": "2021-02-06T00:00:00.000Z",
+  "finishedAt": "2021-07-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44190/original.png",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44190",
+    "anilist/anime": "122527",
+    "myanimelist/anime": "46630"
+  }
+}

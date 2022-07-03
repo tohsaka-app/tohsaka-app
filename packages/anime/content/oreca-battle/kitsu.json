@@ -1,0 +1,29 @@
+{
+  "slug": "oreca-battle",
+  "synopsis": "The anime adaptation revolves around a young boy named Faiya Orega who loves Oreca competitions. One day, he is granted the power to summon real Oreca monsters due to the mysterious powers of the treasure chest Pandora. To protect the peace of the Oreca world, Faiya must fight the demon king who threatens the land.\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Oreca Battle"
+  },
+  "releasedAt": "2014-04-07T00:00:00.000Z",
+  "finishedAt": "2015-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8395/original.jpg",
+  "categories": [
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/oreca-battle"
+  ],
+  "relations": {
+    "kitsu": "8395",
+    "anidb": "10444",
+    "anilist/anime": "20699",
+    "aozora": "6ZdNpdMcA4",
+    "myanimelist/anime": "22735",
+    "thetvdb": "280563/1",
+    "thetvdb/series": "280563",
+    "trakt": "77140"
+  }
+}

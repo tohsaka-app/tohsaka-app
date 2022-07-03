@@ -1,0 +1,27 @@
+{
+  "slug": "tai-yi-xian-mo-lu-zhi-ling-fei-ji",
+  "synopsis": null,
+  "title": {
+    "en": "Magical Legend: Rise to Immortality"
+  },
+  "releasedAt": "2016-03-08T00:00:00.000Z",
+  "finishedAt": "2016-10-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44867/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44867",
+    "anidb": "15541",
+    "anilist/anime": "129219",
+    "myanimelist/anime": "44615"
+  }
+}

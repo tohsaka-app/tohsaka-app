@@ -1,0 +1,26 @@
+{
+  "slug": "armored-core-fort-tower-song",
+  "synopsis": "Originally meant to be a 2 episode OVA based on the Armored Core: Last Raven game, but the project was cancelled due to View Works shutting down. A trailer is all that is left of this project, which is what this entry encompasses.\n(Source: AniDB)",
+  "title": {
+    "jp": "Armored Core: Fort Tower Song"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3379/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3379",
+    "anidb": "4690",
+    "anilist/anime": "3960",
+    "aozora": "i7skdLREGc",
+    "myanimelist/anime": "3960"
+  }
+}

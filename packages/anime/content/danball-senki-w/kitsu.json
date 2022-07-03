@@ -1,0 +1,31 @@
+{
+  "slug": "danball-senki-w",
+  "synopsis": "One year after the fight with the Innovators, a new terrorist organization called the Detectors threatens the world using LBXs. Ban joins up with new and old friends to stop the Detectors.\n(Source: ANN)",
+  "title": {
+    "en": "LBX: Little Battlers eXperience Season 2",
+    "jp": "Danball Senki W"
+  },
+  "releasedAt": "2012-01-18T00:00:00.000Z",
+  "finishedAt": "2013-03-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6779/original.jpg",
+  "categories": [
+    "action",
+    "kids",
+    "mecha",
+    "proxy battles",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6779",
+    "anidb": "8903",
+    "anilist/anime": "12651",
+    "aozora": "TZaYwJeCjW",
+    "myanimelist/anime": "12651",
+    "thetvdb": "260946",
+    "trakt": "38650"
+  }
+}

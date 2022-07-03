@@ -1,0 +1,24 @@
+{
+  "slug": "amrita-no-kyouen",
+  "synopsis": null,
+  "title": {
+    "jp": "Amrita no Kyouen"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43444/original.jpg",
+  "categories": [
+    "fantasy",
+    "horror",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43444",
+    "anilist/anime": "114606",
+    "myanimelist/anime": "41029"
+  }
+}

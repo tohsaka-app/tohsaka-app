@@ -1,0 +1,45 @@
+{
+  "slug": "detective-conan",
+  "synopsis": "Shinichi Kudou, a great mystery expert at only seventeen, is already well known for having solved several challenging cases. One day, when Shinichi sees two suspicious men and decides to follow them, he inadvertently becomes witness to a disturbing illegal activity. When the men catch Shinichi, they dose him with an experimental drug formulated by their criminal organization and abandon him to die. However, to his own astonishment, Shinichi is still alive and soon wakes up, but now, he has the body of a seven-year-old, perfectly preserving his original intelligence. He hides his real identity from everyone, including his childhood friend Ran Mouri and her father, private detective Kogorou Mouri, and takes on the alias of Conan Edogawa (inspired by the mystery writers Arthur Conan Doyle and Ranpo Edogawa). Animated by TMS and adapted from the manga by Gosho Aoyama, Detective Conan follows Shinichi who, as Conan, starts secretly solving the senior Mouri's cases from behind the scenes with his still exceptional sleuthing skills, while covertly investigating the organization responsible for his current state, hoping to reverse the drug's effects someday. (Source: MAL Rewrite)",
+  "title": {
+    "en": "Detective Conan",
+    "jp": "Meitantei Conan"
+  },
+  "releasedAt": "1996-01-08T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/210/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/210/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "comedy",
+    "cops",
+    "detective",
+    "earth",
+    "japan",
+    "mystery",
+    "present",
+    "romance",
+    "thriller",
+    "tokyo"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/case-closed",
+    "http://www.funimation.com/shows/case-closed/videos/episodes",
+    "http://www.hulu.com/case-closed"
+  ],
+  "relations": {
+    "kitsu": "210",
+    "anidb": "266",
+    "anilist/anime": "235",
+    "aozora": "QTo0AdXPdg",
+    "hulu": "50011404",
+    "myanimelist/anime": "235",
+    "thetvdb": "72454/1",
+    "thetvdb/series": "72454",
+    "trakt": "30849"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "taishou-otome-otogibanashi",
+  "synopsis": "In this story set in the early 1920s, Tamahiko is the son of a wealthy family, but his life is changed forever when an accident cripples his right arm. No longer considered by his father as an heir, he is shuffled off into the country, to live out of sight. The teenage Tamahiko shuts himself in his new home, bitterly thinking of it as the place where he will die. One day, he learns that his father has 'bought' him a bride to take care of him, when the young teen girl named Yuzuki arrives at his door. She comes into his life like an innocent ray of sunshine, and Tamahiko's view of the world and his life starts changing bit-by-bit.",
+  "title": {
+    "jp": "Taishou Otome Otogibanashi"
+  },
+  "releasedAt": "2021-10-08T00:00:00.000Z",
+  "finishedAt": "2021-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43817/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43817/original.png",
+  "categories": [
+    "comedy",
+    "historical",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/taisho-otome-fairy-tale/"
+  ],
+  "relations": {
+    "kitsu": "43817",
+    "anilist/anime": "127412",
+    "myanimelist/anime": "45055"
+  }
+}

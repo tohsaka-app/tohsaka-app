@@ -1,0 +1,23 @@
+{
+  "slug": "c-danchi",
+  "synopsis": "\"Housing Complex C\" centers around Kimi, who lives in a small, low-cost housing complex located in the seaside town of Kurosaki where trouble seems to follow her wherever she goes, and horrific incidents begin to occur. Is an ancient evil stalking the residents of Housing Complex C?\n\n(Source: Variety)",
+  "title": {
+    "en": "Housing Complex C",
+    "jp": "C Danchi"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45977/poster_image/afad3bb9bacbf3d40862b963e84f4e28.jpg",
+  "categories": [
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45977",
+    "anilist/anime": "146475",
+    "myanimelist/anime": "51306"
+  }
+}

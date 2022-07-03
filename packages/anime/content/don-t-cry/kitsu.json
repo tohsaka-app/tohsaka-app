@@ -1,0 +1,20 @@
+{
+  "slug": "don-t-cry",
+  "synopsis": "Official music video for Nakatsuka Shion's song <i>Don't Cry</i>. It was from her first mini-album \"Koukai\" and was used in the OP for <i>T-sensei</i>. The music video features the full song as well as clips from the anime including original footage that was not present before.",
+  "title": {
+    "jp": "Don't Cry"
+  },
+  "releasedAt": "2017-06-01T00:00:00.000Z",
+  "finishedAt": "2017-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40871/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40871",
+    "aozora": "IKj0IlvaFT",
+    "myanimelist/anime": "36248"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "xing-chen-bian-yu-li-cang-hai",
+  "synopsis": "Second season of Xing Chen Bian.",
+  "title": {
+    "en": "Stellar Transformation 2nd Season"
+  },
+  "releasedAt": "2020-05-03T00:00:00.000Z",
+  "finishedAt": "2020-05-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43705/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43705",
+    "anidb": "15594",
+    "anilist/anime": "119938",
+    "myanimelist/anime": "41528"
+  }
+}

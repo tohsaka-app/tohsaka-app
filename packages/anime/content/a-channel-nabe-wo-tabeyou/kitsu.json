@@ -1,0 +1,26 @@
+{
+  "slug": "a-channel-nabe-wo-tabeyou",
+  "synopsis": "A new episode included with the complete Blu-ray box collection of A-Channel.",
+  "title": {
+    "en": "A-Channel: Let's Eat Hot Pot",
+    "jp": "A-Channel: Nabe wo Tabeyou"
+  },
+  "releasedAt": "2017-09-27T00:00:00.000Z",
+  "finishedAt": "2017-09-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13301/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13301",
+    "anilist/anime": "98897",
+    "aozora": "R4TPrNdVgG",
+    "myanimelist/anime": "35285"
+  }
+}

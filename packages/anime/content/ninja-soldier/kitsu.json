@@ -1,0 +1,24 @@
+{
+  "slug": "ninja-soldier",
+  "synopsis": "Two eight-year-old boys compete in a game of childish bravado. Ken is a Ninja, Nito a child soldier from the Congo who was forced to kill his own mother. Their naïve game addresses cruel realities, and they talk about their differences and what they have in common. Accompanied by contrasting graphics, the film explores the types of acts of which humankind is capable.\n(Source: Berlinale)",
+  "title": {
+    "jp": "Ninja & Soldier"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10341/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10341",
+    "anidb": "11431",
+    "anilist/anime": "102037",
+    "aozora": "MuoGS4Cclr",
+    "myanimelist/anime": "28991"
+  }
+}

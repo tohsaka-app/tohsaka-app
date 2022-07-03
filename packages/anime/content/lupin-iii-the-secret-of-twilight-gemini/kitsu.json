@@ -1,0 +1,29 @@
+{
+  "slug": "lupin-iii-the-secret-of-twilight-gemini",
+  "synopsis": "A dying mob boss entrusts Lupin with a diamond that supposedly is the key to a vast treasure. But when Lupin is attacked by an assassin and saves a mysterious girl from trouble, it becomes clear that that there's more to this treasure then meets the eye... \n(Source: ANN)",
+  "title": {
+    "en": "Lupin the Third: The Secret of Twilight Gemini",
+    "jp": "Lupin III: Twilight Gemini no Himitsu"
+  },
+  "releasedAt": "1996-08-02T00:00:00.000Z",
+  "finishedAt": "1996-08-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1289/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "crime",
+    "thievery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1289",
+    "anidb": "810",
+    "anilist/anime": "1436",
+    "aozora": "R1jYtGBXZq",
+    "myanimelist/anime": "1436"
+  }
+}

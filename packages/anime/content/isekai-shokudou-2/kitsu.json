@@ -1,0 +1,31 @@
+{
+  "slug": "isekai-shokudou-2",
+  "synopsis": "The restaurant is opening up again with new characters and new dishes.\n\nThere is a certain restaurant in the first basement level of a multi-tenant building in one corner of a shopping street near the office district. The historical restaurant, marked by a sign with a picture of a cat, is called \"Western Cuisine Nekoya.\" This restaurant looks completely normal throughout the week, but on Saturdays, it opens in secret exclusively to some very unique guests. During these hours, doors in various areas of a parallel world open to allow customers of many different races and cultures into the restaurant.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Restaurant to Another World 2",
+    "jp": "Isekai Shokudou 2"
+  },
+  "releasedAt": "2021-10-02T00:00:00.000Z",
+  "finishedAt": "2021-12-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44434/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44434/original.jpg",
+  "categories": [
+    "comedy",
+    "cooking",
+    "fantasy",
+    "fantasy world",
+    "mystery"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/restaurant-to-another-world"
+  ],
+  "relations": {
+    "kitsu": "44434",
+    "anidb": "16274",
+    "anilist/anime": "132806",
+    "myanimelist/anime": "48804"
+  }
+}

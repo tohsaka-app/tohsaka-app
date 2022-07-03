@@ -1,0 +1,22 @@
+{
+  "slug": "jinsei-reset-button",
+  "synopsis": "",
+  "title": {
+    "en": "Life Reset Button",
+    "jp": "Jinsei Reset Button"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42303/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42303"
+  }
+}

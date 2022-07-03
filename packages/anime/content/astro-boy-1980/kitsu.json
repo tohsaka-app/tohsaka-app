@@ -1,0 +1,34 @@
+{
+  "slug": "astro-boy-1980",
+  "synopsis": "Set in a future where machines have advanced to the point of autonomy and become a point of major contention in the political and social realms, Astro Boy (1980) chronicles the struggles of a crime-fighting young robot named Atom. Created in the image of his enigmatic inventor's deceased son, Atom survives rough beginnings, getting saved and adopted by the benevolent Dr. Ochanomizu. In his pursuit of justice, Atom finds himself in the midst of numerous clashes with various factions, and is often faced with the harsh realities of the world.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Astro Boy (1980)",
+    "jp": "Tetsuwan Atom (1980)"
+  },
+  "releasedAt": "1980-10-01T00:00:00.000Z",
+  "finishedAt": "1981-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2748/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2748/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.animelab.com/shows/astro-boy"
+  ],
+  "relations": {
+    "kitsu": "2748",
+    "anidb": "1446",
+    "anilist/anime": "3044",
+    "aozora": "hlerP85rZK",
+    "myanimelist/anime": "3044",
+    "thetvdb": "80448/1",
+    "thetvdb/series": "80448",
+    "trakt": "11997"
+  }
+}

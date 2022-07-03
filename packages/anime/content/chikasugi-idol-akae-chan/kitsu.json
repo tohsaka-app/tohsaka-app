@@ -1,0 +1,25 @@
+{
+  "slug": "chikasugi-idol-akae-chan",
+  "synopsis": "Based on the upcoming \"Underground Princess\" idol role playing game for mobile devices.",
+  "title": {
+    "jp": "Chikasugi Idol Akae-chan"
+  },
+  "releasedAt": "2014-01-07T00:00:00.000Z",
+  "finishedAt": "2014-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8970/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8970",
+    "anidb": "10394",
+    "aozora": "0sjipaDykG",
+    "myanimelist/anime": "22755"
+  }
+}

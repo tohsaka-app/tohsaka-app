@@ -1,0 +1,26 @@
+{
+  "slug": "aotu-shijie-2",
+  "synopsis": "Second season of AOTU Shijie.",
+  "title": {
+    "jp": "AOTU Shijie 2"
+  },
+  "releasedAt": "2017-10-31T00:00:00.000Z",
+  "finishedAt": "2018-02-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14117/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14117",
+    "anilist/anime": "103162",
+    "aozora": "csWA937z4C",
+    "myanimelist/anime": "36345"
+  }
+}

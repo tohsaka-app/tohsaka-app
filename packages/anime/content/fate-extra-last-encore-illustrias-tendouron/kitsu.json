@@ -1,0 +1,28 @@
+{
+  "slug": "fate-extra-last-encore-illustrias-tendouron",
+  "synopsis": "Sequel special to the Fate Extra Last Encore TV series.",
+  "title": {
+    "jp": "Fate/Extra: Last Encore - Irusterias Tendouron"
+  },
+  "releasedAt": "2018-07-29T00:00:00.000Z",
+  "finishedAt": "2018-07-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41396/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41396/original.jpg",
+  "categories": [
+    "action",
+    "battle royale",
+    "contemporary fantasy",
+    "fantasy",
+    "magic",
+    "romance",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41396",
+    "myanimelist/anime": "37651"
+  }
+}

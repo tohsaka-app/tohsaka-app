@@ -1,0 +1,23 @@
+{
+  "slug": "paniponi",
+  "synopsis": "A slice of life anime about a bunch of animals living in Paniponi village.",
+  "title": {
+    "jp": "Paniponi"
+  },
+  "releasedAt": "1998-05-01T00:00:00.000Z",
+  "finishedAt": "1998-10-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10299/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10299",
+    "aozora": "ujwWKLOkvz",
+    "myanimelist/anime": "29487"
+  }
+}

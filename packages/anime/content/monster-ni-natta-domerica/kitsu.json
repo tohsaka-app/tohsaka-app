@@ -1,0 +1,26 @@
+{
+  "slug": "monster-ni-natta-domerica",
+  "synopsis": "In this \"action epic\" set in the run-down slums, the title character Domerica is transformed into a monster one day. \n(Source: ANN)",
+  "title": {
+    "en": "Domerica the Monster",
+    "jp": "Monster ni Natta Domerica"
+  },
+  "releasedAt": "2011-03-01T00:00:00.000Z",
+  "finishedAt": "2011-03-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8471/original.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8471",
+    "anidb": "9262",
+    "anilist/anime": "104087",
+    "aozora": "FehNNc7xv6",
+    "myanimelist/anime": "24045"
+  }
+}

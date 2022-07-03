@@ -1,0 +1,31 @@
+{
+  "slug": "tesla-note",
+  "synopsis": "Mission T is a secret operation to save the world from destruction. Trained as a ninja from a young age, Botan Negoro, raised to become the ultimate spy, teams up with another excellent spy, Kuruma. Their aim is to recover the legacy of the genius inventor Nikola Tesla, the \"Shards of Tesla.\" Can the two outwit the agents of other countries who are also pursuing these fragments? A super-original spy thriller begins.\n\n(Source: Kodansha, translated)",
+  "title": {
+    "en": "Tesla Note",
+    "jp": "Tesla Note"
+  },
+  "releasedAt": "2021-10-03T00:00:00.000Z",
+  "finishedAt": "2021-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44345/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44345/original.png",
+  "categories": [
+    "action",
+    "comedy",
+    "drama",
+    "shounen",
+    "thriller"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/tesla-note/"
+  ],
+  "relations": {
+    "kitsu": "44345",
+    "anidb": "16190",
+    "anilist/anime": "132071",
+    "myanimelist/anime": "48680"
+  }
+}

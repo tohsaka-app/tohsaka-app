@@ -1,0 +1,26 @@
+{
+  "slug": "ani-ni-tsukeru-kusuri-wa-nai-2",
+  "synopsis": "Second season of Ani ni Tsukeru Kusuri wa Nai!.",
+  "title": {
+    "en": "Please Take My Brother Away 2",
+    "jp": "Ani ni Tsukeru Kusuri wa Nai! 2"
+  },
+  "releasedAt": "2018-07-09T00:00:00.000Z",
+  "finishedAt": "2018-12-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41331/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41331",
+    "anidb": "14098",
+    "anilist/anime": "101844",
+    "myanimelist/anime": "37924"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "full-metal-panic-invisible-victory",
+  "synopsis": "Fujimi Shobo announced at the \"Fantasia Bunko Big Thanksgiving 2015\" event on that plans for a new anime adaptation of Shoji Gatoh and Shikidouji's Full Metal Panic! light novel series are underway.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Full Metal Panic! Invisible Victory"
+  },
+  "releasedAt": "2018-04-13T00:00:00.000Z",
+  "finishedAt": "2018-07-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11460/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11460/original.png",
+  "categories": [
+    "action",
+    "mecha",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11460",
+    "anidb": "11731",
+    "anilist/anime": "21451",
+    "aozora": "46LAtMOLyk",
+    "myanimelist/anime": "31931"
+  }
+}

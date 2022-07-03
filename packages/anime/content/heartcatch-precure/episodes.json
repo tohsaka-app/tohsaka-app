@@ -1,0 +1,443 @@
+[
+  {
+    "title": {
+      "jp": "Watashi, Kawarimasu! Kawatte Misemasu!!"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2010-02-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Watashi tte Shijou Saijaku no Precure desu ka??"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2010-02-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Futarime no Precure wa Yaruki Manman desu!"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2010-02-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hayaku mo Precure Konbi Kaisan desu ka?"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2010-02-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kyohi Sareta Ramen! Oyako no Kizuna Naoshimasu!"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2010-03-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Scoop! Precure no Shoutai Barechaimasu!?"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2010-03-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Akogare no Seitokaichou! Otomegokoro wa Kakusemasen!!"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2010-03-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Charisma Model no Tameiki! Tte, Naze desu ka?"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2010-03-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sukauto Sareta Otousan! Ohanayasan wo Yamechaimasu!?"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2010-04-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Saidai no Pinchi! Dark Precure ga Arawaremashita!"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2010-04-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Acho!! Kung Fu de Power Up Shimasu!!"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2010-04-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "DokkiDoki desu! Proposal Daisakusen!!"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2010-04-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shinjitsu ga Akasaremasu! Cure Moonlight no Shoutai!!"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "2010-05-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Namida no Haha no Hi! Kazoku no Egao Mamorimasu!!"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "2010-05-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nanto! Seitokaichou ga Cute na Fuku Kichaimasu!!"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "2010-05-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rival wa Erika! Engekibu kara no Chousenjou desu!!"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "2010-05-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mitomete Kudasai! Watashitachi no Precure Damashii!!"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "2010-05-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Saikyou Densetsu! Banchou Toujou, Yoroshiku desu!!"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "2010-06-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Namida no Yomeiri! Chichi no Hi Kinen Shashin desu!!"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "2010-06-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Daisan no Yousei! Potpourri wa Kawaii Akachan desu!!"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "2010-06-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yousei Adventure! Precure Scout Sakusen desu!!"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "2010-07-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tsui ni Mitsukemashita!! Sanninme no Precure!!"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "2010-07-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cure Sunshine Tanjou desu!!"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "2010-07-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kokoro no Taiju no Kiki! Precure, Tobimasu!!"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "2010-07-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Umi e Go Desu! Itsuki Ukiuki Natsu Gashuku!"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "2010-08-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yuuki wo Dashite! Tomodachi ni Naru tte Suteki nan desu!!"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "2010-08-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ojiisan wa Ikemen-san? Cure Flower no Hatsukoi desu!"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "2010-08-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sabaku Shijou Saidai no Sakusen! Natsuyasumi no Shukudai Owarimasen!!"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "2010-08-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Natsu, Last Spurt! Watashi no Dress Dekimashita!!"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "2010-08-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Potpourri ga Iede! Itsuki, Boroboro desu!!"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "2010-09-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kanashimi no Shoutai! Sore wa, Yuri-san no Yousei Deshita..."
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "2010-09-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ikemen-san to Taiketsu? Sonna no Kitenai desu!!"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "2010-09-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cure Moonlight, Tsui ni Fukatsu desu!!"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "2010-09-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sugoi Power desu! Cure Moonlight!!"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "2010-10-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Wakuwaku Gakuensai! Fashion-bu wa Batabata desu!!"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "2010-10-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Minna ga Shueki! Watashi-tachi no Stage desu!!"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "2010-10-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tsuyoku Narimasu! Shiren wa Precure tai Precure!!"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "2010-10-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Precure, Super Silhouette ni Henshin desu!!"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "2010-10-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Erika Pinch! Marin Tact ga Ubawaremashita!!"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "2010-11-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sayonara Sasorina... Sabaku ni mo Saku Kokoro no Hana desu!!"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "2010-11-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yousei ga Henshin!? Precure Gekidan Hajimemashita!!"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "2010-11-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tomadoi no Yuri-san! Love Letter Michaimashita..."
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "2010-12-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Atarashii Kazoku! Watashi, Oneesan ni Narimasu!!"
+    },
+    "season": 1,
+    "number": 43,
+    "releasedAt": "2010-12-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Christmas no Kiseki! Cure Flower ni Aemashita!!"
+    },
+    "season": 1,
+    "number": 44,
+    "releasedAt": "2010-12-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mou Dame desu... Sekai ga Sabaku ni Narimashita..."
+    },
+    "season": 1,
+    "number": 45,
+    "releasedAt": "2010-12-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kumojacky! Cobraja! Anatatachi wo Wasuremasen!!"
+    },
+    "season": 1,
+    "number": 46,
+    "releasedAt": "2011-01-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Uso da to Itte Kudasai! Sabaku Hakase no Shoutai!!"
+    },
+    "season": 1,
+    "number": 47,
+    "releasedAt": "2011-01-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chikyuu no Tame! Yume no Tame! Precure Saigo no Henshin desu!!"
+    },
+    "season": 1,
+    "number": 48,
+    "releasedAt": "2011-01-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Minna no Kokoro wo Hitotsu ni! Watashi wa Saikyou no Precure!!"
+    },
+    "season": 1,
+    "number": 49,
+    "releasedAt": "2011-01-30T00:00:00.000Z",
+    "content": {}
+  }
+]

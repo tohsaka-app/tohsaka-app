@@ -1,0 +1,48 @@
+{
+  "slug": "darker-than-black",
+  "synopsis": "It has been 10 years since Heaven's Gate appeared in South America and Hell's Gate appeared in Japan, veiling the once familiar night sky with an oppressive skyscape. Their purposes unknown, these Gates are spaces in which the very laws of physics are ignored. With the appearance of the Gates emerged Contractors, who, in exchange for their humanity, are granted supernatural abilities.\nIn the Japanese city surrounding Hell’s Gate, Section 4 Chief Misaki Kirihara finds herself at odds with an infamous Contractor codenamed Hei. Called \"Black Reaper\" in the underground world, Hei, like his associates, undertakes missions for the mysterious and ruthless Syndicate while slowly peeling back the dark layers covering a nefarious plot that threatens the very existence of Contractors.\nFrom the mind of Tensai Okamura comes a sci-fi thriller taking the form of a subtle exposé on a war in which political positions and justice have no sway—a war waged exclusively in the shadows.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Darker than Black",
+    "jp": "Darker than Black: Kuro no Keiyakusha"
+  },
+  "releasedAt": "2007-04-06T00:00:00.000Z",
+  "finishedAt": "2007-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1824/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1824/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "angst",
+    "asia",
+    "conspiracy",
+    "contemporary fantasy",
+    "drama",
+    "earth",
+    "japan",
+    "mystery",
+    "present",
+    "science fiction",
+    "super power",
+    "tokyo",
+    "violence"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/darker-than-black/videos/episodes",
+    "http://www.hulu.com/darker-than-black"
+  ],
+  "relations": {
+    "kitsu": "1824",
+    "anidb": "4906",
+    "anilist/anime": "2025",
+    "aozora": "VyvtaTQDJx",
+    "hulu": "50000037",
+    "myanimelist/anime": "2025",
+    "thetvdb": "80042/1",
+    "thetvdb/season": "17742",
+    "thetvdb/series": "80042",
+    "trakt": "31580"
+  }
+}

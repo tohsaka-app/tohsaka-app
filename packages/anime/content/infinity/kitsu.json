@@ -1,0 +1,26 @@
+{
+  "slug": "infinity",
+  "synopsis": "MV for Akai Haato/Hachama's 2st Single, Infinity.",
+  "title": {
+    "en": "Infinity",
+    "jp": "Infinity"
+  },
+  "releasedAt": "2021-06-02T00:00:00.000Z",
+  "finishedAt": "2021-06-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44656/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44656/original.jpg",
+  "categories": [
+    "music",
+    "psychological",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=9mj2QJE-UOI"
+  ],
+  "relations": {
+    "kitsu": "44656"
+  }
+}

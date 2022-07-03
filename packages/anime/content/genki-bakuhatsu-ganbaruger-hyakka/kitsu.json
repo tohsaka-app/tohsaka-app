@@ -1,0 +1,23 @@
+{
+  "slug": "genki-bakuhatsu-ganbaruger-hyakka",
+  "synopsis": "A recap of the first 14 episodes of Genki Bakuhatsu Ganbaruger narrated by the three protagonists.",
+  "title": {
+    "jp": "Genki Bakuhatsu Ganbaruger: Hyakka"
+  },
+  "releasedAt": "1992-12-24T00:00:00.000Z",
+  "finishedAt": "1992-12-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10615/original.jpg",
+  "categories": [
+    "action",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10615",
+    "aozora": "jELawOzZyE",
+    "myanimelist/anime": "30061"
+  }
+}

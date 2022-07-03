@@ -1,0 +1,20 @@
+{
+  "slug": "velvet-underworld-fragment-person",
+  "synopsis": "Music videos bundled with character CDs for the <i>Velvet Underworld</i> cast.",
+  "title": {
+    "jp": "Velvet Underworld: Fragment Person"
+  },
+  "releasedAt": "2009-07-18T00:00:00.000Z",
+  "finishedAt": "2010-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40778/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40778",
+    "aozora": "68LtIHGJws",
+    "myanimelist/anime": "35504"
+  }
+}

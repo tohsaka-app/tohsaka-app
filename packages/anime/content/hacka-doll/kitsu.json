@@ -1,0 +1,24 @@
+{
+  "slug": "hacka-doll",
+  "synopsis": "In the year 2xxx, development of information are going so fast, humans being are drowning in the sea information. This leads to a situation where people can not find the necessary information. The only hope to solve this problem is the navigator program, Hacka Doll.\n(Source: Anime Bibly)",
+  "title": {
+    "en": "Hacka Doll",
+    "jp": "Hacka Doll"
+  },
+  "releasedAt": "2014-08-15T00:00:00.000Z",
+  "finishedAt": "2014-09-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8885/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8885",
+    "anilist/anime": "102337",
+    "aozora": "adDdAEyMu5",
+    "myanimelist/anime": "25943"
+  }
+}

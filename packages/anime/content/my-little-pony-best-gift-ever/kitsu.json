@@ -1,0 +1,32 @@
+{
+  "slug": "my-little-pony-best-gift-ever",
+  "synopsis": "In this double-length Christmas-themed special, the Mane Six and Spike are each hoping to find the best gift ever for Hearth's Warming.\n\n(Soruce: Wikpedia)",
+  "title": {
+    "en": "My Little Pony: Best Gift Ever"
+  },
+  "releasedAt": "2018-10-27T00:00:00.000Z",
+  "finishedAt": "2018-10-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44353/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44353/original.jpg",
+  "categories": [
+    "anime influenced",
+    "anthropomorphism",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "kids",
+    "magic",
+    "magical girl",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.netflix.com/watch/81018860"
+  ],
+  "relations": {
+    "kitsu": "44353"
+  }
+}

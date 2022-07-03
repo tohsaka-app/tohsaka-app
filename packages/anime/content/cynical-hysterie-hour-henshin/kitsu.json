@@ -1,0 +1,24 @@
+{
+  "slug": "cynical-hysterie-hour-henshin",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Cynical Hysterie Hour: Henshin!"
+  },
+  "releasedAt": "1989-02-04T00:00:00.000Z",
+  "finishedAt": "1989-02-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4702/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4702",
+    "anidb": "7706",
+    "anilist/anime": "6760",
+    "aozora": "ME36t36x5x",
+    "myanimelist/anime": "6760"
+  }
+}

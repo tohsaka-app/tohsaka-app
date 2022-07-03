@@ -1,0 +1,32 @@
+{
+  "slug": "eikoku-ikke-nihon-wo-taberu",
+  "synopsis": "Based on a book by British travel and dining journalist Michael Booth. Follows Booth, his wife Lissen, and two kids Ansger (6) and Emil (4), on their 100-day trip to Japan as they try a wide variety of Japanese foods. Booth was inspired to make the trip by Shizuo Tsuji's book, Japanese Cooking, A Simple Art.\n(Source: ANN)",
+  "title": {
+    "en": "Sushi and Beyond",
+    "jp": "Eikoku Ikka, Nihon wo Taberu"
+  },
+  "releasedAt": "2015-04-12T00:00:00.000Z",
+  "finishedAt": "2015-10-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10364/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "cooking",
+    "earth",
+    "japan",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10364",
+    "anidb": "11064",
+    "anilist/anime": "21028",
+    "aozora": "XdqGf0UPei",
+    "myanimelist/anime": "29722",
+    "thetvdb": "292923",
+    "trakt": "96848"
+  }
+}

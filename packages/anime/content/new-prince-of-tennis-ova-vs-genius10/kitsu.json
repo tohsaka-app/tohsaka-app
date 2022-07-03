@@ -1,0 +1,34 @@
+{
+  "slug": "new-prince-of-tennis-ova-vs-genius10",
+  "synopsis": "This OVA series is a continuation of The New Prince of Tennis series from 2012, still set in the U-17 High School Representatives Selection Camp. The story follows the matches played when the First Strings return from their tour.",
+  "title": {
+    "en": "The Prince of Tennis II OVA vs Genius10",
+    "jp": "Shin Tennis no Ouji-sama OVA vs. Genius 10"
+  },
+  "releasedAt": "2014-10-29T00:00:00.000Z",
+  "finishedAt": "2015-06-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8034/original.png",
+  "categories": [
+    "action",
+    "bishounen",
+    "comedy",
+    "plot continuity",
+    "present",
+    "shounen",
+    "sports",
+    "tennis"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-prince-of-tennis-ii"
+  ],
+  "relations": {
+    "kitsu": "8034",
+    "anidb": "10368",
+    "anilist/anime": "20941",
+    "aozora": "EeKJOE2stE",
+    "myanimelist/anime": "21755"
+  }
+}

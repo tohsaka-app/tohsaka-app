@@ -1,0 +1,22 @@
+{
+  "slug": "kazaguruma-1996",
+  "synopsis": "Music video for the song Kazaguruma by Miyuki Nagai that was featured on NHK's Minna no Uta program. The video was animated by Akira Maeda.\n\n(Source:MAL)",
+  "title": {
+    "jp": "Kazaguruma (1996)"
+  },
+  "releasedAt": "1996-06-01T00:00:00.000Z",
+  "finishedAt": "1996-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44771/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44771",
+    "myanimelist/anime": "43628"
+  }
+}

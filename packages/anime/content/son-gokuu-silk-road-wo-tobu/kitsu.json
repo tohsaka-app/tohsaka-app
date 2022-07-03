@@ -1,0 +1,23 @@
+{
+  "slug": "son-gokuu-silk-road-wo-tobu",
+  "synopsis": "A TV special that aired as a part of \"Nissei Family Special\" series on Fuji TV in 1982.",
+  "title": {
+    "jp": "Son Gokuu Silk Road wo Tobu!!"
+  },
+  "releasedAt": "1982-06-17T00:00:00.000Z",
+  "finishedAt": "1982-06-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9767/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9767",
+    "aozora": "QgxSv7gsye",
+    "myanimelist/anime": "24669"
+  }
+}

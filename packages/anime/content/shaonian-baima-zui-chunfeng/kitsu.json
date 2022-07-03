@@ -1,0 +1,23 @@
+{
+  "slug": "shaonian-baima-zui-chunfeng",
+  "synopsis": "The story takes place twenty years before Shao Nian Ge Xing.",
+  "title": {},
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44498/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44498",
+    "anilist/anime": "133730",
+    "myanimelist/anime": "48867"
+  }
+}

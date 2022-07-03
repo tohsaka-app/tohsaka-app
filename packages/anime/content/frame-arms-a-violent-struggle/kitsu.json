@@ -1,0 +1,24 @@
+{
+  "slug": "frame-arms-a-violent-struggle",
+  "synopsis": "Bundled with Kotobukiya's pack of Frame Arms model kits.\n(Source: AniDB)",
+  "title": {
+    "jp": "Frame Arms: A Violent Struggle"
+  },
+  "releasedAt": "2015-05-31T00:00:00.000Z",
+  "finishedAt": "2015-05-31T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10586/original.jpg",
+  "categories": [
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10586",
+    "anidb": "11071",
+    "anilist/anime": "21254",
+    "aozora": "1zs1DtP2ge",
+    "myanimelist/anime": "30010"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "benghuai-3-seele",
+  "synopsis": "From now on, I will protect you till I am gone.",
+  "title": {
+    "en": "Honkai Impact 3rd: Seele",
+    "jp": "Benghuai 3: Seele"
+  },
+  "releasedAt": "2019-10-11T00:00:00.000Z",
+  "finishedAt": "2019-10-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43626/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43626/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=0qtRHw7pNLc&ab_channel=HonkaiImpact3rd"
+  ],
+  "relations": {
+    "kitsu": "43626",
+    "anilist/anime": "129686"
+  }
+}

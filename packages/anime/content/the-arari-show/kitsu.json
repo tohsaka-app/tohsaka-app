@@ -1,0 +1,26 @@
+{
+  "slug": "the-arari-show",
+  "synopsis": "Enter the Arari Show and meet the host Mr Arari, an over-dynamic showman who really knows how to liven up an audience.\nEver wanted to learn more about the culture, language and lifestyle in Korea? Learn some words and phrases? And be amused and entertained at the same time?\nCome and meet the 3 foreign visitors Michael, Jenny and Lala. See how they cope with being exposed to a culture so very different from their own.",
+  "title": {
+    "en": "The Arari Show",
+    "jp": "The Arari Show"
+  },
+  "releasedAt": "2006-08-31T00:00:00.000Z",
+  "finishedAt": "2006-11-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5061/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5061",
+    "anilist/anime": "7629",
+    "aozora": "UlhstKIYyp",
+    "myanimelist/anime": "7629"
+  }
+}

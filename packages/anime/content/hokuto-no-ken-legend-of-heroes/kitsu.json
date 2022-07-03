@@ -1,0 +1,27 @@
+{
+  "slug": "hokuto-no-ken-legend-of-heroes",
+  "synopsis": "This short 6 minute 3D CGI film of Kenshiro’s final battle with Raoh was created in 2006 and came out on DVD in 2007. This will most probably remain an exclusively Japanese release.\n(Source: Hokuto No Gun)",
+  "title": {
+    "en": "Fist of The North Star: Legend of Heroes",
+    "jp": "Hokuto no Ken: Legend of Heroes"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4950/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4950/original.jpg",
+  "categories": [
+    "action",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4950",
+    "anidb": "9159",
+    "anilist/anime": "7363",
+    "aozora": "ARLx2PGVK9",
+    "myanimelist/anime": "7363"
+  }
+}

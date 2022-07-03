@@ -1,0 +1,25 @@
+{
+  "slug": "spy-gekimetsu",
+  "synopsis": "A war propaganda film which begins with Roosevelt and Churchill in a secret meeting preparing their spy plans. Western spies in fancy suits and top hats parachute into Japan, disturbing innocent farmers. The Japanese civilians manage to thwart the spy activities.\n(Source: AniDB)",
+  "title": {
+    "jp": "Spy Gekimetsu"
+  },
+  "releasedAt": "1942-07-16T00:00:00.000Z",
+  "finishedAt": "1942-07-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9635/original.jpg",
+  "categories": [
+    "historical",
+    "military",
+    "world war ii"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9635",
+    "anidb": "6822",
+    "aozora": "48iCO1Beyn",
+    "myanimelist/anime": "27575"
+  }
+}

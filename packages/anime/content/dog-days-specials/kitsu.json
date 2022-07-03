@@ -1,0 +1,27 @@
+{
+  "slug": "dog-days-specials",
+  "synopsis": "Summary and commentary for each episode by the main characters",
+  "title": {
+    "jp": "Dog Days' Specials"
+  },
+  "releasedAt": "2012-09-26T00:00:00.000Z",
+  "finishedAt": "2013-03-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8429/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8429/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8429",
+    "anilist/anime": "17419",
+    "aozora": "XNr7fAUWwt",
+    "myanimelist/anime": "17419"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "usavich-iv",
+  "synopsis": "The fourth season of Usavich.",
+  "title": {
+    "en": "Usavich IV",
+    "jp": "Usavich IV"
+  },
+  "releasedAt": "2011-04-23T00:00:00.000Z",
+  "finishedAt": "2011-09-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6216/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6216",
+    "anilist/anime": "10513",
+    "aozora": "mMmnWuHurW",
+    "myanimelist/anime": "10513",
+    "thetvdb": "137951/4",
+    "thetvdb/season": "509464",
+    "thetvdb/series": "137951",
+    "trakt": "13900"
+  }
+}

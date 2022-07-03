@@ -1,0 +1,26 @@
+{
+  "slug": "hal-no-fue",
+  "synopsis": "The story follows a racoon-like tanuki creature named Hal who find an abandoned human baby. Hal names the baby Pal and decides to transform into a human mother to raise him.\n(Source: ANN)",
+  "title": {
+    "en": "Hal's Flute",
+    "jp": "Hal no Fue"
+  },
+  "releasedAt": "2011-10-22T00:00:00.000Z",
+  "finishedAt": "2011-10-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6558/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6558",
+    "anidb": "8669",
+    "anilist/anime": "11673",
+    "aozora": "cd5tjBwr9z",
+    "myanimelist/anime": "11673"
+  }
+}

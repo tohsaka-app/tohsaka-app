@@ -1,0 +1,33 @@
+{
+  "slug": "toriko-movie-bishokushin-no-special-menu",
+  "synopsis": "The new Toriko movie, planned for Summer 2013.",
+  "title": {
+    "jp": "Toriko Movie: Bishokushin no Special Menu"
+  },
+  "releasedAt": "2013-07-27T00:00:00.000Z",
+  "finishedAt": "2013-07-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7684/original.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "cooking",
+    "fantasy",
+    "martial arts",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "https://tubitv.com/movies/456145/toriko_the_movie"
+  ],
+  "relations": {
+    "kitsu": "7684",
+    "anidb": "9671",
+    "anilist/anime": "17699",
+    "aozora": "RIpEVSMN59",
+    "myanimelist/anime": "17699"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "mr-bond",
+  "synopsis": "A paper and marker stop-motion short about an international secret agent named Mr. Bond.\n",
+  "title": {
+    "en": "Mr. Bond",
+    "jp": "Mr. Bond"
+  },
+  "releasedAt": "1997-05-12T00:00:00.000Z",
+  "finishedAt": "1997-05-12T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41185/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41185",
+    "myanimelist/anime": "37687"
+  }
+}

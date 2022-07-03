@@ -1,0 +1,37 @@
+{
+  "slug": "casshern-robot-hunter",
+  "synopsis": "In the near future, robot technology has advanced to the point of self-awareness. Under the leadership of the \"Black King,\" machines have decimated the human population and conquered the world. Those who survived the early holocaust have been enslaved for life. But throughout the hardships, a lone hero appears as the savior of mankind. He is Casshan - a fusion of man and machine driven to combat Black King and his forces to the end. \n(Source: ANN)",
+  "title": {
+    "en": "Casshan: Robot Hunter",
+    "jp": "Casshern: Robot Hunter"
+  },
+  "releasedAt": "1993-08-21T00:00:00.000Z",
+  "finishedAt": "1994-02-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1438/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "android",
+    "cyborg",
+    "earth",
+    "future",
+    "mecha",
+    "post apocalypse",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [
+    "http://www.hulu.com/casshan"
+  ],
+  "relations": {
+    "kitsu": "1438",
+    "anidb": "1445",
+    "anilist/anime": "1598",
+    "aozora": "Iu57hS1GZ0",
+    "hulu": "50008351",
+    "myanimelist/anime": "1598"
+  }
+}

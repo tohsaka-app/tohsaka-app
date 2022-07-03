@@ -1,0 +1,31 @@
+{
+  "slug": "rockman-exe-stream",
+  "synopsis": "A comet burns in the sky, its brilliant light shining down upon the people of Earth. At that time, a giant army of viruses invade the real world, crushing everything in their path. Netto and Enzan use cross fusion to intervene, but are whisked away to an unknown location, only to be confronted by the one responsible for the attack - Duo! \n(Source: Official Site)",
+  "title": {
+    "jp": "Rockman.EXE Stream"
+  },
+  "releasedAt": "2004-10-02T00:00:00.000Z",
+  "finishedAt": "2005-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1908/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1908",
+    "anidb": "2664",
+    "anilist/anime": "2109",
+    "aozora": "ShTcArbgDy",
+    "myanimelist/anime": "2109",
+    "thetvdb": "75097/1",
+    "thetvdb/series": "75097",
+    "trakt": "37684"
+  }
+}

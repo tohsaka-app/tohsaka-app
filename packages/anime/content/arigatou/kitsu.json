@@ -1,0 +1,19 @@
+{
+  "slug": "arigatou",
+  "synopsis": "",
+  "title": {
+    "jp": "Arigatou"
+  },
+  "releasedAt": "1995-02-04T00:00:00.000Z",
+  "finishedAt": "1995-02-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41748/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41748",
+    "myanimelist/anime": "37194"
+  }
+}

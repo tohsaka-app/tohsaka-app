@@ -1,0 +1,24 @@
+{
+  "slug": "michi",
+  "synopsis": "The My Road series—Scarlet Road (2002), White Road (2003), Indigo Road (2006), and the most recent instalment Lemon Road (2008)—can be read as meditations on loss and mourning. These poetic films tell their story through motif, character expression, music and montage and require repeated viewing for one to absorb the subtly evoked layers of meaning.\n(Source: Midnight Eye)",
+  "title": {
+    "jp": "Michi"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5054/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5054",
+    "anidb": "10499",
+    "anilist/anime": "7616",
+    "aozora": "vqHdATZMRK",
+    "myanimelist/anime": "7616"
+  }
+}

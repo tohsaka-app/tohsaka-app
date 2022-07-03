@@ -1,0 +1,28 @@
+{
+  "slug": "chiisana-jumbo",
+  "synopsis": "This is a colorful, painstakingly animated musical about a boy and his pet white elephant who one day drift onto a peaceful island which soon finds itself caught between two larger islands at war",
+  "title": {
+    "en": "Little Jumbo",
+    "jp": "Chiisana Jumbo"
+  },
+  "releasedAt": "1977-09-10T00:00:00.000Z",
+  "finishedAt": "1977-09-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5116/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5116",
+    "anidb": "6981",
+    "anilist/anime": "7771",
+    "aozora": "fl3uVa01a9",
+    "myanimelist/anime": "7771"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "tokyo-24-ku-reversal-film",
+  "synopsis": "Recap of the first 9 episodes.",
+  "title": {
+    "jp": "Tokyo 24-ku: Reversal Film"
+  },
+  "releasedAt": "2022-03-17T00:00:00.000Z",
+  "finishedAt": "2022-03-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46008/poster_image/cf9668c01c5b21a107f669193f1aae12.jpg",
+  "categories": [
+    "mystery",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46008",
+    "myanimelist/anime": "51296"
+  }
+}

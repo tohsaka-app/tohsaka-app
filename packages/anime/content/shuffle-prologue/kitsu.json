@@ -1,0 +1,28 @@
+{
+  "slug": "shuffle-prologue",
+  "synopsis": "Shuffle! Prologue is a short OVA teaser for the Shuffle! anime series based on the visual novel of the same name. While some of the animation was reused for the first episode of the anime series, most of Shuffle! Prologue is unique animation not repeated in the series, although the story itself is retold. \n(Source: Wikipedia)",
+  "title": {
+    "jp": "Shuffle! Prologue"
+  },
+  "releasedAt": "2005-05-27T00:00:00.000Z",
+  "finishedAt": "2005-05-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4959/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "harem",
+    "magic",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4959",
+    "anilist/anime": "7396",
+    "aozora": "JGepr9rQjF",
+    "myanimelist/anime": "7396"
+  }
+}

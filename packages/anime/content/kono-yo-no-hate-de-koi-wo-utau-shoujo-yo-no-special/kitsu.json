@@ -1,0 +1,24 @@
+{
+  "slug": "kono-yo-no-hate-de-koi-wo-utau-shoujo-yo-no-special",
+  "synopsis": "Unaired episode included with the third Blu-ray volume.",
+  "title": {
+    "en": "YU-NO: A Girl Who Chants Love at the Bound of This World Special",
+    "jp": "Kono Yo no Hate de Koi wo Utau Shoujo YU-NO Special"
+  },
+  "releasedAt": "2019-12-26T00:00:00.000Z",
+  "finishedAt": "2019-12-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42485/original.jpg",
+  "categories": [
+    "drama",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42485",
+    "anilist/anime": "112472",
+    "myanimelist/anime": "39846"
+  }
+}

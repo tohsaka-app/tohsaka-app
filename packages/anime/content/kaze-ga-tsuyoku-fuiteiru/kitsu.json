@@ -1,0 +1,33 @@
+{
+  "slug": "kaze-ga-tsuyoku-fuiteiru",
+  "synopsis": "One chilly March day, Kansei University fourth-year Kiyose Haiji (Haiji) encounters Kurahara Kakeru (Kakeru) running uncommonly fast through the streets at night and forces him into living at the Chikusei-so (AKA Aotake). Haiji has a dream and ambition. He became discouraged after suffering an injury in high school, but he wants to run again. He wants to participate in the Hakone Ekiden and show off the running ability he's been pursuing. He has only one year left to turn that dream and ambition into reality.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Run with the Wind",
+    "jp": "Kaze ga Tsuyoku Fuiteiru"
+  },
+  "releasedAt": "2018-10-03T00:00:00.000Z",
+  "finishedAt": "2019-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41372/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41372/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "japan",
+    "seinen",
+    "sports",
+    "university"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/run-with-the-wind",
+    "https://www.hidive.com/tv/run-with-the-wind"
+  ],
+  "relations": {
+    "kitsu": "41372",
+    "anidb": "a14109",
+    "anilist/anime": "101903",
+    "myanimelist/anime": "37965"
+  }
+}

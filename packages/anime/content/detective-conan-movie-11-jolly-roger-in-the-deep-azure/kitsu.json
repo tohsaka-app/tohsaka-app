@@ -1,0 +1,32 @@
+{
+  "slug": "detective-conan-movie-11-jolly-roger-in-the-deep-azure",
+  "synopsis": "The Isle of Koumi, a beautiful island in the Pacific Ocean. On the island, people pass an old legend down from generation to generation that there was the Seabed Palace, an ancient ruin at the bottom of the sea, where the treasure of 2 female pirates, Anne Bonnie &amp; Mary Reed (who really existed 300 years ago), was left. When Conan and his friends visit Koumi Island while on vacation, they meet some treasure hunters. There was something suspicious about them.\n(Source: ANN)",
+  "title": {
+    "en": "Case Closed Movie 11: Jolly Roger in the Deep Azure",
+    "jp": "Detective Conan Movie 11: Jolly Roger in the Deep Azure"
+  },
+  "releasedAt": "2007-04-21T00:00:00.000Z",
+  "finishedAt": "2007-04-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1966/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "cops",
+    "detective",
+    "japan",
+    "mystery",
+    "pirate",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1966",
+    "anidb": "4937",
+    "anilist/anime": "2171",
+    "aozora": "ypXb4IRbCi",
+    "myanimelist/anime": "2171"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "cobalt-world",
+  "synopsis": "Music video for the song \"Cobalt World\" by Sangatsu no Phantasia. \n\n(Source: MAL)",
+  "title": {
+    "jp": "Cobalt World"
+  },
+  "releasedAt": "2016-12-14T00:00:00.000Z",
+  "finishedAt": "2016-12-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14249/original.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=v60Cb9RUYTI"
+  ],
+  "relations": {
+    "kitsu": "14249",
+    "anilist/anime": "101912",
+    "myanimelist/anime": "34802"
+  }
+}

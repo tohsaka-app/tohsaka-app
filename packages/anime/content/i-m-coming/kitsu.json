@@ -1,0 +1,25 @@
+{
+  "slug": "i-m-coming",
+  "synopsis": "A music video for Pa's Lam System's song \"I'm Coming.\" The music video was created for the 2017 version of the song.",
+  "title": {
+    "en": "I'm Coming",
+    "jp": "I'm Coming"
+  },
+  "releasedAt": "2017-07-21T00:00:00.000Z",
+  "finishedAt": "2017-07-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13945/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13945",
+    "anilist/anime": "103525",
+    "aozora": "RjnLWNYtBB",
+    "myanimelist/anime": "36061"
+  }
+}

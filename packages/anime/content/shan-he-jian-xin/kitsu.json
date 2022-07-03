@@ -1,0 +1,25 @@
+{
+  "slug": "shan-he-jian-xin",
+  "synopsis": "Adapted from the novel Qian Qiu (千秋) by Meng Xi Shi (梦溪石).",
+  "title": {
+    "en": "Thousand Autumns"
+  },
+  "releasedAt": "2021-02-08T00:00:00.000Z",
+  "finishedAt": "2021-03-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44075/original.png",
+  "categories": [
+    "action",
+    "fantasy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44075",
+    "anilist/anime": "120213",
+    "myanimelist/anime": "44196"
+  }
+}

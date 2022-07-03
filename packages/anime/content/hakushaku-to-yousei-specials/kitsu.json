@@ -1,0 +1,26 @@
+{
+  "slug": "hakushaku-to-yousei-specials",
+  "synopsis": "Chibi-Earl and Chibi-Fairy. Every special focuses on another character, who will in their turn recite a poem by Shakespeare, that they feel describes their lives the best.",
+  "title": {
+    "jp": "Hakushaku to Yousei Specials"
+  },
+  "releasedAt": "2008-12-29T00:00:00.000Z",
+  "finishedAt": "2009-08-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4862/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "historical",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4862",
+    "anilist/anime": "7083",
+    "aozora": "ncLynY6309",
+    "myanimelist/anime": "7083"
+  }
+}

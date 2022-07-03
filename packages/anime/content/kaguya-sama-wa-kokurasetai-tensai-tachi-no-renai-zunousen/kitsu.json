@@ -1,0 +1,34 @@
+{
+  "slug": "kaguya-sama-wa-kokurasetai-tensai-tachi-no-renai-zunousen",
+  "synopsis": "Known for being both brilliant and powerful, Miyuki Shirogane and Kaguya Shinomiya lead the illustrious Shuchiin Academy as near equals. Everyone thinks they’d make a great couple. But with pride and arrogance in ample supply, the only logical move is to trick the other into instigating a date! Who will come out on top in this psychological war where the first move is the only one that matters?\n\n(Source: Funimation)",
+  "title": {
+    "en": "Kaguya-sama: Love is War",
+    "jp": "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen"
+  },
+  "releasedAt": "2019-01-12T00:00:00.000Z",
+  "finishedAt": "2019-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41373/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41373/original.jpg",
+  "categories": [
+    "comedy",
+    "high school",
+    "psychological",
+    "romance",
+    "school life",
+    "student government"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/kaguya-sama-love-is-war",
+    "https://www.funimation.com/shows/kaguya-sama-love-is-war/",
+    "https://www.hulu.com/series/kaguya-sama-love-is-war-da69fc06-cdea-42dc-8827-52cee194db54"
+  ],
+  "relations": {
+    "kitsu": "41373",
+    "anidb": "14111",
+    "anilist/anime": "101921",
+    "myanimelist/anime": "37999"
+  }
+}

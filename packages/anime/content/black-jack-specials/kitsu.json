@@ -1,0 +1,28 @@
+{
+  "slug": "black-jack-specials",
+  "synopsis": "Black Jack is the \"Surgeon with the Hands of God,\" a mysterious young Japanese doctor who travels the world performing feats of miraculous surgical genius. Though all recognize his skill, Black Jack is widely hated, especially by the medical establishment, because he refuses to conform to rules of any kind, and because he charges outrageous fees for his services. Black Jack's only companion is Pinoko, a child he created out of a special kind of tumor called a teratoma, who insists she is his wife.",
+  "title": {
+    "jp": "Black Jack Specials: Inochi wo Meguru Yottsu no Kiseki"
+  },
+  "releasedAt": "2003-12-22T00:00:00.000Z",
+  "finishedAt": "2004-10-13T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1227/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/black-jack"
+  ],
+  "relations": {
+    "kitsu": "1227",
+    "anidb": "2672",
+    "anilist/anime": "1373",
+    "aozora": "ru2KifGbNq",
+    "myanimelist/anime": "1373",
+    "thetvdb": "81094/1",
+    "thetvdb/series": "81094"
+  }
+}

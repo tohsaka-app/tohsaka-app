@@ -1,0 +1,38 @@
+{
+  "slug": "time-bokan-oudou-fukko",
+  "synopsis": "A laugh-out-loud hilarious adventure from the studio behind Gatchaman and Speed Racer!\nWho has what it takes to be the baddest of the bad? It's evil versus evil as teams of bad guys compete to be the meanest villains ever! Watch and laugh as the Dorombo Gang and their Kitchen Robot take on the worst of the worst in a wacky race to be the greatest villains in anime history! The only force that stands in their way are the superheroes of anime. Will the Gatchaman ninja arrive in time to save the day?\n(Source: AniDB) ",
+  "title": {
+    "en": "Time Bokan: Royal Revival",
+    "jp": "Time Bokan Oudou Fukko"
+  },
+  "releasedAt": "1993-11-26T00:00:00.000Z",
+  "finishedAt": "1994-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3694/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "future",
+    "mecha",
+    "parody",
+    "piloted robot",
+    "power suit",
+    "science fiction",
+    "stereotypes",
+    "transforming craft"
+  ],
+  "externals": [
+    "http://www.hulu.com/time-bokan-royal-revival",
+    "https://www.hidive.com/movies/time-bokan-royal-revival"
+  ],
+  "relations": {
+    "kitsu": "3694",
+    "anidb": "3580",
+    "anilist/anime": "4578",
+    "aozora": "25EoAhBpoS",
+    "hulu": "50018014",
+    "myanimelist/anime": "4578"
+  }
+}

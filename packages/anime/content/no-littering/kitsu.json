@@ -1,0 +1,26 @@
+{
+  "slug": "no-littering",
+  "synopsis": "A cautionary tale about proper etiquette in the outdoors.",
+  "title": {
+    "en": "No Littering",
+    "jp": "No Littering"
+  },
+  "releasedAt": "2012-10-26T00:00:00.000Z",
+  "finishedAt": "2012-10-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7474/original.jpg",
+  "categories": [
+    "comedy",
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7474",
+    "anidb": "10645",
+    "anilist/anime": "16610",
+    "aozora": "cJBfDuZSYh",
+    "myanimelist/anime": "16610"
+  }
+}

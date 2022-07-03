@@ -1,0 +1,23 @@
+{
+  "slug": "ghost",
+  "synopsis": "Film by Takashi Ito.",
+  "title": {
+    "jp": "Ghost"
+  },
+  "releasedAt": "1984-01-01T00:00:00.000Z",
+  "finishedAt": "1984-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11225/original.png",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11225",
+    "anilist/anime": "103454",
+    "aozora": "jxSNaYKMGx",
+    "myanimelist/anime": "31262"
+  }
+}

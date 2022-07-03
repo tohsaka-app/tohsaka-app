@@ -1,0 +1,21 @@
+{
+  "slug": "hachi-parmentier-no-tukurikata",
+  "synopsis": "A cooking-style animation made in collaboration with Mietchi Cuisine. Mietchi makes a traditional French home cooking dish, hachis parmentier.",
+  "title": {
+    "en": "How to Make Hachis Parmentier",
+    "jp": "Hachis Parmentier no Tsukurikata"
+  },
+  "releasedAt": "2016-03-31T00:00:00.000Z",
+  "finishedAt": "2016-03-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12790/original.png",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12790"
+  }
+}

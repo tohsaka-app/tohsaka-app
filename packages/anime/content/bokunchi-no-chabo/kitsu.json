@@ -1,0 +1,21 @@
+{
+  "slug": "bokunchi-no-chabo",
+  "synopsis": "A chicken wearing glasses and a tie has a harsh voice and annoys those around him.",
+  "title": {
+    "jp": "Bokunchi no Chabo"
+  },
+  "releasedAt": "1980-12-01T00:00:00.000Z",
+  "finishedAt": "1980-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40919/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40919",
+    "anilist/anime": "103428",
+    "aozora": "Th5H7FumI7",
+    "myanimelist/anime": "36377"
+  }
+}

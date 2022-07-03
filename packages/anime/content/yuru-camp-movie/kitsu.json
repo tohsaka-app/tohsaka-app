@@ -1,0 +1,27 @@
+{
+  "slug": "yuru-camp-movie",
+  "synopsis": "The movie of Yuru Camp△. Nadeshiko, Rin, Chiaki, Aoi, Ena, and Chikuwa are reuniting once more as grown-ups for another camping trip, but instead of finding a place to pitch their tents, they'll be building their own camping ground!\n\n(Source: Crunchyroll, edited)",
+  "title": {
+    "en": "Laid-Back Camp Movie",
+    "jp": "Eiga Yuru Camp△"
+  },
+  "releasedAt": "2022-07-01T00:00:00.000Z",
+  "finishedAt": "2022-07-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/41977/poster_image/70eddc08324af868c3606cc6f4c0bc7e.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41977/original.jpg",
+  "categories": [
+    "comedy",
+    "school clubs",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41977",
+    "anidb": "a14438",
+    "anilist/anime": "104460",
+    "myanimelist/anime": "38475"
+  }
+}

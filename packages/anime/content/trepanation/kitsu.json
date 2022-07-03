@@ -1,0 +1,26 @@
+{
+  "slug": "trepanation",
+  "synopsis": "Music video for the song Trepanation by millenium parade, directed by Ryouji Yamada.",
+  "title": {
+    "en": "Trepanation",
+    "jp": "Trepanation"
+  },
+  "releasedAt": "2021-04-30T00:00:00.000Z",
+  "finishedAt": "2021-04-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44500/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44500/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=vdmBqZDzpM8"
+  ],
+  "relations": {
+    "kitsu": "44500",
+    "anilist/anime": "133442",
+    "myanimelist/anime": "48869"
+  }
+}

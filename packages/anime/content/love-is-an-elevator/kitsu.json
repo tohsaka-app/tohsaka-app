@@ -1,0 +1,22 @@
+{
+  "slug": "love-is-an-elevator",
+  "synopsis": "The story about two elevators which their love does not grow because of swayed by people around them.\nIndependent animation by Tomoki Misato.",
+  "title": {
+    "en": "Love is an Elevator",
+    "jp": "Love is an Elevator"
+  },
+  "releasedAt": "2016-03-09T00:00:00.000Z",
+  "finishedAt": "2016-03-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44508/original.png",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44508",
+    "anilist/anime": "133507"
+  }
+}

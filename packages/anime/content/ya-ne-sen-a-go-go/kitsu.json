@@ -1,0 +1,22 @@
+{
+  "slug": "ya-ne-sen-a-go-go",
+  "synopsis": "A short film by ShiShi Yamazaki which depicting herself dancing through the Yanaka, Nezu, and Sendagi areas of Taitou, Tokyo.",
+  "title": {
+    "jp": "Ya-Ne-Sen a Go Go"
+  },
+  "releasedAt": "2011-02-03T00:00:00.000Z",
+  "finishedAt": "2011-02-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42750/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42750",
+    "anilist/anime": "110491",
+    "myanimelist/anime": "38702"
+  }
+}

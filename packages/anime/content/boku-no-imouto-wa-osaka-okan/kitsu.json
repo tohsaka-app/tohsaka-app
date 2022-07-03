@@ -1,0 +1,33 @@
+{
+  "slug": "boku-no-imouto-wa-osaka-okan",
+  "synopsis": "Kyousuke's younger sister Namika has been living apart from him for ten years. One day, she returns and begins to live with him again, but she has turned into an energetic Osaka girl.",
+  "title": {
+    "jp": "Boku no Imouto wa \"Osaka Okan\""
+  },
+  "releasedAt": "2012-12-22T00:00:00.000Z",
+  "finishedAt": "2013-03-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7423/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "cooking",
+    "earth",
+    "japan",
+    "present",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7423",
+    "anidb": "9522",
+    "anilist/anime": "16405",
+    "aozora": "ZBXUogGHvZ",
+    "myanimelist/anime": "16405",
+    "thetvdb": "264972/1",
+    "thetvdb/series": "264972",
+    "trakt": "47764"
+  }
+}

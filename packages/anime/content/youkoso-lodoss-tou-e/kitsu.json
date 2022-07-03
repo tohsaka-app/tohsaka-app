@@ -1,0 +1,26 @@
+{
+  "slug": "youkoso-lodoss-tou-e",
+  "synopsis": "This movie is the compilation of the 27 mini-parody episode trailers that ran at the end of every Record of Lodoss War: Chronicles of the Heroic Knight episode, which featured characters depicted in their chibi forms.",
+  "title": {
+    "en": "Welcome to Lodoss Island!",
+    "jp": "Youkoso Lodoss-tou e!"
+  },
+  "releasedAt": "2005-03-25T00:00:00.000Z",
+  "finishedAt": "2005-03-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2594/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2594",
+    "anidb": "7271",
+    "anilist/anime": "2840",
+    "aozora": "cktUrvikwS",
+    "myanimelist/anime": "2840"
+  }
+}

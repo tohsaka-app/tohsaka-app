@@ -1,0 +1,30 @@
+{
+  "slug": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen",
+  "synopsis": "Embroiled in a hundred-year war, young Iska is sent to assassinate the Ice Calamity Witch, Aliceliese. Meant to murder each other, their initial encounter on the battleground creates doubt in their missions, but finding common ground together would make them traitors to their own countries. Though circumstances previously made them enemies, their now conflicted hearts may just make them lovers!\n\n(Source: Funimation)",
+  "title": {
+    "en": "Our Last Crusade or the Rise of a New World",
+    "jp": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
+  },
+  "releasedAt": "2020-10-07T00:00:00.000Z",
+  "finishedAt": "2020-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42638/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42638/original.png",
+  "categories": [
+    "action",
+    "ecchi",
+    "fantasy",
+    "military",
+    "romance"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/our-last-crusade-or-the-rise-of-a-new-world"
+  ],
+  "relations": {
+    "kitsu": "42638",
+    "anilist/anime": "112667",
+    "myanimelist/anime": "40595"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "kono-sekai-no-katasumi-ni",
+  "synopsis": "The award-winning story of IN THIS CORNER OF THE WORLD follows a young lady named Suzu Urano, who in 1944 moves to the small town of Kure in Hiroshima to live with her husband’s family. Suzu’s life is thrown into chaos when her town is bombed during World War II. Her perseverance and courage underpin this heart-warming and inspirational tale of the everyday challenges faced by the Japanese in the midst of a violent, war-torn country. This beautiful yet poignant tale shows that even in the face of adversity and loss, people can come together and rebuild their lives.\n\n(Source: Official Website)",
+  "title": {
+    "en": "In This Corner of the World",
+    "jp": "Kono Sekai no Katasumi ni"
+  },
+  "releasedAt": "2016-11-12T00:00:00.000Z",
+  "finishedAt": "2016-11-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7234/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7234/original.png",
+  "categories": [
+    "asia",
+    "earth",
+    "historical",
+    "japan",
+    "past",
+    "world war ii"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80192244"
+  ],
+  "relations": {
+    "kitsu": "7234",
+    "anidb": "9376",
+    "anilist/anime": "15227",
+    "aozora": "dOutV3ShK6",
+    "myanimelist/anime": "15227"
+  }
+}

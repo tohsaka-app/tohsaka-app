@@ -1,0 +1,28 @@
+{
+  "slug": "kipo-and-the-age-of-wonderbeasts-season-2",
+  "synopsis": "Second season of Kipo and the Age of Wonderbeasts",
+  "title": {},
+  "releasedAt": "2020-06-12T00:00:00.000Z",
+  "finishedAt": "2020-06-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43157/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43157/original.jpg",
+  "categories": [
+    "anime influenced",
+    "anthropomorphism",
+    "dystopia",
+    "fantasy",
+    "friendship",
+    "kids",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80221553"
+  ],
+  "relations": {
+    "kitsu": "43157"
+  }
+}

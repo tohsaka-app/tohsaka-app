@@ -1,0 +1,43 @@
+{
+  "slug": "glasslip",
+  "synopsis": "What if you hold the power to hear the voices or see fragments of images from the future? Would that be a good thing or a bad thing? Glasslip follows the life of Touko Fukami, an aspiring glass artist born from a glass artisan family. She enjoys her worry-free life in Fukui, save for the fragments of images that she sees on occasion.\nOn her 18th summer, she meets the transfer student Kakeru Okikura at her school, and then again at her favorite café called Kazemichi together with all four of her friends. The voices from the future lead Kakeru to Touko, and his arrival disrupts her mediocre existence. All six of the friends must face their most unforgettable summer full of hope, affection, and heartache.",
+  "title": {
+    "en": "Glasslip",
+    "jp": "Glasslip"
+  },
+  "releasedAt": "2014-07-03T00:00:00.000Z",
+  "finishedAt": "2014-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8325/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8325/original.jpg",
+  "categories": [
+    "asia",
+    "coming of age",
+    "earth",
+    "japan",
+    "love polygon",
+    "present",
+    "romance",
+    "slice of life",
+    "slow when it comes to love"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/glasslip",
+    "http://www.hulu.com/glasslip",
+    "https://tubitv.com/series/2693",
+    "https://www.hidive.com/tv/glasslip"
+  ],
+  "relations": {
+    "kitsu": "8325",
+    "anidb": "10506",
+    "anilist/anime": "20645",
+    "aozora": "ILwTL8jfMe",
+    "hulu": "50017258",
+    "myanimelist/anime": "23079",
+    "thetvdb": "279531/1",
+    "thetvdb/series": "279531",
+    "trakt": "76602"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "yanase-takashi-marchen-gekijou",
+  "synopsis": "A collection of children's stories by Yanase Takashi.",
+  "title": {
+    "jp": "Yanase Takashi Märchen Gekijou"
+  },
+  "releasedAt": "2008-04-23T00:00:00.000Z",
+  "finishedAt": "2008-07-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9700/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9700",
+    "anidb": "8807",
+    "anilist/anime": "17471",
+    "aozora": "FyX6oJ0z1G",
+    "myanimelist/anime": "17471"
+  }
+}

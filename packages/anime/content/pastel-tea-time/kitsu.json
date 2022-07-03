@@ -1,0 +1,25 @@
+{
+  "slug": "pastel-tea-time",
+  "synopsis": "MV for Omaru Polka's song Pastel Tea Time.",
+  "title": {
+    "en": "Pastel Tea Time",
+    "jp": "Pastel Tea Time"
+  },
+  "releasedAt": "2021-10-26T00:00:00.000Z",
+  "finishedAt": "2021-10-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45385/poster_image/596ba6b3dba8080a569af88a0adb9b32.jpg",
+  "categories": [
+    "fantasy",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=kdYAZZ5SOFk"
+  ],
+  "relations": {
+    "kitsu": "45385"
+  }
+}

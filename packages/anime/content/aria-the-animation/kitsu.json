@@ -1,0 +1,39 @@
+{
+  "slug": "aria-the-animation",
+  "synopsis": "Akari Mizunashi, at the age of 15, has left everything behind to travel to a sparkling planet covered in water, Aqua, formerly known as Mars. By the 24th century, humans have found a way to colonize the formerly uninhabitable planet.\n\nMore than anything, Akari wants to be an \"undine\" - a female gondolier who navigates the canals of the Aquan city of Neo-Venezia. The city itself is a faithful replication of Manhome's (Earth) city of Venice. To make sure that residents and tourists alike get the most from Neo-Venezia's many wonders, companies offering guided tours via gondola were formed, one of which is named Aria Company.\n\nAs she begins her training with the prestigious Aria Company, will she be up to the challenges that await her on the path to achieve her dream?\n\nARIA The ANIMATION’s gentle poetry will take you to the truth: It’s all about savoring each moment of the journey along the way.\n\n(Source: Kickstarter)",
+  "title": {
+    "en": "Aria The Animation",
+    "jp": "Aria The Animation"
+  },
+  "releasedAt": "2005-10-06T00:00:00.000Z",
+  "finishedAt": "2005-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/439/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/439/original.jpg",
+  "categories": [
+    "fantasy",
+    "future",
+    "mars",
+    "other planet",
+    "science fiction",
+    "slice of life",
+    "space"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/aria-the-animation",
+    "https://tubitv.com/series/2344/aria"
+  ],
+  "relations": {
+    "kitsu": "439",
+    "anidb": "2659",
+    "anilist/anime": "477",
+    "aozora": "K5US7jgLjV",
+    "myanimelist/anime": "477",
+    "thetvdb": "79839/1",
+    "thetvdb/season": "30639",
+    "thetvdb/series": "79839",
+    "trakt": "61720"
+  }
+}

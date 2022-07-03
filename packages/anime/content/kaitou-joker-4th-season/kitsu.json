@@ -1,0 +1,27 @@
+{
+  "slug": "kaitou-joker-4th-season",
+  "synopsis": "Fourth season in the Kaitou Joker anime series.\nThe thief Mysterious Joker doesn't just steal things. An audacious and elusive miracle-maker, he travels the world searching for treasure with his partner and cook Hachi. As they circle the globe, they must avoid traps set by the police and compete in various competitions to reach their final goal, the Timeslip Treasure.\n(Source: ANN)",
+  "title": {
+    "en": "JOKER 4th Season",
+    "jp": "Kaitou Joker 4th Season"
+  },
+  "releasedAt": "2016-10-03T00:00:00.000Z",
+  "finishedAt": "2016-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12361/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12361",
+    "anidb": "12237",
+    "anilist/anime": "21859",
+    "aozora": "zHSqME35Bj",
+    "myanimelist/anime": "33490"
+  }
+}

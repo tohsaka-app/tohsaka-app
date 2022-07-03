@@ -1,0 +1,31 @@
+{
+  "slug": "pokemon-best-wishes-season-2-decolora-adventure",
+  "synopsis": "After their encounter with Team Plasma, Satoshi, Iris and Dent start a new journey in the Decolora Islands.",
+  "title": {
+    "jp": "Pokemon Best Wishes! Season 2: Decolora Adventure"
+  },
+  "releasedAt": "2013-04-25T00:00:00.000Z",
+  "finishedAt": "2013-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7895/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7895",
+    "anidb": "9764",
+    "anilist/anime": "17873",
+    "aozora": "WxR77zjqJQ",
+    "myanimelist/anime": "17873",
+    "thetvdb": "76703",
+    "trakt": "60156"
+  }
+}

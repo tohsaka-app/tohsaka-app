@@ -1,0 +1,32 @@
+{
+  "slug": "chitose-get-you",
+  "synopsis": "Chitose is an 11-year-old girl who is madly in love with an older guy named Hiroshi. He works at the town hall right next to the school and Chitose spends every day relentlessly pursuing him. Can Chitose ever convince Hiroshi to go out with her? ",
+  "title": {
+    "jp": "Chitose Get You!!"
+  },
+  "releasedAt": "2012-07-02T00:00:00.000Z",
+  "finishedAt": "2012-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7107/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/chitose-get-you"
+  ],
+  "relations": {
+    "kitsu": "7107",
+    "anidb": "9158",
+    "anilist/anime": "14277",
+    "aozora": "M1ZXdyIJ7F",
+    "myanimelist/anime": "14277",
+    "thetvdb": "259655/1",
+    "thetvdb/series": "259655",
+    "trakt": "44260"
+  }
+}

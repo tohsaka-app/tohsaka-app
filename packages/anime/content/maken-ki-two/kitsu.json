@@ -1,0 +1,48 @@
+{
+  "slug": "maken-ki-two",
+  "synopsis": "Takeru continues his education at Tenbi Academy as part of the newly formed Security Committee. As a team with the other members, they battle unscrupulous individuals who use their Maken for evil purposes. In the meantime, his libido and the conflicting romantic interests of the girls surrounding him complicate matters considerably.\n\n(Source: ANN)",
+  "title": {
+    "en": "Maken-Ki! Two",
+    "jp": "Maken-Ki! Two"
+  },
+  "releasedAt": "2014-01-15T00:00:00.000Z",
+  "finishedAt": "2014-03-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7275/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "action",
+    "asia",
+    "contemporary fantasy",
+    "earth",
+    "ecchi",
+    "harem",
+    "japan",
+    "love polygon",
+    "magic",
+    "martial arts",
+    "present",
+    "romance",
+    "school life",
+    "super power",
+    "violent retribution for accidental infringement"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/maken-ki",
+    "https://www.funimation.com/shows/maken-ki/",
+    "https://www.hulu.com/maken-ki-battling-venus"
+  ],
+  "relations": {
+    "kitsu": "7275",
+    "anidb": "9406",
+    "anilist/anime": "15565",
+    "aozora": "UvEUDIG2iA",
+    "myanimelist/anime": "15565",
+    "thetvdb": "252474/2",
+    "thetvdb/season": "565576",
+    "thetvdb/series": "252474",
+    "trakt": "60297"
+  }
+}

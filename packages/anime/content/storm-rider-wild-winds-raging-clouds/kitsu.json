@@ -1,0 +1,25 @@
+{
+  "slug": "storm-rider-wild-winds-raging-clouds",
+  "synopsis": "2002 OVA adaptation of Storm Riders manhua. Features Cloud, Wind, and Wave characters.",
+  "title": {
+    "jp": "Feng Ji Yun Nu"
+  },
+  "releasedAt": "2004-08-12T00:00:00.000Z",
+  "finishedAt": "2004-08-12T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10567/original.jpg",
+  "categories": [
+    "action",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10567",
+    "anidb": "3188",
+    "anilist/anime": "103176",
+    "aozora": "9ROE7hNRIp",
+    "myanimelist/anime": "29961"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "fractale",
+  "synopsis": "The story takes place on an island, where a \"Fractale System\" is beginning to collapse. One day, Clain finds an injured girl called Phryne under a cliff. She disappears leaving a pendant. Clain sets out for a journey with the girl-shaped avatar Nessa to look for Phryne and discovers the secret of the Fractale System.",
+  "title": {
+    "en": "Fractale",
+    "jp": "Fractale"
+  },
+  "releasedAt": "2011-01-14T00:00:00.000Z",
+  "finishedAt": "2011-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5668/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5668/original.png",
+  "categories": [
+    "adventure",
+    "dystopia",
+    "fantasy",
+    "fantasy world",
+    "human enhancement",
+    "plot continuity",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/fractale/videos/episodes",
+    "http://www.hulu.com/fractale"
+  ],
+  "relations": {
+    "kitsu": "5668",
+    "anidb": "7873",
+    "anilist/anime": "9314",
+    "aozora": "7o5TnzahLb",
+    "hulu": "50002562",
+    "myanimelist/anime": "9314",
+    "thetvdb": "219811/1",
+    "thetvdb/series": "219811",
+    "trakt": "38110"
+  }
+}

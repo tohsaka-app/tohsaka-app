@@ -1,0 +1,40 @@
+{
+  "slug": "hatsukoi-limited",
+  "synopsis": "A series relating the intertwined stories about the \"first loves\" of several middle-schoolers and high-schoolers. Each episode tends to focus on a different character, however the developments established during previous episodes continue to play smaller roles in those following. As the series progresses, an array of unusual and unexpected love webs begin to blossom.",
+  "title": {
+    "en": "Hatsukoi Limited",
+    "jp": "Hatsukoi Limited."
+  },
+  "releasedAt": "2009-04-12T00:00:00.000Z",
+  "finishedAt": "2009-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3949/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3949/original.jpg",
+  "categories": [
+    "comedy",
+    "high school",
+    "japan",
+    "love polygon",
+    "middle school",
+    "present",
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "http://www.hulu.com/hatsukoi-limited",
+    "https://www.hidive.com/tv/hatsukoi-limited"
+  ],
+  "relations": {
+    "kitsu": "3949",
+    "anidb": "6323",
+    "anilist/anime": "5150",
+    "aozora": "y0stpFprgK",
+    "hulu": "50014340",
+    "myanimelist/anime": "5150",
+    "thetvdb": "89311/1",
+    "thetvdb/series": "89311",
+    "trakt": "62545"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "nanbo-no-monjai-2-yankee-gurentai",
+  "synopsis": "The adventure continues as the Osaka boys clash with the sukeban bosozoku gang leaves them in agony.",
+  "title": {
+    "jp": "Nanbo no Monjai! 2: Yankee Gurentai"
+  },
+  "releasedAt": "1993-05-28T00:00:00.000Z",
+  "finishedAt": "1993-05-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9476/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9476",
+    "anilist/anime": "19797",
+    "aozora": "TTEBUNpZvs",
+    "myanimelist/anime": "19797"
+  }
+}

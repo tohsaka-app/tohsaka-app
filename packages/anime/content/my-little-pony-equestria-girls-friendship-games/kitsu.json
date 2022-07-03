@@ -1,0 +1,27 @@
+{
+  "slug": "my-little-pony-equestria-girls-friendship-games",
+  "synopsis": "The film's story centers around a sports competition between the students of Canterlot High School and their rivals at Crystal Prep Academy, one of whom is Twilight's human counterpart, who has been investigating the magical activity around Canterlot High.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "My Little Pony: Equestria Girls – Friendship Games"
+  },
+  "releasedAt": "2015-09-26T00:00:00.000Z",
+  "finishedAt": "2015-09-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44360/original.png",
+  "categories": [
+    "anime influenced",
+    "fantasy",
+    "high school",
+    "kids",
+    "magic",
+    "magical girl",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44360"
+  }
+}

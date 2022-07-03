@@ -1,0 +1,27 @@
+{
+  "slug": "post-malone-virtual-concert-experience",
+  "synopsis": "Short CG animated concert performed by Post Malone to celebrate Pokemon's 25th anniversary.",
+  "title": {
+    "en": "Post Malone Virtual Concert Experience!"
+  },
+  "releasedAt": "2021-02-27T00:00:00.000Z",
+  "finishedAt": "2021-02-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44105/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44105/original.jpg",
+  "categories": [
+    "anime influenced",
+    "fantasy",
+    "kids",
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=nQCRYhO7JNE&ab_channel=TheOfficialPok%C3%A9monYouTubechannel"
+  ],
+  "relations": {
+    "kitsu": "44105"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "bishoujo-senshi-sailor-moon-r",
+  "synopsis": "The season is divided into two arcs: One arc being an anime filler (to give Takeuchi Naoko time to make the next manga), and the other arc being the actual Black Moon plot. \nThe first arc shows Usagi and Co. having their memories restored from the first season. Their enemies are a pair of aliens, Ail and Ann, who are seeking human energy to restore their life tree. Mamoru had yet to recover his memories and he appeared as the Moonlight Knight rather than Tuxedo Kamen. This arc only lasted for 13 episodes. \nThe second arc introduces Chibi-Usa, a little girl from the future who is searching for the Silver Crystal. The new enemies are the Black Moon Clan, comprising of the Ayakashi sisters (Cooan, Beruche, Karaberas, and Petz), Rubeus, Safir, Esmeraude, Prince Demando, and Wiseman. They too want the Silver Crystal so that they can take over the future. The Sailor Senshi's adventure continues... ",
+  "title": {
+    "en": "Sailor Moon R",
+    "jp": "Bishoujo Senshi Sailor Moon R"
+  },
+  "releasedAt": "1993-03-06T00:00:00.000Z",
+  "finishedAt": "1994-03-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/664/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/664/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "demon",
+    "earth",
+    "henshin",
+    "humanoid alien",
+    "japan",
+    "magic",
+    "magical girl",
+    "plot continuity",
+    "present",
+    "romance",
+    "shoujo",
+    "super power"
+  ],
+  "externals": [
+    "https://www.animelab.com/shows/sailor-moon",
+    "https://www.hulu.com/series/sailor-moon-4e1c9108-f973-48fb-8824-a69280ca0438"
+  ],
+  "relations": {
+    "kitsu": "664",
+    "anidb": "2539",
+    "anilist/anime": "740",
+    "aozora": "cstGlnkyyu",
+    "myanimelist/anime": "740",
+    "thetvdb": "78500/2",
+    "thetvdb/season": "15145",
+    "thetvdb/series": "78500",
+    "trakt": "3548"
+  }
+}

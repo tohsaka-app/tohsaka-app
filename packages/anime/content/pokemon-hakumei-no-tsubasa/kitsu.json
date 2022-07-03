@@ -1,0 +1,31 @@
+{
+  "slug": "pokemon-hakumei-no-tsubasa",
+  "synopsis": "‘Hakumei no Tsubasa (Twilight Wings)’ will show the realistic days of children in Galar region during a period of turmoil, just like in games.\n\n(Source: CR)",
+  "title": {
+    "en": "Pokemon: Twilight Wings",
+    "jp": "Pokemon: Hakumei no Tsubasa"
+  },
+  "releasedAt": "2020-01-15T00:00:00.000Z",
+  "finishedAt": "2020-08-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42869/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42869/original.jpg",
+  "categories": [
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.youtube.com/playlist?list=PLBE2D9BnJJUottgTqK-Daoqx-G5IBHg7P",
+    "https://www.youtube.com/playlist?list=PLQWzKIaERirwfvHB3m8CjnTK6ZzNA8wvJ"
+  ],
+  "relations": {
+    "kitsu": "42869",
+    "anidb": "15309",
+    "anilist/anime": "113932",
+    "myanimelist/anime": "40861"
+  }
+}

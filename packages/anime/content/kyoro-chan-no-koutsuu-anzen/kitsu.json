@@ -1,0 +1,20 @@
+{
+  "slug": "kyoro-chan-no-koutsuu-anzen",
+  "synopsis": "Traffic safety video starring the cast of <i>Kyoro-chan</i>.",
+  "title": {
+    "jp": "Kyoro-chan no Koutsuu Anzen"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2001-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40722/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40722",
+    "aozora": "TUbXbf0X7R",
+    "myanimelist/anime": "35177"
+  }
+}

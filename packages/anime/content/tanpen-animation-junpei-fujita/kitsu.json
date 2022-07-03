@@ -1,0 +1,25 @@
+{
+  "slug": "tanpen-animation-junpei-fujita",
+  "synopsis": "A special airing at the Meguro Museum of Art in Tokyo of three animation shorts created by Junpei Fujita during his school days, using three different animation techniques.\n1. The Seasons (2 min; animation)\n2. Eaten Up Planet (30 min;  rotary animation)\n3. Insane Ice (48 min; pixilation &amp; animation)",
+  "title": {
+    "en": "Short Animations of Junpei Fujita",
+    "jp": "Tanpen Animation Junpei Fujita"
+  },
+  "releasedAt": "2009-08-01T00:00:00.000Z",
+  "finishedAt": "2009-08-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7219/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7219",
+    "anidb": "8095",
+    "anilist/anime": "15129",
+    "aozora": "lutEeyqktz",
+    "myanimelist/anime": "15129"
+  }
+}

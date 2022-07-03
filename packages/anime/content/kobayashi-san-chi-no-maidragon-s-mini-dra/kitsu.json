@@ -1,0 +1,30 @@
+{
+  "slug": "kobayashi-san-chi-no-maidragon-s-mini-dra",
+  "synopsis": "Short episodes of silliness leading up to the relase of Miss Kobayashi's Dragon Maid S\n\nNote: This entry's total count includes episodes 1-13 + the 3 SP episodes that will release during the second season's run.",
+  "title": {
+    "en": "Miss Kobayashi's Dragon Maid S Short Animation Series",
+    "jp": "Kobayashi-san Chi no Maidragon S: Mini Dra"
+  },
+  "releasedAt": "2021-04-07T00:00:00.000Z",
+  "finishedAt": "2021-09-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44326/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44326/original.jpg",
+  "categories": [
+    "comedy",
+    "dragon",
+    "fantasy",
+    "maid",
+    "slice of life"
+  ],
+  "externals": [
+    "crunchyroll.com/series/G6497Z43Y/Miss-Kobayashis-Dragon-Maid"
+  ],
+  "relations": {
+    "kitsu": "44326",
+    "anilist/anime": "132096",
+    "myanimelist/anime": "48590"
+  }
+}

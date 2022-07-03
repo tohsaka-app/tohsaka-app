@@ -1,0 +1,28 @@
+{
+  "slug": "ganbare-gonbe",
+  "synopsis": "Based on the long running (1958 to 1992) gag manga by Sonoyama Shuji.\n(Source: AniDB)",
+  "title": {
+    "jp": "Ganbare Gonbe"
+  },
+  "releasedAt": "1980-04-14T00:00:00.000Z",
+  "finishedAt": "1980-08-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9272/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "kids",
+    "parody",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9272",
+    "anidb": "6519",
+    "anilist/anime": "20199",
+    "aozora": "Nrylm4SLvU",
+    "myanimelist/anime": "20199"
+  }
+}

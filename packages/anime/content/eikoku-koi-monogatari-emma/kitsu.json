@@ -1,0 +1,41 @@
+{
+  "slug": "eikoku-koi-monogatari-emma",
+  "synopsis": "In 19th-century London, class lines are sharply drawn, and the social standing to which people are born dictates the path their lives will follow. Emma, an honest and hardworking young maid, never felt her place in life to be a burden. But then she met William, a member of the gentry and the eldest son of a wealthy family. His warm smile and earnest affection threaten to capture her heart... but can love truly conquer all?\n(Source: RightStuf)",
+  "title": {
+    "en": "Emma: A Victorian Romance",
+    "jp": "Eikoku Koi Monogatari Emma"
+  },
+  "releasedAt": "2005-04-03T00:00:00.000Z",
+  "finishedAt": "2005-06-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/312/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/312/original.jpg",
+  "categories": [
+    "earth",
+    "europe",
+    "historical",
+    "maid",
+    "past",
+    "plot continuity",
+    "romance",
+    "slice of life",
+    "united kingdom",
+    "victorian period"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/emma-a-victorian-romance"
+  ],
+  "relations": {
+    "kitsu": "312",
+    "anidb": "2695",
+    "anilist/anime": "345",
+    "aozora": "g2hezuZPMy",
+    "myanimelist/anime": "345",
+    "thetvdb": "83303/1",
+    "thetvdb/season": "35855",
+    "thetvdb/series": "83303",
+    "trakt": "29183"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "shouwa-genroku-rakugo-shinjuu-tv",
+  "synopsis": "Yotarou is a former yakuza member fresh out of prison and fixated on just one thing: rather than return to a life of crime, the young man aspires to take to the stage of Rakugo, a traditional Japanese form of comedic storytelling. Inspired during his incarceration by the performance of distinguished practitioner Yakumo Yuurakutei, he sets his mind on meeting the man who changed his life. After hearing Yotarou's desperate appeal for his mentorship, Yakumo is left with no choice but to accept his very first apprentice.\n\nAs he eagerly begins his training, Yotarou meets Konatsu, an abrasive young woman who has been under Yakumo's care ever since her beloved father Sukeroku Yuurakutei, another prolific Rakugo performer, passed away. Through her hidden passion, Yotarou is drawn to Sukeroku's unique style of Rakugo despite learning under contrasting techniques. Upon seeing this, old memories and feelings return to Yakumo who reminisces about a much earlier time when he made a promise with his greatest rival.\n\nShouwa Genroku Rakugo Shinjuu is a story set in both the past and present, depicting the art of Rakugo, the relationships it creates, and the lives and hearts of those dedicated to keeping the unique form of storytelling alive.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Showa Genroku Rakugo Shinju",
+    "jp": "Shouwa Genroku Rakugo Shinjuu"
+  },
+  "releasedAt": "2016-01-09T00:00:00.000Z",
+  "finishedAt": "2016-04-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10051/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10051/original.png",
+  "categories": [
+    "asia",
+    "earth",
+    "friendship",
+    "historical",
+    "japan",
+    "josei",
+    "past",
+    "performance",
+    "the arts"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/showa-genroku-rakugo-shinju"
+  ],
+  "relations": {
+    "kitsu": "10051",
+    "anidb": "10960",
+    "anilist/anime": "20972",
+    "aozora": "uEo9M56txG",
+    "myanimelist/anime": "28735",
+    "thetvdb": "304316/1",
+    "trakt": "103985"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "edens-zero",
+  "synopsis": "Aboard the Edens Zero, a lonely boy with the ability to control gravity embarks on an adventure to meet the fabled space goddess known as Mother.\n\n(Source: Netflix)",
+  "title": {
+    "en": "Edens Zero",
+    "jp": "EDENS ZERO"
+  },
+  "releasedAt": "2021-04-11T00:00:00.000Z",
+  "finishedAt": "2021-10-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43521/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/43521/cover_image/b3154372c3f57d6b6cf049705055dbba.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "ecchi",
+    "magic",
+    "shounen",
+    "space"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81261630"
+  ],
+  "relations": {
+    "kitsu": "43521",
+    "anilist/anime": "119683",
+    "myanimelist/anime": "42192"
+  }
+}

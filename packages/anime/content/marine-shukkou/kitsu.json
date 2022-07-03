@@ -1,0 +1,30 @@
+{
+  "slug": "marine-shukkou",
+  "synopsis": "Music video for the song \"Marine Set Sail !!\" by Houshou Marine.",
+  "title": {
+    "en": "Marine Set Sail!!",
+    "jp": "Marine Shukkou!!"
+  },
+  "releasedAt": "2022-04-27T00:00:00.000Z",
+  "finishedAt": "2022-04-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46082/poster_image/d61d974d30b245b3c62cc7551f1a0850.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "idol",
+    "music",
+    "pirate"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=u_hUpHUTJwQ"
+  ],
+  "relations": {
+    "kitsu": "46082",
+    "anilist/anime": "148104",
+    "myanimelist/anime": "51710"
+  }
+}

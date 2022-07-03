@@ -1,0 +1,30 @@
+{
+  "slug": "rockman-exe-beast",
+  "synopsis": "Trill, a mysterious navi said to have originated from the world of Beyondard, is discovered. And new beast-type enemies, the Zoanoroids, want him for his special power. Netto Hikari and Rockman must protect their new friend while they try to figure out what Trill is really and his connection to the two legendary cyber beasts, Grega and Faltzer. \n(Source: ANN)",
+  "title": {
+    "jp": "Rockman.EXE Beast"
+  },
+  "releasedAt": "2005-10-01T00:00:00.000Z",
+  "finishedAt": "2006-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1909/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1909",
+    "anidb": "3621",
+    "anilist/anime": "2110",
+    "aozora": "W19hvCTwhN",
+    "myanimelist/anime": "2110",
+    "thetvdb": "248903/1",
+    "thetvdb/series": "248903",
+    "trakt": "37684"
+  }
+}

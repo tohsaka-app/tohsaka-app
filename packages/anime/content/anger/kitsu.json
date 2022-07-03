@@ -1,0 +1,22 @@
+{
+  "slug": "anger",
+  "synopsis": "This is the first original VOCALOID song by Tripshots. The WIP version without PV was uploaded on December 12, 2007 on Nicovideo. The full version was released some five months later.\n\n(Source: Vocaloid Wiki)",
+  "title": {
+    "jp": "Anger"
+  },
+  "releasedAt": "2008-05-03T00:00:00.000Z",
+  "finishedAt": "2008-05-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42943/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42943",
+    "anilist/anime": "122532",
+    "myanimelist/anime": "39288"
+  }
+}

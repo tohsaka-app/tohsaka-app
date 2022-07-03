@@ -1,0 +1,24 @@
+{
+  "slug": "shoujo-conte-all-starlight",
+  "synopsis": "Chibi shorts based on Shoujo☆Kageki Revue Starlight.",
+  "title": {
+    "jp": "Shoujo☆Conte All Starlight"
+  },
+  "releasedAt": "2019-07-05T00:00:00.000Z",
+  "finishedAt": "2019-12-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42454/original.jpg",
+  "categories": [
+    "comedy",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42454",
+    "anidb": "14811",
+    "anilist/anime": "109153",
+    "myanimelist/anime": "39643"
+  }
+}

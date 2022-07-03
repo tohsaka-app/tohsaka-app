@@ -1,0 +1,21 @@
+{
+  "slug": "drifters-ova-kokuou-sama-goranshin",
+  "synopsis": "",
+  "title": {
+    "jp": "Drifters (OVA): Kokuou-sama Goranshin"
+  },
+  "releasedAt": "2017-12-23T00:00:00.000Z",
+  "finishedAt": "2017-12-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41716/original.jpg",
+  "categories": [
+    "isekai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41716",
+    "myanimelist/anime": "37046"
+  }
+}

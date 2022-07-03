@@ -1,0 +1,36 @@
+{
+  "slug": "mobile-suit-gundam-char-s-counterattack",
+  "synopsis": "U.C. 0093 - Char Aznable, the infamous \"Red Comet\" of the One Year War, has come out of hiding to lead the Neo-Zeon Army and wage war against the Earth Federation. Only his greatest rival, Gundam pilot Amuro Ray, can stop him from dropping the Axis asteroid on Earth and causing a major global catastrophe.\n(Source: ANN)",
+  "title": {
+    "en": "Mobile Suit Gundam: Char's Counterattack",
+    "jp": "Kidou Senshi Gundam: Gyakushuu no Char"
+  },
+  "releasedAt": "1988-03-12T00:00:00.000Z",
+  "finishedAt": "1988-03-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/66/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/66/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "space",
+    "space opera",
+    "violence"
+  ],
+  "externals": [
+    "https://www.netflix.com/watch/60024179"
+  ],
+  "relations": {
+    "kitsu": "66",
+    "anidb": "720",
+    "anilist/anime": "87",
+    "aozora": "t3fW0Uufsh",
+    "myanimelist/anime": "87"
+  }
+}

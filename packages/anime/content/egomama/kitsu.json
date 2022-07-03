@@ -1,0 +1,27 @@
+{
+  "slug": "egomama",
+  "synopsis": "The story is of a girl who is in a strange dimension, searching for the meaning of her love. This is portrayed with two girls (the two parts of her), one saying that love is something to take, while the other arguing that love is something to give. But instead of arguing with words, they are playing poker to see who the winner will become. ",
+  "title": {
+    "en": "Egomama",
+    "jp": "Egomama"
+  },
+  "releasedAt": "2011-12-07T00:00:00.000Z",
+  "finishedAt": "2011-12-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6776/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6776/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6776",
+    "anidb": "8983",
+    "anilist/anime": "12623",
+    "aozora": "O8wK6tdNqL",
+    "myanimelist/anime": "12623"
+  }
+}

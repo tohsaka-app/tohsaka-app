@@ -1,0 +1,27 @@
+{
+  "slug": "douse-nakunaru-dake",
+  "synopsis": "Music video directed and animated by Rabbit MACHINE for the song Douse Nakunaru dake by Takayan.",
+  "title": {
+    "en": "Just disappear",
+    "jp": "Douse Nakunaru dake"
+  },
+  "releasedAt": "2020-06-13T00:00:00.000Z",
+  "finishedAt": "2020-06-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45862/poster_image/910b223a44c3a659accaeade91526251.jpg",
+  "categories": [
+    "drama",
+    "music",
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/6tJ_vEqyXTQ"
+  ],
+  "relations": {
+    "kitsu": "45862",
+    "anilist/anime": "126665",
+    "myanimelist/anime": "50072"
+  }
+}

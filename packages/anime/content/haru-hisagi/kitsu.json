@@ -1,0 +1,23 @@
+{
+  "slug": "haru-hisagi",
+  "synopsis": "Music video directed and animated by Takuya Katsumi for the song Prostitution by Yorushika.",
+  "title": {
+    "en": "Prostitution",
+    "jp": "Haru Hisagi"
+  },
+  "releasedAt": "2020-06-03T00:00:00.000Z",
+  "finishedAt": "2020-06-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44463/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44463",
+    "anilist/anime": "120079",
+    "myanimelist/anime": "44224"
+  }
+}

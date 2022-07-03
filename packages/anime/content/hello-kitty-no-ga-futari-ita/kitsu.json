@@ -1,0 +1,24 @@
+{
+  "slug": "hello-kitty-no-ga-futari-ita",
+  "synopsis": "What if there were two Santas? When Santa-san doesn't receive a single Christmas letter he wonders if everyone forgot. But no, that's impossible! Someone else secretly took the letters and he's on the case to find the second Santa.",
+  "title": {
+    "jp": "Hello Kitty no Santa-san ga Futari Ita"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10265/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10265",
+    "aozora": "wxOoeIA9wP",
+    "myanimelist/anime": "29541"
+  }
+}

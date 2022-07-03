@@ -1,0 +1,27 @@
+{
+  "slug": "oreimo-2-specials",
+  "synopsis": "Episodes 14–16 of Oreimo 2 which finish adapting the Oreimo novels.",
+  "title": {
+    "en": "Oreimo 2 Specials",
+    "jp": "Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials"
+  },
+  "releasedAt": "2013-08-18T00:00:00.000Z",
+  "finishedAt": "2013-08-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7822/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7822/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7822",
+    "anilist/anime": "18857",
+    "aozora": "WAgTvJAi9f",
+    "myanimelist/anime": "18857"
+  }
+}

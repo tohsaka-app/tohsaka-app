@@ -1,0 +1,29 @@
+{
+  "slug": "keppeki-danshi-aoyama-kun",
+  "synopsis": "The handsome young soccer genius named Aoyama is a Japan representative. His play style is \"cleanliness.\" He doesn't tackle and doesn't head the ball. If he's doing a throw-in, he'll only do it if he's wearing gloves.\n\n(Source: ANN)",
+  "title": {
+    "en": "Clean Freak! Aoyama-kun",
+    "jp": "Keppeki Danshi! Aoyama-kun"
+  },
+  "releasedAt": "2017-07-03T00:00:00.000Z",
+  "finishedAt": "2017-09-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13280/original.jpg",
+  "categories": [
+    "comedy",
+    "soccer",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/clean-freak-aoyama-kun"
+  ],
+  "relations": {
+    "kitsu": "13280",
+    "anilist/anime": "98205",
+    "aozora": "HFAsc02d3t",
+    "myanimelist/anime": "34825",
+    "thetvdb": "328823/1"
+  }
+}

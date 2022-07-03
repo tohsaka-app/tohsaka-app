@@ -1,0 +1,26 @@
+{
+  "slug": "utsu-musume-sayuri",
+  "synopsis": "Sayuri is the daughter of a good family. On the day of her strike, they hold a ceremony to celebrate.\n(Source: spike.com)",
+  "title": {
+    "en": "Striking Daughter",
+    "jp": "Utsu Musume Sayuri"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6955/original.jpg",
+  "categories": [
+    "comedy",
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6955",
+    "anidb": "9488",
+    "anilist/anime": "13405",
+    "aozora": "snPwueInB3",
+    "myanimelist/anime": "13405"
+  }
+}

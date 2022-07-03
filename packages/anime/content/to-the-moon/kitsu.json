@@ -1,0 +1,25 @@
+{
+  "slug": "to-the-moon",
+  "synopsis": "To the Moon is based on an indie Adventure RPG about two doctors traversing through the memories of a dying man to fulfill his last wish.\n\n(Source: Freebird Games)",
+  "title": {
+    "jp": "To the Moon"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41323/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41323/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41323",
+    "anidb": "14090",
+    "anilist/anime": "102288",
+    "myanimelist/anime": "37905"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "juunenbun-no-watashi-e",
+  "synopsis": "Concept movie for All Nippon Esthetic Association (AEA).",
+  "title": {
+    "jp": "Juunenbun no Watashi e"
+  },
+  "releasedAt": "2020-10-25T00:00:00.000Z",
+  "finishedAt": "2020-10-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44449/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44449",
+    "anilist/anime": "127040",
+    "myanimelist/anime": "43711"
+  }
+}

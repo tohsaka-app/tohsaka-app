@@ -1,0 +1,24 @@
+{
+  "slug": "last-song",
+  "synopsis": "MV for the song LAST SONG by Fuwa Minato.",
+  "title": {
+    "en": "LAST SONG",
+    "jp": "LAST SONG"
+  },
+  "releasedAt": "2021-04-18T00:00:00.000Z",
+  "finishedAt": "2021-04-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44458/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=oODAA9azyl4"
+  ],
+  "relations": {
+    "kitsu": "44458"
+  }
+}

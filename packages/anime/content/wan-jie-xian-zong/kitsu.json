@@ -1,0 +1,28 @@
+{
+  "slug": "wan-jie-xian-zong",
+  "synopsis": "",
+  "title": {
+    "en": "The Wonderland of Ten Thousands"
+  },
+  "releasedAt": "2018-03-21T00:00:00.000Z",
+  "finishedAt": "2018-07-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41363/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41363",
+    "anilist/anime": "103922",
+    "myanimelist/anime": "37937"
+  }
+}

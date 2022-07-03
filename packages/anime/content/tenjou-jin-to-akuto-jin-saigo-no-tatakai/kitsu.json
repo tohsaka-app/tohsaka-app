@@ -1,0 +1,33 @@
+{
+  "slug": "tenjou-jin-to-akuto-jin-saigo-no-tatakai",
+  "synopsis": "A movie finale to Munto, a director's cut of the climactic scenes with new footage.",
+  "title": {
+    "jp": "Tenjoubito to Akutobito Saigo no Tatakai"
+  },
+  "releasedAt": "2009-04-18T00:00:00.000Z",
+  "finishedAt": "2009-04-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4457/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "angst",
+    "coming of age",
+    "elf",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "magic",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4457",
+    "anidb": "6427",
+    "anilist/anime": "6169",
+    "aozora": "NGBt2EJ4LQ",
+    "myanimelist/anime": "6169"
+  }
+}

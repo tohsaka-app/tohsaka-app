@@ -1,0 +1,24 @@
+{
+  "slug": "pichiko-dakyuubu-usa-hen",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Pichiko Dakyuubu USA-hen"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11925/original.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11925",
+    "aozora": "V69I5QQVRB",
+    "myanimelist/anime": "31465"
+  }
+}

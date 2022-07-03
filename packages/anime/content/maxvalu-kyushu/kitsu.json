@@ -1,0 +1,21 @@
+{
+  "slug": "maxvalu-kyushu",
+  "synopsis": "An animated commercial for the supermarket chain MaxValu Kyushu Co., Ltd., as indicated by the name, they are located in all of Kyushu except for Okinawa. This coincided with their reusable shopping bag campaign.",
+  "title": {
+    "jp": "MaxValu Kyushu"
+  },
+  "releasedAt": "2008-11-01T00:00:00.000Z",
+  "finishedAt": "2008-11-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41339/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41339",
+    "myanimelist/anime": "37421"
+  }
+}

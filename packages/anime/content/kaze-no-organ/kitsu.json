@@ -1,0 +1,23 @@
+{
+  "slug": "kaze-no-organ",
+  "synopsis": "Music video for the song Kaze no Organ by Junko Kudou that was featured on NHK's Minna no Uta program. The video was animated by Tsutomu Shibayama.",
+  "title": {
+    "en": "Wind Organ",
+    "jp": "Kaze no Organ"
+  },
+  "releasedAt": "1987-02-03T00:00:00.000Z",
+  "finishedAt": "1987-02-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43189/original.png",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43189",
+    "myanimelist/anime": "41685"
+  }
+}

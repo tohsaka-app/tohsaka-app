@@ -1,0 +1,26 @@
+{
+  "slug": "vampiyan-kids-pilot",
+  "synopsis": "A young boy ends up at a castle belonging to a vampire and his daughter.",
+  "title": {
+    "jp": "Vampiyan Kids: Pilot"
+  },
+  "releasedAt": "1999-01-01T00:00:00.000Z",
+  "finishedAt": "1999-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3604/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "kids",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3604",
+    "anilist/anime": "4420",
+    "aozora": "njLoTQIFAT",
+    "myanimelist/anime": "4420"
+  }
+}

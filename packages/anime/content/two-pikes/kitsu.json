@@ -1,0 +1,24 @@
+{
+  "slug": "two-pikes",
+  "synopsis": "Original monochrome version of a short experimental film by animation pioneer Yoji Kuri. ",
+  "title": {
+    "jp": "Ni-hiki no Sanma"
+  },
+  "releasedAt": "1961-01-01T00:00:00.000Z",
+  "finishedAt": "1961-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4835/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4835",
+    "anidb": "9008",
+    "anilist/anime": "7021",
+    "aozora": "Xnw0ifKc1m",
+    "myanimelist/anime": "7021"
+  }
+}

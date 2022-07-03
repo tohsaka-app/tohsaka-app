@@ -1,0 +1,24 @@
+{
+  "slug": "gra-p-rodeo",
+  "synopsis": "Rodeo is a normal high school boy who aims to be like GRANRODEO. Gra-P, a self-proclaimed music producer who comes from the future, tries to help him.",
+  "title": {
+    "jp": "Gra-P & Rodeo"
+  },
+  "releasedAt": "2014-10-19T00:00:00.000Z",
+  "finishedAt": "2015-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9838/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9838",
+    "anilist/anime": "21809",
+    "aozora": "rfgY0MUwR8",
+    "myanimelist/anime": "27521"
+  }
+}

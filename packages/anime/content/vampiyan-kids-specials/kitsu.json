@@ -1,0 +1,25 @@
+{
+  "slug": "vampiyan-kids-specials",
+  "synopsis": "DVD-only specials released on the 6th and 7th discs that are sometimes considered episode 24, 25, and 26 as a whole. And episode 22, 23, and 24 chronologically.",
+  "title": {
+    "en": "Vampiyan Kids",
+    "jp": "Vampiyan Kids Specials"
+  },
+  "releasedAt": "2002-10-25T00:00:00.000Z",
+  "finishedAt": "2002-11-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9688/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9688",
+    "aozora": "TEnkvbk8VD",
+    "myanimelist/anime": "25597"
+  }
+}

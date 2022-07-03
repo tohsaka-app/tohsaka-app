@@ -1,0 +1,23 @@
+{
+  "slug": "jitensha-hen",
+  "synopsis": "A music video for Hajime Nikiyoshi's song \"Jitensha-hen\".",
+  "title": {
+    "jp": "Jitensha-hen"
+  },
+  "releasedAt": "2009-09-15T00:00:00.000Z",
+  "finishedAt": "2009-09-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12191/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12191",
+    "anilist/anime": "104098",
+    "aozora": "5JmkvhiHB8",
+    "myanimelist/anime": "32777"
+  }
+}

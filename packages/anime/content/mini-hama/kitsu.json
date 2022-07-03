@@ -1,0 +1,27 @@
+{
+  "slug": "mini-hama",
+  "synopsis": "Super deformed Hamatora.",
+  "title": {
+    "jp": "Mini Hama: Minimum Hamatora"
+  },
+  "releasedAt": "2015-11-02T00:00:00.000Z",
+  "finishedAt": "2015-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10853/original.jpg",
+  "categories": [
+    "comedy",
+    "mystery",
+    "school life",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10853",
+    "anidb": "11728",
+    "anilist/anime": "21446",
+    "aozora": "8ETLwqLhG9",
+    "myanimelist/anime": "30291"
+  }
+}

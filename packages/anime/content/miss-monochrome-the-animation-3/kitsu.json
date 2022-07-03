@@ -1,0 +1,32 @@
+{
+  "slug": "miss-monochrome-the-animation-3",
+  "synopsis": "Third season of Miss Monochrome: The Animation.",
+  "title": {
+    "jp": "Miss Monochrome: The Animation 3"
+  },
+  "releasedAt": "2015-10-02T00:00:00.000Z",
+  "finishedAt": "2015-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11370/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11370/original.png",
+  "categories": [
+    "comedy",
+    "idol",
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/miss-monochrome-the-animation"
+  ],
+  "relations": {
+    "kitsu": "11370",
+    "anidb": "11553",
+    "anilist/anime": "21332",
+    "aozora": "IkwERCVCRP",
+    "myanimelist/anime": "31560",
+    "thetvdb": "272311/3",
+    "trakt": "72233"
+  }
+}

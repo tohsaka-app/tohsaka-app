@@ -1,0 +1,25 @@
+{
+  "slug": "ohi-sama-to-kaeru",
+  "synopsis": "A short film about frogs and a fish trying to eat them all.",
+  "title": {
+    "en": "The Sun and the Frogs",
+    "jp": "Ohi-sama to Kaeru"
+  },
+  "releasedAt": "1936-01-01T00:00:00.000Z",
+  "finishedAt": "1936-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4730/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4730",
+    "anidb": "6735",
+    "anilist/anime": "6828",
+    "aozora": "FCBsXF1Qmp",
+    "myanimelist/anime": "6828"
+  }
+}

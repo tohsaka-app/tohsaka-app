@@ -1,0 +1,23 @@
+{
+  "slug": "futari-wa-nakayoshi-goo-to-sue",
+  "synopsis": "An NHK toddler's anime following a brother and sister pair in their every day life (with some eps revolving around their baby brother).",
+  "title": {
+    "jp": "Futari wa Nakayoshi: Goo to Sue"
+  },
+  "releasedAt": "1991-04-01T00:00:00.000Z",
+  "finishedAt": "1994-02-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10658/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10658",
+    "aozora": "bWmfLFNQZu",
+    "myanimelist/anime": "30118"
+  }
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "title": {
+      "jp": "The Sunrise (Part I)"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/22551/original.jpg",
+    "releasedAt": "2004-03-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Sunrise (Part II)"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/22552/original.jpg",
+    "releasedAt": "2004-03-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Sunrise (Part III)"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2004-04-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Sunrise (Part IV)"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2004-04-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Resurrection (Part I)"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2004-04-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Resurrection (Part II)"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2004-04-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Strange Creatures"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2004-05-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Sun (Part I)"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2004-05-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Sun (Part II)"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2004-05-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Sun (Part III)"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2004-05-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Sun (Part IV)"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2004-05-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Future (Part I)"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2004-06-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Future (Part II)"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "2004-06-13T00:00:00.000Z",
+    "content": {}
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "slug": "ketsuekigata-kun-4",
+  "synopsis": "Fourth season of the Ketsuekigata-kun! series.",
+  "title": {
+    "jp": "Ketsuekigata-kun! 4"
+  },
+  "releasedAt": "2016-01-12T00:00:00.000Z",
+  "finishedAt": "2016-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11648/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11648",
+    "anidb": "11826",
+    "anilist/anime": "21528",
+    "aozora": "BTKxslbssq",
+    "myanimelist/anime": "32274",
+    "trakt": "70202"
+  }
+}

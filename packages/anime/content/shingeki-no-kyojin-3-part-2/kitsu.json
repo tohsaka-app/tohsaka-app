@@ -1,0 +1,37 @@
+{
+  "slug": "shingeki-no-kyojin-3-part-2",
+  "synopsis": "Hoping to retake Wall Maria and find the answers humanity seeks in Grisha's basement, Eren, Mikasa, Armin, and the rest of the Scout Regiment return to the town where everything began: Shiganshina.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Attack on Titan Season 3 Part 2",
+    "jp": "Shingeki no Kyojin Season 3 Part 2"
+  },
+  "releasedAt": "2019-04-29T00:00:00.000Z",
+  "finishedAt": "2019-07-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41982/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41982/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative past",
+    "angst",
+    "drama",
+    "fantasy",
+    "military",
+    "post apocalypse",
+    "shounen",
+    "violence"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/attack-on-titan",
+    "https://www.funimation.com/shows/attack-on-titan/"
+  ],
+  "relations": {
+    "kitsu": "41982",
+    "anidb": "14444",
+    "anilist/anime": "104578",
+    "myanimelist/anime": "38524"
+  }
+}

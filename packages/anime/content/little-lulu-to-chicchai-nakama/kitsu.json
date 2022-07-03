@@ -1,0 +1,27 @@
+{
+  "slug": "little-lulu-to-chicchai-nakama",
+  "synopsis": "The adventures of Little Lulu and her friends. The series is based on the famous character from comic strips and comic books.\n(Source: AniDB)",
+  "title": {
+    "en": "Little Lulu",
+    "jp": "Little Lulu to Chicchai Nakama"
+  },
+  "releasedAt": "1976-10-03T00:00:00.000Z",
+  "finishedAt": "1977-04-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3277/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3277",
+    "anidb": "5516",
+    "anilist/anime": "3823",
+    "aozora": "ykVDnafpCn",
+    "myanimelist/anime": "3823"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "koutetsujou-no-kabaneri-ran-hajimaru-michiato",
+  "synopsis": "The opening movie/promotional video to the Koutetsujou no Kabaneri: Ran - Hajimaru Michiato mobile game released in December, 2018.",
+  "title": {
+    "jp": "Koutetsujou no Kabaneri: Ran - Hajimaru Michiato"
+  },
+  "releasedAt": "2018-09-22T00:00:00.000Z",
+  "finishedAt": "2018-09-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42618/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42618/original.jpg",
+  "categories": [
+    "action",
+    "cyberpunk",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42618",
+    "myanimelist/anime": "38426"
+  }
+}

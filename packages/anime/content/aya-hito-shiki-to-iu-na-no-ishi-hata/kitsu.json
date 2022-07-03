@@ -1,0 +1,24 @@
+{
+  "slug": "aya-hito-shiki-to-iu-na-no-ishi-hata",
+  "synopsis": "Short animation by Taro Shinkai.",
+  "title": {
+    "jp": "Aya Hito Shiki to Iu na no Ishi Hata"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10573/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10573",
+    "anidb": "11505",
+    "anilist/anime": "103482",
+    "aozora": "c5I3xOK17X",
+    "myanimelist/anime": "29973"
+  }
+}

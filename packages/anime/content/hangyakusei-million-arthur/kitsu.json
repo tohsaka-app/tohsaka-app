@@ -1,0 +1,28 @@
+{
+  "slug": "hangyakusei-million-arthur",
+  "synopsis": "Based on Square Enix's massively multi-player online role-playing game.",
+  "title": {
+    "en": "Million Arthur",
+    "jp": "Hangyakusei Million Arthur"
+  },
+  "releasedAt": "2018-10-25T00:00:00.000Z",
+  "finishedAt": "2018-12-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41313/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/41313/cover_image/722279e78945e2c4d80dc4697659c42a.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41313",
+    "anidb": "13952",
+    "anilist/anime": "101359",
+    "myanimelist/anime": "37555"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "slide",
+  "synopsis": "Based on the figure skater Mao Asada. On July 10th, Tekken posted the full version of the video on his official YouTube channel. The story took 2,890 hand drawn sheets. Tekken originally made a short version back in 2015 but when Mao Asada announced her retirement on April 10, 2017--he decided to expand upon it by creating 5 minutes worth of additional content.\n",
+  "title": {
+    "en": "Slide",
+    "jp": "Slide"
+  },
+  "releasedAt": "2017-07-10T00:00:00.000Z",
+  "finishedAt": "2017-07-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41232/original.jpg",
+  "categories": [
+    "music",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41232",
+    "anilist/anime": "102454",
+    "myanimelist/anime": "37775"
+  }
+}

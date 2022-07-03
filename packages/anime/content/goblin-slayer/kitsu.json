@@ -1,0 +1,41 @@
+{
+  "slug": "goblin-slayer",
+  "synopsis": "\"I'm not saving the world. I just kill goblins.\" Rumor has it that, in a certain guild in the middle of nowhere, there is an extraordinary man who has climbed all the way to the Silver rank just by killing goblins. At the same guild, a priestess who's just become a new adventurer has formed her first party... and the man who ends up rescuing that party when they get into trouble is none other than the Goblin Slayer.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Goblin Slayer",
+    "jp": "Goblin Slayer"
+  },
+  "releasedAt": "2018-10-07T00:00:00.000Z",
+  "finishedAt": "2018-12-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40597/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/40597/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "countryside",
+    "dark fantasy",
+    "elf",
+    "fantasy",
+    "fantasy world",
+    "harem",
+    "magic",
+    "seinen",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [
+    "https://vrv.co/series/G6VDMN306/GOBLIN-SLAYER",
+    "https://www.crunchyroll.com/goblin-slayer/videos",
+    "https://www.funimation.com/shows/goblin-slayer/"
+  ],
+  "relations": {
+    "kitsu": "40597",
+    "anidb": "13831",
+    "anilist/anime": "101165",
+    "myanimelist/anime": "37349"
+  }
+}

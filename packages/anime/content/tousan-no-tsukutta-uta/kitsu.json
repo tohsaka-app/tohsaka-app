@@ -1,0 +1,25 @@
+{
+  "slug": "tousan-no-tsukutta-uta",
+  "synopsis": "A visual journey of a faceless boy in sombre clothes and a cat who leads him to strange places. Song by Shijo Mamoru with images by Ueno Noriko. ",
+  "title": {
+    "jp": "Tousan no Tsukutta Uta"
+  },
+  "releasedAt": "1982-12-01T00:00:00.000Z",
+  "finishedAt": "1982-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5468/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5468",
+    "anidb": "12632",
+    "anilist/anime": "8733",
+    "aozora": "oQCZUDVT3Q",
+    "myanimelist/anime": "8733"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "delete-dafdadfewafed",
+  "synopsis": "duplicate of https://kitsu.io/anime/wistful-record",
+  "title": {
+    "jp": "Deleted"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46132/poster_image/6615d4069d0230ff9a661e2e369feca5.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "46132"
+  }
+}

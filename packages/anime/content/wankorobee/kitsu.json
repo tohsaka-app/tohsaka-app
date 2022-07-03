@@ -1,0 +1,27 @@
+{
+  "slug": "wankorobee",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Wankorobee"
+  },
+  "releasedAt": "1996-10-06T00:00:00.000Z",
+  "finishedAt": "1997-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2470/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2470",
+    "anidb": "3543",
+    "anilist/anime": "2708",
+    "aozora": "lqxboeDBJR",
+    "myanimelist/anime": "2708"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "tsubuyaki-tai-specials",
+  "synopsis": "The 1st DVD release of Tsubuyaki-tai lists two \"adult\" specials.",
+  "title": {
+    "jp": "Tsubuyaki-tai Specials"
+  },
+  "releasedAt": "2011-03-25T00:00:00.000Z",
+  "finishedAt": "2011-03-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13195/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13195",
+    "anilist/anime": "111127",
+    "aozora": "JfWI2Doa38",
+    "myanimelist/anime": "34164"
+  }
+}

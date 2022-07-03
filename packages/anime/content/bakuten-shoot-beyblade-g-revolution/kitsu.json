@@ -1,0 +1,37 @@
+{
+  "slug": "bakuten-shoot-beyblade-g-revolution",
+  "synopsis": "After keeping their BitBeasts out of harm's way, a new world championship tournament is announced, but the defending champions can't all be on the same team. Their friendship will be tested and tried as each Bladebreaker goes on a quest to prove why they are the best Beyblader around. Tyson, Max, Ray, Kai, and newcomer Daichi, must keep up their winning ways...even if they must face each other. But, after the tournament is over, what awaits them is an old foe, Boris, taking over the BBA and transforming it into BEGA, the Beyblade Entertainment Global Association. To save Beybladers of the entire world from BEGA's corruption, the Bladebreakers must reunite once again...\n(Source: ANN)",
+  "title": {
+    "en": "Beyblade G Revolution",
+    "jp": "Bakuten Shoot Beyblade G Revolution"
+  },
+  "releasedAt": "2003-01-06T00:00:00.000Z",
+  "finishedAt": "2003-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1498/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "earth",
+    "friendship",
+    "proxy battles",
+    "science fiction",
+    "sports",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1498",
+    "anidb": "594",
+    "anilist/anime": "1668",
+    "aozora": "WDQuI19HPf",
+    "myanimelist/anime": "1668",
+    "thetvdb": "70799/3",
+    "thetvdb/season": "1081",
+    "thetvdb/series": "70799",
+    "trakt": "62163"
+  }
+}

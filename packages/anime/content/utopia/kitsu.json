@@ -1,0 +1,26 @@
+{
+  "slug": "utopia",
+  "synopsis": "Utopia is a song that was specially created for the True Tears x Hanasaku Iroha x Tari Tari Joint Festival Live featuring the seiyuu (voice actors) from the three series. P.A. Works produced a video of this song which is included in the the Blu-ray release of this event.",
+  "title": {
+    "jp": "Utopia"
+  },
+  "releasedAt": "2014-02-26T00:00:00.000Z",
+  "finishedAt": "2014-02-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8101/original.jpg",
+  "categories": [
+    "music",
+    "present",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8101",
+    "anidb": "10283",
+    "anilist/anime": "102605",
+    "aozora": "5Ae7jVP8nf",
+    "myanimelist/anime": "21103"
+  }
+}

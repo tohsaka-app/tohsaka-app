@@ -1,0 +1,22 @@
+{
+  "slug": "mao-zhi-ming-episode-5-5",
+  "synopsis": "A special episode listed as 5.5 on bilibili.",
+  "title": {
+    "en": "Cat's Tea Episode 5.5"
+  },
+  "releasedAt": "2021-11-22T00:00:00.000Z",
+  "finishedAt": "2021-11-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45954/poster_image/31e484a815cb236031857e6657343e81.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45954",
+    "myanimelist/anime": "50810"
+  }
+}

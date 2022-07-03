@@ -1,0 +1,31 @@
+{
+  "slug": "knights-and-magic",
+  "synopsis": "A genius programmer and hardcore robot otaku is reborn into a world of knights and magic, where huge robots called Silhouette Knights roar across the land! Now reborn as Ernesti Echevalier, he uses his vast knowledge of machines and programming talents to begin to make his ultimate robot. But his actions have unexpected results...?! The dreams of a robot otaku will change the world!\n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Knight's & Magic"
+  },
+  "releasedAt": "2017-07-02T00:00:00.000Z",
+  "finishedAt": "2017-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13274/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13274/original.jpe",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "school life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/knights-magic"
+  ],
+  "relations": {
+    "kitsu": "13274",
+    "anidb": "12425",
+    "anilist/anime": "97663",
+    "aozora": "f4SfdvmfFr",
+    "myanimelist/anime": "34104",
+    "thetvdb": "327507/1"
+  }
+}

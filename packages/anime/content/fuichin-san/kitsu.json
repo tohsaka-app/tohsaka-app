@@ -1,0 +1,26 @@
+{
+  "slug": "fuichin-san",
+  "synopsis": "Based on Ueda Toshiko's shoujo manga.",
+  "title": {
+    "jp": "Fuichin-san"
+  },
+  "releasedAt": "2004-03-20T00:00:00.000Z",
+  "finishedAt": "2004-03-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9263/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9263",
+    "anidb": "8682",
+    "anilist/anime": "107302",
+    "aozora": "mpTJM2U3OA",
+    "myanimelist/anime": "23983"
+  }
+}

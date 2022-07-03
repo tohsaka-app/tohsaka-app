@@ -1,0 +1,20 @@
+{
+  "slug": "zounds",
+  "synopsis": "In 2003, Hideaki Motoki began “ZOUNDS,” a project centering around the theme of an ecosystem of sounds. In it, musical organisms called ZOUNDS not only communicate through sound but also invent an abundant variety of sounds through interaction with the environment and each other, to grow and evolve.\n\n(Source: AniList)",
+  "title": {},
+  "releasedAt": "2003-07-09T00:00:00.000Z",
+  "finishedAt": "2003-07-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43383/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43383",
+    "anilist/anime": "114421",
+    "myanimelist/anime": "39331"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "shin-strange",
+  "synopsis": "Second season of Strange+.",
+  "title": {
+    "jp": "Shin Strange+"
+  },
+  "releasedAt": "2014-07-11T00:00:00.000Z",
+  "finishedAt": "2014-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8344/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8344/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/strange"
+  ],
+  "relations": {
+    "kitsu": "8344",
+    "anidb": "10610",
+    "anilist/anime": "20706",
+    "aozora": "8Qni8jdE6H",
+    "myanimelist/anime": "23433",
+    "thetvdb": "276345/2",
+    "thetvdb/season": "571728",
+    "thetvdb/series": "276345",
+    "trakt": "74646"
+  }
+}

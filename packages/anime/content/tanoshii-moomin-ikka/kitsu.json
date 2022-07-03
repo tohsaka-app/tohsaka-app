@@ -1,0 +1,34 @@
+{
+  "slug": "tanoshii-moomin-ikka",
+  "synopsis": "In the remote and mysterious Moomin Valley live the Moomin trolls, gentle and peaceful creatures. Young Moomin and his family experience many strange adventures, both magical and mundane. Based on the children's stories by Tove Jansson. \n(Source: ANN)",
+  "title": {
+    "jp": "Tanoshii Moomin Ikka"
+  },
+  "releasedAt": "1990-04-12T00:00:00.000Z",
+  "finishedAt": "1991-10-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1946/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1946/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1946",
+    "anidb": "1009",
+    "anilist/anime": "2150",
+    "aozora": "IPaU0XgfIn",
+    "myanimelist/anime": "2150",
+    "thetvdb": "85199/1",
+    "thetvdb/season": "41070",
+    "thetvdb/series": "85199",
+    "trakt": "62396"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "nandaka-velonica",
+  "synopsis": "The children's anime revolves around Velonica, a high-handed and ultra-selfish little alien girl on the Galaxy Network, who begins to cause havoc on Earth. After a \"fated encounter\" with an Earthling boy, Velonica wavers between a possible budding romance with the boy and her dedication to the arts.\n(Source: ANN)",
+  "title": {
+    "jp": "Nandaka Velonica"
+  },
+  "releasedAt": "2014-03-10T00:00:00.000Z",
+  "finishedAt": "2014-03-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8324/original.jpg",
+  "categories": [
+    "alien",
+    "asia",
+    "comedy",
+    "earth",
+    "fantasy",
+    "humanoid alien",
+    "japan",
+    "kids",
+    "mecha",
+    "present",
+    "robot helper",
+    "science fiction",
+    "stereotypes",
+    "tokyo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8324",
+    "anidb": "10423",
+    "anilist/anime": "20653",
+    "aozora": "RwURVUdQYH",
+    "myanimelist/anime": "22381",
+    "thetvdb": "279224/1",
+    "thetvdb/series": "279224",
+    "trakt": "76454"
+  }
+}

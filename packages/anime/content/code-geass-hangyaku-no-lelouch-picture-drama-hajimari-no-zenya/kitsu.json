@@ -1,0 +1,24 @@
+{
+  "slug": "code-geass-hangyaku-no-lelouch-picture-drama-hajimari-no-zenya",
+  "synopsis": "Story before receiving Geass. For sister Nunnally, planning of the Rebellion is quietly start moving...",
+  "title": {
+    "jp": "Code Geass: Hangyaku no Lelouch Picture Drama - Hajimari no Zenya"
+  },
+  "releasedAt": "2013-09-25T00:00:00.000Z",
+  "finishedAt": "2013-09-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12906/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12906",
+    "anilist/anime": "110253",
+    "myanimelist/anime": "33155"
+  }
+}

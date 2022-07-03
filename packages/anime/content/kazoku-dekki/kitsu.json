@@ -1,0 +1,24 @@
+{
+  "slug": "kazoku-dekki",
+  "synopsis": "A short movie about a life of certain family.",
+  "title": {
+    "en": "The Deck Family",
+    "jp": "Kazoku Dekki"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46112/poster_image/49d1eb3000d543156b9e51e12e9aa662.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46112",
+    "anilist/anime": "115275",
+    "myanimelist/anime": "38643"
+  }
+}

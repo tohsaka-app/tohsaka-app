@@ -1,0 +1,28 @@
+{
+  "slug": "lupin-the-third",
+  "synopsis": "A 3 minute-music video featuring the members of MONKEY MAJIK meeting the characters of Lupin III. ",
+  "title": {
+    "jp": "Lupin the Third x Monkey Majik"
+  },
+  "releasedAt": "2009-08-26T00:00:00.000Z",
+  "finishedAt": "2009-08-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5581/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5581/original.jpg",
+  "categories": [
+    "adventure",
+    "crime",
+    "music",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5581",
+    "anidb": "12084",
+    "anilist/anime": "9035",
+    "aozora": "3AgPMcNwHA",
+    "myanimelist/anime": "9035"
+  }
+}

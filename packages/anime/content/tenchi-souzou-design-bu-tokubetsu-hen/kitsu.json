@@ -1,0 +1,27 @@
+{
+  "slug": "tenchi-souzou-design-bu-tokubetsu-hen",
+  "synopsis": "13th episode that was streamed exclusively on Amazon Prime",
+  "title": {
+    "en": "Heaven's Design Team Special",
+    "jp": "Tenchi Souzou Design-bu: Tokubetsu-hen"
+  },
+  "releasedAt": "2021-04-01T00:00:00.000Z",
+  "finishedAt": "2021-04-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44276/original.jpg",
+  "categories": [
+    "comedy",
+    "deity",
+    "fantasy",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44276",
+    "anilist/anime": "131866",
+    "myanimelist/anime": "46587"
+  }
+}

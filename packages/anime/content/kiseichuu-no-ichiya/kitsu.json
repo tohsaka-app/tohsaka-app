@@ -1,0 +1,26 @@
+{
+  "slug": "kiseichuu-no-ichiya",
+  "synopsis": "Short experimental animation from 1972 by Yoji Kuri.",
+  "title": {
+    "jp": "Kiseichuu no Ichiya"
+  },
+  "releasedAt": "1972-01-01T00:00:00.000Z",
+  "finishedAt": "1972-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4838/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4838/original.jpg",
+  "categories": [
+    "dementia",
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4838",
+    "anidb": "8614",
+    "anilist/anime": "7025",
+    "aozora": "U7LxSZg83O",
+    "myanimelist/anime": "7025"
+  }
+}

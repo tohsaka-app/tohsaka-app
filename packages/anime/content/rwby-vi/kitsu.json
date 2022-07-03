@@ -1,0 +1,27 @@
+{
+  "slug": "rwby-vi",
+  "synopsis": "Season 6 of RWBY",
+  "title": {},
+  "releasedAt": "2018-10-27T00:00:00.000Z",
+  "finishedAt": "2019-01-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41937/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41937/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "fantasy",
+    "fantasy world",
+    "friendship"
+  ],
+  "externals": [
+    "https://vrv.co/series/G609MWD26/RWBY",
+    "https://www.crunchyroll.com/rwby"
+  ],
+  "relations": {
+    "kitsu": "41937"
+  }
+}

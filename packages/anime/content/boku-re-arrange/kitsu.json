@@ -1,0 +1,24 @@
+{
+  "slug": "boku-re-arrange",
+  "synopsis": "Music video directed by Takashi Oohashi for the song Boku (Re-Arrange) by DAOKO.",
+  "title": {
+    "jp": "Boku (Re-Arrange)"
+  },
+  "releasedAt": "2017-12-20T00:00:00.000Z",
+  "finishedAt": "2017-12-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44040/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44040/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=4PN-8RQMgD8"
+  ],
+  "relations": {
+    "kitsu": "44040",
+    "anilist/anime": "127971"
+  }
+}

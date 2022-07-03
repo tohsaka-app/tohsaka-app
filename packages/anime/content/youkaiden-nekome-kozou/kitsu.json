@@ -1,0 +1,28 @@
+{
+  "slug": "youkaiden-nekome-kozou",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Youkaiden Nekome Kozou"
+  },
+  "releasedAt": "1976-04-01T00:00:00.000Z",
+  "finishedAt": "1976-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9706/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "horror",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9706",
+    "anidb": "4710",
+    "anilist/anime": "104327",
+    "aozora": "9g4y9YHpuo",
+    "myanimelist/anime": "23351"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "simoun",
+  "synopsis": "In the peaceful theocracy of Simulicram, everyone is born female. At age 17, each maiden undergoes a special ceremony where she chooses her sex. However, only Pairs of maiden priestesses can synchronize with the ancient flying ships known as Simoun needed to defend Simulicram. These Pairs refrain from undergoing the ceremony as long as they wish to keep piloting their Simoun.\nAer is recruited to be a Simoun pilot after a terrifying attack by an enemy nation decimates the squadron known as Chor Tempest. To earn her wings she needs to find her way into the heart of Neviril, Regina of Chor Tempest. But Neviril's heart still belongs to her previous Pair, lost in the battle when she attempted a forbidden Simoun maneuver.\n(Source: Media Blasters) ",
+  "title": {
+    "jp": "Simoun"
+  },
+  "releasedAt": "2006-04-03T00:00:00.000Z",
+  "finishedAt": "2006-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/779/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/779/original.jpg",
+  "categories": [
+    "air force",
+    "coming of age",
+    "fantasy world",
+    "love polygon",
+    "magic",
+    "military",
+    "plot continuity",
+    "romance",
+    "science fiction",
+    "shoujo ai",
+    "steampunk"
+  ],
+  "externals": [
+    "http://www.hulu.com/simoun"
+  ],
+  "relations": {
+    "kitsu": "779",
+    "anidb": "4239",
+    "anilist/anime": "879",
+    "aozora": "tpX5PmDc1E",
+    "hulu": "50016294",
+    "myanimelist/anime": "879",
+    "thetvdb": "79754/1",
+    "thetvdb/series": "79754",
+    "trakt": "1097"
+  }
+}

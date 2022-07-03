@@ -1,0 +1,23 @@
+{
+  "slug": "yumemi-douji",
+  "synopsis": "An early Toei film directed by Fukiya Kouji.",
+  "title": {
+    "jp": "Yumemi Douji"
+  },
+  "releasedAt": "1954-01-01T00:00:00.000Z",
+  "finishedAt": "1954-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10452/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10452",
+    "anilist/anime": "104419",
+    "aozora": "IxXvcd9IWA",
+    "myanimelist/anime": "29812"
+  }
+}

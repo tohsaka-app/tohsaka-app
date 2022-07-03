@@ -1,0 +1,24 @@
+{
+  "slug": "return-to-dust",
+  "synopsis": "A skeleton is tied with red threads and stuck by clay. How much control do we have in our own actions? And what does hinder these actions?\n\n1st year work 2014 by Ataru Sakagami, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Return to Dust",
+    "jp": "Return to Dust"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45796/poster_image/9923caf1ffcbd3fb19740ff8eb18132d.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [
+    "https://youtu.be/gBzjrqW59IE"
+  ],
+  "relations": {
+    "kitsu": "45796",
+    "anilist/anime": "106564"
+  }
+}

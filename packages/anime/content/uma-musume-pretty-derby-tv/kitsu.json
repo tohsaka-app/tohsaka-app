@@ -1,0 +1,31 @@
+{
+  "slug": "uma-musume-pretty-derby-tv",
+  "synopsis": "This is a tale of a world where \"horse girls\" with glorious names and incredible running abilities live alongside humanity.Horse girl Special Week has moved from the country to the city to attend Tracen Academy. There, she and her classmates compete to win the Twinkle Series and earn the title of \"The County's #1 Horse Girl.\"(Source: Crunchyroll)",
+  "title": {
+    "en": "Umamusume: Pretty Derby",
+    "jp": "Uma Musume: Pretty Derby"
+  },
+  "releasedAt": "2018-04-02T00:00:00.000Z",
+  "finishedAt": "2018-06-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13485/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13485/original.jpg",
+  "categories": [
+    "comedy",
+    "juujin",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/umamusume-pretty-derby"
+  ],
+  "relations": {
+    "kitsu": "13485",
+    "anilist/anime": "98514",
+    "aozora": "aqfCYkCEyg",
+    "myanimelist/anime": "35249",
+    "thetvdb": "344220/1"
+  }
+}

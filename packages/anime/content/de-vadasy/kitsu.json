@@ -1,0 +1,31 @@
+{
+  "slug": "de-vadasy",
+  "synopsis": "For young men like Kei, life is still plagued by nothing but homework and girl trouble. When an unknown force besieges Earth with robotic war machines, however, it is Kei who is chosen to defend the human race.",
+  "title": {
+    "en": "Devadasy",
+    "jp": "De:vadasy"
+  },
+  "releasedAt": "2000-11-25T00:00:00.000Z",
+  "finishedAt": "2001-01-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1371/original.jpg",
+  "categories": [
+    "action",
+    "ecchi",
+    "japan",
+    "mecha",
+    "piloted robot",
+    "psychological",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1371",
+    "anidb": "1531",
+    "anilist/anime": "1529",
+    "aozora": "cjDuFQ7txl",
+    "myanimelist/anime": "1529"
+  }
+}

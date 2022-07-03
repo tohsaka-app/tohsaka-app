@@ -1,0 +1,30 @@
+{
+  "slug": "mobile-suit-gundam-narrative",
+  "synopsis": "U.C. 0097. The year the Laplace’s Box was opened. Despite the revelation of the original charter for the Universal Century, which acknowledges the existence of Newtypes and their rights, the world remains largely unchanged.\n\nAfter the destruction of the Neo Zeon remnant force known as the Sleeves, the event that has come to be known as the “Laplace Incident” seems to have drawn to a close. In the final battle, two Full Psycho Frame mobile suits displayed power beyond human imagination. The menace of the White Unicorn and the Black Lion were sealed away from public consciousness, and were consigned to be forgotten by history.\n\nBut now sightings of the RX-0 Unicorn 03, long thought lost two years ago, are being reported. Its name is Phenex, an immortal golden bird.\n\nSource - AnimeNewsNetwork",
+  "title": {
+    "en": "Mobile Suit Gundam Narrative",
+    "jp": "Kidou Senshi Gundam Narrative"
+  },
+  "releasedAt": "2018-11-30T00:00:00.000Z",
+  "finishedAt": "2018-11-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41223/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41223/original.png",
+  "categories": [
+    "action",
+    "mecha",
+    "piloted robot",
+    "space",
+    "space battles"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/mobile-suit-gundam-narrative/"
+  ],
+  "relations": {
+    "kitsu": "41223",
+    "anilist/anime": "101554",
+    "myanimelist/anime": "37764"
+  }
+}

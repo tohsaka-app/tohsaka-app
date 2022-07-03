@@ -1,0 +1,28 @@
+{
+  "slug": "voltron-legendary-defender-season-7",
+  "synopsis": "Season 7 of Voltron: Legendary Defender.",
+  "title": {},
+  "releasedAt": "2018-08-10T00:00:00.000Z",
+  "finishedAt": "2018-08-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41491/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41491/original.png",
+  "categories": [
+    "adventure",
+    "alien",
+    "anime influenced",
+    "humanoid alien",
+    "mecha",
+    "piloted robot",
+    "space",
+    "space battles",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41491",
+    "thetvdb": "307899/7"
+  }
+}

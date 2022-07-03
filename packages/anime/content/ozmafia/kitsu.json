@@ -1,0 +1,31 @@
+{
+  "slug": "ozmafia",
+  "synopsis": "The anime will feature an original story from the game on which it is based. ",
+  "title": {
+    "jp": "Ozmafia!!"
+  },
+  "releasedAt": "2016-07-07T00:00:00.000Z",
+  "finishedAt": "2016-09-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11829/original.jpg",
+  "categories": [
+    "fantasy",
+    "harem",
+    "historical",
+    "romance"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/ozmafia"
+  ],
+  "relations": {
+    "kitsu": "11829",
+    "anidb": "11925",
+    "anilist/anime": "21641",
+    "aozora": "ZIqznXjBkp",
+    "myanimelist/anime": "32697",
+    "thetvdb": "313675",
+    "trakt": "106167"
+  }
+}

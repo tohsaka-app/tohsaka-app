@@ -1,0 +1,26 @@
+{
+  "slug": "oldman-youngman",
+  "synopsis": "Graduation work of Ryoya Kaga at Tama Art University.",
+  "title": {
+    "en": "oldman youngman",
+    "jp": "oldman youngman"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45561/poster_image/424e6228cc272bf47668af89f36967dc.png",
+  "categories": [
+    "drama",
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/WMMV0QnUgdU"
+  ],
+  "relations": {
+    "kitsu": "45561",
+    "anilist/anime": "140724"
+  }
+}

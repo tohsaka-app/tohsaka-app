@@ -1,0 +1,29 @@
+{
+  "slug": "sabikui-bisco",
+  "synopsis": "Japan’s post-apocalyptic wasteland replete with dust can only be saved by one thing—fungus. Bisco Akaboshi, a wanted criminal and skilled archer, searches for a legendary mushroom, known as Sabikui, said to devour any and all rust. Joining him on this epic saga to save the country is a giant crab and a young doctor. Can this unlikely trio find the fabled fungi and save the land?\n\n(Source: Funimation)",
+  "title": {
+    "jp": "Sabikui Bisco"
+  },
+  "releasedAt": "2022-01-10T00:00:00.000Z",
+  "finishedAt": "2022-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44189/poster_image/15ee40812399a51cc63851488409232d.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44189/cover_image/ca0d73c9046766f2e8344fa9ad995822.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/sabikui-bisco",
+    "https://www.funimation.com/shows/sabikui-bisco/"
+  ],
+  "relations": {
+    "kitsu": "44189",
+    "anidb": "16103",
+    "anilist/anime": "130591",
+    "myanimelist/anime": "48414"
+  }
+}

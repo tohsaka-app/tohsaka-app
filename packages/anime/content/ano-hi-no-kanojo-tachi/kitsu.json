@@ -1,0 +1,26 @@
+{
+  "slug": "ano-hi-no-kanojo-tachi",
+  "synopsis": "Web shorts focusing on each of the 22/7 idols in normal everyday life.",
+  "title": {
+    "jp": "Ano Hi no Kanojo-tachi"
+  },
+  "releasedAt": "2018-03-23T00:00:00.000Z",
+  "finishedAt": "2018-11-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41485/original.jpg",
+  "categories": [
+    "idol",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtube.com/playlist?list=PLV2TGHsmriLFseRTm9Iyy3Dc4c88ovuh2"
+  ],
+  "relations": {
+    "kitsu": "41485",
+    "anilist/anime": "101775",
+    "myanimelist/anime": "37589"
+  }
+}

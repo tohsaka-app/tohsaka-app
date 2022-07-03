@@ -1,0 +1,21 @@
+{
+  "slug": "ufoholic",
+  "synopsis": "An animated music video for Denki Groove's song \"UFOholic\".",
+  "title": {
+    "jp": "UFOholic"
+  },
+  "releasedAt": "2017-08-08T00:00:00.000Z",
+  "finishedAt": "2017-08-08T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45089/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45089"
+  }
+}

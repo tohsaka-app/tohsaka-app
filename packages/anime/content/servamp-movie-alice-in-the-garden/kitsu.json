@@ -1,0 +1,26 @@
+{
+  "slug": "servamp-movie-alice-in-the-garden",
+  "synopsis": "The film's story will deal with Misono Alicein's past.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Servamp Movie: Alice in the Garden"
+  },
+  "releasedAt": "2018-04-07T00:00:00.000Z",
+  "finishedAt": "2018-04-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41244/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "josei",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41244",
+    "anidb": "12797",
+    "anilist/anime": "100537",
+    "myanimelist/anime": "36803"
+  }
+}

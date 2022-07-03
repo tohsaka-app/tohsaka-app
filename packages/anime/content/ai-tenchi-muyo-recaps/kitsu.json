@@ -1,0 +1,24 @@
+{
+  "slug": "ai-tenchi-muyo-recaps",
+  "synopsis": "Recap episodes of Ai Tenchi Muyou!",
+  "title": {
+    "jp": "Ai Tenchi Muyou! Recaps"
+  },
+  "releasedAt": "2014-10-10T00:00:00.000Z",
+  "finishedAt": "2014-12-12T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10064/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10064/original.png",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10064",
+    "aozora": "ySbGpREWxB",
+    "myanimelist/anime": "28531"
+  }
+}

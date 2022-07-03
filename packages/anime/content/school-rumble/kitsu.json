@@ -1,0 +1,45 @@
+{
+  "slug": "school-rumble",
+  "synopsis": "Just the words \"I love you,\" and everything changes—such is the nature of the bittersweet trials of high school romance. Tenma Tsukamoto, a second year, is on a quest to confess her feelings to the boy she likes. Kenji Harima, a delinquent with a sizable reputation, is in a similar situation, as he cannot properly convey his feelings to the one he loves. Between school, friends, rivalries, and hobbies, these two will find that high school romance is no walk in the park, especially as misunderstandings further complicate their plight.School Rumble is a high-octane romantic comedy full of relatable situations, as Tenma and Kenji both try to win the hearts of those they desire.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "School Rumble",
+    "jp": "School Rumble"
+  },
+  "releasedAt": "2004-10-05T00:00:00.000Z",
+  "finishedAt": "2005-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/15/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/15/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "love polygon",
+    "parody",
+    "present",
+    "romance",
+    "school life",
+    "slapstick",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/school-rumble/videos/episodes",
+    "http://www.hulu.com/school-rumble"
+  ],
+  "relations": {
+    "kitsu": "15",
+    "anidb": "2165",
+    "anilist/anime": "24",
+    "aozora": "IujcxWpEax",
+    "hulu": "10814",
+    "myanimelist/anime": "24",
+    "thetvdb": "79194/1",
+    "thetvdb/season": "16184",
+    "thetvdb/series": "79194",
+    "trakt": "31528"
+  }
+}

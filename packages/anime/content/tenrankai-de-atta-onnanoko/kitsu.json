@@ -1,0 +1,25 @@
+{
+  "slug": "tenrankai-de-atta-onnanoko",
+  "synopsis": "Music video for the song \"Tenrankai de Atta Onnanoko\" by Arai Man. Aired as part of NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Tenrankai de Atta Onnanoko"
+  },
+  "releasedAt": "1990-06-03T00:00:00.000Z",
+  "finishedAt": "1990-06-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10322/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10322",
+    "anidb": "12613",
+    "anilist/anime": "103977",
+    "aozora": "llmnmyGavB",
+    "myanimelist/anime": "29457"
+  }
+}

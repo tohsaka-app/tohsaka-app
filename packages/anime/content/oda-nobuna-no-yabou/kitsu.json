@@ -1,0 +1,44 @@
+{
+  "slug": "oda-nobuna-no-yabou",
+  "synopsis": "The historical romantic comedy follows 17-year-old high schooler Sagara Yoshiharu who one day time-travels to the Sengoku period, where all the major Samurai lords are cute girls. Yoshiharu meets Oda Nobuna, the female counterpart of Oda Nobunaga, and begins to serve her as a substitute of Kinoshita Tokichiro, who was killed. ",
+  "title": {
+    "en": "The Ambition of Oda Nobuna",
+    "jp": "Oda Nobuna no Yabou"
+  },
+  "releasedAt": "2012-07-09T00:00:00.000Z",
+  "finishedAt": "2012-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7657/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7657/original.jpg",
+  "categories": [
+    "action",
+    "alternative past",
+    "comedy",
+    "harem",
+    "historical",
+    "japan",
+    "past",
+    "romance",
+    "sengoku period",
+    "swordplay",
+    "war"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-ambition-of-oda-nobuna",
+    "http://www.hulu.com/the-ambition-of-oda-nobuna",
+    "https://www.hidive.com/tv/the-ambition-of-oda-nobuna/"
+  ],
+  "relations": {
+    "kitsu": "7657",
+    "anidb": "8869",
+    "anilist/anime": "11933",
+    "aozora": "zfx1Z9zVbc",
+    "hulu": "50018873",
+    "myanimelist/anime": "11933",
+    "thetvdb": "259643/1",
+    "thetvdb/series": "259643",
+    "trakt": "67008"
+  }
+}

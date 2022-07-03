@@ -1,0 +1,25 @@
+{
+  "slug": "ufo-princess-valkyrie-recap",
+  "synopsis": "A 45-minute recap episode of the first season, narrated by Sanada-san.",
+  "title": {
+    "jp": "UFO Princess Valkyrie: Recap"
+  },
+  "releasedAt": "2003-08-23T00:00:00.000Z",
+  "finishedAt": "2003-08-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6510/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6510",
+    "anilist/anime": "11445",
+    "aozora": "QPo2SooETv",
+    "myanimelist/anime": "11445"
+  }
+}

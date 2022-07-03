@@ -1,0 +1,36 @@
+{
+  "slug": "ryuusei-no-rockman",
+  "synopsis": "In the year 220X, the world has advanced toward radio-wave technology, and the world is connected through the Wave Road. Meet Subaru Hoshikawa, a fifth-grade student who lost his father in a space accident. Subaru meets an extraterrestrial radio-wave being named War-Rock, descending from a distant FM planet. War-Rock claims to know about Subaru's father, but many alien beings are after War-Rock. The two work together and merge into Rockman, a radio-wave human capable of traversing the Wave Road and battling the radio-wave viruses and FMs that threaten the Earth.\n(Source: ANN)",
+  "title": {
+    "en": "Megaman Star Force",
+    "jp": "Ryuusei no Rockman"
+  },
+  "releasedAt": "2006-10-07T00:00:00.000Z",
+  "finishedAt": "2007-10-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1652/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1652/original.jpg",
+  "categories": [
+    "action",
+    "earth",
+    "future",
+    "japan",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.hulu.com/mega-man-star-force"
+  ],
+  "relations": {
+    "kitsu": "1652",
+    "anidb": "4791",
+    "anilist/anime": "1835",
+    "aozora": "fRCuyrRmKx",
+    "myanimelist/anime": "1835",
+    "thetvdb": "181701/1",
+    "thetvdb/series": "181701",
+    "trakt": "64275"
+  }
+}

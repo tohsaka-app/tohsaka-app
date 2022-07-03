@@ -1,0 +1,23 @@
+{
+  "slug": "wozuwarudo",
+  "synopsis": "The official music video for the Vocaloid song WOZWALD, by the producer Niru Kajitsu.",
+  "title": {
+    "en": "Wozwald",
+    "jp": "Wozuwarudo"
+  },
+  "releasedAt": "2019-02-10T00:00:00.000Z",
+  "finishedAt": "2019-02-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46080/poster_image/193300fcb3540b4634424486b2ceb10e.jpeg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=mVjyVppveGY"
+  ],
+  "relations": {
+    "kitsu": "46080"
+  }
+}

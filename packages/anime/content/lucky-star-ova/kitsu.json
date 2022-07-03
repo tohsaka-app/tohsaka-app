@@ -1,0 +1,32 @@
+{
+  "slug": "lucky-star-ova",
+  "synopsis": "The OVA features six separate stories revolving around the cast, some of which border on the bizarre; one of which is an MMORPG environment being played by Konata, Kagami, Tsukasa, and Nanako Kuroi, and another in which Kagami has a \"suggestive\" dream about Konata.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Lucky☆Star: Original na Visual to Animation"
+  },
+  "releasedAt": "2008-09-26T00:00:00.000Z",
+  "finishedAt": "2008-09-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3628/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3628/original.png",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "parody",
+    "present",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3628",
+    "anidb": "5932",
+    "anilist/anime": "4472",
+    "aozora": "gzNxw6LiQ8",
+    "myanimelist/anime": "4472"
+  }
+}

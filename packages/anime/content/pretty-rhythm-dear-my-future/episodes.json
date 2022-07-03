@@ -1,0 +1,461 @@
+[
+  {
+    "title": {
+      "jp": "Hello My Future"
+    },
+    "season": 2,
+    "number": 1,
+    "releasedAt": "2013-04-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Anata ni Kirameku Crown wo"
+    },
+    "season": 2,
+    "number": 2,
+    "releasedAt": "2012-04-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Get! My Fan Call"
+    },
+    "season": 2,
+    "number": 3,
+    "releasedAt": "2012-04-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Heart no Kakumei Prism Act!"
+    },
+    "season": 2,
+    "number": 4,
+    "releasedAt": "2012-04-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hatsukoi!?☆My Prince"
+    },
+    "season": 2,
+    "number": 5,
+    "releasedAt": "2012-05-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Memo Memo Kinshi wa Komaru no desu!"
+    },
+    "season": 2,
+    "number": 6,
+    "releasedAt": "2012-05-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Leader Soudatsu! Prizmmy☆Sou Senkyo"
+    },
+    "season": 2,
+    "number": 7,
+    "releasedAt": "2012-05-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Last Member wa Muda ga Okirai!"
+    },
+    "season": 2,
+    "number": 8,
+    "releasedAt": "2012-05-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yureru Heart! Ikemen Designer Taiketsu"
+    },
+    "season": 2,
+    "number": 9,
+    "releasedAt": "2012-06-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mia Dattai!? Aira to Gachi Battle"
+    },
+    "season": 2,
+    "number": 10,
+    "releasedAt": "2012-06-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "MARs to DokiDoki♥Onsen Gasshuku"
+    },
+    "season": 2,
+    "number": 11,
+    "releasedAt": "2012-06-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Stand Up! My Girls Soul!"
+    },
+    "season": 2,
+    "number": 12,
+    "releasedAt": "2012-06-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Perfume Matou Unmei no Hi!"
+    },
+    "season": 2,
+    "number": 13,
+    "releasedAt": "2012-06-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Puretty: Haran no P-nation"
+    },
+    "season": 2,
+    "number": 14,
+    "releasedAt": "2012-07-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Bara no Tokimeki♥Himitsu no Ouji-sama"
+    },
+    "season": 2,
+    "number": 15,
+    "releasedAt": "2012-07-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Magical Mion de Jiyuu Kenkyuu!"
+    },
+    "season": 2,
+    "number": 16,
+    "releasedAt": "2012-07-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Doubutsuen no Ouja, Shi Yoon"
+    },
+    "season": 2,
+    "number": 17,
+    "releasedAt": "2012-07-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Summer Vacances! Natsu-iro Mermaid"
+    },
+    "season": 2,
+    "number": 18,
+    "releasedAt": "2012-08-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Summer Fes Kaimaku! Puretty Go! Go! Go!"
+    },
+    "season": 2,
+    "number": 19,
+    "releasedAt": "2012-08-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Last Note wa Jounetsu no Kaori"
+    },
+    "season": 2,
+    "number": 20,
+    "releasedAt": "2012-08-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Habataki no Kokoro Symphonia no Mezame"
+    },
+    "season": 2,
+    "number": 21,
+    "releasedAt": "2012-08-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Big Love de Heart wo Shuffle"
+    },
+    "season": 2,
+    "number": 22,
+    "releasedAt": "2012-09-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ginmaku Celebrity Story"
+    },
+    "season": 2,
+    "number": 23,
+    "releasedAt": "2012-09-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Otakara Get Da! Charm no Daibouken!"
+    },
+    "season": 2,
+    "number": 24,
+    "releasedAt": "2012-09-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Genki ga Ichiban! Prism Cooking"
+    },
+    "season": 2,
+    "number": 25,
+    "releasedAt": "2012-09-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shiro to Kuro no Wedding"
+    },
+    "season": 2,
+    "number": 26,
+    "releasedAt": "2012-09-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shin Team de Shall We Dance?"
+    },
+    "season": 2,
+    "number": 27,
+    "releasedAt": "2012-10-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rizumu no Kokuhaku, Ai no Kotoba wa..."
+    },
+    "season": 2,
+    "number": 28,
+    "releasedAt": "2012-10-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Muse ni Sasagu I Love You"
+    },
+    "season": 2,
+    "number": 29,
+    "releasedAt": "2012-10-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Halloween Coord wa Love Mix Concerto"
+    },
+    "season": 2,
+    "number": 30,
+    "releasedAt": "2012-10-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cheer! Yeah! x 2: Yume wo Sakasechae!"
+    },
+    "season": 2,
+    "number": 31,
+    "releasedAt": "2012-11-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kaze yo Fuke! Prism no Heart ni"
+    },
+    "season": 2,
+    "number": 32,
+    "releasedAt": "2012-11-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Koi no Paku Paku Restaurant"
+    },
+    "season": 2,
+    "number": 33,
+    "releasedAt": "2012-11-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Odore Dance Teacher"
+    },
+    "season": 2,
+    "number": 34,
+    "releasedAt": "2012-11-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Somin no Tokimeki Heartbreak"
+    },
+    "season": 2,
+    "number": 35,
+    "releasedAt": "2012-12-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Otome no Kyouen Road to Symphonia"
+    },
+    "season": 2,
+    "number": 36,
+    "releasedAt": "2012-12-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Aira no Ketsudan"
+    },
+    "season": 2,
+    "number": 37,
+    "releasedAt": "2012-12-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yume to Shinpi no Metamorphosis"
+    },
+    "season": 2,
+    "number": 38,
+    "releasedAt": "2012-12-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chinmoku no Princess"
+    },
+    "season": 2,
+    "number": 39,
+    "releasedAt": "2013-01-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Symphonia Tanjou no Himitsu"
+    },
+    "season": 2,
+    "number": 40,
+    "releasedAt": "2013-01-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yuujou no Pretty Remake"
+    },
+    "season": 2,
+    "number": 41,
+    "releasedAt": "2013-01-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Uchuu no Hate e Go! Sky High"
+    },
+    "season": 2,
+    "number": 42,
+    "releasedAt": "2013-01-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tachiagaru Star!"
+    },
+    "season": 2,
+    "number": 43,
+    "releasedAt": "2013-02-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Jounetsu Revolution"
+    },
+    "season": 2,
+    "number": 44,
+    "releasedAt": "2013-02-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hoshizora no Prelude"
+    },
+    "season": 2,
+    "number": 45,
+    "releasedAt": "2013-02-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Center Soudatsu! Rival wa Tomodachi?"
+    },
+    "season": 2,
+    "number": 46,
+    "releasedAt": "2013-02-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Wagamama Mia Zendaimimon no Dotakyan Soudou"
+    },
+    "season": 2,
+    "number": 47,
+    "releasedAt": "2013-03-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kaien! Grateful Symphonia"
+    },
+    "season": 2,
+    "number": 48,
+    "releasedAt": "2013-03-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ushinawareru Ashita"
+    },
+    "season": 2,
+    "number": 49,
+    "releasedAt": "2013-03-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mirai no Watashi ga Ichiban!"
+    },
+    "season": 2,
+    "number": 50,
+    "releasedAt": "2013-03-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dear My Future"
+    },
+    "season": 2,
+    "number": 51,
+    "releasedAt": "2013-03-30T00:00:00.000Z",
+    "content": {}
+  }
+]

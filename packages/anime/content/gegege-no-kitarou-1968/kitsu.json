@@ -1,0 +1,32 @@
+{
+  "slug": "gegege-no-kitarou-1968",
+  "synopsis": "Kitarou, a ghost, spends his afterlife helping humans in need of his skills. He thwarts the plans of evil spirits who live to torment humanity.",
+  "title": {
+    "jp": "Gegege no Kitarou (1968)"
+  },
+  "releasedAt": "1968-01-03T00:00:00.000Z",
+  "finishedAt": "1969-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4246/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "horror",
+    "japan",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4246",
+    "anidb": "1451",
+    "anilist/anime": "5688",
+    "aozora": "ON8RqR8rSb",
+    "myanimelist/anime": "5688",
+    "thetvdb": "265216",
+    "trakt": "36987"
+  }
+}

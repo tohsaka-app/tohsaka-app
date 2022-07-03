@@ -1,0 +1,27 @@
+{
+  "slug": "pokemon-xy-fuupa-no-odemashi-daisakusen",
+  "synopsis": "A short series featuring the mythical Pokemon Hoopa.",
+  "title": {
+    "jp": "Pokemon XY: Hoopa no Odemashi Daisakusen!!"
+  },
+  "releasedAt": "2015-04-23T00:00:00.000Z",
+  "finishedAt": "2015-05-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10915/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10915",
+    "anidb": "11275",
+    "anilist/anime": "105616",
+    "aozora": "r1cu62Z0mC",
+    "myanimelist/anime": "30686"
+  }
+}

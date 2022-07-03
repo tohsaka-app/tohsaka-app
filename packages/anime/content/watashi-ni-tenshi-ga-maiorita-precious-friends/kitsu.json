@@ -1,0 +1,24 @@
+{
+  "slug": "watashi-ni-tenshi-ga-maiorita-precious-friends",
+  "synopsis": "A new anime project for Watashi ni Tenshi ga Maiorita!, announced on the anime's official website and Twitter.",
+  "title": {
+    "en": "WATATEN!: an Angel Flew Down to Me - Precious Friends",
+    "jp": "Watashi ni Tenshi ga Maiorita! Precious Friends"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "2022-12-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45323/poster_image/c73ed67c3038fd8a3ae220ff4bc7a40e.jpg",
+  "categories": [
+    "comedy",
+    "shoujo ai",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45323",
+    "anilist/anime": "126425"
+  }
+}

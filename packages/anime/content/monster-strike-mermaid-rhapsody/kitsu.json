@@ -1,0 +1,25 @@
+{
+  "slug": "monster-strike-mermaid-rhapsody",
+  "synopsis": "The episode follows Ren on his vacation in Okinawa. There, he meets a mysterious girl.",
+  "title": {
+    "jp": "Monster Strike: Mermaid Rhapsody"
+  },
+  "releasedAt": "2016-08-14T00:00:00.000Z",
+  "finishedAt": "2016-08-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12505/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12505",
+    "anilist/anime": "98094",
+    "aozora": "pWaBEljpg2",
+    "myanimelist/anime": "33546"
+  }
+}

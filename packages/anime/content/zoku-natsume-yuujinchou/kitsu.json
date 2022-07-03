@@ -1,0 +1,39 @@
+{
+  "slug": "zoku-natsume-yuujinchou",
+  "synopsis": "As with its prequel, Zoku Natsume Yuujinchou is about Takashi Natsume, a boy who has had the ability to see youkai since he was young, and his bodyguard youkai Madara, nicknamed Nyanko-sensei. Natsume attempts to return names written in his \"Book of Friends\" (which he inherited from his grandmother Reiko) to youkai in his village. Throughout these adventures, he meets some youkai that are friendly, some that want to steal the Book, and some that want to kill him, as Natsume learns about himself and his relationship with these mysterious beings along the way.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Natsume's Book of Friends Season 2",
+    "jp": "Zoku Natsume Yuujinchou"
+  },
+  "releasedAt": "2009-01-06T00:00:00.000Z",
+  "finishedAt": "2009-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4044/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4044/original.jpg",
+  "categories": [
+    "contemporary fantasy",
+    "demon",
+    "fantasy",
+    "japan",
+    "present",
+    "shoujo",
+    "slice of life",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/natsume-yujin-cho"
+  ],
+  "relations": {
+    "kitsu": "4044",
+    "anidb": "6185",
+    "anilist/anime": "5300",
+    "aozora": "kznF1FKOmq",
+    "myanimelist/anime": "5300",
+    "thetvdb": "82788/2",
+    "thetvdb/season": "39342",
+    "thetvdb/series": "82788",
+    "trakt": "57330"
+  }
+}

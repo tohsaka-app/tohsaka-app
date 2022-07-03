@@ -1,0 +1,25 @@
+{
+  "slug": "aldnoah-zero-extra-archives",
+  "synopsis": "Recap of the first season of Aldnoah.Zero series.",
+  "title": {
+    "jp": "Aldnoah.Zero Extra Archives"
+  },
+  "releasedAt": "2015-01-04T00:00:00.000Z",
+  "finishedAt": "2015-01-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10159/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "politics",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10159",
+    "aozora": "whVBqNYrsy",
+    "myanimelist/anime": "29223"
+  }
+}

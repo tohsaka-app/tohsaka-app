@@ -1,0 +1,30 @@
+{
+  "slug": "shadowverse-tv",
+  "synopsis": "The anime will feature a completely original story, and will feature anime-only characters. The anime centers on Hiiro Ryūgasaki, a student at Tensei Academy. Through a strange incident, Hiiro obtains a mysterious smartphone. The smartphone has installed the popular digital card game \"Shadowverse.\" Through the game Hiiro meets rivals, participates in tournaments, and forms bonds with others.(Source: Anime News Network)",
+  "title": {
+    "jp": "Shadowverse"
+  },
+  "releasedAt": "2020-04-07T00:00:00.000Z",
+  "finishedAt": "2021-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42613/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/42613/cover_image/062cd41165ccff87d2fef586e25a7f5d.png",
+  "categories": [
+    "action",
+    "card games",
+    "fantasy",
+    "kids",
+    "proxy battles",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/shadowverse/"
+  ],
+  "relations": {
+    "kitsu": "42613",
+    "anilist/anime": "112325",
+    "myanimelist/anime": "40506"
+  }
+}

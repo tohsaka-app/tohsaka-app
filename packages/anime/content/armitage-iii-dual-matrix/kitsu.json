@@ -1,0 +1,35 @@
+{
+  "slug": "armitage-iii-dual-matrix",
+  "synopsis": "A few years after they first met, Naomi Armitage and Ross Syllabus have started a family. Despite their normal lives, they must keep their identities a secret because many people believe that Robots do not deserve equal status with humans. Ross has an opportunity to abolish these ideas on Earth through a vote, but organizations in the shadows are working so that it doesn't happen.\n(Source: ANN)",
+  "title": {
+    "jp": "Armitage III: Dual-Matrix"
+  },
+  "releasedAt": "2002-06-25T00:00:00.000Z",
+  "finishedAt": "2002-06-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/453/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "android",
+    "cyberpunk",
+    "cyborg",
+    "earth",
+    "family",
+    "future",
+    "mecha",
+    "science fiction",
+    "space",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "453",
+    "anidb": "237",
+    "anilist/anime": "492",
+    "aozora": "yHqfykkGhg",
+    "myanimelist/anime": "492"
+  }
+}

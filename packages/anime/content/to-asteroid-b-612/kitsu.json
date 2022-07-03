@@ -1,0 +1,20 @@
+{
+  "slug": "to-asteroid-b-612",
+  "synopsis": "",
+  "title": {
+    "jp": "to Asteroid B-612"
+  },
+  "releasedAt": "2012-08-08T00:00:00.000Z",
+  "finishedAt": "2012-08-08T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13439/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13439"
+  }
+}

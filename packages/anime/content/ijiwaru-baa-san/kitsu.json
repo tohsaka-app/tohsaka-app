@@ -1,0 +1,25 @@
+{
+  "slug": "ijiwaru-baa-san",
+  "synopsis": "Based on a 1966 manga by Sazae-san creator Hasegawa Machiko.\nThis is another slice-of-everyday-life tale, centered around a spiteful old woman who causes trouble for neighbours with her constant bumbling and grumbling.\n(Source: ANN)",
+  "title": {
+    "jp": "Ijiwaru Baasan"
+  },
+  "releasedAt": "1970-09-03T00:00:00.000Z",
+  "finishedAt": "1971-08-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9336/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9336",
+    "anidb": "4038",
+    "anilist/anime": "20079",
+    "aozora": "2YV9FWzj5O",
+    "myanimelist/anime": "20079"
+  }
+}

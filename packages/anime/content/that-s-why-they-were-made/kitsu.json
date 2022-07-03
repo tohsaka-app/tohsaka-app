@@ -1,0 +1,25 @@
+{
+  "slug": "that-s-why-they-were-made",
+  "synopsis": "A robot works at a factory repeating the same operation everyday. One day an unexpected visitor arrives and changes his routine.\n\n1st year work 2017, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: geidai Animation)",
+  "title": {
+    "en": "That's why they were made",
+    "jp": "That's why they were made"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44552/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44552/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/Xc5PbiSjFpI"
+  ],
+  "relations": {
+    "kitsu": "44552",
+    "anilist/anime": "115816"
+  }
+}

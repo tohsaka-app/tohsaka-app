@@ -1,0 +1,23 @@
+{
+  "slug": "nekoze-punch",
+  "synopsis": "A VR Music Video featuring Aki Rosenthal.",
+  "title": {
+    "jp": "Nekoze Punch!!"
+  },
+  "releasedAt": "2019-12-24T00:00:00.000Z",
+  "finishedAt": "2019-12-24T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43791/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=8fqjcg2uRYs"
+  ],
+  "relations": {
+    "kitsu": "43791"
+  }
+}

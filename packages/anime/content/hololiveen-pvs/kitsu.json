@@ -1,0 +1,23 @@
+{
+  "slug": "hololiveen-pvs",
+  "synopsis": "Teaser promotional animations for HololiveEN's second generation reveal.",
+  "title": {
+    "en": "HololiveEN PVs"
+  },
+  "releasedAt": "2021-07-31T00:00:00.000Z",
+  "finishedAt": "2021-08-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45265/poster_image/88c14bb20709d3c68aa63db7200221e5.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45265/cover_image/04df20cde59c0498a32e16b3dadfa08b.png",
+  "categories": [
+    "anime influenced",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45265",
+    "anilist/anime": "139756"
+  }
+}

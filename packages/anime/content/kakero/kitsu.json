@@ -1,0 +1,26 @@
+{
+  "slug": "kakero",
+  "synopsis": "Music video for the song Kakero by Hoshimachi Suisei.",
+  "title": {
+    "jp": "Kakero"
+  },
+  "releasedAt": "2021-08-07T00:00:00.000Z",
+  "finishedAt": "2021-08-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44983/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44983/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=IqT6cHCT1TE"
+  ],
+  "relations": {
+    "kitsu": "44983",
+    "anilist/anime": "137593",
+    "myanimelist/anime": "51444"
+  }
+}

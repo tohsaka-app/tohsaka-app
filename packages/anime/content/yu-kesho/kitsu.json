@@ -1,0 +1,25 @@
+{
+  "slug": "yu-kesho",
+  "synopsis": "The film is set in China, in the 1960s. An old woman cools herself in the garden. The sunset makes the sky orange. Sunset flower starts to bloom. The flower guides her to daydream. The woman dreams the childhood memories and when she was young and beautiful.\n\nGraduate Work 2012 from Yuanyuan Hu, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Sunset Flower Blooming",
+    "jp": "Yu Kesho"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45001/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/B1vgzyCVyqw"
+  ],
+  "relations": {
+    "kitsu": "45001",
+    "anilist/anime": "113263",
+    "myanimelist/anime": "49697"
+  }
+}

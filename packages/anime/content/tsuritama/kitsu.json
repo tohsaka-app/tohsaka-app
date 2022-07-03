@@ -1,0 +1,44 @@
+{
+  "slug": "tsuritama",
+  "synopsis": "Yuki Sanada is a socially awkward young man who lives with his grandmother. Due to her job, they must move around a lot. This means Yuki has difficulty forming lasting relationships with his peers, or relationships at all, for that matter. His fear of social interaction is so great that when asked to make a greeting or parting speech in his classes, Yuki often freezes. As if drowning, he blacks out from the present, only able to focus on his certain ridicule. However, Yuki's life changes forever when he moves to Enoshima and meets an odd boy named Haru—who claims to be an alien.\nHaru wields a questionable water gun and fish bowl, and has a tendency to speak with the beta fish inside it. He immediately latches onto Yuki as a friend, completely disregarding any complaints Yuki might have about this. Haru is like a force of nature, unheeding of other people's resistance to his antics. Together, Haru and Yuki also snowball a fellow classmate and fisherman named Natsuki Usami into Haru’s schemes. What out-of-this-world adventures lie ahead for this unique bunch? Find out in Tsuritama!",
+  "title": {
+    "en": "Tsuritama",
+    "jp": "Tsuritama"
+  },
+  "releasedAt": "2012-04-13T00:00:00.000Z",
+  "finishedAt": "2012-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6836/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6836/original.jpg",
+  "categories": [
+    "alien",
+    "asia",
+    "comedy",
+    "earth",
+    "humanoid alien",
+    "japan",
+    "plot continuity",
+    "present",
+    "science fiction",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/tsuritama",
+    "http://www.hulu.com/tsuritama",
+    "https://www.hidive.com/tv/tsuritama"
+  ],
+  "relations": {
+    "kitsu": "6836",
+    "anidb": "8916",
+    "anilist/anime": "12883",
+    "aozora": "4M6tbfwDdo",
+    "hulu": "50007655",
+    "myanimelist/anime": "12883",
+    "thetvdb": "257763/1",
+    "thetvdb/series": "257763",
+    "trakt": "45035"
+  }
+}

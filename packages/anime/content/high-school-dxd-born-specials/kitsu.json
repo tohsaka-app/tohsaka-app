@@ -1,0 +1,26 @@
+{
+  "slug": "high-school-dxd-born-specials",
+  "synopsis": "Specials included with the Blu-ray/DVD volumes.",
+  "title": {
+    "en": "High School DxD BorN Specials",
+    "jp": "High School DxD BorN: Ishibumi Ichiei Kanzen Kanshuu! Mousou Bakuyou Kaijo Original Video"
+  },
+  "releasedAt": "2015-07-24T00:00:00.000Z",
+  "finishedAt": "2016-01-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11237/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11237/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11237",
+    "anilist/anime": "21279",
+    "aozora": "Mo7FuALuu9",
+    "myanimelist/anime": "31326"
+  }
+}

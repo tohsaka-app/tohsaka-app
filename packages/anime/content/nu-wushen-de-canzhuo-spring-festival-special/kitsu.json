@@ -1,0 +1,26 @@
+{
+  "slug": "nu-wushen-de-canzhuo-spring-festival-special",
+  "synopsis": null,
+  "title": {
+    "en": "Cooking with Valkyries Spring Festival Special",
+    "jp": "Nu Wushen de Canzhuo Spring Festival Special"
+  },
+  "releasedAt": "2021-02-11T00:00:00.000Z",
+  "finishedAt": "2021-02-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44110/original.jpg",
+  "categories": [
+    "comedy",
+    "cooking",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44110",
+    "anidb": "15614",
+    "anilist/anime": "130188",
+    "myanimelist/anime": "47614"
+  }
+}

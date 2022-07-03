@@ -1,0 +1,36 @@
+{
+  "slug": "robot-carnival",
+  "synopsis": "A visual treat for the eyes as well as the mind, Robot Carnival is an anthology collection of nine short films, many done by animators before they got their feet wet in directing. From funny to dramatic, artistic to entertaining, each story reaches towards the furthest corners of time and space to bring you a tale of robots, and the people who make them. Whether you have a love for great hand-drawn animation, an appreciation for fine storytelling, or just like robots, this anthology is a must!\n\n(Source: Crunchyroll)\n\n1: Opening (Atsuko Fukushima and Katsuhiro Otomo)\n2: Franken's Gears (Koji Morimoto)\n3: Deprive (Hidetoshi Omori)\n4: Presence (Yasuomi Umetsu)\n5: Star Light Angel (Hiroyuki Kitazume)\n6: Cloud (Mao Lamdo)\n7: A Tale of Two Robots (Hiroyuki Kitakubo)\n8: Nightmare (Takashi Nakamura)\n9: Ending (Atsuko Fukushima and Katsuhiro Otomo)",
+  "title": {
+    "en": "Robot Carnival",
+    "jp": "Robot Carnival"
+  },
+  "releasedAt": "1987-07-21T00:00:00.000Z",
+  "finishedAt": "1987-07-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1976/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1976/original.jpeg",
+  "categories": [
+    "android",
+    "drama",
+    "fantasy",
+    "mecha",
+    "piloted robot",
+    "robot",
+    "science fiction",
+    "steampunk"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/robot-carnival",
+    "https://www.amazon.com/Robot-Carnival-Atsuko-Fukushima/dp/B07DNKFS54/"
+  ],
+  "relations": {
+    "kitsu": "1976",
+    "anidb": "1163",
+    "anilist/anime": "2182",
+    "aozora": "dXK4vpwJpz",
+    "myanimelist/anime": "2182"
+  }
+}

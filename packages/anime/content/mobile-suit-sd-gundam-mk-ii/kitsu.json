@@ -1,0 +1,29 @@
+{
+  "slug": "mobile-suit-sd-gundam-mk-ii",
+  "synopsis": "Mobile Suit SD Gundam Mk II delivers with more tongue-in-cheek humor than the first series. In \"The Rolling Colony Affair,\" a colony is hosting a cabaret show featuring the girls of Gundam. But the show turns disastrous when men and mobile suits go crazy over the girls, sending the colony rolling out of control. A parody of the videogame RPG genre, \"Gundam Legend\" has Amuro, Kamille and Judau sent on a perilous quest to rescue the princess of the Zeta Kingdom from Char Aznable and his vicious Zeon MS forces. \n(Source: ANN)",
+  "title": {
+    "jp": "Mobile Suit SD Gundam Mk II"
+  },
+  "releasedAt": "1989-06-25T00:00:00.000Z",
+  "finishedAt": "1989-06-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2085/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha",
+    "parody",
+    "robot",
+    "science fiction",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2085",
+    "anidb": "1037",
+    "anilist/anime": "2303",
+    "aozora": "6nzQw8gNuW",
+    "myanimelist/anime": "2303"
+  }
+}

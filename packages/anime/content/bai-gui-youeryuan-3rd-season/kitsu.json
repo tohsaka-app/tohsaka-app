@@ -1,0 +1,27 @@
+{
+  "slug": "bai-gui-youeryuan-3rd-season",
+  "synopsis": "Third season of Bai Gui Youeryuan.",
+  "title": {
+    "en": "Onmyoji - Hundred Spirits Kindergarten Season 3"
+  },
+  "releasedAt": "2020-05-21T00:00:00.000Z",
+  "finishedAt": "2020-08-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43378/original.jpg",
+  "categories": [
+    "china",
+    "comedy",
+    "ghost",
+    "magic",
+    "school life",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43378",
+    "anilist/anime": "120324",
+    "myanimelist/anime": "42445"
+  }
+}

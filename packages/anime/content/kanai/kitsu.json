@@ -1,0 +1,27 @@
+{
+  "slug": "kanai",
+  "synopsis": "The story follows two girls who grow up on the island of Okinawa and a boy as they discover a robot.",
+  "title": {
+    "en": "kanai",
+    "jp": "Kanai"
+  },
+  "releasedAt": "2011-03-01T00:00:00.000Z",
+  "finishedAt": "2011-03-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8473/original.jpg",
+  "categories": [
+    "mecha"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/kaiji"
+  ],
+  "relations": {
+    "kitsu": "8473",
+    "anidb": "9440",
+    "anilist/anime": "104088",
+    "aozora": "DGZpNzoPbv",
+    "myanimelist/anime": "24049"
+  }
+}

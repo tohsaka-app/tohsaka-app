@@ -1,0 +1,235 @@
+[
+  {
+    "title": {
+      "jp": "Bait: Sacred Banquet"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/9823/original.jpg",
+    "releasedAt": "1998-04-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Running Away: The Awakened Runaway"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/9824/original.jpg",
+    "releasedAt": "1998-04-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Paradise: Heaven is Hell\t"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/9825/original.jpg",
+    "releasedAt": "1998-04-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Betrayal: Execution of Betrayal"
+    },
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/9826/original.jpg",
+    "releasedAt": "1998-04-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fate: Fate of the Hunter"
+    },
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/9827/original.jpg",
+    "releasedAt": "1998-05-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Girl: The Image of a Girl"
+    },
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/9828/original.jpg",
+    "releasedAt": "1998-05-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Distance Clocks: The Memories Return"
+    },
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/9829/original.jpg",
+    "releasedAt": "1998-05-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Raubtier: Howls in the Night"
+    },
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/9830/original.jpg",
+    "releasedAt": "1998-05-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Schreiend: Hopes"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1998-06-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Brother: Bond of Darkness"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1998-06-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Birth: Breaking the Spell"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1998-06-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Parting: Why?"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1998-06-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Break: Rain of Revenge"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1998-07-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Flee: Martial Law"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1998-07-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Duel: Hunters of Revenge"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1998-07-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shade: A Return to Battle"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1998-07-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Critic: Pride With No Name"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1998-07-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Debt: Farfarello"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1998-08-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "See: Prelude to Insanity"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1998-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Quite: Arrow to Justice"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1998-08-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Träne: In the Memories"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1998-08-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Miteid: Final Reconciliation"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1998-09-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Screw: Everything For Love"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1998-09-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ceremony: The Portrait Which Passes Each Other"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1998-09-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The End of Weiß: To The Knights..."
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1998-09-30T00:00:00.000Z",
+    "content": {}
+  }
+]

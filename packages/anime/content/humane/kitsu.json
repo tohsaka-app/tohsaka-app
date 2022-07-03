@@ -1,0 +1,23 @@
+{
+  "slug": "humane",
+  "synopsis": "Music video for Humane by KUF from their album 'Universe'.\n",
+  "title": {
+    "en": "HUMANE",
+    "jp": "Humane"
+  },
+  "releasedAt": "2018-10-21T00:00:00.000Z",
+  "finishedAt": "2018-10-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42705/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42705",
+    "myanimelist/anime": "38955"
+  }
+}

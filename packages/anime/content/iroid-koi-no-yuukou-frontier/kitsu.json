@@ -1,0 +1,21 @@
+{
+  "slug": "iroid-koi-no-yuukou-frontier",
+  "synopsis": "Commercial animated by Studio SHAFT for the dating sim app, IRoid.",
+  "title": {
+    "jp": "IRoid: Koi no Yuukou Frontier"
+  },
+  "releasedAt": "2015-12-14T00:00:00.000Z",
+  "finishedAt": "2015-12-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41347/original.jpg",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41347",
+    "myanimelist/anime": "33698"
+  }
+}

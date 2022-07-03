@@ -1,0 +1,27 @@
+{
+  "slug": "the-zero-century-movie-2-herlock",
+  "synopsis": "",
+  "title": {
+    "jp": "The Zero Century Movie 2: Herlock"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13629/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "pirate",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13629",
+    "anilist/anime": "100148",
+    "aozora": "vCrPFw0jkm",
+    "myanimelist/anime": "35854"
+  }
+}

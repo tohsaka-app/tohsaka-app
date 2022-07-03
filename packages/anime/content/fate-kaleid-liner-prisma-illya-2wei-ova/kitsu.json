@@ -1,0 +1,33 @@
+{
+  "slug": "fate-kaleid-liner-prisma-illya-2wei-ova",
+  "synopsis": "Based on the manga by the same name by Hiroyama Hiroshi, itself a spin-off of the Fate/stay night erotic visual novel by Type-Moon.\nNote: Bundled with the limited edition of the sixth Fate/Kaleid Liner Prisma Illya 3rei!! magical girl manga volume.\n(Source: AniDB)",
+  "title": {
+    "jp": "Fate/kaleid liner Prisma☆Illya 2wei!: Mahou Shoujo in Onsen Ryokou"
+  },
+  "releasedAt": "2015-07-25T00:00:00.000Z",
+  "finishedAt": "2015-07-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8831/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8831/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "japan",
+    "magic",
+    "magical girl",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8831",
+    "anidb": "10804",
+    "anilist/anime": "20862",
+    "aozora": "DWHOZUPQJ7",
+    "myanimelist/anime": "26057"
+  }
+}

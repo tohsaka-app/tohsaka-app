@@ -1,0 +1,23 @@
+{
+  "slug": "tiandi-fengyun-lu-juezhan-shike",
+  "synopsis": null,
+  "title": {
+    "en": "The Final Conflict of SuYanwen"
+  },
+  "releasedAt": "2012-06-27T00:00:00.000Z",
+  "finishedAt": "2012-10-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44283/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44283",
+    "anilist/anime": "131852"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "menghuan-xiyou",
+  "synopsis": "To save the magical realms, a group of warriors rise against a great evil power.",
+  "title": {
+    "jp": "Menghuan Xiyou"
+  },
+  "releasedAt": "2014-12-29T00:00:00.000Z",
+  "finishedAt": "2015-02-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12986/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12986",
+    "anilist/anime": "103473",
+    "aozora": "trbLyHqEwz",
+    "myanimelist/anime": "33600"
+  }
+}

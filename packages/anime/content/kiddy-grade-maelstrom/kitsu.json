@@ -1,0 +1,31 @@
+{
+  "slug": "kiddy-grade-maelstrom",
+  "synopsis": "A recap of the original anime's second quarter.",
+  "title": {
+    "jp": "Kiddy Grade: Maelstrom"
+  },
+  "releasedAt": "2007-06-23T00:00:00.000Z",
+  "finishedAt": "2007-06-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2866/original.jpg",
+  "categories": [
+    "action",
+    "conspiracy",
+    "future",
+    "mecha",
+    "other planet",
+    "science fiction",
+    "space",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2866",
+    "anidb": "5086",
+    "anilist/anime": "3222",
+    "aozora": "cLcBatVOVK",
+    "myanimelist/anime": "3222"
+  }
+}

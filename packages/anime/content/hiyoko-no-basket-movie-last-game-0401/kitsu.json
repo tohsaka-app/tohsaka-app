@@ -1,0 +1,20 @@
+{
+  "slug": "hiyoko-no-basket-movie-last-game-0401",
+  "synopsis": "",
+  "title": {
+    "jp": "Hiyoko no Basket Movie: Last Game 0401"
+  },
+  "releasedAt": "2017-04-01T00:00:00.000Z",
+  "finishedAt": "2017-04-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41557/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41557",
+    "anilist/anime": "118031",
+    "myanimelist/anime": "35327"
+  }
+}

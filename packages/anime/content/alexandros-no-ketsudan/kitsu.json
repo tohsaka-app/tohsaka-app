@@ -1,0 +1,26 @@
+{
+  "slug": "alexandros-no-ketsudan",
+  "synopsis": "King Alexander of Macedonia and his troops are at war with the armies of Persia. When he suddenly falls ill, Alexander is faced with a decision: to trust his life-long Persian friend Philip and accept his help or treat him as an enemy because he is Persian.",
+  "title": {
+    "en": "Alexander's Decision",
+    "jp": "Alexandros no Ketsudan"
+  },
+  "releasedAt": "2003-06-01T00:00:00.000Z",
+  "finishedAt": "2003-06-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6040/original.jpg",
+  "categories": [
+    "historical",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6040",
+    "anidb": "7122",
+    "anilist/anime": "10112",
+    "aozora": "qj5YYkH3s8",
+    "myanimelist/anime": "10112"
+  }
+}

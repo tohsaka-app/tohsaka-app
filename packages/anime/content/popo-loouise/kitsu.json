@@ -1,0 +1,24 @@
+{
+  "slug": "popo-loouise",
+  "synopsis": "Music Video for a song by the Kuricorder Quartet and UA, shown in the NHK's program 'Minna no Uta'.",
+  "title": {
+    "jp": "PoPo Loouise"
+  },
+  "releasedAt": "2008-10-16T00:00:00.000Z",
+  "finishedAt": "2008-10-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9543/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9543",
+    "anilist/anime": "104129",
+    "aozora": "nJjUZzChFx",
+    "myanimelist/anime": "24315"
+  }
+}

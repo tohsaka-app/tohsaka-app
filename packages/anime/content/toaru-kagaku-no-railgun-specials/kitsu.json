@@ -1,0 +1,26 @@
+{
+  "slug": "toaru-kagaku-no-railgun-specials",
+  "synopsis": "Toaru Kagaku no Railgun specials that were released on the 1st and 5th Blu-ray and DVD volumes.",
+  "title": {
+    "en": "A Certain Scientific Railgun Specials",
+    "jp": "Toaru Kagaku no Railgun: Motto Marutto Railgun"
+  },
+  "releasedAt": "2010-01-29T00:00:00.000Z",
+  "finishedAt": "2010-05-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5174/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5174/original.jpeg",
+  "categories": [
+    "comedy",
+    "friendship"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5174",
+    "anilist/anime": "8023",
+    "aozora": "5eCaZnl8Nq",
+    "myanimelist/anime": "8023"
+  }
+}

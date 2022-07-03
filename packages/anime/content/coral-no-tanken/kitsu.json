@@ -1,0 +1,25 @@
+{
+  "slug": "coral-no-tanken",
+  "synopsis": "Hector the Rat teams up with his fellow denizens of Pretty Wood, including the titular Coral (a young girl) and the unimaginatively named Crow (a crow), to head off to Holland. With many musical scenes, the voice actors were chosen for their singing ability above all considerations.\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "en": "Coral Investigates",
+    "jp": "Coral no Tanken"
+  },
+  "releasedAt": "1979-04-07T00:00:00.000Z",
+  "finishedAt": "1980-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11917/original.jpg",
+  "categories": [
+    "adventure",
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11917",
+    "aozora": "FdMGMDsXle",
+    "myanimelist/anime": "32630"
+  }
+}

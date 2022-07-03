@@ -1,0 +1,26 @@
+{
+  "slug": "sennen-no-yakusoku",
+  "synopsis": "Part of the series of three educational videos that teaches kids and young adults several basic tax lessons.",
+  "title": {
+    "en": null,
+    "jp": "Sennen no Yakusoku"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9934/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9934",
+    "anidb": "10059",
+    "anilist/anime": "120135",
+    "aozora": "2i3M4qwq32",
+    "myanimelist/anime": "20797"
+  }
+}

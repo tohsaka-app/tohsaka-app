@@ -1,0 +1,25 @@
+{
+  "slug": "morita-san-wa-mukuchi-specials",
+  "synopsis": "Unaired episodes of the \"Morita-san wa Mukuchi\" TV series bundled with the 5th manga volume.",
+  "title": {
+    "jp": "Morita-san wa Mukuchi. Specials"
+  },
+  "releasedAt": "2012-01-27T00:00:00.000Z",
+  "finishedAt": "2012-01-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6849/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6849",
+    "anilist/anime": "12921",
+    "aozora": "VG9kwjqAjW",
+    "myanimelist/anime": "12921"
+  }
+}

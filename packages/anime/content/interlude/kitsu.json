@@ -1,0 +1,41 @@
+{
+  "slug": "interlude",
+  "synopsis": "The unnamed main character has been having strange dreams, seeing strange things, and meeting strange people. He investigates these events and finds a strange girl named Aya. With her help, he discovers that his world may not in fact be real and many of the people he thinks he knows may not exist anymore.\n(Source: FUNimation)",
+  "title": {
+    "jp": "Interlude"
+  },
+  "releasedAt": "2004-03-25T00:00:00.000Z",
+  "finishedAt": "2004-08-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/970/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "angst",
+    "asia",
+    "demon",
+    "drama",
+    "earth",
+    "future",
+    "horror",
+    "japan",
+    "mystery",
+    "post apocalypse",
+    "school life",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/interlude",
+    "http://www.hulu.com/interlude"
+  ],
+  "relations": {
+    "kitsu": "970",
+    "anidb": "1645",
+    "anilist/anime": "1085",
+    "aozora": "P2hKnkAeQt",
+    "myanimelist/anime": "1085"
+  }
+}

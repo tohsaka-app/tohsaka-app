@@ -1,0 +1,27 @@
+{
+  "slug": "urikupen-kyuujotai",
+  "synopsis": "Four young animals, rabbit Seitaro Usagi, squirrel Risu, bear Kuma, and penguin Penguin (U-Ri-Ku-Pen), are part of a team of brave young animals that rescues others in peril. Other team members included a dog, a boar, a deer, a koala, a mouse, a seagull, and a lion. The animals would win a prize for completing a mission, as would the viewers, who were encouraged to write in and guess which of the creatures would save the world by each Friday (a single mission stretched over a week of TV). Created by Mitsuru Kaneko, this show was given a limited broadcast on some American local TV stations for the Japanese community.\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "en": "Urikupen Rescue Team",
+    "jp": "Urikupen Kyuujo-tai"
+  },
+  "releasedAt": "1974-09-30T00:00:00.000Z",
+  "finishedAt": "1975-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3702/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3702",
+    "anidb": "3349",
+    "anilist/anime": "4598",
+    "aozora": "G0Y13jeVEV",
+    "myanimelist/anime": "4598"
+  }
+}

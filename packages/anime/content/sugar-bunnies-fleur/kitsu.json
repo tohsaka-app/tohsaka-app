@@ -1,0 +1,24 @@
+{
+  "slug": "sugar-bunnies-fleur",
+  "synopsis": "Sequel to Sugar Bunnies Chocolate!",
+  "title": {
+    "jp": "Sugar Bunnies Fleur"
+  },
+  "releasedAt": "2009-04-07T00:00:00.000Z",
+  "finishedAt": "2009-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4576/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4576",
+    "anidb": "6502",
+    "anilist/anime": "6481",
+    "aozora": "V31M5sOVhw",
+    "myanimelist/anime": "6481"
+  }
+}

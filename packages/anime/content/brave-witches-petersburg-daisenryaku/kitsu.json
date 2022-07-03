@@ -1,0 +1,28 @@
+{
+  "slug": "brave-witches-petersburg-daisenryaku",
+  "synopsis": "The episode takes place between seventh and eighth episode and will be screened in theaters in 2017. The episode will also be bundled with the seventh Blu-ray and DVD volume of the anime, releasing on August 25, 2017.",
+  "title": {
+    "jp": "Brave Witches: Petersburg Daisenryaku"
+  },
+  "releasedAt": "2017-08-25T00:00:00.000Z",
+  "finishedAt": "2017-08-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13101/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "ecchi",
+    "magic",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13101",
+    "anilist/anime": "98209",
+    "aozora": "tow1tLX912",
+    "myanimelist/anime": "34644"
+  }
+}

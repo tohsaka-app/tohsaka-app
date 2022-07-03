@@ -1,0 +1,24 @@
+{
+  "slug": "mayuge-dance",
+  "synopsis": "An eyebrows appreciation music video.",
+  "title": {
+    "jp": "Mayuge Dance"
+  },
+  "releasedAt": "2016-12-01T00:00:00.000Z",
+  "finishedAt": "2016-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40784/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40784",
+    "anilist/anime": "103945",
+    "aozora": "OP2A4BkqM1",
+    "myanimelist/anime": "35530"
+  }
+}

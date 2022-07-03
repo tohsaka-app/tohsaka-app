@@ -1,0 +1,24 @@
+{
+  "slug": "kyousougiga-specials",
+  "synopsis": "Recaps of ONA (Episode 0) and 2013 TV Anime Series (Episode 10.5).",
+  "title": {
+    "jp": "Kyousou Giga (TV) Recaps"
+  },
+  "releasedAt": "2013-10-03T00:00:00.000Z",
+  "finishedAt": "2013-12-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8050/original.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8050",
+    "anilist/anime": "20443",
+    "aozora": "fBJO9dC0Tw",
+    "myanimelist/anime": "20723"
+  }
+}

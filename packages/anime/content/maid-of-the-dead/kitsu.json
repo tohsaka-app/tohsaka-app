@@ -1,0 +1,27 @@
+{
+  "slug": "maid-of-the-dead",
+  "synopsis": "An everyday scene at a maid cafe takes a turn for the unusual.",
+  "title": {
+    "jp": "Maid of the Dead"
+  },
+  "releasedAt": "2013-10-07T00:00:00.000Z",
+  "finishedAt": "2013-10-07T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8295/original.jpg",
+  "categories": [
+    "comedy",
+    "horror",
+    "violence",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8295",
+    "anidb": "10644",
+    "anilist/anime": "20460",
+    "aozora": "5zoZbK4mCi",
+    "myanimelist/anime": "20811"
+  }
+}

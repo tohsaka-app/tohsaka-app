@@ -1,0 +1,30 @@
+{
+  "slug": "keishichou-tokumubu-tokushu-kyouakuhan-taisakushitsu-dainanaka-tokunana",
+  "synopsis": "Set in a different Tokyo in a different world than ours, the story follows Tokunana, a unit of assembled misfits in the Metropolitan Police Department. Tokunana battles against \"Nine\" — an organization committing crimes in their zealous worship of the dragons that once roamed the world.\n\n(Source: ANN)",
+  "title": {
+    "en": "Special 7: Special Crime Investigation Unit",
+    "jp": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana"
+  },
+  "releasedAt": "2019-10-06T00:00:00.000Z",
+  "finishedAt": "2019-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42272/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42272/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "japan",
+    "tokyo"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/special-7-special-crime-investigation-unit/",
+    "https://www.hulu.com/special-7-special-crime-investigation-unit"
+  ],
+  "relations": {
+    "kitsu": "42272",
+    "anilist/anime": "108554",
+    "myanimelist/anime": "39567"
+  }
+}

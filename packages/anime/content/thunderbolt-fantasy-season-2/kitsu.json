@@ -1,0 +1,26 @@
+{
+  "slug": "thunderbolt-fantasy-season-2",
+  "synopsis": "Season 2 of Thunderbolt Fantasy",
+  "title": {
+    "en": "Thunderbolt Fantasy: Sword Seekers 2",
+    "jp": "Thunderbolt Fantasy: Touriken Yuuki 2"
+  },
+  "releasedAt": "2018-10-01T00:00:00.000Z",
+  "finishedAt": "2018-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13609/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13609",
+    "anidb": "12441"
+  }
+}

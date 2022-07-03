@@ -1,0 +1,26 @@
+{
+  "slug": "columbos",
+  "synopsis": "A re-imagining of Columbo with puppet animation.",
+  "title": {
+    "jp": "Columbos"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10165/original.gif",
+  "categories": [
+    "cops",
+    "drama",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10165",
+    "anidb": "11359",
+    "anilist/anime": "103477",
+    "aozora": "00h8HFUjDD",
+    "myanimelist/anime": "28955"
+  }
+}

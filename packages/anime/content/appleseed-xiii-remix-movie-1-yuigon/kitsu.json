@@ -1,0 +1,35 @@
+{
+  "slug": "appleseed-xiii-remix-movie-1-yuigon",
+  "synopsis": "This is a remix, theatrical release of the first half of the Appleseed XIII series.",
+  "title": {
+    "jp": "Appleseed XIII Remix Movie 1: Yuigon"
+  },
+  "releasedAt": "2011-06-13T00:00:00.000Z",
+  "finishedAt": "2011-06-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6295/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "cyberpunk",
+    "cyborg",
+    "earth",
+    "future",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "special squads"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6295",
+    "anidb": "8311",
+    "anilist/anime": "10689",
+    "aozora": "a4c3ycNyCl",
+    "hulu": "50016477",
+    "myanimelist/anime": "10689"
+  }
+}

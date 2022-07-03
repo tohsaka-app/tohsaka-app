@@ -1,0 +1,24 @@
+{
+  "slug": "transformers-power-of-the-primes",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "2018-07-10T00:00:00.000Z",
+  "finishedAt": "2018-07-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41019/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "mecha",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=zyJCQRnSVvo&list=PLZLTS4u9M_2rijD90D99M73or_C53X_B7"
+  ],
+  "relations": {
+    "kitsu": "41019"
+  }
+}

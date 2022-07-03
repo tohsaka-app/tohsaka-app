@@ -1,0 +1,21 @@
+{
+  "slug": "minamo",
+  "synopsis": "Mizue set up a camera over a water tray with an illuminated white background (presumably an animation table) and experimented with the flow of aqueous ink over the surface of the water using stop motion animation techniques.",
+  "title": {
+    "jp": "Minamo"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10413/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "10413",
+    "anilist/anime": "103383",
+    "aozora": "CHTQKoqUJ8",
+    "myanimelist/anime": "29767"
+  }
+}

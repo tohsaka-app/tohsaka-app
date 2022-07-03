@@ -1,0 +1,20 @@
+{
+  "slug": "taisei-kensetsu-cm-myanmar",
+  "synopsis": "Commercial directed by Makoto Shinkai for the Taisei Corporation",
+  "title": {
+    "jp": "Taisei Kensetsu CM: Myanmar"
+  },
+  "releasedAt": "2020-03-20T00:00:00.000Z",
+  "finishedAt": "2020-03-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44557/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44557"
+  }
+}

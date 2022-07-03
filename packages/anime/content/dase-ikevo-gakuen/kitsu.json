@@ -1,0 +1,23 @@
+{
+  "slug": "dase-ikevo-gakuen",
+  "synopsis": "Dase! Ikevo Gakuen is an original anime produced by the ESP College of Entertainment Fukuoka Department of Voice Acting, in collaboration with Takashi Taniguchi. Set in Ikevo Academy, we follow the comedic love story of a young man aspiring to become a voice actor. In the spirit of promoting voice acting education, members of the general public auditioned to voice the characters in the show.\n",
+  "title": {
+    "jp": "Dase! Ikevo Gakuen"
+  },
+  "releasedAt": "2019-01-08T00:00:00.000Z",
+  "finishedAt": "2019-08-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43352/original.jpg",
+  "categories": [
+    "comedy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43352",
+    "anilist/anime": "120314",
+    "myanimelist/anime": "42172"
+  }
+}

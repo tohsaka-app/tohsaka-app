@@ -1,0 +1,26 @@
+{
+  "slug": "tabun",
+  "synopsis": "Music video animated by Saho Nanjo for the song Probably by YOASOBI.",
+  "title": {
+    "en": "Probably",
+    "jp": "Tabun"
+  },
+  "releasedAt": "2020-07-20T00:00:00.000Z",
+  "finishedAt": "2020-07-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44004/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44004/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=8iuLXODzL04"
+  ],
+  "relations": {
+    "kitsu": "44004",
+    "anilist/anime": "128859"
+  }
+}

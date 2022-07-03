@@ -1,0 +1,25 @@
+{
+  "slug": "cat-step",
+  "synopsis": "Music video directed by Takashi Ohashi for the song Cat Step by Japanese music producer Daisuke Tanabe in his EP \"Cat Steps.\"",
+  "title": {
+    "en": "Cat Step",
+    "jp": "Cat Step"
+  },
+  "releasedAt": "2019-02-03T00:00:00.000Z",
+  "finishedAt": "2019-02-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43722/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43722/original.png",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43722",
+    "anilist/anime": "111997",
+    "myanimelist/anime": "39706"
+  }
+}

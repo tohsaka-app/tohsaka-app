@@ -1,0 +1,35 @@
+{
+  "slug": "sayonara-ginga-tetsudou-999-andromeda-shuuchakueki",
+  "synopsis": "Two years after the events in Galaxy Express 999, Earth has become a battleground. Tetsuro, older and fighting the Machine People, rejoins Maetel aboard the GE999. ",
+  "title": {
+    "en": "Adieu Galaxy Express 999",
+    "jp": "Sayonara Ginga Tetsudou 999: Andromeda Shuuchakueki"
+  },
+  "releasedAt": "1981-01-08T00:00:00.000Z",
+  "finishedAt": "1981-01-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1174/original.jpg",
+  "categories": [
+    "adventure",
+    "cyborg",
+    "drama",
+    "other planet",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space opera",
+    "space travel"
+  ],
+  "externals": [
+    "https://www.amazon.com/gp/video/detail/B07P7YKRNP/ref=atv_dp_b01_det_c_UTPsmN_1_7"
+  ],
+  "relations": {
+    "kitsu": "1174",
+    "anidb": "765",
+    "anilist/anime": "1302",
+    "aozora": "qoFSLZrckV",
+    "myanimelist/anime": "1302"
+  }
+}

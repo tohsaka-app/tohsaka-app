@@ -1,0 +1,48 @@
+{
+  "slug": "digimon-tamers",
+  "synopsis": "Digimon Tamers takes place in a world where the popular Digimon franchise is all the rage, consisting of a cartoon, video games, and the trading card game. Takato Matsuda is a huge Digimon fan that's particularly obsessed with the card game, and constantly daydreams about the universe therein. One day, he finds a mysterious blue card, which he slides through a scanner toy to use in the popular battle game. His toy suddenly glows and transforms into a Digivice, and Takato's fan-made design, Guilmon, materialises in front of him. Thrilled by the prospect of having a real-life Digimon, Takato embraces his new partner, and his adventures as a Digimon Tamer begin.\nTakato quickly discovers that being a Digimon Tamer is not all fun and games—in reality, it's much more dangerous than the card games he's accustomed to. Wild Digimon have begun to appear all across Japan, causing rampages that result in chaos and mayhem. Armed with his Digivice, which can scan trading cards to strengthen Guilmon, Takato and his new partner set out to combat the rogue Digimon. They are tasked with protecting the world from Digimon attacks, whilst a mysterious organization determined to eliminate all Digimon and their Tamers lurks in the shadows... ",
+  "title": {
+    "en": "Digimon Tamers",
+    "jp": "Digimon Tamers"
+  },
+  "releasedAt": "2001-04-01T00:00:00.000Z",
+  "finishedAt": "2002-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/774/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/774/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "card games",
+    "comedy",
+    "earth",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "isekai",
+    "japan",
+    "parallel universe",
+    "present",
+    "proxy battles",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/digimon-tamers",
+    "http://www.hulu.com/digimon-tamers",
+    "https://tubitv.com/series/2579"
+  ],
+  "relations": {
+    "kitsu": "774",
+    "anidb": "562",
+    "anilist/anime": "874",
+    "aozora": "Furx56cGc1",
+    "myanimelist/anime": "874",
+    "thetvdb": "72241",
+    "thetvdb/season": "3766",
+    "thetvdb/series": "283952",
+    "trakt": "31517"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "getsuyoubi-no-tawawa-2",
+  "synopsis": "The second season of Getsuyoubi no Tawawa.",
+  "title": {
+    "en": "Tawawa on Monday Two",
+    "jp": "Getsuyoubi no Tawawa 2"
+  },
+  "releasedAt": "2021-09-20T00:00:00.000Z",
+  "finishedAt": "2021-12-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45228/poster_image/26528d16fb311b3c1f30c0a90b1a7d76.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "japan",
+    "seinen",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/tawawa-on-monday"
+  ],
+  "relations": {
+    "kitsu": "45228",
+    "anidb": "16734",
+    "anilist/anime": "139449",
+    "myanimelist/anime": "49854"
+  }
+}

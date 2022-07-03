@@ -1,0 +1,36 @@
+{
+  "slug": "saint-seiya-the-hades-chapter-elysion",
+  "synopsis": "After the 12 Gold Saints sacrifice their lives to destroy the Wailing Wall, The Bronze Saints enter the deepest realm of the Underworld, Elysion, where they face off aganist Hades's two most powerful servants: The Twin Gods, Hypnos and Thanatos, before they can reach Hades for the final battle.",
+  "title": {
+    "en": "Saint Seiya: The Hades Chapter - Elysion",
+    "jp": "Saint Seiya: Meiou Hades Elysion-hen"
+  },
+  "releasedAt": "2008-03-07T00:00:00.000Z",
+  "finishedAt": "2008-08-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3066/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3066/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "deity",
+    "drama",
+    "fantasy",
+    "henshin",
+    "plot continuity",
+    "present",
+    "shounen",
+    "super power",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3066",
+    "anidb": "5670",
+    "anilist/anime": "3515",
+    "aozora": "eK3SYluDqI",
+    "myanimelist/anime": "3515"
+  }
+}

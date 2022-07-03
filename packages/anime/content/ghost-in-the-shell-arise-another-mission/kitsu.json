@@ -1,0 +1,27 @@
+{
+  "slug": "ghost-in-the-shell-arise-another-mission",
+  "synopsis": "The premise of the story: \"Snatch the rebel elements' secret data using the Surface! There is a leak saying that the giant coporation Ishimiya Industry will commit an act of international terrorism, and Motoko Kusanagi and the Armored Riot Police head out to seize the plug data!\"\n(Source: ANN)\nA short animation for promoting Microsoft's Surface tablet in Japan.",
+  "title": {
+    "en": "Ghost in the Shell: Arise - Another Mission",
+    "jp": "Ghost in the Shell: Arise - Another Mission"
+  },
+  "releasedAt": "2013-06-04T00:00:00.000Z",
+  "finishedAt": "2013-06-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8233/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8233",
+    "anilist/anime": "18989",
+    "aozora": "sIhMpgfqFU",
+    "myanimelist/anime": "18989"
+  }
+}

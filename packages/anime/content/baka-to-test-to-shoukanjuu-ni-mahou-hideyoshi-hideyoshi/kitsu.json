@@ -1,0 +1,27 @@
+{
+  "slug": "baka-to-test-to-shoukanjuu-ni-mahou-hideyoshi-hideyoshi",
+  "synopsis": "A short special included on the second volume of Baka to Test to Shoukanjuu Ni! Blu-ray/DVD release.",
+  "title": {
+    "en": "Baka and Test - Summon the Beasts: Magical Hideyoshi Hideyoshi",
+    "jp": "Baka to Test to Shoukanjuu Ni!: Mahou Hideyoshi Hideyoshi"
+  },
+  "releasedAt": "2011-10-26T00:00:00.000Z",
+  "finishedAt": "2011-10-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8725/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8725/original.jpeg",
+  "categories": [
+    "comedy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8725",
+    "anilist/anime": "21467",
+    "aozora": "ZhNL61SGEf",
+    "hulu": "50000853",
+    "myanimelist/anime": "24727"
+  }
+}

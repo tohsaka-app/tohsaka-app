@@ -1,0 +1,32 @@
+{
+  "slug": "made-in-abyss-tabidachi-no-yoake",
+  "synopsis": "First of two films recapping the first season of the TV anime.",
+  "title": {
+    "en": "Made in Abyss: Journey's Dawn",
+    "jp": "Made in Abyss: Tabidachi no Yoake"
+  },
+  "releasedAt": "2019-01-04T00:00:00.000Z",
+  "finishedAt": "2019-01-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41080/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41080/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "mystery",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/made-in-abyss-journeys-dawn"
+  ],
+  "relations": {
+    "kitsu": "41080",
+    "anidb": "13941",
+    "anilist/anime": "101343",
+    "myanimelist/anime": "37514"
+  }
+}

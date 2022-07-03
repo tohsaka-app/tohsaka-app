@@ -1,0 +1,31 @@
+{
+  "slug": "mobile-suit-gundam-seed-msv-astray",
+  "synopsis": "In the first short, Lowe Gear and the Junk Guild make a stop at an mobile suit parts auction on Earth where Lowe purchases a head taken from a modified BuCUE suit which, when attached to the arm of his Red Frame Astray, acts as a dual beam saber. Lowe tries to decrypt some combat data contained in the head, but is shortly engaged by, and goes into combat with, several ZAFT suits including a CGUE DEEP Arms. In the second short, Blue Frame pilot Gai Murakamo engages and, with the help of his fellow Serpent Tail mercenaries, traps a GINN High Mobility Type. He then faces off with the legendary Edward Harrelson, who pilots a Sword Calamity Gundam and has just finished destroying a fleet of ZAFT ships. \n(Source: ANN)",
+  "title": {
+    "en": "Mobile Suit Gundam Seed MSV Astray",
+    "jp": "Mobile Suit Gundam Seed MSV Astray"
+  },
+  "releasedAt": "2004-03-01T00:00:00.000Z",
+  "finishedAt": "2004-07-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/765/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/765/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "765",
+    "anidb": "2445",
+    "anilist/anime": "864",
+    "aozora": "3z1s8WRozm",
+    "myanimelist/anime": "864"
+  }
+}

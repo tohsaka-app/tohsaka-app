@@ -1,0 +1,40 @@
+{
+  "slug": "tales-of-phantasia-the-animation",
+  "synopsis": "Tragedy strikes the lives of Cless Alvein, a young swordsman, and Chester Barklight, a young archer, as they return to their village of Totus to find it razed to the ground by the mysterious Black Knight. To take over the world, the Black Knight seeks to claim the power of the Demon King, Dhaos—sealed away by the ancestors of Cless and a young cleric named Mint Adnade. Dhaos's reawakening signals not only the end of the Black Knight, but potentially the world. Cless and Mint must now journey a century into the past to rally allies capable of vanquishing the Demon King for once and for all.Tales of Phantasia The Animation follows Cless and Mint's journey through time to long ago, where they forge an alliance with the half-elf sorceress Arche Klaine and the summoner Klarth F. Lester. Together, they strive to defeat Dhaos and his army in saving the past as well as the years to come.",
+  "title": {
+    "en": "Tales of Phantasia",
+    "jp": "Tales of Phantasia The Animation"
+  },
+  "releasedAt": "2004-11-25T00:00:00.000Z",
+  "finishedAt": "2006-02-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/358/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/358/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "magic",
+    "martial arts",
+    "military",
+    "plot continuity",
+    "super power",
+    "swordplay",
+    "time travel",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "358",
+    "anidb": "1374",
+    "anilist/anime": "391",
+    "aozora": "fo7jnBHc9B",
+    "myanimelist/anime": "391",
+    "thetvdb": "81693",
+    "trakt": "43536"
+  }
+}

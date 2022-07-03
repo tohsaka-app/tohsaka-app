@@ -1,0 +1,470 @@
+[
+  {
+    "title": {
+      "jp": "My Name is Ace!"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1993-04-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Our First Victory!"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1993-04-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Open Your Eyes Angry Bull"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1993-04-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Magic Pitch 44 Sonic"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1993-04-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Versus! Sword and Magic Pitch"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1993-05-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Miracle Invoking Last Batter"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1993-05-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Mysterious Newbie Topjoy"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1993-05-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Go For It, Ryuken!"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1993-05-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Street Basketball Trap"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1993-06-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Magnum Ace's Secret"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1993-06-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Field of Rampage!"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1993-06-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Encounter! His Name is GZ"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1993-06-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Burning Glacial Plain"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1993-06-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Clash! The Seven Heroes"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1993-07-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Wounded Rush!"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1993-07-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Storm-Bringing Finishing Shot!"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1993-07-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Life-or-Death Challenge!"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1993-07-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shine! Silver Spirit"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1993-08-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "nineteen"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1993-08-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "twenty"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1993-08-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "twenty one"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1993-08-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "twenty two"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1993-08-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "twenty three"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1993-09-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "twenty four"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1993-09-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "twenty five"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1993-09-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "twenty six"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1993-09-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "twenty seven"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1993-10-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "twenty eight"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1993-10-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "twenty nine"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1993-10-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "thirty"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1993-10-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "thirty one"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1993-11-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "thirty two"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "1993-11-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "thirty three"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "1993-11-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "thirty four"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "1993-11-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "thirty five"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "1993-11-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "thirty six"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "1993-12-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "thirty seven"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "1993-12-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "thirty eight"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "1993-12-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "thirty nine"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "1993-12-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "forty"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "1994-01-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "forty one"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "1994-01-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "forty two"
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "1994-01-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "forty three"
+    },
+    "season": 1,
+    "number": 43,
+    "releasedAt": "1994-01-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "forty four"
+    },
+    "season": 1,
+    "number": 44,
+    "releasedAt": "1994-02-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "forty five"
+    },
+    "season": 1,
+    "number": 45,
+    "releasedAt": "1994-02-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "forty six"
+    },
+    "season": 1,
+    "number": 46,
+    "releasedAt": "1994-02-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "forty seven"
+    },
+    "season": 1,
+    "number": 47,
+    "releasedAt": "1994-02-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "forty eight"
+    },
+    "season": 1,
+    "number": 48,
+    "releasedAt": "1994-03-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "forty nine"
+    },
+    "season": 1,
+    "number": 49,
+    "releasedAt": "1994-03-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "fifty"
+    },
+    "season": 1,
+    "number": 50,
+    "releasedAt": "1994-03-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "fifty one"
+    },
+    "season": 1,
+    "number": 51,
+    "releasedAt": "1994-03-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "fifty two"
+    },
+    "season": 1,
+    "number": 52,
+    "releasedAt": "1994-03-29T00:00:00.000Z",
+    "content": {}
+  }
+]

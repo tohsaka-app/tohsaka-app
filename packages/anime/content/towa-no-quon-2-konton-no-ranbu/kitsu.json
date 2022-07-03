@@ -1,0 +1,29 @@
+{
+  "slug": "towa-no-quon-2-konton-no-ranbu",
+  "synopsis": "The story follows a boy named Quon and others who suddenly wake up with supernatural powers.",
+  "title": {
+    "en": "Towanoquon: Dancing Orchid in Chaos",
+    "jp": "Towa no Quon 2: Konton no Ranbu"
+  },
+  "releasedAt": "2011-07-16T00:00:00.000Z",
+  "finishedAt": "2011-07-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6310/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "mystery",
+    "super power"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/towanoquon"
+  ],
+  "relations": {
+    "kitsu": "6310",
+    "anilist/anime": "10713",
+    "aozora": "vEEEBbWpyr",
+    "myanimelist/anime": "10713"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "haru-no-uta",
+  "synopsis": "Short movie from 1931.",
+  "title": {
+    "en": "Spring Song",
+    "jp": "Haru no Uta"
+  },
+  "releasedAt": "1931-01-01T00:00:00.000Z",
+  "finishedAt": "1931-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4309/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4309",
+    "anidb": "6743",
+    "anilist/anime": "5868",
+    "aozora": "ZuRHzJgFfo",
+    "myanimelist/anime": "5868"
+  }
+}

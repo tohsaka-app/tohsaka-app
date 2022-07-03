@@ -1,0 +1,26 @@
+{
+  "slug": "koro-sensei-q",
+  "synopsis": "A spin-off of Assassination Classroom (Ansatsu Kyoushitsu). Aired in Japanese cinemas alongside Assassination Classroom the Movie: 365 Days‘ Time (Ansatsu Kyoushitsu Movie: 365-Nichi no Jikan), and later reused as episode 2 of the ONA series Koro-sensei Q! (2016).",
+  "title": {
+    "jp": "Koro-sensei Q!"
+  },
+  "releasedAt": "2016-11-19T00:00:00.000Z",
+  "finishedAt": "2016-11-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12293/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12293",
+    "anidb": "12244",
+    "anilist/anime": "21864",
+    "aozora": "BBtsDeoT2O",
+    "myanimelist/anime": "33511"
+  }
+}

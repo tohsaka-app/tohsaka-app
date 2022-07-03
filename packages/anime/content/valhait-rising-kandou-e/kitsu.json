@@ -1,0 +1,26 @@
+{
+  "slug": "valhait-rising-kandou-e",
+  "synopsis": "Studio Colorido's promotional video for BANDAI NAMCO Online's mobile RPG VALHAIT RISING.",
+  "title": {
+    "jp": "Valhait Rising: Kandou e."
+  },
+  "releasedAt": "2016-07-06T00:00:00.000Z",
+  "finishedAt": "2016-07-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43206/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=BfVtOT3RmZ0"
+  ],
+  "relations": {
+    "kitsu": "43206",
+    "anilist/anime": "122187",
+    "myanimelist/anime": "41296"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "kappo",
+  "synopsis": "Legs and shoes float across the screen in this short film by Yoriko Mizushiri.",
+  "title": {
+    "jp": "Kappo"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10151/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "10151",
+    "anidb": "11380",
+    "anilist/anime": "103478",
+    "aozora": "UmduPPLuKW",
+    "myanimelist/anime": "28647"
+  }
+}

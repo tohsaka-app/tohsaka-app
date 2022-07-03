@@ -1,0 +1,28 @@
+{
+  "slug": "summer-ghost",
+  "synopsis": "Tomoya, Aoi, and Ryou are high school students who met online. An urban legend speaks of a \"summer ghost,\" a spirit girl who appears when fireworks are set off.\n\nTomoya cannot live the life he envisioned for himself. Aoi cannot find her place in the world. Ryou has his once shining future suddenly pulled away. Each has their own reason for needing to meet the summer ghost. On a summer night when life and death cross paths, where will each of their emotions take them?",
+  "title": {
+    "en": "Summer Ghost",
+    "jp": "Summer Ghost"
+  },
+  "releasedAt": "2021-11-12T00:00:00.000Z",
+  "finishedAt": "2021-11-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44099/poster_image/caadecbd7ea7f993f2d3078a85b6da50.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44099/original.png",
+  "categories": [
+    "drama",
+    "ghost",
+    "seinen",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44099",
+    "anidb": "16064",
+    "anilist/anime": "130050",
+    "myanimelist/anime": "48171"
+  }
+}

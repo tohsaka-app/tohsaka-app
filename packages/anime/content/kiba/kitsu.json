@@ -1,0 +1,42 @@
+{
+  "slug": "kiba",
+  "synopsis": "In a dystopian future, two friends dream of freedom... and gain more than they bargain for! Hothead Zed is on the run from the authorities, while his brainy pal Noah struggles with his own battered body. Both find a magical world that seems to offer escape and power undreamed of. Join Zed and his powerful, rebellious spirit Amir Gaul on their search for the ultimate power. It's a force that can save the world—or destroy life as we know it. This is the world of KIBA! Where you must harness the power within and fight with all you got!\n(Source: RightStuf)",
+  "title": {
+    "en": "Kiba",
+    "jp": "Kiba"
+  },
+  "releasedAt": "2006-04-02T00:00:00.000Z",
+  "finishedAt": "2007-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/749/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/749/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "angst",
+    "crime",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "martial arts",
+    "plot continuity",
+    "super power",
+    "swordplay",
+    "violence",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "749",
+    "anidb": "4264",
+    "anilist/anime": "845",
+    "aozora": "2Euyf3XnOb",
+    "hulu": "50006717",
+    "myanimelist/anime": "845",
+    "thetvdb": "79483/1",
+    "thetvdb/series": "79483",
+    "trakt": "31601"
+  }
+}

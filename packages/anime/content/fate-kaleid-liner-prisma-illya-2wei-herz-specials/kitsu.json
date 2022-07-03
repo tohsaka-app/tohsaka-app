@@ -1,0 +1,27 @@
+{
+  "slug": "fate-kaleid-liner-prisma-illya-2wei-herz-specials",
+  "synopsis": "Specials bundled with limited edition Blu-ray/DVD volumes of the Fate/kaleid liner Prisma Illya 2wei Herz!.",
+  "title": {
+    "en": "Fate/Kaleid Liner Prisma Illya 2Wei Herz! Shorts",
+    "jp": "Fate/kaleid liner Prisma☆Illya 2wei Herz! Specials"
+  },
+  "releasedAt": "2015-09-25T00:00:00.000Z",
+  "finishedAt": "2016-01-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11176/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11176",
+    "anilist/anime": "21325",
+    "aozora": "RK45vog1p7",
+    "myanimelist/anime": "31056"
+  }
+}

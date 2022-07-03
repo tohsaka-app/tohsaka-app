@@ -1,0 +1,38 @@
+{
+  "slug": "persona-4-the-animation-the-factor-of-hope",
+  "synopsis": "Recap of the entire 25-episode television anime series with new cuts and also the unaired \"True End Episode\" that was included in the 10th Blu-ray Disc/DVD volume.",
+  "title": {
+    "en": "Persona 4 the Animation: The Factor of Hope",
+    "jp": "Persona 4 the Animation: The Factor of Hope"
+  },
+  "releasedAt": "2012-06-09T00:00:00.000Z",
+  "finishedAt": "2012-06-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7106/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "contemporary fantasy",
+    "detective",
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "horror",
+    "mystery",
+    "present",
+    "proxy battles",
+    "school life",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7106",
+    "anidb": "9240",
+    "anilist/anime": "14267",
+    "aozora": "9aQskxZuvy",
+    "myanimelist/anime": "14267"
+  }
+}

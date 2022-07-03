@@ -1,0 +1,20 @@
+{
+  "slug": "happy-bogeys",
+  "synopsis": "Short film series by Takashi Kurihara.",
+  "title": {
+    "jp": "Happy Bogeys"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11240/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "11240",
+    "aozora": "sy727mDdxB",
+    "myanimelist/anime": "30861"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "queen-s-blade-specials",
+  "synopsis": "Specials included in the Queen's Blade Premium Visual Book's DVDs.",
+  "title": {
+    "jp": "Queen's Blade OVA Specials"
+  },
+  "releasedAt": "2011-10-29T00:00:00.000Z",
+  "finishedAt": "2012-01-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6658/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "ecchi",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6658",
+    "anilist/anime": "12065",
+    "aozora": "vkFXhSh5xW",
+    "myanimelist/anime": "12065"
+  }
+}

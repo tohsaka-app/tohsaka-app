@@ -1,0 +1,25 @@
+{
+  "slug": "virtual-hero-2",
+  "synopsis": "Second season Virtual Hero",
+  "title": {
+    "en": "Virtual Hero 2"
+  },
+  "releasedAt": "2020-02-28T00:00:00.000Z",
+  "finishedAt": "2020-02-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43540/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "fantasy",
+    "fantasy world",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43540"
+  }
+}

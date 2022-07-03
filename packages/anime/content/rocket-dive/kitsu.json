@@ -1,0 +1,24 @@
+{
+  "slug": "rocket-dive",
+  "synopsis": "Official music video for Exile Shokichi's song Rocket Dive from their new single titled \"Underdog.\" The music video was included on a DVD during the single's launch and then later featured on Avex Inc.'s official YouTube channel.",
+  "title": {
+    "en": "Rocket Dive",
+    "jp": "Rocket Dive"
+  },
+  "releasedAt": "2018-05-23T00:00:00.000Z",
+  "finishedAt": "2018-05-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41495/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41495",
+    "anilist/anime": "102459",
+    "myanimelist/anime": "37947"
+  }
+}

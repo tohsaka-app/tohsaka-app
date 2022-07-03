@@ -1,0 +1,23 @@
+{
+  "slug": "kujira",
+  "synopsis": "Early film by Oofuji Noburou.",
+  "title": {
+    "en": null,
+    "jp": "Kujira"
+  },
+  "releasedAt": "1927-01-01T00:00:00.000Z",
+  "finishedAt": "1927-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10702/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10702",
+    "aozora": "ru7OhO2UtJ",
+    "myanimelist/anime": "30176"
+  }
+}

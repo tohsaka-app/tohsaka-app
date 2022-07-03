@@ -1,0 +1,25 @@
+{
+  "slug": "creating-world-2020ver",
+  "synopsis": "Remake of AZKi's first music video.",
+  "title": {
+    "en": "Creating world 2020ver.",
+    "jp": "Creating world 2020ver."
+  },
+  "releasedAt": "2020-05-16T00:00:00.000Z",
+  "finishedAt": "2020-05-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43987/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43987/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=aqRIPFT-EUw&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43987"
+  }
+}

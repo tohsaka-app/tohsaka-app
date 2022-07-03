@@ -1,0 +1,25 @@
+{
+  "slug": "megalo-box-specials",
+  "synopsis": "Shorts included with the Blu-ray releases. \n\n(Source: MAL)",
+  "title": {
+    "en": "Megalo Box Specials",
+    "jp": "Megalo Box Specials"
+  },
+  "releasedAt": "2018-07-27T00:00:00.000Z",
+  "finishedAt": "2018-11-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41444/original.jpg",
+  "categories": [
+    "action",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41444",
+    "anilist/anime": "102309",
+    "myanimelist/anime": "37703"
+  }
+}

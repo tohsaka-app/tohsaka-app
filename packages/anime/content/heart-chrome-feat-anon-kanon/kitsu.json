@@ -1,0 +1,23 @@
+{
+  "slug": "heart-chrome-feat-anon-kanon",
+  "synopsis": "Music video for Heart Chrome feat. Anon &amp; Kanon by Hachioji-P.",
+  "title": {
+    "jp": "Heart Chrome feat. Anon & Kanon"
+  },
+  "releasedAt": "2014-04-25T00:00:00.000Z",
+  "finishedAt": "2014-04-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43390/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=46MIgupU8UY"
+  ],
+  "relations": {
+    "kitsu": "43390",
+    "myanimelist/anime": "40555"
+  }
+}

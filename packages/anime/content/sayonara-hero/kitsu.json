@@ -1,0 +1,23 @@
+{
+  "slug": "sayonara-hero",
+  "synopsis": "MV for the song Sayonara Hero, performed by AZKi",
+  "title": {
+    "jp": "Sayonara Hero"
+  },
+  "releasedAt": "2019-06-30T00:00:00.000Z",
+  "finishedAt": "2019-06-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43956/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=bMSPwitZiJs&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43956"
+  }
+}

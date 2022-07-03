@@ -1,0 +1,29 @@
+{
+  "slug": "teen-titans",
+  "synopsis": "Teen Titans centers around the five main members of the superhero team: Cyborg, Beast Boy, Starfire, Raven, and their leader Robin. They are situated in Titans Tower, a large T-shaped structure featuring living quarters as well as a command centre and variety of training facilities, on an island just offshore from a fictional West Coast city (identified as \"Jump City\" in the Teen Titans Go! comic series). The team deals with all manner of criminal activity and threats to the city, while dealing with their own struggles with adolescence, their mutual friendships, and their limitations. Slade, their main enemy, is a newly designed version of the DC villain Deathstroke.",
+  "title": {
+    "en": "",
+    "jp": "Teen Titans"
+  },
+  "releasedAt": "2003-07-19T00:00:00.000Z",
+  "finishedAt": "2006-01-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7928/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7928/original.png",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "kids",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7928",
+    "thetvdb": "71503/1",
+    "thetvdb/series": "71503"
+  }
+}

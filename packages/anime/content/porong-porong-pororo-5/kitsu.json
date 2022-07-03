@@ -1,0 +1,25 @@
+{
+  "slug": "porong-porong-pororo-5",
+  "synopsis": "The fifth season of Pororo with a focus more on racing.",
+  "title": {
+    "en": "Pororo the Little Penguin 5",
+    "jp": "Porong Porong Pororo 5"
+  },
+  "releasedAt": "2014-02-24T00:00:00.000Z",
+  "finishedAt": "2014-05-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9547/original.jpg",
+  "categories": [
+    "kids",
+    "motorsport"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9547",
+    "anilist/anime": "102371",
+    "aozora": "6q4CF1INfN",
+    "myanimelist/anime": "27459"
+  }
+}

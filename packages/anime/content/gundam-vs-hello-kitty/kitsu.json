@@ -1,0 +1,41 @@
+{
+  "slug": "gundam-vs-hello-kitty",
+  "synopsis": "An original story about Gundam and Hello Kitty meeting in space and getting to know each other. ",
+  "title": {
+    "en": "Gundam vs Hello Kitty Project",
+    "jp": "Gundam vs Hello Kitty"
+  },
+  "releasedAt": "2019-03-29T00:00:00.000Z",
+  "finishedAt": "2020-01-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42495/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42495/original.png",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "kids",
+    "mecha",
+    "military",
+    "science fiction",
+    "space",
+    "space battles",
+    "space travel",
+    "war"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=UZxZtc_Sdzw",
+    "https://www.youtube.com/watch?v=fyp40FVEoPM",
+    "https://www.youtube.com/watch?v=oswjHj6V_xs",
+    "https://www.youtube.com/watch?v=rr8to7eqn6c",
+    "https://www.youtube.com/watch?v=sQ94LXhZK2U"
+  ],
+  "relations": {
+    "kitsu": "42495",
+    "anidb": "14812",
+    "anilist/anime": "110419",
+    "myanimelist/anime": "39674"
+  }
+}

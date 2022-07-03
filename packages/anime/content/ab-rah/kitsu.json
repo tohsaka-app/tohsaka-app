@@ -1,0 +1,22 @@
+{
+  "slug": "ab-rah",
+  "synopsis": "Music video directed by Kouhei Yoshino for the song Ab-rah by Japanese instrumental band NETWORKS that was included on their album \"White Sky\". The video features stop motion animation using magnetic drawing toys similar to the \"Magna Doodle\".\n",
+  "title": {
+    "jp": "Ab-rah"
+  },
+  "releasedAt": "2013-11-03T00:00:00.000Z",
+  "finishedAt": "2013-11-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43095/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43095",
+    "anilist/anime": "113353",
+    "myanimelist/anime": "39997"
+  }
+}

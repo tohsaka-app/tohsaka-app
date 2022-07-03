@@ -1,0 +1,24 @@
+{
+  "slug": "goodbye-donglees",
+  "synopsis": "The film depicts the miracle-like encounter of the \"DonGlees\" boys. At the end of an adventure with friends that began during an unusual summer vacation, the boys arrive in Iceland—the land of flames and ice. What \"treasure\" have the boys found by looking at themselves and transcending the world...!",
+  "title": {
+    "jp": "Goodbye, DonGlees!"
+  },
+  "releasedAt": "2022-02-18T00:00:00.000Z",
+  "finishedAt": "2022-02-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44858/poster_image/a397e289b6200147bc8b99d4c7561dc4.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44858/original.png",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44858",
+    "anilist/anime": "136302",
+    "myanimelist/anime": "49345"
+  }
+}

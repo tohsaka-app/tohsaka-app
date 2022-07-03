@@ -1,0 +1,35 @@
+{
+  "slug": "crayon-shin-chan-movie-01-action-kamen-vs-haigure-maou",
+  "synopsis": "By finding a rare Action Kamen card, Shinnosuke Nohara and his family end up being chosen to go to a parallel world and help foil an alien invasion that is occurring over there. \n(Source: ANN) ",
+  "title": {
+    "jp": "Crayon Shin-chan Movie 01: Action Kamen vs. Haigure Maou"
+  },
+  "releasedAt": "1993-07-24T00:00:00.000Z",
+  "finishedAt": "1993-07-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5307/original.jpg",
+  "categories": [
+    "alternative present",
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "japan",
+    "kids",
+    "parallel universe",
+    "present",
+    "school life",
+    "slice of life",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5307",
+    "anidb": "4624",
+    "anilist/anime": "8358",
+    "aozora": "lwlF76LKRQ",
+    "myanimelist/anime": "8358"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "majin-bone",
+  "synopsis": "Anime adaptation of Majin Bone, a digital card game project.\nMajin, the creator of the Universe, has been resurrected in the present day. Shougo Ryuujin, an ordinary high school student who transforms into the Bone Fighter Dragonbone with the Bone Card in order to save Earth. Together, with the other White Bone warriors take a stand against the Dark Bone, a foe that has appeared from darkness to devastate Earth. However, \"could the true enemy be ourselves?\"\n(Source: ANN)",
+  "title": {
+    "jp": "Majin Bone"
+  },
+  "releasedAt": "2014-04-01T00:00:00.000Z",
+  "finishedAt": "2015-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8283/original.jpg",
+  "categories": [
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/majin-bone"
+  ],
+  "relations": {
+    "kitsu": "8283",
+    "anidb": "10354",
+    "anilist/anime": "20621",
+    "aozora": "S70gnQt2Wp",
+    "myanimelist/anime": "21835",
+    "thetvdb": "278269/1",
+    "thetvdb/series": "278269",
+    "trakt": "76194"
+  }
+}

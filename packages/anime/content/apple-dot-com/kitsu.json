@@ -1,0 +1,20 @@
+{
+  "slug": "apple-dot-com",
+  "synopsis": "",
+  "title": {
+    "jp": "Apple dot com"
+  },
+  "releasedAt": "2017-07-01T00:00:00.000Z",
+  "finishedAt": "2017-07-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42680/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42680"
+  }
+}

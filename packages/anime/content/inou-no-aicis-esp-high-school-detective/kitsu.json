@@ -1,0 +1,28 @@
+{
+  "slug": "inou-no-aicis-esp-high-school-detective",
+  "synopsis": "The anime is set in the fictional Geso ward in Tokyo, a school city where an app called \"AICis\" is becoming popular. Those who get the app are given supernatural powers, which they use to pursue their own selfish desires, leading to many occurrences of violence and other incidents. The story focuses on a group of detectives who solve cases related to power wielders.\n\n(Source: ANN)",
+  "title": {
+    "en": "AICis the Supernatural",
+    "jp": "Inou no AICis: ESP & High School Detective"
+  },
+  "releasedAt": "2021-02-13T00:00:00.000Z",
+  "finishedAt": "2021-06-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44100/original.jpg",
+  "categories": [
+    "detective",
+    "mystery",
+    "school life",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44100",
+    "anidb": "16046",
+    "anilist/anime": "130296",
+    "myanimelist/anime": "47537"
+  }
+}

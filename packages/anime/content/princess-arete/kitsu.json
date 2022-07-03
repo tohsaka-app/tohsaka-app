@@ -1,0 +1,28 @@
+{
+  "slug": "princess-arete",
+  "synopsis": "Confined in the castle tower by her father, princess Arete spends her days watching the world outside her window. Sometimes she seeks out to watch the common people at work. The knights of the kingdom compete for the right to marry her and rule the land by competing to see who can find powerful magic objects made by a long dead race of sorcerers. Arete wants none of this. She longs to meet the common people and travel to exotic lands she has only seen in the books she keeps hidden under her bed. One day the sorcerer Boax arrives in a fantastic flying machine and offers to take Arete as his wife and transform her into a proper princess.\n(Source: ANN)",
+  "title": {
+    "en": "Princess Arete",
+    "jp": "Arete Hime"
+  },
+  "releasedAt": "2001-07-21T00:00:00.000Z",
+  "finishedAt": "2001-07-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/918/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/918/original.jpg",
+  "categories": [
+    "fantasy",
+    "fantasy world",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "918",
+    "anidb": "1190",
+    "anilist/anime": "1028",
+    "aozora": "NIjDC1ie6m",
+    "myanimelist/anime": "1028"
+  }
+}

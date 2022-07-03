@@ -1,0 +1,32 @@
+{
+  "slug": "monster-musume-no-oishasan",
+  "synopsis": "In the town of Lindworm where monsters and humans coexist, Dr. Glenn runs an exemplary medical clinic for monster girls with his lamia assistant, Sapphee. Whether receiving a marriage proposal by a centaur injured in battle, palpating the injury of a mermaid, or suturing the delicate wounds of a flesh golem, Dr. Glenn performs his job with grace and confidence. But when an unsavory character seeks to steal a harpy egg, how will the unflappable Dr. Glenn respond...?(Source: Seven Seas Entertainment)",
+  "title": {
+    "jp": "Monster Musume no Oisha-san"
+  },
+  "releasedAt": "2020-07-04T00:00:00.000Z",
+  "finishedAt": "2020-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42724/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42724/original.png",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "fantasy world",
+    "harem",
+    "juujin",
+    "magic",
+    "romance"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/monster-girl-doctor"
+  ],
+  "relations": {
+    "kitsu": "42724",
+    "anilist/anime": "113286",
+    "myanimelist/anime": "40708"
+  }
+}

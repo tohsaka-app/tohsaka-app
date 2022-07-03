@@ -1,0 +1,32 @@
+{
+  "slug": "pokemon-evolutions",
+  "synopsis": "Get ready to battle! Explore the Pokemon world! An all-new web anime series recounting the timeless stories and events from the mainline Pokemon games.",
+  "title": {
+    "en": "Pokémon Evolutions",
+    "jp": "Pokémon Evolutions"
+  },
+  "releasedAt": "2021-09-09T00:00:00.000Z",
+  "finishedAt": "2021-12-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45055/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45055/cover_image/5838ba65c999e3553e3434c286b232d7.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [
+    "https://www.youtube.com/playlist?list=PLQWzKIaERirzFiThixbPIt7387B8GRKKI"
+  ],
+  "relations": {
+    "kitsu": "45055",
+    "anidb": "16599",
+    "anilist/anime": "138699",
+    "myanimelist/anime": "49730"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "yao-shen-ji-2nd-season-special",
+  "synopsis": "",
+  "title": {
+    "jp": "Yao Shen Ji 2nd Season"
+  },
+  "releasedAt": "2018-01-06T00:00:00.000Z",
+  "finishedAt": "2018-05-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41742/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41742",
+    "anilist/anime": "101917",
+    "myanimelist/anime": "37164"
+  }
+}

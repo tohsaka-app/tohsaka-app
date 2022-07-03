@@ -1,0 +1,24 @@
+{
+  "slug": "Tonikaku-Kawaii-Seifuku",
+  "synopsis": "A new episode of Tonikaku Kawaii announced alongside the second season.",
+  "title": {
+    "en": "TONIKAWA: Over The Moon For You - Uniform",
+    "jp": "Tonikaku Kawaii: Seifuku"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45455/poster_image/21a05b71672c4a81b172fbbd26b929e3.png",
+  "categories": [
+    "comedy",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45455",
+    "anilist/anime": "141212"
+  }
+}

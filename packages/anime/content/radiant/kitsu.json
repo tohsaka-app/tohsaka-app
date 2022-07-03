@@ -1,0 +1,32 @@
+{
+  "slug": "radiant",
+  "synopsis": "Seth dreams of being a great sorcerer. He wants to be powerful and defeat the Némésis, monsters that come down from the sky. But his eagerness constantly gets him into trouble. He can’t seem to avoid angering the villagers and even his guardian, Alma. One day, an enormous Némésis really attacks the village! Determined to save the world, Seth embarks on a journey in search for the “Radiant,” the legendary lair of the Némésis. Making new friends, fighting tough enemies, and confronting hardships, Seth’s adventure begins!\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Radiant",
+    "jp": "Radiant"
+  },
+  "releasedAt": "2018-10-06T00:00:00.000Z",
+  "finishedAt": "2019-02-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41099/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41099/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "magic"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/radiant",
+    "https://www.funimation.com/shows/radiant/"
+  ],
+  "relations": {
+    "kitsu": "41099",
+    "anidb": "a13767",
+    "anilist/anime": "101024",
+    "myanimelist/anime": "37202"
+  }
+}

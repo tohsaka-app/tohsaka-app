@@ -1,0 +1,39 @@
+{
+  "slug": "berserk-2016",
+  "synopsis": "Now branded for death and destined to be hunted by demons until the day he dies, Guts embarks on a journey to defy such a gruesome fate, as waves of beasts relentlessly pursue him. Steeling his resolve, he takes up the monstrous blade Dragonslayer and vows to exact vengeance on the one responsible, hunting down the very man he once looked up to and considered a friend.\n\nAlong the way, he encounters some unlikely allies, such as a small elf named Puck, and Isidro, a young thief looking to learn swordsmanship from the former mercenary. As the ragtag group slowly comes together after having decided to join Guts in his quest, they will face incredible danger unlike anything they have ever experienced before.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Berserk (2016)",
+    "jp": "Berserk"
+  },
+  "releasedAt": "2016-07-01T00:00:00.000Z",
+  "finishedAt": "2016-09-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11655/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11655/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "dark fantasy",
+    "demon",
+    "drama",
+    "elf",
+    "fantasy",
+    "friendship",
+    "horror",
+    "military",
+    "romance",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11655",
+    "anidb": "11851",
+    "anilist/anime": "21560",
+    "aozora": "PnTfus1bOv",
+    "myanimelist/anime": "32379",
+    "thetvdb": "307111",
+    "trakt": "105346"
+  }
+}

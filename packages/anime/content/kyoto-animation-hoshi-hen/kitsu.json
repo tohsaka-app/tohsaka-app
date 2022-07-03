@@ -1,0 +1,25 @@
+{
+  "slug": "kyoto-animation-hoshi-hen",
+  "synopsis": "Kyoto Animation commercial.",
+  "title": {
+    "en": "Star",
+    "jp": "Kyoto Animation: Hoshi-hen"
+  },
+  "releasedAt": "2011-08-19T00:00:00.000Z",
+  "finishedAt": "2011-08-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6937/original.png",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6937",
+    "anidb": "8592",
+    "anilist/anime": "13309",
+    "aozora": "YTybu83M7W",
+    "myanimelist/anime": "13309"
+  }
+}

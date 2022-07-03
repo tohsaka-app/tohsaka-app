@@ -1,0 +1,25 @@
+{
+  "slug": "haruka",
+  "synopsis": "Music video animated by Kanae Izumi for the song Haruka by YOASOBI.",
+  "title": {
+    "en": "Haruka",
+    "jp": "Haruka"
+  },
+  "releasedAt": "2020-12-18T00:00:00.000Z",
+  "finishedAt": "2020-12-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44699/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/vd3IlOjSUGQ"
+  ],
+  "relations": {
+    "kitsu": "44699",
+    "anilist/anime": "127402",
+    "myanimelist/anime": "49104"
+  }
+}

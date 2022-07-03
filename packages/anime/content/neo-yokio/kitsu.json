@@ -1,0 +1,25 @@
+{
+  "slug": "neo-yokio",
+  "synopsis": "Joined by his faithful mecha-manservant, Kaz Kaan pursues love, fashion and supernatural forces amid Neo Yokio's sinister high society.",
+  "title": {},
+  "releasedAt": "2017-09-22T00:00:00.000Z",
+  "finishedAt": "2017-09-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13781/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13781/original.png",
+  "categories": [
+    "action",
+    "demon",
+    "future",
+    "robot",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80152350"
+  ],
+  "relations": {
+    "kitsu": "13781"
+  }
+}

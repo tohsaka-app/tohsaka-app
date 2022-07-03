@@ -1,0 +1,27 @@
+{
+  "slug": "healer-girl",
+  "synopsis": "The anime depicts the world of \"Healer Girls\" — high school girls who cure people with singing.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Healer Girl",
+    "jp": "Healer Girl"
+  },
+  "releasedAt": "2022-04-04T00:00:00.000Z",
+  "finishedAt": "2022-06-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44494/poster_image/e47b2e82e693b7afee6de3527a27f0c1.jpg",
+  "categories": [
+    "music",
+    "supernatural"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GXJHM37WP/healer-girl"
+  ],
+  "relations": {
+    "kitsu": "44494",
+    "anidb": "16286",
+    "anilist/anime": "133412",
+    "myanimelist/anime": "48857"
+  }
+}

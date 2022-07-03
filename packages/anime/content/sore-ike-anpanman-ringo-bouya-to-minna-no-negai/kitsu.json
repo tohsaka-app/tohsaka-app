@@ -1,0 +1,27 @@
+{
+  "slug": "sore-ike-anpanman-ringo-bouya-to-minna-no-negai",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Ringo Boy to Minna no Negai"
+  },
+  "releasedAt": "2014-07-05T00:00:00.000Z",
+  "finishedAt": "2014-07-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8554/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8554",
+    "anidb": "10581",
+    "anilist/anime": "119784",
+    "aozora": "9V0jyTZvu3",
+    "myanimelist/anime": "23617"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "steins-gate-fuka-ryouiki-no-deja-vu",
+  "synopsis": "After a year in America, Kurisu Makise returns to Akihabara and reunites with Rintarou Okabe. However, their reunion is cut short when Okabe begins to experience recurring flashes of other timelines as the consequences of his time traveling start to manifest. These side effects eventually culminate in Okabe suddenly vanishing from the world, and only the startled Kurisu has any memory of his existence.\nIn the midst of despair, Kurisu is faced with a truly arduous choice that will test both her duty as a scientist and her loyalty as a friend: follow Okabe's advice and stay away from traveling through time to avoid the potential consequences it may have on the world lines, or ignore it to rescue the person that she cherishes most. Regardless of her decision, the path she chooses is one that will affect the past, the present, and the future.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Steins;Gate: The Movie − Load Region of Déjà Vu",
+    "jp": "Steins;Gate Movie: Fuka Ryouiki no Déjà vu"
+  },
+  "releasedAt": "2013-04-20T00:00:00.000Z",
+  "finishedAt": "2013-04-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6539/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6539/original.jpg",
+  "categories": [
+    "japan",
+    "plot continuity",
+    "present",
+    "romance",
+    "science fiction",
+    "thriller",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6539",
+    "anidb": "8655",
+    "anilist/anime": "11577",
+    "aozora": "kcggIHaYbP",
+    "myanimelist/anime": "11577",
+    "trakt": "42285"
+  }
+}

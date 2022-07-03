@@ -1,0 +1,23 @@
+{
+  "slug": "hachimitsu-suicide-machine",
+  "synopsis": "One of the four short movies that showed in Animenotane 2021.",
+  "title": {
+    "en": "Hachimitsu Suicide Machine",
+    "jp": "Hachimitsu Suicide Machine"
+  },
+  "releasedAt": "2021-03-26T00:00:00.000Z",
+  "finishedAt": "2021-03-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44917/original.jpg",
+  "categories": [
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44917",
+    "anilist/anime": "136138",
+    "myanimelist/anime": "48576"
+  }
+}

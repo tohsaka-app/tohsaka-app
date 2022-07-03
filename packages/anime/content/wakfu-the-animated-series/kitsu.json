@@ -1,0 +1,32 @@
+{
+  "slug": "wakfu-the-animated-series",
+  "synopsis": "A boy with the power to create portals, an ignoramus warrior, an old treasure-hunter, and an archer and her princess undertake a journey to defeat a being that seeks to control time itself.\n\n(Source: Adapted from TheTVDB)",
+  "title": {
+    "en": "Wakfu"
+  },
+  "releasedAt": "2008-10-30T00:00:00.000Z",
+  "finishedAt": "2010-06-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8299/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8299/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "magic"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80003196"
+  ],
+  "relations": {
+    "kitsu": "8299",
+    "thetvdb": "94121/1",
+    "thetvdb/season": "64871",
+    "thetvdb/series": "94121"
+  }
+}

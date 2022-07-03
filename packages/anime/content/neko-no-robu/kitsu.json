@@ -1,0 +1,21 @@
+{
+  "slug": "neko-no-robu",
+  "synopsis": "The series stars a cat with a lack of energy who speaks while lying down, yet has a thorough personality.  He thinks various things and has fun watching humans.",
+  "title": {
+    "jp": "Neko no Robu"
+  },
+  "releasedAt": "2017-05-06T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40766/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40766",
+    "anilist/anime": "121672",
+    "aozora": "0sB18AYNhj",
+    "myanimelist/anime": "35478"
+  }
+}

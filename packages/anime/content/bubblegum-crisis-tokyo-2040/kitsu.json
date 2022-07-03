@@ -1,0 +1,43 @@
+{
+  "slug": "bubblegum-crisis-tokyo-2040",
+  "synopsis": "After a mysterious eathquake levels Tokyo, Genom becomes a powerful influence providing their artificial organic lifeforms called Boomers to rebuild and act as a labor class to humanity. However, some of them ocasionally run amok, and even the specially created AD Police are at a loss to stop them. Lina Yamazaki travels to Tokyo for employment but also hopes to join a vigilante force called the Knight Sabers, who pilot powered suits to destroy these rogue Boomers.\n\n(Source: ANN)",
+  "title": {
+    "en": "Bubblegum Crisis: Tokyo 2040",
+    "jp": "Bubblegum Crisis Tokyo 2040"
+  },
+  "releasedAt": "1998-10-08T00:00:00.000Z",
+  "finishedAt": "1999-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/525/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "disaster",
+    "earth",
+    "japan",
+    "mecha",
+    "plot continuity",
+    "power suit",
+    "science fiction",
+    "special squads",
+    "tokyo"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/bubblegum-crisis-tokyo-2040",
+    "https://www.funimation.com/shows/bubblegum-crisis-tokyo-2040/"
+  ],
+  "relations": {
+    "kitsu": "525",
+    "anidb": "345",
+    "anilist/anime": "568",
+    "aozora": "rhlo5JjeGv",
+    "hulu": "50003892",
+    "myanimelist/anime": "568",
+    "thetvdb": "76538/1",
+    "thetvdb/series": "76538",
+    "trakt": "9494"
+  }
+}

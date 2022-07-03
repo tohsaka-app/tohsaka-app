@@ -1,0 +1,33 @@
+{
+  "slug": "teki-wa-kaizoku-neko-tachi-no-kyouen",
+  "synopsis": "Apulo (a cat-like space alien with the ability to lock a human's emotions) and Latell work for the Division of Space Piracy (or DSP for short). The two of them are extremely destructive in their solving of DSP cases. They are attempting to stop Youmei the space pirate from exploiting Computer Aided Thinking for his own nefarious plans.",
+  "title": {
+    "en": "The Enemy's the Pirates!: The Cats' Banquet",
+    "jp": "Teki wa Kaizoku: Neko-tachi no Kyouen"
+  },
+  "releasedAt": "1989-12-26T00:00:00.000Z",
+  "finishedAt": "1989-12-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2442/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "anthropomorphism",
+    "comedy",
+    "crime",
+    "future",
+    "science fiction",
+    "slapstick",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2442",
+    "anidb": "2150",
+    "anilist/anime": "2679",
+    "aozora": "dQDkFSO8F2",
+    "myanimelist/anime": "2679"
+  }
+}

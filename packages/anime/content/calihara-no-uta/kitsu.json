@@ -1,0 +1,21 @@
+{
+  "slug": "calihara-no-uta",
+  "synopsis": "There is currently no synopsis for this title.",
+  "title": {
+    "jp": "Calihara no Uta"
+  },
+  "releasedAt": "2014-05-10T00:00:00.000Z",
+  "finishedAt": "2014-05-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40634/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40634",
+    "anilist/anime": "104190",
+    "aozora": "0e6qln8bQ5",
+    "myanimelist/anime": "34908"
+  }
+}

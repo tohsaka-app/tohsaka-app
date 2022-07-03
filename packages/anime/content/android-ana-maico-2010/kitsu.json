@@ -1,0 +1,35 @@
+{
+  "slug": "android-ana-maico-2010",
+  "synopsis": "In the year 2010, the Japanese radio industry is in decline. To reverse their flagging ratings, a station staffed with perennial losers makes a daring gamble: to hire the industry's first android on-air host. Maico is cute, but it will take more than novelty to win over the fickle audience -- especially with a crew as inept as this one. ",
+  "title": {
+    "en": "Android Announcer Maico 2010",
+    "jp": "Android Ana Maico 2010"
+  },
+  "releasedAt": "1998-04-06T00:00:00.000Z",
+  "finishedAt": "1998-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/717/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/717/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "science fiction",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "717",
+    "anidb": "911",
+    "anilist/anime": "810",
+    "aozora": "EVxhUtHy3M",
+    "myanimelist/anime": "810",
+    "thetvdb": "80076/1",
+    "thetvdb/series": "80076",
+    "trakt": "66141"
+  }
+}

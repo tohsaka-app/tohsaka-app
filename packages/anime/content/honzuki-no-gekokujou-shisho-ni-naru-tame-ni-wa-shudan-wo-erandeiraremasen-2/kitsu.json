@@ -1,0 +1,33 @@
+{
+  "slug": "honzuki-no-gekokujou-shisho-ni-naru-tame-ni-wa-shudan-wo-erandeiraremasen-2",
+  "synopsis": "Second season of Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen.",
+  "title": {
+    "en": "Ascendance of a Bookworm 2",
+    "jp": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2"
+  },
+  "releasedAt": "2020-04-05T00:00:00.000Z",
+  "finishedAt": "2020-06-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42838/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42838/original.png",
+  "categories": [
+    "comedy",
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "magic",
+    "religion",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/ascendance-of-a-bookworm"
+  ],
+  "relations": {
+    "kitsu": "42838",
+    "anilist/anime": "113693",
+    "myanimelist/anime": "40815"
+  }
+}

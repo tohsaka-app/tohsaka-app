@@ -1,0 +1,24 @@
+{
+  "slug": "saitama-bousou-saizensen-flag-shinimonogurui-no-seishun",
+  "synopsis": "Based on the manga Flag! by Hotta Akio, which was serialized in Young King from 1992 to 1995.\n(Source: AniDB)",
+  "title": {
+    "jp": "Saitama Bousou Saizensen Flag! Shinimonogurui no Seishun!!"
+  },
+  "releasedAt": "1994-12-01T00:00:00.000Z",
+  "finishedAt": "1994-12-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9562/original.jpg",
+  "categories": [
+    "delinquent",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9562",
+    "anidb": "9161",
+    "aozora": "tFXMNVuIHh",
+    "myanimelist/anime": "23593"
+  }
+}

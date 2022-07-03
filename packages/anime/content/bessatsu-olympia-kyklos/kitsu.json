@@ -1,0 +1,34 @@
+{
+  "slug": "bessatsu-olympia-kyklos",
+  "synopsis": "Demetrios, a timid and kind vase painter in Ancient Greece who dislikes sports and competitions, is one day forced to come up with a game to compete with the mayor of the neighboring town in order to save his village. While hiding inside a large vase outside his workshop, lightning strikes the vase Demetrios is in, transferring him to Tokyo, Japan, during the 1964 Summer Olympics. (Source: MangaUpdates)",
+  "title": {
+    "jp": "Bessatsu Olympia Kyklos"
+  },
+  "releasedAt": "2020-04-20T00:00:00.000Z",
+  "finishedAt": "2020-11-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43069/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43069/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "japan",
+    "parody",
+    "past",
+    "seinen",
+    "slice of life",
+    "sports",
+    "time travel"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/extra-olympia-kyklos"
+  ],
+  "relations": {
+    "kitsu": "43069",
+    "anidb": "15390",
+    "anilist/anime": "115186",
+    "myanimelist/anime": "41266"
+  }
+}

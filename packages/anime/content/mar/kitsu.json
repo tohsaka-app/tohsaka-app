@@ -1,0 +1,35 @@
+{
+  "slug": "mar",
+  "synopsis": "Dreaming of a magical world every night, the young Toramizu Ginta yearns to be able to go there. With only his friend Koyuki believing in his dreams, Ginta remains positive despite the slander he receives from others over his dreams. But his wishes are answered, as one day a large door appears in front of Ginta, summoning him to the land of MAR Heaven. In this land, the weapons known as ARMS exist. While initially Ginta greatly enjoyed the discovery of this magical world, he soon learns of the terrible wars that have once plagued MAR Heaven and the upcoming war that may soon appear.",
+  "title": {
+    "jp": "MÄR"
+  },
+  "releasedAt": "2005-04-03T00:00:00.000Z",
+  "finishedAt": "2007-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/663/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "parallel universe",
+    "super power"
+  ],
+  "externals": [
+    "http://www.hulu.com/mar"
+  ],
+  "relations": {
+    "kitsu": "663",
+    "anidb": "2855",
+    "anilist/anime": "738",
+    "aozora": "VQ8S8ecA6p",
+    "hulu": "50002376",
+    "myanimelist/anime": "738",
+    "thetvdb": "80830/1",
+    "thetvdb/series": "80830",
+    "trakt": "64025"
+  }
+}

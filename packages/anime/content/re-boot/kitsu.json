@@ -1,0 +1,27 @@
+{
+  "slug": "re-boot",
+  "synopsis": "Re Boot is a short movie involving the Vocaloids Hatsune Miku, Megurine Luka and their childhood friend Samune Zimi.",
+  "title": {
+    "jp": "Re Boot"
+  },
+  "releasedAt": "2012-12-13T00:00:00.000Z",
+  "finishedAt": "2012-12-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8870/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8870/original.jpg",
+  "categories": [
+    "drama",
+    "music",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8870",
+    "anilist/anime": "102607",
+    "aozora": "OiXf3YxjOA",
+    "myanimelist/anime": "23043"
+  }
+}

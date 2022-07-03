@@ -1,0 +1,24 @@
+{
+  "slug": "little-charo-touhoku-hen",
+  "synopsis": "Charo venture around Tono, Iwate, a city in Japan's Tohoku (Northeast) region, attempting to find the Eight-Starred Note in order to prevent the reappearance of the Tenaga-Ashinaga monster of local legend.\n(Source: ANN)",
+  "title": {
+    "jp": "Little Charo: Touhoku-hen"
+  },
+  "releasedAt": "2012-04-07T00:00:00.000Z",
+  "finishedAt": "2012-06-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6973/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6973",
+    "anidb": "9089",
+    "anilist/anime": "13465",
+    "aozora": "gng0e1g6ls",
+    "myanimelist/anime": "13465"
+  }
+}

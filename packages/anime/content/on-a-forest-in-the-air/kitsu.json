@@ -1,0 +1,23 @@
+{
+  "slug": "on-a-forest-in-the-air",
+  "synopsis": "A silent short animation by Masanobu Hiraoka.",
+  "title": {
+    "en": "On a Forest, in the Air",
+    "jp": "on a forest, in the air"
+  },
+  "releasedAt": "2014-08-13T00:00:00.000Z",
+  "finishedAt": "2014-08-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45084/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45084",
+    "anilist/anime": "108244",
+    "myanimelist/anime": "39180"
+  }
+}

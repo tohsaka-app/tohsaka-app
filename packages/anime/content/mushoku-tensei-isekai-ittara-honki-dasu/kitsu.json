@@ -1,0 +1,33 @@
+{
+  "slug": "mushoku-tensei-isekai-ittara-honki-dasu",
+  "synopsis": "When a 34-year-old underachiever gets run over by a bus, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Mushoku Tensei: Jobless Reincarnation",
+    "jp": "Mushoku Tensei: Isekai Ittara Honki Dasu"
+  },
+  "releasedAt": "2021-01-10T00:00:00.000Z",
+  "finishedAt": "2021-03-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42323/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42323/original.jpg",
+  "categories": [
+    "drama",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "isekai",
+    "magic"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/mushoku-tensei-jobless-reincarnation",
+    "https://www.funimation.com/shows/mushoku-tensei-jobless-reincarnation/"
+  ],
+  "relations": {
+    "kitsu": "42323",
+    "anidb": "14758",
+    "anilist/anime": "108465",
+    "myanimelist/anime": "39535"
+  }
+}

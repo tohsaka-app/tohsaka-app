@@ -1,0 +1,23 @@
+{
+  "slug": "nenga-no-kizuna",
+  "synopsis": "The video's story comes from greeting card website Nenga Aisatsujo's 6th annual contest, which asks participants to send in their heart-warming New Year's card memories. Sachiyo Okuno wrote the story and won the Japanese Postal Service Award, a new award this year.\n(Source: ANN)",
+  "title": {
+    "jp": "Nenga no Kizuna"
+  },
+  "releasedAt": "2014-11-24T00:00:00.000Z",
+  "finishedAt": "2014-11-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10128/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10128",
+    "anilist/anime": "98135",
+    "aozora": "QzSrW5m0BL",
+    "myanimelist/anime": "28665"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "be-bop-kaizokuban",
+  "synopsis": "Based on a parody manga of Be-Bop Highschool.",
+  "title": {
+    "jp": "Be-Bop Kaizokuban"
+  },
+  "releasedAt": "1991-03-22T00:00:00.000Z",
+  "finishedAt": "1993-06-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8964/original.jpg",
+  "categories": [
+    "comedy",
+    "delinquent",
+    "parody",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8964",
+    "anidb": "7701",
+    "anilist/anime": "113180",
+    "aozora": "m7zn9WkJFW",
+    "myanimelist/anime": "24087"
+  }
+}

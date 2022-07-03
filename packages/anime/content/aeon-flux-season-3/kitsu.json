@@ -1,0 +1,28 @@
+{
+  "slug": "aeon-flux-season-3",
+  "synopsis": "Aeon Flux is a mysterious and amoral secret agent from the country of Monica. Her motives or background are left unexplained, as are those of her antagonist/love, Trevor Goodchild. On her missions, she deals swift, bloody \"justice\" to all that oppose her.",
+  "title": {
+    "en": "",
+    "jp": "Aeon Flux Season 3"
+  },
+  "releasedAt": "1995-08-08T00:00:00.000Z",
+  "finishedAt": "1995-10-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7942/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "cops",
+    "mystery",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7942",
+    "thetvdb": "78660/3",
+    "thetvdb/season": "15410",
+    "thetvdb/series": "78660"
+  }
+}

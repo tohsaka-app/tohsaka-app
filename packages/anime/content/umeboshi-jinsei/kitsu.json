@@ -1,0 +1,22 @@
+{
+  "slug": "umeboshi-jinsei",
+  "synopsis": "A paper cut-out style stop motion music video adaptation of a classic Meiji era poem in Japanese elementary school textbooks.",
+  "title": {
+    "jp": "Umeboshi Jinsei"
+  },
+  "releasedAt": "2011-12-01T00:00:00.000Z",
+  "finishedAt": "2011-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41058/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41058",
+    "myanimelist/anime": "37462"
+  }
+}

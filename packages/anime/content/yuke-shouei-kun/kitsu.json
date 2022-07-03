@@ -1,0 +1,24 @@
+{
+  "slug": "yuke-shouei-kun",
+  "synopsis": "The series is inspired by the Super Sentai actor Shouei (照英). Shouei is best known for his role as Gouki/GingaBlue in Seijuu Sentai Gingaman, a role he has reprised for other Super Sentai series and films.\n(Source: ANN)",
+  "title": {
+    "jp": "Yuke! Shouei-kun"
+  },
+  "releasedAt": "2012-02-10T00:00:00.000Z",
+  "finishedAt": "2012-03-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7290/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7290",
+    "anidb": "8980",
+    "anilist/anime": "15657",
+    "aozora": "M9rPmKhG4d",
+    "myanimelist/anime": "15657"
+  }
+}

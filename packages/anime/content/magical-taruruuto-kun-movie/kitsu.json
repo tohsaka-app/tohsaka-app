@@ -1,0 +1,29 @@
+{
+  "slug": "magical-taruruuto-kun-movie",
+  "synopsis": "First movie of Magical Taruruuto-kun",
+  "title": {
+    "jp": "Magical★Taruruuto-kun Movie"
+  },
+  "releasedAt": "1991-03-09T00:00:00.000Z",
+  "finishedAt": "1991-03-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9423/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "magic",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9423",
+    "anidb": "2085",
+    "anilist/anime": "105193",
+    "aozora": "ttfhPfMcP2",
+    "myanimelist/anime": "22827"
+  }
+}

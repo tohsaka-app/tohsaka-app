@@ -1,0 +1,29 @@
+{
+  "slug": "sora-to-umi-no-aida",
+  "synopsis": "Fish suddenly disappeared on Earth. The Ministry of Fisheries has initiated the experimental program of creating ‘Aquatic Orbs’, farming fish in encapsulated bodies of water in space. Six girls are selected as candidates to become fishers who will go into space to catch new species of fish. From Onomichi City to the cosmos, this is the story of aspiring girls aiming to be Space Fishers!\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Between the Sky and Sea",
+    "jp": "Sora to Umi no Aida"
+  },
+  "releasedAt": "2018-10-04T00:00:00.000Z",
+  "finishedAt": "2018-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40856/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "science fiction",
+    "space"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/between-the-sky-and-sea"
+  ],
+  "relations": {
+    "kitsu": "40856",
+    "anilist/anime": "99639",
+    "aozora": "1hMehT6ZxC",
+    "myanimelist/anime": "36000"
+  }
+}

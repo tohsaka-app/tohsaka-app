@@ -1,0 +1,24 @@
+{
+  "slug": "henna-ie",
+  "synopsis": "Music video featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Henna Ie!"
+  },
+  "releasedAt": "1983-02-01T00:00:00.000Z",
+  "finishedAt": "1983-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10269/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10269",
+    "anilist/anime": "103976",
+    "aozora": "strvFlaSFM",
+    "myanimelist/anime": "29181"
+  }
+}

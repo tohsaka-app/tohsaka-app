@@ -1,0 +1,25 @@
+{
+  "slug": "helen-keller-monogatari-ai-to-hikari-no-tenshi",
+  "synopsis": "Based on Hellen Keller's (1880-1968) autobiography.",
+  "title": {
+    "en": "The Story of Hellen Keller: Angel of Love and Light",
+    "jp": "Helen Keller Monogatari: Ai to Hikari no Tenshi"
+  },
+  "releasedAt": "1981-05-05T00:00:00.000Z",
+  "finishedAt": "1981-05-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4687/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4687",
+    "anidb": "3623",
+    "anilist/anime": "6728",
+    "aozora": "vZfxVimjC3",
+    "myanimelist/anime": "6728"
+  }
+}

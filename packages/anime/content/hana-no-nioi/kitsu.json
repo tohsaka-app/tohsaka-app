@@ -1,0 +1,25 @@
+{
+  "slug": "Hana-no-Nioi",
+  "synopsis": "Music video directed by Toshiaki Hanzaki for the single Hana no Nioi by Mr. Children.",
+  "title": {
+    "en": "The Scent of Flowers",
+    "jp": "Hana no Nioi"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42896/original.jpg",
+  "categories": [
+    "drama",
+    "military",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42896",
+    "anilist/anime": "114550",
+    "myanimelist/anime": "39097"
+  }
+}

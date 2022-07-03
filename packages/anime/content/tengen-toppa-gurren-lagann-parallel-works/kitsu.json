@@ -1,0 +1,31 @@
+{
+  "slug": "tengen-toppa-gurren-lagann-parallel-works",
+  "synopsis": "An anthology of animated shorts featuring characters from Gurren Lagann in alternative worlds. Every clip is animated by a particular animator of GAINAX.\nCreators are Akira Amemiya, Shin Itagaki, Hirokazu Kojima, SUEZEN, Ryouji Masuyama, Hiroyuki Yamaga, Yoh Yoshinari, and Keisuke Watanabe",
+  "title": {
+    "jp": "Tengen Toppa Gurren Lagann: Parallel Works"
+  },
+  "releasedAt": "2008-06-15T00:00:00.000Z",
+  "finishedAt": "2008-09-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3751/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy world",
+    "mecha",
+    "music",
+    "piloted robot",
+    "the arts",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3751",
+    "anidb": "6082",
+    "anilist/anime": "4705",
+    "aozora": "6zoSHcjdYu",
+    "myanimelist/anime": "4705"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "oshiete-galko-chan-ova",
+  "synopsis": "Bundled with fourth manga volume.",
+  "title": {
+    "en": "Please tell me! Galko-chan OVA",
+    "jp": "Oshiete! Galko-chan: Natsuyasumitte Hontou Desu ka?"
+  },
+  "releasedAt": "2017-01-23T00:00:00.000Z",
+  "finishedAt": "2017-01-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/12521/poster_image/4403944b06fb2cf8dfd3a65f8b618618.png",
+  "coverUrl": "https://media.kitsu.io/anime/12521/cover_image/b90748722d69ae8cd1391a9c28689e4a.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12521",
+    "anidb": "12350",
+    "anilist/anime": "87526",
+    "aozora": "KSAXeJlFtB",
+    "myanimelist/anime": "33949"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "hare-tokidoki-buta-237ed5ac-3592-469b-9b50-efa39eb861ec",
+  "synopsis": "Eight year old Noriyasu writes and draws in his diary, discovering later that everything he writes in it comes true, even if involves talking pigs and strange adventures.\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "jp": "Hare Tokidoki Buta"
+  },
+  "releasedAt": "1988-08-23T00:00:00.000Z",
+  "finishedAt": "1988-08-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10752/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GDKHZE4NV/fair-then-partly-piggy"
+  ],
+  "relations": {
+    "kitsu": "10752",
+    "anidb": "8670",
+    "anilist/anime": "107618",
+    "aozora": "72ET64GCeH",
+    "myanimelist/anime": "24877"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "download",
+  "synopsis": "An exciting cyberpunk romp directed by Rintaro with veteran animator Kanada Yoshinori about a genius hacker and a gang of hot-rodders.",
+  "title": {
+    "en": "Download: Devil's Circuit",
+    "jp": "Down Load: Namu Amida Butsu wa Ai no Uta"
+  },
+  "releasedAt": "1992-12-18T00:00:00.000Z",
+  "finishedAt": "1992-12-18T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2825/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "cyberpunk",
+    "psychological",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2825",
+    "anidb": "4394",
+    "anilist/anime": "3152",
+    "aozora": "HYqsBK0EfN",
+    "myanimelist/anime": "3152"
+  }
+}

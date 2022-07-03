@@ -1,0 +1,26 @@
+{
+  "slug": "short-peace-opening",
+  "synopsis": "The opening animation of the compilation movie, Short Peace.",
+  "title": {
+    "jp": "Short Peace Opening"
+  },
+  "releasedAt": "2013-07-20T00:00:00.000Z",
+  "finishedAt": "2013-07-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8215/original.jpg",
+  "categories": [
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/short-peace"
+  ],
+  "relations": {
+    "kitsu": "8215",
+    "anilist/anime": "19573",
+    "aozora": "AnLgxRiMCT",
+    "myanimelist/anime": "19573"
+  }
+}

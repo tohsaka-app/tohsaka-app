@@ -1,0 +1,30 @@
+{
+  "slug": "kidou-shinsengumi-moeyo-ken",
+  "synopsis": "Set in the Meiji era, Kidou Shinsengumi Moeyo Ken tells the story of Kondou Yuuko, Hijikata Toshie and Okita Kaoru. These three are the daughters of former Shinsengumi members and, in the same fashion as their fathers were, they get called upon to protect Japan from its current problems. Much of their work deals with vanquishing the mysterious paranormal phenomena springing up ever more frequently in the Kyoto area and defending the city from any other dangers that may arise. ",
+  "title": {
+    "en": "Moeyo Ken",
+    "jp": "Kidou Shinsengumi Moeyo Ken"
+  },
+  "releasedAt": "2003-11-19T00:00:00.000Z",
+  "finishedAt": "2004-02-18T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/947/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "historical",
+    "samurai",
+    "shinsengumi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "947",
+    "anidb": "1222",
+    "anilist/anime": "1058",
+    "aozora": "YhVB9FFReu",
+    "myanimelist/anime": "1058"
+  }
+}

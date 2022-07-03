@@ -1,0 +1,28 @@
+{
+  "slug": "juusenki-l-gaim-i-pentagona-window-lady-gyabure",
+  "synopsis": "A recap OVA that portrays the first half of the series Heavy Metal L-Gaim. After the credits, there is a short clip animated for the OVA entitled \"Lady Gyabure\", which is intended to be comic relief. ",
+  "title": {
+    "jp": "Juusenki L-Gaim I: Pentagona Window + Lady Gyabure"
+  },
+  "releasedAt": "1986-11-05T00:00:00.000Z",
+  "finishedAt": "1986-11-05T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2363/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2363",
+    "anidb": "523",
+    "anilist/anime": "2599",
+    "aozora": "232UhkInwy",
+    "myanimelist/anime": "2599"
+  }
+}

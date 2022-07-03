@@ -1,0 +1,25 @@
+{
+  "slug": "ugokie-kori-no-tatehiki",
+  "synopsis": "Movie from 1933. Fox spirit turns into a samurai and picks on a racoon spirit. The racoon spirit gets his father and they team up against the fox spirit.",
+  "title": {
+    "jp": "Ugokie Kori no Tatehiki"
+  },
+  "releasedAt": "1933-12-31T00:00:00.000Z",
+  "finishedAt": "1933-12-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3356/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3356",
+    "anidb": "4992",
+    "anilist/anime": "3929",
+    "aozora": "rmjdv8JEDE",
+    "myanimelist/anime": "3929"
+  }
+}

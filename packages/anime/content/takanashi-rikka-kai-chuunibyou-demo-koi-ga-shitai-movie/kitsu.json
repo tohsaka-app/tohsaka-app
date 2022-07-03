@@ -1,0 +1,35 @@
+{
+  "slug": "takanashi-rikka-kai-chuunibyou-demo-koi-ga-shitai-movie",
+  "synopsis": "Summary of the first season of the show, as seen from Rikka's perspective with new elements.",
+  "title": {
+    "en": "Love, Chunibyo & Other Delusions!: Rikka Version",
+    "jp": "Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie"
+  },
+  "releasedAt": "2013-09-14T00:00:00.000Z",
+  "finishedAt": "2013-09-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7773/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7773/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "present",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://vrv.co/watch/GRG5PVGER/Love-Chunibyo-and-Other-Delusions-Rikka-Version-Dubbed-Home-Video",
+    "https://vrv.co/watch/GY5PEJVDY/Love-Chunibyo-and-Other-Delusions-Rikka-Version-Subtitled-Home-Video",
+    "https://www.hidive.com/movies/love-chunibyo-and-other-delusions-rikka-version"
+  ],
+  "relations": {
+    "kitsu": "7773",
+    "anidb": "9919",
+    "anilist/anime": "19021",
+    "aozora": "989S6TFJ7K",
+    "myanimelist/anime": "19021"
+  }
+}

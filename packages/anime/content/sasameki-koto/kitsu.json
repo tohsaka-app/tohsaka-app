@@ -1,0 +1,36 @@
+{
+  "slug": "sasameki-koto",
+  "synopsis": "Murasame Sumika is popular in the high school for her excellence in the marks and sports. However, she has a secret: she is in love with her classmate Kazama Ushio. Ushio also has a liking to the love between girls, but she hasn't noticed Sumika's feelings and has always been refused by other girls.",
+  "title": {
+    "en": "Whispered Words",
+    "jp": "Sasameki Koto"
+  },
+  "releasedAt": "2009-10-08T00:00:00.000Z",
+  "finishedAt": "2009-12-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4473/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "present",
+    "romance",
+    "school life",
+    "shoujo ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4473",
+    "anidb": "6462",
+    "anilist/anime": "6203",
+    "aozora": "g8T3qvZjFF",
+    "myanimelist/anime": "6203",
+    "thetvdb": "117711/1",
+    "thetvdb/series": "117711",
+    "trakt": "42184"
+  }
+}

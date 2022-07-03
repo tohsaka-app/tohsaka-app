@@ -1,0 +1,21 @@
+{
+  "slug": "candy-caries",
+  "synopsis": "A short animation made to promote WIT studio's new stop motion animation studio, with Tomoki Misato.\n\n(Source: Anime-Planet)",
+  "title": {
+    "en": "Candy Caries",
+    "jp": "Candy Caries"
+  },
+  "releasedAt": "2021-03-24T00:00:00.000Z",
+  "finishedAt": "2021-03-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44401/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44401"
+  }
+}

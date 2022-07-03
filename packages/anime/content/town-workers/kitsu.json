@@ -1,0 +1,24 @@
+{
+  "slug": "town-workers",
+  "synopsis": "An omnibus work portraying the lives of youth who have just started to work.\n(Source: Rockwell Eyes)",
+  "title": {
+    "en": "TOWN WORKERS",
+    "jp": "Town Workers"
+  },
+  "releasedAt": "2014-09-18T00:00:00.000Z",
+  "finishedAt": "2014-09-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13106/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13106",
+    "anilist/anime": "119454",
+    "aozora": "hyCwF2oj38",
+    "myanimelist/anime": "34757"
+  }
+}

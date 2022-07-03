@@ -1,0 +1,23 @@
+{
+  "slug": "yume-no-mahou",
+  "synopsis": "Music video for the song Yume no Mahou by Saeko Shuu and Duke Aces that was featured on NHK's Minna no Uta program. The video was animated by Kouji Nanke.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Yume no Mahou"
+  },
+  "releasedAt": "1996-04-04T00:00:00.000Z",
+  "finishedAt": "1996-04-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44772/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44772",
+    "anilist/anime": "116915",
+    "myanimelist/anime": "39911"
+  }
+}

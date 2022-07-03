@@ -1,0 +1,34 @@
+{
+  "slug": "accel-world-infinite-burst",
+  "synopsis": "In 2046, many aspects of life are carried out on a virtual network. No matter how advanced the time becomes, however, bullying never disappears. Haruyuki is one of the bullied students. However, one day he is contacted by Kuroyukihime, the most famous person in the school. \"Wouldn't you like to 'accelerate' and go further ahead, boy?\" Haruyuki is introduced to the \"Accel World\" and decides to fight as Kuroyukihime's knight.\n(Source: Official site)",
+  "title": {
+    "jp": "Accel World: Infinite∞Burst"
+  },
+  "releasedAt": "2016-07-23T00:00:00.000Z",
+  "finishedAt": "2016-07-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11424/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11424/original.png",
+  "categories": [
+    "action",
+    "friendship",
+    "romance",
+    "school life",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/accel-world-infinite-burst"
+  ],
+  "relations": {
+    "kitsu": "11424",
+    "anidb": "11680",
+    "anilist/anime": "21404",
+    "aozora": "EGkwx4BeT6",
+    "myanimelist/anime": "31763",
+    "thetvdb": "257516",
+    "trakt": "42938"
+  }
+}

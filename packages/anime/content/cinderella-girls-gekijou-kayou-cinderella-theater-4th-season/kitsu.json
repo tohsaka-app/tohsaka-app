@@ -1,0 +1,26 @@
+{
+  "slug": "cinderella-girls-gekijou-kayou-cinderella-theater-4th-season",
+  "synopsis": "Bonus segments of Cinderella Girls Gekijou 4th Season streamed on The iDOLM@STER Cinderella Girls Mobage following the television broadcast.",
+  "title": {
+    "en": "THE IDOLM@STER CINDERELLA GIRLS Theater (Web) 4th Season",
+    "jp": "Cinderella Girls Gekijou: Kayou Cinderella Theater 4th Season"
+  },
+  "releasedAt": "2019-04-02T00:00:00.000Z",
+  "finishedAt": "2019-06-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42275/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/the-idolmster-cinderella-girls-theater"
+  ],
+  "relations": {
+    "kitsu": "42275",
+    "anilist/anime": "108810",
+    "myanimelist/anime": "39654"
+  }
+}

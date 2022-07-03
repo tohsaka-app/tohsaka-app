@@ -1,0 +1,34 @@
+{
+  "slug": "chameleon",
+  "synopsis": "The series follows the antics of tenth-grade student Eisaku Yazawa who wants to become a bousouzoku, a motorcycle gang member.",
+  "title": {
+    "en": "Bite me!",
+    "jp": "Chameleon (OVA)"
+  },
+  "releasedAt": "1992-02-01T00:00:00.000Z",
+  "finishedAt": "1996-02-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4070/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "delinquent",
+    "earth",
+    "ecchi",
+    "high school",
+    "japan",
+    "present",
+    "school life",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4070",
+    "anidb": "2779",
+    "anilist/anime": "5353",
+    "aozora": "N8kGt7kUGG",
+    "myanimelist/anime": "5353"
+  }
+}

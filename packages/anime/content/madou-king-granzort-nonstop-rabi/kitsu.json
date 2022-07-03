@@ -1,0 +1,27 @@
+{
+  "slug": "madou-king-granzort-nonstop-rabi",
+  "synopsis": "A special 30-minute finale to the TV series.\n(Source: ANN)",
+  "title": {
+    "jp": "Madou King Granzort: Nonstop Rabi"
+  },
+  "releasedAt": "1990-08-16T00:00:00.000Z",
+  "finishedAt": "1990-08-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11016/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "magic",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11016",
+    "aozora": "tlrBZqxaay",
+    "myanimelist/anime": "30873"
+  }
+}

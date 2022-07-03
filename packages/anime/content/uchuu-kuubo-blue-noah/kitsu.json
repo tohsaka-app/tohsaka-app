@@ -1,0 +1,38 @@
+{
+  "slug": "uchuu-kuubo-blue-noah",
+  "synopsis": "Set in the year 2052, Earth has managed to find peace until the arrival of the Death Force - ruthless aliens from a dying solar system - who are desperately searching for a new home. Attacking the Earth with a massive satellite ship called Terror Star, the aliens proceed to terraform the planet to make it their own. For mankind there is one hope: it's up to Colin Collins and a small band of his fellow surviving students to crew a top-secret submersible vessel that can fight the invaders at sea or in space.",
+  "title": {
+    "en": "Space Carrier Blue Noah",
+    "jp": "Uchuu Kuubo Blue Noah"
+  },
+  "releasedAt": "1979-10-13T00:00:00.000Z",
+  "finishedAt": "1980-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4268/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "earth",
+    "future",
+    "humanoid alien",
+    "military",
+    "navy",
+    "post apocalypse",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4268",
+    "anidb": "2467",
+    "anilist/anime": "5763",
+    "aozora": "8lkxboLmeQ",
+    "myanimelist/anime": "5763",
+    "thetvdb": "136731/1",
+    "thetvdb/series": "136731",
+    "trakt": "61943"
+  }
+}

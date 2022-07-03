@@ -1,0 +1,23 @@
+{
+  "slug": "jantama-pong-episode-0",
+  "synopsis": "Episode 0 of Jantama Pong☆ that aired as an April Fool's joke.",
+  "title": {
+    "en": "Mahjong Soul Episode 0",
+    "jp": "Jantama Pong☆ Episode 0"
+  },
+  "releasedAt": "2022-04-01T00:00:00.000Z",
+  "finishedAt": "2022-04-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46104/poster_image/d37307d4adf6dacdab824cf63d7414e9.jpg",
+  "categories": [
+    "comedy",
+    "juujin"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46104",
+    "myanimelist/anime": "51525"
+  }
+}

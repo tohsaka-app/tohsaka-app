@@ -1,0 +1,22 @@
+{
+  "slug": "seer-5",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2015-05-01T00:00:00.000Z",
+  "finishedAt": "2015-07-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44055/original.png",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44055",
+    "anilist/anime": "129593"
+  }
+}

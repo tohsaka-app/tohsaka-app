@@ -1,0 +1,27 @@
+{
+  "slug": "kure-nai-ova",
+  "synopsis": "A Kure-nai OVA featuring new character designs closer to the novel/manga.",
+  "title": {
+    "jp": "Kure-nai OVA"
+  },
+  "releasedAt": "2010-07-02T00:00:00.000Z",
+  "finishedAt": "2010-12-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5188/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5188/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5188",
+    "anidb": "7373",
+    "anilist/anime": "8078",
+    "aozora": "GeNzkX01pJ",
+    "myanimelist/anime": "8078"
+  }
+}

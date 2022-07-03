@@ -1,0 +1,25 @@
+{
+  "slug": "yama-ni-kagayaku-guide-ken-heiji-gou",
+  "synopsis": "A short story about a mountain guide dog Heiji.",
+  "title": {
+    "jp": "Yama ni Kagayaku: Guide-ken Heiji Gou"
+  },
+  "releasedAt": "2012-04-21T00:00:00.000Z",
+  "finishedAt": "2012-04-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9697/original.jpg",
+  "categories": [
+    "drama",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9697",
+    "anidb": "9189",
+    "anilist/anime": "20205",
+    "aozora": "rsp2D10Pep",
+    "myanimelist/anime": "20205"
+  }
+}

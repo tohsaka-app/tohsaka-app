@@ -1,0 +1,25 @@
+{
+  "slug": "dodani",
+  "synopsis": "A 1989 Korean movie of Slice of Life genre.",
+  "title": {
+    "jp": "Dodani"
+  },
+  "releasedAt": "1989-01-01T00:00:00.000Z",
+  "finishedAt": "1989-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9737/original.jpg",
+  "categories": [
+    "drama",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9737",
+    "anilist/anime": "18317",
+    "aozora": "2Sr04IpLsc",
+    "myanimelist/anime": "18317"
+  }
+}

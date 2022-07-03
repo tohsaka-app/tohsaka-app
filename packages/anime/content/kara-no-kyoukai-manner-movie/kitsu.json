@@ -1,0 +1,24 @@
+{
+  "slug": "kara-no-kyoukai-manner-movie",
+  "synopsis": "Cinema intro shown before the movie Kara no Kyoukai: Mirai Fukuin and included as a bonus with the Blu-ray/DVD release.",
+  "title": {
+    "en": "the Garden of sinners -recalled out summer- Pre-show Reminder",
+    "jp": "Kara no Kyoukai: Mirai Fukuin - Manner Movie"
+  },
+  "releasedAt": "2013-09-28T00:00:00.000Z",
+  "finishedAt": "2013-09-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8361/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8361",
+    "anilist/anime": "98142",
+    "aozora": "JuPrVlvD8Q",
+    "myanimelist/anime": "22847"
+  }
+}

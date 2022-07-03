@@ -1,0 +1,26 @@
+{
+  "slug": "pom-pom-purin-no-usagi-to-kame",
+  "synopsis": "Pom Pom Purin competes in a race with a tortoise and a hare.",
+  "title": {
+    "en": "Pom Pom Purin in the Tortoise and the Hare",
+    "jp": "Pom Pom Purin no Usagi to Kame"
+  },
+  "releasedAt": "2001-10-26T00:00:00.000Z",
+  "finishedAt": "2001-10-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9541/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9541",
+    "anidb": "7852",
+    "aozora": "EjClqfMIUw",
+    "myanimelist/anime": "22569"
+  }
+}

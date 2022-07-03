@@ -1,0 +1,24 @@
+{
+  "slug": "neko-rahmen-ore-no-shouyu-aji",
+  "synopsis": "The second season of Neko Ramen.",
+  "title": {
+    "jp": "Neko Ramen: Ore no Shouyu Aji"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7131/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7131",
+    "anidb": "8398",
+    "anilist/anime": "14519",
+    "aozora": "KKicyv0lXC",
+    "myanimelist/anime": "14519"
+  }
+}

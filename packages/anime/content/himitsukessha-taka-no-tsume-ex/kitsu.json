@@ -1,0 +1,26 @@
+{
+  "slug": "himitsukessha-taka-no-tsume-ex",
+  "synopsis": "Sequel to the previous season of the flash anime series.",
+  "title": {
+    "jp": "Himitsukessha Taka no Tsume EX"
+  },
+  "releasedAt": "2014-04-11T00:00:00.000Z",
+  "finishedAt": "2015-03-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8397/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8397",
+    "anidb": "10586",
+    "anilist/anime": "117284",
+    "aozora": "f4T5Hgc1W1",
+    "myanimelist/anime": "22821"
+  }
+}

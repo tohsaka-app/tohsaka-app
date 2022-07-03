@@ -1,0 +1,24 @@
+{
+  "slug": "samurai-2011",
+  "synopsis": "A music video for the Sakamoto Kyouju (サカモト教授) song \"Samurai\". ",
+  "title": {
+    "en": "Samurai (2011)",
+    "jp": "Samurai (2011)"
+  },
+  "releasedAt": "2011-02-23T00:00:00.000Z",
+  "finishedAt": "2011-02-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13197/original.jpg",
+  "categories": [
+    "music",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13197",
+    "aozora": "MihwXRwPdE",
+    "myanimelist/anime": "32847"
+  }
+}

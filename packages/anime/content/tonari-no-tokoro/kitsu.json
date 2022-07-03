@@ -1,0 +1,24 @@
+{
+  "slug": "tonari-no-tokoro",
+  "synopsis": "Based on the original story by famous Japanese comedian George Tokoro.",
+  "title": {
+    "jp": "Tonari no Tokoro"
+  },
+  "releasedAt": "1990-05-25T00:00:00.000Z",
+  "finishedAt": "1990-05-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5891/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5891",
+    "anidb": "4357",
+    "anilist/anime": "9825",
+    "aozora": "CF6KYlzEZY",
+    "myanimelist/anime": "9825"
+  }
+}

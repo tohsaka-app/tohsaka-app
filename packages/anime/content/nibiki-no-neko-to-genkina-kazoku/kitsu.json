@@ -1,0 +1,23 @@
+{
+  "slug": "nibiki-no-neko-to-genkina-kazoku",
+  "synopsis": "An educational film following a family that moved to Tokyo after the Kobe earthquake and the passive discrimination they received.",
+  "title": {
+    "jp": "Nibiki no Neko to Genkina Kazoku"
+  },
+  "releasedAt": "1997-01-01T00:00:00.000Z",
+  "finishedAt": "1997-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11086/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11086",
+    "aozora": "pwPxQDctWq",
+    "myanimelist/anime": "31002"
+  }
+}

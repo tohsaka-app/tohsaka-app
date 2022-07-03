@@ -1,0 +1,31 @@
+{
+  "slug": "minami-ke-omatase",
+  "synopsis": "Minami-ke OVA bundled with the 10th volume of the manga.",
+  "title": {
+    "jp": "Minami-ke Omatase"
+  },
+  "releasedAt": "2012-10-05T00:00:00.000Z",
+  "finishedAt": "2012-10-05T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7138/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7138/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "coming of age",
+    "earth",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7138",
+    "anidb": "9267",
+    "anilist/anime": "14575",
+    "aozora": "eOd7LQJEkj",
+    "myanimelist/anime": "14575"
+  }
+}

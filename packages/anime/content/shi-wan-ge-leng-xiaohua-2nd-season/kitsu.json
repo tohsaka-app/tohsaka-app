@@ -1,0 +1,24 @@
+{
+  "slug": "shi-wan-ge-leng-xiaohua-2nd-season",
+  "synopsis": "Second season of One Hundred Thousand Bad Jokes.",
+  "title": {
+    "jp": "Shi Wan Ge Leng Xiaohua 2nd Season"
+  },
+  "releasedAt": "2013-12-31T00:00:00.000Z",
+  "finishedAt": "2014-12-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12413/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12413",
+    "anilist/anime": "103362",
+    "aozora": "okX762OPTD",
+    "myanimelist/anime": "33194"
+  }
+}

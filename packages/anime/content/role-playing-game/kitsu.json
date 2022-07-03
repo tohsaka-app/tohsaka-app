@@ -1,0 +1,22 @@
+{
+  "slug": "role-playing-game",
+  "synopsis": "Music video directed and animated by Ryuusee for the song Role-Playing Game by Mafumafu featuring Tonari no Sakata., Soraru and Uratanuki.\n\n(Source: AniList)",
+  "title": {
+    "en": "Role-Playing Game",
+    "jp": "Role-Playing Game"
+  },
+  "releasedAt": "2017-12-03T00:00:00.000Z",
+  "finishedAt": "2017-12-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45004/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45004",
+    "anilist/anime": "119826"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-menma-e-no-tegami",
+  "synopsis": "Special Picture Drama episode included on the Anohana Fes. Memorial DVD/Blu-ray Box",
+  "title": {
+    "en": "AnoHana Picture Drama, We Still Don't Know the Name of the Flower We Saw That Day.: Letter to Menma",
+    "jp": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami"
+  },
+  "releasedAt": "2012-02-22T00:00:00.000Z",
+  "finishedAt": "2012-02-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43606/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43606/original.jpeg",
+  "categories": [
+    "comedy",
+    "drama",
+    "ghost"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43606",
+    "anilist/anime": "107342",
+    "myanimelist/anime": "38963"
+  }
+}

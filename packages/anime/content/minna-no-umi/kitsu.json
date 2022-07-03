@@ -1,0 +1,20 @@
+{
+  "slug": "minna-no-umi",
+  "synopsis": "A little boy reminisces his time at the beach with his grandmother now that she had passed away.",
+  "title": {
+    "jp": "Minna no Umi"
+  },
+  "releasedAt": "2006-06-01T00:00:00.000Z",
+  "finishedAt": "2006-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40926/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40926",
+    "aozora": "1jpfNqeoKV",
+    "myanimelist/anime": "36385"
+  }
+}

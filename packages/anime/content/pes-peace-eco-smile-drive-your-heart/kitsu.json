@@ -1,0 +1,25 @@
+{
+  "slug": "pes-peace-eco-smile-drive-your-heart",
+  "synopsis": "Special spin-off episode that aired between episodes three and four of the original PES series. Is also an ad to Toyota's new Vios vehicle.",
+  "title": {
+    "jp": "PES: Peace Eco Smile - Drive your Heart"
+  },
+  "releasedAt": "2012-05-23T00:00:00.000Z",
+  "finishedAt": "2012-05-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8888/original.jpg",
+  "categories": [
+    "motorsport",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8888",
+    "anilist/anime": "18841",
+    "aozora": "Smfg0n1h8X",
+    "myanimelist/anime": "18841"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "lupin-iii-lupin-vs-fukusei-ningen",
+  "synopsis": "Lupin, the master thief/spy/Jack of all Trades, has been executed, but he is still alive, and not even Lupin himself knows how that is possible. While trying to figure out, however, he and his gang are thrust into a conspiracy involving clones, Lupin's un-trustworthy rival Fujiko, and a miniature madman's plot to take over the world.\n(Source: ANN)",
+  "title": {
+    "en": "Lupin The Third: The Secret of Mamo",
+    "jp": "Lupin III: Lupin vs. Fukusei-ningen"
+  },
+  "releasedAt": "1978-12-16T00:00:00.000Z",
+  "finishedAt": "1978-12-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1288/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1288/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "crime",
+    "mystery",
+    "science fiction",
+    "thievery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1288",
+    "anidb": "823",
+    "anilist/anime": "1435",
+    "aozora": "bcdZaHyjuD",
+    "hulu": "50005917",
+    "myanimelist/anime": "1435"
+  }
+}

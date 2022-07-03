@@ -1,0 +1,49 @@
+{
+  "slug": "neon-genesis-evangelion",
+  "synopsis": "In the year 2015, the world stands on the brink of destruction. Humanity's last hope lies in the hands of Nerv, a special agency under the United Nations, and their Evangelions, giant machines capable of defeating the Angels who herald Earth's ruin. Gendou Ikari, head of the organization, seeks compatible pilots who can synchronize with the Evangelions and realize their true potential. Aiding in this defensive endeavor are talented personnel Misato Katsuragi, Head of Tactical Operations, and Ritsuko Akagi, Chief Scientist.\n\nFace to face with his father for the first time in years, 14-year-old Shinji Ikari's average life is irreversibly changed when he is whisked away into the depths of Nerv, and into a harrowing new destiny—he must become the pilot of Evangelion Unit-01 with the fate of mankind on his shoulders.\nWritten by Hideaki Anno, Neon Genesis Evangelion is a heroic tale of a young boy who will become a legend. But as this psychological drama unfolds, ancient secrets beneath the big picture begin to bubble to the surface...\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Neon Genesis Evangelion",
+    "jp": "Shinseiki Evangelion"
+  },
+  "releasedAt": "1995-10-04T00:00:00.000Z",
+  "finishedAt": "1996-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/21/poster_image/077bf97dfb04853975a6e85694b861f4.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/21/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "angst",
+    "asia",
+    "dementia",
+    "disaster",
+    "earth",
+    "genetic modification",
+    "human enhancement",
+    "japan",
+    "mecha",
+    "middle school",
+    "piloted robot",
+    "plot continuity",
+    "post apocalypse",
+    "psychological",
+    "school life",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81033445"
+  ],
+  "relations": {
+    "kitsu": "21",
+    "anidb": "22",
+    "anilist/anime": "30",
+    "aozora": "UVHw4D3pcb",
+    "myanimelist/anime": "30",
+    "thetvdb": "70350/1",
+    "thetvdb/series": "70350",
+    "trakt": "885"
+  }
+}

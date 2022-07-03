@@ -1,0 +1,42 @@
+{
+  "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui",
+  "synopsis": "15-year-old Tomoko Kuroki is a budding hikikomori—a shut-in who spends her time playing dating sims and watching anime. But even a lifetime of experience wooing virtual boys can't prepare her for the greatest challenge of all: high school.\n\nEveryday life is a terrifying journey for Tomoko, fraught with hidden judgments and secret surprises. Her anxiety makes social interaction nigh impossible, but she's determined to figure it out. Will she make friends? Become popular? Maybe even meet a real-life cute guy? Find out in WataMote!",
+  "title": {
+    "en": "WataMote: No Matter How I Look At It, It's You Guys' Fault I'm Unpopular!",
+    "jp": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!"
+  },
+  "releasedAt": "2013-07-09T00:00:00.000Z",
+  "finishedAt": "2013-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7504/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7504/original.png",
+  "categories": [
+    "asia",
+    "comedy",
+    "coming of age",
+    "earth",
+    "high school",
+    "japan",
+    "present",
+    "satire",
+    "school life",
+    "slice of life",
+    "stereotypes"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/watamote-no-matter-how-i-look-at-it-its-you-guys-fault-im-not-popular"
+  ],
+  "relations": {
+    "kitsu": "7504",
+    "anidb": "9582",
+    "anilist/anime": "16742",
+    "aozora": "xgJ7HYtPkL",
+    "hulu": "50012684",
+    "myanimelist/anime": "16742",
+    "thetvdb": "270062/1",
+    "thetvdb/series": "270062",
+    "trakt": "70831"
+  }
+}

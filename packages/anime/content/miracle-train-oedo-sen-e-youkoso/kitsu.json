@@ -1,0 +1,31 @@
+{
+  "slug": "miracle-train-oedo-sen-e-youkoso",
+  "synopsis": "Another version of Miracle Train: Chuo-sen e Youkoso.\nThe first version of the Miracle Train project focused on the stations of the central Chuo line, while the new anime and related stories deal with the Oedo subway line. As a result, the anime will feature a newer cast of characters—specifically, Fumi Roppongi, Rintarou Shinjuku, Izayoi Tsukishima, Iku Shiodome, Saki Tochou, and Itsumi Ryougoku.",
+  "title": {
+    "en": "Miracle Train: Welcome to the Oedo Line",
+    "jp": "Miracle☆Train: Oedo-sen e Youkoso"
+  },
+  "releasedAt": "2009-10-05T00:00:00.000Z",
+  "finishedAt": "2009-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4866/original.jpg",
+  "categories": [
+    "bishounen",
+    "contemporary fantasy",
+    "fantasy",
+    "reverse harem"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4866",
+    "anidb": "6794",
+    "anilist/anime": "7103",
+    "aozora": "b5MgWpdIbH",
+    "myanimelist/anime": "7103",
+    "thetvdb": "128541/1",
+    "thetvdb/series": "128541",
+    "trakt": "45028"
+  }
+}

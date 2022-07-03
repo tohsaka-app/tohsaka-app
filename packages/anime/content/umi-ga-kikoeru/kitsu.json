@@ -1,0 +1,36 @@
+{
+  "slug": "umi-ga-kikoeru",
+  "synopsis": "Ocean Waves is a high school love story set in Kochi, Japan. Morisaki Taku and Matsuno Yutaka are best friends when a girl from Tokyo named Muto Rikako transfers to their school. Excluding herself from group activities, she's eventually labeled a snob. Matsuno has a crush on Rikako, so it's no surprise that he gets a little jealous when Morisaki and Rikako start spending more time together. The rumors around school get worse, but Morisaki still insists there is nothing between him and Rikako.\n(Source: ANN)",
+  "title": {
+    "en": "The Ocean Waves",
+    "jp": "Umi ga Kikoeru"
+  },
+  "releasedAt": "1993-05-05T00:00:00.000Z",
+  "finishedAt": "1993-05-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/666/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/666/original.jpg",
+  "categories": [
+    "asia",
+    "coming of age",
+    "earth",
+    "high school",
+    "japan",
+    "present",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80158668"
+  ],
+  "relations": {
+    "kitsu": "666",
+    "anidb": "335",
+    "anilist/anime": "743",
+    "aozora": "1iBXxVNDIz",
+    "myanimelist/anime": "743"
+  }
+}

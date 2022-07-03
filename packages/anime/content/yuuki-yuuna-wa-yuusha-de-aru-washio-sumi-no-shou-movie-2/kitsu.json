@@ -1,0 +1,30 @@
+{
+  "slug": "yuuki-yuuna-wa-yuusha-de-aru-washio-sumi-no-shou-movie-2",
+  "synopsis": "Second film in the Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou trilogy.",
+  "title": {
+    "en": "Yuki Yuna Is a Hero: Washio Sumi Chapter - Soul",
+    "jp": "Yuuki Yuuna wa Yuusha de Aru: Washio Sumi no Shou 2 - Tamashii"
+  },
+  "releasedAt": "2017-04-15T00:00:00.000Z",
+  "finishedAt": "2017-04-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12892/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12892/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "friendship",
+    "magic",
+    "magical girl",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12892",
+    "anilist/anime": "97859",
+    "aozora": "gWfKzTivum",
+    "myanimelist/anime": "34375"
+  }
+}

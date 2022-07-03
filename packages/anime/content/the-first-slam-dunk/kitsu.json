@@ -1,0 +1,28 @@
+{
+  "slug": "the-first-slam-dunk",
+  "synopsis": "On January 7, 2021, Slam Dunk creator Takehiko Inoue announced that the series would be receiving a new animated movie.",
+  "title": {
+    "en": "The First Slam Dunk",
+    "jp": "THE FIRST SLAM DUNK"
+  },
+  "releasedAt": "2022-12-03T00:00:00.000Z",
+  "finishedAt": "2022-12-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "unreleased",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46225/poster_image/6fb99d265c3feb1493b4ccdc9d9a9dba.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/46225/cover_image/08883cf01b708ca3182adbaac7b85ce3.jpg",
+  "categories": [
+    "basketball",
+    "comedy",
+    "school clubs",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46225",
+    "anilist/anime": "128207"
+  }
+}

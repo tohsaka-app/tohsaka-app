@@ -1,0 +1,26 @@
+{
+  "slug": "k-on-ura-on-2",
+  "synopsis": "Extra short anime \"Ura-On!!\" included in the limited edition of the K-ON!! Blu-ray. ",
+  "title": {
+    "en": "K-ON!!: Ura-On!!",
+    "jp": "K-On!!: Ura-On!!"
+  },
+  "releasedAt": "2010-07-30T00:00:00.000Z",
+  "finishedAt": "2011-03-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5630/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5630/original.jpg",
+  "categories": [
+    "comedy",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5630",
+    "anilist/anime": "9203",
+    "aozora": "yMNb8WUbQe",
+    "myanimelist/anime": "9203"
+  }
+}

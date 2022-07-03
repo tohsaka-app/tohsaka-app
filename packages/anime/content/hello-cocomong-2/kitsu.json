@@ -1,0 +1,19 @@
+{
+  "slug": "hello-cocomong-2",
+  "synopsis": "",
+  "title": {
+    "jp": "Hello Cocomong 2"
+  },
+  "releasedAt": "2014-09-05T00:00:00.000Z",
+  "finishedAt": "2014-11-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41862/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41862",
+    "myanimelist/anime": "37944"
+  }
+}

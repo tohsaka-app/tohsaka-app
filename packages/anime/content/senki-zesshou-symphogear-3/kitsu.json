@@ -1,0 +1,38 @@
+{
+  "slug": "senki-zesshou-symphogear-3",
+  "synopsis": "After the frontier incident, everyone who knew the circumstances believed the Noise were gone and the pain they caused was at an end. But a new conflict approached unseen. In the Yokohama Harbor Oosan-bashi Pier, a new pattern is detected that is similar to the Noise. A combat group wielding mysterious technology stands in the way of Hibiki and the others. When she hears of this enemy of unprecedented strength, Tsubasa hurries back home from England. But the Symphogear users see no opening to counterattack and are forced into a difficult fight. In this situation of extreme disparity, the battle for the song that will end the world begins.\n(Source: Moca)",
+  "title": {
+    "jp": "Senki Zesshou Symphogear GX"
+  },
+  "releasedAt": "2015-07-04T00:00:00.000Z",
+  "finishedAt": "2015-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8136/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "earth",
+    "henshin",
+    "japan",
+    "magical girl",
+    "music",
+    "science fiction",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/symphogear"
+  ],
+  "relations": {
+    "kitsu": "8136",
+    "anidb": "10321",
+    "anilist/anime": "20560",
+    "aozora": "5o9XqYdOwf",
+    "myanimelist/anime": "21573",
+    "thetvdb": "254667/3",
+    "thetvdb/season": "592203",
+    "thetvdb/series": "254667",
+    "trakt": "65280"
+  }
+}

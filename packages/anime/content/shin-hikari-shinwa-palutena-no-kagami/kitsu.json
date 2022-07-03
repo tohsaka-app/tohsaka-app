@@ -1,0 +1,32 @@
+{
+  "slug": "shin-hikari-shinwa-palutena-no-kagami",
+  "synopsis": "Anime shorts of the 3DS game \"Kid Icarus: Uprising\", known as \"Shin Hikari Shinwa: Palutena no Kagami\" in Japan.\nEpisode 1 - Thanatos Rising\nAnimation: Production I.G\nDirector: Junichi Fujisaku\nEpisode 2 - Medusa's Revenge\nAnimation: Studio 4°C\nDirector: Kazuto Nakazawa\nEpisode 3 - Palutena's Revolting Dinner\nAnimation: SHAFT\nDirector: Akiyuki Shinbou",
+  "title": {
+    "en": "Kid Icarus: Uprising",
+    "jp": "Shin Hikari Shinwa: Palutena no Kagami"
+  },
+  "releasedAt": "2012-03-13T00:00:00.000Z",
+  "finishedAt": "2012-03-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6923/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6923/original.jpeg",
+  "categories": [
+    "adventure",
+    "angel",
+    "comedy",
+    "deity",
+    "fantasy",
+    "fantasy world",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6923",
+    "anidb": "9087",
+    "anilist/anime": "13251",
+    "aozora": "l09ZrEEx0s",
+    "myanimelist/anime": "13251"
+  }
+}

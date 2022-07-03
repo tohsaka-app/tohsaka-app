@@ -1,0 +1,25 @@
+{
+  "slug": "uchuu-senkan-yamato-2199-movie-2-taiyou-ken-no-shitou",
+  "synopsis": "Compilation of episodes 3-6 of the Space Battleship Yamato 2199 TV anime.",
+  "title": {
+    "en": "Space Battleship Yamato 2199 Movie 2",
+    "jp": "Uchuu Senkan Yamato 2199 Movie 2: Taiyou-ken no Shitou"
+  },
+  "releasedAt": "2012-06-30T00:00:00.000Z",
+  "finishedAt": "2012-06-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6752/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "military",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6752"
+  }
+}

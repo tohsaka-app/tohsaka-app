@@ -1,0 +1,27 @@
+{
+  "slug": "agigongryong-doolie-2009",
+  "synopsis": "The story of a baby dinosaur and his friends.",
+  "title": {
+    "en": "Little Dino Dooly (2009)",
+    "jp": "Agigongryong Doolie (2009)"
+  },
+  "releasedAt": "2009-01-08T00:00:00.000Z",
+  "finishedAt": "2009-02-07T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7579/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7579/original.png",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7579",
+    "anidb": "9713",
+    "anilist/anime": "17090",
+    "aozora": "zbSrT96QE1",
+    "myanimelist/anime": "17090"
+  }
+}

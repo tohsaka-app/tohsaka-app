@@ -1,0 +1,26 @@
+{
+  "slug": "tenkyuu-suisei-wa-yoru-wo-mataide",
+  "synopsis": "Music video for Hoshimachi Suisei's single Tenkyuu, Suisei wa Yoru wo Mataide.",
+  "title": {
+    "jp": "Tenkyuu, Suisei wa Yoru wo Mataide"
+  },
+  "releasedAt": "2019-03-22T00:00:00.000Z",
+  "finishedAt": "2019-03-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43764/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43764/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=zLak0dxBKpM&ab_channel=SuiseiChannel"
+  ],
+  "relations": {
+    "kitsu": "43764",
+    "anilist/anime": "119944",
+    "myanimelist/anime": "44260"
+  }
+}

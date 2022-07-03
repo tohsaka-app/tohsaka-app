@@ -1,0 +1,31 @@
+{
+  "slug": "robotech-masters-saga-second-robotech-war",
+  "synopsis": "Following the annihilation of the Earth, the human survivors struggle to rebuild their once-great planet, only to be faced with a new threat. The Robotech Masters arrive to complete the mission that the Zentraedi Armada began… to destroy anyone standing in the way of their of their reclamation of the coveted technology in their quest for universal domination!",
+  "title": {
+    "en": "Robotech: Masters Saga - Second Robotech War"
+  },
+  "releasedAt": "1985-03-09T00:00:00.000Z",
+  "finishedAt": "1985-04-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7947/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7947/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "anime influenced",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "shipboard",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7947",
+    "thetvdb": "76828/2",
+    "thetvdb/season": "11497",
+    "thetvdb/series": "76828"
+  }
+}

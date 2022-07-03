@@ -1,0 +1,35 @@
+{
+  "slug": "futari-wa-precure-splash-star",
+  "synopsis": "During the summer festival five years ago, two girls met at a mysterious tree and saw two glowing spheres. Now, these two girls--Saki Hyuuga, ace pitcher on the school softball team; and Mai Mishou, who prefers sketching over stargazing--are chosen by the spirits of flowers (Flappy) and birds (Choppy) to restore the Seven Fountains and save their worlds from Dark Autumn. Together, they are the NEW Pretty Cure.(Source: ANN)",
+  "title": {
+    "en": "Pretty Cure: Splash Star",
+    "jp": "Futari wa Precure: Splash☆Star"
+  },
+  "releasedAt": "2006-02-05T00:00:00.000Z",
+  "finishedAt": "2007-01-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1375/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "japan",
+    "magic",
+    "magical girl",
+    "present",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1375",
+    "anidb": "4117",
+    "anilist/anime": "1534",
+    "aozora": "cH4aVJdRlR",
+    "myanimelist/anime": "1534",
+    "thetvdb": "241301/1",
+    "thetvdb/series": "241301",
+    "trakt": "62383"
+  }
+}

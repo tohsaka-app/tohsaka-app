@@ -1,0 +1,30 @@
+{
+  "slug": "fortune-quest",
+  "synopsis": "Our story is set in another world, parallel to ours. We meet Pastel, an orphan girl, 18 years old, who lives with a group of adventurers in a small house. Pastel works as a writer and also a \"mapper\", charting towns, the countryside, rivers and mountains with sketches and illustrations. \nShe is highly respected by her friends as her intelligence and honesty are extraordinary. Living in the house with Pastel, we meet Clay, a young swordsman; Trapp, the son of a bandit chieftain; Kitton, literally a working dictionary and a descendant of the Family Kittons; Knoll, a big guy a with tender heart; Whitey, a baby dragon; and Rumy, an infant sorcerer of the tribe \"Elf.\" Together this odd group become involved in many mysterious adventures from treasure hunting, to searching for a missing person, to challenging a riddle, to many more unexpected quests.\n(Source: Enoki Films USA)",
+  "title": {
+    "en": "Fortune Quest",
+    "jp": "Fortune Quest L"
+  },
+  "releasedAt": "1997-10-18T00:00:00.000Z",
+  "finishedAt": "1998-05-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2845/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2845",
+    "anidb": "743",
+    "anilist/anime": "3185",
+    "aozora": "b51otWoAgd",
+    "myanimelist/anime": "3185"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "comic-party",
+  "synopsis": "Destiny or delusion? It's a hilarious rollercoaster of laughter and confusion when Taishi, the ultimate otaku, drags his friend Kazuki into the swirling world of ambition, hatred, and love—the world of fan comics! Poor clueless Kazuki must sink or swim when he's dumped straight into the middle of a massive comic convention. Lost amidst hoards of buyers, sellers, and cosplayers, Kazuki is about to be baptized by fire, all in order to lead him toward his true calling: to take over the world through fan comics!\nMeanwhile, Kazuki's childhood friend Mizuki isn't about to let him be dragged from his normal life without a fight! But will she be able to stop the addictive draw of the new world that lies before Kazuki? Little by little, Kazuki is slipping down the path towards destiny—and Taishi is shoving him every step of the way! \n(Source: RightStuf)",
+  "title": {
+    "en": "Comic Party",
+    "jp": "Comic Party"
+  },
+  "releasedAt": "2001-04-02T00:00:00.000Z",
+  "finishedAt": "2001-06-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/264/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/264/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "parody",
+    "present",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "264",
+    "anidb": "116",
+    "anilist/anime": "289",
+    "aozora": "5jPok5A84T",
+    "myanimelist/anime": "289",
+    "thetvdb": "80787/1",
+    "thetvdb/season": "29224",
+    "thetvdb/series": "80787",
+    "trakt": "62141"
+  }
+}

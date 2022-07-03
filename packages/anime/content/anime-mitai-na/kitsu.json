@@ -1,0 +1,23 @@
+{
+  "slug": "anime-mitai-na",
+  "synopsis": "Music Video by the dresscodes of the album's 6th track \"Anime Mitai na\" to promote the new Album \"1\".",
+  "title": {
+    "jp": "Anime Mitai na"
+  },
+  "releasedAt": "2014-12-09T00:00:00.000Z",
+  "finishedAt": "2014-12-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40830/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40830",
+    "anilist/anime": "103778",
+    "aozora": "bA0bshFdMf",
+    "myanimelist/anime": "35707"
+  }
+}

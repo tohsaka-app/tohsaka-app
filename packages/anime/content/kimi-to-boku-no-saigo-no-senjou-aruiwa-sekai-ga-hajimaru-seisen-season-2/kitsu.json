@@ -1,0 +1,27 @@
+{
+  "slug": "kimi-to-boku-no-saigo-no-senjou-aruiwa-sekai-ga-hajimaru-seisen-season-2",
+  "synopsis": "Sequel to Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen.",
+  "title": {
+    "en": "Our Last Crusade or the Rise of a New World Season 2",
+    "jp": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season 2"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45272/poster_image/ffe5a1a2250a7ad584f9c3fffa8ea1ed.png",
+  "categories": [
+    "action",
+    "ecchi",
+    "fantasy",
+    "military",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45272",
+    "anilist/anime": "139825",
+    "myanimelist/anime": "49981"
+  }
+}

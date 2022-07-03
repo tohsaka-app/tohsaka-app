@@ -1,0 +1,32 @@
+{
+  "slug": "uchuu-senkan-tiramisu",
+  "synopsis": "The human race extended its life field and greed to the vast reaches of space... In Space Era 0156, a war breaks out amidst all of the colonies in space. Earth begins to construct a new space battleship called Tiramisu in secret. Just as the war begins, one genius pilot steers the Tiramisu as a beacon of hope for humanity.   \n(Source: MU)",
+  "title": {
+    "en": "Space Battleship Tiramisu",
+    "jp": "Uchuu Senkan Tiramisù"
+  },
+  "releasedAt": "2018-04-03T00:00:00.000Z",
+  "finishedAt": "2018-06-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40875/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "space",
+    "space travel"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/space-battleship-tiramisu"
+  ],
+  "relations": {
+    "kitsu": "40875",
+    "anilist/anime": "100009",
+    "aozora": "hzT975lOPq",
+    "myanimelist/anime": "36267",
+    "thetvdb": "344222/1"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "d-frag",
+  "synopsis": "Kazama Kenji likes to believe he is something of a delinquent. Moreover, others seem to like to agree that he is. Of course, Kenji's gang finds their way to a group of four not-so-normal girls—Chitose, Sakura, Minami and Roka—and all at once, whatever reputation he may have is nothing compared to the outrageous behavior of the girls. Shanghaied into joining their club, what will happen to his everyday life from that point on?\n(Source: MU)",
+  "title": {
+    "en": "D-Frag!",
+    "jp": "D-Frag!"
+  },
+  "releasedAt": "2014-01-07T00:00:00.000Z",
+  "finishedAt": "2014-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8001/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8001/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "asia",
+    "comedy",
+    "delinquent",
+    "earth",
+    "friendship",
+    "harem",
+    "high school",
+    "japan",
+    "present",
+    "school clubs",
+    "school life",
+    "slow when it comes to love",
+    "super deformed"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/d-fragments/videos/episodes",
+    "http://www.hulu.com/d-frag"
+  ],
+  "relations": {
+    "kitsu": "8001",
+    "anidb": "10011",
+    "anilist/anime": "20031",
+    "aozora": "BZzZaK93i8",
+    "hulu": "50014610",
+    "myanimelist/anime": "20031",
+    "thetvdb": "276050/1",
+    "thetvdb/series": "276050",
+    "trakt": "74472"
+  }
+}

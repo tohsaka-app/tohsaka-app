@@ -1,0 +1,37 @@
+{
+  "slug": "berserk-2017",
+  "synopsis": "The sequel of Beserk (2016).",
+  "title": {
+    "jp": "Berserk 2nd Season"
+  },
+  "releasedAt": "2017-04-07T00:00:00.000Z",
+  "finishedAt": "2017-06-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12569/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "drama",
+    "fantasy",
+    "friendship",
+    "horror",
+    "military",
+    "romance",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/berserk",
+    "http://www.funimation.com/shows/316042"
+  ],
+  "relations": {
+    "kitsu": "12569",
+    "anidb": "12414",
+    "anilist/anime": "97643",
+    "aozora": "WnMiDF32AP",
+    "myanimelist/anime": "34055",
+    "thetvdb": "307111/2"
+  }
+}

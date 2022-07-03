@@ -1,0 +1,23 @@
+{
+  "slug": "pittanko-nekozakana",
+  "synopsis": "On a distant southern island, a fish (sakana) opened its mouth for a cat (neko), thus \"nekozakana\" (cat-fish) is born.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Pittanko! Nekozakana"
+  },
+  "releasedAt": "2016-10-02T00:00:00.000Z",
+  "finishedAt": "2017-09-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12657/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12657",
+    "anidb": "12470",
+    "aozora": "IeuLl8xhUk",
+    "myanimelist/anime": "34235"
+  }
+}

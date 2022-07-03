@@ -1,0 +1,31 @@
+{
+  "slug": "turn-a-gundam-i-earth-light",
+  "synopsis": "A movie retelling of the first half of the Turn A Gundam series. ",
+  "title": {
+    "en": "∀ Gundam I: Earth Light",
+    "jp": "Turn A Gundam I Movie: Earth Light"
+  },
+  "releasedAt": "2002-02-09T00:00:00.000Z",
+  "finishedAt": "2002-02-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3381/original.jpg",
+  "categories": [
+    "action",
+    "earth",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3381",
+    "anidb": "2813",
+    "anilist/anime": "3963",
+    "aozora": "si0HpOLjfV",
+    "myanimelist/anime": "3963"
+  }
+}

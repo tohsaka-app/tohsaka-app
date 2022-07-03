@@ -1,0 +1,23 @@
+{
+  "slug": "kaitou-gary-no-nihonjin-kouryakuhou",
+  "synopsis": "An very short educational film aimed at adults about the dangers of traveling abroad. Deals with scams, criminals, theft, kidnapping, and other such ill acts in other countries. ",
+  "title": {
+    "jp": "Kaitou Gary no Nihonjin Kouryakuhou!"
+  },
+  "releasedAt": "1999-01-01T00:00:00.000Z",
+  "finishedAt": "1999-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9984/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9984",
+    "anidb": "10071",
+    "aozora": "KPiZOBpJaA",
+    "myanimelist/anime": "28111"
+  }
+}

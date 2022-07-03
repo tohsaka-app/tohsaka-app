@@ -1,0 +1,25 @@
+{
+  "slug": "super-real-mahjong-kasumi-miki-shouko-no-hajimemashite",
+  "synopsis": "An anime based on characters from the strip mahjong arcade game \"Super Real Mahjong 2\".",
+  "title": {
+    "jp": "Super Real Mahjong: Kasumi Miki Shouko no Hajimemashite"
+  },
+  "releasedAt": "1990-03-25T00:00:00.000Z",
+  "finishedAt": "1990-03-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9644/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9644",
+    "anilist/anime": "17991",
+    "aozora": "S8avRQSqYQ",
+    "myanimelist/anime": "17991"
+  }
+}

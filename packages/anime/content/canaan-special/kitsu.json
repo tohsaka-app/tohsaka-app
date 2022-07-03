@@ -1,0 +1,25 @@
+{
+  "slug": "canaan-special",
+  "synopsis": "Special included in BD vol. 5.",
+  "title": {
+    "en": "Canaan: Minorikawa Report Year 201X Shanghai",
+    "jp": "Canaan: Minorikawa Report 201X Shanghai"
+  },
+  "releasedAt": "2010-02-26T00:00:00.000Z",
+  "finishedAt": "2010-02-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5830/original.jpg",
+  "categories": [
+    "action",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5830",
+    "anilist/anime": "9706",
+    "aozora": "hZe5aSQigr",
+    "myanimelist/anime": "9706"
+  }
+}

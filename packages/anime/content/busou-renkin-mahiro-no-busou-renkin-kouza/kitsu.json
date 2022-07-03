@@ -1,0 +1,22 @@
+{
+  "slug": "busou-renkin-mahiro-no-busou-renkin-kouza",
+  "synopsis": "Specials included with the DVD release of Busou Renkin.\n",
+  "title": {
+    "en": "Buso Renkin: Mahiro's Busou Renkin Course",
+    "jp": "Busou Renkin: Mahiro no Busou Renkin Kouza"
+  },
+  "releasedAt": "2007-01-25T00:00:00.000Z",
+  "finishedAt": "2007-09-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42754/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42754",
+    "myanimelist/anime": "39316"
+  }
+}

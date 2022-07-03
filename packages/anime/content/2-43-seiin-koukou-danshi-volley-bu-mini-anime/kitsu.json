@@ -1,0 +1,26 @@
+{
+  "slug": "2-43-seiin-koukou-danshi-volley-bu-mini-anime",
+  "synopsis": "Mini anime introducing the characters, released on the official Twitter.",
+  "title": {
+    "jp": "2.43: Seiin Koukou Danshi Volley-bu Mini Anime"
+  },
+  "releasedAt": "2020-11-01T00:00:00.000Z",
+  "finishedAt": "2020-11-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44065/original.png",
+  "categories": [
+    "comedy",
+    "slice of life",
+    "sports",
+    "super deformed",
+    "volleyball"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44065",
+    "anilist/anime": "128397",
+    "myanimelist/anime": "46000"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "on-air-dekinai",
+  "synopsis": "The story takes place in 2014 and follows Mafuneko, a new hire at the \"Tokyo Hajikko Television\" company. The anime follows the hard struggles behind the scenes at making television content.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "I Can't Go On Air!",
+    "jp": "On Air Dekinai!"
+  },
+  "releasedAt": "2022-01-09T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45576/poster_image/9d8e23d491aff3331ddd3a046609fe56.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45576",
+    "anilist/anime": "141063"
+  }
+}

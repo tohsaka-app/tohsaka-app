@@ -1,0 +1,25 @@
+{
+  "slug": "ookami-shounen-ken-arabia-no-kaijin-ma-no-iwa-no-kettou",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Ookami Shounen Ken: Arabia no Kaijin - Ma no Iwa no Kettou"
+  },
+  "releasedAt": "1964-03-22T00:00:00.000Z",
+  "finishedAt": "1964-03-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9918/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9918",
+    "anidb": "5478",
+    "aozora": "hcbZNdVua4",
+    "myanimelist/anime": "23009"
+  }
+}

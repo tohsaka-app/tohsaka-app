@@ -1,0 +1,29 @@
+{
+  "slug": "my-my-mai",
+  "synopsis": "Mai's a super counselor with blazing sex appeal who specializes in solving supernatural and/or ecchi problems. Even when of the supernatural nature Mai always seems to end up naked when on a case.",
+  "title": {
+    "en": "My My Mai",
+    "jp": "Sono Kinisasete yo: My My Mai"
+  },
+  "releasedAt": "1993-12-16T00:00:00.000Z",
+  "finishedAt": "1994-01-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2791/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2791",
+    "anidb": "2059",
+    "anilist/anime": "3095",
+    "aozora": "0HHUPFzsME",
+    "myanimelist/anime": "3095"
+  }
+}

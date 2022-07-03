@@ -1,0 +1,28 @@
+{
+  "slug": "doraemon-nobita-robot-kingdom",
+  "synopsis": "Doraemon and friends travels into another world via the time machine; where humans and robots are living together. However they soon find out that the Empress of Robot Kingdom was trying to capture robots there and turn them emotionless. As the situation goes tense, our heroes sets out to stop the Empress and her plan.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Doraemon the Movie: Nobita in the Robot Kingdom",
+    "jp": "Doraemon Movie 23: Nobita to Robot Kingdom"
+  },
+  "releasedAt": "2002-03-09T00:00:00.000Z",
+  "finishedAt": "2002-03-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2419/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2419",
+    "anidb": "6582",
+    "anilist/anime": "2655",
+    "aozora": "b8LrofPNsg",
+    "myanimelist/anime": "2655"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "asobuild-concept-video",
+  "synopsis": "Web commercial to promote the grand opening of the entertainment and recreational facility \"ASOBUILD.\" The building is made up of six floors, each with their own theme and unique attractions.",
+  "title": {
+    "jp": "Asobuild Concept Video"
+  },
+  "releasedAt": "2019-03-05T00:00:00.000Z",
+  "finishedAt": "2019-03-05T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43471/original.jpg",
+  "categories": [
+    "slice of life",
+    "sports"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=ww0I_TgZ1do"
+  ],
+  "relations": {
+    "kitsu": "43471",
+    "myanimelist/anime": "39498"
+  }
+}

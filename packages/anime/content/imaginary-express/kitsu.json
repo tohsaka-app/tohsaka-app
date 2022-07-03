@@ -1,0 +1,25 @@
+{
+  "slug": "imaginary-express",
+  "synopsis": "snailchan got into some weird dream...\n\nMusic video for the song Imaginary Express by Snail’s House from the album \"Imaginarium\".\n\n(Source: A-L)",
+  "title": {
+    "en": "Imaginary Express",
+    "jp": "Imaginary Express"
+  },
+  "releasedAt": "2020-10-23T00:00:00.000Z",
+  "finishedAt": "2020-10-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45484/poster_image/7c35d6568df1162c9a662ab08a5f7961.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=RLrh1IstMHM"
+  ],
+  "relations": {
+    "kitsu": "45484",
+    "anilist/anime": "126641"
+  }
+}

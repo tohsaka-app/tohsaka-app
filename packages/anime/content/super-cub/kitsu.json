@@ -1,0 +1,27 @@
+{
+  "slug": "super-cub",
+  "synopsis": "Second year high school student Koguma doesn't lead a very interesting life. She has no parents, and no friends nor hobbies to keep her daily life busy. One day, she acquires a second-hand Honda Super Cub motorcycle and rides it to school. As time goes by, not only does Koguma have a new adventurous life, but she also forges precious friendships thanks to her precious little motorcycle.\n\n(Source: MAL News)",
+  "title": {
+    "jp": "Super Cub"
+  },
+  "releasedAt": "2021-04-07T00:00:00.000Z",
+  "finishedAt": "2021-06-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42736/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42736/original.png",
+  "categories": [
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/super-cub/?qid="
+  ],
+  "relations": {
+    "kitsu": "42736",
+    "anidb": "15260",
+    "anilist/anime": "113418",
+    "myanimelist/anime": "40685"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "can-you-see-im-sushi",
+  "synopsis": "Music video for the song Can you see? I'm SUSHI by Japanese entertainer Pikotaro (Daimaou Kosaka) that was featured on NHK's Minna no Uta program. It was later released on Pikotaro's official YouTube channel. The animation was done by Creatures, Inc.\n\n(Source: MyAnimeList)",
+  "title": {
+    "jp": "Can You See? I'm Sushi"
+  },
+  "releasedAt": "2018-06-01T00:00:00.000Z",
+  "finishedAt": "2018-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42374/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42374",
+    "anilist/anime": "110139",
+    "myanimelist/anime": "39856"
+  }
+}

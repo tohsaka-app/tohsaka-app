@@ -1,0 +1,24 @@
+{
+  "slug": "friend",
+  "synopsis": "A famous music video tells a sentimental story of a small group of gangsters in China, and their growth from childhood to their mid-age.",
+  "title": {
+    "jp": "Jin Sheng Yuan"
+  },
+  "releasedAt": "2008-07-01T00:00:00.000Z",
+  "finishedAt": "2008-07-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6048/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6048",
+    "anidb": "8454",
+    "anilist/anime": "10132",
+    "aozora": "1Q4PrZIaup",
+    "myanimelist/anime": "10132"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "hajimari-no-sokudo",
+  "synopsis": "Music video for the song \"Hajimari no Sokudo\" by Sangatsu no Phantasia.",
+  "title": {
+    "jp": "Hajimari no Sokudo"
+  },
+  "releasedAt": "2016-06-01T00:00:00.000Z",
+  "finishedAt": "2016-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42770/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42770",
+    "anilist/anime": "111909",
+    "myanimelist/anime": "39884"
+  }
+}

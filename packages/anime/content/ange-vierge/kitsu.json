@@ -1,0 +1,30 @@
+{
+  "slug": "ange-vierge",
+  "synopsis": "The story of the card game follows what happens when \"Hairou\" portals suddenly open, fusing five different worlds together. As a result, various mysterious \"Exceed\" powers are awakened in teenaged girls. An academy for these so-called \"Progress\" girls is built on the isolated Seiran Island in the Pacific.\n(Source: ANN)",
+  "title": {
+    "jp": "Ange Vierge"
+  },
+  "releasedAt": "2016-07-10T00:00:00.000Z",
+  "finishedAt": "2016-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11593/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11593",
+    "anidb": "10962",
+    "anilist/anime": "21439",
+    "aozora": "maROsMyXoP",
+    "myanimelist/anime": "32171",
+    "thetvdb": "309531/1",
+    "trakt": "106722"
+  }
+}

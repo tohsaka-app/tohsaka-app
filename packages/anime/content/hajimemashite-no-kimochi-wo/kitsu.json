@@ -1,0 +1,23 @@
+{
+  "slug": "hajimemashite-no-kimochi-wo",
+  "synopsis": "Music video directed by Shun Abe for the song Hajimemashite no Kimochi wo by DAOKO.\n\nNote: The song was used as an insert song in the live action Kaguya-sama: Love Is War movie.",
+  "title": {
+    "jp": "Hajimemashite no Kimochi wo"
+  },
+  "releasedAt": "2019-09-30T00:00:00.000Z",
+  "finishedAt": "2019-09-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45277/poster_image/f946d233087c1069b559e0905fd500f8.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/F-_lAdy19DI"
+  ],
+  "relations": {
+    "kitsu": "45277",
+    "anilist/anime": "113059"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "great-pretender",
+  "synopsis": "Makoto Edamura is supposedly Japan's greatest swindler. Together with his partner Kudo, they try to trick a Frenchman in Asakusa but unexpectedly get tricked instead. The Frenchman, whom they tried to swindle, turns out to be Laurent Thierry- a much higher-level 'confidence man,' in control of the mafias. Edamura is yet to find out what fate awaits him, after having engaged in the Frenchman's dirty jobs...!(Source: Official website)",
+  "title": {
+    "en": "Great Pretender",
+    "jp": "Great Pretender"
+  },
+  "releasedAt": "2020-06-02T00:00:00.000Z",
+  "finishedAt": "2020-09-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42438/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42438/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "crime",
+    "drama",
+    "japan",
+    "mafia",
+    "psychological",
+    "seinen",
+    "thriller",
+    "united states"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81220435"
+  ],
+  "relations": {
+    "kitsu": "42438",
+    "anilist/anime": "110349",
+    "myanimelist/anime": "40052"
+  }
+}

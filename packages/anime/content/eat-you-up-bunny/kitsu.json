@@ -1,0 +1,23 @@
+{
+  "slug": "eat-you-up-bunny",
+  "synopsis": "An animated music video for Mama Guitar's song \"Eat You Up/Bunny\".",
+  "title": {
+    "en": "Eat You Up/Bunny",
+    "jp": "Eat You Up/Bunny"
+  },
+  "releasedAt": "2012-02-07T00:00:00.000Z",
+  "finishedAt": "2012-02-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10793/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10793",
+    "aozora": "VCT8u3MkLj",
+    "myanimelist/anime": "30433"
+  }
+}

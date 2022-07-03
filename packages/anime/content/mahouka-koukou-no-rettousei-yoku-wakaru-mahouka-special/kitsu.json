@@ -1,0 +1,23 @@
+{
+  "slug": "mahouka-koukou-no-rettousei-yoku-wakaru-mahouka-special",
+  "synopsis": "Extra episode of Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! included in the BD/DVD.",
+  "title": {
+    "jp": "Mahouka Koukou no Rettousei: Yoku Wakaru Mahouka! Special"
+  },
+  "releasedAt": "2015-02-25T00:00:00.000Z",
+  "finishedAt": "2015-02-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11336/original.jpg",
+  "categories": [
+    "comedy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11336",
+    "aozora": "b2BNIrmE3B",
+    "myanimelist/anime": "31448"
+  }
+}

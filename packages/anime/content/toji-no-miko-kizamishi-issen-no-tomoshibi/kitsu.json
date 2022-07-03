@@ -1,0 +1,25 @@
+{
+  "slug": "toji-no-miko-kizamishi-issen-no-tomoshibi",
+  "synopsis": "Short anime adaptation to manga Toji no Tomo that advertises Toji no Miko mobile game titled Toji no Miko: Kizamishi Issen no Tomoshibi.",
+  "title": {
+    "jp": "Toji no Miko: Kizamishi Issen no Tomoshibi"
+  },
+  "releasedAt": "2018-01-30T00:00:00.000Z",
+  "finishedAt": "2018-02-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41321/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "music",
+    "super deformed",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41321",
+    "myanimelist/anime": "37318"
+  }
+}

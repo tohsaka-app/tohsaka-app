@@ -1,0 +1,22 @@
+{
+  "slug": "peeping-life-x-iodata-quiz-input-output",
+  "synopsis": "Peeping Life Collaboration with IODATA.",
+  "title": {
+    "jp": "Peeping Life x I-O Data: Quiz!! Input Output"
+  },
+  "releasedAt": "2012-11-30T00:00:00.000Z",
+  "finishedAt": "2013-07-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10429/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10429",
+    "aozora": "JMQyzKzOP9",
+    "myanimelist/anime": "29729"
+  }
+}

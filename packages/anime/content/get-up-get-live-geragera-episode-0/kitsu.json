@@ -1,0 +1,22 @@
+{
+  "slug": "get-up-get-live-geragera-episode-0",
+  "synopsis": "Episode 0 of Get Up! Get Live! #GeraGera.\n",
+  "title": {
+    "jp": "Get Up! Get Live! #GeraGera Episode 0"
+  },
+  "releasedAt": "2020-07-03T00:00:00.000Z",
+  "finishedAt": "2020-07-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43280/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43280",
+    "myanimelist/anime": "42345"
+  }
+}

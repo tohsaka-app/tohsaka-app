@@ -1,0 +1,25 @@
+{
+  "slug": "kuiba-yao-xia-zhuan",
+  "synopsis": "The backstories of the characters in the Kuiba movies.\n",
+  "title": {
+    "jp": "Kuiba Yao Xia Zhuan"
+  },
+  "releasedAt": "2014-07-19T00:00:00.000Z",
+  "finishedAt": "2014-07-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41200/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41200",
+    "anilist/anime": "112032",
+    "myanimelist/anime": "37187"
+  }
+}

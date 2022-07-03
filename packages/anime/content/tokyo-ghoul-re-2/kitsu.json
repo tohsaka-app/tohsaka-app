@@ -1,0 +1,30 @@
+{
+  "slug": "tokyo-ghoul-re-2",
+  "synopsis": "Second season of Tokyo Ghoul:re.",
+  "title": {
+    "en": "Tokyo Ghoul:re 2",
+    "jp": "Tokyo Ghoul:re 2"
+  },
+  "releasedAt": "2018-10-09T00:00:00.000Z",
+  "finishedAt": "2018-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41359/original.jpg",
+  "categories": [
+    "action",
+    "horror",
+    "mystery",
+    "psychological",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/tokyo-ghoul/#videos"
+  ],
+  "relations": {
+    "kitsu": "41359",
+    "anidb": "14059",
+    "anilist/anime": "102351",
+    "myanimelist/anime": "37799"
+  }
+}

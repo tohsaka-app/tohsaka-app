@@ -1,0 +1,24 @@
+{
+  "slug": "bonobono-specials",
+  "synopsis": "TV specials aired on TV Tokyo following the TV series.",
+  "title": {
+    "en": "Bonobono",
+    "jp": "Bonobono (TV) Specials"
+  },
+  "releasedAt": "1997-01-02T00:00:00.000Z",
+  "finishedAt": "1998-12-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3547/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3547",
+    "anilist/anime": "8417",
+    "aozora": "ECOhpqvTnu",
+    "myanimelist/anime": "8417"
+  }
+}

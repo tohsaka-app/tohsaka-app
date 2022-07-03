@@ -1,0 +1,39 @@
+{
+  "slug": "shoujo-kakumei-utena-adolescence-mokushiroku",
+  "synopsis": "In a loose retelling of the Revolutionary Girl Utena TV series, Utena Tenjou arrives at Ohtori Academy, only to be immediately swept up in a series of duels for the hand of her classmate Anthy Himemiya and the power she supposedly holds. At the same time, Utena reunites with Touga Kiryuu, a friend from her childhood who seems to know the secrets behind the duels. Utena must discover those secrets for herself, before the power that rules Ohtori claims her and her friends, new and old. \n(Source: ANN)",
+  "title": {
+    "en": "Revolutionary Girl Utena: The Adolescence of Utena",
+    "jp": "Shoujo Kakumei Utena: Adolescence Mokushiroku"
+  },
+  "releasedAt": "1999-08-14T00:00:00.000Z",
+  "finishedAt": "1999-08-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/404/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/404/original.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "contemporary fantasy",
+    "dementia",
+    "fantasy",
+    "high school",
+    "magic",
+    "magical girl",
+    "motorsport",
+    "romance",
+    "school life",
+    "shoujo ai"
+  ],
+  "externals": [
+    "http://tubitv.com/movies/284011/revolutionary_girl_utena_adolescence_of_utena"
+  ],
+  "relations": {
+    "kitsu": "404",
+    "anidb": "256",
+    "anilist/anime": "441",
+    "aozora": "sdYanlNWZO",
+    "myanimelist/anime": "441"
+  }
+}

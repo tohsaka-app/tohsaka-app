@@ -1,0 +1,23 @@
+{
+  "slug": "sentaku-jab-jab",
+  "synopsis": "A little boy helps out his family by doing the laundry on a washing board.\n",
+  "title": {
+    "jp": "Sentaku Jab Jab"
+  },
+  "releasedAt": "1974-06-30T00:00:00.000Z",
+  "finishedAt": "1974-06-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42088/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42088",
+    "anilist/anime": "140359",
+    "myanimelist/anime": "36806"
+  }
+}

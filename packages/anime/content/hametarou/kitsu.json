@@ -1,0 +1,22 @@
+{
+  "slug": "hametarou",
+  "synopsis": "Commercials/TV bumps for Dogatch's new mascot Hametarou. The second episode collaboration with Dogatch's other mascot franchise Mameshiba. The commercials are surreal pieces where Hametarou sings while thrusting his face through various cut outs.",
+  "title": {
+    "jp": "Hametarou"
+  },
+  "releasedAt": "2019-03-10T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42807/original.jpg",
+  "categories": [
+    "music",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42807",
+    "myanimelist/anime": "39611"
+  }
+}

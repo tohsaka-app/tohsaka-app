@@ -1,0 +1,33 @@
+{
+  "slug": "cb-chara-go-nagai-world",
+  "synopsis": "Various characters from Go Nagai works including Devil Man, Mazinger, and Violence Jack, become trapped in a parody world where they all be come super deformed. They get trapped in this mishmash, fighting each other and are trying to figure a way back to their own world.",
+  "title": {
+    "en": "CB Character: Nagai Gou World",
+    "jp": "CB Chara Go Nagai World"
+  },
+  "releasedAt": "1991-02-21T00:00:00.000Z",
+  "finishedAt": "1991-06-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2454/original.jpg",
+  "categories": [
+    "action",
+    "breaking the fourth wall",
+    "comedy",
+    "demon",
+    "mecha",
+    "parallel universe",
+    "parody",
+    "super deformed",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2454",
+    "anidb": "2968",
+    "anilist/anime": "2692",
+    "aozora": "AXvsGmrpXk",
+    "myanimelist/anime": "2692"
+  }
+}

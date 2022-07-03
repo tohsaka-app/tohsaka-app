@@ -1,0 +1,24 @@
+{
+  "slug": "shounen-ashibe-2-ashibe-no-kanashii-yume",
+  "synopsis": " A compilation film featuring content from the second Shounen Ashibe series.",
+  "title": {
+    "en": null,
+    "jp": "Shounen Ashibe 2: Ashibe no Kanashii Yume"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12419/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12419",
+    "aozora": "h8FgaoCf0C",
+    "myanimelist/anime": "32884"
+  }
+}

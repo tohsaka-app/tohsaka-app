@@ -1,0 +1,25 @@
+{
+  "slug": "shinu-hodo-tsumara-nai-eiga",
+  "synopsis": "One day the protagonist watches a movie with friends. She finds the film to be boring and reveals her discontent, but somehow nobody agrees with her.\n\n1st year work 2017, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Self-Honest Me",
+    "jp": "Shinu Hodo Tsumara Nai Eiga"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2021-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45047/original.jpg",
+  "categories": [
+    "psychological",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/XB4PdPme-9A"
+  ],
+  "relations": {
+    "kitsu": "45047",
+    "anilist/anime": "113719"
+  }
+}

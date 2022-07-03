@@ -1,0 +1,90 @@
+[
+  {
+    "title": {
+      "jp": "Anata no Tameni Dekiru Koto wo"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2015-10-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fukamaru Giwaku to Nazo no Naka de"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2015-10-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yuzurenai Omoi wo Kimi to"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2015-10-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Karamiau Omowaku no Naka de"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2015-10-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fukinukeru Senjou no Kaze no Naka wo"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2015-11-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Onore no Shinjitsu to Genjitsu no Hazama de"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2015-11-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Karamiau Omowaku to Yokubou no Hazama de"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2015-11-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mirai e to Idomu Mono-tachi"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2015-11-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Beyond the Endless Dream"
+    },
+    "season": 1,
+    "number": 9,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Consequences of What Must Be Done"
+    },
+    "season": 1,
+    "number": 10,
+    "content": {}
+  }
+]

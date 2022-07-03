@@ -1,0 +1,23 @@
+{
+  "slug": "saikin-ponta",
+  "synopsis": "A slice of life anime about Ponta, a bacteria; and his mother and father, and his girlfriend Maki-chan.",
+  "title": {
+    "jp": "Saikin Ponta"
+  },
+  "releasedAt": "1994-04-07T00:00:00.000Z",
+  "finishedAt": "1995-03-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10309/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10309",
+    "aozora": "1Uo5KGmSeH",
+    "myanimelist/anime": "29471"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "bungaku-shounen-no-yuuutsu",
+  "synopsis": "A music video for the song \"Bungaku Shounen no Yuuutsu\" by Lyu:Lyu.",
+  "title": {
+    "en": "The Melancholia of a Literary Boy",
+    "jp": "Bungaku Shounen no Yuuutsu"
+  },
+  "releasedAt": "2011-06-29T00:00:00.000Z",
+  "finishedAt": "2011-06-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12765/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12765",
+    "anilist/anime": "104575",
+    "aozora": "uPEQ0iAq7y",
+    "myanimelist/anime": "32760"
+  }
+}

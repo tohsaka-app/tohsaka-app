@@ -1,0 +1,37 @@
+{
+  "slug": "kuusen-madoushi-kouhosei-no-kyoukan",
+  "synopsis": "Forced to retreat to floating cities due to an invasion of armored insects, humanity must depend on Sky Wizards to battle the menace.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Sky Wizards Academy",
+    "jp": "Kuusen Madoushi Kouhosei no Kyoukan"
+  },
+  "releasedAt": "2015-07-09T00:00:00.000Z",
+  "finishedAt": "2015-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8650/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8650/original.jpg",
+  "categories": [
+    "action",
+    "ecchi",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "school life"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/sky-wizards-academy/",
+    "https://www.hulu.com/sky-wizards-academy"
+  ],
+  "relations": {
+    "kitsu": "8650",
+    "anidb": "10736",
+    "anilist/anime": "20774",
+    "aozora": "jeMMGRkRG2",
+    "hulu": "50022514",
+    "myanimelist/anime": "25283",
+    "thetvdb": "283943/1",
+    "trakt": "80581"
+  }
+}

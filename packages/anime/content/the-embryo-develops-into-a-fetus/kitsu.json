@@ -1,0 +1,23 @@
+{
+  "slug": "the-embryo-develops-into-a-fetus",
+  "synopsis": "Short animation by Mirai Mizue.",
+  "title": {
+    "jp": "The Embryo Develops into a Fetus"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10583/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10583",
+    "anilist/anime": "99216",
+    "aozora": "otsm4miCXw",
+    "myanimelist/anime": "29995"
+  }
+}

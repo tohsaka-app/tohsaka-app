@@ -1,0 +1,26 @@
+{
+  "slug": "cooking-papa",
+  "synopsis": "The story of Mr. Araiwa and his family. He is a model employee in a large enterprise, but becomes a completely different character at home. He is very keen on cooking and lets pass no occasion to cook delicious dishes for his wife, who is frequently occupied by her work as a journalist, or his young son.\n(Source: AniDB)",
+  "title": {
+    "jp": "Cooking Papa"
+  },
+  "releasedAt": "1992-04-09T00:00:00.000Z",
+  "finishedAt": "1995-05-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5203/original.jpg",
+  "categories": [
+    "comedy",
+    "cooking",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5203",
+    "anidb": "3453",
+    "anilist/anime": "8123",
+    "aozora": "RnDrwmFNz5",
+    "myanimelist/anime": "8123"
+  }
+}

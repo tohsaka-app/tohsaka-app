@@ -1,0 +1,26 @@
+{
+  "slug": "golden-kamuy-ova",
+  "synopsis": "Bundled with the 15th volume of the Golden Kamuy manga.\n",
+  "title": {
+    "jp": "Golden Kamuy OVA"
+  },
+  "releasedAt": "2018-09-19T00:00:00.000Z",
+  "finishedAt": "2018-09-19T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41305/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "historical",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41305",
+    "anidb": "14085",
+    "anilist/anime": "101830",
+    "myanimelist/anime": "37884"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "carnival-phantasm-hibichika-special",
+  "synopsis": "A new episode of Carnival Phantasm released on the Type-moon Fes - 10th Anniversary Event - Blu-ray.",
+  "title": {
+    "jp": "Carnival Phantasm: HibiChika Special"
+  },
+  "releasedAt": "2012-07-07T00:00:00.000Z",
+  "finishedAt": "2012-07-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7342/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7342",
+    "anilist/anime": "15927",
+    "aozora": "H2hGw9Ko9V",
+    "myanimelist/anime": "15927"
+  }
+}

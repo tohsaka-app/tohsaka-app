@@ -1,0 +1,30 @@
+{
+  "slug": "nyuuin-bokki-monogatari-odaijini",
+  "synopsis": "Yamashita and Negishi end up in the hospital with broken legs and arms. It's summer vacation and they are very bored, so they start picking on the cute nurse Miyuki.",
+  "title": {
+    "jp": "Nyuuin Bokki Monogatari: Odaijini!"
+  },
+  "releasedAt": "1991-12-05T00:00:00.000Z",
+  "finishedAt": "1991-12-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7560/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "japan",
+    "nurse",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7560",
+    "anidb": "7112",
+    "anilist/anime": "16970",
+    "aozora": "0LsecPMIjh",
+    "myanimelist/anime": "16970"
+  }
+}

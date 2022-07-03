@@ -1,0 +1,21 @@
+{
+  "slug": "omoikou",
+  "synopsis": "Music video animated by Ame Biyori for the original song Omoikou by Uruha Rushia.",
+  "title": {
+    "jp": "Omoikou"
+  },
+  "releasedAt": "2022-01-22T00:00:00.000Z",
+  "finishedAt": "2022-01-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45791/poster_image/9954df2bbb4f21fbd3091ddbab6529b9.png",
+  "categories": [],
+  "externals": [
+    "https://www.youtube.com/watch?v=ibXRzMUUWPE"
+  ],
+  "relations": {
+    "kitsu": "45791",
+    "anilist/anime": "144251"
+  }
+}

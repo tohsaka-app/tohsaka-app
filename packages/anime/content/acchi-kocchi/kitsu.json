@@ -1,0 +1,38 @@
+{
+  "slug": "acchi-kocchi",
+  "synopsis": "Tsumiki Miniwa, a small girl who packs a punch, is in love with her best friend, tall and easygoing Io Otonashi. The only problem is that she can't bring herself to come out and say it. And, despite the fact that he can otherwise read her like a book, Io doesn't seem to be able to pick up the obvious clues—even with all of their friends teasing that there's no one better suited for each other.Acchi Kocchi follows Tsumiki and her circle of friends as they go through their day-to-day lives. Between Mayoi the electronics nerd, Sakaki the good-natured prankster, and the nosebleed-prone Hime, Tsumiki's friends will never let her live down her crush. But only time will tell if Tsumiki will gain the courage to finally say how she truly feels.",
+  "title": {
+    "en": "Place to Place",
+    "jp": "Acchi Kocchi (TV)"
+  },
+  "releasedAt": "2012-04-06T00:00:00.000Z",
+  "finishedAt": "2012-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6701/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6701/original.jpg",
+  "categories": [
+    "comedy",
+    "earth",
+    "japan",
+    "romance",
+    "school life",
+    "slice of life",
+    "super deformed"
+  ],
+  "externals": [
+    "http://www.hulu.com/place-to-place"
+  ],
+  "relations": {
+    "kitsu": "6701",
+    "anidb": "8890",
+    "anilist/anime": "12291",
+    "aozora": "gKj3CfcfFN",
+    "hulu": "50014240",
+    "myanimelist/anime": "12291",
+    "thetvdb": "257888/1",
+    "thetvdb/series": "257888",
+    "trakt": "66115"
+  }
+}

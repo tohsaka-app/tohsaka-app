@@ -1,0 +1,24 @@
+{
+  "slug": "oshin",
+  "synopsis": "Oshin comes from a family of poor rice farmers. Her father and brother must work in the fields and her grandmother and mother, who is expecting another child, barely have enough to eat. In order to make ends meet for her family, 7-year-old Oshin gives up school and decides to become a servant in the household of a wealthy family, where she faces trials and tribulation beyond her worst fears.\n(Source: ANN)",
+  "title": {
+    "jp": "Oshin"
+  },
+  "releasedAt": "1984-03-17T00:00:00.000Z",
+  "finishedAt": "1984-03-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5910/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5910",
+    "anidb": "5505",
+    "anilist/anime": "9866",
+    "aozora": "VxqU9YetOR",
+    "myanimelist/anime": "9866"
+  }
+}

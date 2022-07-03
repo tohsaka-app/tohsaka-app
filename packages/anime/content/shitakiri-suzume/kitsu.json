@@ -1,0 +1,25 @@
+{
+  "slug": "shitakiri-suzume",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Shita-kiri Suzume"
+  },
+  "releasedAt": "1917-10-18T00:00:00.000Z",
+  "finishedAt": "2013-10-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6333/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6333",
+    "anidb": "6914",
+    "anilist/anime": "10756",
+    "aozora": "IZhA72KF7x",
+    "myanimelist/anime": "10756"
+  }
+}

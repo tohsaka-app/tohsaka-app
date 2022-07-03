@@ -1,0 +1,28 @@
+{
+  "slug": "mobile-suit-gundam-00-10th-anniversary-project",
+  "synopsis": "Will take place after the events of Mobile Suit Gundam 00 The Movie: A Wakening of the Trailblazer (2010) and is a sequel project to celebrate the 10th anniversary of Mobile Suit Gundam 00 (2007).",
+  "title": {
+    "jp": "Mobile Suit Gundam 00: 10th Anniversary Project"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41211/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41211/original.png",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "other planet",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41211"
+  }
+}

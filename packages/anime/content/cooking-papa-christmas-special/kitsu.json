@@ -1,0 +1,24 @@
+{
+  "slug": "cooking-papa-christmas-special",
+  "synopsis": "Special of Cooking Papa.",
+  "title": {
+    "jp": "Cooking Papa Christmas Special"
+  },
+  "releasedAt": "1993-01-01T00:00:00.000Z",
+  "finishedAt": "1993-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10605/original.jpg",
+  "categories": [
+    "comedy",
+    "cooking",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10605",
+    "aozora": "QxCUqcGUFT",
+    "myanimelist/anime": "30050"
+  }
+}

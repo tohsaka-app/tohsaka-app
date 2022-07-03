@@ -1,0 +1,28 @@
+{
+  "slug": "dragon-s-dogma",
+  "synopsis": "Adaptation of the Dragon's Dogma video game for Netflix.",
+  "title": {
+    "en": "Dragon's Dogma",
+    "jp": "Dragon's Dogma"
+  },
+  "releasedAt": "2020-09-17T00:00:00.000Z",
+  "finishedAt": "2020-09-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42191/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42191/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42191"
+  }
+}

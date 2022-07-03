@@ -1,0 +1,35 @@
+{
+  "slug": "dagashi-kashi-2",
+  "synopsis": "Second season of Dagashi Kashi.",
+  "title": {
+    "jp": "Dagashi Kashi 2"
+  },
+  "releasedAt": "2018-01-12T00:00:00.000Z",
+  "finishedAt": "2018-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13701/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13701/original.png",
+  "categories": [
+    "asia",
+    "comedy",
+    "countryside",
+    "earth",
+    "japan",
+    "parody",
+    "slice of life",
+    "slow when it comes to love"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/dagashi-kashi",
+    "https://www.funimation.com/shows/91417/"
+  ],
+  "relations": {
+    "kitsu": "13701",
+    "anilist/anime": "99734",
+    "aozora": "GZhr8B3wWh",
+    "myanimelist/anime": "36049",
+    "thetvdb/series": "303725/2"
+  }
+}

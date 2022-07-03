@@ -1,0 +1,33 @@
+{
+  "slug": "healin-good-precure",
+  "synopsis": "The Healing Garden, a secret world that treats Earth's ailments, has been attacked by the Byōgens who seek to infect Earth. Three \"medical trainee\" Healing Animals and Latte, a Healing Garden princess with special powers, have come in search of partners to avert the threat. The three girls they meet — Nodoka, Chiyu, and Hinata — transform into Precures and stand up to the Byōgens to protect all life on Earth and the Healing Garden.(Source: ANN)",
+  "title": {
+    "en": "Healin' Good Pretty Cure",
+    "jp": "Healin' Good♡Precure"
+  },
+  "releasedAt": "2020-02-01T00:00:00.000Z",
+  "finishedAt": "2021-02-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42650/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42650/original.png",
+  "categories": [
+    "action",
+    "fantasy",
+    "kids",
+    "magic",
+    "magical girl",
+    "shoujo"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/healin-good-pretty-cure"
+  ],
+  "relations": {
+    "kitsu": "42650",
+    "anidb": "15231",
+    "anilist/anime": "112748",
+    "animenewsnetwork": "22964",
+    "myanimelist/anime": "40610"
+  }
+}

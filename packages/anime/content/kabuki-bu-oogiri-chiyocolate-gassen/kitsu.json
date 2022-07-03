@@ -1,0 +1,21 @@
+{
+  "slug": "kabuki-bu-oogiri-chiyocolate-gassen",
+  "synopsis": "A special episode bundled with the BD release of the television series.",
+  "title": {
+    "jp": "Kabuki-bu!: Oogiri \"Chiyocolate-gassen\""
+  },
+  "releasedAt": "2017-09-27T00:00:00.000Z",
+  "finishedAt": "2017-09-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40756/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40756",
+    "anilist/anime": "98851",
+    "aozora": "rQO29NggqE",
+    "myanimelist/anime": "35416"
+  }
+}

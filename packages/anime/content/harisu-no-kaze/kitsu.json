@@ -1,0 +1,26 @@
+{
+  "slug": "harisu-no-kaze",
+  "synopsis": "A boy known as a troublemaker transfers into a new school. \n(Source: AniDB)",
+  "title": {
+    "jp": "Harisu no Kaze"
+  },
+  "releasedAt": "1966-05-05T00:00:00.000Z",
+  "finishedAt": "1967-08-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9300/original.jpg",
+  "categories": [
+    "comedy",
+    "delinquent",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9300",
+    "anidb": "2243",
+    "anilist/anime": "17667",
+    "aozora": "DZncd7EM2j",
+    "myanimelist/anime": "17667"
+  }
+}

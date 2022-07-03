@@ -1,0 +1,32 @@
+{
+  "slug": "cherry-no-manma",
+  "synopsis": "A comedy between a young girl and her two housemaid boyfriends.",
+  "title": {
+    "en": "Cherry no Manma",
+    "jp": "Cherry no Manma"
+  },
+  "releasedAt": "1989-10-14T00:00:00.000Z",
+  "finishedAt": "1989-10-14T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4527/original.jpg",
+  "categories": [
+    "asia",
+    "bishounen",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4527",
+    "anidb": "6670",
+    "anilist/anime": "6346",
+    "aozora": "haRtUujPGO",
+    "myanimelist/anime": "6346"
+  }
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "title": {
+      "jp": "Shutsujin"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2017-07-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Butaichou"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2017-07-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Aruji no Mei"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2017-07-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mamoritakatta Mono"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2017-07-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Senka"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2017-07-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Honmaru"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2017-08-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dai-1 Butai"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2017-08-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rekishi wo Mamoru"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2017-08-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Moto no Aruji"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2017-08-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chuugi no Mukau Saki"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2017-09-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tetsu no Okite"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2017-09-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hakodate Sensou"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2017-09-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Katsugeki"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "2017-09-24T00:00:00.000Z",
+    "content": {}
+  }
+]

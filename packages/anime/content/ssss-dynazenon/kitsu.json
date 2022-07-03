@@ -1,0 +1,27 @@
+{
+  "slug": "SSSS-Dynazenon",
+  "synopsis": "One day, Yomogi Asanaka, a first-year student at Fujiyokidai High School, runs into a mysterious man named Gauma who claims to be a “kaiju user.”\n\nThe sudden appearance of a kaiju is followed by the entry of the gigantic robot, Dynazenon. In the wrong place at the wrong time are Yume Minami, Koyomi Yamanaka, and Chise Asukagawa, who are dragged into the fight against the kaiju.\n\n(Source: Funimation)",
+  "title": {
+    "jp": "SSSS.Dynazenon"
+  },
+  "releasedAt": "2021-04-02T00:00:00.000Z",
+  "finishedAt": "2021-06-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42888/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/ssssdynazenon/"
+  ],
+  "relations": {
+    "kitsu": "42888",
+    "anidb": "15312",
+    "anilist/anime": "113950",
+    "myanimelist/anime": "40870"
+  }
+}

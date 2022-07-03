@@ -1,0 +1,24 @@
+{
+  "slug": "hadashi-neko",
+  "synopsis": "A cat find himself troubled trying to steal a fish from a kitchen.",
+  "title": {
+    "jp": "Hadashi Neko"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10602/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10602",
+    "anidb": "12406",
+    "aozora": "Jry7NhBxFu",
+    "myanimelist/anime": "30046"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "she-ra-and-the-princesses-of-power-season-2",
+  "synopsis": "Second season of She-Ra and the Princesses of Power.",
+  "title": {},
+  "releasedAt": "2019-04-26T00:00:00.000Z",
+  "finishedAt": "2019-04-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42133/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42133/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "magic",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80992853"
+  ],
+  "relations": {
+    "kitsu": "42133",
+    "thetvdb": "350399/2"
+  }
+}

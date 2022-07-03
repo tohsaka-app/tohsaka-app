@@ -1,0 +1,36 @@
+{
+  "slug": "aa-megami-sama-movie",
+  "synopsis": "For centuries, a god named Celestin has been imprisoned on the moon for betraying the kingdom of Yggdrasil. Released by the fairy Morgan Le Fey, Celestin travels to Earth to reunite with his former pupil, the goddess Belldandy. Things go awry as Celestin erases Belldandy's memories of her boyfriend Keiichi and uses her as a catalyst to wreak havoc on Earth and Yggdrasil. ",
+  "title": {
+    "en": "Ah! My Goddess: The Movie",
+    "jp": "Aa! Megami-sama! Movie"
+  },
+  "releasedAt": "2000-10-21T00:00:00.000Z",
+  "finishedAt": "2000-10-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7784/original.jpg",
+  "categories": [
+    "alternative present",
+    "comedy",
+    "deity",
+    "drama",
+    "fantasy",
+    "japan",
+    "magic",
+    "parallel universe",
+    "romance",
+    "university"
+  ],
+  "externals": [
+    "http://www.hulu.com/ah-my-goddess"
+  ],
+  "relations": {
+    "kitsu": "7784",
+    "anidb": "206",
+    "anilist/anime": "304",
+    "aozora": "IYEOiahR2u",
+    "myanimelist/anime": "304"
+  }
+}

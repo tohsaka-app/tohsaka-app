@@ -1,0 +1,26 @@
+{
+  "slug": "promised-town",
+  "synopsis": "Year 20XX \nW.I , Inc. has developed a humanoid weapon with high combat performance and advanced artificial intelligence (Clone-type robot), plotting a world invasion using those robots for war.\nLuka, a Clone-type robot, awakens and feels a strong urge to reunite with Kento, who was remodeled as the Clone-type robot Z1.\n(Source: Official Site)",
+  "title": {
+    "en": "Promised Town",
+    "jp": "Promised Town"
+  },
+  "releasedAt": "2016-06-16T00:00:00.000Z",
+  "finishedAt": "2016-06-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12402/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12402",
+    "anilist/anime": "102644",
+    "aozora": "C83fesZzSQ",
+    "myanimelist/anime": "33493"
+  }
+}

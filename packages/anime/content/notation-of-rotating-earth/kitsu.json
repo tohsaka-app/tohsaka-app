@@ -1,0 +1,23 @@
+{
+  "slug": "notation-of-rotating-earth",
+  "synopsis": "Graduation film by Takashi Ohashi, featuring a 360° time lapse of Daiba,Tokyo set to classical music, animating the background lights of the city.",
+  "title": {
+    "en": "Notation of Rotating Earth",
+    "jp": "Notation of Rotating Earth"
+  },
+  "releasedAt": "2009-09-20T00:00:00.000Z",
+  "finishedAt": "2009-09-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44496/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44496",
+    "anilist/anime": "111998",
+    "myanimelist/anime": "39306"
+  }
+}

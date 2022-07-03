@@ -1,0 +1,34 @@
+{
+  "slug": "tenkuu-no-escaflowne-recaps",
+  "synopsis": "Recaps of Tenkuu no Escaflowne included in the BD-BOX.\n",
+  "title": {
+    "en": "The Vision of Escaflowne Recaps",
+    "jp": "Tenkuu no Escaflowne Recaps"
+  },
+  "releasedAt": "2012-02-24T00:00:00.000Z",
+  "finishedAt": "2012-02-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42415/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42415/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "mecha",
+    "piloted robot",
+    "romance",
+    "science fiction",
+    "steampunk",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42415",
+    "myanimelist/anime": "39329"
+  }
+}

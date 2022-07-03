@@ -1,0 +1,26 @@
+{
+  "slug": "the-zero-century-movie-1-emeraldas",
+  "synopsis": "",
+  "title": {
+    "jp": "The Zero Century Movie 1: Emeraldas"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13628/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13628",
+    "anilist/anime": "100081",
+    "aozora": "phSoL3BtIH",
+    "myanimelist/anime": "35853"
+  }
+}

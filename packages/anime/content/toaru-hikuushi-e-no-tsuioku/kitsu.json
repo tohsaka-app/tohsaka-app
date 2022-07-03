@@ -1,0 +1,36 @@
+{
+  "slug": "toaru-hikuushi-e-no-tsuioku",
+  "synopsis": "The war between the Levamme Empire and the Amatsukami Imperium has been raging for years. In the midst of this struggle, the prince of the Levamme Empire declares his love for Juana del Moral and vows to end the war in one year, as part of his marriage proposal. When the Amatsukami catch wind of this, they assault the del Moral residence, targeting Juana's life. As a last ditch effort to bring the prince his bride, the San Maltilia Airforce hires a mercenary of mixed blood—a bestado—to fly Juana to the Levamme capital in secret. The pilot, Charles, accepts the mission...but traversing an ocean alone, into enemy territory, proves a much more dangerous ordeal than anyone could have anticipated.\n(Source: NIS America)",
+  "title": {
+    "en": "The Princess and the Pilot",
+    "jp": "Toaru Hikuushi e no Tsuioku"
+  },
+  "releasedAt": "2011-10-01T00:00:00.000Z",
+  "finishedAt": "2011-10-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5567/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5567/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "air force",
+    "fantasy world",
+    "military",
+    "past",
+    "romance",
+    "war"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-princess-and-the-pilot"
+  ],
+  "relations": {
+    "kitsu": "5567",
+    "anidb": "7478",
+    "anilist/anime": "9000",
+    "aozora": "EXhxAemOpv",
+    "hulu": "50015782",
+    "myanimelist/anime": "9000"
+  }
+}

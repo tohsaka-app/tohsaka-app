@@ -1,0 +1,25 @@
+{
+  "slug": "REcycle-of-the-PENGUINDRUM-Kouhen--Boku-wa-Kimi-wo-Aishiteru",
+  "synopsis": "The second film in a duology compiling the Mawaru Penguindrum anime with new elements.",
+  "title": {
+    "jp": "RE:cycle of the PENGUINDRUM: Kouhen - Boku wa Kimi wo Aishiteru"
+  },
+  "releasedAt": "2022-07-22T00:00:00.000Z",
+  "finishedAt": "2022-07-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "upcoming",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46084/poster_image/574235bdb30677fbe0f60404d63198fc.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "mystery",
+    "psychological",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46084",
+    "anilist/anime": "148179"
+  }
+}

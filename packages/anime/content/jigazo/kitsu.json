@@ -1,0 +1,24 @@
+{
+  "slug": "jigazo",
+  "synopsis": "A man walks. His form wobbles precariously. The world is hard to tell subjective or objective. His body is cut in pieces. Only the power of image can make these unite.\n\n1st year work 2013 by Takashi Shibuya, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Self Image",
+    "jp": "Jigazo"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45797/poster_image/c25d9b1f250643efc2fb4f2555f12d43.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/-yO_zCGhyFM"
+  ],
+  "relations": {
+    "kitsu": "45797",
+    "anilist/anime": "104359"
+  }
+}

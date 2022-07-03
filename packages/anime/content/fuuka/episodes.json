@@ -1,0 +1,120 @@
+[
+  {
+    "title": {
+      "jp": "Fuuka!"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5389/original.png",
+    "releasedAt": "2017-01-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Habatake!"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5386/original.jpg",
+    "releasedAt": "2017-01-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Triangle!"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5390/original.jpg",
+    "releasedAt": "2017-01-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Live!"
+    },
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5385/original.jpg",
+    "releasedAt": "2017-01-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nakama！"
+    },
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5391/original.jpg",
+    "releasedAt": "2017-01-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hinashi Koyuki"
+    },
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5392/original.jpg",
+    "releasedAt": "2017-02-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Daienjou!"
+    },
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5410/original.jpg",
+    "releasedAt": "2017-02-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Top!"
+    },
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5411/original.jpg",
+    "releasedAt": "2017-02-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Date!"
+    },
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5412/original.jpg",
+    "releasedAt": "2017-02-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Unmei"
+    },
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5413/original.jpg",
+    "releasedAt": "2017-03-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Band"
+    },
+    "season": 1,
+    "number": 11,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5414/original.jpg",
+    "releasedAt": "2017-03-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 12,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5415/original.jpg",
+    "releasedAt": "2017-03-24T00:00:00.000Z",
+    "content": {}
+  }
+]

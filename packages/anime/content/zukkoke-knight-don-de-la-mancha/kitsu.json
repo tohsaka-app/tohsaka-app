@@ -1,0 +1,30 @@
+{
+  "slug": "zukkoke-knight-don-de-la-mancha",
+  "synopsis": "Don Quixote, that infinitely popular character, travels the countryside battling windmills and attempting to win the love of his Dulcinea.",
+  "title": {
+    "en": "Don Quixote",
+    "jp": "Zukkoke Knight: Don De La Mancha"
+  },
+  "releasedAt": "1980-04-15T00:00:00.000Z",
+  "finishedAt": "1980-09-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5129/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5129",
+    "anidb": "3661",
+    "anilist/anime": "7808",
+    "aozora": "0ZRygWg6wH",
+    "myanimelist/anime": "7808",
+    "thetvdb": "251212/1",
+    "thetvdb/series": "251212"
+  }
+}

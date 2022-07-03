@@ -1,0 +1,26 @@
+{
+  "slug": "haikyuu-to-the-top",
+  "synopsis": "The fourth season of Haikyuu!!\n",
+  "title": {
+    "jp": "Haikyuu!!: To the Top"
+  },
+  "releasedAt": "2020-01-10T00:00:00.000Z",
+  "finishedAt": "2020-04-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42059/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "shounen",
+    "sports",
+    "volleyball"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42059",
+    "anilist/anime": "106625",
+    "myanimelist/anime": "38883"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "xi-yang-yang-yu-hui-tai-lang-zhi-fei-ma-qi-yu-ji",
+  "synopsis": "",
+  "title": {
+    "en": "Meet The Pegasus",
+    "jp": "Xi Yang Yang Yu Hui Tai Lang: Zhi Fei Ma Qi Yu Ji"
+  },
+  "releasedAt": "2014-01-16T00:00:00.000Z",
+  "finishedAt": "2014-01-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41154/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41154",
+    "anilist/anime": "131564",
+    "myanimelist/anime": "37391"
+  }
+}

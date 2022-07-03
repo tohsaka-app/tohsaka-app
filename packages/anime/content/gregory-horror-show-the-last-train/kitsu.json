@@ -1,0 +1,30 @@
+{
+  "slug": "gregory-horror-show-the-last-train",
+  "synopsis": "The third series, The Last Train is set with 26 stories during a bizarre train ride that Gregory embarks upon.\n(Source: AniDB)",
+  "title": {
+    "jp": "Gregory Horror Show: The Last Train"
+  },
+  "releasedAt": "2000-10-07T00:00:00.000Z",
+  "finishedAt": "2001-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6744/original.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "fantasy",
+    "horror",
+    "mystery",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6744",
+    "anidb": "8017",
+    "anilist/anime": "12483",
+    "aozora": "40iqkfbOuq",
+    "myanimelist/anime": "12483",
+    "trakt": "99759"
+  }
+}

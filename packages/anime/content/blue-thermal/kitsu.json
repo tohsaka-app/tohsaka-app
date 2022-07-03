@@ -1,0 +1,27 @@
+{
+  "slug": "blue-thermal",
+  "synopsis": "The story centers on Tamaki Tsuru, who was on sports teams throughout her entire school life until high school, but is instead seeking an active romantic life once she enters college. However, a turn of events puts her on the path to joining her university's glider club at college.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Blue Thermal",
+    "jp": "Blue Thermal: Aonagi Daigaku Taiikukai Koukuu-bu"
+  },
+  "releasedAt": "2022-03-04T00:00:00.000Z",
+  "finishedAt": "2022-03-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45024/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/45024/original.png",
+  "categories": [
+    "drama",
+    "school clubs",
+    "seinen",
+    "university"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45024",
+    "anilist/anime": "138379",
+    "myanimelist/anime": "49665"
+  }
+}

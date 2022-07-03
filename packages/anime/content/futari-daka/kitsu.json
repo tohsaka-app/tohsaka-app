@@ -1,0 +1,26 @@
+{
+  "slug": "futari-daka",
+  "synopsis": "Two motor-bike crazy young men meet on a track one day. One almost kills the other and after a while, they discover that they have the same first name. Since they are both excellent at racing, they very quickly become rivals ... but their passion and firstname is not the only thing they have in common.",
+  "title": {
+    "en": "Futari Daka",
+    "jp": "Futari Daka"
+  },
+  "releasedAt": "1984-09-20T00:00:00.000Z",
+  "finishedAt": "1985-07-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3264/original.jpg",
+  "categories": [
+    "motorsport",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3264",
+    "anidb": "3489",
+    "anilist/anime": "3808",
+    "aozora": "hUAeeexZb5",
+    "myanimelist/anime": "3808"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "patta-potta-monta",
+  "synopsis": "Three monkey brothers from the from an urban city go to live in the countryside. There's no convenience store nor arcades there; truly bare-bones. The story follows their daily lives trying to make friends and have fun amongst the villagers. ",
+  "title": {
+    "en": "Going Wild",
+    "jp": "Patta Potta Monta"
+  },
+  "releasedAt": "2006-08-01T00:00:00.000Z",
+  "finishedAt": "2007-01-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9531/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9531",
+    "anidb": "4566",
+    "anilist/anime": "110453",
+    "aozora": "Hfc48Q4EQH",
+    "myanimelist/anime": "24121"
+  }
+}

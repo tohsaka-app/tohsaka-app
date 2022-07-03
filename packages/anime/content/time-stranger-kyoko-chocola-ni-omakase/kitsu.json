@@ -1,0 +1,27 @@
+{
+  "slug": "time-stranger-kyoko-chocola-ni-omakase",
+  "synopsis": "Preparing a party for her anniversary with the King, when he failed to show up Chocola decided to run away from the castle.",
+  "title": {
+    "jp": "Jikuu Ihoujin Kyoko: Chocola ni Omakase!"
+  },
+  "releasedAt": "2001-08-02T00:00:00.000Z",
+  "finishedAt": "2001-08-02T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1450/original.jpg",
+  "categories": [
+    "android",
+    "bishounen",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1450",
+    "anidb": "723",
+    "anilist/anime": "1613",
+    "aozora": "THqZD2F0RU",
+    "myanimelist/anime": "1613"
+  }
+}

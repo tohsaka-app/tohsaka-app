@@ -1,0 +1,34 @@
+{
+  "slug": "psychic-wars",
+  "synopsis": "Ukyo Rettsu, a surgeon, treats a mysterous old woman for a mysterious \"cancer.\" The growth turns out to be a messenger from the ancient past of Japan heralding a demonic invasion of the Earth. Ukyo must go back in time and fight the race of ancient demons. \n(Source: AniDB)",
+  "title": {
+    "en": "Psychic Wars",
+    "jp": "Soujuu Senshi Psychic Wars"
+  },
+  "releasedAt": "1991-02-22T00:00:00.000Z",
+  "finishedAt": "1991-02-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1200/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "demon",
+    "earth",
+    "fantasy",
+    "horror",
+    "japan",
+    "present",
+    "super power",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1200",
+    "anidb": "4455",
+    "anilist/anime": "1345",
+    "aozora": "L8QPZmRpX5",
+    "myanimelist/anime": "1345"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "tales-of-the-abyss",
+  "synopsis": "The world of Auldrant is bound by the Score, a series of prophecies from centuries past that dictate the world's future. It is considered an absolute fate that everyone lives by—even people whose actions lead to bloodshed and tears. Using magical abilities known as the Fonic Arts, a war between the nation of Kimlasca-Lanvaldear and the Malkuth Empire is waged in hopes of bringing the Score's foreseen utopia to life.Tales of the Abyss follows Luke von Fabre, who spends his days locked away in his manor after being kidnapped and losing memories as a child. One day, while honing his swordsmanship, a woman named Tear attempts to assassinate his master. Luke defends him, but the clash results in the two being teleported to a distant land. Luke and Tear’s journey back quickly escalates into a quest that will either free the world from the Score's chains or destroy it completely.",
+  "title": {
+    "en": "Tales of the Abyss",
+    "jp": "Tales of the Abyss"
+  },
+  "releasedAt": "2008-10-03T00:00:00.000Z",
+  "finishedAt": "2009-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3836/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3836/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anthropomorphism",
+    "deity",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "magic",
+    "parallel universe",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3836",
+    "anidb": "6040",
+    "anilist/anime": "4884",
+    "aozora": "tIXZWnYLiM",
+    "myanimelist/anime": "4884",
+    "thetvdb": "83335/1",
+    "thetvdb/series": "83335",
+    "trakt": "61992"
+  }
+}

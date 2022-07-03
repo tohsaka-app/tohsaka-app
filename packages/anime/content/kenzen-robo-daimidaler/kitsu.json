@@ -1,0 +1,41 @@
+{
+  "slug": "kenzen-robo-daimidaler",
+  "synopsis": "The comedy centers around a high school boy named Madanbashi Kouichi who has Hi-ERo particles, the power source to operate the robotic weapon Daimidaler.\nWith the help of Sonan Kyouko from the mysterious Prince Beauty Parlor organization, he stands up against the Penguin Empire that troubles humanity.\n(Source: ANN)",
+  "title": {
+    "en": "Daimidaler: Prince vs. Penguin Empire",
+    "jp": "Kenzen Robo Daimidaler"
+  },
+  "releasedAt": "2014-04-05T00:00:00.000Z",
+  "finishedAt": "2014-06-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8163/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8163/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "mecha",
+    "parody",
+    "piloted robot",
+    "robot",
+    "science fiction",
+    "super robot"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/daimidaler-prince-vs-penguin-empire?skip_wall=1",
+    "http://www.funimation.com/shows/daimidaler/videos/episodes",
+    "http://www.hulu.com/daimidaler-prince-vs-penguin-empire"
+  ],
+  "relations": {
+    "kitsu": "8163",
+    "anidb": "10366",
+    "anilist/anime": "20588",
+    "aozora": "enfBeJTcW7",
+    "hulu": "50015668",
+    "myanimelist/anime": "21809",
+    "thetvdb": "278262/1",
+    "thetvdb/series": "278262",
+    "trakt": "60374"
+  }
+}

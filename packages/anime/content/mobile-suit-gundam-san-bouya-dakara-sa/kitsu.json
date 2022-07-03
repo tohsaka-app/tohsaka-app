@@ -1,0 +1,26 @@
+{
+  "slug": "mobile-suit-gundam-san-bouya-dakara-sa",
+  "synopsis": "A new short episode of the Mobile Suit Gundam-san parody series.\n(Source: ANN)",
+  "title": {
+    "en": "Mobile Suit Gundam-san: Bouya Dakara sa",
+    "jp": "Mobile Suit Gundam-san: Bouya Dakara sa"
+  },
+  "releasedAt": "2015-12-05T00:00:00.000Z",
+  "finishedAt": "2015-12-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12096/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12096",
+    "anilist/anime": "112471",
+    "aozora": "5VCOTPKljF",
+    "myanimelist/anime": "32158"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "megaton-kyuu-musashi",
+  "synopsis": "The story takes place after 90 percent of humanity wiped out due to an invasion. Survivors live in a shelter where their lives are monitored, and memories of the invasion erased. Three teenagers from the shelter are chosen to pilot three machines that combine to form the Musashi robot, made out of a material named Megatronium alloy. The series will balance robot action with school life.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Megaton-kyuu Musashi"
+  },
+  "releasedAt": "2021-10-01T00:00:00.000Z",
+  "finishedAt": "2021-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12509/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/12509/cover_image/a6403e02847c0648a73c15cba6d05f42.png",
+  "categories": [
+    "mecha",
+    "post apocalypse",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12509",
+    "anidb": "12296",
+    "anilist/anime": "87502",
+    "aozora": "tlSyDGd94o",
+    "myanimelist/anime": "33737"
+  }
+}

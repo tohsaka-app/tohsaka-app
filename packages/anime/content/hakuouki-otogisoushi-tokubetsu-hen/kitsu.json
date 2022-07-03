@@ -1,0 +1,25 @@
+{
+  "slug": "hakuouki-otogisoushi-tokubetsu-hen",
+  "synopsis": "A Hakuouki: Otogisoushi special episode that aired between episode 11 and episode 12, it was not included in the normal episode count of the main show. It had a TV and web release on the same day and is included on the DVD and BD release.\n",
+  "title": {
+    "jp": "Hakuouki: Otogisoushi Special"
+  },
+  "releasedAt": "2016-06-21T00:00:00.000Z",
+  "finishedAt": "2016-06-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13404/original.jpg",
+  "categories": [
+    "fantasy",
+    "historical",
+    "josei",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13404",
+    "aozora": "NPsGvg27LW",
+    "myanimelist/anime": "34948"
+  }
+}

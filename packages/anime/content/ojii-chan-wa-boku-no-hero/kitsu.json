@@ -1,0 +1,23 @@
+{
+  "slug": "ojii-chan-wa-boku-no-hero",
+  "synopsis": "An educational film for Respect for the Aged Day.",
+  "title": {
+    "jp": "Ojiichan wa Boku no Hero"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11049/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11049",
+    "aozora": "KXmJaQ0ivx",
+    "myanimelist/anime": "30943"
+  }
+}

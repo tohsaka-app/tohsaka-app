@@ -1,0 +1,20 @@
+{
+  "slug": "lostorage-conflated-wixoss-missing-link",
+  "synopsis": "",
+  "title": {
+    "jp": "Lostorage Conflated WIXOSS: Missing Link"
+  },
+  "releasedAt": "2017-12-14T00:00:00.000Z",
+  "finishedAt": "2017-12-14T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41607/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41607",
+    "anilist/anime": "100184",
+    "myanimelist/anime": "36083"
+  }
+}

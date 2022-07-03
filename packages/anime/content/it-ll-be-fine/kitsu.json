@@ -1,0 +1,24 @@
+{
+  "slug": "it-ll-be-fine",
+  "synopsis": "An animated music video from Project Pochama, a special medley called It'll be fine! performed by Megumi Toyoguchi. The songs featured consists of \"Kimi no Soba de ~Hikari no Theme~\" (君のそばで〜ヒカリのテーマ〜), \"Ashita wa Kitto\" (あしたはきっと), \"Kimi no Mune ni LaLaLa\" (君の胸にLaLaLa), and \"Kaze no Message\" (風のメッセージ) all of which were ending theme songs used in the Pocket Monsters Diamond &amp; Pearl anime.",
+  "title": {
+    "en": "It'll be fine!",
+    "jp": "It'll be fine!"
+  },
+  "releasedAt": "2022-01-13T00:00:00.000Z",
+  "finishedAt": "2022-01-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45755/poster_image/cfaaf5773fc56330fc278cdc3a6bad4b.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/__HPQPjSdzw"
+  ],
+  "relations": {
+    "kitsu": "45755",
+    "anilist/anime": "143863"
+  }
+}

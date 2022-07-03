@@ -1,0 +1,24 @@
+{
+  "slug": "sk-crazy-rock-jam",
+  "synopsis": "Recap of the first 9 episodes of SK∞.",
+  "title": {
+    "jp": "SK∞: Crazy Rock Jam"
+  },
+  "releasedAt": "2021-03-14T00:00:00.000Z",
+  "finishedAt": "2021-03-14T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44177/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44177/original.jpg",
+  "categories": [
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44177",
+    "anidb": "15736",
+    "myanimelist/anime": "48456"
+  }
+}

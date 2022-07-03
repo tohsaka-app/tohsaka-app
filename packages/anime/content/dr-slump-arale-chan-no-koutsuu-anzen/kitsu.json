@@ -1,0 +1,25 @@
+{
+  "slug": "dr-slump-arale-chan-no-koutsuu-anzen",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Dr. Slump: Arale-chan no Koutsuu Anzen"
+  },
+  "releasedAt": "1983-01-01T00:00:00.000Z",
+  "finishedAt": "1983-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10965/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10965",
+    "anilist/anime": "139062",
+    "aozora": "G85JXcYHyN",
+    "myanimelist/anime": "30420"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "isekai-wa-smartphone-to-tomo-ni",
+  "synopsis": "When Touya Mochizuki is accidentally struck by lightning and killed, God apologizes by reviving him into a fantasy world and granting him one wish. Touya’s request? To keep his smartphone in the next world. In his second chance at life, Touya befriends many important figures, inherits the legacy of an ancient civilization, and travels around with incredible power and a harem of girls!\n\n(Source: Funimation)",
+  "title": {
+    "en": "In Another World With My Smartphone",
+    "jp": "Isekai wa Smartphone to Tomo ni."
+  },
+  "releasedAt": "2017-07-11T00:00:00.000Z",
+  "finishedAt": "2017-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13457/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13457/original.png",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "harem",
+    "isekai",
+    "romance"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/in-another-world-with-my-smartphone",
+    "https://www.funimation.com/shows/500459/",
+    "https://www.hulu.com/in-another-world-with-my-smartphone"
+  ],
+  "relations": {
+    "kitsu": "13457",
+    "anilist/anime": "98491",
+    "aozora": "ZNJdRrM8Ud",
+    "hulu": "50031718",
+    "myanimelist/anime": "35203",
+    "thetvdb": "329992/1"
+  }
+}

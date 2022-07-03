@@ -1,0 +1,23 @@
+{
+  "slug": "tsuru-shitae-waka-kan",
+  "synopsis": "Spans 13 meters 53 cm long picture scroll painting by Sotatsu Tawaraya, \"Tsuru shitae waka kan (Anthology with Cranes)\" (17th Century) is a unique painting to evoke the moving image.\nYamamura try to decipher this \"Anthology with Cranes\" and the intent of Sotatsu Tawaraya, finished in experimental work and interpret it as animation.\n(Source: Yamamura Animation)",
+  "title": {
+    "en": "Anthology With Cranes",
+    "jp": "Tsuru Shitae Waka Kan"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11674/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "11674",
+    "anidb": "11705",
+    "anilist/anime": "103932",
+    "aozora": "3K25XvZAm4",
+    "myanimelist/anime": "31760"
+  }
+}

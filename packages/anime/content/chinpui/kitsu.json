@@ -1,0 +1,24 @@
+{
+  "slug": "chinpui",
+  "synopsis": "TV anime show based on the manga by F. Fujio Fujiko.",
+  "title": {
+    "jp": "Chinpui"
+  },
+  "releasedAt": "1989-02-11T00:00:00.000Z",
+  "finishedAt": "1991-04-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4331/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4331",
+    "anidb": "5227",
+    "anilist/anime": "5908",
+    "aozora": "4nbOFy7HUw",
+    "myanimelist/anime": "5908"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ani-ni-tsukeru-kusuri-wa-nai-3",
+  "synopsis": "Third season of Ani ni Tsukeru Kusuri wa Nai!.",
+  "title": {
+    "jp": "Ani ni Tsukeru Kusuri wa Nai! 3"
+  },
+  "releasedAt": "2019-10-07T00:00:00.000Z",
+  "finishedAt": "2019-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42399/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42399",
+    "anidb": "14956",
+    "anilist/anime": "110088",
+    "myanimelist/anime": "39959"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "conception-ore-no-kodomo-wo-undekure",
+  "synopsis": "Itsuki Yūge is a high school student who finds out on the day of his graduation ceremony that his cousin and childhood friend Mahiru is pregnant. Immediately afterward, Itsuki and Mahiru are taken to a magical world called Granvania, which is currently being invaded by monsters. The only people who can fight and exorcise the monsters are the \"Star Children,\" and the Star Children can only be produced by the 12 \"Star Maidens.\" In order to defeat the monsters and return to his own world, Itsuki must father the Star Children with the Maidens.\n\n(Source: ANN)",
+  "title": {
+    "en": "Conception",
+    "jp": "Conception"
+  },
+  "releasedAt": "2018-10-10T00:00:00.000Z",
+  "finishedAt": "2018-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41269/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41269/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "harem",
+    "isekai",
+    "magic",
+    "romance"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/conception",
+    "https://www.funimation.com/shows/conception/"
+  ],
+  "relations": {
+    "kitsu": "41269",
+    "anidb": "14068",
+    "anilist/anime": "101609",
+    "myanimelist/anime": "37823"
+  }
+}

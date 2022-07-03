@@ -1,0 +1,34 @@
+{
+  "slug": "final-fantasy",
+  "synopsis": "A continuation of the events from Final Fantasy V. 200 years after Bartz and his friends saved two worlds from the threat of ExDeath, a threat arises and seeks to take the Crystals for itself. Linaly, a descendant of Bartz, and her friend/protector Prettz journey to the Temple Of Wind to seek the source of this new danger. \n(Source: ANN)",
+  "title": {
+    "en": "Legend of the Crystals: Final Fantasy",
+    "jp": "Final Fantasy"
+  },
+  "releasedAt": "1994-03-21T00:00:00.000Z",
+  "finishedAt": "1994-07-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/390/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "bounty hunter",
+    "comedy",
+    "fantasy",
+    "mecha",
+    "other planet",
+    "post apocalypse",
+    "steampunk",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "390",
+    "anidb": "446",
+    "anilist/anime": "426",
+    "aozora": "iNDXyNdgWm",
+    "myanimelist/anime": "426"
+  }
+}

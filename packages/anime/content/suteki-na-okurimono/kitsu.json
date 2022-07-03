@@ -1,0 +1,23 @@
+{
+  "slug": "suteki-na-okurimono",
+  "synopsis": "Christmas-themed indie animation from 2019. It was made by Junya Iwake.",
+  "title": {
+    "en": "A Wonderful Present",
+    "jp": "Suteki na Okurimono"
+  },
+  "releasedAt": "2019-06-11T00:00:00.000Z",
+  "finishedAt": "2019-06-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45734/poster_image/e30bd9d021687cc8fcd35acef6a6fc4c.jpg",
+  "categories": [
+    "romance",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45734",
+    "myanimelist/anime": "50640"
+  }
+}

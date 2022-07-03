@@ -1,0 +1,25 @@
+{
+  "slug": "id-entity-voices",
+  "synopsis": "A music video for the song id:entity voices Performed by the members of Hololive ID Generations 1 and 2.",
+  "title": {
+    "en": "id:entity voices"
+  },
+  "releasedAt": "2021-04-06T00:00:00.000Z",
+  "finishedAt": "2021-04-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44304/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44304/original.jpg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Wp90CrP-s_8"
+  ],
+  "relations": {
+    "kitsu": "44304"
+  }
+}

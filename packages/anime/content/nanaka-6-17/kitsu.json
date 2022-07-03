@@ -1,0 +1,37 @@
+{
+  "slug": "nanaka-6-17",
+  "synopsis": "Seventeen-year-old Nanaka Kirisato is a high school student serious about her studies and goals in life. She frequently criticizes her best friend, Nenji Nagihara, for being a childish delinquent who spends his time fighting other boys. Then one day, after a heated argument with Nenji, she falls off a flight of stairs and suffers a brain injury, resulting in her mind reverting to that of a six-year-old. With this in mind, Nanaka's father and Nenji must keep her injury a secret as she struggles to live a normal life and grow up all over again. \n(Source: ANN)",
+  "title": {
+    "jp": "Nanaka 6/17"
+  },
+  "releasedAt": "2003-01-09T00:00:00.000Z",
+  "finishedAt": "2003-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/694/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/694/original.jpg",
+  "categories": [
+    "comedy",
+    "japan",
+    "love polygon",
+    "present",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.hulu.com/nanaka-617"
+  ],
+  "relations": {
+    "kitsu": "694",
+    "anidb": "473",
+    "anilist/anime": "776",
+    "aozora": "kv73J6unFc",
+    "hulu": "50003043",
+    "myanimelist/anime": "776",
+    "thetvdb": "107441/1",
+    "thetvdb/series": "107441",
+    "trakt": "34058"
+  }
+}

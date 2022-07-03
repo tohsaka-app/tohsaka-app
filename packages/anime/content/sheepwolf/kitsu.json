@@ -1,0 +1,25 @@
+{
+  "slug": "sheepwolf",
+  "synopsis": "A wolf makes a fool of himself trying to eat sheep that are playing baseball.",
+  "title": {
+    "en": "SheepWolf",
+    "jp": "SheepWolf"
+  },
+  "releasedAt": "2009-04-08T00:00:00.000Z",
+  "finishedAt": "2009-04-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9577/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9577",
+    "anilist/anime": "104094",
+    "aozora": "ZHHMBWaL2p",
+    "myanimelist/anime": "26007"
+  }
+}

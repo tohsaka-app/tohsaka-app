@@ -1,0 +1,20 @@
+{
+  "slug": "ganko-chan",
+  "synopsis": " ",
+  "title": {
+    "en": null,
+    "jp": "Ganko-chan"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12812/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "12812",
+    "myanimelist/anime": "34485"
+  }
+}

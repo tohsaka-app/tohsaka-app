@@ -1,0 +1,25 @@
+{
+  "slug": "ta-chan-no-kaitei-ryokou",
+  "synopsis": "A short film from 1935.",
+  "title": {
+    "en": "Ta-chan's Underwater Adventure",
+    "jp": "Taa-chan no Kaitei Ryokou"
+  },
+  "releasedAt": "1935-03-26T00:00:00.000Z",
+  "finishedAt": "1935-03-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4736/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4736",
+    "anidb": "6740",
+    "anilist/anime": "6834",
+    "aozora": "29aDckkj4t",
+    "myanimelist/anime": "6834"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "redial",
+  "synopsis": "\"Redial\" is the title track of livetune's 2013 compilation album Re:Dial featuring Hatsune Miku. An animated music video of the song was included in a limited edition DVD sold with the album.",
+  "title": {
+    "jp": "Redial"
+  },
+  "releasedAt": "2013-03-20T00:00:00.000Z",
+  "finishedAt": "2013-03-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8609/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8609",
+    "anidb": "9870",
+    "anilist/anime": "17913",
+    "aozora": "76SG467xkb",
+    "myanimelist/anime": "17913"
+  }
+}

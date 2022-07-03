@@ -1,0 +1,21 @@
+{
+  "slug": "suma-kanoo",
+  "synopsis": "",
+  "title": {
+    "jp": "Suma☆Kanoo!!"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2018-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42115/original.jpg",
+  "categories": [
+    "psychological",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42115"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "ore-ga-suki-nano-wa-imouto-dakedo-imouto-ja-nai-ova",
+  "synopsis": "Bonus OVAs included in the first and second BD/DVD volumes.\n\n",
+  "title": {
+    "en": "My Sister, My Writer (OVA)",
+    "jp": "Ore ga Suki nano wa Imouto dakedo Imouto ja Nai OVA"
+  },
+  "releasedAt": "2019-02-27T00:00:00.000Z",
+  "finishedAt": "2019-03-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42225/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "harem",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42225",
+    "anilist/anime": "108062",
+    "myanimelist/anime": "39397"
+  }
+}

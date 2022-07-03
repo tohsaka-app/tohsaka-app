@@ -1,0 +1,470 @@
+[
+  {
+    "title": {
+      "jp": "Belle Meets Sebastian"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1981-04-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Hunt for Belle"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1981-04-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Night in the Mountains"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1981-04-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Journey Begins"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1981-04-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Escaping Smugglers"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1981-05-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Visit to Jail"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1981-05-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Meeting Sarah"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1981-05-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Promise to Sarah"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1981-06-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Farewell to Sarah"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1981-06-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Case of the Missing Sheep"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1981-06-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Puppy Love"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1981-06-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Operation Substitute"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1981-06-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Runaway Car"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1981-07-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "An Act of Bravery"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1981-07-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Billy the Kid Bank Robber"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1981-07-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Old Man by the Sea"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1981-08-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Phantoms on a Ship"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1981-08-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Smuggled on Board"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1981-08-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Secret of the Castle Ghost"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1981-08-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Ghost's Revenge"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1981-09-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kidnapped"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1981-09-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chased by the Desperados"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1981-09-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mistaken Identities"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1981-09-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Double Crossed"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1981-09-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Meeting at the Mountain"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1981-10-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Isabel's Scarf"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1981-10-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Three Sisters"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1981-10-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Building a New Home"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1981-10-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Belle and Sebastian Are Separated"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1981-11-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's a Boy!"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1981-11-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Reunited at Last"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1981-11-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "When Johnny Comes Marching Home"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "1981-11-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sebastian Loses His Best Friend"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "1981-12-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Come Back to Me!"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "1981-12-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "One Mistake After Another"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "1981-12-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Poisoned!"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "1981-12-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Big Sleep"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "1981-12-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mom Didn't Forget Me"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "1982-01-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Don't Drink the Water"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "1982-01-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Belle iis Captured"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "1982-01-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Help! Save Belle"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "1982-01-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Make New Friends and Keep the Old"
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "1982-02-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "On a Train Bound for Battle"
+    },
+    "season": 1,
+    "number": 43,
+    "releasedAt": "1982-02-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Underground Railroad"
+    },
+    "season": 1,
+    "number": 44,
+    "releasedAt": "1982-02-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Kind Inspector Garcia"
+    },
+    "season": 1,
+    "number": 45,
+    "releasedAt": "1982-02-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Climbing a Wall of Stone"
+    },
+    "season": 1,
+    "number": 46,
+    "releasedAt": "1982-03-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Storm Brews"
+    },
+    "season": 1,
+    "number": 47,
+    "releasedAt": "1982-03-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Snowy Reunion"
+    },
+    "season": 1,
+    "number": 48,
+    "releasedAt": "1982-03-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Devil's Corridor"
+    },
+    "season": 1,
+    "number": 49,
+    "releasedAt": "1982-03-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Belle Risks Her Life"
+    },
+    "season": 1,
+    "number": 50,
+    "releasedAt": "1982-03-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mom Makes Up Her Mind"
+    },
+    "season": 1,
+    "number": 51,
+    "releasedAt": "1982-04-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Happy Ending"
+    },
+    "season": 1,
+    "number": 52,
+    "releasedAt": "1982-04-13T00:00:00.000Z",
+    "content": {}
+  }
+]

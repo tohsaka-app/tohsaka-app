@@ -1,0 +1,21 @@
+{
+  "slug": "kaibutsu-gakushou",
+  "synopsis": "An animated archive of imaginary monsters written by a fictitious monsterologist in Medieval Europe. \n This work depicts the habits of monsters using movement inspired by short phrases such as “Taste of Tears”, “Tamed Wildness”, etc.  \n(Source: Yamamura Animation)",
+  "title": {
+    "jp": "Kaibutsu Gakushou"
+  },
+  "releasedAt": "2016-11-01T00:00:00.000Z",
+  "finishedAt": "2016-11-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40627/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40627",
+    "anilist/anime": "104940",
+    "aozora": "aBOzLIs71B",
+    "myanimelist/anime": "34851"
+  }
+}

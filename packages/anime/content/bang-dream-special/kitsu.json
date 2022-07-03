@@ -1,0 +1,26 @@
+{
+  "slug": "bang-dream-special",
+  "synopsis": "Unaired episode included with the 7th BD volume of BanG Dream!.",
+  "title": {
+    "jp": "BanG Dream!: Asonjatta!"
+  },
+  "releasedAt": "2017-08-19T00:00:00.000Z",
+  "finishedAt": "2017-08-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13753/original.jpeg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/bang-dream-ova"
+  ],
+  "relations": {
+    "kitsu": "13753",
+    "anidb": "12262",
+    "anilist/anime": "98847",
+    "myanimelist/anime": "34870"
+  }
+}

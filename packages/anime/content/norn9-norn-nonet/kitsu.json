@@ -1,0 +1,35 @@
+{
+  "slug": "norn9-norn-nonet",
+  "synopsis": "The story takes place a little in the future. Guided by one particular song, young elementary school student Suzuhara Sorata, from the Heisei Era, is warped through a time skip to an unfamiliar place that looks much like the towns from the Meiji or Taishou period from his textbooks. In this world, he meets three young ladies and nine young men and joins them on a journey aboard the mysterious Norn ship, a giant globe that floats in midair.",
+  "title": {
+    "en": "Norn9",
+    "jp": "Norn9: Norn+Nonet"
+  },
+  "releasedAt": "2016-01-07T00:00:00.000Z",
+  "finishedAt": "2016-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11337/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11337/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "josei",
+    "romance",
+    "super power"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/norn9"
+  ],
+  "relations": {
+    "kitsu": "11337",
+    "anidb": "11515",
+    "anilist/anime": "20643",
+    "aozora": "tx9uqAyF1Y",
+    "hulu": "50024874",
+    "myanimelist/anime": "31452",
+    "thetvdb": "303067/1",
+    "trakt": "103360"
+  }
+}

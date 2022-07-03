@@ -1,0 +1,19 @@
+{
+  "slug": "arigatou-2010",
+  "synopsis": "",
+  "title": {
+    "jp": "Arigatou (2010)"
+  },
+  "releasedAt": "2010-02-01T00:00:00.000Z",
+  "finishedAt": "2010-02-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41747/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41747",
+    "myanimelist/anime": "37195"
+  }
+}

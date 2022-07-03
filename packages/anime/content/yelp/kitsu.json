@@ -1,0 +1,25 @@
+{
+  "slug": "yelp",
+  "synopsis": "Once we used to be happy and grateful for the pure act of eating\n\nGraduate Work 2017 by Umemura Haruka, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Yelp",
+    "jp": "Yelp"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44554/original.jpg",
+  "categories": [
+    "psychological",
+    "the arts"
+  ],
+  "externals": [
+    "https://youtu.be/dB-t2uBKOL4"
+  ],
+  "relations": {
+    "kitsu": "44554",
+    "anilist/anime": "111949"
+  }
+}

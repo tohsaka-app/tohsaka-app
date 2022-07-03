@@ -1,0 +1,39 @@
+{
+  "slug": "stella-no-mahou",
+  "synopsis": "Upon enrolling in high school, Tamaki Honda joins a club for making doujin games known as the SNS Club. Joined by programmer Shiina, writer Ayame, and composer Kayo, Tamaki begins working as an illustrator for the club's next game.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Magic of Stella",
+    "jp": "Stella no Mahou"
+  },
+  "releasedAt": "2016-10-03T00:00:00.000Z",
+  "finishedAt": "2016-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11756/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11756/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "present",
+    "school clubs",
+    "school life",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/magic-of-stella"
+  ],
+  "relations": {
+    "kitsu": "11756",
+    "anidb": "11883",
+    "anilist/anime": "21597",
+    "aozora": "TYyJYBxUQQ",
+    "myanimelist/anime": "32555",
+    "thetvdb": "309203/1",
+    "trakt": "106518"
+  }
+}

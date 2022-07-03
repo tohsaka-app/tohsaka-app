@@ -1,0 +1,25 @@
+{
+  "slug": "ojamajo-doremi-owarai-gekijou",
+  "synopsis": "New Mini-Web Series leading up to the 20th Anniversary movie for the Ojamajo Doremi series.\n\n",
+  "title": {
+    "en": "Ojamajo Doremi Comedy Theater",
+    "jp": "Ojamajo Doremi: Owarai Gekijou"
+  },
+  "releasedAt": "2019-03-23T00:00:00.000Z",
+  "finishedAt": "2020-03-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42537/original.jpg",
+  "categories": [
+    "comedy",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42537",
+    "anilist/anime": "108726",
+    "myanimelist/anime": "39588"
+  }
+}

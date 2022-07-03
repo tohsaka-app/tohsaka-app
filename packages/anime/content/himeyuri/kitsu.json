@@ -1,0 +1,33 @@
+{
+  "slug": "himeyuri",
+  "synopsis": "The 30-minute film centers around a group of high school nurses called Himeyuri who served during the Battle of Okinawa during World War II.\nThe Himeyuri Alumnae Incorporated Foundation, which runs the Himeyuri Peace Museum in Okinawa, produced the film with the aim to convey the experiences of those high school nurses, many of whom lost their lives during the battle, to children.\n(Source: ANN) ",
+  "title": {
+    "jp": "Himeyuri"
+  },
+  "releasedAt": "2012-06-23T00:00:00.000Z",
+  "finishedAt": "2012-06-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8171/original.jpg",
+  "categories": [
+    "all girls school",
+    "anti war",
+    "asia",
+    "disaster",
+    "historical",
+    "japan",
+    "middle school",
+    "past",
+    "war",
+    "world war ii"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8171",
+    "anidb": "9375",
+    "anilist/anime": "20491",
+    "aozora": "xfbeaefwwB",
+    "myanimelist/anime": "20469"
+  }
+}

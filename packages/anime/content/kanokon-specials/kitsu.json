@@ -1,0 +1,23 @@
+{
+  "slug": "kanokon-specials",
+  "synopsis": "Uncensored 2-minute DVD Specials of Kanokon.",
+  "title": {
+    "jp": "Kanokon Specials"
+  },
+  "releasedAt": "2008-06-25T00:00:00.000Z",
+  "finishedAt": "2008-11-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3774/original.jpg",
+  "categories": [
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3774",
+    "anilist/anime": "4760",
+    "aozora": "ANTfLivgCk",
+    "myanimelist/anime": "4760"
+  }
+}

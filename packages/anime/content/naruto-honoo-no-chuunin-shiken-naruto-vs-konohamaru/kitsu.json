@@ -1,0 +1,31 @@
+{
+  "slug": "naruto-honoo-no-chuunin-shiken-naruto-vs-konohamaru",
+  "synopsis": "Naruto faces off against his old pupil Konohamaru in a tournament during the chuunin entrance exams. ",
+  "title": {
+    "en": "Chunin Exam on Fire! and Naruto vs. Konohamaru!",
+    "jp": "Naruto: Honoo no Chuunin Shiken! Naruto vs. Konohamaru!!"
+  },
+  "releasedAt": "2011-07-30T00:00:00.000Z",
+  "finishedAt": "2011-07-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6292/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6292/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "martial arts",
+    "ninja",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6292",
+    "anidb": "8384",
+    "anilist/anime": "10686",
+    "aozora": "SBsh3YIH3a",
+    "myanimelist/anime": "10686"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "mizutori",
+  "synopsis": "A 1994 song about a swan aired in the NHK's Minna no Uta sung by Satoshi Saya.",
+  "title": {
+    "jp": "Mizutori"
+  },
+  "releasedAt": "1994-02-01T00:00:00.000Z",
+  "finishedAt": "1994-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5446/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5446",
+    "anilist/anime": "8697",
+    "aozora": "pC6Qdj5eyM",
+    "myanimelist/anime": "8697"
+  }
+}

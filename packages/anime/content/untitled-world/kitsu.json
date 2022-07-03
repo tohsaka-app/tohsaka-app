@@ -1,0 +1,25 @@
+{
+  "slug": "untitled-world",
+  "synopsis": "MV for the song Untitled World, performed by ReoNa and featuring characters from the game Arknights.",
+  "title": {
+    "en": "Untitled World"
+  },
+  "releasedAt": "2020-07-01T00:00:00.000Z",
+  "finishedAt": "2020-07-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44316/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44316/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=wBB0OoQlXy4"
+  ],
+  "relations": {
+    "kitsu": "44316"
+  }
+}

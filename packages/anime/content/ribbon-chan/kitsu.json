@@ -1,0 +1,24 @@
+{
+  "slug": "ribbon-chan",
+  "synopsis": "An anime short series inspired by soft drink company Sapporo Beverage's mascot character Ribbon-chan. The story center on the soda-loving young girl named Ribbon-chan and her pet dog Citron.\nNote: The series aired on Wednesdays during episodes of the Nori Suta Max television program.\n(Source: ANN)",
+  "title": {
+    "jp": "Ribbon-chan"
+  },
+  "releasedAt": "2012-04-04T00:00:00.000Z",
+  "finishedAt": "2013-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6971/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6971",
+    "anidb": "9085",
+    "anilist/anime": "13459",
+    "aozora": "Wc49WlBFmO",
+    "myanimelist/anime": "13459"
+  }
+}

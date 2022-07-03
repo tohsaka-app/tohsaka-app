@@ -1,0 +1,42 @@
+{
+  "slug": "plawres-sanshirou",
+  "synopsis": "Plawres is a wrestling game that the players make their robots, which are about 30 cm tall, fight in the ring. The main character, Sugata Sanshiro, is a plawres player. Using his plawrestler, Juohmaru, he beats strong rivals.\n(Source: ANN)",
+  "title": {
+    "en": "Plastic Model Wrestling Sanshiro",
+    "jp": "Plawres Sanshirou"
+  },
+  "releasedAt": "1983-06-05T00:00:00.000Z",
+  "finishedAt": "1984-02-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1688/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "android",
+    "asia",
+    "combat",
+    "comedy",
+    "conspiracy",
+    "earth",
+    "japan",
+    "martial arts",
+    "mecha",
+    "present",
+    "proxy battles",
+    "school life",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1688",
+    "anidb": "3324",
+    "anilist/anime": "1873",
+    "aozora": "LAsLLKzmO6",
+    "myanimelist/anime": "1873",
+    "thetvdb": "93441",
+    "trakt": "44390"
+  }
+}

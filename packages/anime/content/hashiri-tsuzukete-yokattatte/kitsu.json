@@ -1,0 +1,23 @@
+{
+  "slug": "hashiri-tsuzukete-yokattatte",
+  "synopsis": "Minato goes to an anime event that has a voice acting recital with a friend. He is fascinated by the talent of the voice actors, and he meets Chikako, who studies at the Suidoubashi Animation Academy.\n\n(Source: ANN)",
+  "title": {
+    "en": "I'm glad I could keep running.",
+    "jp": "Hashiri Tsuzukete Yokattatte."
+  },
+  "releasedAt": "2018-10-09T00:00:00.000Z",
+  "finishedAt": "2018-12-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41962/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41962",
+    "anilist/anime": "104078",
+    "myanimelist/anime": "38254"
+  }
+}

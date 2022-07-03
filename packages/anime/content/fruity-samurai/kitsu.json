@@ -1,0 +1,26 @@
+{
+  "slug": "fruity-samurai",
+  "synopsis": "Short anime about fruity samurai.",
+  "title": {
+    "jp": "Fruity Samurai"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10701/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "historical",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10701",
+    "anilist/anime": "115668",
+    "aozora": "bVVhWo5pcS",
+    "myanimelist/anime": "30173"
+  }
+}

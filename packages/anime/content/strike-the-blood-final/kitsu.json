@@ -1,0 +1,26 @@
+{
+  "slug": "strike-the-blood-final",
+  "synopsis": "The fifth season of Strike the Blood.",
+  "title": {
+    "en": "Strike the Blood V",
+    "jp": "Strike the Blood FINAL"
+  },
+  "releasedAt": "2022-03-30T00:00:00.000Z",
+  "finishedAt": "2022-06-29T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44834/poster_image/def4bedfad0f1d8b97ad7d7fe83e8b92.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220703%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220703T141447Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=d6616393327be107021a44c45e9f420d43b6856d73c0aaef5f741126db74b306",
+  "categories": [
+    "action",
+    "ecchi",
+    "fantasy",
+    "supernatural",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44834",
+    "anilist/anime": "136226"
+  }
+}

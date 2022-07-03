@@ -1,0 +1,24 @@
+{
+  "slug": "saki-picture-drama",
+  "synopsis": "Saki picture drama included in the DVD volumes 3 through 9.",
+  "title": {
+    "jp": "Saki Picture Drama"
+  },
+  "releasedAt": "2009-09-02T00:00:00.000Z",
+  "finishedAt": "2010-03-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5110/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5110",
+    "anilist/anime": "7759",
+    "aozora": "MfcqF2rMFq",
+    "myanimelist/anime": "7759"
+  }
+}

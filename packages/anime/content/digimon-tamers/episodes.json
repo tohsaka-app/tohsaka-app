@@ -1,0 +1,524 @@
+[
+  {
+    "title": {
+      "jp": "Guilmon Tanjou! Boku no Kangaeta Digimon"
+    },
+    "synopsis": "While a mysterious, naive Digimon called Calumon bio-emerges (appears) in the Real World, a boy named Takato Matsuki finds a mysterious blue card. After swiping it through his card reader, it is converted into a Digivice.",
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2682/original.jpeg",
+    "releasedAt": "1999-03-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kimi wa Boku no Tomodachi, Terriermon Toujou!"
+    },
+    "synopsis": "After finding that Guilmon has no intention to kill him, Takato is in awe of the fact he is now partner to a real Digimon, in spite of the difficulty he has in sneaking the dinosaur past his parents.",
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2683/original.jpeg",
+    "releasedAt": "1999-03-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Renamon Tai Guilmon! Tatakai Koso ga Digimon no Inochi"
+    },
+    "synopsis": "Whilst Takato panics at the concept of losing Guilmon so soon, Rika is irritated by the lack of data on the dinosaur, as well as Renamon's seeming inability to combat him.",
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2684/original.jpeg",
+    "releasedAt": "2001-04-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tamer no Shiren! Gorimon o Taose!"
+    },
+    "synopsis": "Gargomon manages to de-digivolve to Terriermon and Henry is left thinking about destroying real living digimon after talking to Rika.",
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2685/original.jpeg",
+    "releasedAt": "1999-03-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kurukkuruun! Culumon to Asobo!"
+    },
+    "synopsis": "Calumon watches kids in Takato's school play soccer and dreams to be a really good soccer player. He convinces Guilmon to come out of his hiding place and play with him. While they're in the school, a digital field appear and a Vilemon attacks them.",
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2686/original.jpeg",
+    "releasedAt": "2001-04-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Partner no Imi, Renamon Shinka!"
+    },
+    "synopsis": "Rika is disappointed with her mother and with Renamon for not being able to digivolve while fighting Allomon and getting help from Guilmon and Terriermon.",
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2687/original.jpeg",
+    "releasedAt": "2001-05-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Guilmon ga Abunai! Boku no Machi no Bouken"
+    },
+    "synopsis": "While passing by a tunnel, Guilmon begins to disappear. Worried that Guilmon would disapear forever, he seeks advice from the other Tamers to see why it was happenning.",
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2688/original.jpeg",
+    "releasedAt": "2001-05-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Guilmon Shinka! Nishi Shinjuku Daikessen"
+    },
+    "synopsis": "Impmon is scaring couples at night in the park, but Takato suspects Guilmon of causing this trouble. Impmon takes Guilmon out and when Takato finds him missing he suspects more of him.",
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2689/original.jpeg",
+    "releasedAt": "2001-05-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Guilmon ni Modotte! Growmon Soudou"
+    },
+    "synopsis": "After the battle with Devidramon, Takato tries to make Growlmon de-digivolve into Guilmon, but all to no avail. When it begins to rain, Takato despairs of ever getting his old friend back.",
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2690/original.jpeg",
+    "releasedAt": "2001-05-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Renamon wa Tomodachi! Ruki no Mayoi"
+    },
+    "synopsis": "Rika is being followed by something strange and she gets scared. Not wanting to admit it, she refuses help from Renamon to protect her and Renamon feels bad by what Rika said to her.",
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2691/original.jpeg",
+    "releasedAt": "2001-06-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shinjuku Dai Guard, Ippun 30 Byou no Taiketsu!"
+    },
+    "synopsis": "As Musyamon attacks Henry, and Takato jump to the rescue. But Guilmon isn't able to win this battle alone and Henry has to fight with his own thoughts on the subject of Terriermon Digivolving since last time he couldn't handle the power of Gargomon.",
+    "season": 1,
+    "number": 11,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2692/original.jpeg",
+    "releasedAt": "2001-06-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ruki to Renamon, Kizuna no Kiki!"
+    },
+    "synopsis": "Rika and Renamon are thinking how much they don't need each other. Then Renamon is attacked by Flybeemon. She defeats her enemies. Later she is attacked by Harpymon.",
+    "season": 1,
+    "number": 12,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2693/original.jpeg",
+    "releasedAt": "2001-06-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Digimon Hokaku Shirei! Wazawai no Yokan"
+    },
+    "synopsis": "Takato and Guilmon are about to defeat a DarkLizardmon when Yamaki comes and captures it. Back at Hypnos, they scan the data of the Digimon, destroying it and now know what Digimon are made of.",
+    "season": 1,
+    "number": 13,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2694/original.jpeg",
+    "releasedAt": "2001-06-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tamer yo Tate! MegaloGrowmon Chou Shinka"
+    },
+    "synopsis": "As a strange tiger ultimate level Digimon, Mihiramon attacks, the tamers begin to fight it. However, when its too strong for both Rika and Henry, Takato uses the power of the blue card to Digivolve Growlmon into his ultimate form - WarGrowlmon.",
+    "season": 1,
+    "number": 14,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2695/original.jpeg",
+    "releasedAt": "2001-07-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kyodai Hebi Shutsugen! Ooedo-Sen Dai Panic"
+    },
+    "synopsis": "Takato is depressed after Henry and Rika have previous commitments and can't go Digimon patrolling, but he feels better when he goes with Guilmon to play with his school friends.",
+    "season": 1,
+    "number": 15,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2696/original.jpeg",
+    "releasedAt": "2001-07-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Machi no Akari o Mamore! Digimon-tachi no Kiken na Camp"
+    },
+    "synopsis": "During a school camping trip Takato, Henry, Guilmon, Terriermon and D have a fun time relaxing, but a series of black outs cause the gang to get suspicious.It turns out the Rooster Deva, Sinduramon is absorbing electricity and using it for power.",
+    "season": 1,
+    "number": 16,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2697/original.jpeg",
+    "releasedAt": "2001-07-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Blue Card o Oe! Rapidmon Denkousekka"
+    },
+    "synopsis": "Henry was given a worthless card by Kenta's friend Jeramie, but then the card turns into a Blue card when Henry tries to swipe it. When Henry's dad gets home Henry asks if he could check the blue card. While Henry's dad checked it out he notices his old friend Shibumi's code. After Henry, Takato, and Rika go find Jeramie, he tells them that he found the card after bumping into a mysterious man by an electronics store. When Takato and Henrny get ready to find the man who bumped into Jeramie, Henry's dad sees them with Terriermon in the park so the kids run away. While Takato, Henry and Rika wait for the mysterious man, they find an Ox and Sheep Deva, Vajramon and Pajiramon. During the battle between Gargomon, Renamon, and the Deva digimons Gargomon Digivolves into Rapidmon to win the battle. Rapidmon destroys Pajiramon the Sheep Deva, but Vajramon, the Ox Deva, secretly reforms himself later and has Renamon come with him to meet with his boss. At the end, Henry's father finds out about Terriermon.",
+    "season": 1,
+    "number": 17,
+    "releasedAt": "2001-07-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Utsukushiki Shinka! Gekkou ni Mau Taomon"
+    },
+    "synopsis": "Rika is having a hard time with her mother, who makes Rika attend a photo session with her. Meanwhile, Renamon has been acting distant and it turns out that she has been meeting with Vajramon, who apparently survived the Tamers' previous battle with them. When Renamon reveals that she has been using Vajramon only to obtain information, the Deva becomes outraged and the Tamers fight him in a second battle. The Tamers prove no match for him until Kyuubimon digivolves to Taomon and destroys Vajramon.",
+    "season": 1,
+    "number": 18,
+    "releasedAt": "2001-08-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tsuyoku Naritai! Haiagare Impmon"
+    },
+    "synopsis": "Impmon says he hates humans to cover up his own insecurities. While the Tamers are battling the next Deva, Indramon, Impmon decides to battle this Deva all by himself. He fails and is nearly killed. Meanwhile Takato questions on whether or not Calumon is the key to the Tamers digimon's evolution.",
+    "season": 1,
+    "number": 19,
+    "releasedAt": "2001-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kirifuda wa Kore Da! Yuujou no Blue Card"
+    },
+    "synopsis": "Impmon is defeated by Indramon; Indramon then seems to self destruct willingly. Mr. Wong is introduced to the Juggernaut program and is asked to help destroy the Digimon. Indramon rematerializes, and the Tamers commence battle. The Tamers prove no match for Indramon and he isn't even scratched by theirs or the military's attacks. In a desperate move, Takato tries the Blue Card his friend Kazu made for him and Growlmon digivolves to WarGrowlmon again. WarGrowlmon easily destroys Indramon leaving Kazu very pleased with himself.",
+    "season": 1,
+    "number": 20,
+    "releasedAt": "2001-08-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Juri no Partner!? Watashi no Leomon-sama"
+    },
+    "synopsis": "Jeri and her friends go to find Takato, as they hide and discuss how they would be great tamers Jeri drops an impressive collection of digimon cards on the ground. Jeri meets up with Calumon decides she really could be a Tamer and Calumon should be her partner. Calumon is obviously surprised by Jeri's daydream and while reacting to it the Rat Deva Kumbhiramon bioemerges from the ground. They are saved from the Deva by Leomon and Jeri falls in love with the lone warrior. Leomon is weirded out by her plea to be partners and runs away and hides. Takato meets up with Leomon and Leomon confesses he knows nothing about Tamers or partners. Jeri returns and Leomon runs away again. As Jeri is chasing him Takato calls Henry and Rika who come to the park. Kumbhiramon shows up again and Leomon and Gargomon fight him. Jeri tries to use Digimon Cards on him through Takato's Digivice but fails and becomes depressed. Leomon is angered by this and after Gargomon weakens the Deva, he destroys him. Leomon leaves before his sympathy for Jeri can make him stay.",
+    "season": 1,
+    "number": 21,
+    "releasedAt": "2001-08-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Vikaramon Toujou, Boku-tachi no Machi o Mamore!"
+    },
+    "synopsis": "When the Pig Deva appears, the Tamers find themselves outmatched and unable to keep the situation discreet-Vikaralamon is larger than life and wrecking havoc.",
+    "season": 1,
+    "number": 22,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2703/original.jpeg",
+    "releasedAt": "2001-09-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Digimon Soushutsugeki! Kaze ni Mukatte Susume"
+    },
+    "synopsis": "Just when the Tamers defeat Vikarylamon, the strange child who they keep running into reveals himself to be the Monkey Deva and kidnaps Calumon, taking the Digimon back to the Digital World. Meanwhile, Jeri receives a Digivice and a new partner...",
+    "season": 1,
+    "number": 23,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2704/original.jpeg",
+    "releasedAt": "2001-09-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Digital World e... Tabidachi no Hi"
+    },
+    "synopsis": "Guilmon finds a portal to the digital world in his shed and the kids decide to tell their parents various things: Takato introduces Guilmon to his parents and although his mother freaks out, his father shows a lot of faith in him and convinces his mother which touches him, Henry tells Suzie the truth about Terriermon and leaves his father an e-mail, Rika's grandmother accidentally finds out about Renamaon but takes it well and promises to help cover for Rika. Rika wears a dress for her mother (something she hates to do) in order to give her mother a moment of happiness before she leaves which touches her mother. Jeri gets Leomon to speak to her father about the whole thing and Kazu and Kenta decide to join them in order to find their own Digimon partners. The kids, after getting detention, write essays for Ms. Asaji about what they're doing believing she won't read them for a while, but she reads them right away and confronts them. The kids convince her to leave them to do what they have to do, but she is incredibly worried about them. The next day as they prepare to leave, the group is confronted by Yamaki, but instead of trying to stop them he gives them a comlink to stay in touch as he is now on their side. Afterwards the group heads through the portal to the Digital World.",
+    "season": 1,
+    "number": 24,
+    "releasedAt": "2001-09-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Digital World Totsunyuu! Saraba Boku-tachi no Machi"
+    },
+    "synopsis": "Once the gang enters the digital world Rika spots \"satellite\" hoping Calamon would be there so they walk along trying to find Calumon but it turns out that the satellite Rika saw were Rock. Just then Meramon attacks and the gang gets separated into two groups: Takato, Guilmon, Henry, Terriermon, Jeri and Leomon in one group and Rika, Renamon, Kazu and Kenta in the other. Meanwhile, Calumon and Makuramon also get separated.",
+    "season": 1,
+    "number": 25,
+    "releasedAt": "2001-09-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sora's Crest of Love"
+    },
+    "season": 1,
+    "number": 26,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Gateway to Home"
+    },
+    "synopsis": "While searching for Rika and the others, Takato, Jeri and Henry come across a village full of Chuchidarumon. The motorcycle, Behemoth, rampages throughout the village. Impmon encounters Chatsuramon, the Dog Deva and he offers to help Impmon digivolve.",
+    "season": 1,
+    "number": 27,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2708/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's All in the Cards"
+    },
+    "season": 1,
+    "number": 28,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Return to Highton View Terrace"
+    },
+    "season": 1,
+    "number": 29,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Almost Home Free"
+    },
+    "synopsis": "While Takato and the others continue their search for Rika, Guilmon picks up Calumon's scent. Meanwhile, Beelzemon, still searching for the Tamers, come across a bunch of Chrysalimon.",
+    "season": 1,
+    "number": 30,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2711/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Eighth Digivice"
+    },
+    "synopsis": "Rika and the others encounter an Andromon who's fighting a snake Digimon called Orochimon who's been terrorizing a bunch of Gekomon to make it milkshakes. The Tamers decide to help Andromon defeat Orochimon.",
+    "season": 1,
+    "number": 31,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2712/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gatomon Comes Calling"
+    },
+    "synopsis": "Takato and Henry find a weird library in the Digital World. Inside one of its rooms they find Mr. Shibumi, a friend of Henry's Dad. Shibumi was also on the team who created Digimon.",
+    "season": 1,
+    "number": 32,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2713/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Out on the Town"
+    },
+    "synopsis": "Henry's younger sister, Suzie Wong, arrives in the Digital World and quickly meets Antylamon, the Rabbit Deva Digimon. As the two become friends Henry, Takato and Terriermon track her down.",
+    "season": 1,
+    "number": 33,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2714/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Eighth Child Revealed"
+    },
+    "synopsis": "As the gang meet up again they are quickly attacked by Beelzemon. However after Beelzemon kills Leomon, Takato forces Guilmon to Digivolve to his Mega Form...but something goes wrong.",
+    "season": 1,
+    "number": 34,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2715/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Flower Power"
+    },
+    "synopsis": "With the unfortunate help of dark digivolution Guilmon digivolves into Megidramon. Megidramon battles Beezlemon and almost has him killed but Makuramon comes to confront Beezlemon on how useless his digivolution was.",
+    "season": 1,
+    "number": 35,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2716/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "City Under Siege"
+    },
+    "synopsis": "Gallantmon faces Beelzemon in a tough one-on-one battle. During the battle, Gallantmon destroys Behemoth and rescues Kazu and Kenta which causes them to realize that Takato has merged with Guilmon.",
+    "season": 1,
+    "number": 36,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2717/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Wizardmon's Gift"
+    },
+    "synopsis": "The crew meet Zhuqiaomon. Henry has self-doubt and Terriormon has to boost his confidence. With renewed strength and courage, Henry and Terriormon Biomerge to become MegaGargomon and defeat their foe.",
+    "season": 1,
+    "number": 37,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2718/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Prophecy"
+    },
+    "synopsis": "After the degenaration of MegaGargomon the tamers came to know that Zhuqiaomon is still alive and still wants to fight. Zhuqiaomon attacks the tamers. Taomon protects them until Zhuqiaomon is stopped by another Sovereign, Azulongmon.",
+    "season": 1,
+    "number": 38,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2719/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Battle for Earth"
+    },
+    "synopsis": "Sakuyamon was formed when Rika Biomerged with Renamon while they took a leap of faith to save Calumon from the D-Reaper. Rika fell back into Renamon and there was a blinding flash of blue light.",
+    "season": 1,
+    "number": 39,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2720/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Enter the Dark Masters"
+    },
+    "synopsis": "Janyu's Ark is completed and the team races to get to the Ark before their time runs out, but after Renamon picks up his scent, Rika and Renamon rush to save Impmon and get back in time.",
+    "season": 1,
+    "number": 40,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2721/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sea-Sick and Tired"
+    },
+    "synopsis": "After some serious difficulty, the Tamers and their partners finally arrive at the Real World and the Arc is dragged to the Digital world. Takato tries to talk with Jeri (actually ADR-01, a doppleganger created by the D-Reaper), but with no sucess.",
+    "season": 1,
+    "number": 41,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2722/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Under Pressure"
+    },
+    "synopsis": "The Tamers returned to the Real World. Takato finds out that Jeri's parents are not coming to get her. He takes the responsibility to return her to her home.",
+    "season": 1,
+    "number": 42,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2723/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Playing Games"
+    },
+    "synopsis": "The team finally confronts the D-Reaper, but they soon realize it is able to mimic their attacks. Unable to bio-merge, the team loses hope, until the mighty Impmon comes to the rescue!",
+    "season": 1,
+    "number": 43,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2724/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Trash Day"
+    },
+    "synopsis": "The team meets a strange gothic girl named Alice McCoy. Her strange dog turns out to be Dobermon, a messenger of the Sovereigns. Better yet, he has a gift for the tamers.",
+    "season": 1,
+    "number": 44,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2725/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Ultimate Clash"
+    },
+    "synopsis": "The D-Reaper had been spying on the team all along and it finally reveals itself when Takato falls into the depths of the reaper with Guilmon.",
+    "season": 1,
+    "number": 45,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2726/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Etemon's Comeback Tour"
+    },
+    "synopsis": "A mysterious new Digimon arrives to help the tamers in their efforts to destroy the D-Reaper. Justimon-a half-man, half-cyborg-comes to aid the tamers in their epic battle!",
+    "season": 1,
+    "number": 46,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2727/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ogremon's Honor"
+    },
+    "synopsis": "Calumon finds Jeri in the heart of the D-reaper. She opens her eyes but doesn't respond to Calumon. Meanwhile Takato tries to convince Mr. Katou (Jeri's father) to stop being angry at her.",
+    "season": 1,
+    "number": 47,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2728/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "My Sister's Keeper"
+    },
+    "synopsis": "Grani is fully developed. Calumon tries to help awake Jeri. Meanwhile, Beelzemon, released by the D-Reaper, tries to break open the kernel sphere in which Jeri is with no results.",
+    "season": 1,
+    "number": 48,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2729/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Crest of Light"
+    },
+    "synopsis": "The Tamers try to get in Kemel Sphere to save Jeri and Calumon, but they receive a menssage from Yamaki to leave the area, so the Army can attack the Quantum Bubble with eletro-magnetic discharges.",
+    "season": 1,
+    "number": 49,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2730/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Joe's Battle"
+    },
+    "synopsis": "The Tamers enter the D-Reaper to fight and to rescue Jeri.",
+    "season": 1,
+    "number": 50,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2731/original.jpeg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Crest of Friendship"
+    },
+    "synopsis": "Gallantmon in his new form seems to be making some headway. Meanwhile, the others are losing. In a last attempt Sakuyamon gives all of her power to Justimon who then inserts it into his blade and cuts the Cable Reaper.",
+    "season": 1,
+    "number": 51,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/2732/original.jpeg",
+    "content": {}
+  }
+]

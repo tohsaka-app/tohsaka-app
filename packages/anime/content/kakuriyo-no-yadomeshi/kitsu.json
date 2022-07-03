@@ -1,0 +1,33 @@
+{
+  "slug": "kakuriyo-no-yadomeshi",
+  "synopsis": "After losing her grandfather, Aoi—a girl who can see spirits known as ayakashi—is suddenly approached by an ogre. Demanding she pay her grandfather’s debt, he makes a huge request: her hand in marriage! Refusing this absurd offer, Aoi decides to work at the Tenjin-ya bed and breakfast for the ayakashi to pay back what her family owes.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Kakuriyo: Bed & Breakfast for Spirits",
+    "jp": "Kakuriyo no Yadomeshi"
+  },
+  "releasedAt": "2018-04-02T00:00:00.000Z",
+  "finishedAt": "2018-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40580/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/40580/original.jpg",
+  "categories": [
+    "contemporary fantasy",
+    "cooking",
+    "demon",
+    "fantasy",
+    "ghost",
+    "supernatural"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/kakuriyo-bed-breakfast-for-spirits-",
+    "https://www.funimation.com/shows/kakuriyo-bed-breakfast-for-spirits-"
+  ],
+  "relations": {
+    "kitsu": "40580",
+    "anilist/anime": "100500",
+    "myanimelist/anime": "36754",
+    "thetvdb": "339922/1"
+  }
+}

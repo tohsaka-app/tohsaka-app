@@ -1,0 +1,43 @@
+{
+  "slug": "dennou-coil",
+  "synopsis": "Eleven years after the introduction of internet-connected, augmented reality eyeglasses and visors, Yuuko Okonogi moves with her family to Daikoku City, the technological center of the emerging half-virtual world. Yuuko joins her grandmother's \"investigation agency\" comprised of children equipped with virtual tools and powerful metatags. She quickly crosses paths with Yuuko Amasawa, an expert hacker of the virtual environment, as Amasawa relentlessly seeks to \"unlock\" the mystery of a computer virus that emerges from an inaccessible corrupted space. \n(Source: ANN)",
+  "title": {
+    "en": "Den-noh Coil",
+    "jp": "Dennou Coil"
+  },
+  "releasedAt": "2007-05-12T00:00:00.000Z",
+  "finishedAt": "2007-12-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1959/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1959/original.png",
+  "categories": [
+    "adventure",
+    "asia",
+    "comedy",
+    "drama",
+    "earth",
+    "elementary school",
+    "future",
+    "japan",
+    "mystery",
+    "plot continuity",
+    "school life",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81299264"
+  ],
+  "relations": {
+    "kitsu": "1959",
+    "anidb": "4345",
+    "anilist/anime": "2164",
+    "aozora": "KFFMGsNYr8",
+    "myanimelist/anime": "2164",
+    "thetvdb": "81037/1",
+    "thetvdb/series": "81037",
+    "trakt": "13208"
+  }
+}

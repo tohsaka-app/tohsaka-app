@@ -1,0 +1,28 @@
+{
+  "slug": "hikari-no-megami",
+  "synopsis": "A promotional video for the new Super Smash Bros Wii U and Super Smash Bros 3DS featuring Pit, Link, Dark Pit, and Palutena.",
+  "title": {
+    "en": "Goddess of Light",
+    "jp": "Hikari no Megami"
+  },
+  "releasedAt": "2014-06-10T00:00:00.000Z",
+  "finishedAt": "2014-06-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10110/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10110/original.png",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=xqTW13AYniY"
+  ],
+  "relations": {
+    "kitsu": "10110",
+    "anilist/anime": "101093",
+    "aozora": "sNWy1yQysG",
+    "myanimelist/anime": "28351"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "free-movie-2-timeless-medley-yakusoku-character-butai-aisatsu",
+  "synopsis": "Character Stage Greeting Manner Special's shown before main movie. Later included on the movie Blu-ray and DVD release.\n",
+  "title": {
+    "jp": "Free! Movie 2: Timeless Medley - Yakusoku: Character Butai Aisatsu"
+  },
+  "releasedAt": "2017-07-01T00:00:00.000Z",
+  "finishedAt": "2017-07-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41283/original.jpg",
+  "categories": [
+    "bishounen",
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41283",
+    "anidb": "12332",
+    "anilist/anime": "121065",
+    "myanimelist/anime": "37859"
+  }
+}

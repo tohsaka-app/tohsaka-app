@@ -1,0 +1,36 @@
+{
+  "slug": "transformers-robots-in-disguise",
+  "synopsis": "The evil Gigatron has led his forces of Destrongers to Earth, where they seek to pillage the planet for its vast energy resources in order to fuel their war against the Autobots. If successful, the Destrongers will finally be able to tip the scale of power in the war to their favor, eliminating the Autobots and moving on to conquer the universe. To this end, the Destrongers kidnap the scientist Dr. Ohnishi, Earth’s leading scientist on energy and natural resources.\nDr. Oonishi’s son, Koji, is contacted by none other than Fire Convoy, who takes the boy on a mission to rescue his father. Although Fire Convoy and the other Autobots fight valiantly, they are unable to rescue the doctor from the Destrongers. Now it is up to the Autobots and Koji to rescue Dr. Oonishi and protect the Earth and its resources from Gigatron and his army.",
+  "title": {
+    "en": "Transformers: Robots in Disguise",
+    "jp": "Transformers: Car Robots"
+  },
+  "releasedAt": "2000-04-05T00:00:00.000Z",
+  "finishedAt": "2000-12-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2069/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "comedy",
+    "earth",
+    "future",
+    "mecha",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2069",
+    "anidb": "3393",
+    "anilist/anime": "2284",
+    "aozora": "StIehF1O3f",
+    "myanimelist/anime": "2284",
+    "thetvdb": "77087/1",
+    "thetvdb/series": "77087",
+    "trakt": "20376"
+  }
+}

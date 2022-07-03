@@ -1,0 +1,45 @@
+{
+  "slug": "tsubasa-chronicle",
+  "synopsis": "During an excavation at the mysterious ruins in Clow Country, Syaoran discovers his childhood friend Princess Sakura appear on the site with wings that disperse into many feathers. As the feather's disappear to different dimensions, so does Sakura's memory. In attempts to save Sakura's life and restore her memory, Syaoran travels through to another world to find a solution. There's only one thing left he can do. Travel through to different dimensions to collect Sakura's feathers. Helping out with the quest is Kurogane, an exiled ninja from Japan Country who wishes to return to his world, the runaway magician, Fay, who desires to jump between each world never to return to his own and the white meat-bun shaped creature, Mokona.",
+  "title": {
+    "en": "Tsubasa RESERVoir CHRoNiCLE",
+    "jp": "Tsubasa Chronicle"
+  },
+  "releasedAt": "2005-04-09T00:00:00.000Z",
+  "finishedAt": "2005-10-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/154/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/154/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative past",
+    "alternative present",
+    "bishounen",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "magic",
+    "martial arts",
+    "parallel universe",
+    "past",
+    "plot continuity",
+    "present",
+    "romance",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "154",
+    "anidb": "2733",
+    "anilist/anime": "177",
+    "aozora": "2xy91fJ3EK",
+    "myanimelist/anime": "177",
+    "thetvdb": "76023/1",
+    "thetvdb/season": "9562",
+    "thetvdb/series": "76023",
+    "trakt": "37407"
+  }
+}

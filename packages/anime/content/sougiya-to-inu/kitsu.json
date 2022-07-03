@@ -1,0 +1,26 @@
+{
+  "slug": "sougiya-to-inu",
+  "synopsis": "A horror take on the classic tale of Snow White.",
+  "title": {
+    "en": "The Undertaker and the Dog",
+    "jp": "Sougiya to Inu"
+  },
+  "releasedAt": "2010-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10215/original.jpg",
+  "categories": [
+    "dementia",
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10215",
+    "anidb": "11428",
+    "anilist/anime": "103479",
+    "aozora": "462GyBz4I0",
+    "myanimelist/anime": "28953"
+  }
+}

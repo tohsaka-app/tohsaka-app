@@ -1,0 +1,34 @@
+{
+  "slug": "sangatsu-no-lion-2",
+  "synopsis": "Second season of March comes in like a lion.",
+  "title": {
+    "en": "March comes in like a lion Season 2",
+    "jp": "3-gatsu no Lion 2nd Season"
+  },
+  "releasedAt": "2017-10-14T00:00:00.000Z",
+  "finishedAt": "2018-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13401/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13401/original.jpg",
+  "categories": [
+    "asia",
+    "drama",
+    "japan",
+    "slice of life",
+    "sports",
+    "tokyo"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/march-comes-in-like-a-lion",
+    "https://www.netflix.com/title/80196657"
+  ],
+  "relations": {
+    "kitsu": "13401",
+    "anidb": "12994",
+    "anilist/anime": "98478",
+    "myanimelist/anime": "35180",
+    "thetvdb": "306269/2"
+  }
+}

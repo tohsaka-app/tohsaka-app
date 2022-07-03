@@ -1,0 +1,28 @@
+{
+  "slug": "hack-g-u-trilogy-parody-mode",
+  "synopsis": "A special bonus Parody Mode added to the extras of the .hack//G.U. Trilogy \n(Source: AniDB)",
+  "title": {
+    "en": ".hack//G.U. Trilogy: Parody Mode",
+    "jp": ".hack//G.U. Trilogy: Parody Mode"
+  },
+  "releasedAt": "2008-03-25T00:00:00.000Z",
+  "finishedAt": "2008-03-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3625/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "parody",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3625",
+    "anilist/anime": "4469",
+    "aozora": "VxdbX8UijJ",
+    "myanimelist/anime": "4469"
+  }
+}

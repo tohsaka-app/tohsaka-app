@@ -1,0 +1,28 @@
+{
+  "slug": "armored-trooper-votoms-vol-2-highlights-of-the-a-t-votoms",
+  "synopsis": "Highlight special.",
+  "title": {
+    "jp": "Soukou Kihei Votoms: Vol.2 Highlights of the 'A.T. Votoms'"
+  },
+  "releasedAt": "1985-07-20T00:00:00.000Z",
+  "finishedAt": "1985-07-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6733/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "mecha",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6733",
+    "anidb": "9847",
+    "anilist/anime": "12441",
+    "aozora": "jAjqh4GGlk",
+    "myanimelist/anime": "12441"
+  }
+}

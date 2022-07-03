@@ -1,0 +1,25 @@
+{
+  "slug": "feng-wei-ying-xiong",
+  "synopsis": "Heroes of old appear to return peace to earth.",
+  "title": {
+    "en": "Beyond the Worlds",
+    "jp": "Feng Wei Ying Xiong"
+  },
+  "releasedAt": "2015-09-16T00:00:00.000Z",
+  "finishedAt": "2016-07-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12617/original.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12617",
+    "anilist/anime": "102553",
+    "aozora": "xauWSZlnhz",
+    "myanimelist/anime": "33759"
+  }
+}

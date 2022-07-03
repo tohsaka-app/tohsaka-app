@@ -1,0 +1,30 @@
+{
+  "slug": "tonikaku-kawaii",
+  "synopsis": "The story follows a protagonist whose name is written with the characters for \"Hoshizora\" (\"Starry Sky\" in Japanese), but whose name is pronounced as \"Nasa\". On the day of his high school entrance exams, Nasa encounters a beautiful girl named Tsukasa. For Nasa, it feels like destiny is finally calling out to him that he will have a girlfriend, but things take a turn for the worse when Nasa is hit by a car and unable to attend his entrance exams.\n\nAfter Tsukasa helps the injured Nasa, he confesses his feelings to her, and she agrees to go out with him, but only if Nasa agrees to marry her first. A year later Nasa aces the entrance exams, but he decides to work a part time job and live by himself instead of going to school. After Nasa turns 18, Tsukasa re-appears, and their happy, romantic, and mysterious married life together begins.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "TONIKAWA: Over the Moon For You",
+    "jp": "Tonikaku Kawaii"
+  },
+  "releasedAt": "2020-10-03T00:00:00.000Z",
+  "finishedAt": "2020-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/43034/poster_image/36faae8b8f3dac6cbe723d1d1c6d851b.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43034/original.png",
+  "categories": [
+    "comedy",
+    "romance",
+    "shounen",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/tonikawa-over-the-moon-for-you"
+  ],
+  "relations": {
+    "kitsu": "43034",
+    "anidb": "15421",
+    "anilist/anime": "116267",
+    "myanimelist/anime": "41389"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "tekken-blood-vengeance",
+  "synopsis": "High school student Ling Xiaoyu is recruited by Anna Williams of G Corporation to transfer to Kyoto University and gather information on a student named Shin Kamiya. Meanwhile, Jin Kazama, the current head of the Mishima Zaibatsu, sends Alisa Bosconovitch to the university for the same mission. Though they do not know each other's true motives, Xiaoyu and Alisa become close friends. However, their friendship is put to the test when Shin is captured by an unknown assailant.\n(Source: ANN)",
+  "title": {
+    "jp": "Tekken: Blood Vengeance"
+  },
+  "releasedAt": "2011-07-26T00:00:00.000Z",
+  "finishedAt": "2011-07-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6303/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6303/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "japan",
+    "kyoto",
+    "martial arts",
+    "present",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6303",
+    "anidb": "8414",
+    "anilist/anime": "10702",
+    "aozora": "zdngTFh3EJ",
+    "myanimelist/anime": "10702"
+  }
+}

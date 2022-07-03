@@ -1,0 +1,25 @@
+{
+  "slug": "liu-yao",
+  "synopsis": "A cultivation story about how a declining sect is restored by a narcissist, a troublemaker, a meanie, an idiot and a wimpy kid.",
+  "title": {
+    "en": "Liu Yao"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45494/poster_image/1a1df286f7833095f5e2384c910ec52a.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45494",
+    "anilist/anime": "127912"
+  }
+}

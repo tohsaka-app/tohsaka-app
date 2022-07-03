@@ -1,0 +1,24 @@
+{
+  "slug": "muku-hatojuu-no-meiken-monogatari",
+  "synopsis": "Follows the story of a boy and two jackals he befriends in the adventure sin the Southern Alps.",
+  "title": {
+    "jp": "Muku Hatojuu no Meiken Monogatari"
+  },
+  "releasedAt": "1997-07-01T00:00:00.000Z",
+  "finishedAt": "1997-07-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11050/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11050",
+    "aozora": "OdjJtY7bF5",
+    "myanimelist/anime": "30944"
+  }
+}

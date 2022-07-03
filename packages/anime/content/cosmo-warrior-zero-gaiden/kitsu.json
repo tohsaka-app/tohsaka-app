@@ -1,0 +1,31 @@
+{
+  "slug": "cosmo-warrior-zero-gaiden",
+  "synopsis": "Sequel to Cosmo Warrior Zero.",
+  "title": {
+    "jp": "Cosmo Warrior Zero Gaiden"
+  },
+  "releasedAt": "2001-06-21T00:00:00.000Z",
+  "finishedAt": "2001-06-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1507/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "military",
+    "pirate",
+    "science fiction",
+    "space"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/cosmo-warrior-zero"
+  ],
+  "relations": {
+    "kitsu": "1507",
+    "anilist/anime": "1677",
+    "aozora": "N69rgru34q",
+    "myanimelist/anime": "1677"
+  }
+}

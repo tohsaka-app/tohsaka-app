@@ -1,0 +1,37 @@
+{
+  "slug": "ro-kyu-bu-ss",
+  "synopsis": "Second season of Ro-Kyu-Bu!",
+  "title": {
+    "jp": "Ro-Kyu-Bu! SS"
+  },
+  "releasedAt": "2013-07-05T00:00:00.000Z",
+  "finishedAt": "2013-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7367/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7367/original.jpg",
+  "categories": [
+    "asia",
+    "basketball",
+    "comedy",
+    "earth",
+    "ecchi",
+    "friendship",
+    "japan",
+    "loli",
+    "present",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7367",
+    "anidb": "9485",
+    "anilist/anime": "16051",
+    "aozora": "zEms6jX8mL",
+    "myanimelist/anime": "16051",
+    "thetvdb": "249869",
+    "trakt": "63598"
+  }
+}

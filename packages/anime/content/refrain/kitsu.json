@@ -1,0 +1,23 @@
+{
+  "slug": "refrain",
+  "synopsis": "A music video for Nabowa's song \"Refrain\".",
+  "title": {
+    "jp": "Refrain"
+  },
+  "releasedAt": "2009-03-03T00:00:00.000Z",
+  "finishedAt": "2009-03-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11926/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11926",
+    "anilist/anime": "103457",
+    "aozora": "y4pTxoN74f",
+    "myanimelist/anime": "32781"
+  }
+}

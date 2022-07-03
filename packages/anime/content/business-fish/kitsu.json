@@ -1,0 +1,24 @@
+{
+  "slug": "business-fish",
+  "synopsis": "",
+  "title": {
+    "jp": "Business Fish"
+  },
+  "releasedAt": "2019-07-08T00:00:00.000Z",
+  "finishedAt": "2019-08-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42419/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42419",
+    "anilist/anime": "110124",
+    "myanimelist/anime": "39979"
+  }
+}

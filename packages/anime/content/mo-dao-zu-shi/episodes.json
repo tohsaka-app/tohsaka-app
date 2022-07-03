@@ -1,0 +1,115 @@
+[
+  {
+    "title": {},
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2018-07-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2018-07-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2018-07-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2018-07-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2018-07-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gui Jia"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2018-08-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kui Shou"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2018-08-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Jiao Hua"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2018-08-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tong Zhou"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2018-08-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Huo Qi"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2018-09-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shan Qing"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2018-09-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 12,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 13,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 14,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 15,
+    "content": {}
+  }
+]

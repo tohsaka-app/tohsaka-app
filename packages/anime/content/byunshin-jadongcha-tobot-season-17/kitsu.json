@@ -1,0 +1,26 @@
+{
+  "slug": "byunshin-jadongcha-tobot-season-17",
+  "synopsis": "Season 17 of Tobot.\n\nNote: This was edited into the First 7 Episodes of the English Release.",
+  "title": {
+    "en": "Tobot Season 17"
+  },
+  "releasedAt": "2015-03-01T00:00:00.000Z",
+  "finishedAt": "2015-03-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44263/original.jpg",
+  "categories": [
+    "kids",
+    "korea",
+    "mecha",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.amazon.com/Tobot/dp/B07GX7Z43J"
+  ],
+  "relations": {
+    "kitsu": "44263"
+  }
+}

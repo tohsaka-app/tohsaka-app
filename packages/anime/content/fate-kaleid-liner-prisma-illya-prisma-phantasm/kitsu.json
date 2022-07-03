@@ -1,0 +1,26 @@
+{
+  "slug": "fate-kaleid-liner-prisma-illya-prisma-phantasm",
+  "synopsis": "",
+  "title": {
+    "jp": "Fate/Kaleid Liner Prisma☆Illya: Prisma☆Phantasm"
+  },
+  "releasedAt": "2019-06-14T00:00:00.000Z",
+  "finishedAt": "2019-06-14T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42223/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "loli",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42223",
+    "anidb": "13508",
+    "anilist/anime": "100269",
+    "myanimelist/anime": "38897"
+  }
+}

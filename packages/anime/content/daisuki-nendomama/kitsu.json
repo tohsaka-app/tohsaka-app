@@ -1,0 +1,24 @@
+{
+  "slug": "daisuki-nendomama",
+  "synopsis": "Claymation about a loving blob mother and her blob son. Each episode is a simple glimpse into their 'normal' lives.",
+  "title": {
+    "jp": "Daisuki! Nendomama"
+  },
+  "releasedAt": "1994-04-04T00:00:00.000Z",
+  "finishedAt": "1995-03-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10246/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10246",
+    "aozora": "eyjvs103SI",
+    "myanimelist/anime": "29469"
+  }
+}

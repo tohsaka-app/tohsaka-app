@@ -1,0 +1,24 @@
+{
+  "slug": "aikodesho",
+  "synopsis": "A music video for the song \"Aikodesho\" by Yuuki Kudou. Aired as part of NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Aikodesho"
+  },
+  "releasedAt": "1988-08-01T00:00:00.000Z",
+  "finishedAt": "1988-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11915/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11915",
+    "anilist/anime": "126883",
+    "aozora": "uUVCetCtlK",
+    "myanimelist/anime": "32421"
+  }
+}

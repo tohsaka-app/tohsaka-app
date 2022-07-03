@@ -1,0 +1,25 @@
+{
+  "slug": "zettai-shougeki-platonic-heart-picture-drama",
+  "synopsis": "Short picture drama specials included in BD/DVD volumes.",
+  "title": {
+    "jp": "Zettai Shougeki: Platonic Heart Picture Drama"
+  },
+  "releasedAt": "2008-11-27T00:00:00.000Z",
+  "finishedAt": "2009-02-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8470/original.jpg",
+  "categories": [
+    "action",
+    "ecchi",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8470",
+    "anilist/anime": "119835",
+    "aozora": "RDjVwsfsya",
+    "myanimelist/anime": "21215"
+  }
+}

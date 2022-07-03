@@ -1,0 +1,34 @@
+{
+  "slug": "kanamewo",
+  "synopsis": "A young, unnamed woman, while biking home from the bank she works at, happens upon a weakened tree goddess whose native shrine is being demolished for construction work. She rescues her and brings the goddess home with her. The two form a relationship, but what will happen to the goddess as the construction progresses?",
+  "title": {
+    "jp": "Kanamewo"
+  },
+  "releasedAt": "2015-11-04T00:00:00.000Z",
+  "finishedAt": "2015-11-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11649/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11649/original.jpg",
+  "categories": [
+    "asia",
+    "contemporary fantasy",
+    "deity",
+    "earth",
+    "fantasy",
+    "japan",
+    "present",
+    "romance",
+    "shoujo ai",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11649",
+    "anidb": "11820",
+    "anilist/anime": "21657",
+    "aozora": "GrMKmZTj1f",
+    "myanimelist/anime": "32287"
+  }
+}

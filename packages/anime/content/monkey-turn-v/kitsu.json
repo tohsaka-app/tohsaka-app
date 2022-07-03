@@ -1,0 +1,29 @@
+{
+  "slug": "monkey-turn-v",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Monkey Turn V"
+  },
+  "releasedAt": "2004-07-04T00:00:00.000Z",
+  "finishedAt": "2004-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2501/original.jpg",
+  "categories": [
+    "action",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2501",
+    "anidb": "2432",
+    "anilist/anime": "2741",
+    "aozora": "xfVZ5XK8xl",
+    "myanimelist/anime": "2741",
+    "thetvdb": "250972/2",
+    "thetvdb/season": "471749",
+    "thetvdb/series": "250972",
+    "trakt": "78133"
+  }
+}

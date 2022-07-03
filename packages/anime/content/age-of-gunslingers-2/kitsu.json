@@ -1,0 +1,25 @@
+{
+  "slug": "age-of-gunslingers-2",
+  "synopsis": "Second Season of Qiang Shen Ji",
+  "title": {
+    "en": "Age of Gunslingers 2"
+  },
+  "releasedAt": "2018-06-15T00:00:00.000Z",
+  "finishedAt": "2018-08-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43253/original.jpg",
+  "categories": [
+    "action",
+    "gunfights",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43253",
+    "anidb": "14298",
+    "anilist/anime": "119921",
+    "myanimelist/anime": "42149"
+  }
+}

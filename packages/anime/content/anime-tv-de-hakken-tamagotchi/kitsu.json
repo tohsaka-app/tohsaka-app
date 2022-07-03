@@ -1,0 +1,28 @@
+{
+  "slug": "anime-tv-de-hakken-tamagotchi",
+  "synopsis": "",
+  "title": {
+    "en": "Animated Tamagotchi Found on Television!",
+    "jp": "Anime TV de Hakken! Tamagotchi"
+  },
+  "releasedAt": "1997-07-07T00:00:00.000Z",
+  "finishedAt": "1998-03-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4593/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4593",
+    "anidb": "3083",
+    "anilist/anime": "6520",
+    "aozora": "0Zt9h95TwM",
+    "myanimelist/anime": "6520"
+  }
+}

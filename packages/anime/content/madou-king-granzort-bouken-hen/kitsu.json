@@ -1,0 +1,35 @@
+{
+  "slug": "madou-king-granzort-bouken-hen",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Madou King Granzort: Bouken-hen"
+  },
+  "releasedAt": "1992-03-27T00:00:00.000Z",
+  "finishedAt": "1992-06-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4875/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "comedy",
+    "fantasy",
+    "humanoid alien",
+    "magic",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "shipboard",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4875",
+    "anidb": "2354",
+    "anilist/anime": "7124",
+    "aozora": "Qo1nkFTgjt",
+    "myanimelist/anime": "7124"
+  }
+}

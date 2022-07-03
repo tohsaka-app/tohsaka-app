@@ -1,0 +1,24 @@
+{
+  "slug": "colocolo-animal-otogibanashi",
+  "synopsis": null,
+  "title": {
+    "en": "ColoColo Animal Folktale",
+    "jp": "ColoColo Animal Otogibanashi"
+  },
+  "releasedAt": "2021-04-12T00:00:00.000Z",
+  "finishedAt": "2021-07-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44850/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44850",
+    "anilist/anime": "136135",
+    "myanimelist/anime": "48789"
+  }
+}

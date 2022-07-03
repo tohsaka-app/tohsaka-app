@@ -1,0 +1,25 @@
+{
+  "slug": "tenrankai-no-e",
+  "synopsis": "A series of short animated segments, without dialog, explore major characters of modern society, such as the plastic surgeon, the fashion-obsessed woman, the rumor-monger, and others, leading to a concluding comment on the progress of civilization. \n(Source: ANN) ",
+  "title": {
+    "en": "Pictures at an Exhibition",
+    "jp": "Tenrankai no E"
+  },
+  "releasedAt": "1966-11-11T00:00:00.000Z",
+  "finishedAt": "1966-11-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3034/original.png",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3034",
+    "anidb": "3470",
+    "anilist/anime": "3472",
+    "aozora": "S37nxjrKai",
+    "myanimelist/anime": "3472"
+  }
+}

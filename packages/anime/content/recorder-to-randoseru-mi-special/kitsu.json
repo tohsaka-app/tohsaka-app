@@ -1,0 +1,25 @@
+{
+  "slug": "recorder-to-randoseru-mi-special",
+  "synopsis": "Unaired episode 13 included on the Blu-ray/DVD volume of the Recorder to Randoseru Mi☆ series.",
+  "title": {
+    "jp": "Recorder to Randoseru Mi☆ Special"
+  },
+  "releasedAt": "2013-10-02T00:00:00.000Z",
+  "finishedAt": "2013-10-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8569/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8569",
+    "anilist/anime": "20828",
+    "aozora": "9xByRUbwmM",
+    "myanimelist/anime": "24935"
+  }
+}

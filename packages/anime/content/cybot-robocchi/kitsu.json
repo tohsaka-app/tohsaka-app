@@ -1,0 +1,29 @@
+{
+  "slug": "cybot-robocchi",
+  "synopsis": "Apparently inspired largely by Akira Toriyama's popular Dr. Slump, Cybot Robocchi is the story of Robocchi, a fun-loving, mischievous robot with a TV set in his stomach.\nRobocchi lives in a peaceful village with various other robots, all created by the eccentric and somewhat lecherous Dr. Art Deko. Although he is an android, Robocchi has a warm, kind heart and is always willing to help out a friend in need. With his human girlfriend Kurumi, he gets into a variety of wacky adventures.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Robby the Rascal",
+    "jp": "Cybot Robocchi"
+  },
+  "releasedAt": "1982-10-07T00:00:00.000Z",
+  "finishedAt": "1983-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5162/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5162",
+    "anidb": "1796",
+    "anilist/anime": "7956",
+    "aozora": "DqcOAXQZP3",
+    "myanimelist/anime": "7956",
+    "thetvdb": "253278/1",
+    "thetvdb/series": "253278",
+    "trakt": "44824"
+  }
+}

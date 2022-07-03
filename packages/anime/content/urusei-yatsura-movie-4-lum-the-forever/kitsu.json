@@ -1,0 +1,36 @@
+{
+  "slug": "urusei-yatsura-movie-4-lum-the-forever",
+  "synopsis": "Strange things begin happening in Tomobiki Town... \nWhen a great cherry tree, \"Tarozakura\" is cut down while Lum &amp; Co. are making a movie, Lum loses her horns-and her powers! Thus begins the strangest and most lyrical of the Urusei Yatsura movies...\n(Source: AniDB)",
+  "title": {
+    "jp": "Urusei Yatsura Movie 4: Lum The Forever"
+  },
+  "releasedAt": "1986-02-22T00:00:00.000Z",
+  "finishedAt": "1986-02-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1733/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "comedy",
+    "high school",
+    "humanoid alien",
+    "japan",
+    "love polygon",
+    "romance",
+    "science fiction",
+    "slapstick"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GG5H5X7DK/urusei-yatsura-movies"
+  ],
+  "relations": {
+    "kitsu": "1733",
+    "anidb": "381",
+    "anilist/anime": "1923",
+    "aozora": "4ISo1XShC9",
+    "myanimelist/anime": "1923"
+  }
+}

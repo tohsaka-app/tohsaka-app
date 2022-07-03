@@ -1,0 +1,33 @@
+{
+  "slug": "mobile-suit-gundam-wing-endless-waltz",
+  "synopsis": "After Colony 196 - One year has passed since the war between Earth and its colonies ended. Heero, Duo, Trowa and Quatre bid farewell to their Gundams and jettison them to the sun. Relena Darlian is now the deputy minister of the Earth Sphere Unified Nation. But as the Gundam pilots are adjusting to the peace on Earth, Relena is kidnapped and a new threat appears, led by Marimeia Khushrenada - daughter of the late dictator Treize Khushrenada and heir to the Barton Foundation. To make matters more complicated, Gundam Nataku pilot Wufei has sided with this faction. The Gundam pilots must recover their mobile suits and once again engage in battle before Marimeia's forces succeed on their bid for global domination. \n(Source: ANN)",
+  "title": {
+    "en": "Mobile Suit Gundam Wing: Endless Waltz",
+    "jp": "Shin Kidou Senki Gundam Wing: Endless Waltz"
+  },
+  "releasedAt": "1997-01-25T00:00:00.000Z",
+  "finishedAt": "1997-07-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7964/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7964/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "space",
+    "space opera",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7964",
+    "anidb": "908",
+    "anilist/anime": "91",
+    "aozora": "YpgfFnmJJU",
+    "myanimelist/anime": "91"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "robotex",
+  "synopsis": "Robotex is an action adventure animation about the fatal encounter between human children and the Metal Organism 'Robotex' from outer space. Robotex and the children fight to defend and save the earth from the evil force.\n\n(Source: Amazon)",
+  "title": {},
+  "releasedAt": "2015-08-21T00:00:00.000Z",
+  "finishedAt": "2016-03-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41368/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.amazon.com/Robotex/dp/B075JZ4YQD"
+  ],
+  "relations": {
+    "kitsu": "41368",
+    "anidb": "13386"
+  }
+}

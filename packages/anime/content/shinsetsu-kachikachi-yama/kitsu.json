@@ -1,0 +1,25 @@
+{
+  "slug": "shinsetsu-kachikachi-yama",
+  "synopsis": "A seven minute long short-movie directed by Kon Ichikawa in 1936.",
+  "title": {
+    "jp": "Shinsetsu Kachikachi Yama"
+  },
+  "releasedAt": "1936-11-01T00:00:00.000Z",
+  "finishedAt": "1936-11-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11510/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11510",
+    "anidb": "6944",
+    "aozora": "pWbT5ufkH2",
+    "myanimelist/anime": "31912"
+  }
+}

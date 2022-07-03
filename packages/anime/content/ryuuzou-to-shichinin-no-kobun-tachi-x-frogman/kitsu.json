@@ -1,0 +1,23 @@
+{
+  "slug": "ryuuzou-to-shichinin-no-kobun-tachi-x-frogman",
+  "synopsis": "A cross-over between Frogman and Ryuuzou to Shichinin no Kobun-tachi.",
+  "title": {
+    "jp": "Ryuuzou to Shichinin no Kobun-tachi x Frogman"
+  },
+  "releasedAt": "2015-09-28T00:00:00.000Z",
+  "finishedAt": "2015-10-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12408/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12408",
+    "anidb": "11669",
+    "aozora": "GWQDboFbNl",
+    "myanimelist/anime": "32559"
+  }
+}

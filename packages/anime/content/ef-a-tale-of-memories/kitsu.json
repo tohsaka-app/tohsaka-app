@@ -1,0 +1,41 @@
+{
+  "slug": "ef-a-tale-of-memories",
+  "synopsis": "One Christmas Eve, Hiro Hirono helps Miyako, the victim of a purse snatching, and discovers that she goes to the same school he does. To the dismay of his childhood friend, Kei, Hiro starts hanging out with Miyako. But Kei is not about to let a new girl in Hiro's life take him away from her, and sets out to prove that she's the only one for him. When Renji Asou meets Chihiro Shindou at an abandoned train station, he doesn't notice anything unusual at first. But he soon discovers that she suffers from a rare form of amnesia and can only remember things for thirteen hours. Chihiro dreams of writing a novel, but her amnesia has made it an impossible task. Now, however, Renji is determined to help her fulfill her dream. \n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "ef - a tale of memories.",
+    "jp": "ef: A Tale of Memories."
+  },
+  "releasedAt": "2007-10-07T00:00:00.000Z",
+  "finishedAt": "2007-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2649/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2649/original.jpg",
+  "categories": [
+    "angst",
+    "drama",
+    "earth",
+    "high school",
+    "mystery",
+    "present",
+    "psychological",
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/ef-a-tale-of-memories"
+  ],
+  "relations": {
+    "kitsu": "2649",
+    "anidb": "5274",
+    "anilist/anime": "2924",
+    "aozora": "bbpxF95L2T",
+    "hulu": "50009848",
+    "myanimelist/anime": "2924",
+    "thetvdb": "80904/1",
+    "thetvdb/season": "29560",
+    "thetvdb/series": "80904",
+    "trakt": "61377"
+  }
+}

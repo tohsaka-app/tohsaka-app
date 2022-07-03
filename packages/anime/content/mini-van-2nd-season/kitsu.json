@@ -1,0 +1,27 @@
+{
+  "slug": "mini-van-2nd-season",
+  "synopsis": "An animated flash series of the manga Mini Vanguard.",
+  "title": {
+    "jp": "Mini Van 2nd Season"
+  },
+  "releasedAt": "2015-10-03T00:00:00.000Z",
+  "finishedAt": "2016-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11394/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "slice of life",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11394",
+    "anidb": "11486",
+    "anilist/anime": "21344",
+    "aozora": "IDVf1D7SVT",
+    "myanimelist/anime": "31410"
+  }
+}

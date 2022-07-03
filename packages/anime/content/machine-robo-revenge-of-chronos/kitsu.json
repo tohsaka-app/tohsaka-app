@@ -1,0 +1,36 @@
+{
+  "slug": "machine-robo-revenge-of-chronos",
+  "synopsis": "The journey of a robot prince begins! The planet Cronos is a world of super-robotic lifeforms, ruled by the wise Master Kirai. But their peaceful existence is shattered by the conquering armies of the Gandora robots. Now, machine combats machine in an epic battle for the planet. Master Kurai's son, Rom, must lead a company of transformable mecha warriors into the fray!\n(source: centralparkmedia.com)",
+  "title": {
+    "en": "Machine Robo: Revenge of Chronos",
+    "jp": "Machine Robo: Cronos no Dai Gyakushuu"
+  },
+  "releasedAt": "1986-07-03T00:00:00.000Z",
+  "finishedAt": "1987-05-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3188/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "android",
+    "martial arts",
+    "mecha",
+    "other planet",
+    "science fiction",
+    "space",
+    "swordplay",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3188",
+    "anidb": "965",
+    "anilist/anime": "3676",
+    "aozora": "um11q1i0QE",
+    "myanimelist/anime": "3676",
+    "thetvdb": "223491",
+    "trakt": "14227"
+  }
+}

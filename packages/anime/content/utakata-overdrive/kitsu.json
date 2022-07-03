@@ -1,0 +1,25 @@
+{
+  "slug": "utakata-overdrive",
+  "synopsis": "The story takes place in the fantasy world of Planet Note. Humans, who can no longer sing, pair up with members of a tribe of non-humans that can sing. These are the sound users \"Otokata\" and the singers \"Utakata.\" Together they use the sounds and songs as weapons in competition.\n(Source: ANN)",
+  "title": {
+    "jp": "Utakata Overdrive"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11495/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11495",
+    "anidb": "11755",
+    "anilist/anime": "21488",
+    "aozora": "2G0nlskzIv",
+    "myanimelist/anime": "32012"
+  }
+}

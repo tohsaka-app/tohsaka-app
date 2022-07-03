@@ -1,0 +1,22 @@
+{
+  "slug": "additional-memory",
+  "synopsis": "Music video for Additional Memory from the album \"Mekakucity Reload\" released November 7, 2018.",
+  "title": {
+    "jp": "Additional Memory"
+  },
+  "releasedAt": "2018-09-14T00:00:00.000Z",
+  "finishedAt": "2018-09-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42142/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42142",
+    "anilist/anime": "107671",
+    "myanimelist/anime": "39093"
+  }
+}

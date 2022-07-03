@@ -1,0 +1,24 @@
+{
+  "slug": "kokoro-magic-a-to-z",
+  "synopsis": "Music video for Kokoro Magic \"A to Z\" by Aqours.\n\nThis is the second special single by Aqours, written for the iOS and Android rhythm game, Love Live! School Idol Festival ALL STARS. It was released on October 30, 2019 on both CD and Blu-ray disc.",
+  "title": {
+    "jp": "Kokoro Magic \"A to Z\""
+  },
+  "releasedAt": "2019-10-30T00:00:00.000Z",
+  "finishedAt": "2019-10-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42987/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42987",
+    "anilist/anime": "119422",
+    "myanimelist/anime": "41202"
+  }
+}

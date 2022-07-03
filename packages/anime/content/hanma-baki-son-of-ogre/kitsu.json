@@ -1,0 +1,30 @@
+{
+  "slug": "hanma-baki-son-of-ogre",
+  "synopsis": "To gain the skills he needs to surpass his powerful father, Baki enters Arizona State Prison to take on the notorious inmate known as Mr. Unchained.\n\n(Source: Netflix)",
+  "title": {
+    "en": "Baki Hanma: Son of Ogre",
+    "jp": "Hanma Baki: Son of Ogre"
+  },
+  "releasedAt": "2021-09-30T00:00:00.000Z",
+  "finishedAt": "2021-09-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43599/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/43599/cover_image/34b29f18d054fdc4672ac6beebdd5b79.jpg",
+  "categories": [
+    "action",
+    "combat",
+    "martial arts",
+    "violence"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81236338"
+  ],
+  "relations": {
+    "kitsu": "43599",
+    "anidb": "15737",
+    "anilist/anime": "124195",
+    "myanimelist/anime": "42940"
+  }
+}

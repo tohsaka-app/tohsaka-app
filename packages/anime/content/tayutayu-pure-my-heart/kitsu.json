@@ -1,0 +1,23 @@
+{
+  "slug": "tayutayu-pure-my-heart",
+  "synopsis": "Special Tayutama -Kiss on my Deity- episodes added to DVDs and Blu-rays.",
+  "title": {
+    "jp": "Tayutayu: Pure My Heart"
+  },
+  "releasedAt": "2009-06-25T00:00:00.000Z",
+  "finishedAt": "2009-11-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4677/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4677",
+    "anilist/anime": "6705",
+    "aozora": "py3sC9DcB5",
+    "myanimelist/anime": "6705"
+  }
+}

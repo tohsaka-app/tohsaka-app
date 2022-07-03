@@ -1,0 +1,26 @@
+{
+  "slug": "numa-no-taishou",
+  "synopsis": "The story of a gluttonous whale and the other aquatic creatures.",
+  "title": {
+    "en": "General of the Swamp",
+    "jp": "Numa no Taishou"
+  },
+  "releasedAt": "1933-11-17T00:00:00.000Z",
+  "finishedAt": "1933-11-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10204/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10204",
+    "anidb": "10899",
+    "anilist/anime": "109365",
+    "aozora": "XLg40167EE",
+    "myanimelist/anime": "28049"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "curry-meshi-x-zombieland-saga",
+  "synopsis": "A special collaboration between Nissin Foods' Curry Meshi instant curry rice brand and the TV anime Zombieland Saga. A special themed box set with a music CD, artwork, and six curries will be sold for a limited time.",
+  "title": {
+    "jp": "Curry Meshi x Zombieland Saga"
+  },
+  "releasedAt": "2019-10-03T00:00:00.000Z",
+  "finishedAt": "2019-10-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42642/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42642/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42642",
+    "myanimelist/anime": "40477"
+  }
+}

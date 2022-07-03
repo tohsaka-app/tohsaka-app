@@ -1,0 +1,652 @@
+[
+  {
+    "title": {
+      "jp": "Here Comes the Pretty Witch"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1974-04-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Here Comes the Pretty Witch"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/50175/original.jpg",
+    "releasedAt": "1974-04-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "That Girl's a Rival"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/50176/original.jpg",
+    "releasedAt": "1974-04-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Lots of Witches"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1974-04-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Light of Home"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1974-04-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Witch of Love"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1974-05-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Papa can't afford to Laugh"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1974-05-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "My Longing for Megu"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1974-05-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Genius at Venting his Anger"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1974-05-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "True Heart's Song"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1974-06-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Marvelous Balloon Trip"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1974-06-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Messenger from the Moon"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1974-06-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Bow-Wow Riot"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1974-06-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Duel! The Magical Mansion!"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1974-07-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Vision of a Harp"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1974-07-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Papa's Lover?!"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1974-07-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "From the Sky with Love"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1974-07-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Two Megu Chan's"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1974-07-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Old Castle's Love Story"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1974-08-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Good-bye, Mr. Ghost"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1974-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Walk, Miru-chan!"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1974-08-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ex-Witch Granny Chuck"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1974-08-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "When do the Stars fall into the Sea?"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1974-09-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great Operation: Tearful Humiliation"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1974-09-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Stolen Dress"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1974-09-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Vision of a Boy"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1974-09-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Terricfic Magical Battle"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1974-09-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Scorpion's Curse"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1974-10-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Baby's Fuss"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1974-10-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Angel's Tear"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1974-10-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Mystery of The Abused Girl"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1974-10-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Echo of Love"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "1974-11-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shadow of a Witch Fluttering her Wings"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "1974-11-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Saturn's Messenger"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "1974-11-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Uninvited Guests"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "1974-11-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The White Horse, Upstairs in our House"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "1974-12-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Dolls that Left"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "1974-12-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Strange Transfer Student"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "1974-12-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Paper Planes Bound Far Away"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "1974-12-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Santa's Name: Apo"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "1975-01-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great Tomboy Race!"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "1975-01-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Lost Polar Bear"
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "1975-01-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Friendship at the Snow Festival"
+    },
+    "season": 1,
+    "number": 43,
+    "releasedAt": "1975-01-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Snow Bird's Secret"
+    },
+    "season": 1,
+    "number": 44,
+    "releasedAt": "1975-02-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Age of Rebellion is Here"
+    },
+    "season": 1,
+    "number": 45,
+    "releasedAt": "1975-02-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Red Shoes of Friendship"
+    },
+    "season": 1,
+    "number": 46,
+    "releasedAt": "1975-02-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tale of North Spring Winds"
+    },
+    "season": 1,
+    "number": 47,
+    "releasedAt": "1975-02-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Spring in a Yacht"
+    },
+    "season": 1,
+    "number": 48,
+    "releasedAt": "1975-03-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Doll's Poem"
+    },
+    "season": 1,
+    "number": 49,
+    "releasedAt": "1975-03-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Pinwheel's Song"
+    },
+    "season": 1,
+    "number": 50,
+    "releasedAt": "1975-03-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Flying Bag"
+    },
+    "season": 1,
+    "number": 51,
+    "releasedAt": "1975-03-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Please Take Care of Tarou"
+    },
+    "season": 1,
+    "number": 52,
+    "releasedAt": "1975-03-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gonbee has Returned"
+    },
+    "season": 1,
+    "number": 53,
+    "releasedAt": "1975-04-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Demon World's Failure"
+    },
+    "season": 1,
+    "number": 54,
+    "releasedAt": "1975-04-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Missing Cat"
+    },
+    "season": 1,
+    "number": 55,
+    "releasedAt": "1975-04-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Who's The Criminal?"
+    },
+    "season": 1,
+    "number": 56,
+    "releasedAt": "1975-04-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Secret of The White Lily"
+    },
+    "season": 1,
+    "number": 57,
+    "releasedAt": "1975-05-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Carp Streamers High in the Sky"
+    },
+    "season": 1,
+    "number": 58,
+    "releasedAt": "1975-05-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Where are you, Gonbee?"
+    },
+    "season": 1,
+    "number": 59,
+    "releasedAt": "1975-05-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Girl in The Rain"
+    },
+    "season": 1,
+    "number": 60,
+    "releasedAt": "1975-06-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Young Master's Great Circus"
+    },
+    "season": 1,
+    "number": 61,
+    "releasedAt": "1975-06-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rainman"
+    },
+    "season": 1,
+    "number": 62,
+    "releasedAt": "1975-06-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Due by Midnight, Bound for The Witch Kindgom"
+    },
+    "season": 1,
+    "number": 63,
+    "releasedAt": "1975-07-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Blue Star of Tanabata"
+    },
+    "season": 1,
+    "number": 64,
+    "releasedAt": "1975-07-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Fuss of Not Swiming"
+    },
+    "season": 1,
+    "number": 65,
+    "releasedAt": "1975-07-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Dreamy Trolley Car"
+    },
+    "season": 1,
+    "number": 66,
+    "releasedAt": "1975-08-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Foggy Morning Paper, Tarou"
+    },
+    "season": 1,
+    "number": 67,
+    "releasedAt": "1975-08-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Guitar and the Boy"
+    },
+    "season": 1,
+    "number": 68,
+    "releasedAt": "1975-08-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nya-Nya! Summer Vacation!"
+    },
+    "season": 1,
+    "number": 69,
+    "releasedAt": "1975-09-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Revenge Dog Sigma"
+    },
+    "season": 1,
+    "number": 70,
+    "releasedAt": "1975-09-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great Kite, Fly me with the Sea Wind"
+    },
+    "season": 1,
+    "number": 71,
+    "releasedAt": "1975-09-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Final Battle: The Greatest Magic!"
+    },
+    "season": 1,
+    "number": 72,
+    "releasedAt": "1975-09-29T00:00:00.000Z",
+    "content": {}
+  }
+]

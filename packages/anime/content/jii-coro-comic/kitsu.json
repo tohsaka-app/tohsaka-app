@@ -1,0 +1,20 @@
+{
+  "slug": "jii-coro-comic",
+  "synopsis": "A Dangerous Jiisan webisode released on CoroCoro Comic's official youtube page for Christmas 2015. In it, Yousuke accidentally breaks Jiisan's handheld game and ends up going on a wacky time traveling loop to fix it. ",
+  "title": {
+    "jp": "Jii Coro Comic"
+  },
+  "releasedAt": "2015-12-25T00:00:00.000Z",
+  "finishedAt": "2015-12-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40762/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40762",
+    "aozora": "y4A1GxtuNw",
+    "myanimelist/anime": "35454"
+  }
+}

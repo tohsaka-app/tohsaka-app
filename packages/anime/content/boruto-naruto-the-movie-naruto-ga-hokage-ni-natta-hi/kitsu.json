@@ -1,0 +1,28 @@
+{
+  "slug": "boruto-naruto-the-movie-naruto-ga-hokage-ni-natta-hi",
+  "synopsis": "Bundled with the limited edition of Blu-ray/DVD of Boruto: Naruto the Movie.",
+  "title": {
+    "jp": "Boruto: Naruto the Movie - Naruto ga Hokage ni Natta Hi"
+  },
+  "releasedAt": "2016-07-06T00:00:00.000Z",
+  "finishedAt": "2016-07-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11771/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11771/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "martial arts",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11771",
+    "anilist/anime": "21579",
+    "aozora": "17IdHNYyU7",
+    "myanimelist/anime": "32365"
+  }
+}

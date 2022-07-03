@@ -1,0 +1,24 @@
+{
+  "slug": "girls-und-panzer-fushou-akiyama-yukari-no-sensha-kouza",
+  "synopsis": "Girls und Panzer specials with Yukari Akiyama explaining the background of tank units that appear in the series.",
+  "title": {
+    "jp": "Girls & Panzer: Fushou Akiyama Yukari no Sensha Kouza"
+  },
+  "releasedAt": "2012-12-21T00:00:00.000Z",
+  "finishedAt": "2013-06-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7811/original.jpg",
+  "categories": [
+    "military",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7811",
+    "anilist/anime": "18343",
+    "aozora": "iGjNt6Uabp",
+    "myanimelist/anime": "18343"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "lolling-seutajeu-movie",
+  "synopsis": "",
+  "title": {
+    "en": "Rolling Stars (Movie)",
+    "jp": "Lolling Seutajeu (Movie)"
+  },
+  "releasedAt": "2011-03-24T00:00:00.000Z",
+  "finishedAt": "2011-03-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7583/original.jpg",
+  "categories": [
+    "kids",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7583",
+    "anilist/anime": "17104",
+    "aozora": "grAdA2TMVj",
+    "myanimelist/anime": "17104"
+  }
+}

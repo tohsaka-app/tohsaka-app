@@ -1,0 +1,30 @@
+{
+  "slug": "eight-man",
+  "synopsis": "A private investigator working a routine case involving stolen technology is mortally wounded. His only hope for survival comes from sacrificing his humanity to become 8Man—a powerful cyborg crime-fighter enhanced with a living human brain. Resurrected as the ultimate high-tech vigilante, it is up to 8Man to bring the lawless to justice and put an end to the escalating cycle of violence. A classic animated thriller that will leave you breathless.\n(Source: AnimeNfo)",
+  "title": {
+    "en": "8 Man",
+    "jp": "Eightman"
+  },
+  "releasedAt": "1963-11-07T00:00:00.000Z",
+  "finishedAt": "1964-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3906/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3906",
+    "anidb": "1352",
+    "anilist/anime": "5052",
+    "aozora": "tz1REKXbQX",
+    "myanimelist/anime": "5052",
+    "thetvdb": "250580/1",
+    "thetvdb/series": "250580",
+    "trakt": "25623"
+  }
+}

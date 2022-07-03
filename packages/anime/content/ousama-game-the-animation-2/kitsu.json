@@ -1,0 +1,24 @@
+{
+  "slug": "ousama-game-the-animation-2",
+  "synopsis": "Second season of Ousama Game The Animation.",
+  "title": {
+    "en": "King's Game 2",
+    "jp": "Ousama Game The Animation 2"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14115/original.jpg",
+  "categories": [
+    "high school",
+    "horror",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14115",
+    "anidb": "13675"
+  }
+}

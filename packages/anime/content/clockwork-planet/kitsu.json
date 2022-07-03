@@ -1,0 +1,29 @@
+{
+  "slug": "clockwork-planet",
+  "synopsis": "This news may seem sudden... but this world died long ago. Earth died a thousand years ago, and a legendary clockmaker known only as \"Y\" rebuilt it using clockwork. Naoto Miura, a failing high school student, encounters RyuZU, an automaton that \"Y\" left behind, and the genius clockmaker Marie. When the abilities of these three come together, the gears of fate begin to turn. The cycle of failure and success repeats endlessly as the three of them work to repair the endangered \"Clockwork Planet\" in this clockpunk fantasy!\n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Clockwork Planet"
+  },
+  "releasedAt": "2017-04-07T00:00:00.000Z",
+  "finishedAt": "2017-06-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11662/original.png",
+  "categories": [
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/clockwork-planet",
+    "https://www.funimation.com/shows/clockwork-planet/"
+  ],
+  "relations": {
+    "kitsu": "11662",
+    "anidb": "11857",
+    "anilist/anime": "21563",
+    "aozora": "rpwh4Ml3rp",
+    "myanimelist/anime": "32407",
+    "thetvdb": "321627/1"
+  }
+}

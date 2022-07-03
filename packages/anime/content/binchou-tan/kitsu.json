@@ -1,0 +1,35 @@
+{
+  "slug": "binchou-tan",
+  "synopsis": "This is a story about a little girl who lives in an old house in the mountains. Her name is Bincho-tan. Each episode depicts a day in the life of Bincho-tan as she prepares her breakfast in the morning, goes to the forest to gather vegetables, does her household chores and rests at night after a day's work. She is surrounded by a group of close friends who add color to her ordinary yet simple life. ",
+  "title": {
+    "jp": "Binchou-tan"
+  },
+  "releasedAt": "2006-02-02T00:00:00.000Z",
+  "finishedAt": "2006-04-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/672/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/672/original.jpeg",
+  "categories": [
+    "asia",
+    "comedy",
+    "coming of age",
+    "countryside",
+    "earth",
+    "japan",
+    "slice of life",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "672",
+    "anidb": "2836",
+    "anilist/anime": "750",
+    "aozora": "bArA6LayOO",
+    "myanimelist/anime": "750",
+    "thetvdb": "106511/1",
+    "thetvdb/series": "106511",
+    "trakt": "64734"
+  }
+}

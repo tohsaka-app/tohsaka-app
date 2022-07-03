@@ -1,0 +1,22 @@
+{
+  "slug": "sword-of-phantasia",
+  "synopsis": "An animated promotional/opening video for the iOS/Android game Sword of Phantasia.",
+  "title": {
+    "jp": "Sword of Phantasia"
+  },
+  "releasedAt": "2013-03-11T00:00:00.000Z",
+  "finishedAt": "2013-03-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41348/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41348",
+    "anilist/anime": "104527",
+    "myanimelist/anime": "34936"
+  }
+}

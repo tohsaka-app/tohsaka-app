@@ -1,0 +1,28 @@
+{
+  "slug": "shimajirou-hesoka",
+  "synopsis": "Third season of the Shimajirou children's television series.",
+  "title": {
+    "jp": "Shimajirou Hesoka"
+  },
+  "releasedAt": "2010-04-05T00:00:00.000Z",
+  "finishedAt": "2012-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9038/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9038",
+    "anidb": "9028",
+    "anilist/anime": "18939",
+    "aozora": "WMMKSliPVY",
+    "myanimelist/anime": "18939"
+  }
+}

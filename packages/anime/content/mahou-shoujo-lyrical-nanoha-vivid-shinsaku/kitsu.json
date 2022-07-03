@@ -1,0 +1,23 @@
+{
+  "slug": "mahou-shoujo-lyrical-nanoha-vivid-shinsaku",
+  "synopsis": "New project of Mahou Shoujo Lyrical Nanoha ViVid.",
+  "title": {
+    "jp": "Mahou Shoujo Lyrical Nanoha ViVid (Shinsaku)"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13188/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13188"
+  }
+}

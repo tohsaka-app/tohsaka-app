@@ -1,0 +1,25 @@
+{
+  "slug": "bang-dream-film-live",
+  "synopsis": "A joint outdoor concert by the five bands Poppin'Party, Afterglow, Pastel＊Palettes, Hello, Happy World！, and Roselia.",
+  "title": {
+    "en": "BanG Dream! Film Live",
+    "jp": "BanG Dream! FILM LIVE"
+  },
+  "releasedAt": "2019-09-13T00:00:00.000Z",
+  "finishedAt": "2019-09-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43370/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43370",
+    "anidb": "14802",
+    "anilist/anime": "108735",
+    "animenewsnetwork": "22045",
+    "myanimelist/anime": "39619"
+  }
+}

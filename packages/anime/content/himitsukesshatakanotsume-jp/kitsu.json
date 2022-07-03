@@ -1,0 +1,26 @@
+{
+  "slug": "himitsukesshatakanotsume-jp",
+  "synopsis": "Eagle Talon, a secret society based in Kojimachi, Tokyo, with plans for world domination, is going nation-wide by broadcasting a new series through NHK! But that's not all, they're going world-wide with a new series on their homepage as well!",
+  "title": {
+    "jp": "himitsukesshatakanotsume.jp"
+  },
+  "releasedAt": "2012-04-06T00:00:00.000Z",
+  "finishedAt": "2012-04-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6964/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6964",
+    "anidb": "9148",
+    "anilist/anime": "13433",
+    "aozora": "R2bNl5KiyY",
+    "myanimelist/anime": "13433"
+  }
+}

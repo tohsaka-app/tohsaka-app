@@ -1,0 +1,30 @@
+{
+  "slug": "fairy-gone-2nd-season",
+  "synopsis": "Second season of Fairy Gone.",
+  "title": {
+    "en": "Fairy gone Season 1 Part 2",
+    "jp": "Fairy Gone 2"
+  },
+  "releasedAt": "2019-10-07T00:00:00.000Z",
+  "finishedAt": "2019-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42358/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "fantasy",
+    "magic",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/fairy-gone/",
+    "https://www.hulu.com/fairy-gone"
+  ],
+  "relations": {
+    "kitsu": "42358",
+    "anilist/anime": "109562",
+    "myanimelist/anime": "39811"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "pita-ten",
+  "synopsis": "Kotaro was pretty much supposed to be your average boy, worried about the pressures of education while enjoying a simple life with his friends. Much to his despair, he one day finds the overly cheerful Misha at his door, asking to be friends out of nowhere. Even more shocking is that Misha is an apprentice angel, yet she does more bad then good. Along with Kotaro's school friends Takashi and Koboshi and the so called devil Shia (once again being able to do more good then bad), the group of friends spend their days getting into all sorts of adventures and troubles. Based on the manga by Koge-Donbo.",
+  "title": {
+    "en": "Pita-Ten",
+    "jp": "Pita Ten"
+  },
+  "releasedAt": "2002-04-07T00:00:00.000Z",
+  "finishedAt": "2002-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/140/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/140/original.jpg",
+  "categories": [
+    "angel",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "elementary school",
+    "fantasy",
+    "japan",
+    "kids",
+    "present",
+    "romance",
+    "school life",
+    "sudden girlfriend appearance"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/pita-ten"
+  ],
+  "relations": {
+    "kitsu": "140",
+    "anidb": "323",
+    "anilist/anime": "162",
+    "aozora": "pzPT3nGpKN",
+    "myanimelist/anime": "162",
+    "thetvdb": "79673/1",
+    "thetvdb/series": "79673",
+    "trakt": "64195"
+  }
+}

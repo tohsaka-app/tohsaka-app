@@ -1,0 +1,26 @@
+{
+  "slug": "toaru-majutsu-no-index-ii-specials",
+  "synopsis": "New series of shorts featuring Index-tan.",
+  "title": {
+    "en": "A Certain Magical Index II: Specials",
+    "jp": "Toaru Majutsu no Index-tan II"
+  },
+  "releasedAt": "2011-01-26T00:00:00.000Z",
+  "finishedAt": "2011-06-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6098/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6098/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6098",
+    "anilist/anime": "10249",
+    "aozora": "HhSuqsjSsC",
+    "myanimelist/anime": "10249"
+  }
+}

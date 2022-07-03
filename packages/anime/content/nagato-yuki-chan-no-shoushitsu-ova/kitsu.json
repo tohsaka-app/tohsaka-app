@@ -1,0 +1,32 @@
+{
+  "slug": "nagato-yuki-chan-no-shoushitsu-ova",
+  "synopsis": "Extra episode of Nagato Yuki-chan no Shoushitsu bundled with the limited edition of the 9th manga volume.",
+  "title": {
+    "en": "The Disappearance of Nagato Yuki-chan: I Cannot Let Summer Break End",
+    "jp": "Nagato Yuki-chan no Shoushitsu: Owarenai Natsuyasumi"
+  },
+  "releasedAt": "2015-10-26T00:00:00.000Z",
+  "finishedAt": "2015-10-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10762/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10762/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "slice of life",
+    "summer"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10762",
+    "anidb": "11163",
+    "anilist/anime": "21122",
+    "aozora": "jUvSGsXKFG",
+    "myanimelist/anime": "30379"
+  }
+}

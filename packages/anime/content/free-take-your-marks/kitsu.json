@@ -1,0 +1,27 @@
+{
+  "slug": "free-take-your-marks",
+  "synopsis": "A special sequel anime for Free! to screen on October 28, 2017.\n\nTitles:\n#1: Unmei no Choice! (Destined Choice!)\n#2: Hiyu no Cooling Down! (Secret Hot Spring Cooling Down!)\n#3: Kessoku no Butterfly! (United Butterfly!)\n#4: Tabitachi no Eternal Blue! (Departing Eternal Blue!)",
+  "title": {
+    "jp": "Free!: Take Your Marks"
+  },
+  "releasedAt": "2017-10-28T00:00:00.000Z",
+  "finishedAt": "2017-10-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12549/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12549/original.jpg",
+  "categories": [
+    "bishounen",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12549",
+    "anidb": "12996",
+    "anilist/anime": "98497",
+    "aozora": "Jr2aDBL8bB",
+    "myanimelist/anime": "35198"
+  }
+}

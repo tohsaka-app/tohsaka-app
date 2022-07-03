@@ -1,0 +1,25 @@
+{
+  "slug": "wansa-kun",
+  "synopsis": "The hero of Wansa-kun is Wansa, a puppy who is sold for a pittance, then escapes, and spends much of the rest of the series looking for his mother. ",
+  "title": {
+    "en": "Little Wansa",
+    "jp": "Wansa-kun"
+  },
+  "releasedAt": "1973-04-02T00:00:00.000Z",
+  "finishedAt": "1973-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4761/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4761",
+    "anidb": "2880",
+    "anilist/anime": "6868",
+    "aozora": "RTa7zvCDWD",
+    "myanimelist/anime": "6868"
+  }
+}

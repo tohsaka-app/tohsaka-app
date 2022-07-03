@@ -1,0 +1,31 @@
+{
+  "slug": "nanatsu-no-taizai-movie-2-hikari-ni-norowareshi-mono-tachi",
+  "synopsis": "Meliodas and his friends jump back into action when the new era of peace is threatened by a powerful magical alliance that could spell the end for all.\n\n(Source: Netflix)",
+  "title": {
+    "en": "The Seven Deadly Sins the Movie: Cursed by Light",
+    "jp": "Nanatsu no Taizai Movie 2: Hikari ni Norowareshi Mono-tachi"
+  },
+  "releasedAt": "2021-07-02T00:00:00.000Z",
+  "finishedAt": "2021-07-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44164/poster_image/52ca53375cef2cfd145cd54e9679c9b1.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81263946"
+  ],
+  "relations": {
+    "kitsu": "44164",
+    "anidb": "15997",
+    "anilist/anime": "128740",
+    "myanimelist/anime": "46420"
+  }
+}

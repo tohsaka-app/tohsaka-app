@@ -1,0 +1,23 @@
+{
+  "slug": "b-who-i-want-2-b",
+  "synopsis": "Music video for Namie Amuro's \"B Who I Want 2 B\", a track from her album Genic, featuring Hatsune Miku.",
+  "title": {
+    "jp": "B Who I Want 2 B"
+  },
+  "releasedAt": "2015-10-13T00:00:00.000Z",
+  "finishedAt": "2015-10-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12068/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12068",
+    "anilist/anime": "103575",
+    "aozora": "XtA64UrR9e",
+    "myanimelist/anime": "31880"
+  }
+}

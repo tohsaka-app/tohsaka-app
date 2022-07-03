@@ -1,0 +1,21 @@
+{
+  "slug": "umbrella-fighter",
+  "synopsis": "A story of childhood friends growing up.",
+  "title": {
+    "jp": "Umbrella Fighter!"
+  },
+  "releasedAt": "2005-09-07T00:00:00.000Z",
+  "finishedAt": "2005-09-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13047/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13047",
+    "myanimelist/anime": "34692"
+  }
+}

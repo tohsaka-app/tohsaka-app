@@ -1,0 +1,33 @@
+{
+  "slug": "dragon-ball-movie-2-majinjou-no-nemuri-hime",
+  "synopsis": "Goku and Kuririn are given an assignment by Kame-Sen'nin: \"Retrieve the sleeping princess from Lucifer and I will take you as my students.\" But the mission proves to be more perilous than originally thought.\n(Source: ANN)",
+  "title": {
+    "en": "Dragon Ball Movie 2: Sleeping Princess in Devil's Castle",
+    "jp": "Dragon Ball Movie 2: Majinjou no Nemuri Hime"
+  },
+  "releasedAt": "1987-07-18T00:00:00.000Z",
+  "finishedAt": "1987-07-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/791/original.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "demon",
+    "fantasy",
+    "martial arts",
+    "science fiction",
+    "super power",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "791",
+    "anidb": "1954",
+    "anilist/anime": "891",
+    "aozora": "15fcM962JJ",
+    "myanimelist/anime": "891"
+  }
+}

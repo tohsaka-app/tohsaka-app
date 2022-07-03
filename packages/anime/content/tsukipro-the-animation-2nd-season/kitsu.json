@@ -1,0 +1,27 @@
+{
+  "slug": "tsukipro-the-animation-2nd-season",
+  "synopsis": "Second season of Tsukipro The Animation.",
+  "title": {
+    "jp": "Tsukipro The Animation 2nd Season"
+  },
+  "releasedAt": "2021-07-07T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43890/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43890/original.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/tsukipro-the-animation-2"
+  ],
+  "relations": {
+    "kitsu": "43890",
+    "anidb": "13696",
+    "anilist/anime": "125909",
+    "myanimelist/anime": "37008"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "alade-suming-zhi-men",
+  "synopsis": "",
+  "title": {
+    "jp": "Alade Suming Zhi Men"
+  },
+  "releasedAt": "2017-04-28T00:00:00.000Z",
+  "finishedAt": "2017-09-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41009/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41009"
+  }
+}

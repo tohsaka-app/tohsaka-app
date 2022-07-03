@@ -1,0 +1,25 @@
+{
+  "slug": "ginga-tetsudou-999-shounen-no-tabidachi-to-wakare",
+  "synopsis": "Recap of TV episodes 1, 79-81, and 112-113.",
+  "title": {
+    "jp": "Ginga Tetsudou 999: Shounen no Tabidachi to Wakare"
+  },
+  "releasedAt": "1982-04-05T00:00:00.000Z",
+  "finishedAt": "1982-04-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10389/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10389",
+    "aozora": "Y7Wb6IdBkj",
+    "myanimelist/anime": "29716"
+  }
+}

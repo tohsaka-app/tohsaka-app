@@ -1,0 +1,26 @@
+{
+  "slug": "movie-1963",
+  "synopsis": "A Miyazawa Kenji story adapted as a puppet animation.",
+  "title": {
+    "jp": "Cello Hiki no Gauche"
+  },
+  "releasedAt": "1963-01-01T00:00:00.000Z",
+  "finishedAt": "1963-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13214/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13214",
+    "anidb": "9326",
+    "anilist/anime": "119825",
+    "aozora": "PZbMLMLMtO",
+    "myanimelist/anime": "33344"
+  }
+}

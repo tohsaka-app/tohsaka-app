@@ -1,0 +1,20 @@
+{
+  "slug": "tsuki-ga-michibiku-isekai-douchuu-2",
+  "synopsis": "The second season of Tsuki ga Michibiku Isekai Douchuu.",
+  "title": {
+    "en": "Tsukimichi -Moonlit Fantasy- 2",
+    "jp": "Tsuki ga Michibiku Isekai Douchuu 2"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45235/poster_image/c0594b7fdce79ac21ca35dddc9171a5c.png",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "45235",
+    "anilist/anime": "139518"
+  }
+}

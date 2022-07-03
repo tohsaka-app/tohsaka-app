@@ -1,0 +1,31 @@
+{
+  "slug": "naked-wolves",
+  "synopsis": "In the Flash-animated television comedy series, a sumo wrestler named Mikoshiarashi travels around the world to train to become the Yokozuna, the Grand Sumo Champion. He meets colorful characters along the way as he is determined to meet his goals. ",
+  "title": {
+    "jp": "Naked Wolves"
+  },
+  "releasedAt": "2009-04-06T00:00:00.000Z",
+  "finishedAt": "2010-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4910/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "kids",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/naked-wolves"
+  ],
+  "relations": {
+    "kitsu": "4910",
+    "anidb": "9740",
+    "anilist/anime": "7247",
+    "aozora": "VrzirpR4T0",
+    "myanimelist/anime": "7247",
+    "thetvdb": "271558/1",
+    "thetvdb/series": "271558"
+  }
+}

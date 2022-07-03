@@ -1,0 +1,24 @@
+{
+  "slug": "odoroki-ban",
+  "synopsis": "Independent animation by Furukawa Taku.",
+  "title": {
+    "en": "Phenakistoscope",
+    "jp": "Odoroki Ban"
+  },
+  "releasedAt": "1975-01-01T00:00:00.000Z",
+  "finishedAt": "1975-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10505/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10505",
+    "anilist/anime": "103492",
+    "aozora": "ZvNd2fwlNp",
+    "myanimelist/anime": "29681"
+  }
+}

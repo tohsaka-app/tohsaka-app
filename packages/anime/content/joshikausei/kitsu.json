@@ -1,0 +1,30 @@
+{
+  "slug": "joshikausei",
+  "synopsis": "A silent high school girl anime that's still cute, even if no one talks! This is a story about three girls and their fun high school life, centering around the unfortunate beauty, Momoko, the cool girl with glasses, Shibumi, and the gentle little Mayumi. Fun alone, fun with all. The daily lives of slightly dumb yet cute high school girls.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Joshi Kausei",
+    "jp": "Joshikausei"
+  },
+  "releasedAt": "2019-04-06T00:00:00.000Z",
+  "finishedAt": "2019-06-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41941/original.jpg",
+  "categories": [
+    "comedy",
+    "female student",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/joshi-kausei"
+  ],
+  "relations": {
+    "kitsu": "41941",
+    "anidb": "14390",
+    "anilist/anime": "104147",
+    "animenewsnetwork": "21807",
+    "myanimelist/anime": "38295"
+  }
+}

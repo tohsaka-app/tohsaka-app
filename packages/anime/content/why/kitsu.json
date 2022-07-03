@@ -1,0 +1,23 @@
+{
+  "slug": "why",
+  "synopsis": "A short film by Keiichi Tanaami.",
+  "title": {
+    "jp": "Why"
+  },
+  "releasedAt": "1975-01-01T00:00:00.000Z",
+  "finishedAt": "1975-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10935/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10935",
+    "anilist/anime": "102706",
+    "aozora": "7uOPpy2jag",
+    "myanimelist/anime": "30559"
+  }
+}

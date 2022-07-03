@@ -1,0 +1,31 @@
+{
+  "slug": "golden-kamuy",
+  "synopsis": "The story takes place in the mighty Northern field of Hokkaido, the time is in the turbulent late Meiji Era. A post war soldier Sugimoto, aka, “Immortal Sugimoto” was in need of large sums of money for a particular purpose…. What awaited Sugimoto, who stepped into Hokkaido’s Gold Rush with dreams of making a fortune, was a tattoo map leading to a hidden treasure based on hints inscribed on the bodies of convicts in Abashiri Prison?! The magnificent nature of Hokkaido vs vicious convicts and the meeting with a pure Ainu girl, Ashiripa!! A survival battle for a hidden treasure hunt begins!\n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Golden Kamuy"
+  },
+  "releasedAt": "2018-04-09T00:00:00.000Z",
+  "finishedAt": "2018-06-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13689/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13689/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "historical",
+    "japan",
+    "seinen"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/golden-kamuy"
+  ],
+  "relations": {
+    "kitsu": "13689",
+    "anilist/anime": "99699",
+    "aozora": "bWhRKQ5lXa",
+    "myanimelist/anime": "36028",
+    "thetvdb": "338455/1"
+  }
+}

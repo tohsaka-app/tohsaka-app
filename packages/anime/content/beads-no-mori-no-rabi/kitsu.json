@@ -1,0 +1,20 @@
+{
+  "slug": "beads-no-mori-no-rabi",
+  "synopsis": "A stop-motion anime using beaded characters. Here a magician rabbits solve problems by using magic. ",
+  "title": {
+    "jp": "Beads no Mori no Rabi"
+  },
+  "releasedAt": "2015-03-20T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40821/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40821",
+    "aozora": "Fk7jn0Pcnk",
+    "myanimelist/anime": "35697"
+  }
+}

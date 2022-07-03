@@ -1,0 +1,30 @@
+{
+  "slug": "bishoujou-senshi-sailor-moon-crystal-movie",
+  "synopsis": "The official website for the Sailor Moon franchise revealed on Friday that the fourth season of the Pretty Guardian Sailor Moon Crystal anime series will be a two-part theatrical anime project. The films will cover the \"Dead Moon\" arc of Naoko Takeuchi's original manga. Chiaki Kon is returning from the anime's third season to direct the two films.\n\n(Source: ANN)",
+  "title": {
+    "en": "Pretty Guardian Sailor Moon Crystal Movie",
+    "jp": "Bishoujo Senshi Sailor Moon Crystal Movie"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13595/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "earth",
+    "henshin",
+    "japan",
+    "magic",
+    "magical girl",
+    "romance",
+    "shoujo",
+    "tokyo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13595"
+  }
+}

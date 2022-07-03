@@ -1,0 +1,25 @@
+{
+  "slug": "yume-miru-kikai",
+  "synopsis": "On the surface, it's going to be a fantasy-adventure targeted at younger audiences. However, it will also be a film that people who have seen our films up to this point will be able to enjoy. So it will be an adventure that even older audiences can appreciate. There will be no human characters in the film; only robots. It'll be like a \"road movie\" for robots.\"\n\n(Source: ANN)",
+  "title": {
+    "en": "The Dream Machine",
+    "jp": "Yume Miru Kikai"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4624/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4624",
+    "anidb": "7209",
+    "anilist/anime": "6585",
+    "myanimelist/anime": "6585"
+  }
+}

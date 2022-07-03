@@ -1,0 +1,23 @@
+{
+  "slug": "senran-kagura-specials",
+  "synopsis": "Special, unaired, episodes released with the Senran Kagura BD/DVDs.",
+  "title": {
+    "jp": "Senran Kagura Specials"
+  },
+  "releasedAt": "2013-03-27T00:00:00.000Z",
+  "finishedAt": "2013-08-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7818/original.jpg",
+  "categories": [
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7818",
+    "anilist/anime": "17345",
+    "aozora": "zxA11ser9c",
+    "myanimelist/anime": "17345"
+  }
+}

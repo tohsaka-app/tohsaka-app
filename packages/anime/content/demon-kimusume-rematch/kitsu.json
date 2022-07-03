@@ -1,0 +1,23 @@
+{
+  "slug": "demon-kimusume-rematch",
+  "synopsis": "Continuation of Onigiri Girl. Intentionally reuses elements to create a comparison of quality to gauge improvement over the years. Features the young girl and demon from Onigiri Girl dueling again, this time however the demon is fueled by revenge.",
+  "title": {
+    "en": "Demon Kimusume Rematch",
+    "jp": "Oni ki musume saisen"
+  },
+  "releasedAt": "2014-08-08T00:00:00.000Z",
+  "finishedAt": "2014-08-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11758/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11758/original.jpg",
+  "categories": [
+    "action",
+    "demon"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11758"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "kikansha-yaemon",
+  "synopsis": "Animated 3D movie based on a bestseller picture book by Agawa Hiroyuki, illustrated by Okabe Fuyuhiko and published in 1959 by Iwanami Shoten Publishing.",
+  "title": {
+    "jp": "Kikansha Yaemon"
+  },
+  "releasedAt": "2009-10-03T00:00:00.000Z",
+  "finishedAt": "2009-10-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5357/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5357",
+    "anidb": "7456",
+    "anilist/anime": "8492",
+    "aozora": "A2Y9WLfImM",
+    "myanimelist/anime": "8492"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "ken-en-ken-aoki-kagayaki",
+  "synopsis": "Adaptation of Xuanyuan Sword role-playing game franchise.",
+  "title": {
+    "en": "Xuan Yuan Sword Luminary",
+    "jp": "Ken En Ken: Aoki Kagayaki"
+  },
+  "releasedAt": "2018-10-02T00:00:00.000Z",
+  "finishedAt": "2018-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41946/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "magic",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/xuan-yuan-sword-luminary"
+  ],
+  "relations": {
+    "kitsu": "41946",
+    "anidb": "a14237",
+    "anilist/anime": "104103",
+    "myanimelist/anime": "38083"
+  }
+}

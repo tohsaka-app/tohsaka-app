@@ -1,0 +1,26 @@
+{
+  "slug": "junkers-come-here-memories-of-you",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Junkers Come Here: Memories of You"
+  },
+  "releasedAt": "1994-07-21T00:00:00.000Z",
+  "finishedAt": "1994-07-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9009/original.jpg",
+  "categories": [
+    "drama",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9009",
+    "anidb": "9205",
+    "anilist/anime": "19627",
+    "aozora": "64GD13XVE0",
+    "myanimelist/anime": "19627"
+  }
+}

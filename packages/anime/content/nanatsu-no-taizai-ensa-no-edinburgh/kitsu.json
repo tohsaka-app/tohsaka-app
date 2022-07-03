@@ -1,0 +1,26 @@
+{
+  "slug": "nanatsu-no-taizai-ensa-no-edinburgh",
+  "synopsis": "The Seven Deadly Sins spin-off featuring an original story by the creator Nakaba Suzuki telling a new story about Meliodas's son, Tristan.\n\n(Source: Netflix)",
+  "title": {
+    "en": "The Seven Deadly Sins: Grudge of Edinburgh Part 1",
+    "jp": "Nanatsu no Taizai: Ensa no Edinburgh"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45472/poster_image/bf1f09a2dd95b552de955b6e058f6772.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45472",
+    "anilist/anime": "141352"
+  }
+}

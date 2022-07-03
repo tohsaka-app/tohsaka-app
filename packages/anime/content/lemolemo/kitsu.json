@@ -1,0 +1,24 @@
+{
+  "slug": "lemolemo",
+  "synopsis": "2018 Graduation Work by Asami Tatsumoto, Graphic Design Department at Tama Art University.",
+  "title": {
+    "en": "lemolemo",
+    "jp": "lemolemo"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2018-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45511/poster_image/23650a39316cf88d40483d7df313135a.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/wVccbFabWCI"
+  ],
+  "relations": {
+    "kitsu": "45511",
+    "anilist/anime": "114041"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "mobile-suit-gundam-i",
+  "synopsis": "It is the year Universal Century 0079. Over 90 million people now populate the Earth and have been forced to live in space. People now live in large cylinder like colony clusters called Sides, all ruled over the Earth Federation Space Force (E.F.S.F.). Then, a group of colonies near the dark side of the moon, called Side 3, proclaimed themselves independent from the Earth Federation and called themselves the Principality of Zeon.\nNow the war has passed on for eight months through and the war doesn't seem to end. They are both at a stalemate. The Federation tries with its last attempt to create a new powerful force to fight against the Zeonic forces. They create the White Base and a new and powerful Mobile Suit called the Gundam. The problem is, they are used by youths...\n(Source: Otakufreakmk2)",
+  "title": {
+    "en": "Mobile Suit Gundam I",
+    "jp": "Kidou Senshi Gundam (1981)"
+  },
+  "releasedAt": "1981-03-14T00:00:00.000Z",
+  "finishedAt": "1981-03-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/975/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/975/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "space",
+    "war"
+  ],
+  "externals": [
+    "https://www.netflix.com/watch/70014611"
+  ],
+  "relations": {
+    "kitsu": "975",
+    "anidb": "729",
+    "anilist/anime": "1090",
+    "aozora": "phGJDhux63",
+    "myanimelist/anime": "1090"
+  }
+}

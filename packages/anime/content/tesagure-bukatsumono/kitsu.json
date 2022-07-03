@@ -1,0 +1,34 @@
+{
+  "slug": "tesagure-bukatsumono",
+  "synopsis": "The CG anime centers around the extracurricular activities of students.\n(Source: AniDB)",
+  "title": {
+    "jp": "Tesagure! Bukatsumono"
+  },
+  "releasedAt": "2013-10-06T00:00:00.000Z",
+  "finishedAt": "2013-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7912/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7912/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "school clubs",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/tesagure-bukatsumono"
+  ],
+  "relations": {
+    "kitsu": "7912",
+    "anidb": "10010",
+    "anilist/anime": "19919",
+    "aozora": "YVsa3MpGim",
+    "myanimelist/anime": "19919",
+    "thetvdb": "272310/1",
+    "thetvdb/series": "272310",
+    "trakt": "72232"
+  }
+}

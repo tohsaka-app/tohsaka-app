@@ -1,0 +1,90 @@
+[
+  {
+    "title": {
+      "jp": "Squad Jam"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2018-04-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2018-04-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fan Letter"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2018-04-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Death Game"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2018-04-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Last Battle wa Watashi ni"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2018-05-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "SAO Loser"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2018-05-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 7,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 8,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 9,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 10,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 11,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 12,
+    "content": {}
+  }
+]

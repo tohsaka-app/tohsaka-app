@@ -1,0 +1,20 @@
+{
+  "slug": "bernard-jou-iwaku-ofuro-dokusho",
+  "synopsis": "",
+  "title": {
+    "jp": "Bernard-jou Iwaku.: Ofuro Dokusho"
+  },
+  "releasedAt": "2017-01-20T00:00:00.000Z",
+  "finishedAt": "2017-01-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41703/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41703",
+    "anilist/anime": "100720",
+    "myanimelist/anime": "37000"
+  }
+}

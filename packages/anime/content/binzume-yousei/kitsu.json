@@ -1,0 +1,37 @@
+{
+  "slug": "binzume-yousei",
+  "synopsis": "Kururu, Chiriri, Sarara, and Hororo are four little fairies that live inside bottles on their “Sensei”’s desk. Together, they have misadventures trying to understand the human world, seeking advice from the totally misinformed grade schooler next door.\n(Source: ANN)",
+  "title": {
+    "en": "Bottle Fairy",
+    "jp": "Binzume Yousei"
+  },
+  "releasedAt": "2003-10-03T00:00:00.000Z",
+  "finishedAt": "2003-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/315/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "present",
+    "slapstick",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "315",
+    "anidb": "1092",
+    "anilist/anime": "348",
+    "aozora": "3U8RxkDO7A",
+    "myanimelist/anime": "348",
+    "thetvdb": "80047/1",
+    "thetvdb/series": "80047",
+    "trakt": "12369"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "ginga-eiyuu-densetsu-gaiden-rasen-meikyuu",
+  "synopsis": "A prequel to The Legend of the Galactic Heroes, focusing on the FPA's Yang Wen-li. A chronicle on how he earned the title \"The Hero of El Facile\" and his handling of assignments he received after the historic event.\n\nSpiral Labyrinth also continues with the background of Reinhard and Kircheis where the first Gaiden left off.",
+  "title": {
+    "en": "Legend of the Galactic Heroes Gaiden (1999)",
+    "jp": "Ginga Eiyuu Densetsu Gaiden (1999)"
+  },
+  "releasedAt": "1999-12-24T00:00:00.000Z",
+  "finishedAt": "2001-06-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3178/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3178/original.jpg",
+  "categories": [
+    "action",
+    "conspiracy",
+    "future",
+    "military",
+    "other planet",
+    "plot continuity",
+    "politics",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space battles",
+    "space opera",
+    "space travel"
+  ],
+  "externals": [
+    "https://vrv.co/series/G6XJ423PR/Legend-of-the-Galactic-Heroes-Gaiden",
+    "https://www.hidive.com/tv/legend-of-the-galactic-heroes-gaiden"
+  ],
+  "relations": {
+    "kitsu": "3178",
+    "anidb": "1311",
+    "anilist/anime": "3665",
+    "aozora": "6ynOtQRGgr",
+    "myanimelist/anime": "3665",
+    "thetvdb/series": "268996/2"
+  }
+}

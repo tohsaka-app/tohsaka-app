@@ -1,0 +1,34 @@
+{
+  "slug": "grappler-baki-the-ultimate-fighter",
+  "synopsis": "Baki, a new grappler on the no-holds barred fighting scene, is flying up the ranks. All that is left in his wake are the dead and the defeated. However, no one can tell whether he can keep this up against the previous champion, a fierce fighter who severs his opponents very nerves to win. \n(Source: ANN)",
+  "title": {
+    "jp": "Grappler Baki"
+  },
+  "releasedAt": "1994-08-21T00:00:00.000Z",
+  "finishedAt": "1994-08-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1676/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "combat",
+    "earth",
+    "japan",
+    "martial arts",
+    "present",
+    "shounen",
+    "sports",
+    "stereotypes",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1676",
+    "anidb": "1512",
+    "anilist/anime": "1859",
+    "aozora": "iiHCTSARY0",
+    "myanimelist/anime": "1859"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ice-fist",
+  "synopsis": "A music video for Vampillia's song \"Ice Fist.\"",
+  "title": {
+    "en": "Ice Fist",
+    "jp": "Ice Fist"
+  },
+  "releasedAt": "2014-05-02T00:00:00.000Z",
+  "finishedAt": "2014-05-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13793/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13793",
+    "anilist/anime": "102931",
+    "aozora": "Qo54uPfFJb",
+    "myanimelist/anime": "36096"
+  }
+}

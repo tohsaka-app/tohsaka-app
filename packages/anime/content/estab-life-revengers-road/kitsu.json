@@ -1,0 +1,20 @@
+{
+  "slug": "estab-life-revengers-road",
+  "synopsis": null,
+  "title": {
+    "en": "Estab-Life: Revengers Road",
+    "jp": "Estab-Life: Revengers Road"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "2022-12-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45838/poster_image/79b60af4fc65e78849858b0de050a60d.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "45838",
+    "anilist/anime": "144770"
+  }
+}

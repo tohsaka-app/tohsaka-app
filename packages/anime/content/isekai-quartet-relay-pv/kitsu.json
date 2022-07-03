@@ -1,0 +1,23 @@
+{
+  "slug": "isekai-quartet-relay-pv",
+  "synopsis": "Relay PV with original animation that was not reused in main series.",
+  "title": {
+    "jp": "Isekai Quartet Relay PV"
+  },
+  "releasedAt": "2018-10-27T00:00:00.000Z",
+  "finishedAt": "2019-03-08T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42448/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42448",
+    "myanimelist/anime": "39993"
+  }
+}

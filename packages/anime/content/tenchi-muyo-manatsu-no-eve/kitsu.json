@@ -1,0 +1,36 @@
+{
+  "slug": "tenchi-muyo-manatsu-no-eve",
+  "synopsis": "A girl, Mayuka, appears one day claiming to be Tenchi's daughter, much to the shock of the Masaki household. Chaos ensues as Washu attempts to discover Mayuka's background, and the girls adjust to the new presence at their home. The result of her appearance reaches back into the past, and puts Tenchi in danger. Tenchi and Ryoko must travel into the realm of a demon called Yuzuha in order to try and set things right, but their task is not an easy one. \n(Source: ANN)",
+  "title": {
+    "en": "Tenchi the Movie 2: Daughter of Darkness",
+    "jp": "Tenchi Muyou! Manatsu no Eve"
+  },
+  "releasedAt": "1997-08-02T00:00:00.000Z",
+  "finishedAt": "1997-08-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/986/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "earth",
+    "fantasy",
+    "harem",
+    "japan",
+    "romance",
+    "science fiction",
+    "space",
+    "sudden girlfriend appearance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "986",
+    "anidb": "375",
+    "anilist/anime": "1101",
+    "aozora": "rr4ZnT8VFZ",
+    "hulu": "50011173",
+    "myanimelist/anime": "1101"
+  }
+}

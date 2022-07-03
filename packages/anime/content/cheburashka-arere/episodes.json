@@ -1,0 +1,236 @@
+[
+  {
+    "title": {
+      "jp": "The First Friend"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2009-10-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Who am I?"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2009-10-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mischievous Shapoklyak"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2009-10-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chandre the Lion hiccups"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2009-10-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Stars` Secret"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2009-11-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cheburashka goes Shopping"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2009-11-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I Like Doughnuts Very Much!"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2009-11-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cheburashka and the Tales Book"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2009-11-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Galya`s Lost Thing"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2009-12-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hello, Cheburashka"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2009-12-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gena Can`t Sleep"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2009-12-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shapoklyak`s Divinations"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2009-12-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cloud Gazing Day"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "2010-01-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Let`s Play the Guessing Game! "
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "2010-01-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gena`s Diary"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "2010-01-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Interesting Book?"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "2010-01-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Where are you, Gena? "
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "2010-02-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I Wonder What`ll Bite "
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "2010-02-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I love you! Cheburashka"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "2010-02-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Where is my Wallet?"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "2010-02-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Day Without Cheburashka"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "2010-03-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Magic Scarf "
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "2010-03-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Friends` Newspaper"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "2010-03-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chandre the Lion`s Sore Tooth"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "2010-03-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cheburashka`s Birthday "
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "2010-03-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Goodbye Cheburashka"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "2010-03-31T00:00:00.000Z",
+    "content": {}
+  }
+]

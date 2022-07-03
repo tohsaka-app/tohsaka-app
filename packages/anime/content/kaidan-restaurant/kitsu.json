@@ -1,0 +1,31 @@
+{
+  "slug": "kaidan-restaurant",
+  "synopsis": "TV Asahi announced a new kids anime \"Kaidan Restaurant (Thriller Restaurant)\" based on a picture book. Each episode will consist of three stories or \"dishes\": the appetizer, the main dish, and dessert. The first two \"dishes\" will deal with an ordinary sixth-grade schoolgirl named Ako Ozara and the bizarre occurrences that befall her classmates. The third \"dish\" will be a standalone short ghost story told by Ako and her friends.",
+  "title": {
+    "jp": "Kaidan Restaurant"
+  },
+  "releasedAt": "2009-10-13T00:00:00.000Z",
+  "finishedAt": "2010-06-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4818/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4818/original.png",
+  "categories": [
+    "contemporary fantasy",
+    "horror",
+    "kids",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4818",
+    "anidb": "6785",
+    "anilist/anime": "6980",
+    "aozora": "zdet2dId6n",
+    "myanimelist/anime": "6980",
+    "thetvdb": "125561/1",
+    "thetvdb/series": "125561",
+    "trakt": "65028"
+  }
+}

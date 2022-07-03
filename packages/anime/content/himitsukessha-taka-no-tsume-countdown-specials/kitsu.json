@@ -1,0 +1,24 @@
+{
+  "slug": "himitsukessha-taka-no-tsume-countdown-specials",
+  "synopsis": "Specials included on the DVD release of the Himitsukessha Taka no Tsume Countdown series.",
+  "title": {
+    "jp": "Himitsukessha Taka no Tsume Countdown Specials"
+  },
+  "releasedAt": "2009-12-18T00:00:00.000Z",
+  "finishedAt": "2010-03-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12946/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12946",
+    "aozora": "WFejM8J40Q",
+    "myanimelist/anime": "34369"
+  }
+}

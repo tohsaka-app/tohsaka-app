@@ -1,0 +1,43 @@
+{
+  "slug": "taishou-yakyuu-musume",
+  "synopsis": "In 1925 (year 14 of the Taisho era) baseball is still quite unknown in Japan and there are only a few male teams. After being told by a baseball player that women should become housewives instead of going to school, 14-year-old Akiko invites her friend Koume to start a baseball team in order to prove him wrong. During this time, when even running was considered too vulgar for women, baseball is known as \"what the boys do\" and they face many difficulties when having to find enough members, to get permission from their parents and also when learning about the sport itself, which they soon discover to be more difficult than expected.",
+  "title": {
+    "en": "Taisho Baseball Girls",
+    "jp": "Taishou Yakyuu Musume."
+  },
+  "releasedAt": "2009-07-03T00:00:00.000Z",
+  "finishedAt": "2009-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3946/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3946/original.jpg",
+  "categories": [
+    "asia",
+    "baseball",
+    "comedy",
+    "earth",
+    "historical",
+    "japan",
+    "middle school",
+    "past",
+    "school clubs",
+    "school life",
+    "sports"
+  ],
+  "externals": [
+    "http://www.hulu.com/taisho-baseball-girls",
+    "https://www.hidive.com/tv/taisho-baseball-girls"
+  ],
+  "relations": {
+    "kitsu": "3946",
+    "anidb": "6315",
+    "anilist/anime": "5141",
+    "aozora": "28HEhUPtAq",
+    "hulu": "50009053",
+    "myanimelist/anime": "5141",
+    "thetvdb": "102541/1",
+    "thetvdb/series": "102541",
+    "trakt": "63824"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "wareware-no-heya",
+  "synopsis": "Animation by Ryo Orikasa, based on Roland Barthes' writings on Cy Twombly.",
+  "title": {
+    "jp": "Wareware no Heya"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12857/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "12857",
+    "anilist/anime": "121796",
+    "aozora": "ayzyycQZcc",
+    "myanimelist/anime": "33319"
+  }
+}

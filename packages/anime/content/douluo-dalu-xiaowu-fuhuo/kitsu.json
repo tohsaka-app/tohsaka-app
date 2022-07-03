@@ -1,0 +1,24 @@
+{
+  "slug": "douluo-dalu-xiaowu-fuhuo",
+  "synopsis": "The eleventh part of Douluo Dalu.",
+  "title": {
+    "en": "Soul Land Part 11"
+  },
+  "releasedAt": "2021-11-20T00:00:00.000Z",
+  "finishedAt": "2022-02-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45661/poster_image/133109194f6c1a1ea07e389c397cbead.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45661",
+    "anilist/anime": "141802"
+  }
+}

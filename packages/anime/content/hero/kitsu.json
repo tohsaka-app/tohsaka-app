@@ -1,0 +1,25 @@
+{
+  "slug": "hero",
+  "synopsis": "Graduation work of Kaito Tanaka at Tama Art University.",
+  "title": {
+    "en": "HERO",
+    "jp": "HERO"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45419/poster_image/1e8f465bcb52a9244dc5ae63c9088a55.png",
+  "categories": [
+    "action",
+    "superhero"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=H9he-lO3ITk"
+  ],
+  "relations": {
+    "kitsu": "45419",
+    "anilist/anime": "140622"
+  }
+}

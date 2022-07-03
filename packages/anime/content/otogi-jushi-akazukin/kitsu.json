@@ -1,0 +1,36 @@
+{
+  "slug": "otogi-jushi-akazukin",
+  "synopsis": "Long, long ago, there existed a world of magic and science. God, afraid of man's potential, split the world in to the world of science, Elde, and the world of magic, Fandavale. One day in Fandavale, a terrible witch named Cendrillon (Cinderella) revives. Cendrillon plots to rule both worlds, and searches for the \"key\" which holds tremendous power.\nA young boy from Elde by the name of Sōta meets a mysterious girl from Fandavale, Akazukin, and her talking wolf companion, Val. Sōta learns that he is the key Cendrillon is searching for. Now it is up to Akazukin, Val, and the other Fairy Musketeers to protect Sōta from Cendrillon and her Nightmarelians who wish to obtain the power he mysteriously possesses.",
+  "title": {
+    "en": "Fairy Musketeers",
+    "jp": "Otogi Juushi Akazukin"
+  },
+  "releasedAt": "2006-07-01T00:00:00.000Z",
+  "finishedAt": "2007-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/562/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "plot continuity",
+    "present",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/fairy-musketeers"
+  ],
+  "relations": {
+    "kitsu": "562",
+    "anidb": "2859",
+    "anilist/anime": "607",
+    "aozora": "fZhGnx4Rtd",
+    "myanimelist/anime": "607",
+    "thetvdb": "163721/1",
+    "thetvdb/series": "163721",
+    "trakt": "65693"
+  }
+}

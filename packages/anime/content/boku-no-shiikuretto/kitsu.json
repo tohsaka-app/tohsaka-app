@@ -1,0 +1,23 @@
+{
+  "slug": "boku-no-shiikuretto",
+  "synopsis": "MV for the song Boku no Shiikureto by Inuyama Tamaki",
+  "title": {
+    "jp": "Boku no Shiikuretto"
+  },
+  "releasedAt": "2020-07-01T00:00:00.000Z",
+  "finishedAt": "2020-07-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44591/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=8LoBU5hj6zs"
+  ],
+  "relations": {
+    "kitsu": "44591"
+  }
+}

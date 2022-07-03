@@ -1,0 +1,28 @@
+{
+  "slug": "kin-of-the-stained-blade",
+  "synopsis": "Not forgiven. Not forgotten. See the story of brothers torn asunder.\n\n(Source: League of Legends Youtube Channel)",
+  "title": {
+    "en": "Kin of the Stained Blade"
+  },
+  "releasedAt": "2020-07-24T00:00:00.000Z",
+  "finishedAt": "2020-07-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44072/original.png",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "swordplay"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=D4L0OkSrsI8"
+  ],
+  "relations": {
+    "kitsu": "44072",
+    "anilist/anime": "121956"
+  }
+}

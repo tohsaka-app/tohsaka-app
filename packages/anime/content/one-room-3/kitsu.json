@@ -1,0 +1,23 @@
+{
+  "slug": "one-room-3",
+  "synopsis": "Third season of One Room.",
+  "title": {
+    "jp": "One Room 3"
+  },
+  "releasedAt": "2020-10-06T00:00:00.000Z",
+  "finishedAt": "2020-12-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43556/original.jpg",
+  "categories": [
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43556",
+    "anilist/anime": "116147",
+    "myanimelist/anime": "41364"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "the-king-of-fighters-destiny",
+  "synopsis": "CG anime adaptation of The King of Fighters fighting game franchise.",
+  "title": {
+    "jp": "The King of Fighters: Destiny"
+  },
+  "releasedAt": "2017-08-03T00:00:00.000Z",
+  "finishedAt": "2018-01-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13713/original.jpe",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13713/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "combat",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13713",
+    "anilist/anime": "99934",
+    "myanimelist/anime": "35204",
+    "thetvdb": "329528/1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "megalo-box-2",
+  "synopsis": "In the end, “Gearless” Joe was the one that reigned as the champion of Megalonia, a first ever megalobox tournament. Fans everywhere were mesmerized by the meteoric rise of Joe who sprung out from the deepest underground ring to the top in mere three months and without the use of gear. Seven years later, “Gearless” Joe was once again fighting in underground matches. Adorned with scars and once again donning his gear, but now known only as Nomad… \n\n(Source: TMS Entertainment)",
+  "title": {
+    "jp": "Megalo Box 2"
+  },
+  "releasedAt": "2021-04-04T00:00:00.000Z",
+  "finishedAt": "2021-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42720/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42720/original.png",
+  "categories": [
+    "action",
+    "boxing",
+    "drama",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [
+    "https://www.animelab.com/shows/megalobox",
+    "https://www.funimation.com/shows/megalobox/",
+    "https://www.hulu.com/series/megalobox-21675797-0897-44bf-969a-fe5045296ada"
+  ],
+  "relations": {
+    "kitsu": "42720",
+    "anidb": "15271",
+    "anilist/anime": "113359",
+    "animenewsnetwork": "23970",
+    "myanimelist/anime": "40729"
+  }
+}

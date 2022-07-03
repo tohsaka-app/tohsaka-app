@@ -1,0 +1,30 @@
+{
+  "slug": "mahoutsukai-sally-movie",
+  "synopsis": "This short movie tells the story of Sally, a teenage witch that came to Earth from the Magical Kingdom.\nFor some mysterious reason, spring has not started yet. Sally and her friends have to find the cause and fix the problem.\n(Source: Fuko Ibuki)",
+  "title": {
+    "jp": "Mahoutsukai Sally (Movie)"
+  },
+  "releasedAt": "1990-03-10T00:00:00.000Z",
+  "finishedAt": "1990-03-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9424/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "japan",
+    "kids",
+    "magic",
+    "magical girl",
+    "shoujo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9424",
+    "anidb": "2049",
+    "anilist/anime": "17719",
+    "aozora": "KUbvGlGD4l",
+    "myanimelist/anime": "17719"
+  }
+}

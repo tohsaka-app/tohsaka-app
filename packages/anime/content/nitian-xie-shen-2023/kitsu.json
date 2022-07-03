@@ -1,0 +1,22 @@
+{
+  "slug": "nitian-xie-shen-2023",
+  "synopsis": "",
+  "title": {
+    "en": "Against the Gods (2023)"
+  },
+  "releasedAt": "2023-01-06T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45677/poster_image/7bcba950bf4a0d974e24166402e00816.png",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45677",
+    "anilist/anime": "134095"
+  }
+}

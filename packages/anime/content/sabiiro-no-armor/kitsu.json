@@ -1,0 +1,26 @@
+{
+  "slug": "sabiiro-no-armor",
+  "synopsis": "The anime adaptation of Rusted Armors, a multimedia project that first started with a stage play and a manga adaptation. The project focuses on the relationship between the gun-toting Magoichi — who is the leader of the Saika Ikki mercenary group — and the Sengoku era warlord Oda Nobunaga.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Rusted Armors",
+    "jp": "Sabiiro no Armor"
+  },
+  "releasedAt": "2022-01-09T00:00:00.000Z",
+  "finishedAt": "2022-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44978/original.jpg",
+  "categories": [
+    "action",
+    "gunfights",
+    "historical",
+    "shoujo",
+    "steampunk"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44978",
+    "anilist/anime": "109820"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "kannazuki-no-miko",
+  "synopsis": "Kannazuki no Miko begins in the village of Mahoroba, where time passes slowly for both man and nature. Two students from the village's prestigious Ototachibana Academy might as well be night and day. Himeko is shy and unassertive, while Chikane is bold and elegant. Despite this, they love each other, and nothing can come between them, no matter how hard they try.\nOn the two girls' shared birthday, a sinister voice corrupts one of their friends into attacking them, and just when it seemed grimmest, the lunar and solar priestess powers that lay dormant in the two girls awaken, dispelling the evil. That was only the first hurdle, however. The two must now fend off the countless others who would threaten their well-being—even the people closest to them!",
+  "title": {
+    "en": "Destiny of the Shrine Maiden",
+    "jp": "Kannazuki no Miko"
+  },
+  "releasedAt": "2004-10-02T00:00:00.000Z",
+  "finishedAt": "2004-12-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/121/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/121/original.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "asia",
+    "contemporary fantasy",
+    "deity",
+    "drama",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "mecha",
+    "piloted robot",
+    "plot continuity",
+    "present",
+    "romance",
+    "school life",
+    "science fiction",
+    "shoujo ai"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/destiny-of-the-shrine-maiden"
+  ],
+  "relations": {
+    "kitsu": "121",
+    "anidb": "2142",
+    "anilist/anime": "143",
+    "aozora": "zwSAhu3mLk",
+    "hulu": "50002451",
+    "myanimelist/anime": "143",
+    "thetvdb": "82665/1",
+    "thetvdb/series": "82665",
+    "trakt": "46162"
+  }
+}

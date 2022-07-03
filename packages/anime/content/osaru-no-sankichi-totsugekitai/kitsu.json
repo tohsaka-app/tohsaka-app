@@ -1,0 +1,25 @@
+{
+  "slug": "osaru-no-sankichi-totsugekitai",
+  "synopsis": "Short movie from 1934 about a war between monkeys and bears. ",
+  "title": {
+    "en": "Sankichi the Monkey: The Storm Troopers",
+    "jp": "Osaru no Sankichi: Totsugeki-tai"
+  },
+  "releasedAt": "1934-03-24T00:00:00.000Z",
+  "finishedAt": "1934-03-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3593/original.jpg",
+  "categories": [
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3593",
+    "anidb": "6577",
+    "anilist/anime": "4397",
+    "aozora": "oKQHkeN5Yq",
+    "myanimelist/anime": "4397"
+  }
+}

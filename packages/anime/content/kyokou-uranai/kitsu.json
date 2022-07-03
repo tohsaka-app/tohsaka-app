@@ -1,0 +1,24 @@
+{
+  "slug": "kyokou-uranai",
+  "synopsis": "Short episodes of Kotoko doing fortune telling posted on the official Twitter account.\n",
+  "title": {
+    "en": "In/Spectre Specials",
+    "jp": "Kyokou Uranai"
+  },
+  "releasedAt": "2020-01-17T00:00:00.000Z",
+  "finishedAt": "2020-04-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43468/original.jpg",
+  "categories": [
+    "comedy",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43468",
+    "anilist/anime": "122238",
+    "myanimelist/anime": "42562"
+  }
+}

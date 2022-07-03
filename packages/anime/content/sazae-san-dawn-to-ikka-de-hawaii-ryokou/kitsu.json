@@ -1,0 +1,25 @@
+{
+  "slug": "sazae-san-dawn-to-ikka-de-hawaii-ryokou",
+  "synopsis": "A Family Travel special commemorating the 30th Anniversary of Sazae-san series.",
+  "title": {
+    "jp": "Sazae-san: Dawn to Ikka de Hawaii Ryokou"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10469/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10469",
+    "anidb": "11808",
+    "anilist/anime": "116324",
+    "aozora": "Pw8eZteTjs",
+    "myanimelist/anime": "28615"
+  }
+}

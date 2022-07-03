@@ -1,0 +1,23 @@
+{
+  "slug": "chi-sui-maru-specials",
+  "synopsis": "An non-broadcasted episode and a new episode included in the DVD release for the first season of TV series.",
+  "title": {
+    "jp": "Chi-Sui Maru Specials"
+  },
+  "releasedAt": "2011-09-21T00:00:00.000Z",
+  "finishedAt": "2011-09-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6577/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6577",
+    "anilist/anime": "11731",
+    "aozora": "0MJp0KNlCa",
+    "myanimelist/anime": "11731"
+  }
+}

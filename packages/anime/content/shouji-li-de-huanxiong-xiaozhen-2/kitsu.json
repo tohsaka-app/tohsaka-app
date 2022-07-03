@@ -1,0 +1,23 @@
+{
+  "slug": "shouji-li-de-huanxiong-xiaozhen-2",
+  "synopsis": null,
+  "title": {
+    "en": "Raccoon Town in the Phone 2"
+  },
+  "releasedAt": "2021-10-29T00:00:00.000Z",
+  "finishedAt": "2022-01-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45589/poster_image/0e34691b7e1d80a4d7d7c3fa2401eae1.png",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45589",
+    "anilist/anime": "139353"
+  }
+}

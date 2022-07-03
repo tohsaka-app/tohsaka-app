@@ -1,0 +1,435 @@
+[
+  {
+    "title": {
+      "jp": "We are still Pretty Cure! The legend continues through thick and thin!"
+    },
+    "season": 2,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165709/original.jpg",
+    "releasedAt": "2005-02-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The freshman is a profound mystery! But she is really full of riddles"
+    },
+    "season": 2,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165718/original.jpg",
+    "releasedAt": "2005-02-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Could this be destiny? Porun and Hikari's approaching encounter"
+    },
+    "season": 2,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165727/original.jpg",
+    "releasedAt": "2005-02-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "You are not alone! A premonition that two moods overlap"
+    },
+    "season": 2,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165737/original.jpg",
+    "releasedAt": "2005-02-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A gallant appearance! My name is Shiny Luminous"
+    },
+    "season": 2,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165749/original.jpg",
+    "releasedAt": "2005-03-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Be careful! Hikari's errand peril is a defeat"
+    },
+    "season": 2,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165760/original.jpg",
+    "releasedAt": "2005-03-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fight, Nagisa! The prodigious power of housework at the scene of a fire"
+    },
+    "season": 2,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165771/original.jpg",
+    "releasedAt": "2005-03-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Let your worries drive off! Link Hikari's ties with everyone!"
+    },
+    "season": 2,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165784/original.jpg",
+    "releasedAt": "2005-03-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Do not disturb! Honoka's most important day"
+    },
+    "season": 2,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165794/original.jpg",
+    "releasedAt": "2005-04-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "On the verge of panic! Don't take this dangerous field trip practice seriously!"
+    },
+    "season": 2,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165807/original.jpg",
+    "releasedAt": "2005-04-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Big pinch! Don't hang your heart in this one-shot turnaround"
+    },
+    "season": 2,
+    "number": 11,
+    "releasedAt": "2005-04-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Business prosperity! Welcome the Cafe's Plateau!"
+    },
+    "season": 2,
+    "number": 12,
+    "releasedAt": "2005-04-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nagisa's great parent-child battle? Neglecting a mother's heart?"
+    },
+    "season": 2,
+    "number": 13,
+    "releasedAt": "2005-05-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Go for it, Fuji-P-senpai! Nagisa's cheering flag of spirit"
+    },
+    "season": 2,
+    "number": 14,
+    "releasedAt": "2005-05-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A senior's aspiration is a great close friend!"
+    },
+    "season": 2,
+    "number": 15,
+    "releasedAt": "2005-05-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nagisa's in high spirits! The lucky color is in the pink!"
+    },
+    "season": 2,
+    "number": 16,
+    "releasedAt": "2005-05-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "What's this? A distressed Honoka's meeting for reading research papers"
+    },
+    "season": 2,
+    "number": 17,
+    "releasedAt": "2005-05-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Camping, 'Hoy! Becoming reliant on Daddy?"
+    },
+    "season": 2,
+    "number": 18,
+    "releasedAt": "2005-06-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hikari is worried! Nagisa's changing schools--Unbelievable!!"
+    },
+    "season": 2,
+    "number": 19,
+    "releasedAt": "2005-06-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Namida's farewell!? Rina's ponpoko tale"
+    },
+    "season": 2,
+    "number": 20,
+    "releasedAt": "2005-06-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "So soon? So often!? A forbidden encounter"
+    },
+    "season": 2,
+    "number": 21,
+    "releasedAt": "2005-07-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The horror of Baldez! Pretty Cure cornered"
+    },
+    "season": 2,
+    "number": 22,
+    "releasedAt": "2005-07-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rebound the dark powers! Hope uncovers a new power!"
+    },
+    "season": 2,
+    "number": 23,
+    "releasedAt": "2005-07-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Adolescent full throttle! Yuka-senpai and Nagisa's top deciding battle!"
+    },
+    "season": 2,
+    "number": 24,
+    "releasedAt": "2005-08-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hikari's summer day, Sanae's reminiscence"
+    },
+    "season": 2,
+    "number": 25,
+    "releasedAt": "2005-08-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Losing Nagisa! Everyone is worried and greatly afraid!"
+    },
+    "season": 2,
+    "number": 26,
+    "releasedAt": "2005-08-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Don't finish your homework yet! Pears and storms and Zakennah!"
+    },
+    "season": 2,
+    "number": 27,
+    "releasedAt": "2005-08-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Veroune panic! The naughty ghost-hunting princess"
+    },
+    "season": 2,
+    "number": 28,
+    "releasedAt": "2005-09-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "No way...Seriously...Really? Porun's great babysitter strategy!"
+    },
+    "season": 2,
+    "number": 29,
+    "releasedAt": "2005-09-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Do your best, Luloon! Weave the future with the power of light"
+    },
+    "season": 2,
+    "number": 30,
+    "releasedAt": "2005-09-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Valdez reborn! Break through with teamwork at the last second!!"
+    },
+    "season": 2,
+    "number": 31,
+    "releasedAt": "2005-09-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Protect us from darkness! This world's most important smile!"
+    },
+    "season": 2,
+    "number": 32,
+    "releasedAt": "2005-10-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Stock up your courage! Nagisa's troublesome birthday!!"
+    },
+    "season": 2,
+    "number": 33,
+    "releasedAt": "2005-10-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Friends on a journey! Zakennah on a field trip!?"
+    },
+    "season": 2,
+    "number": 34,
+    "releasedAt": "2005-10-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A seriously dangerous field trip! Lovely sliced fish has a dangerous smell"
+    },
+    "season": 2,
+    "number": 35,
+    "releasedAt": "2005-10-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Return to the pit! Polun and Lulun's great adventure"
+    },
+    "season": 2,
+    "number": 36,
+    "releasedAt": "2005-10-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nagisa's flying! Honoka's dancing! Feel the power of the harvest on the great stage!"
+    },
+    "season": 2,
+    "number": 37,
+    "releasedAt": "2005-11-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Goodbye, Honoka! Our bonds will intensify forever!"
+    },
+    "season": 2,
+    "number": 38,
+    "releasedAt": "2005-11-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Burn out! The young Lacrosse finalist!!"
+    },
+    "season": 2,
+    "number": 39,
+    "releasedAt": "2005-11-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Together, we are the best! Full-powered rippin' roarin' Nagisa and Ryouta!"
+    },
+    "season": 2,
+    "number": 40,
+    "releasedAt": "2005-12-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Deliver your spirit! A wandering present of courage!"
+    },
+    "season": 2,
+    "number": 41,
+    "releasedAt": "2005-12-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A rink full of sweethearts? Slipping and falling into grave danger!"
+    },
+    "season": 2,
+    "number": 42,
+    "releasedAt": "2005-12-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The final winter vacation! It's a special lesson for Zakennah!"
+    },
+    "season": 2,
+    "number": 43,
+    "releasedAt": "2005-12-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The day Hikari disappears, the day we search for tomorrow!"
+    },
+    "season": 2,
+    "number": 44,
+    "releasedAt": "2006-01-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Infinite darkness, eternal light"
+    },
+    "season": 2,
+    "number": 45,
+    "releasedAt": "2006-01-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Life-risking attack! Dark soldiers at maximum power!"
+    },
+    "season": 2,
+    "number": 46,
+    "releasedAt": "2006-01-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Open the door! The story begins from here"
+    },
+    "season": 2,
+    "number": 47,
+    "releasedAt": "2006-01-29T00:00:00.000Z",
+    "content": {}
+  }
+]

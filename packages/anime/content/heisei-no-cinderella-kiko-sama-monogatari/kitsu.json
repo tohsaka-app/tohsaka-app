@@ -1,0 +1,24 @@
+{
+  "slug": "heisei-no-cinderella-kiko-sama-monogatari",
+  "synopsis": "The special is confined to the wedding of Prince Akishino with his chosen Kiko Kawashima.",
+  "title": {
+    "jp": "Heisei no Cinderella: Kiko-sama Monogatari"
+  },
+  "releasedAt": "1990-06-29T00:00:00.000Z",
+  "finishedAt": "1990-06-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8994/original.jpg",
+  "categories": [
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8994",
+    "anidb": "10000",
+    "aozora": "uRiZZBadER",
+    "myanimelist/anime": "24257"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "seer-10",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2019-08-23T00:00:00.000Z",
+  "finishedAt": "2020-03-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44061/original.png",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44061",
+    "anilist/anime": "129599"
+  }
+}

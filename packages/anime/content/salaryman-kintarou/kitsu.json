@@ -1,0 +1,36 @@
+{
+  "slug": "salaryman-kintarou",
+  "synopsis": "The story follows Kintaro, former leader of a widely feared and respected biker gang, who decides that its time to \"straighten out\" and become a \"salaryman\" since his wife died and he has to take care of his young son.\n(Source: AniDB)",
+  "title": {
+    "jp": "Salaryman Kintarou"
+  },
+  "releasedAt": "2001-02-18T00:00:00.000Z",
+  "finishedAt": "2001-03-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1447/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "delinquent",
+    "earth",
+    "friendship",
+    "japan",
+    "mafia",
+    "plot continuity",
+    "politics",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1447",
+    "anidb": "850",
+    "anilist/anime": "1608",
+    "aozora": "jriOUt1OiY",
+    "myanimelist/anime": "1608",
+    "thetvdb": "79471/1",
+    "thetvdb/series": "79471",
+    "trakt": "55028"
+  }
+}

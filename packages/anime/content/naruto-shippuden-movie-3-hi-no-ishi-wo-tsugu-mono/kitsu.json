@@ -1,0 +1,35 @@
+{
+  "slug": "naruto-shippuden-movie-3-hi-no-ishi-wo-tsugu-mono",
+  "synopsis": "Ninjas with bloodline limits begin disappearing in all the countries and blame points toward the fire nation. By Tsunade's order, Kakashi is sacrificed to prevent an all out war. After inheriting charms left by Kakashi, Naruto fights through friends and foes to prevent his death while changing the minds of those who've inherited the will of fire.\n(Source: ANN)",
+  "title": {
+    "en": "Naruto Shippuden the Movie: Will of Fire",
+    "jp": "Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono"
+  },
+  "releasedAt": "2009-08-01T00:00:00.000Z",
+  "finishedAt": "2009-08-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4520/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4520/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy world",
+    "martial arts",
+    "ninja",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "crunchyroll.com/naruto-shippuden-the-movie-the-will-of-fire",
+    "https://vrv.co/series/G69V1WKEY/Naruto-Shippuden-the-Movie-The-Will-of-Fire"
+  ],
+  "relations": {
+    "kitsu": "4520",
+    "anidb": "6503",
+    "anilist/anime": "6325",
+    "aozora": "KQxM6tmDWB",
+    "myanimelist/anime": "6325"
+  }
+}

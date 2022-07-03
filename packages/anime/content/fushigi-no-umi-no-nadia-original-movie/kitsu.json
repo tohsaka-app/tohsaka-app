@@ -1,0 +1,31 @@
+{
+  "slug": "fushigi-no-umi-no-nadia-original-movie",
+  "synopsis": "Three years after the defeat of Gargoyle and Neo-Atlantis, a new threat has surfaced bent on bringing the world under his control. Geiger, using advanced robot technology, is attempting to begin a world war, and take control of the devistated world after the destruction has stopped. Once again, Nadia and Jean must fight to save the world, only this time from itself. \n(Source: ANN)",
+  "title": {
+    "en": "Nadia: The Secret of Blue Water - The Motion Picture",
+    "jp": "Fushigi no Umi no Nadia: Original Movie"
+  },
+  "releasedAt": "1991-06-29T00:00:00.000Z",
+  "finishedAt": "1991-06-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1127/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "historical",
+    "mystery",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1127",
+    "anidb": "603",
+    "anilist/anime": "1252",
+    "aozora": "xPd6Unty8Q",
+    "hulu": "50014772",
+    "myanimelist/anime": "1252"
+  }
+}

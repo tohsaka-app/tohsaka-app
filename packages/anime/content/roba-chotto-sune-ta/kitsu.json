@@ -1,0 +1,24 @@
+{
+  "slug": "roba-chotto-sune-ta",
+  "synopsis": "A music video for the song by Agnes Chan that was featured on NHK's Minna no Uta program.\nA boy needs to deliver good and uses his donkey. But it gets sulky easily so he ends up bending over backwards to its whims. ",
+  "title": {
+    "jp": "Roba Chotto Suneta"
+  },
+  "releasedAt": "1983-04-01T00:00:00.000Z",
+  "finishedAt": "1983-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10629/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10629",
+    "anidb": "11304",
+    "anilist/anime": "104072",
+    "aozora": "ot1vGC4SOF",
+    "myanimelist/anime": "30076"
+  }
+}

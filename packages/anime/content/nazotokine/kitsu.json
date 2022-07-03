@@ -1,0 +1,27 @@
+{
+  "slug": "nazotokine",
+  "synopsis": "Tokine Amino works as a secretary for TEN2, an advertising agency. One day while cleaning the conference room, she is surrounded in light and finds she can't leave the room until she solves a puzzle.\nIt seems a creature named Hacchin is a being from another dimension called Quizn. He is interested in the intellectual pleasure that happens when someone solves a puzzles or uncovers a mystery. And he has his sight set on Tokine Amino.",
+  "title": {
+    "en": "Nazotokine",
+    "jp": "Nazotokine"
+  },
+  "releasedAt": "2016-10-05T00:00:00.000Z",
+  "finishedAt": "2016-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12448/original.jpg",
+  "categories": [
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12448",
+    "anidb": "12280",
+    "anilist/anime": "21876",
+    "aozora": "4rlHPFmBb7",
+    "myanimelist/anime": "33690",
+    "thetvdb": "315099/1",
+    "trakt": "110249"
+  }
+}

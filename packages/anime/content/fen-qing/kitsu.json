@@ -1,0 +1,24 @@
+{
+  "slug": "fen-qing",
+  "synopsis": "The official music video for \"Burn this Love\" by Jeff Cheung, the ending of Qin's Moon season 5.",
+  "title": {
+    "en": "Burn This Love",
+    "jp": "Fen Qing"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10887/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10887",
+    "anilist/anime": "102301",
+    "aozora": "vbojRzK6OD",
+    "myanimelist/anime": "30534"
+  }
+}

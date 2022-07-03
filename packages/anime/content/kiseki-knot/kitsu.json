@@ -1,0 +1,25 @@
+{
+  "slug": "kiseki-knot",
+  "synopsis": "MV for the song Kiseki Knot, performed by Hololive Gen 4.",
+  "title": {
+    "en": "Kiseki Knot",
+    "jp": "Kiseki Musubi"
+  },
+  "releasedAt": "2021-06-25T00:00:00.000Z",
+  "finishedAt": "2021-06-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44812/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44812/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=k7cpjmkc1Rw"
+  ],
+  "relations": {
+    "kitsu": "44812"
+  }
+}

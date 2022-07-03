@@ -1,0 +1,27 @@
+{
+  "slug": "komachi-to-dangorou-lagoon-stone-wo-sagase",
+  "synopsis": "Niigata city's publicity mascot characters, Komachi Hanano and Dangorou Sasa, search for the mysterious stone that was stolen after it had fallen from the skies.",
+  "title": {
+    "jp": "Komachi to Dangorou"
+  },
+  "releasedAt": "2012-11-10T00:00:00.000Z",
+  "finishedAt": "2012-11-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7418/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7418",
+    "anidb": "9578",
+    "anilist/anime": "16389",
+    "aozora": "5GmapkQ1F2",
+    "myanimelist/anime": "16389"
+  }
+}

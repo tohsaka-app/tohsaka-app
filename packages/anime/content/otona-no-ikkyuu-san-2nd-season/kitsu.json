@@ -1,0 +1,20 @@
+{
+  "slug": "otona-no-ikkyuu-san-2nd-season",
+  "synopsis": "The second season of <i>Otona no Ikkyuu-san</i>.",
+  "title": {
+    "jp": "Otona no Ikkyuu-san 2nd Season"
+  },
+  "releasedAt": "2017-04-04T00:00:00.000Z",
+  "finishedAt": "2017-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40857/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40857",
+    "aozora": "Zf8ngGL5fG",
+    "myanimelist/anime": "36002"
+  }
+}

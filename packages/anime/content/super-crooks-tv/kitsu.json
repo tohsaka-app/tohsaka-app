@@ -1,0 +1,19 @@
+{
+  "slug": "super-crooks-tv",
+  "synopsis": null,
+  "title": {
+    "en": "Duplicate"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44746/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44746/original.png",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "44746"
+  }
+}

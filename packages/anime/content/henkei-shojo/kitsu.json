@@ -1,0 +1,28 @@
+{
+  "slug": "henkei-shojo",
+  "synopsis": "Shorts about girls who transform into machines. The first episode focuses on Haru, a girl who transforms into a fighter jet while trying to catch a hat blowing away in the wind.",
+  "title": {
+    "jp": "Henkei Shoujo"
+  },
+  "releasedAt": "2017-03-26T00:00:00.000Z",
+  "finishedAt": "2017-10-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13311/original.jpg",
+  "categories": [
+    "android",
+    "comedy",
+    "mecha",
+    "robot",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13311",
+    "anilist/anime": "98579",
+    "aozora": "uY1y0FGm6z",
+    "myanimelist/anime": "35286"
+  }
+}

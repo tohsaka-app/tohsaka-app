@@ -1,0 +1,30 @@
+{
+  "slug": "great-mazinger-vs-getter-robo",
+  "synopsis": "Go Nagai crossover movie. ",
+  "title": {
+    "jp": "Great Mazinger tai Getter Robo"
+  },
+  "releasedAt": "1975-03-21T00:00:00.000Z",
+  "finishedAt": "1975-03-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3581/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3581/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "piloted robot",
+    "robot",
+    "science fiction",
+    "super robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3581",
+    "anidb": "2221",
+    "anilist/anime": "4385",
+    "aozora": "j7POtaOllF",
+    "myanimelist/anime": "4385"
+  }
+}

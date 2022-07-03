@@ -1,0 +1,25 @@
+{
+  "slug": "da-shi-jie",
+  "synopsis": "A hard rain is about to fall on a small town in Southern China. In a desperate attempt to find money to save his fiancée’s failed plastic surgery, Xiao Zhang, a mere driver, steals a bag containing 1 million from his boss. News of the robbery spreads fast within the town and, over the course of one night, everyone starts looking for Xiao Zhang and his money.\n\n(Source: Metacritic)",
+  "title": {
+    "en": "Have a Nice Day",
+    "jp": "Da Shi Jie"
+  },
+  "releasedAt": "2018-01-12T00:00:00.000Z",
+  "finishedAt": "2018-01-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41150/original.jpg",
+  "categories": [
+    "comedy",
+    "psychological",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41150",
+    "anilist/anime": "103354",
+    "myanimelist/anime": "37177"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "gakuen-basara",
+  "synopsis": "The suspension of student council president, Toyotomi Hideyoshi, has created a power vacuum at Basara Academy. Now, Date Masamune and Sanada Yukimura find themselves vying for the top spot. But they aren’t the only ones with their eyes on the prize.\n\n(Source: HIDIVE)",
+  "title": {
+    "en": "Gakuen Basara: Samurai High School",
+    "jp": "Gakuen Basara"
+  },
+  "releasedAt": "2018-10-05T00:00:00.000Z",
+  "finishedAt": "2018-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41263/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "school life"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/gakuen-basara-samurai-high-school"
+  ],
+  "relations": {
+    "kitsu": "41263",
+    "anidb": "14001",
+    "anilist/anime": "101470",
+    "myanimelist/anime": "37657"
+  }
+}

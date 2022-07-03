@@ -1,0 +1,24 @@
+{
+  "slug": "midori-no-makibao-compilation-ova",
+  "synopsis": "OVA of Midori no Makibao.",
+  "title": {
+    "en": "",
+    "jp": "Midori no Makibao Compilation OVA"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10982/original.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10982",
+    "aozora": "eVgQxUMkGm",
+    "myanimelist/anime": "30723"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "fuku-chan-no-kishuu",
+  "synopsis": "The first film of the Fuku-chan trilogy. Based on a popular newspaper comic strip at the time, Fuku-chan was re-invented for propaganda use.",
+  "title": {
+    "jp": "Fuku-chan no Kishuu"
+  },
+  "releasedAt": "1942-03-15T00:00:00.000Z",
+  "finishedAt": "1942-03-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/8979/poster_image/637d17937a3663ca448709d5a6e97786.png",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8979",
+    "anidb": "6903",
+    "aozora": "3zt5SivUE5",
+    "myanimelist/anime": "23969"
+  }
+}

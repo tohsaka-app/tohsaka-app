@@ -1,0 +1,29 @@
+{
+  "slug": "pokemon-xy-z-specials",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Pokemon XY&Z Specials"
+  },
+  "releasedAt": "2016-11-03T00:00:00.000Z",
+  "finishedAt": "2016-11-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12760/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12760",
+    "anilist/anime": "106499",
+    "aozora": "9ENz0k3Loa",
+    "myanimelist/anime": "34325"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "futsuu-no-joshikousei-ga-locodol-yatte-mita-nagarekawa-annai-shite-mita",
+  "synopsis": "Unaired episode titled \"Nagarekawa, Annai Shite Mita.\" bundled with the Volume 1 Blu-ray/DVD.",
+  "title": {
+    "jp": "Futsuu no Joshikousei ga [Locodol] Yattemita.: Nagarekawa, Annai Shitemita."
+  },
+  "releasedAt": "2014-09-24T00:00:00.000Z",
+  "finishedAt": "2014-09-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8659/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8659/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8659",
+    "anilist/anime": "20851",
+    "aozora": "VZA3W1G5EI",
+    "myanimelist/anime": "25719"
+  }
+}

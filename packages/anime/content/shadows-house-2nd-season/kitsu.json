@@ -1,0 +1,27 @@
+{
+  "slug": "shadows-house-2nd-season",
+  "synopsis": "The second season of Shadows House.",
+  "title": {
+    "en": "Shadows House 2nd Season",
+    "jp": "Shadows House 2nd Season"
+  },
+  "releasedAt": "2022-07-09T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "upcoming",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45155/poster_image/c783d211430b26a9db72671542611bd9.jpg",
+  "categories": [
+    "fantasy",
+    "horror",
+    "mystery",
+    "seinen",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45155",
+    "anilist/anime": "139093"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "arifureta-shokugyou-de-sekai-saikyou-specials",
+  "synopsis": "Unaired episodes included with the Blu-ray releases of Arifureta Shokugyou de Sekai Saikyou.",
+  "title": {
+    "en": "Arifureta: From Commonplace to World's Strongest Specials",
+    "jp": "Arifureta Shokugyou de Sekai Saikyou Specials"
+  },
+  "releasedAt": "2019-12-25T00:00:00.000Z",
+  "finishedAt": "2020-02-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42446/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "harem",
+    "isekai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42446",
+    "anilist/anime": "111729",
+    "myanimelist/anime": "40083"
+  }
+}

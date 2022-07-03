@@ -1,0 +1,24 @@
+{
+  "slug": "otogi-manga-calendar",
+  "synopsis": "A continuation of Instant History.\n(Source: Cartoon Research)",
+  "title": {
+    "jp": "Otogi Manga Calendar"
+  },
+  "releasedAt": "1962-06-25T00:00:00.000Z",
+  "finishedAt": "1964-06-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7098/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7098",
+    "anidb": "5034",
+    "anilist/anime": "14213",
+    "aozora": "J8dKBYGn7w",
+    "myanimelist/anime": "14213"
+  }
+}

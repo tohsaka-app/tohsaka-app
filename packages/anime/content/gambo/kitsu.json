@@ -1,0 +1,28 @@
+{
+  "slug": "gambo",
+  "synopsis": "Gambo is about a battle between a creature who's been killing members of a royal Japanese family, and a mysterious white bear who protects them.\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Gambo",
+    "jp": "Gambo"
+  },
+  "releasedAt": "2013-07-20T00:00:00.000Z",
+  "finishedAt": "2013-07-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8280/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8280/original.jpg",
+  "categories": [
+    "demon",
+    "historical"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/short-peace"
+  ],
+  "relations": {
+    "kitsu": "8280",
+    "anilist/anime": "17679",
+    "aozora": "v16gzrsnYP",
+    "myanimelist/anime": "17679"
+  }
+}

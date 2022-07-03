@@ -1,0 +1,37 @@
+{
+  "slug": "futakoi",
+  "synopsis": "With his mother dead and his father working abroad, Futami Nozomu returns to the town where he lived as a child, to attend high school and work part-time at a local shrine. He soon finds himself caught up in a local legend of twin girls loving the same man. And there are many twin girls in this town....\n(Source: ANN)",
+  "title": {
+    "en": "Twin Love",
+    "jp": "Futakoi"
+  },
+  "releasedAt": "2004-10-06T00:00:00.000Z",
+  "finishedAt": "2004-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/104/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "harem",
+    "japan",
+    "middle school",
+    "present",
+    "romance",
+    "school life",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "104",
+    "anidb": "2162",
+    "anilist/anime": "125",
+    "aozora": "QpCZYEdeCQ",
+    "myanimelist/anime": "125",
+    "thetvdb": "79025/1",
+    "thetvdb/series": "79025",
+    "trakt": "34677"
+  }
+}

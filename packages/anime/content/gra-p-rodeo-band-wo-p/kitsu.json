@@ -1,0 +1,23 @@
+{
+  "slug": "gra-p-rodeo-band-wo-p",
+  "synopsis": "Special episode bundled with the Blu-ray release of Gra-P &amp; Rodeo.",
+  "title": {
+    "jp": "Gra-P & Rodeo: Band wo P"
+  },
+  "releasedAt": "2016-03-23T00:00:00.000Z",
+  "finishedAt": "2016-03-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11873/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11873",
+    "aozora": "d47ms8WFAk",
+    "myanimelist/anime": "32834"
+  }
+}

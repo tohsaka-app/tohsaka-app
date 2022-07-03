@@ -1,0 +1,48 @@
+{
+  "slug": "rozen-maiden",
+  "synopsis": "Sakurada Jun spends his days online, ordering whatever he takes a liking to, only to return it before the payment is due. Due to psychological trauma from school, Jun generally keeps contact with people as little as possible. One day he finds instructions online that tell him to put his order into his desk drawer. Rubbing it off as a joke, Jun mindlessly does so only to find that his order instantly disappears from his drawer. A package suddenly appears, containing a beautiful antique doll. When wound up, this doll comes to life. Sadly for Jun, this doll Shinku views Jun as an equivalent for a servant. Despite the constant demands Jun now receives from Shinku, she slowly helps him overcome his fears of human contact as well as protect him from the deadly battles that come into his life due to her appearance. Based on the manga by PEACH-PIT.",
+  "title": {
+    "en": "Rozen Maiden",
+    "jp": "Rozen Maiden"
+  },
+  "releasedAt": "2004-10-08T00:00:00.000Z",
+  "finishedAt": "2004-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/45/original.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "anthropomorphism",
+    "asia",
+    "comedy",
+    "coming of age",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "plot continuity",
+    "present",
+    "slice of life",
+    "sudden girlfriend appearance"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/rozen-maiden",
+    "https://www.hidive.com/tv/rozen-maiden"
+  ],
+  "relations": {
+    "kitsu": "45",
+    "anidb": "2386",
+    "anilist/anime": "64",
+    "aozora": "v39gtMhK1a",
+    "hulu": "50013073",
+    "myanimelist/anime": "64",
+    "thetvdb": "75411/1",
+    "thetvdb/season": "8858",
+    "thetvdb/series": "75411",
+    "trakt": "61847"
+  }
+}

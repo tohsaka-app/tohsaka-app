@@ -1,0 +1,24 @@
+{
+  "slug": "pui-pui-molcar-shin-series",
+  "synopsis": null,
+  "title": {
+    "jp": "PUI PUI Molcar Shin Series"
+  },
+  "releasedAt": "2022-10-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46156/poster_image/5b42fd18fb703c0e8fc205d209fc05f7.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "kids",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46156",
+    "anilist/anime": "150188"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "minna-atsumare-falcom-gakuen-sc-special",
+  "synopsis": "An episode of Minna Atsumare! Falcom Gakuen SC that acts as an advertisement for a related Minna Atsumare! Falcom Gakuen SC game, aired in Minna Atsumare! Falcom Gakuen SC's regular time slot a week after episode 12.",
+  "title": {
+    "jp": "Minna Atsumare! Falcom Gakuen SC Special"
+  },
+  "releasedAt": "2015-03-29T00:00:00.000Z",
+  "finishedAt": "2015-03-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10947/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10947",
+    "aozora": "3Zvxjtb1gZ",
+    "myanimelist/anime": "30489"
+  }
+}

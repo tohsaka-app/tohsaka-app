@@ -1,0 +1,20 @@
+{
+  "slug": "the-third-puding-war",
+  "synopsis": "",
+  "title": {
+    "jp": "The Third Pudding War"
+  },
+  "releasedAt": "2014-01-22T00:00:00.000Z",
+  "finishedAt": "2014-01-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13396/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13396"
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "title": {
+      "jp": "Shinobiyori Sugiru Kage"
+    },
+    "synopsis": "Episode 1",
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2015-12-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hanashibeta Sugiru Deshi"
+    },
+    "synopsis": "Episode 2",
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2016-01-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kojire Sugiru Ninja"
+    },
+    "synopsis": "Episode 3",
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2016-02-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gouin Sugiru Bang"
+    },
+    "synopsis": "Episode 4",
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2016-03-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Iroiro Ari Sugiru Shimai"
+    },
+    "synopsis": "Episode 5",
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2016-04-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fukanou Sugiru Satsujin Jiken"
+    },
+    "synopsis": "Episode 6",
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2016-05-27T00:00:00.000Z",
+    "content": {}
+  }
+]

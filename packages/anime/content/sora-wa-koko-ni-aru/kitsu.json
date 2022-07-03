@@ -1,0 +1,23 @@
+{
+  "slug": "sora-wa-koko-ni-aru",
+  "synopsis": "An animated music video for the song \"Sora wa Koko ni Aru\" by Ai Kawashima.\nThe video was released on a limited edition DVD sold with her 22nd single.",
+  "title": {
+    "jp": "Sora wa Koko ni Aru"
+  },
+  "releasedAt": "2014-01-17T00:00:00.000Z",
+  "finishedAt": "2014-01-17T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9044/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9044",
+    "anilist/anime": "103751",
+    "aozora": "aTmcs7QZB9",
+    "myanimelist/anime": "23917"
+  }
+}

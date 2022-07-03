@@ -1,0 +1,25 @@
+{
+  "slug": "all-alone-with-you",
+  "synopsis": "\"All Alone With You\" is the fourth single by the music group EGOIST and is used as the second ending theme song of Psycho-Pass. The limited edition release includes a DVD with an animated music video.",
+  "title": {
+    "jp": "All Alone With You"
+  },
+  "releasedAt": "2013-03-06T00:00:00.000Z",
+  "finishedAt": "2013-03-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8601/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8601",
+    "anidb": "11403",
+    "anilist/anime": "17901",
+    "aozora": "oo268z6XEl",
+    "myanimelist/anime": "17901"
+  }
+}

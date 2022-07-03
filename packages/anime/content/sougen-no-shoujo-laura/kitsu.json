@@ -1,0 +1,25 @@
+{
+  "slug": "sougen-no-shoujo-laura",
+  "synopsis": "This anime is based on the same work as the famous American live-action TV series Little House on the Prairie.",
+  "title": {
+    "en": "Laura",
+    "jp": "Sougen no Shoujo Laura"
+  },
+  "releasedAt": "1975-10-07T00:00:00.000Z",
+  "finishedAt": "1976-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3276/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3276",
+    "anidb": "3644",
+    "anilist/anime": "3822",
+    "aozora": "dRgoAPNcqn",
+    "myanimelist/anime": "3822"
+  }
+}

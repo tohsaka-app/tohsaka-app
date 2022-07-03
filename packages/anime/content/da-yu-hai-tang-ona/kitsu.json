@@ -1,0 +1,25 @@
+{
+  "slug": "da-yu-hai-tang-ona",
+  "synopsis": "In 2004, Liang Xuan produced a flash short film which was the prototype of the animated film Da Yu Hai Tang, which won the DIGIID Award of Intel 2004 China Digital Festival.",
+  "title": {
+    "en": "Big Fish & Begonia"
+  },
+  "releasedAt": "2004-12-28T00:00:00.000Z",
+  "finishedAt": "2004-12-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44764/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "romance",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44764",
+    "anilist/anime": "109102",
+    "myanimelist/anime": "39264"
+  }
+}

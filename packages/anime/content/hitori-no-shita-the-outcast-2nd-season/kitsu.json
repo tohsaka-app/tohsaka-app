@@ -1,0 +1,25 @@
+{
+  "slug": "hitori-no-shita-the-outcast-2nd-season",
+  "synopsis": "Second season of Hitori no Shita: The Outcast.",
+  "title": {
+    "en": "Hitori no Shita - The Outcast 2",
+    "jp": "Hitori no Shita: The Outcast 2nd Season"
+  },
+  "releasedAt": "2017-10-27T00:00:00.000Z",
+  "finishedAt": "2018-05-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13885/original.jpeg",
+  "categories": [
+    "super power",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13885",
+    "anidb": "13068",
+    "anilist/anime": "98574",
+    "myanimelist/anime": "35333"
+  }
+}

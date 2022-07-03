@@ -1,0 +1,26 @@
+{
+  "slug": "comet",
+  "synopsis": "MV for Hoshimati Suisei's single comet.",
+  "title": {
+    "en": "comet",
+    "jp": "comet"
+  },
+  "releasedAt": "2018-11-22T00:00:00.000Z",
+  "finishedAt": "2018-11-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43771/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43771/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=3cqV5BKJHyk&ab_channel=SuiseiChannel"
+  ],
+  "relations": {
+    "kitsu": "43771",
+    "myanimelist/anime": "44265"
+  }
+}

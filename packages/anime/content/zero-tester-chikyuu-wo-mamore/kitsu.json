@@ -1,0 +1,27 @@
+{
+  "slug": "zero-tester-chikyuu-wo-mamore",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Zero Tester: Chikyuu wo Mamore!"
+  },
+  "releasedAt": "1974-06-24T00:00:00.000Z",
+  "finishedAt": "1974-12-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5772/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5772",
+    "anidb": "2196",
+    "anilist/anime": "9522",
+    "aozora": "QwTIFE6vQk",
+    "myanimelist/anime": "9522"
+  }
+}

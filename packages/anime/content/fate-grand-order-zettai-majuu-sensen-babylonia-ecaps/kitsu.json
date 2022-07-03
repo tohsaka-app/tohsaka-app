@@ -1,0 +1,28 @@
+{
+  "slug": "fate-grand-order-zettai-majuu-sensen-babylonia-ecaps",
+  "synopsis": "Recap episodes for Fate/Grand Order: Zettai Majuu Sensen Babylonia.\n",
+  "title": {
+    "en": "Fate/Grand Order: Absolute Demonic Front - Babylonia Recaps",
+    "jp": "Fate/Grand Order: Zettai Majuu Sensen Babylonia Recaps"
+  },
+  "releasedAt": "2019-12-21T00:00:00.000Z",
+  "finishedAt": "2020-02-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42940/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42940/original.jpeg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "supernatural",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42940",
+    "anidb": "14238",
+    "myanimelist/anime": "40761"
+  }
+}

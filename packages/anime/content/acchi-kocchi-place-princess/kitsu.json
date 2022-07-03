@@ -1,0 +1,27 @@
+{
+  "slug": "acchi-kocchi-place-princess",
+  "synopsis": "Episode 13 of Acchi Kocchi that was included in Vol.6. ",
+  "title": {
+    "jp": "Acchi Kocchi (TV): Place=Princess"
+  },
+  "releasedAt": "2012-11-07T00:00:00.000Z",
+  "finishedAt": "2012-11-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7401/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7401/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7401",
+    "anilist/anime": "16273",
+    "aozora": "uRFe1Klhfc",
+    "myanimelist/anime": "16273"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "pepsi-nex-x-009-re-cyborg",
+  "synopsis": "A collaboration project between 009 Re:Cyborg and Pepsi Nex, which features characters from the former fighting over the drink.",
+  "title": {
+    "jp": "Pepsi Nex x 009 Re:Cyborg"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12397/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12397",
+    "aozora": "VmyywP4VEj",
+    "myanimelist/anime": "32736"
+  }
+}

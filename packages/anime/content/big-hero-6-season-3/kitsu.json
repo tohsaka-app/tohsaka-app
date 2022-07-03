@@ -1,0 +1,24 @@
+{
+  "slug": "big-hero-6-season-3",
+  "synopsis": "Third season of Big Hero 6.",
+  "title": {},
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42953/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42953/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "kids",
+    "robot helper",
+    "science fiction",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42953"
+  }
+}

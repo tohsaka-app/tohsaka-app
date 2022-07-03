@@ -1,0 +1,36 @@
+{
+  "slug": "karakuri-zoushi-ayatsuri-sakon",
+  "synopsis": "The dark-haired bishounen is Sakon Tachibana, a puppeteer, and the other is Ukon, his favorite puppet and best friend. Sakon is the (only) grandson of Saemon Tachibana, a national treasure of Japan famous for his manipulation of Bunraku puppets. Ukon is a child doll puppet made in the early Meiji era by the famous female dollmaker Unosuke. Together they run into murders and solve them.\n(Source: AnimeNfo)",
+  "title": {
+    "jp": "Karakurizoushi Ayatsuri Sakon"
+  },
+  "releasedAt": "1999-10-08T00:00:00.000Z",
+  "finishedAt": "2000-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1995/original.jpg",
+  "categories": [
+    "asia",
+    "coming of age",
+    "detective",
+    "earth",
+    "horror",
+    "japan",
+    "law and order",
+    "mystery",
+    "present",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1995",
+    "anidb": "293",
+    "anilist/anime": "2204",
+    "aozora": "bswsrnd0EF",
+    "myanimelist/anime": "2204",
+    "thetvdb": "79457/1",
+    "thetvdb/series": "79457",
+    "trakt": "65627"
+  }
+}

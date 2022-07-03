@@ -1,0 +1,31 @@
+{
+  "slug": "saiki-kusuo-no-psi-nan-2",
+  "synopsis": "Sequel to Saiki Kusuo no Ψ-nan (TV).",
+  "title": {
+    "en": "The Disastrous Life of Saiki K. 2",
+    "jp": "Saiki Kusuo no Ψ-nan (TV) 2"
+  },
+  "releasedAt": "2018-01-17T00:00:00.000Z",
+  "finishedAt": "2018-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13477/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13477/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "breaking the fourth wall",
+    "comedy",
+    "high school",
+    "school life",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13477",
+    "anilist/anime": "98034",
+    "aozora": "zCUmZXP8M2",
+    "myanimelist/anime": "34612",
+    "thetvdb": "313435/2"
+  }
+}

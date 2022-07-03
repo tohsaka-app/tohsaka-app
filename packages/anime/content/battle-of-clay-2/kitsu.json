@@ -1,0 +1,25 @@
+{
+  "slug": "battle-of-clay-2",
+  "synopsis": "Two clay men are playing an innocent game of rock-paper-scissors... with a sick twist.",
+  "title": {
+    "jp": "Nendo no Tatakai 2"
+  },
+  "releasedAt": "2004-01-21T00:00:00.000Z",
+  "finishedAt": "2004-01-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6625/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6625",
+    "anidb": "8758",
+    "anilist/anime": "11883",
+    "aozora": "ESOgCTTZrH",
+    "myanimelist/anime": "11883"
+  }
+}

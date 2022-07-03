@@ -1,0 +1,33 @@
+{
+  "slug": "flag",
+  "synopsis": "In 20xx, a civil war broke out in a small country in Asia in spite of the dispatch of UN forces. But a picture taken by accident in the battlefield accelerates the peace process: a photograph of a flag, which became the symbol of peace. However, just before the peace agreement is finalized, the flag is stolen by an armed extremist group in order to obstruct the truce. To rescue the flag, the UN sends the Special Development Command (SDC, which is armed with the High Agility Versatile Weapon Carrier (HAVWC)), along with an embedded photojournalist to record their activities. That photojournalist is Saeko Shirasu—the young camerawoman who took the picture of the flag.\n (Source: ANN)",
+  "title": {
+    "jp": "Flag"
+  },
+  "releasedAt": "2006-06-16T00:00:00.000Z",
+  "finishedAt": "2007-03-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1171/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "mecha",
+    "military",
+    "piloted robot",
+    "present",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1171",
+    "anidb": "4476",
+    "anilist/anime": "1299",
+    "aozora": "9H2nwfClXo",
+    "myanimelist/anime": "1299",
+    "thetvdb": "79474/1",
+    "thetvdb/series": "79474",
+    "trakt": "44799"
+  }
+}

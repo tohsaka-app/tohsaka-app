@@ -1,0 +1,26 @@
+{
+  "slug": "kitsutsuki-keikaku",
+  "synopsis": "Puppet animation by Tadanari Okamoto.",
+  "title": {
+    "jp": "Kitsutsuki Keikaku"
+  },
+  "releasedAt": "1966-01-01T00:00:00.000Z",
+  "finishedAt": "1966-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6878/original.jpg",
+  "categories": [
+    "crime",
+    "japan",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6878",
+    "anidb": "7269",
+    "anilist/anime": "13085",
+    "aozora": "buGFy6tUzK",
+    "myanimelist/anime": "13085"
+  }
+}

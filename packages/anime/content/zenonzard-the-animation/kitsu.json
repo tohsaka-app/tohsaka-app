@@ -1,0 +1,27 @@
+{
+  "slug": "zenonzard-the-animation",
+  "synopsis": "Anime Adaptation of the Bandai App Game Zenonzard. It Released on The Zenonzard YouTube channel on September 10 and later aired on TV on September 13 Midnight.",
+  "title": {
+    "jp": "Zenonzard: The Animation"
+  },
+  "releasedAt": "2019-09-10T00:00:00.000Z",
+  "finishedAt": "2019-09-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42579/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42579/original.jpg",
+  "categories": [
+    "action",
+    "card games"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=LM2WLQfaHfE"
+  ],
+  "relations": {
+    "kitsu": "42579",
+    "anidb": "15092",
+    "anilist/anime": "112034",
+    "myanimelist/anime": "40394"
+  }
+}

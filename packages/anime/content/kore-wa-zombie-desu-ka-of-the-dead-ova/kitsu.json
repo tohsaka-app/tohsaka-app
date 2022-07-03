@@ -1,0 +1,41 @@
+{
+  "slug": "kore-wa-zombie-desu-ka-of-the-dead-ova",
+  "synopsis": "An unaired OVA episode of Kore wa Zombie Desu ka? of the Dead. It is the 11th episode and was bundled with the sixth volume of the manga. ",
+  "title": {
+    "jp": "Kore wa Zombie Desu ka? of the Dead: Hai, Minotake ni Attemasu"
+  },
+  "releasedAt": "2012-10-20T00:00:00.000Z",
+  "finishedAt": "2012-10-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7256/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7256/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "ecchi",
+    "friendship",
+    "harem",
+    "japan",
+    "magic",
+    "present",
+    "slice of life",
+    "vampire",
+    "zombie"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/is-this-a-zombie",
+    "https://www.funimation.com/shows/is-this-a-zombie/"
+  ],
+  "relations": {
+    "kitsu": "7256",
+    "anidb": "9129",
+    "anilist/anime": "15437",
+    "aozora": "0D20Fbqek4",
+    "myanimelist/anime": "15437"
+  }
+}

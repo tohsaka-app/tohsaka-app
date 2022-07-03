@@ -1,0 +1,26 @@
+{
+  "slug": "toaru-kagaku-no-railgun-t-motto-marutto-railgun",
+  "synopsis": "Toaru Kagaku no Railgun T specials that were released on Blu-ray and DVD volumes.",
+  "title": {
+    "en": "A Certain Scientific Railgun T Specials",
+    "jp": "Toaru Kagaku no Railgun T: Motto Marutto Railgun"
+  },
+  "releasedAt": "2020-04-30T00:00:00.000Z",
+  "finishedAt": "2020-10-09T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43707/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43707",
+    "anidb": "14441",
+    "anilist/anime": "122041",
+    "myanimelist/anime": "43483"
+  }
+}

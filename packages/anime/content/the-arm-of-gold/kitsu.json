@@ -1,0 +1,23 @@
+{
+  "slug": "the-arm-of-gold",
+  "synopsis": "The story of an orphaned boy who practices baseball to deal with his loneliness.",
+  "title": {
+    "jp": "Hwang-geum-ui Pal"
+  },
+  "releasedAt": "1983-01-01T00:00:00.000Z",
+  "finishedAt": "1983-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7535/original.jpg",
+  "categories": [
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7535",
+    "anilist/anime": "16824",
+    "aozora": "uFuyFxpVCM",
+    "myanimelist/anime": "16824"
+  }
+}

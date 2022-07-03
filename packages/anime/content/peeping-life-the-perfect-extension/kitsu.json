@@ -1,0 +1,25 @@
+{
+  "slug": "peeping-life-the-perfect-extension",
+  "synopsis": "Another iteration in the Peeping Life franchise, The Perfect Extension features 10 new animated versions of improvised comedy sketches.",
+  "title": {
+    "jp": "Peeping Life: The Perfect Extension"
+  },
+  "releasedAt": "2011-09-23T00:00:00.000Z",
+  "finishedAt": "2011-09-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7415/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7415",
+    "anidb": "8657",
+    "anilist/anime": "16377",
+    "aozora": "4NSztVNgLg",
+    "myanimelist/anime": "16377"
+  }
+}

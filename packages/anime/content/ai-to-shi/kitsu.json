@@ -1,0 +1,23 @@
+{
+  "slug": "ai-to-shi",
+  "synopsis": "Director Wataru Uekusa's work for NHK's Educational Television channel. The Techne Tri corner teaches watchers certain features of animation, this video was a part of his rotoscoping lesson.",
+  "title": {
+    "jp": "Ai to Shi"
+  },
+  "releasedAt": "2013-03-30T00:00:00.000Z",
+  "finishedAt": "2013-03-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11636/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11636",
+    "anilist/anime": "102766",
+    "aozora": "BytWZFYX6s",
+    "myanimelist/anime": "32150"
+  }
+}

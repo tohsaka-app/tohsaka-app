@@ -1,0 +1,34 @@
+{
+  "slug": "shokugeki-no-souma-san-no-sara",
+  "synopsis": "The third season of Shokugeki no Souma. ",
+  "title": {
+    "en": "Food Wars! The Third Plate",
+    "jp": "Shokugeki no Souma: San no Sara"
+  },
+  "releasedAt": "2017-10-04T00:00:00.000Z",
+  "finishedAt": "2017-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13581/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13581/original.png",
+  "categories": [
+    "comedy",
+    "cooking",
+    "earth",
+    "ecchi",
+    "japan",
+    "school life",
+    "shounen"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/food-wars-shokugeki-no-soma",
+    "https://www.hidive.com/tv/food-wars-the-third-plate"
+  ],
+  "relations": {
+    "kitsu": "13581",
+    "anilist/anime": "99255",
+    "aozora": "IPP3eGepxR",
+    "myanimelist/anime": "35788"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "nanatsu-no-taizai-imashime-no-fukkatsu-foshou",
+  "synopsis": "An episode recapping Nanatsu no Taizai with additional scenes, aired before the new season in January 2018.",
+  "title": {
+    "en": "The Seven Deadly Sins: Revival of the Commandments Episode 0",
+    "jp": "Nanatsu no Taizai: Imashime no Fukkatsu Joshou"
+  },
+  "releasedAt": "2018-01-06T00:00:00.000Z",
+  "finishedAt": "2018-01-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14204/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy world",
+    "magic",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14204",
+    "myanimelist/anime": "36923"
+  }
+}

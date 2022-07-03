@@ -1,0 +1,30 @@
+{
+  "slug": "k-seven-stories-the-idol-k",
+  "synopsis": "",
+  "title": {
+    "jp": "K: Seven Stories - The Idol K"
+  },
+  "releasedAt": "2018-07-07T00:00:00.000Z",
+  "finishedAt": "2018-12-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41773/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41773/original.jpg",
+  "categories": [
+    "bishounen",
+    "comedy",
+    "idol",
+    "music",
+    "super deformed"
+  ],
+  "externals": [
+    "crunchyroll.com/k-seven-stories",
+    "https://vrv.co/series/GRNVN8MX6/K-Seven-Stories"
+  ],
+  "relations": {
+    "kitsu": "41773",
+    "anilist/anime": "109670",
+    "myanimelist/anime": "37308"
+  }
+}

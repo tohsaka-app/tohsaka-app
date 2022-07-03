@@ -1,0 +1,24 @@
+{
+  "slug": "reflection",
+  "synopsis": "MV for AZKi's single, Reflection.",
+  "title": {
+    "en": "Reflection",
+    "jp": "Reflection"
+  },
+  "releasedAt": "2020-01-29T00:00:00.000Z",
+  "finishedAt": "2020-01-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43980/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=9ct9lb2zgZ4&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43980"
+  }
+}

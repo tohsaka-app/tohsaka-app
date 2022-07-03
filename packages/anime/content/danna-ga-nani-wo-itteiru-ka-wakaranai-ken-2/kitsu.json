@@ -1,0 +1,35 @@
+{
+  "slug": "danna-ga-nani-wo-itteiru-ka-wakaranai-ken-2",
+  "synopsis": "The anime follows the daily life of an earnest, hardworking office lady named Kaoru and her otaku husband, Hajime, who is totally immersed in a certain huge net bulletin board system.\n(Source: ANN)",
+  "title": {
+    "en": "I Can't Understand What My Husband Is Saying: 2nd Thread",
+    "jp": "Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me"
+  },
+  "releasedAt": "2015-04-03T00:00:00.000Z",
+  "finishedAt": "2015-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10148/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10148/original.png",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/i-cant-understand-what-my-husband-is-saying"
+  ],
+  "relations": {
+    "kitsu": "10148",
+    "anidb": "11002",
+    "anilist/anime": "21000",
+    "aozora": "xYsIQGtlX6",
+    "myanimelist/anime": "29067",
+    "thetvdb": "285357/2",
+    "trakt": "60911"
+  }
+}

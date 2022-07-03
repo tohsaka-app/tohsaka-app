@@ -1,0 +1,26 @@
+{
+  "slug": "fry-force",
+  "synopsis": "Anime style ad for the return of Taco Bell's Nacho Fries.",
+  "title": {
+    "en": "Fry Force"
+  },
+  "releasedAt": "2021-07-23T00:00:00.000Z",
+  "finishedAt": "2021-07-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44922/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44922/original.jpeg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=7DZ516Aq7Lg"
+  ],
+  "relations": {
+    "kitsu": "44922"
+  }
+}

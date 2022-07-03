@@ -1,0 +1,30 @@
+{
+  "slug": "gintama-shirogane-no-tamashii-hen",
+  "synopsis": "First Season of the final arc of Gintama.",
+  "title": {
+    "en": "Gintama.: Silver Soul Arc",
+    "jp": "Gintama.: Shirogane no Tamashii-hen"
+  },
+  "releasedAt": "2018-01-08T00:00:00.000Z",
+  "finishedAt": "2018-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14095/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/14095/cover_image/4d9083216458d71ee03a21dc2f2b45ff.png",
+  "categories": [
+    "action",
+    "comedy",
+    "historical",
+    "parody",
+    "samurai",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14095",
+    "anilist/anime": "100784",
+    "myanimelist/anime": "36838",
+    "thetvdb": "79895/10"
+  }
+}

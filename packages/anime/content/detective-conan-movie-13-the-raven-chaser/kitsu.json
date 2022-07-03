@@ -1,0 +1,38 @@
+{
+  "slug": "detective-conan-movie-13-the-raven-chaser",
+  "synopsis": "Kudou Shinichi is living his life as Edogawa Conan, but those days seem like they might end pretty soon. The Black Syndicate is coming dangerously close to learning the truth about Shinichi having survived. Conan and everybody around him may end up dead if he doesn't manage to find Irish—a member of the Black Organization who has infiltrated the police forces, currently investigating a big serial murder case.",
+  "title": {
+    "en": "Case Closed: The Jet Black Chaser",
+    "jp": "Detective Conan Movie 13: The Raven Chaser"
+  },
+  "releasedAt": "2009-04-18T00:00:00.000Z",
+  "finishedAt": "2009-04-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4107/original.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "asia",
+    "cops",
+    "crime",
+    "detective",
+    "earth",
+    "japan",
+    "law and order",
+    "mystery",
+    "present",
+    "romance",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4107",
+    "anidb": "6245",
+    "anilist/anime": "5460",
+    "aozora": "eo6EBZaDOO",
+    "myanimelist/anime": "5460",
+    "trakt": "30849"
+  }
+}

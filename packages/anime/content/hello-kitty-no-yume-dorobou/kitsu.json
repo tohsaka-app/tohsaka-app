@@ -1,0 +1,26 @@
+{
+  "slug": "hello-kitty-no-yume-dorobou",
+  "synopsis": "A mysterious black creature is stealing dreams and causing Mimmy and Kitty to be sleep deprived. It's up to Kitty to catch the thief.",
+  "title": {
+    "en": "Hello Kitty in The Dream Thief",
+    "jp": "Hello Kitty no Yume Dorobou"
+  },
+  "releasedAt": "1993-12-21T00:00:00.000Z",
+  "finishedAt": "1993-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9858/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9858",
+    "anidb": "7788",
+    "aozora": "4gt81qadjS",
+    "myanimelist/anime": "22461"
+  }
+}

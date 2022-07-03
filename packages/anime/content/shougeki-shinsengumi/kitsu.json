@@ -1,0 +1,25 @@
+{
+  "slug": "shougeki-shinsengumi",
+  "synopsis": "A slapstick OVA featuring super deformed members of the Shinsengumi members",
+  "title": {
+    "jp": "Shougeki Shinsengumi"
+  },
+  "releasedAt": "1989-05-21T00:00:00.000Z",
+  "finishedAt": "1989-05-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6151/original.jpg",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6151",
+    "anidb": "5811",
+    "anilist/anime": "10369",
+    "aozora": "HjobZCOu0Q",
+    "myanimelist/anime": "10369"
+  }
+}

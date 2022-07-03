@@ -1,0 +1,22 @@
+{
+  "slug": "yami-yami-september-2012",
+  "synopsis": "Music video for Etsuko Yakushimaru's single Yami Yami featuring her own artwork. The video was directed by Takashi Yamaguchi and was included on DVD with the release.",
+  "title": {
+    "jp": "Yami Yami (September 2012)"
+  },
+  "releasedAt": "2012-09-26T00:00:00.000Z",
+  "finishedAt": "2012-09-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43670/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43670",
+    "myanimelist/anime": "43043"
+  }
+}

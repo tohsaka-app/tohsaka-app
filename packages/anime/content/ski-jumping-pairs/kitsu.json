@@ -1,0 +1,25 @@
+{
+  "slug": "ski-jumping-pairs",
+  "synopsis": "A CG animated film by Riichiro Mashima.\nA new breed of ski jumping has been born: pair ski jumping! This is a promotional movie for the new sport using CG graphics to demonstrate its possibilities.",
+  "title": {
+    "jp": "Ski Jumping Pairs: Road to Torino 2006"
+  },
+  "releasedAt": "2006-01-28T00:00:00.000Z",
+  "finishedAt": "2006-01-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6271/original.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6271",
+    "anidb": "11220",
+    "anilist/anime": "10627",
+    "aozora": "1Odcognjvt",
+    "myanimelist/anime": "10627"
+  }
+}

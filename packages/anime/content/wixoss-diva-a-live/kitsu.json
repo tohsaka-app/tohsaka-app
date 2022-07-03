@@ -1,0 +1,24 @@
+{
+  "slug": "wixoss-diva-a-live",
+  "synopsis": "The story moves the \"Wixoss\" card game to the online virtual space of \"Wixossland\" as it continues to grow more popular. The game allows players to become the LRIG avatars themselves. The most popular format in the game is \"Diva Battle,\" which allows three players to team up to compete against other units for the most \"Selector\" fans. Some units are idol-themed, while others are DJ- and band-themed.\n\n(Source. ANN)",
+  "title": {
+    "jp": "WIXOSS Diva(A)Live"
+  },
+  "releasedAt": "2021-01-09T00:00:00.000Z",
+  "finishedAt": "2021-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43824/original.jpg",
+  "categories": [
+    "card games",
+    "idol",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43824",
+    "anilist/anime": "116944",
+    "myanimelist/anime": "41521"
+  }
+}

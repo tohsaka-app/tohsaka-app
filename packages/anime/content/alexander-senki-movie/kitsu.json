@@ -1,0 +1,31 @@
+{
+  "slug": "alexander-senki-movie",
+  "synopsis": "Alexander Senki (アレクサンダー戦記 Arekusandā Senki?), known in English as Reign: The Conqueror, is a Japanese anime first released in 1999. A re-imagination of the life of Alexander the Great based on the novel by Hiroshi Aramata, Alexander was intended to be a ground-breaking international production that drew on all the resources of the worldwide adult animation community. The design of characters and settings was given to Peter Chung, the Korean-American animator behind Aeon Flux; most of the production work was also handled by Korean animators.",
+  "title": {
+    "en": "Reign: The Conqueror Movie",
+    "jp": "Alexander Senki Movie"
+  },
+  "releasedAt": "2000-10-07T00:00:00.000Z",
+  "finishedAt": "2000-10-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3955/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "dementia",
+    "fantasy",
+    "historical",
+    "military",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3955",
+    "anidb": "7528",
+    "anilist/anime": "5157",
+    "aozora": "q7Zhzou6Az",
+    "myanimelist/anime": "5157"
+  }
+}

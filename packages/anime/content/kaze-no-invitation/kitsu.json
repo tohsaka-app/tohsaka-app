@@ -1,0 +1,24 @@
+{
+  "slug": "kaze-no-invitation",
+  "synopsis": "This was originally created as a musical special for the LD-BOX release of Magical Emi in 1999.",
+  "title": {
+    "jp": "Kaze no Invitation"
+  },
+  "releasedAt": "1999-01-01T00:00:00.000Z",
+  "finishedAt": "1999-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8842/original.jpg",
+  "categories": [
+    "magic",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8842",
+    "anilist/anime": "104124",
+    "aozora": "Kb2vQPGTUs",
+    "myanimelist/anime": "23157"
+  }
+}

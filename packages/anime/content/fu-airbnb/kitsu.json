@@ -1,0 +1,24 @@
+{
+  "slug": "fu-airbnb",
+  "synopsis": "Airbnb and TAIKO Studios present the story of a family during Chinese New Year.\n\n(Source: Official Site)",
+  "title": {
+    "en": "Fú (Airbnb)"
+  },
+  "releasedAt": "2020-01-22T00:00:00.000Z",
+  "finishedAt": "2020-01-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45745/poster_image/12fd8e71a8a68975fcea31841cb2bf44.jpg",
+  "categories": [
+    "anime influenced",
+    "family",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=032l2ZvGSEA"
+  ],
+  "relations": {
+    "kitsu": "45745"
+  }
+}

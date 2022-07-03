@@ -1,0 +1,23 @@
+{
+  "slug": "make-my-day",
+  "synopsis": "On a cold planet of ice and snow, mysterious creatures suddenly have appeared from the dark underground and have begun to attack the inhabitants. Can humanity survive the terror lurking beyond the horizon?\n\n(Source: Netflix)",
+  "title": {
+    "en": "Make My Day"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44691/original.jpg",
+  "categories": [
+    "horror",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44691",
+    "anilist/anime": "135429",
+    "myanimelist/anime": "49164"
+  }
+}

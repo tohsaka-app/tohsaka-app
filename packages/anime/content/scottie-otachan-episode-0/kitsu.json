@@ -1,0 +1,25 @@
+{
+  "slug": "scottie-otachan-episode-0",
+  "synopsis": "Episode 0 of Scottie &amp; Otachan.",
+  "title": {
+    "en": "Scottie & Otachan Episode 0"
+  },
+  "releasedAt": "2020-07-30T00:00:00.000Z",
+  "finishedAt": "2020-07-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44238/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44238/original.png",
+  "categories": [
+    "anime influenced",
+    "comedy",
+    "parody"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=oFipHuk_ZMA"
+  ],
+  "relations": {
+    "kitsu": "44238"
+  }
+}

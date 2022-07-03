@@ -1,0 +1,23 @@
+{
+  "slug": "hayashi-fusai",
+  "synopsis": "A video created for Ryou Inoue's friends who got married. He showed it during their wedding reception and uploaded it to YouTube two days later.\n",
+  "title": {
+    "en": "Hayashi-fusai",
+    "jp": "Hayashi-fusai"
+  },
+  "releasedAt": "2013-05-03T00:00:00.000Z",
+  "finishedAt": "2013-05-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14166/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14166",
+    "anilist/anime": "136979",
+    "myanimelist/anime": "36671"
+  }
+}

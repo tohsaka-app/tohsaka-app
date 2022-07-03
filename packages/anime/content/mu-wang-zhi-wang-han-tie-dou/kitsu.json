@@ -1,0 +1,27 @@
+{
+  "slug": "mu-wang-zhi-wang-han-tie-dou",
+  "synopsis": "",
+  "title": {
+    "jp": "Mu Wang Zhi Wang: Han Tie Dou"
+  },
+  "releasedAt": "2017-05-11T00:00:00.000Z",
+  "finishedAt": "2017-09-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41344/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "martial arts",
+    "mystery",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41344",
+    "anidb": "13653",
+    "anilist/anime": "102055",
+    "myanimelist/anime": "37928"
+  }
+}

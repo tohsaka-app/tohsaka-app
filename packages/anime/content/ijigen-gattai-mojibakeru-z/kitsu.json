@@ -1,0 +1,23 @@
+{
+  "slug": "ijigen-gattai-mojibakeru-z",
+  "synopsis": "A promotional anime for the Ijigen Gattai Mojibakeru Z toy line from Bandai.",
+  "title": {
+    "jp": "Ijigen Gattai Mojibakeru Z"
+  },
+  "releasedAt": "2014-06-29T00:00:00.000Z",
+  "finishedAt": "2014-06-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11641/original.jpg",
+  "categories": [
+    "kids",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11641",
+    "aozora": "MBWDHZZgHi",
+    "myanimelist/anime": "32254"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "jojo-no-kimyou-na-bouken-ougon-no-kaze-recap",
+  "synopsis": "Recap of the first 13 episodes of JoJo no Kimyou na Bouken: Ougon no Kaze series.",
+  "title": {
+    "en": "JoJo's Bizarre Adventure: Golden Wind Recap",
+    "jp": "JoJo no Kimyou na Bouken: Ougon no Kaze Recap"
+  },
+  "releasedAt": "2019-01-05T00:00:00.000Z",
+  "finishedAt": "2019-05-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42116/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "europe",
+    "italy",
+    "mafia",
+    "proxy battles",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "crunchyroll.com/jojos-bizarre-adventure",
+    "vrv.co/series/GYP8DP1MY/JoJos-Bizarre-Adventure"
+  ],
+  "relations": {
+    "kitsu": "42116",
+    "myanimelist/anime": "38972"
+  }
+}

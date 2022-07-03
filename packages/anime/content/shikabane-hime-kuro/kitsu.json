@@ -1,0 +1,34 @@
+{
+  "slug": "shikabane-hime-kuro",
+  "synopsis": "A direct continuation of Shikabane Hime: Aka, taking place six months after Tagami Keisei's death at the hands of the Shichisei (Seven Stars), a group of elite Shikabane who act on more than just regrets. As per Keisei's dying wish, Kagami Ouri formed a temporary contract with Makina to save her from degenerating into a Shikabane. Since then, Ouri's been training to become a proper monk so that he can remain contracted to Makina and help her fight against the Shichisei -- the ones who originally killed Makina, the entire Hoshimura family, and now Keisei. However, the traitorous monk Shishidou Akasha has sided with the Shichisei in an attempt to destroy all Shikabane Hime and the entire monk organization that uses them -- Kougon Sect.",
+  "title": {
+    "en": "Corpse Princess: Kuro",
+    "jp": "Shikabane Hime: Kuro"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7667/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7667/original.jpg",
+  "categories": [
+    "action",
+    "dark fantasy",
+    "gunfights",
+    "horror",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7667",
+    "anidb": "6227",
+    "anilist/anime": "5034",
+    "aozora": "kLCU3D47Vr",
+    "myanimelist/anime": "5034",
+    "thetvdb": "83363/2",
+    "thetvdb/season": "39338",
+    "thetvdb/series": "83363",
+    "trakt": "31583"
+  }
+}

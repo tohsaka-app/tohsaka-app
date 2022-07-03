@@ -1,0 +1,32 @@
+{
+  "slug": "nazo-no-kanojo-x-nazo-no-natsu-matsuri",
+  "synopsis": "OVA released with the 9th volume of the manga.",
+  "title": {
+    "en": "Mysterious Girlfriend X: A Mysterious Summer Festival",
+    "jp": "Nazo no Kanojo X: Nazo no Natsu Matsuri"
+  },
+  "releasedAt": "2012-08-23T00:00:00.000Z",
+  "finishedAt": "2012-08-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6882/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6882/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "ecchi",
+    "japan",
+    "mystery",
+    "present",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6882",
+    "anidb": "8995",
+    "anilist/anime": "13093",
+    "aozora": "9l5NDihTed",
+    "myanimelist/anime": "13093"
+  }
+}

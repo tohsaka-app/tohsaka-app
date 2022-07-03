@@ -1,0 +1,22 @@
+{
+  "slug": "shin-manga-naruhodo-monogatari",
+  "synopsis": "",
+  "title": {
+    "jp": "Shin Manga Naruhodo Monogatari"
+  },
+  "releasedAt": "1988-04-02T00:00:00.000Z",
+  "finishedAt": "1989-01-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41201/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41201",
+    "myanimelist/anime": "37714"
+  }
+}

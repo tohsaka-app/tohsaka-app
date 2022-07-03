@@ -1,0 +1,26 @@
+{
+  "slug": "himitsukessha-taka-no-tsume-neo",
+  "synopsis": "Eagle Talon, a secret society based in Kojimachi, Tokyo, with plans for world domination, isn't a secret society anymore! In fact, it's a famous society, known by just about every household in Japan there is, because Eagle Talon went nation-wide with golden time on NHK!",
+  "title": {
+    "jp": "Himitsukessha Taka no Tsume NEO"
+  },
+  "releasedAt": "2012-04-06T00:00:00.000Z",
+  "finishedAt": "2013-02-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6963/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6963",
+    "anidb": "9049",
+    "anilist/anime": "13431",
+    "aozora": "KEIcOgVNny",
+    "myanimelist/anime": "13431"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "touhou-pvd-3",
+  "synopsis": "3rd Touhou fan-made music video collection released by Sound Holic on the Japanese Comiket 82 convention.",
+  "title": {
+    "en": "",
+    "jp": "Touhou PVD 3"
+  },
+  "releasedAt": "2012-08-11T00:00:00.000Z",
+  "finishedAt": "2012-08-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11532/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11532/original.jpg",
+  "categories": [
+    "action",
+    "magic",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11532"
+  }
+}

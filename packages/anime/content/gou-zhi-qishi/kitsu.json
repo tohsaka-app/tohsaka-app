@@ -1,0 +1,21 @@
+{
+  "slug": "gou-zhi-qishi",
+  "synopsis": "MV for ilem's song Gou Zhi Qishi featuring Luo Tianyi.",
+  "title": {
+    "en": "Pinky Swear"
+  },
+  "releasedAt": "2019-02-14T00:00:00.000Z",
+  "finishedAt": "2019-02-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44489/original.png",
+  "categories": [
+    "music",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44489"
+  }
+}

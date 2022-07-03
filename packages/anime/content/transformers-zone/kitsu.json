@@ -1,0 +1,27 @@
+{
+  "slug": "transformers-zone",
+  "synopsis": "In the distant future, an evil entity known as Violenjiger resurrects nine of the most feared generals in Destron history. While saving some inhabitants of a planet destroyed by these Destrons, Cybertron leader Victory Saber is seriously damaged. The leadership of the Cybertron forces is passed on to the heroic robot Dai-Atlas. Together with Sonic Bomber, Dai-Atlas must protect a mysterious crystal on Earth known as the \"Zodiac\" from falling into the hands of Violenjiger. \n(Source: ANN)",
+  "title": {
+    "en": "Transformers: Zone",
+    "jp": "Transformers Zone"
+  },
+  "releasedAt": "1990-07-21T00:00:00.000Z",
+  "finishedAt": "1990-07-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4395/original.jpg",
+  "categories": [
+    "mecha",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4395",
+    "anidb": "2103",
+    "anilist/anime": "6038",
+    "aozora": "qA65xPCB3b",
+    "myanimelist/anime": "6038"
+  }
+}

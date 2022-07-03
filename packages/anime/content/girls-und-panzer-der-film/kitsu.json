@@ -1,0 +1,32 @@
+{
+  "slug": "girls-und-panzer-der-film",
+  "synopsis": "Sometime after the 63rd sensha-dou tournament, the Japanese Ministry of Education decides to move forward with its plan to decommission Ooarai Girls High School despite their recent triumph in the championship. In order to keep the school open, Miho and her team must win a match against a university sensha-dou team. For this difficult battle, Miho and the others count with the help of their friends from the other schools they previously faced, as well as assistance from new friends from the Chihatan Academy and Keizoku High School. Together, they will join forces to save Ooarai.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Girls und Panzer der Film",
+    "jp": "Girls & Panzer Movie"
+  },
+  "releasedAt": "2015-11-21T00:00:00.000Z",
+  "finishedAt": "2015-11-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7904/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7904/original.jpg",
+  "categories": [
+    "action",
+    "military",
+    "school life",
+    "sports"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/girls-und-panzer-der-film",
+    "https://www.netflix.com/se/title/80159876"
+  ],
+  "relations": {
+    "kitsu": "7904",
+    "anidb": "10008",
+    "anilist/anime": "18617",
+    "aozora": "ZWOz2Oehnm",
+    "myanimelist/anime": "18617"
+  }
+}

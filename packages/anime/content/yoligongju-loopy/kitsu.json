@@ -1,0 +1,25 @@
+{
+  "slug": "yoligongju-loopy",
+  "synopsis": "A spin-off Pororo series focusing around food, predominantly kimchi incorporated food. Loopy was the cooking expert in the original series so she explains the food and science by magically transforming into a Cooking Princess.",
+  "title": {
+    "en": "Loopy",
+    "jp": "Yoligongju Loopy"
+  },
+  "releasedAt": "2012-08-31T00:00:00.000Z",
+  "finishedAt": "2012-10-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9703/original.jpg",
+  "categories": [
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9703",
+    "anilist/anime": "102366",
+    "aozora": "LRgJalfAib",
+    "myanimelist/anime": "27467"
+  }
+}

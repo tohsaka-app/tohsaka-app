@@ -1,0 +1,23 @@
+{
+  "slug": "pinky-wakuwaku-tabi-stroll",
+  "synopsis": "A promotional anime for Frente International's Pinky candy featuring their [pink] monkey mascot bring happiness through the power of Pinky candy in honor of the Pinky Citron Mint flavour release.",
+  "title": {
+    "jp": "Pinky Wakuwaku Tabi Stroll"
+  },
+  "releasedAt": "2000-12-01T00:00:00.000Z",
+  "finishedAt": "2000-12-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10304/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10304",
+    "anidb": "11555",
+    "aozora": "ow7ibCJtgR",
+    "myanimelist/anime": "29391"
+  }
+}

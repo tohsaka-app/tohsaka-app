@@ -1,0 +1,30 @@
+{
+  "slug": "ishida-to-asakura",
+  "synopsis": "Anime adaptation of the surreal gag manga about two high school boys, Ishida and Asakura.",
+  "title": {
+    "en": "Ishida & Asakura",
+    "jp": "Ishida to Asakura"
+  },
+  "releasedAt": "2013-01-06T00:00:00.000Z",
+  "finishedAt": "2013-03-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7404/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7404/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7404",
+    "anidb": "9507",
+    "anilist/anime": "16317",
+    "aozora": "oQBJdkmH1u",
+    "myanimelist/anime": "16317",
+    "thetvdb": "265530/1",
+    "thetvdb/series": "265530",
+    "trakt": "68964"
+  }
+}

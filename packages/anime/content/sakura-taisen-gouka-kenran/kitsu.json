@@ -1,0 +1,40 @@
+{
+  "slug": "sakura-taisen-gouka-kenran",
+  "synopsis": "The end of the demon wars has ended and now the Flower Division has been able to rest up after their fighting. The second Sakura Wars developes studies on every Flower Division Combatee in every episode while they go on their miscellanious adventures around Japan.\n(Source: ANN)",
+  "title": {
+    "en": "Sakura Wars: The Gorgeous Blooming Cherry Blossoms",
+    "jp": "Sakura Taisen: Gouka Kenran"
+  },
+  "releasedAt": "1999-12-18T00:00:00.000Z",
+  "finishedAt": "2000-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1047/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative past",
+    "asia",
+    "comedy",
+    "earth",
+    "fantasy",
+    "harem",
+    "japan",
+    "mecha",
+    "military",
+    "past",
+    "performance",
+    "piloted robot",
+    "science fiction",
+    "steampunk"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1047",
+    "anidb": "1103",
+    "anilist/anime": "1166",
+    "aozora": "AUsTgZXiLe",
+    "myanimelist/anime": "1166"
+  }
+}

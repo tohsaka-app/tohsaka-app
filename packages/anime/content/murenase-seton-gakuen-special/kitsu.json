@@ -1,0 +1,26 @@
+{
+  "slug": "murenase-seton-gakuen-special",
+  "synopsis": "Unaired episode included with volume 3 of the Blu-ray release.",
+  "title": {
+    "en": "Seton Academy: Join the Pack! Special",
+    "jp": "Murenase! Seton Gakuen Special"
+  },
+  "releasedAt": "2020-07-03T00:00:00.000Z",
+  "finishedAt": "2020-07-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43531/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43531",
+    "anidb": "15121",
+    "anilist/anime": "119812",
+    "myanimelist/anime": "41008"
+  }
+}

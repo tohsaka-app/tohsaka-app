@@ -1,0 +1,36 @@
+{
+  "slug": "flint-the-time-detective",
+  "synopsis": "It is the 25th century. The dark lord has 'infected' history with time-devices that could damage history beyond repair. Flint and his father lived in the prehistorics when they got turned into fossiles. They are discovered and Flint ges turned back to his original state. With the help of his father, a boy Tony and a girl Sara he has to travel trough time to bring the time-devices back to the land of time so history will be saved.\n(Source: ANN)",
+  "title": {
+    "en": "Flint the Time Detective",
+    "jp": "Jikuu Tantei Genshi-kun"
+  },
+  "releasedAt": "1998-10-01T00:00:00.000Z",
+  "finishedAt": "1999-06-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2066/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "future",
+    "japan",
+    "mystery",
+    "science fiction",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2066",
+    "anidb": "3396",
+    "anilist/anime": "2281",
+    "aozora": "dr3zP0UIx1",
+    "myanimelist/anime": "2281",
+    "thetvdb": "206051/1",
+    "thetvdb/series": "206051",
+    "trakt": "8862"
+  }
+}

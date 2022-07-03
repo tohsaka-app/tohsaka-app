@@ -1,0 +1,28 @@
+{
+  "slug": "one-room",
+  "synopsis": "Series of shorts that tell stories of your relationship with \"your\" neighbor, younger sister, and childhood friend.",
+  "title": {
+    "en": "One Room",
+    "jp": "One Room"
+  },
+  "releasedAt": "2017-01-11T00:00:00.000Z",
+  "finishedAt": "2017-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12758/original.jpg",
+  "categories": [
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12758",
+    "anidb": "12550",
+    "anilist/anime": "97857",
+    "aozora": "KdxnSqknwC",
+    "myanimelist/anime": "34392",
+    "thetvdb": "319995/1",
+    "trakt": "113262"
+  }
+}

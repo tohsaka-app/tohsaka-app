@@ -1,0 +1,24 @@
+{
+  "slug": "gundam-build-fighters-specials",
+  "synopsis": "Short specials included in the Blu-ray Box 1 &amp; 2 of Gundam Build Fighters.\nEpisode 1: SD Kishi Fighters First Half \nEpisode 2: SD Kishi Fighters Second Half\nEpisode 3: A Letter",
+  "title": {
+    "jp": "Gundam Build Fighters Specials"
+  },
+  "releasedAt": "2014-03-26T00:00:00.000Z",
+  "finishedAt": "2014-06-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9837/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9837",
+    "anilist/anime": "20925",
+    "aozora": "Hzyqu0OYpN",
+    "myanimelist/anime": "27907"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "for-the-win",
+  "synopsis": "MV for  Minato Aqua's single For The Win.",
+  "title": {
+    "en": "For The Win",
+    "jp": "For The Win"
+  },
+  "releasedAt": "2020-10-26T00:00:00.000Z",
+  "finishedAt": "2020-10-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43770/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43770/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=CZGFm-O5IOU&ab_channel=AquaCh.%E6%B9%8A%E3%81%82%E3%81%8F%E3%81%82"
+  ],
+  "relations": {
+    "kitsu": "43770",
+    "myanimelist/anime": "44281"
+  }
+}

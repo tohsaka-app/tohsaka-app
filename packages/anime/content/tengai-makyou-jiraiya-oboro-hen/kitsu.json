@@ -1,0 +1,25 @@
+{
+  "slug": "tengai-makyou-jiraiya-oboro-hen",
+  "synopsis": "Based on the first Tengai Makyou game, that initially came out in 1989 as one of the first titles for NEC's PC Engine CD-ROM.",
+  "title": {
+    "jp": "Tengai Makyou: Jiraiya Oboro-hen"
+  },
+  "releasedAt": "1990-07-27T00:00:00.000Z",
+  "finishedAt": "1990-08-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4372/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4372",
+    "anidb": "4413",
+    "anilist/anime": "5986",
+    "aozora": "sTwQCBf4iY",
+    "myanimelist/anime": "5986"
+  }
+}

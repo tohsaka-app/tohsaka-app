@@ -1,0 +1,23 @@
+{
+  "slug": "tomodachi-de-iyou-ne",
+  "synopsis": "Short children's anime depicting Neko-kun, Nyaago, Usagi-kun, Kuma-kun, and other forest animals in their daily lives. It originally aired as a part of the early morning children's program Hirake! Ponkikki before the anime was combined and released on VHS.",
+  "title": {
+    "jp": "Tomodachi de Iyou ne"
+  },
+  "releasedAt": "1992-01-01T00:00:00.000Z",
+  "finishedAt": "1993-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10475/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10475",
+    "aozora": "9GGaKB5UUG",
+    "myanimelist/anime": "29209"
+  }
+}

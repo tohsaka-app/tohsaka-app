@@ -1,0 +1,27 @@
+{
+  "slug": "hello-kitty-no-cinderella",
+  "synopsis": "Hello Kitty version of Cinderella.",
+  "title": {
+    "en": "Hello Kitty in Cinderella",
+    "jp": "Hello Kitty no Cinderella"
+  },
+  "releasedAt": "1989-07-22T00:00:00.000Z",
+  "finishedAt": "1989-07-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5659/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5659",
+    "anidb": "7782",
+    "anilist/anime": "9291",
+    "aozora": "8odmzo1wKP",
+    "myanimelist/anime": "9291"
+  }
+}

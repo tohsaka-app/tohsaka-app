@@ -1,0 +1,36 @@
+{
+  "slug": "ginga-eiyuu-densetsu-die-neue-these-seiran",
+  "synopsis": "Part 1 of the second season of Legend of the Galactic Heroes Die Neue These.",
+  "title": {
+    "en": "The Legend of the Galactic Heroes The New Thesis Stellar War Part 1",
+    "jp": "Ginga Eiyuu Densetsu: Die Neue These Seiran 1"
+  },
+  "releasedAt": "2019-09-27T00:00:00.000Z",
+  "finishedAt": "2019-09-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13825/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13825/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "military",
+    "politics",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space battles",
+    "space opera"
+  ],
+  "externals": [
+    "funimation.com/shows/legend-of-the-galactic-heroes-die-neue-these/?qid=c70ea5fcab904d45",
+    "https://vrv.co/series/GRW4DXNEY/Legend-of-the-Galactic-Heroes-Die-Neue-These",
+    "https://www.crunchyroll.com/legend-of-the-galactic-heroes-die-neue-these"
+  ],
+  "relations": {
+    "kitsu": "13825",
+    "anilist/anime": "100780",
+    "myanimelist/anime": "36369"
+  }
+}

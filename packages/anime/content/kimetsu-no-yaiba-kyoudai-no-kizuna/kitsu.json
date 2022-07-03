@@ -1,0 +1,31 @@
+{
+  "slug": "kimetsu-no-yaiba-kyoudai-no-kizuna",
+  "synopsis": "The first 5 episodes of TV series Kimetsu no Yaiba were released as a film. A special screening was held on 19.03.2019 in Shinjuku Wald 9, Tokyo.",
+  "title": {
+    "en": "Demon Slayer: Kimetsu no Yaiba Sibling`s Bond",
+    "jp": "Kimetsu no Yaiba: Kyoudai no Kizuna"
+  },
+  "releasedAt": "2019-03-29T00:00:00.000Z",
+  "finishedAt": "2019-03-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44388/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44388/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "historical",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/demon-slayer-kimetsu-no-yaiba/"
+  ],
+  "relations": {
+    "kitsu": "44388",
+    "anidb": "14689"
+  }
+}

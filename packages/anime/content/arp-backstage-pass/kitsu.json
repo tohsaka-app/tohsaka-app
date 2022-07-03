@@ -1,0 +1,28 @@
+{
+  "slug": "arp-backstage-pass",
+  "synopsis": "ARP: A 4-member dance and vocal group created by the latest AR technology. This popular group got their start with Avex, and are unique for their interactive concerts which combine highly-skilled song and dance routines with a format that changes based on how much the fans are cheering them on. And now, you can follow their rise to glory in the new anime, ARP Backstage Pass! less \n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "ARP Backstage Pass"
+  },
+  "releasedAt": "2020-01-13T00:00:00.000Z",
+  "finishedAt": "2020-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42879/original.jpg",
+  "categories": [
+    "idol",
+    "josei",
+    "music"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/arp-backstage-pass"
+  ],
+  "relations": {
+    "kitsu": "42879",
+    "anidb": "14292",
+    "anilist/anime": "110615",
+    "animenewsnetwork": "22347",
+    "myanimelist/anime": "40137"
+  }
+}

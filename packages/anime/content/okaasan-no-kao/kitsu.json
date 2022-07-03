@@ -1,0 +1,21 @@
+{
+  "slug": "okaasan-no-kao",
+  "synopsis": "An ekaki uta of the singer's mother's portrait.",
+  "title": {
+    "jp": "Okaasan no Kao"
+  },
+  "releasedAt": "1968-12-01T00:00:00.000Z",
+  "finishedAt": "1968-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40814/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40814",
+    "anilist/anime": "104356",
+    "aozora": "J2vgGa5kT6",
+    "myanimelist/anime": "35668"
+  }
+}

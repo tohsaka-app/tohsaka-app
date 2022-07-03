@@ -1,0 +1,28 @@
+{
+  "slug": "nijiiro-days-ova",
+  "synopsis": "Bundled with the 13th limited-edition volume of the manga.",
+  "title": {
+    "en": "Rainbow Days OVA",
+    "jp": "Nijiiro Days OVA"
+  },
+  "releasedAt": "2016-09-23T00:00:00.000Z",
+  "finishedAt": "2016-09-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12054/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12054",
+    "anidb": "12079",
+    "anilist/anime": "21775",
+    "aozora": "o1Pf6TJazJ",
+    "myanimelist/anime": "33181"
+  }
+}

@@ -1,0 +1,522 @@
+[
+  {
+    "title": {
+      "jp": "¡Blanco puro! La estrella del baloncesto"
+    },
+    "season": 1,
+    "number": 1,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "La habilidad secreta, ¡El tiro de Akane"
+    },
+    "season": 1,
+    "number": 2,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¿La chispa del amor? Perro contra humano"
+    },
+    "season": 1,
+    "number": 3,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Flotando por encima de ti como un globo hula-hula"
+    },
+    "season": 1,
+    "number": 4,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¿Kappei, el mejor jugador deportivo?"
+    },
+    "season": 1,
+    "number": 5,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡El baloncesto aéreo del terror!"
+    },
+    "season": 1,
+    "number": 6,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "La técnica ganadora del amor romántico de Seichiro"
+    },
+    "season": 1,
+    "number": 7,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "El fiero maratón de pesadilla"
+    },
+    "season": 1,
+    "number": 8,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "La temible escuela Neishumu"
+    },
+    "season": 1,
+    "number": 9,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Aparece el rival Todo-kun!"
+    },
+    "season": 1,
+    "number": 10,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "El engaño de Kappei"
+    },
+    "season": 1,
+    "number": 11,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡El tiro asesino de Ooba!"
+    },
+    "season": 1,
+    "number": 12,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Grotesco! El fantasma del baloncesto contra Kappei"
+    },
+    "season": 1,
+    "number": 13,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Derrota al tiro de las mil manos"
+    },
+    "season": 1,
+    "number": 14,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Súper técnica secreta! Retransmitido a todo el país"
+    },
+    "season": 1,
+    "number": 15,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "La amenaza del ejército de las Amazonas (primer vol. de 17 historias)"
+    },
+    "season": 1,
+    "number": 16,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "La amenaza del ejército de las Amazonas"
+    },
+    "season": 1,
+    "number": 17,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Aparezco en mi primera peli! Yo soy la estrella"
+    },
+    "season": 1,
+    "number": 18,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "La dieta adelgazante entre lágrimas de Kappei"
+    },
+    "season": 1,
+    "number": 19,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Aparece el profesor apasionado!"
+    },
+    "season": 1,
+    "number": 20,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "El hombre pájaro. Kappei vuela por el cielo"
+    },
+    "season": 1,
+    "number": 21,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Aparece! El abuelo de Kappei"
+    },
+    "season": 1,
+    "number": 22,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡La primera y seguramente la última! La victoria de la selección"
+    },
+    "season": 1,
+    "number": 23,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¿Kappei es una marioneta?"
+    },
+    "season": 1,
+    "number": 24,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Es espantoso! El pasado de Kappei"
+    },
+    "season": 1,
+    "number": 25,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡¿Extraño?! Baloncesto sin técnica secreta"
+    },
+    "season": 1,
+    "number": 26,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡La gran final usando la súper habilidad!"
+    },
+    "season": 1,
+    "number": 27,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "La clase de gimnasia femenina de Kappei"
+    },
+    "season": 1,
+    "number": 28,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "El Golf ultra de Kappei"
+    },
+    "season": 1,
+    "number": 29,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡La primera batalla! Hockey sobre hielo"
+    },
+    "season": 1,
+    "number": 30,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Entrenadora de Verano. Fiebre de amor"
+    },
+    "season": 1,
+    "number": 31,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡El cuento de Kappei! La historia de Ceniciento"
+    },
+    "season": 1,
+    "number": 32,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¿Un genio? Kappei, el artista del Ping Pong"
+    },
+    "season": 1,
+    "number": 33,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "El bello musculoso. ¡Serarika Contra Kappei!"
+    },
+    "season": 1,
+    "number": 34,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Duelo! Kappei contra Gorila Hipopótamo"
+    },
+    "season": 1,
+    "number": 35,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Sorpresa! Akane juega al Ping Pong"
+    },
+    "season": 1,
+    "number": 36,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Contraataque en la nueva mesa de Ping Pong!"
+    },
+    "season": 1,
+    "number": 37,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Carcajadas! La lucha profesional de PinPong de Kappei"
+    },
+    "season": 1,
+    "number": 38,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "La técnica del Balón Jin contra el Rey del Cielo"
+    },
+    "season": 1,
+    "number": 39,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Fin del juego! Kappei contra Akane"
+    },
+    "season": 1,
+    "number": 40,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¿Misterio? Kappei, el eléctrico"
+    },
+    "season": 1,
+    "number": 41,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "La última batalla mortal con Gorila Hipopótamo"
+    },
+    "season": 1,
+    "number": 42,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Nueva aparición! Joe Cocker"
+    },
+    "season": 1,
+    "number": 43,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "El tesoro perdido de Cocker"
+    },
+    "season": 1,
+    "number": 44,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gran terror. Aaaah"
+    },
+    "season": 1,
+    "number": 45,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "El gran baloncesto del Oeste"
+    },
+    "season": 1,
+    "number": 46,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡La operación espacial de Kappei!"
+    },
+    "season": 1,
+    "number": 47,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Kappei vuelve a casa!"
+    },
+    "season": 1,
+    "number": 48,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡El sumo de Kappei!"
+    },
+    "season": 1,
+    "number": 49,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "El mecanismo de esgrima"
+    },
+    "season": 1,
+    "number": 50,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Ahí está la nueva técnica! Tigeras sucias"
+    },
+    "season": 1,
+    "number": 51,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡El gran entrenamiento especial de Kappei!"
+    },
+    "season": 1,
+    "number": 52,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡La gran revelación del entrenamiento intensivo de Kappei!"
+    },
+    "season": 1,
+    "number": 53,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Batalla decisiva en la ceremonia de clase!"
+    },
+    "season": 1,
+    "number": 54,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Invencible! El Kenpo KunyaKunya"
+    },
+    "season": 1,
+    "number": 55,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡El desafío del hombre lobo!"
+    },
+    "season": 1,
+    "number": 56,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Gran magia blanca! La transformación de Akane"
+    },
+    "season": 1,
+    "number": 57,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡El idiota poderoso! El robot derroca a Kappei"
+    },
+    "season": 1,
+    "number": 58,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Padre! El gran problema del Instituto Aorin"
+    },
+    "season": 1,
+    "number": 59,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Juego de fuerza física! La carrera del súper hombre"
+    },
+    "season": 1,
+    "number": 60,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Decisión mortal! El gran salto del mono ciclo"
+    },
+    "season": 1,
+    "number": 61,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡¿Quién será el corredor ganador?!"
+    },
+    "season": 1,
+    "number": 62,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "La propia muerte de uno mismo. Pánico"
+    },
+    "season": 1,
+    "number": 63,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "¡Hasta siempre! Héroes que se dispersan"
+    },
+    "season": 1,
+    "number": 64,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kappei es alguien inmortal"
+    },
+    "season": 1,
+    "number": 65,
+    "content": {}
+  }
+]

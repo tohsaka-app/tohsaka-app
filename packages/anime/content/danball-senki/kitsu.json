@@ -1,0 +1,33 @@
+{
+  "slug": "danball-senki",
+  "synopsis": "In 2046, a revolutionary 80% shock-absorbing reinforced cardboard has been developed, rapidly transforming the world's exports. The reinforced cardboard would soon become the battleground for a popular children's hobby called \"LBX\" (Little Battler eXperience).\nFour years later, a boy named Yamano Ban who loves to play with LBX (although without a mecha himself) is given a case containing the model AX-00 by a mysterious woman. He is told that he now holds the hopes and despairs of mankind in his hands.",
+  "title": {
+    "en": "LBX: Little Battlers eXperience",
+    "jp": "Danball Senki"
+  },
+  "releasedAt": "2011-03-02T00:00:00.000Z",
+  "finishedAt": "2012-01-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4860/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4860/original.jpg",
+  "categories": [
+    "action",
+    "kids",
+    "mecha",
+    "proxy battles",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4860",
+    "anidb": "8226",
+    "anilist/anime": "7081",
+    "aozora": "dQOVzvXyiI",
+    "myanimelist/anime": "7081",
+    "thetvdb": "260946/1",
+    "thetvdb/series": "260946",
+    "trakt": "38650"
+  }
+}

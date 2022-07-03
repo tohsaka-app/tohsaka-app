@@ -1,0 +1,26 @@
+{
+  "slug": "saki-biyori",
+  "synopsis": "Bundled with limited special first edition of the 14th volume of the Saki manga.",
+  "title": {
+    "jp": "Saki Biyori Animation"
+  },
+  "releasedAt": "2015-07-25T00:00:00.000Z",
+  "finishedAt": "2015-07-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9563/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9563",
+    "anidb": "10849",
+    "anilist/anime": "21642",
+    "aozora": "I8DCJNZv7w",
+    "myanimelist/anime": "27709"
+  }
+}

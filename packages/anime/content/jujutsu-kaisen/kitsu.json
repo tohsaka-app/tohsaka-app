@@ -1,0 +1,35 @@
+{
+  "slug": "jujutsu-kaisen",
+  "synopsis": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.\n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Jujutsu Kaisen"
+  },
+  "releasedAt": "2020-10-03T00:00:00.000Z",
+  "finishedAt": "2021-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/42765/poster_image/5f099d83883544fc6200be91706d70e0.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42765/original.jpeg",
+  "categories": [
+    "action",
+    "angst",
+    "demon",
+    "fantasy",
+    "school life",
+    "shounen",
+    "supernatural",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [
+    "https://vrv.co/series/GRDV0019R/JUJUTSU-KAISEN",
+    "https://www.crunchyroll.com/jujutsu-kaisen",
+    "https://www.funimation.com/shows/jujutsu-kaisen/"
+  ],
+  "relations": {
+    "kitsu": "42765",
+    "anilist/anime": "113415",
+    "myanimelist/anime": "40748"
+  }
+}

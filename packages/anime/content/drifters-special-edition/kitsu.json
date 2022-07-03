@@ -1,0 +1,34 @@
+{
+  "slug": "drifters-special-edition",
+  "synopsis": "Bundled with the fifth manga volume.Contains edited footage of the first two episodes.",
+  "title": {
+    "jp": "Drifters: Special Edition"
+  },
+  "releasedAt": "2016-06-06T00:00:00.000Z",
+  "finishedAt": "2016-06-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12087/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12087/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "historical",
+    "isekai",
+    "samurai",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12087",
+    "anidb": "12038",
+    "anilist/anime": "122922",
+    "aozora": "RWfcvui9hx",
+    "myanimelist/anime": "33032",
+    "thetvdb": "312559",
+    "trakt": "108124"
+  }
+}

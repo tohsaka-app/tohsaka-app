@@ -1,0 +1,26 @@
+{
+  "slug": "yuru-yuri-4",
+  "synopsis": "A new OVA has been green-lit to commemorate the manga's 10th anniversary.",
+  "title": {
+    "jp": "Yuru Yuri,"
+  },
+  "releasedAt": "2019-09-18T00:00:00.000Z",
+  "finishedAt": "2019-09-18T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41353/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "shoujo ai",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41353",
+    "anidb": "14047",
+    "anilist/anime": "102090",
+    "myanimelist/anime": "37773"
+  }
+}

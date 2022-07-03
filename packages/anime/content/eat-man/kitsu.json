@@ -1,0 +1,34 @@
+{
+  "slug": "eat-man",
+  "synopsis": "Meet Bolt Crank, mercenary extraordinaire, and the man who eats metal! Through his travels, he stops along the way to make a few bucks and occasionally rescue damsels in distress. His taste for metal gives him quite an edge as he becomes capable of generating an assortment of weapons from his hand! It's a strange ability, but it seems to come in handy, so to speak. Bolt has an edge over his adversaries, but will that be enough?\n(Source: AnimeNfo)",
+  "title": {
+    "jp": "Eat-Man"
+  },
+  "releasedAt": "1997-01-09T00:00:00.000Z",
+  "finishedAt": "1997-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1530/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "crime",
+    "gunfights",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/eat-man"
+  ],
+  "relations": {
+    "kitsu": "1530",
+    "anidb": "1773",
+    "anilist/anime": "1704",
+    "aozora": "05CBUoQh1e",
+    "myanimelist/anime": "1704",
+    "thetvdb": "87941/1",
+    "thetvdb/series": "87941",
+    "trakt": "34062"
+  }
+}

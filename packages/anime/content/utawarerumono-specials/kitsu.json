@@ -1,0 +1,26 @@
+{
+  "slug": "utawarerumono-specials",
+  "synopsis": "DVD specials of comedic events that occurred during the story of Utawarerumono. The specials are included in the DVD Box special disc.",
+  "title": {
+    "jp": "Utawarerumono Specials"
+  },
+  "releasedAt": "2006-08-23T00:00:00.000Z",
+  "finishedAt": "2007-02-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1647/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "drama",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1647",
+    "anilist/anime": "1830",
+    "aozora": "QF2M3tOtiJ",
+    "myanimelist/anime": "1830"
+  }
+}

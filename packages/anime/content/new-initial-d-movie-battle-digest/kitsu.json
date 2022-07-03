@@ -1,0 +1,24 @@
+{
+  "slug": "new-initial-d-movie-battle-digest",
+  "synopsis": "New Initial D Movie: Battle Digest is an upcoming compilation film in the New Initial D Movie series. It features the battle scenes from the Initial D Legends films with a new soundtrack, in a similar fashion to the Battle Stages.\n\n(Source: Initial D Wiki)",
+  "title": {
+    "en": "New Initial D Movie: Battle Digest",
+    "jp": "New Initial D Movie: Battle Digest"
+  },
+  "releasedAt": "2022-01-07T00:00:00.000Z",
+  "finishedAt": "2022-01-07T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45802/poster_image/7009b72ee28c1bb81d6fa44021f5db1e.jpg",
+  "categories": [
+    "seinen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45802",
+    "anilist/anime": "145405",
+    "myanimelist/anime": "50846"
+  }
+}

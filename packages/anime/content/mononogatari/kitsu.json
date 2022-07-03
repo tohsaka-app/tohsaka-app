@@ -1,0 +1,24 @@
+{
+  "slug": "mononogatari",
+  "synopsis": "Tsukumogami: spirits -- or \"marebito\" -- which have possessed objects of considerable age and gained a physical form. Although he is part of the Saenome clan which is charged with peacefully sending them back to their own world, Kunato Hyouma hates their guts because one took away what was very precious to him. In order to cure him of this loathing, Hyouma's grandfather sends him to live with Nagatsuki Botan, a girl who is the master of six \"friendly\" tsukumogami and lives with them as a family.",
+  "title": {
+    "en": "Malevolent Spirits: Mononogatari",
+    "jp": "Mononogatari"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45509/poster_image/9bdf38c643d3457da177194ce5c4beb9.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45509/cover_image/706a27329044346cb66a6ce9274accfb.jpg",
+  "categories": [
+    "action",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45509",
+    "anilist/anime": "141785"
+  }
+}

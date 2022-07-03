@@ -1,0 +1,25 @@
+{
+  "slug": "gohan-kaijuu-pap",
+  "synopsis": "A series of short, 30-second segments featuring Gohan Kaijuu Pap and various \"side dish\" monsters to produce delicious meals.",
+  "title": {
+    "jp": "Gohan Kaijuu Pap"
+  },
+  "releasedAt": "2011-04-25T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9832/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9832",
+    "anidb": "8449",
+    "aozora": "A3U2X8dbw2",
+    "myanimelist/anime": "22669"
+  }
+}

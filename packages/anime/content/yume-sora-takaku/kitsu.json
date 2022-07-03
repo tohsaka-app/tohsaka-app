@@ -1,0 +1,24 @@
+{
+  "slug": "yume-sora-takaku",
+  "synopsis": "An educational film about the independence of children.",
+  "title": {
+    "jp": "Yume, Sora Takaku"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2001-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9713/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9713",
+    "anidb": "10125",
+    "aozora": "Fx1ECIp9L5",
+    "myanimelist/anime": "26307"
+  }
+}

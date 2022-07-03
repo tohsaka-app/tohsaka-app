@@ -1,0 +1,25 @@
+{
+  "slug": "kamiari-algorithm",
+  "synopsis": "Animated music video directed by Sae Okamoto for the song Kamiari Algorithm by Masayoshi Ooishi feat. Riria.",
+  "title": {
+    "jp": "Kamiari Algorithm"
+  },
+  "releasedAt": "2021-02-25T00:00:00.000Z",
+  "finishedAt": "2021-02-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44486/original.png",
+  "categories": [
+    "action",
+    "music",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=mQaIKnHltb0"
+  ],
+  "relations": {
+    "kitsu": "44486",
+    "anilist/anime": "132192"
+  }
+}

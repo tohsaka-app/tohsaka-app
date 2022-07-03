@@ -1,0 +1,32 @@
+{
+  "slug": "gegege-no-kitarou-1968-movie",
+  "synopsis": "A retelling of episodes 5-6 from the 1968 TV anime.",
+  "title": {
+    "en": "Spooky Kitaro",
+    "jp": "Gegege no Kitarou (1968 Movie)"
+  },
+  "releasedAt": "1968-07-21T00:00:00.000Z",
+  "finishedAt": "1968-07-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8921/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "horror",
+    "japan"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8921",
+    "anidb": "7472",
+    "anilist/anime": "8149",
+    "aozora": "pzcD2cu4Yt",
+    "myanimelist/anime": "8149"
+  }
+}

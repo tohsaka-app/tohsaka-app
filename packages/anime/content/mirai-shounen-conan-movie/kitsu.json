@@ -1,0 +1,27 @@
+{
+  "slug": "mirai-shounen-conan-movie",
+  "synopsis": "In the aftermath of a war fought by magnetic weapons which caused massive earthquakes, a young and spunky boy naned Conan gets involved in a grand adventure. Conan lives in a world that is mostly oceans; the major land masses having been destroyed by the weapons of the great war. He meets a young girl named Lana, and they eventually foil the plans of the city-state of  Industria which wants to regain the lethal weapons.",
+  "title": {
+    "en": "Future Boy Conan Movie",
+    "jp": "Mirai Shounen Conan (Movie)"
+  },
+  "releasedAt": "1979-09-15T00:00:00.000Z",
+  "finishedAt": "1979-09-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4937/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction",
+    "steampunk"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4937",
+    "anidb": "5714",
+    "anilist/anime": "7308",
+    "aozora": "nmC9GXJ78g",
+    "myanimelist/anime": "7308"
+  }
+}

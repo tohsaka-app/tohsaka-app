@@ -1,0 +1,19 @@
+{
+  "slug": "delete-df161251-fd39-47b5-8a95-9bcb63ff5871",
+  "synopsis": "Duplicate of https://kitsu.io/anime/zombieland-saga-revenge",
+  "title": {
+    "en": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43838/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43838/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "43838"
+  }
+}

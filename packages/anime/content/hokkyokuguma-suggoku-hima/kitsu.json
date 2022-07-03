@@ -1,0 +1,23 @@
+{
+  "slug": "hokkyokuguma-suggoku-hima",
+  "synopsis": "A polar bear who is very bored with various marine animals in the deep blue sea. It continues an ancient tradition of \"Caricatures of Frolicking animals\" in scroll painting-style; this time, \"Frolicking Sea Animals,\" in animation form, with a play on Japanese and English language word-plays: \"Hokyoku-Guma Suggoku Hima. / Polar bear bears boredom\", \"Kawauso Kawaisou./Other otter, poor otter,\" etc.",
+  "title": {
+    "en": "Polar Bear Bears Boredom",
+    "jp": "Hokkyokuguma Suggoku Hima"
+  },
+  "releasedAt": "2021-08-14T00:00:00.000Z",
+  "finishedAt": "2021-08-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46181/poster_image/5aca3ffe13d7c68233a1f2465e3d848e.jpg",
+  "categories": [
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46181",
+    "anilist/anime": "143380",
+    "myanimelist/anime": "51828"
+  }
+}

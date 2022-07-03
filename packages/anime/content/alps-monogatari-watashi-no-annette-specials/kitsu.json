@@ -1,0 +1,23 @@
+{
+  "slug": "alps-monogatari-watashi-no-annette-specials",
+  "synopsis": "A summary of the Alps Monogatari: Watashi no Annette full series aired as a TV specials.",
+  "title": {
+    "jp": "Alps Monogatari: Watashi no Annette Specials"
+  },
+  "releasedAt": "2001-04-01T00:00:00.000Z",
+  "finishedAt": "2001-04-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8956/original.jpg",
+  "categories": [
+    "drama",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8956",
+    "aozora": "YEvil2Mysg",
+    "myanimelist/anime": "24647"
+  }
+}

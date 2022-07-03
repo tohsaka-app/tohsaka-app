@@ -1,0 +1,20 @@
+{
+  "slug": "quiz-tokiko-san",
+  "synopsis": "",
+  "title": {
+    "jp": "Quiz Tokiko-san"
+  },
+  "releasedAt": "2017-06-17T00:00:00.000Z",
+  "finishedAt": "2018-03-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41760/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41760",
+    "anilist/anime": "115195",
+    "myanimelist/anime": "37263"
+  }
+}

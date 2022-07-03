@@ -1,0 +1,23 @@
+{
+  "slug": "tsubuyaki-tai",
+  "synopsis": "A surreal dialogue-heavy comedy where objects talk about their lives in an interview-style such as a toothbrush in a cup or a hamster.",
+  "title": {
+    "jp": "Tsubuyaki-tai"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12926/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12926",
+    "anilist/anime": "111031",
+    "aozora": "EN8Q10Fzls",
+    "myanimelist/anime": "34163"
+  }
+}

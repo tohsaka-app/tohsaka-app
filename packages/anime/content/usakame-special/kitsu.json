@@ -1,0 +1,24 @@
+{
+  "slug": "usakame-special",
+  "synopsis": "Unaired episode included with the Blu-ray.",
+  "title": {
+    "jp": "Usakame Special"
+  },
+  "releasedAt": "2016-08-26T00:00:00.000Z",
+  "finishedAt": "2016-08-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13210/original.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13210",
+    "anilist/anime": "100176",
+    "aozora": "6GpbjfKC5X",
+    "myanimelist/anime": "34615"
+  }
+}

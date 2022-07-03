@@ -1,0 +1,20 @@
+{
+  "slug": "yokoha-maman",
+  "synopsis": "Directed by Hiroco Ichinose. This animation imagined and made Yokohama.\n\n(Source: Vimeo)",
+  "title": {
+    "jp": "YOKOHA-MAMAN"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45038/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45038"
+  }
+}

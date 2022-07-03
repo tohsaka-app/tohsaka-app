@@ -1,0 +1,24 @@
+{
+  "slug": "great-hunt",
+  "synopsis": "Great Hunt is a mysterious amalgamation of heavy Toyama accents, music, and absurdest humor!",
+  "title": {
+    "en": "",
+    "jp": "Great Hunt"
+  },
+  "releasedAt": "2008-04-10T00:00:00.000Z",
+  "finishedAt": "2008-09-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10974/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10974",
+    "aozora": "1NqZCTmS46",
+    "myanimelist/anime": "30602"
+  }
+}

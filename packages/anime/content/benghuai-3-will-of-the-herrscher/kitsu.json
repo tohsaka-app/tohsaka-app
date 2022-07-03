@@ -1,0 +1,29 @@
+{
+  "slug": "benghuai-3-will-of-the-herrscher",
+  "synopsis": "The Herrscher within has been unleashed, can the world survive the wrath of Queen Kiana...",
+  "title": {
+    "en": "Honkai Impact 3rd: Will of the Herrscher",
+    "jp": "Benghuai 3: Will of the Herrscher"
+  },
+  "releasedAt": "2018-07-07T00:00:00.000Z",
+  "finishedAt": "2018-07-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43622/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43622/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "power suit",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Q-b6rdyIJsY"
+  ],
+  "relations": {
+    "kitsu": "43622",
+    "anilist/anime": "129677",
+    "myanimelist/anime": "41125"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "minna-atsumare-falcom-gakuen",
+  "synopsis": "Characters from various games released by Falcom (e.g. Dragon Slayer, The Legend of Heroes, and Ys series) come together in a school.",
+  "title": {
+    "jp": "Minna Atsumare! Falcom Gakuen"
+  },
+  "releasedAt": "2014-01-05T00:00:00.000Z",
+  "finishedAt": "2014-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8058/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8058/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8058",
+    "anidb": "10289",
+    "anilist/anime": "20538",
+    "aozora": "pr42mFIq9R",
+    "myanimelist/anime": "21427",
+    "thetvdb": "276347/2",
+    "thetvdb/season": "593995",
+    "thetvdb/series": "276347",
+    "trakt": "74648"
+  }
+}

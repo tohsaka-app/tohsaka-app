@@ -1,0 +1,24 @@
+{
+  "slug": "makemagic",
+  "synopsis": "Music video for jealkb's \"makemagic\" song. It is done in a paper cutout stop motion animation style focusing on a girl getting transported to a kingdom by a wizard. During a party she's frightened by the sudden marriage proposal by the prince and runs back into the arms of the wizard. The band itself is depicted in the anime in the same style--as photograph cutouts. The MV aired on NHK's E-Tele \"Digista Teens\" program.\nThis was also the title song for Yu☆Gi☆Oh!: Chou Yuugou! Toki wo Koeta Kizuna.",
+  "title": {
+    "jp": "makemagic"
+  },
+  "releasedAt": "2011-10-01T00:00:00.000Z",
+  "finishedAt": "2011-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11717/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11717",
+    "anilist/anime": "104932",
+    "aozora": "zPmTnmd8vH",
+    "myanimelist/anime": "32346"
+  }
+}

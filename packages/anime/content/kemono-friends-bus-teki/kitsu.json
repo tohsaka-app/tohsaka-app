@@ -1,0 +1,24 @@
+{
+  "slug": "kemono-friends-bus-teki",
+  "synopsis": "Special episode 12.1 of Kemono Friends, streamed online.",
+  "title": {
+    "jp": "Kemono Friends: Bus-teki"
+  },
+  "releasedAt": "2017-04-04T00:00:00.000Z",
+  "finishedAt": "2017-04-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13620/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "juujin"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13620",
+    "anilist/anime": "98697",
+    "myanimelist/anime": "35347"
+  }
+}

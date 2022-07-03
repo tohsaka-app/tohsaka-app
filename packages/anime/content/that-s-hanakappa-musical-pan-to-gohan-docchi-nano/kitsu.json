@@ -1,0 +1,24 @@
+{
+  "slug": "that-s-hanakappa-musical-pan-to-gohan-docchi-nano",
+  "synopsis": "A short musical of Hanakappa double-billed with the first film. It aired before the main feature started.",
+  "title": {
+    "jp": "That's Hanakappa Musical: Pan to Gohan, Docchi nano!?"
+  },
+  "releasedAt": "2013-04-12T00:00:00.000Z",
+  "finishedAt": "2013-04-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10900/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10900",
+    "aozora": "zxETdNGoDZ",
+    "myanimelist/anime": "30582"
+  }
+}

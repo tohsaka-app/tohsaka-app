@@ -1,0 +1,25 @@
+{
+  "slug": "yuru-camp-specials",
+  "synopsis": "Specials included in the anime's BD/DVD releases. The first disc release features \"Heya Camp Episode 0,\" a story before Nadeshiko joins the club.\n\n(Source: ANN)",
+  "title": {
+    "en": "Laid-Back Camp Specials",
+    "jp": "Yuru Camp△ Specials"
+  },
+  "releasedAt": "2018-03-28T00:00:00.000Z",
+  "finishedAt": "2018-07-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41068/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41068/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41068",
+    "anilist/anime": "101206",
+    "myanimelist/anime": "37341"
+  }
+}

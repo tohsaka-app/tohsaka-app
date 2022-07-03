@@ -1,0 +1,28 @@
+{
+  "slug": "grisaia-no-kajitsu-specials",
+  "synopsis": "Short specials added to Blu-ray/DVD volumes.",
+  "title": {
+    "en": "The Fruit of Grisaia Specials",
+    "jp": "Grisaia no Kajitsu Specials"
+  },
+  "releasedAt": "2014-12-25T00:00:00.000Z",
+  "finishedAt": "2015-05-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10150/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10150/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10150",
+    "anilist/anime": "21010",
+    "aozora": "69TxA4ubXC",
+    "myanimelist/anime": "29101"
+  }
+}

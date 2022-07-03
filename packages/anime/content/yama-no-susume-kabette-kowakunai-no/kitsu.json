@@ -1,0 +1,27 @@
+{
+  "slug": "yama-no-susume-kabette-kowakunai-no",
+  "synopsis": "Unaired 13th Episode of Yama no Susume released with the BD/DVD.",
+  "title": {
+    "en": "Encouragement of Climb Episode 13",
+    "jp": "Yama no Susume: Kabe tte Kowakunai no?"
+  },
+  "releasedAt": "2013-05-24T00:00:00.000Z",
+  "finishedAt": "2013-05-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7766/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7766/original.jpg",
+  "categories": [
+    "comedy",
+    "friendship",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7766",
+    "anilist/anime": "17341",
+    "aozora": "qlzaIjJHL5",
+    "myanimelist/anime": "17341"
+  }
+}

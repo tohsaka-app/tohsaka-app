@@ -1,0 +1,24 @@
+{
+  "slug": "genki-genki-non-tan-2004",
+  "synopsis": "Direct continuation of the first season. Also labeled as episode 16-25.",
+  "title": {
+    "jp": "Genki Genki Non-tan (2004)"
+  },
+  "releasedAt": "2004-04-20T00:00:00.000Z",
+  "finishedAt": "2004-05-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9278/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9278",
+    "anidb": "10171",
+    "aozora": "nySA6dKiGB",
+    "myanimelist/anime": "25611"
+  }
+}

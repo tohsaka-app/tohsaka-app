@@ -1,0 +1,26 @@
+{
+  "slug": "senkou-no-night-raid-recap",
+  "synopsis": "A recap of Senkou no Night Raid up to the 6th episode, aired on TV instead of the real episode 7 which was broadcast online.",
+  "title": {
+    "en": "Night Raid 1931: The Prophecy",
+    "jp": "Senkou no Night Raid: Yogen"
+  },
+  "releasedAt": "2010-05-18T00:00:00.000Z",
+  "finishedAt": "2010-05-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5506/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "military",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5506",
+    "aozora": "VHWntvuj9P",
+    "myanimelist/anime": "8840"
+  }
+}

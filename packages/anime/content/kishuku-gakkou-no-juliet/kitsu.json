@@ -1,0 +1,32 @@
+{
+  "slug": "kishuku-gakkou-no-juliet",
+  "synopsis": "At Dahlia Academy, a prestigious boarding school on a remote island, students from two feuding countries battle each other every day. However, Romio Inuzuka, the leader of the Touwa dorm, and Juliet Persia, the leader of the West dorm, start a secret relationship!\n\n(Source: Prime Video)",
+  "title": {
+    "en": "Boarding School Juliet",
+    "jp": "Kishuku Gakkou no Juliet"
+  },
+  "releasedAt": "2018-10-06T00:00:00.000Z",
+  "finishedAt": "2018-12-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41065/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41065/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "romance",
+    "school life",
+    "shounen"
+  ],
+  "externals": [
+    "http://a.co/d/3vwqP7C"
+  ],
+  "relations": {
+    "kitsu": "41065",
+    "anidb": "13911",
+    "anilist/anime": "101310",
+    "animenewsnetwork": "21013",
+    "myanimelist/anime": "37475"
+  }
+}

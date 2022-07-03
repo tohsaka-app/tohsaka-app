@@ -1,0 +1,44 @@
+{
+  "slug": "muteki-kanban-musume",
+  "synopsis": "Miki Onimaru is a poster girl that works at her mother's Chinese ramen restaurant. She appears to be a normal girl, but she can become very violent if provoked. She picks a fight with her mother and accquaintances as a result on an almost daily basis, causing a series of troubling mishaps in their otherwise normal lives. \n(Source: ANN)",
+  "title": {
+    "en": "Ramen Fighter Miki",
+    "jp": "Muteki Kanban Musume"
+  },
+  "releasedAt": "2006-07-05T00:00:00.000Z",
+  "finishedAt": "2006-09-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1558/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1558/original.png",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "cooking",
+    "earth",
+    "japan",
+    "martial arts",
+    "parody",
+    "present",
+    "slapstick",
+    "slice of life",
+    "stereotypes"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/ramen-fighter-miki",
+    "http://www.hulu.com/ramen-fighter-miki",
+    "https://www.amazon.com/dp/B079G82G34/"
+  ],
+  "relations": {
+    "kitsu": "1558",
+    "anidb": "4381",
+    "anilist/anime": "1738",
+    "aozora": "nbDuBCytbZ",
+    "myanimelist/anime": "1738",
+    "thetvdb": "82628/1",
+    "thetvdb/series": "82628",
+    "trakt": "34694"
+  }
+}

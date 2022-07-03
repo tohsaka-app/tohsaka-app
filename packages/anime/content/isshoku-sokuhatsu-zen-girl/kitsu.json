@@ -1,0 +1,25 @@
+{
+  "slug": "isshoku-sokuhatsu-zen-girl",
+  "synopsis": "\"Song of an enlightened girl.\"",
+  "title": {
+    "en": "Simmering ZEN Girl",
+    "jp": "Isshoku Sokuhatsu☆Zen Girl"
+  },
+  "releasedAt": "2013-07-12T00:00:00.000Z",
+  "finishedAt": "2013-07-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44674/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44674/original.jpg",
+  "categories": [
+    "music",
+    "psychological"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=xEhKWS53RfY"
+  ],
+  "relations": {
+    "kitsu": "44674"
+  }
+}

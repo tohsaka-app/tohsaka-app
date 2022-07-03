@@ -1,0 +1,20 @@
+{
+  "slug": "shingeki-no-kyotou",
+  "synopsis": "",
+  "title": {
+    "jp": "Shingeki no Kyotou"
+  },
+  "releasedAt": "2017-04-10T00:00:00.000Z",
+  "finishedAt": "2017-04-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41538/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41538",
+    "anilist/anime": "110640",
+    "myanimelist/anime": "35122"
+  }
+}

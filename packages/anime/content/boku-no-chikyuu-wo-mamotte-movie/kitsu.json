@@ -1,0 +1,26 @@
+{
+  "slug": "boku-no-chikyuu-wo-mamotte-movie",
+  "synopsis": "Please Save My Earth Movie: From Alice to Rin-kun is a two-hour movie narrated by Alice, reminiscing on the events of the OVA as she is on her way to meet with Rin in a park. The \"present day\" scenes of Alice and Rin from the movie add scenes that were not present in the manga.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Please Save My Earth Movie: From Alice to Rin-kun",
+    "jp": "Boku no Chikyuu wo Mamotte: Alice kara, Rin-kun e"
+  },
+  "releasedAt": "1995-02-01T00:00:00.000Z",
+  "finishedAt": "1995-02-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4952/original.jpg",
+  "categories": [
+    "drama",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4952",
+    "anilist/anime": "7366",
+    "aozora": "ZFAAcDyicn",
+    "myanimelist/anime": "7366"
+  }
+}

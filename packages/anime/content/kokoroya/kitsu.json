@@ -1,0 +1,25 @@
+{
+  "slug": "kokoroya",
+  "synopsis": "An educational film about empathy in Japan. In the movie's example, uses a sci-fi twist to show how the hearts of others to the main character in certain situations.",
+  "title": {
+    "jp": "Kokoroya"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9892/original.jpg",
+  "categories": [
+    "kids",
+    "psychological",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9892",
+    "anilist/anime": "121965",
+    "aozora": "q2Hij7VpzZ",
+    "myanimelist/anime": "26117"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "rahxephon-specials",
+  "synopsis": "DVD Specials for the series RahXephon.\n1. Memories (Episode 9.5)\n2. Ichiko Hashimoto - The Fate of Katun",
+  "title": {
+    "jp": "RahXephon Specials"
+  },
+  "releasedAt": "2003-08-19T00:00:00.000Z",
+  "finishedAt": "2004-02-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4035/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "mecha",
+    "music",
+    "mystery",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4035",
+    "anilist/anime": "5288",
+    "aozora": "kScvMNErn5",
+    "myanimelist/anime": "5288"
+  }
+}

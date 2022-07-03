@@ -1,0 +1,25 @@
+{
+  "slug": "kawaiku-naritai",
+  "synopsis": "Music video animated by Mogelatte for the song Kawaiiku Naritai by HoneyWorks and Sena Narumi featuring sana.",
+  "title": {
+    "jp": "Kawaiku Naritai"
+  },
+  "releasedAt": "2017-01-17T00:00:00.000Z",
+  "finishedAt": "2017-01-17T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44846/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44846/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=AkRPlTrf3d8"
+  ],
+  "relations": {
+    "kitsu": "44846",
+    "anilist/anime": "121507",
+    "myanimelist/anime": "38852"
+  }
+}

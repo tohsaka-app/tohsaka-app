@@ -1,0 +1,26 @@
+{
+  "slug": "wish-me-mell",
+  "synopsis": "The characters in Sanrio's Wish me mell line star in three short specials.",
+  "title": {
+    "jp": "Wish Me Mell"
+  },
+  "releasedAt": "2011-06-05T00:00:00.000Z",
+  "finishedAt": "2012-07-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6601/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6601",
+    "anidb": "8763",
+    "anilist/anime": "11789",
+    "aozora": "fffiSPIXGQ",
+    "myanimelist/anime": "11789"
+  }
+}

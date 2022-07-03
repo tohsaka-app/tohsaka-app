@@ -1,0 +1,25 @@
+{
+  "slug": "little-twins-bokura-no-natsu-ga-tondeiku",
+  "synopsis": "The length and quality suggests this movie was the fourth video installment, dumped on theaters as a promotional exercise for the tapes.\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "jp": "Little Twins: Bokura no Natsu ga Tondeiku"
+  },
+  "releasedAt": "1992-08-08T00:00:00.000Z",
+  "finishedAt": "1992-08-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9990/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9990",
+    "anidb": "5063",
+    "anilist/anime": "132343",
+    "aozora": "hAXVzQVrNs",
+    "myanimelist/anime": "28099"
+  }
+}

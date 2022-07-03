@@ -1,0 +1,24 @@
+{
+  "slug": "yume-utsutsu",
+  "synopsis": "Is the path I am walking on now part of a dream or reality? This is the first animation film that is largely motionless.\n(Source: Official website)",
+  "title": {
+    "en": "Be Vague",
+    "jp": "Yume Utsutsu"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10724/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10724",
+    "anilist/anime": "102489",
+    "aozora": "luA4BYxiBl",
+    "myanimelist/anime": "30213"
+  }
+}

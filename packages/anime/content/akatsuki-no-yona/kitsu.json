@@ -1,0 +1,44 @@
+{
+  "slug": "akatsuki-no-yona",
+  "synopsis": "Upon her sixteenth birthday, the cheerful Princess Yona intended to tell her doting father of her love for Su-Won, but her life was turned upside down after witnessing him cruelly assassinating her father. Heartbroken by this painful betrayal, Princess Yona fled the palace with her loyal servant Hak. Now, she will go on a quest to gain new allies and protect her beloved people.\n\n(Source: FUNimation)",
+  "title": {
+    "en": "Yona of the Dawn",
+    "jp": "Akatsuki no Yona"
+  },
+  "releasedAt": "2014-10-07T00:00:00.000Z",
+  "finishedAt": "2015-03-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8648/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8648/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "bishounen",
+    "comedy",
+    "dragon",
+    "fantasy",
+    "friendship",
+    "plot continuity",
+    "romance",
+    "shoujo",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/yona-of-the-dawn",
+    "http://www.funimation.com/shows/95124",
+    "http://www.hulu.com/yona-of-the-dawn"
+  ],
+  "relations": {
+    "kitsu": "8648",
+    "anidb": "10725",
+    "anilist/anime": "20770",
+    "aozora": "lmvuLTuDYI",
+    "hulu": "50018666",
+    "myanimelist/anime": "25013",
+    "thetvdb": "283942/1",
+    "thetvdb/series": "283942",
+    "trakt": "79279"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "kono-sora-no-shita-de",
+  "synopsis": "An educational film about social town development in Japan.",
+  "title": {
+    "jp": "Kono Sora no Shita de"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9401/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9401",
+    "anidb": "10097",
+    "anilist/anime": "121653",
+    "aozora": "t8gQucAqKg",
+    "myanimelist/anime": "26095"
+  }
+}

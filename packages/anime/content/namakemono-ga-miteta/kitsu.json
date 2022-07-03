@@ -1,0 +1,25 @@
+{
+  "slug": "namakemono-ga-miteta",
+  "synopsis": "Based off a manga by Murakami Takashi that was serialized in Weekly Young Jump.\n(Source: AniDB)",
+  "title": {
+    "jp": "Namakemono ga Miteta"
+  },
+  "releasedAt": "1988-09-23T00:00:00.000Z",
+  "finishedAt": "1989-07-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9474/original.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9474",
+    "anidb": "5867",
+    "anilist/anime": "19817",
+    "aozora": "U4mUap20mu",
+    "myanimelist/anime": "19817"
+  }
+}

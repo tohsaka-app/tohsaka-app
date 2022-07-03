@@ -1,0 +1,25 @@
+{
+  "slug": "sore-ike-anpanman-anpanman-to-christmas-no-hoshi",
+  "synopsis": "A special Christmas episode. ",
+  "title": {
+    "jp": "Sore Ike! Anpanman: Anpanman to Christmas no Hoshi"
+  },
+  "releasedAt": "2004-12-24T00:00:00.000Z",
+  "finishedAt": "2004-12-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7562/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7562",
+    "anilist/anime": "16988",
+    "aozora": "n5weba9tgZ",
+    "myanimelist/anime": "16988"
+  }
+}

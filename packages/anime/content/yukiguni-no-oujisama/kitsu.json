@@ -1,0 +1,25 @@
+{
+  "slug": "yukiguni-no-oujisama",
+  "synopsis": "Koichi and his sister Yuki befriend Hanaguro, a swan who has flown to Japan from Siberia. Hanaguro is attacked by a dog, and the cowardly Koichi flees, but that night he has a dream in which he is whisked away to the Kingdom of Snow Prince, where he finds the bravery to help the other swans.\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "en": "The Snow Country Prince",
+    "jp": "Yukiguni no Oujisama"
+  },
+  "releasedAt": "1985-12-21T00:00:00.000Z",
+  "finishedAt": "1985-12-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9709/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9709",
+    "anidb": "9063",
+    "anilist/anime": "121057",
+    "aozora": "A6uCIFzBmf",
+    "myanimelist/anime": "23345"
+  }
+}

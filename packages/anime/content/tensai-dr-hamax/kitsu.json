@@ -1,0 +1,24 @@
+{
+  "slug": "tensai-dr-hamax",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Tensai? Dr. Hamax"
+  },
+  "releasedAt": "2007-10-06T00:00:00.000Z",
+  "finishedAt": "2007-12-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2654/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2654",
+    "anidb": "7449",
+    "anilist/anime": "2930",
+    "aozora": "ZeFM6pDSvl",
+    "myanimelist/anime": "2930"
+  }
+}

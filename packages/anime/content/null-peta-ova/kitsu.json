@@ -1,0 +1,23 @@
+{
+  "slug": "null-peta-ova",
+  "synopsis": "Announced to be bundled with the Steam game released December 20th, 2019",
+  "title": {
+    "jp": "Null Peta OVA"
+  },
+  "releasedAt": "2019-12-20T00:00:00.000Z",
+  "finishedAt": "2019-12-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42702/original.jpg",
+  "categories": [
+    "comedy",
+    "loli",
+    "robot helper",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42702"
+  }
+}

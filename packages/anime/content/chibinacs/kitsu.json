@@ -1,0 +1,22 @@
+{
+  "slug": "chibinacs",
+  "synopsis": "TEAM NACS (also known as Team Canucks) are a surreal comedy troupe from Hokkaido who star in this short series. \n(Source: The Anime Encyclopedia)",
+  "title": {
+    "jp": "Chibinacs"
+  },
+  "releasedAt": "2006-04-13T00:00:00.000Z",
+  "finishedAt": "2006-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11703/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11703",
+    "aozora": "07yNwt0GLU",
+    "myanimelist/anime": "32417"
+  }
+}

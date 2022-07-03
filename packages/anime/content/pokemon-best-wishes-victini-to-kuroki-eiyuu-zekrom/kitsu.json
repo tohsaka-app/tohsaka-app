@@ -1,0 +1,33 @@
+{
+  "slug": "pokemon-best-wishes-victini-to-kuroki-eiyuu-zekrom",
+  "synopsis": "One of the two Pokemon Best Wishes movies that will premiere simultaneously on July 16th. The two titles are:\nPokemon Best Wishes! the Movie: Victini to Kuroki Eiyuu Zekrom\nPokemon Best Wishes! the Movie: Victini to Shiroki Eiyuu Reshiram\nThe stories of the two movies will be the same until Satoshi and Pikachu meet Victini but the legendary Pokemon will be either Zekrom or Reshiram.",
+  "title": {
+    "en": "Pokemon the Movie: White - Victini and Zekrom",
+    "jp": "Pokemon Best Wishes!: Victini to Kuroki Eiyuu Zekrom"
+  },
+  "releasedAt": "2011-07-16T00:00:00.000Z",
+  "finishedAt": "2011-07-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5939/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [
+    "https://www.hulu.com/movie/pokemon-the-movie-white-victini-and-zekrom-65851e63-5d9c-42fd-93f8-0844e882c29e"
+  ],
+  "relations": {
+    "kitsu": "5939",
+    "anidb": "8012",
+    "anilist/anime": "9917",
+    "aozora": "8g5rOsawbR",
+    "myanimelist/anime": "9917"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "hyakka-ryouran-samurai-bride-specials",
+  "synopsis": "Specials included on DVDs and Blu-rays.",
+  "title": {
+    "jp": "Hyakka Ryouran: Samurai Bride Specials"
+  },
+  "releasedAt": "2013-06-26T00:00:00.000Z",
+  "finishedAt": "2013-11-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7917/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7917",
+    "anilist/anime": "19255",
+    "aozora": "FQmAUHwtHy",
+    "myanimelist/anime": "19255"
+  }
+}

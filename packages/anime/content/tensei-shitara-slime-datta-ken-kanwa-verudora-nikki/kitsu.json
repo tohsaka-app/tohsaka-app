@@ -1,0 +1,29 @@
+{
+  "slug": "tensei-shitara-slime-datta-ken-kanwa-verudora-nikki",
+  "synopsis": "Ifrit, who has been trapped in Rimuru due to the latter's Predator skill, recaps events of the season while in a discussion with Veldora as they play Shogi.",
+  "title": {
+    "en": "That Time I Got Reincarnated as a Slime - Veldora's Journal",
+    "jp": "Tensei shitara Slime Datta Ken - Kanwa: Verudora Nikki"
+  },
+  "releasedAt": "2019-03-26T00:00:00.000Z",
+  "finishedAt": "2019-03-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42212/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42212/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "isekai",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime/episode-245-veldoras-journal-780742",
+    "https://www.funimation.com/shows/that-time-i-got-reincarnated-as-a-slime/"
+  ],
+  "relations": {
+    "kitsu": "42212",
+    "myanimelist/anime": "39607"
+  }
+}

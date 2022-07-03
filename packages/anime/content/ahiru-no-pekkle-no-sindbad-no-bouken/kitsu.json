@@ -1,0 +1,27 @@
+{
+  "slug": "ahiru-no-pekkle-no-sindbad-no-bouken",
+  "synopsis": "Pekkle re-creates the Adventures of Sinbad.",
+  "title": {
+    "en": "Pekkle in the Adventures of Sinbad",
+    "jp": "Ahiru no Pekkle no Sindbad no Bouken"
+  },
+  "releasedAt": "1993-10-21T00:00:00.000Z",
+  "finishedAt": "1993-10-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8820/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8820",
+    "anidb": "7808",
+    "aozora": "KzwfemjUsH",
+    "myanimelist/anime": "22603"
+  }
+}

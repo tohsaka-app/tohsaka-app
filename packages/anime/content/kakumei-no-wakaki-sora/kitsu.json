@@ -1,0 +1,24 @@
+{
+  "slug": "kakumei-no-wakaki-sora",
+  "synopsis": "The life of the French poet André Marie Chénier during the period of radical social and political upheaval in France.",
+  "title": {
+    "jp": "Kakumei no Wakaki Sora"
+  },
+  "releasedAt": "2010-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9361/original.jpg",
+  "categories": [
+    "drama",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9361",
+    "anidb": "9066",
+    "aozora": "tm7PabBYnA",
+    "myanimelist/anime": "23711"
+  }
+}

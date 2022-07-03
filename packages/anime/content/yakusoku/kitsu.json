@@ -1,0 +1,26 @@
+{
+  "slug": "yakusoku",
+  "synopsis": "A short animation by Tekken.",
+  "title": {
+    "en": "",
+    "jp": "Yakusoku (ONA)"
+  },
+  "releasedAt": "2013-08-13T00:00:00.000Z",
+  "finishedAt": "2013-08-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8232/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8232",
+    "anidb": "10211",
+    "anilist/anime": "98133",
+    "aozora": "W8Uw8f29Sk",
+    "myanimelist/anime": "21065"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "balloon",
+  "synopsis": "Music Video to 'Balloon' by People in the Box, animated by Ryu Kato.",
+  "title": {
+    "jp": "Kikyuu"
+  },
+  "releasedAt": "2013-09-25T00:00:00.000Z",
+  "finishedAt": "2013-09-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10357/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10357",
+    "anidb": "11419",
+    "anilist/anime": "103770",
+    "aozora": "a7JXAC9g1e",
+    "myanimelist/anime": "29770"
+  }
+}

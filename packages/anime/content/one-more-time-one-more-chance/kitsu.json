@@ -1,0 +1,24 @@
+{
+  "slug": "one-more-time-one-more-chance",
+  "synopsis": "Music video for the ending song of Byousoku 5 Centimeter sung by Japanese singer Masayoshi Yamazaki. ",
+  "title": {
+    "jp": "One More Time, One More Chance"
+  },
+  "releasedAt": "2007-07-19T00:00:00.000Z",
+  "finishedAt": "2007-07-19T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8771/original.png",
+  "categories": [
+    "drama",
+    "music",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8771",
+    "aozora": "NdZlZGp0Rt"
+  }
+}

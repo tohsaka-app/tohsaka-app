@@ -1,0 +1,23 @@
+{
+  "slug": "ame-to-kusari",
+  "synopsis": "\"Ame to Kusari\" is an original Japanese song by otetsu featuring Megurine Luka.",
+  "title": {
+    "en": "Candy and Chains",
+    "jp": "Ame to Kusari"
+  },
+  "releasedAt": "2015-08-05T00:00:00.000Z",
+  "finishedAt": "2015-08-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45614/poster_image/498fb041b6479978f02597c08d962469.jpeg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=6j8mQXkpdmg"
+  ],
+  "relations": {
+    "kitsu": "45614"
+  }
+}

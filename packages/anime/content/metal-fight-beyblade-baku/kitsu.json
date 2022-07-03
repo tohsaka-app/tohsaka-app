@@ -1,0 +1,35 @@
+{
+  "slug": "metal-fight-beyblade-baku",
+  "synopsis": "Ginga Hagane and his crew of Bladers are back and ready to take on new challenges. The World Championship beckons, and Ginga is more than prepared, now equipped with a new Beyblade, the Galaxy Pegasus W105R2F. And he will be battling with a tag-partner from the USA, Masamune Kadoya. However, Masamune has also set his eyes on the championship, and plans to defeat Gingka.\nMasamune may be not the only threat to Ginga's path to victory. The world's top Blader Kyoya was chosen alongside Ginga, Masamune, Tsubasa, and Yu to represent Japan, but instead decides to join the African team. Together with his teammate Benkei, he wishes to take down Ginga and the Japanese team. The stage is now set for one of the most dramatic showdowns in Metal Fight Beyblade: Baku.",
+  "title": {
+    "en": "Beyblade: Metal Masters",
+    "jp": "Metal Fight Beyblade: Baku"
+  },
+  "releasedAt": "2010-04-04T00:00:00.000Z",
+  "finishedAt": "2011-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5326/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "friendship",
+    "proxy battles",
+    "sports"
+  ],
+  "externals": [
+    "http://www.hulu.com/beyblade-metal-masters"
+  ],
+  "relations": {
+    "kitsu": "5326",
+    "anidb": "7426",
+    "anilist/anime": "8410",
+    "aozora": "ZPaNaI6Ot4",
+    "myanimelist/anime": "8410",
+    "thetvdb": "70799/5",
+    "thetvdb/season": "471511",
+    "thetvdb/series": "70799",
+    "trakt": "62163"
+  }
+}

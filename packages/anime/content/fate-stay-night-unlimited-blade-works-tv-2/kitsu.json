@@ -1,0 +1,38 @@
+{
+  "slug": "fate-stay-night-unlimited-blade-works-tv-2",
+  "synopsis": "The Holy Grail war continues to rage on without a dejected Shiro Emiya, who has lost his means to participate and his ability to heal. Meanwhile, Rin Tohsaka has dissolved their partnership and, along with Archer, continues to battle the growing power of Caster who has stolen Saber from Shiro. However, Caster is not the only player in this dangerous game Rin must worry about. Shiro finds himself unable to just sit this one out with all that is at stake, even if it's suicidal for him to continue.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Fate/stay night: Unlimited Blade Works 2nd Season"
+  },
+  "releasedAt": "2015-04-05T00:00:00.000Z",
+  "finishedAt": "2015-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10052/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10052/original.jpg",
+  "categories": [
+    "action",
+    "battle royale",
+    "contemporary fantasy",
+    "fantasy",
+    "magic",
+    "plot continuity",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/fatestay-night",
+    "https://www.hulu.com/fatestay-night-unlimited-blade-works",
+    "https://www.netflix.com/title/80040330"
+  ],
+  "relations": {
+    "kitsu": "10052",
+    "anidb": "10760",
+    "anilist/anime": "20792",
+    "aozora": "HEsm9Wbgcy",
+    "myanimelist/anime": "28701",
+    "thetvdb": "278626",
+    "trakt": "60893"
+  }
+}

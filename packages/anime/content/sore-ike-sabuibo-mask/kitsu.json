@@ -1,0 +1,25 @@
+{
+  "slug": "sore-ike-sabuibo-mask",
+  "synopsis": "The story features the Sabuibo Mask live-action film's main character, Sabuibo Mask, attempting to solve various problems in his rural town.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Sore Ike! Sabuibo Mask"
+  },
+  "releasedAt": "2016-05-06T00:00:00.000Z",
+  "finishedAt": "2016-06-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12180/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12180",
+    "anidb": "12083",
+    "anilist/anime": "21781",
+    "aozora": "4sKQscIHT8",
+    "myanimelist/anime": "33188"
+  }
+}

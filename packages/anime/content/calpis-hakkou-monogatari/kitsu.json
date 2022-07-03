@@ -1,0 +1,20 @@
+{
+  "slug": "calpis-hakkou-monogatari",
+  "synopsis": "",
+  "title": {
+    "jp": "\"Calpis\" Hakkou Monogatari"
+  },
+  "releasedAt": "2018-04-20T00:00:00.000Z",
+  "finishedAt": "2018-04-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41893/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41893",
+    "anilist/anime": "138257",
+    "myanimelist/anime": "38045"
+  }
+}

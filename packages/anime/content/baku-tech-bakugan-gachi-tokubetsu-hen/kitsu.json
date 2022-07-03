@@ -1,0 +1,23 @@
+{
+  "slug": "baku-tech-bakugan-gachi-tokubetsu-hen",
+  "synopsis": "A web exclusive sequel episode shown on the official Bakugan youtube channel where the Invaders are the last boss.",
+  "title": {
+    "jp": "Baku Tech! Bakugan Gachi Special"
+  },
+  "releasedAt": "2014-02-05T00:00:00.000Z",
+  "finishedAt": "2014-02-05T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12689/original.jpg",
+  "categories": [
+    "action",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12689",
+    "aozora": "25ZtSWFAtF",
+    "myanimelist/anime": "33708"
+  }
+}

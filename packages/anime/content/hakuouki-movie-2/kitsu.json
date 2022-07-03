@@ -1,0 +1,32 @@
+{
+  "slug": "hakuouki-movie-2",
+  "synopsis": "Second part of two Hakuouki movies.",
+  "title": {
+    "en": "Hakuoki ~Demon of the Fleeting Blossom~ Warrior Spirit of the Blue Sky",
+    "jp": "Hakuouki Movie 2: Shikon Soukyuu"
+  },
+  "releasedAt": "2014-03-08T00:00:00.000Z",
+  "finishedAt": "2014-03-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6886/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6886/original.png",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "historical",
+    "josei",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6886",
+    "anilist/anime": "13119",
+    "aozora": "rSucSxXjZE",
+    "myanimelist/anime": "13119",
+    "thetvdb": "151281",
+    "trakt": "44073"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "chobits",
+  "synopsis": "When computers start to look like humans, can love remain the same?\nHideki Motosuwa is a young country boy who is studying hard to get into college. Coming from a poor background, he can barely afford the expenses, let alone the newest fad: Persocoms, personal computers that look exactly like human beings. One evening while walking home, he finds an abandoned Persocom. After taking her home and managing to activate her, she seems to be defective, as she can only say one word, \"Chii,\" which eventually becomes her name. Unlike other Persocoms, however, Chii cannot download information onto her hard drive, so Hideki decides to teach her about the world the old-fashioned way, while studying for his college entrance exams at the same time.\nAlong with his friends, Hideki tries to unravel the mystery of Chii, who may be a \"Chobit,\" an urban legend about special units that have real human emotions and thoughts, and love toward their owner. But can romance flourish between a Persocom and a human? \n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Chobits",
+    "jp": "Chobits"
+  },
+  "releasedAt": "2002-04-03T00:00:00.000Z",
+  "finishedAt": "2002-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/40/original.jpg",
+  "categories": [
+    "android",
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "japan",
+    "plot continuity",
+    "romance",
+    "science fiction",
+    "slapstick"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/chobits/videos/episodes",
+    "http://www.hulu.com/chobits"
+  ],
+  "relations": {
+    "kitsu": "40",
+    "anidb": "12",
+    "anilist/anime": "59",
+    "aozora": "6aXRFC3Ddf",
+    "hulu": "50003326",
+    "myanimelist/anime": "59",
+    "thetvdb": "72070/1",
+    "thetvdb/series": "72070",
+    "trakt": "37369"
+  }
+}

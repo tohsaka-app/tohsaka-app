@@ -1,0 +1,23 @@
+{
+  "slug": "oishi-sa-hajikeru-one-piece",
+  "synopsis": "A collaboration between Fanta and One Piece. The first episode features Luffy and Chopper rapping with Fanta Grape and Fanta Orange respectively in hand.",
+  "title": {
+    "jp": "Oishi-sa Hajikeru! One Piece"
+  },
+  "releasedAt": "2016-09-11T00:00:00.000Z",
+  "finishedAt": "2016-09-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13119/original.jpg",
+  "categories": [
+    "music",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13119",
+    "anilist/anime": "130245",
+    "myanimelist/anime": "34165"
+  }
+}

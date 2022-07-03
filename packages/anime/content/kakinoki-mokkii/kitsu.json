@@ -1,0 +1,24 @@
+{
+  "slug": "kakinoki-mokkii",
+  "synopsis": "A persimmon tree wants to grow more fruit and a crow wants to get over his fear of flying. They end up working together to achieve what the both want.",
+  "title": {
+    "jp": "Kakinoki Mokkii"
+  },
+  "releasedAt": "2008-06-30T00:00:00.000Z",
+  "finishedAt": "2008-06-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10231/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10231",
+    "anilist/anime": "98962",
+    "aozora": "PlURNB0x4f",
+    "myanimelist/anime": "29481"
+  }
+}

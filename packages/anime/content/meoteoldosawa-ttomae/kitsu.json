@@ -1,0 +1,26 @@
+{
+  "slug": "meoteoldosawa-ttomae",
+  "synopsis": "The second Taoist Mutul movie.",
+  "title": {
+    "jp": "Meoteoldosawa Ttomae"
+  },
+  "releasedAt": "1990-12-25T00:00:00.000Z",
+  "finishedAt": "1990-12-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9757/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9757",
+    "anilist/anime": "18329",
+    "aozora": "xTM2XHoziL",
+    "myanimelist/anime": "18329"
+  }
+}

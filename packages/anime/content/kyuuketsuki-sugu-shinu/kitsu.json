@@ -1,0 +1,29 @@
+{
+  "slug": "kyuuketsuki-sugu-shinu",
+  "synopsis": "Legendary vampire hunter Ronaldo finds an unlikely (and unwilling) ally in Draluc, the world’s weakest vampire who turns to dust at the slightest attack. Together they’re in for more hilarious misadventures than you can shake a stake at, including enemy vampires, axe-wielding editors, and other pains in the neck.\n\n(Source: Funimation)",
+  "title": {
+    "en": "The Vampire Dies in No Time",
+    "jp": "Kyuuketsuki Sugu Shinu"
+  },
+  "releasedAt": "2021-10-04T00:00:00.000Z",
+  "finishedAt": "2021-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44637/poster_image/cd1c8d36673c6d28e447541b7ba17c18.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44637/original.png",
+  "categories": [
+    "comedy",
+    "shounen",
+    "supernatural",
+    "vampire"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/the-vampire-dies-in-no-time/"
+  ],
+  "relations": {
+    "kitsu": "44637",
+    "anilist/anime": "118103",
+    "myanimelist/anime": "41833"
+  }
+}

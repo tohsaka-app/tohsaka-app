@@ -1,0 +1,24 @@
+{
+  "slug": "tenki-no-ko-cms",
+  "synopsis": "Tenki no Ko received an assortment of collaboration commercials with original footage. So far: Suntory the beverage company, SoftBank the technology conglomerate, and Baitoru the job search company have participated.\n",
+  "title": {
+    "jp": "Tenki no Ko CMs"
+  },
+  "releasedAt": "2019-06-30T00:00:00.000Z",
+  "finishedAt": "2019-06-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42440/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42440/original.jpg",
+  "categories": [
+    "music",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42440",
+    "myanimelist/anime": "40034"
+  }
+}

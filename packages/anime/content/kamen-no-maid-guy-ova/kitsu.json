@@ -1,0 +1,25 @@
+{
+  "slug": "kamen-no-maid-guy-ova",
+  "synopsis": "An unreleased episode containing scenes that could not be aired due to \"ethical regulations.\"",
+  "title": {
+    "jp": "Kamen no Maid Guy OVA"
+  },
+  "releasedAt": "2008-12-22T00:00:00.000Z",
+  "finishedAt": "2008-12-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3903/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3903",
+    "anilist/anime": "5045",
+    "aozora": "VXSbyiyWgI",
+    "myanimelist/anime": "5045"
+  }
+}

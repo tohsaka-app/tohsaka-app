@@ -1,0 +1,41 @@
+{
+  "slug": "gin-no-saji",
+  "synopsis": "Hachiken Yuugo enrolled in Oezo Agricultural High School for the reason that he could live in a dorm there. In some ways he chose Oezo in an effort to escape the highly competitive prep schools he had attended previously, but he was faced with an entirely new set of difficulties at Oezo, surrounded by animals and Mother Nature. After growing up in an average family, he began to encounter clubs and training the likes of which he had never seen before.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Silver Spoon",
+    "jp": "Gin no Saji"
+  },
+  "releasedAt": "2013-07-12T00:00:00.000Z",
+  "finishedAt": "2013-09-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7553/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7553/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "coming of age",
+    "earth",
+    "japan",
+    "plot continuity",
+    "present",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/silver-spoon",
+    "https://www.netflix.com/title/80041161"
+  ],
+  "relations": {
+    "kitsu": "7553",
+    "anidb": "9606",
+    "anilist/anime": "16918",
+    "aozora": "hqHYKjkgeE",
+    "myanimelist/anime": "16918",
+    "thetvdb": "267246/1",
+    "thetvdb/season": "513576",
+    "thetvdb/series": "267246",
+    "trakt": "70750"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "cofun-gal-no-coffy-tv-christmas-daisakusen",
+  "synopsis": "A DVD special of Cofun Gal no Coffy (TV) for the Limited Edition Box Set only, chronologically it is episode 10.",
+  "title": {
+    "jp": "Cofun Gal no Coffy (TV): Christmas Daisakusen"
+  },
+  "releasedAt": "2007-10-11T00:00:00.000Z",
+  "finishedAt": "2007-10-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13194/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13194",
+    "myanimelist/anime": "34355"
+  }
+}

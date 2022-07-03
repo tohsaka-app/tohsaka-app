@@ -1,0 +1,25 @@
+{
+  "slug": "honkai-impact-3rd-thus-spoke-apocalypse",
+  "synopsis": "How many crimes must he commit to save her from the depths of hell? How far must he go to find himself at the end of time?",
+  "title": {
+    "en": "Honkai Impact 3rd: Thus Spoke Apocalypse"
+  },
+  "releasedAt": "2022-01-21T00:00:00.000Z",
+  "finishedAt": "2022-01-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46118/poster_image/0aafeca582c8b8d576dd7a776f551de4.png",
+  "coverUrl": "https://media.kitsu.io/anime/46118/cover_image/8df9e46c3f30d5a0086ddaba0d4c2040.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=lsjQy6OeS54"
+  ],
+  "relations": {
+    "kitsu": "46118",
+    "anilist/anime": "144292"
+  }
+}

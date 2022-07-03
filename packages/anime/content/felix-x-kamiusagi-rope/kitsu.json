@@ -1,0 +1,23 @@
+{
+  "slug": "felix-x-kamiusagi-rope",
+  "synopsis": "A collaboration with Felix, a Nestlé Purina brand cat food treat and the Kamiusagi Rope anime. \n\n(Source: MAL)",
+  "title": {
+    "jp": "Felix x Kamiusagi Rope"
+  },
+  "releasedAt": "2017-09-03T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14253/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14253/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14253",
+    "myanimelist/anime": "36724"
+  }
+}

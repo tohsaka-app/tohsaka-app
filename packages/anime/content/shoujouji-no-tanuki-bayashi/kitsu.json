@@ -1,0 +1,25 @@
+{
+  "slug": "shoujouji-no-tanuki-bayashi",
+  "synopsis": "Short movie.",
+  "title": {
+    "en": "Belly Drum Dance at Shojoji Temple",
+    "jp": "Shoujouji no Tanuki-bayashi"
+  },
+  "releasedAt": "1933-01-01T00:00:00.000Z",
+  "finishedAt": "1933-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4858/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4858",
+    "anidb": "6744",
+    "anilist/anime": "7071",
+    "aozora": "ibSiIOVtc6",
+    "myanimelist/anime": "7071"
+  }
+}

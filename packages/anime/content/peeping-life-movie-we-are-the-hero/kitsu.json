@@ -1,0 +1,24 @@
+{
+  "slug": "peeping-life-movie-we-are-the-hero",
+  "synopsis": "Movie of Peeping Life.",
+  "title": {
+    "jp": "Peeping Life Movie: We Are The Hero"
+  },
+  "releasedAt": "2014-11-15T00:00:00.000Z",
+  "finishedAt": "2014-11-15T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9147/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9147",
+    "anidb": "10825",
+    "aozora": "JGfqRd3nIm",
+    "myanimelist/anime": "27399"
+  }
+}

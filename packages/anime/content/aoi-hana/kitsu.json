@@ -1,0 +1,40 @@
+{
+  "slug": "aoi-hana",
+  "synopsis": "Fumi and Akira were close childhood friends until Fumi had to move away. Ten years after losing touch with each other, the two girls meet again as high school freshmen. The two struggle to reconnect after so much has changed, and both deal with the trials and tribulations of high school — sometimes independently and sometimes with each other’s help.\n\n(Source: ANN, edited)",
+  "title": {
+    "en": "Sweet Blue Flowers",
+    "jp": "Aoi Hana"
+  },
+  "releasedAt": "2009-07-02T00:00:00.000Z",
+  "finishedAt": "2009-09-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4454/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4454/original.jpg",
+  "categories": [
+    "all girls school",
+    "coming of age",
+    "high school",
+    "japan",
+    "present",
+    "romance",
+    "school life",
+    "shoujo ai",
+    "slice of life"
+  ],
+  "externals": [
+    "http://tubitv.com/series/1032",
+    "http://www.crunchyroll.com/sweet-blue-flowers"
+  ],
+  "relations": {
+    "kitsu": "4454",
+    "anidb": "6443",
+    "anilist/anime": "6164",
+    "aozora": "OLPEOcy0fO",
+    "myanimelist/anime": "6164",
+    "thetvdb": "102011/1",
+    "thetvdb/series": "102011",
+    "trakt": "34689"
+  }
+}

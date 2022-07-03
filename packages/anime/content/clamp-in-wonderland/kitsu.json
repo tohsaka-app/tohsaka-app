@@ -1,0 +1,25 @@
+{
+  "slug": "clamp-in-wonderland",
+  "synopsis": "A short video set to music featuring many of CLAMP's most popular anime and manga characters (at the time of its production). The accompanying song tells of a Wonderland filled with imagination, magic, and dreams.\n(Source: ANN)",
+  "title": {
+    "jp": "CLAMP in Wonderland"
+  },
+  "releasedAt": "1994-11-21T00:00:00.000Z",
+  "finishedAt": "1994-11-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2059/original.jpg",
+  "categories": [
+    "magic",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2059",
+    "anidb": "1550",
+    "anilist/anime": "2274",
+    "aozora": "Z4ZWNcV5yV",
+    "myanimelist/anime": "2274"
+  }
+}

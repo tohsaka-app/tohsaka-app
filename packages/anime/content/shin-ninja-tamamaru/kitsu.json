@@ -1,0 +1,19 @@
+{
+  "slug": "shin-ninja-tamamaru",
+  "synopsis": "",
+  "title": {
+    "jp": "Shin Ninja Tamamaru"
+  },
+  "releasedAt": "2008-12-27T00:00:00.000Z",
+  "finishedAt": "2009-12-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41535/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41535",
+    "myanimelist/anime": "35107"
+  }
+}

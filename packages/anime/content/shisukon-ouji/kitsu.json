@@ -1,0 +1,24 @@
+{
+  "slug": "shisukon-ouji",
+  "synopsis": "Based on a manga by Fujiko (A) Fujio and Fujiko (F) Fujio.",
+  "title": {
+    "jp": "Shisukon Ouji"
+  },
+  "releasedAt": "1963-12-20T00:00:00.000Z",
+  "finishedAt": "1964-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9590/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9590",
+    "anidb": "2918",
+    "anilist/anime": "19981",
+    "aozora": "oQ5e3NS8va",
+    "myanimelist/anime": "19981"
+  }
+}

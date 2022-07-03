@@ -1,0 +1,26 @@
+{
+  "slug": "shaman-king-specials",
+  "synopsis": "Throughout the broadcast of Shaman King, many shorts (usually referred to as Shaman King omake and TV specials) were made on special days of the year related to spirits and the like. The omake were short stories that were made for humorous effect. Apparently, all of the omake fit into the story before the Shaman Fight 2nd round. Documents of the Shaman Fight was shown with a New Year's omake as well. The TV Specials were aired after specific points of the story as well as on holidays. The specials were never dubbed in English, and, most likely, never will be. \n(Source: Wikipedia)",
+  "title": {
+    "jp": "Shaman King Specials"
+  },
+  "releasedAt": "2000-01-31T00:00:00.000Z",
+  "finishedAt": "2004-02-12T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3306/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3306",
+    "anilist/anime": "3861",
+    "aozora": "kcDXjmGclc",
+    "myanimelist/anime": "3861"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "hetalia-the-world-twinkle",
+  "synopsis": "The sixth season of Hetalia.",
+  "title": {
+    "en": "Hetalia: The World Twinkle",
+    "jp": "Hetalia: The World Twinkle"
+  },
+  "releasedAt": "2015-07-03T00:00:00.000Z",
+  "finishedAt": "2015-10-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10057/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "parody"
+  ],
+  "externals": [
+    "http://www.hulu.com/hetalia-the-world-twinkle"
+  ],
+  "relations": {
+    "kitsu": "10057",
+    "anilist/anime": "20962",
+    "aozora": "gMWCWwagyr",
+    "hulu": "50022457",
+    "myanimelist/anime": "28607"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "zenmaiji-kake-no-truffe",
+  "synopsis": "Truffe is a clockwork spring bear who wishes that one day he may move himself.",
+  "title": {
+    "en": "A Clockwork Truffe",
+    "jp": "Zenmaiji-kake no Truffe"
+  },
+  "releasedAt": "2014-03-28T00:00:00.000Z",
+  "finishedAt": "2014-10-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12982/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12982",
+    "aozora": "zxwrMvBzOv",
+    "myanimelist/anime": "34651"
+  }
+}

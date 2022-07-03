@@ -1,0 +1,25 @@
+{
+  "slug": "soreike-anpanman-omocha-no-hoshi-no-nanda-to-runda",
+  "synopsis": "",
+  "title": {
+    "en": "Let's Go! Anpanman: Nanda and Runda of the Toy Star",
+    "jp": "Sore Ike! Anpanman: Omocha no Hoshi no Nanda to Runda"
+  },
+  "releasedAt": "2016-07-02T00:00:00.000Z",
+  "finishedAt": "2016-07-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11821/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11821",
+    "aozora": "udVMVZtzhn",
+    "myanimelist/anime": "32676"
+  }
+}

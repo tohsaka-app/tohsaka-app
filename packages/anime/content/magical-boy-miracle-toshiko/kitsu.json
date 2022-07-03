@@ -1,0 +1,23 @@
+{
+  "slug": "magical-boy-miracle-toshiko",
+  "synopsis": "",
+  "title": {
+    "en": "Magical Boy Miracle Toshiko",
+    "jp": "Mahou Shounen Miracle Toshiko"
+  },
+  "releasedAt": "2019-01-02T00:00:00.000Z",
+  "finishedAt": "2019-01-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43068/original.png",
+  "categories": [
+    "fantasy",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43068"
+  }
+}

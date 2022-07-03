@@ -1,0 +1,24 @@
+{
+  "slug": "30-pun-de-wakaru-koremade-no-lovelive-sunshine",
+  "synopsis": "Online recaps of Love Live Sunshine.",
+  "title": {
+    "jp": "30-pun de Wakaru! Kore made no Love Live! Sunshine!!"
+  },
+  "releasedAt": "2018-11-18T00:00:00.000Z",
+  "finishedAt": "2018-11-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42967/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42967",
+    "myanimelist/anime": "41188"
+  }
+}

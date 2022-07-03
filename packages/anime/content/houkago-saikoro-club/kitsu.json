@@ -1,0 +1,29 @@
+{
+  "slug": "houkago-saikoro-club",
+  "synopsis": "A story about girls playing board games after school!\n\nKyoto in Spring. Aya is a high school girl who's just moved to a new town. Miki is her shy classmate, and her first friend. One day after school Aya and Miki follow the committee president Midori to a speciality board games store. The Dice Club!! Without thinking they try out a German board game together.\n\nThese girls, who are searching for fun, soon fall into the exciting world of games!\n\n(Source: MyAnimeList)",
+  "title": {
+    "en": "After School Dice Club",
+    "jp": "Houkago Saikoro Club"
+  },
+  "releasedAt": "2019-10-03T00:00:00.000Z",
+  "finishedAt": "2019-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42345/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/after-school-dice-club/",
+    "https://www.hulu.com/after-school-dice-club"
+  ],
+  "relations": {
+    "kitsu": "42345",
+    "anidb": "14386",
+    "anilist/anime": "104115",
+    "myanimelist/anime": "38276"
+  }
+}

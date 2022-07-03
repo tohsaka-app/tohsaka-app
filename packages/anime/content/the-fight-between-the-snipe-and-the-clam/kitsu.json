@@ -1,0 +1,24 @@
+{
+  "slug": "the-fight-between-the-snipe-and-the-clam",
+  "synopsis": "Based on a story originally told by Su Dai in feudal China, a fisherman observes as a snipe and clam struggle over food.",
+  "title": {
+    "jp": "Yu Bang Xiang Zheng"
+  },
+  "releasedAt": "1984-02-01T00:00:00.000Z",
+  "finishedAt": "1984-02-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8239/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8239",
+    "anidb": "11710",
+    "anilist/anime": "101975",
+    "aozora": "bhLmLbu8NV",
+    "myanimelist/anime": "21081"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "kotonoha",
+  "synopsis": "Music video for Kotonoha by AZKi.",
+  "title": {
+    "jp": "Kotonoha"
+  },
+  "releasedAt": "2020-02-12T00:00:00.000Z",
+  "finishedAt": "2020-02-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43982/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43982"
+  }
+}

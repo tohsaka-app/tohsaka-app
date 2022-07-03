@@ -1,0 +1,26 @@
+{
+  "slug": "the-lord-of-the-rings-the-war-of-the-rohirrim",
+  "synopsis": "Prequel to the Lord of the Rings trilogy telling an \"untold story\" of Helms Deep.",
+  "title": {
+    "en": "The Lord of the Rings: The War of the Rohirrim"
+  },
+  "releasedAt": "2024-04-30T00:00:00.000Z",
+  "finishedAt": "2024-04-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44686/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44686/original.jpg",
+  "categories": [
+    "action",
+    "elf",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44686"
+  }
+}

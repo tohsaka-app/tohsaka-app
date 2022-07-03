@@ -1,0 +1,24 @@
+{
+  "slug": "sakura-iro-hi-tension",
+  "synopsis": "MV for Sakura Miko's song, Sakura-iro Hi-Tension.",
+  "title": {
+    "jp": "Sakura-iro Hi-Tension"
+  },
+  "releasedAt": "2020-12-23T00:00:00.000Z",
+  "finishedAt": "2020-12-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43836/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43836/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=HiLnCY9qjSo&ab_channel=MikoCh.%E3%81%95%E3%81%8F%E3%82%89%E3%81%BF%E3%81%93"
+  ],
+  "relations": {
+    "kitsu": "43836"
+  }
+}

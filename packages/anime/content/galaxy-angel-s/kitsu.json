@@ -1,0 +1,26 @@
+{
+  "slug": "galaxy-angel-s",
+  "synopsis": "Galaxy Angel 3 TV special that contains 2 stories.",
+  "title": {
+    "jp": "Galaxy Angel S"
+  },
+  "releasedAt": "2003-12-21T00:00:00.000Z",
+  "finishedAt": "2003-12-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6690/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/galaxy-angel"
+  ],
+  "relations": {
+    "kitsu": "6690",
+    "anilist/anime": "12225",
+    "aozora": "hvn7Rpohfc",
+    "myanimelist/anime": "12225"
+  }
+}

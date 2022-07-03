@@ -1,0 +1,25 @@
+{
+  "slug": "gokujo-souda-onsen-ni-ikou",
+  "synopsis": "Unaired ep.13 included on BD/DVD.",
+  "title": {
+    "jp": "Gokujo.: Souda Onsen ni Ikou!!"
+  },
+  "releasedAt": "2013-06-26T00:00:00.000Z",
+  "finishedAt": "2013-06-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8526/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "shoujo ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8526",
+    "anilist/anime": "19431",
+    "aozora": "MWclf0EYTS",
+    "myanimelist/anime": "19431"
+  }
+}

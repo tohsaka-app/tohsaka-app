@@ -1,0 +1,27 @@
+{
+  "slug": "boku-no-hero-academia-training-of-the-dead",
+  "synopsis": "OVA bundled with the 14th manga volume.\n\nStory about a joint practice session between Izuku's class and Isami High students at Yuuei Academy, takes place after the field training arc in the second season.\n\n(Source: MAL)",
+  "title": {
+    "en": "My Hero Academia: Training of the Dead",
+    "jp": "Boku no Hero Academia: Training of the Dead"
+  },
+  "releasedAt": "2017-06-02T00:00:00.000Z",
+  "finishedAt": "2017-06-02T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14030/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "school life",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14030",
+    "anilist/anime": "130183",
+    "myanimelist/anime": "35459"
+  }
+}

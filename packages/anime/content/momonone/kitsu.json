@@ -1,0 +1,24 @@
+{
+  "slug": "momonone",
+  "synopsis": "MV for the song Momonone by Momosuzu Nene.",
+  "title": {
+    "jp": "Momonone"
+  },
+  "releasedAt": "2021-08-13T00:00:00.000Z",
+  "finishedAt": "2021-08-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44984/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44984/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=K35AflEvvc8"
+  ],
+  "relations": {
+    "kitsu": "44984"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "kono-oto-tomare-2",
+  "synopsis": "Second season of Kono Oto Tomare!",
+  "title": {
+    "en": "Kono Oto Tomare!: Sounds of Life Season 2",
+    "jp": "Kono Oto Tomare! 2"
+  },
+  "releasedAt": "2019-10-06T00:00:00.000Z",
+  "finishedAt": "2019-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42306/original.jpg",
+  "categories": [
+    "drama",
+    "music",
+    "school life",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/kono-oto-tomare-sounds-of-life/",
+    "https://www.hulu.com/series/kono-oto-tomare-sounds-of-life-8d6af21a-d6ff-433f-b031-b43b505e1b29"
+  ],
+  "relations": {
+    "kitsu": "42306",
+    "anidb": "14553",
+    "anilist/anime": "108891",
+    "myanimelist/anime": "38889"
+  }
+}

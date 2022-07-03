@@ -1,0 +1,23 @@
+{
+  "slug": "shima-kousaku-no-asia-shinseki-den",
+  "synopsis": "A spinoff of Shima Kousaku no Asia Risshi-den",
+  "title": {
+    "jp": "Shima Kousaku no Asia Shinseki-den"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12749/original.jpg",
+  "categories": [
+    "drama",
+    "motorsport"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12749",
+    "aozora": "CrsyR6cORf",
+    "myanimelist/anime": "33540"
+  }
+}

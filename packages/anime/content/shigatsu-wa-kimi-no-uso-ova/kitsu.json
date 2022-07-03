@@ -1,0 +1,31 @@
+{
+  "slug": "shigatsu-wa-kimi-no-uso-ova",
+  "synopsis": "OVA bundled with the 11th Shigatsu wa Kimi no Uso manga volume.\nThe OVA will focus on Kousei, Emi, and Takeshi when they were younger, showing their troubles during their competitions and the beginning of their rivalry.\n(Source: Shigatsu wa Kimi no Uso Wikia)",
+  "title": {
+    "jp": "Shigatsu wa Kimi no Uso: Moments"
+  },
+  "releasedAt": "2015-05-15T00:00:00.000Z",
+  "finishedAt": "2015-05-15T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9968/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9968/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "friendship",
+    "japan",
+    "music",
+    "present",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9968",
+    "anidb": "10892",
+    "anilist/anime": "21039",
+    "aozora": "hQ4u4gvMP4",
+    "myanimelist/anime": "28069"
+  }
+}

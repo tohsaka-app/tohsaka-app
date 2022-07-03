@@ -1,0 +1,28 @@
+{
+  "slug": "castlevania",
+  "synopsis": "The last surviving member of a disgraced clan fights to save Eastern Europe from Dracula. Inspired by the classic video game series.\n\n(Source: Netflix)",
+  "title": {
+    "jp": "Akumajou Dracula: Castlevania"
+  },
+  "releasedAt": "2017-07-07T00:00:00.000Z",
+  "finishedAt": "2017-07-07T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13529/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13529/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "dark fantasy",
+    "horror",
+    "vampire",
+    "violence"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80095241"
+  ],
+  "relations": {
+    "kitsu": "13529"
+  }
+}

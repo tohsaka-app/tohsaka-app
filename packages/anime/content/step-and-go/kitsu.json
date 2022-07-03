@@ -1,0 +1,25 @@
+{
+  "slug": "step-and-go",
+  "synopsis": "Short Music Video for Tokino Sora's song, Step and Go!!",
+  "title": {
+    "en": "Step and Go!!",
+    "jp": "Step and Go!!"
+  },
+  "releasedAt": "2020-10-15T00:00:00.000Z",
+  "finishedAt": "2020-10-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43923/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43923/original.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=OG6yRuj3KkY&ab_channel=SoraCh.%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%9D%E3%82%89%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
+  ],
+  "relations": {
+    "kitsu": "43923"
+  }
+}

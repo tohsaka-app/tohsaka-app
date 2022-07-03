@@ -1,0 +1,23 @@
+{
+  "slug": "konnichiwa-onara-gorou",
+  "synopsis": "Serves as an \"episode 0\" to the July 2016 television series. It introduces the characters and concept of the show.",
+  "title": {
+    "jp": "Konnichiwa Onara Gorou"
+  },
+  "releasedAt": "2016-03-14T00:00:00.000Z",
+  "finishedAt": "2016-03-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12150/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12150",
+    "anilist/anime": "21811",
+    "aozora": "8iDjJUINKM",
+    "myanimelist/anime": "33276"
+  }
+}

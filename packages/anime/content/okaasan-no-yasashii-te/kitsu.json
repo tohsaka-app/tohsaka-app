@@ -1,0 +1,23 @@
+{
+  "slug": "okaasan-no-yasashii-te",
+  "synopsis": "An educational film highlighting the importance of how impressionable children are by their family members.",
+  "title": {
+    "jp": "Okaasan no Yasashii te"
+  },
+  "releasedAt": "1992-01-01T00:00:00.000Z",
+  "finishedAt": "1992-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11068/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11068",
+    "aozora": "MRT6KQ04zr",
+    "myanimelist/anime": "30978"
+  }
+}

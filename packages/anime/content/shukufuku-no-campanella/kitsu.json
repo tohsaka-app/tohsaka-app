@@ -1,0 +1,37 @@
+{
+  "slug": "shukufuku-no-campanella",
+  "synopsis": "The story takes place in a trading city Ert'Aria. Leicester Maycraft is an item engineer belonging to an adventurer guild \"Oasis.\" One night, he is at a party with his friends to see a meteor stream on the rooftop of a chapel. One meteor grazes them and hits the steeple of the chapel. There he finds a secret room and a sleeping girl. The girl wakes up and says \"You must be my father!\" The encounter with the mysterious girl brings an unexpected adventure to Leicester.",
+  "title": {
+    "en": "Blessing of the Campanella",
+    "jp": "Shukufuku no Campanella"
+  },
+  "releasedAt": "2010-07-03T00:00:00.000Z",
+  "finishedAt": "2010-09-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4817/original.jpg",
+  "categories": [
+    "adventure",
+    "alternative past",
+    "alternative present",
+    "fantasy",
+    "fantasy world",
+    "harem",
+    "magic"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/blessing-of-the-campanella"
+  ],
+  "relations": {
+    "kitsu": "4817",
+    "anidb": "7280",
+    "anilist/anime": "6979",
+    "aozora": "BeDE2ELmyw",
+    "hulu": "50001740",
+    "myanimelist/anime": "6979",
+    "thetvdb": "173261/1",
+    "thetvdb/series": "173261",
+    "trakt": "61401"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sore-ike-anpanman-yuuki-to-honoo-to-christmas",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Yuuki to Honoo to Christmas"
+  },
+  "releasedAt": "2003-11-05T00:00:00.000Z",
+  "finishedAt": "2003-11-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9633/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9633",
+    "aozora": "wXVW9ZH1K7",
+    "myanimelist/anime": "27493"
+  }
+}

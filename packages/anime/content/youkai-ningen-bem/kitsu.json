@@ -1,0 +1,27 @@
+{
+  "slug": "youkai-ningen-bem",
+  "synopsis": "Three monsters, Bem, who looks like a gangster, Bero, who looks like a boy, and Bera, a witch, act as agents of justice, hoping that they will be allowed to become human. Several episodes involve them protecting a young boy. The style of animation is fairly distinctive, and the storylines not without interest. \n(Source: AniDB) ",
+  "title": {
+    "jp": "Youkai Ningen Bem"
+  },
+  "releasedAt": "1968-10-07T00:00:00.000Z",
+  "finishedAt": "1969-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3428/original.jpg",
+  "categories": [
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3428",
+    "anidb": "1447",
+    "anilist/anime": "4044",
+    "aozora": "g4s2FTEgGf",
+    "myanimelist/anime": "4044",
+    "thetvdb": "120501/1",
+    "thetvdb/series": "120501",
+    "trakt": "35258"
+  }
+}

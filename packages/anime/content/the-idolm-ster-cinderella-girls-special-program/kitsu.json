@@ -1,0 +1,24 @@
+{
+  "slug": "the-idolm-ster-cinderella-girls-special-program",
+  "synopsis": "The iDOLM@STER Cinderella Girls recap aired between episodes 7 and 8 as part of a special program featuring the seiyuu of Uzuki Shimamura, Rin Shibuya, Mio Honda, and Producer.",
+  "title": {
+    "en": "THE IDOLM@STER CINDERELLA GIRLS Special Program",
+    "jp": "The iDOLM@STER Cinderella Girls: Special Program"
+  },
+  "releasedAt": "2015-02-28T00:00:00.000Z",
+  "finishedAt": "2015-02-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10728/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10728",
+    "aozora": "eJEzYuVeAd",
+    "myanimelist/anime": "30218"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "jirijiri",
+  "synopsis": "A music video for Umineco Sounds' song \"Jirijiri.\"",
+  "title": {
+    "jp": "Jirijiri"
+  },
+  "releasedAt": "2012-04-25T00:00:00.000Z",
+  "finishedAt": "2012-04-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13808/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13808",
+    "aozora": "xqyvzNboHy",
+    "myanimelist/anime": "36065"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "dragon-crisis",
+  "synopsis": "A normal high school boy Kisaragi Ryuji's peaceful life is turned into an adventure by the return of his second cousin Eriko. Ryuji and Eriko seize a relic box from a black broker. In the box, they find a red dragon girl Rose. In order to protect Rose from the black organization, Ryuji decides to fight using his power as a relic handler.",
+  "title": {
+    "jp": "Dragon Crisis!"
+  },
+  "releasedAt": "2011-01-11T00:00:00.000Z",
+  "finishedAt": "2011-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5678/original.jpg",
+  "categories": [
+    "action",
+    "anthropomorphism",
+    "asia",
+    "contemporary fantasy",
+    "dragon",
+    "earth",
+    "fantasy",
+    "harem",
+    "high school",
+    "japan",
+    "magic",
+    "present",
+    "romance",
+    "school life",
+    "sudden girlfriend appearance"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/dragon-crisis",
+    "vrv.co/series/G6P85GMM6/Dragon-Crisis"
+  ],
+  "relations": {
+    "kitsu": "5678",
+    "anidb": "7671",
+    "anilist/anime": "9330",
+    "aozora": "5dFcar1ds1",
+    "myanimelist/anime": "9330",
+    "thetvdb": "220541/1",
+    "thetvdb/series": "220541",
+    "trakt": "38649"
+  }
+}

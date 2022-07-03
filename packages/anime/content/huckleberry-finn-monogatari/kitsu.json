@@ -1,0 +1,30 @@
+{
+  "slug": "huckleberry-finn-monogatari",
+  "synopsis": "Based on Mark Twain's famous book about the adventures of young orphan Huckleberry Finn.",
+  "title": {
+    "jp": "Huckleberry Finn Monogatari"
+  },
+  "releasedAt": "1994-08-26T00:00:00.000Z",
+  "finishedAt": "1995-03-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3792/original.jpg",
+  "categories": [
+    "adventure",
+    "americas",
+    "coming of age",
+    "earth",
+    "past",
+    "slice of life",
+    "united states"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3792",
+    "anidb": "3675",
+    "anilist/anime": "4800",
+    "aozora": "Zl71FyFN9q",
+    "myanimelist/anime": "4800"
+  }
+}

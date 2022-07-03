@@ -1,0 +1,25 @@
+{
+  "slug": "dochamon-junior",
+  "synopsis": "Japan has 47 prefectures and each one has a guardian spirit called a Dochamon. Dochamon Junior follows guardian spirits in training to one day take over the jobs of their elders. But these juniors have a lot of growing up to do before they graduate!",
+  "title": {
+    "jp": "Dochamon Junior"
+  },
+  "releasedAt": "2015-10-05T00:00:00.000Z",
+  "finishedAt": "2016-02-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11591/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11591",
+    "anidb": "11674",
+    "anilist/anime": "120071",
+    "aozora": "C49CRTN68i",
+    "myanimelist/anime": "31746"
+  }
+}

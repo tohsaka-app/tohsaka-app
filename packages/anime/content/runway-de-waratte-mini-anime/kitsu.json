@@ -1,0 +1,24 @@
+{
+  "slug": "runway-de-waratte-mini-anime",
+  "synopsis": "Shorts released online, including the official twitter account.",
+  "title": {
+    "en": "Smile Down the Runway Mini Anime",
+    "jp": "Runway de Waratte Mini Anime"
+  },
+  "releasedAt": "2019-11-05T00:00:00.000Z",
+  "finishedAt": "2020-03-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45871/poster_image/8034f5ce4b6fcdde5c91bdea82182109.jpg",
+  "categories": [
+    "comedy",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45871",
+    "anilist/anime": "116328",
+    "myanimelist/anime": "42487"
+  }
+}

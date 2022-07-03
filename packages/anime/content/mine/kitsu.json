@@ -1,0 +1,24 @@
+{
+  "slug": "mine",
+  "synopsis": "Digest music video for the song MINE by Aimer that was included on her sixth single \"StarRingChild EP\". The video was directed by Gaku Kinoshita.\n",
+  "title": {
+    "jp": "Mine"
+  },
+  "releasedAt": "2014-04-21T00:00:00.000Z",
+  "finishedAt": "2014-04-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43436/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=R1GonwKNdfU"
+  ],
+  "relations": {
+    "kitsu": "43436",
+    "myanimelist/anime": "42439"
+  }
+}

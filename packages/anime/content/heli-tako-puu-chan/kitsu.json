@@ -1,0 +1,24 @@
+{
+  "slug": "heli-tako-puu-chan",
+  "synopsis": "Based on the manga by Sasaki Takemaru.",
+  "title": {
+    "jp": "Heli-Tako Puu-chan"
+  },
+  "releasedAt": "1998-02-14T00:00:00.000Z",
+  "finishedAt": "1999-02-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9302/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9302",
+    "anidb": "4687",
+    "aozora": "DYKrwh0BYP",
+    "myanimelist/anime": "24465"
+  }
+}

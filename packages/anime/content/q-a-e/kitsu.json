@@ -1,0 +1,24 @@
+{
+  "slug": "q-a-e",
+  "synopsis": "Music video for the song Q&amp;A=E by Airani Iofifteen.",
+  "title": {
+    "en": "Q&A=E"
+  },
+  "releasedAt": "2022-03-14T00:00:00.000Z",
+  "finishedAt": "2022-03-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46073/poster_image/2bb60363f8f049fdfd5672ec4699e532.jpg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Rd6kufQ7ONc"
+  ],
+  "relations": {
+    "kitsu": "46073"
+  }
+}

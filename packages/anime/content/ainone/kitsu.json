@@ -1,0 +1,24 @@
+{
+  "slug": "ainone",
+  "synopsis": "A music video for the song \"Ainone\" by Yen Town Band.",
+  "title": {
+    "jp": "Ainone"
+  },
+  "releasedAt": "2015-12-01T00:00:00.000Z",
+  "finishedAt": "2015-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11607/original.png",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11607",
+    "anilist/anime": "104479",
+    "aozora": "r92iR4sHaV",
+    "myanimelist/anime": "32804"
+  }
+}

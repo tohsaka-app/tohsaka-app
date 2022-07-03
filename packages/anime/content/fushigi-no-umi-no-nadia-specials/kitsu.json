@@ -1,0 +1,25 @@
+{
+  "slug": "fushigi-no-umi-no-nadia-specials",
+  "synopsis": "While Nadia has been licensed by ADV, the Omake \"extra\" episodes were not. These short Omake \"extra\" episodes were included as a bonus on the Japanese LD set. They were never released on any other format.\n(Source: AnimeSuki)",
+  "title": {
+    "en": "Nadia: Secret of Blue Water Specials",
+    "jp": "Fushigi no Umi no Nadia Specials"
+  },
+  "releasedAt": "2003-02-18T00:00:00.000Z",
+  "finishedAt": "2003-02-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2970/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2970",
+    "anilist/anime": "3381",
+    "aozora": "1Ddltpj82h",
+    "myanimelist/anime": "3381"
+  }
+}

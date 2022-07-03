@@ -1,0 +1,39 @@
+{
+  "slug": "kore-wa-zombie-desu-ka-ova",
+  "synopsis": "Two OVAs released with the 8th and 10th volumes of the original novel. They fall chronologically between the first and second seasons.",
+  "title": {
+    "en": "Is This a Zombie? OVA",
+    "jp": "Kore wa Zombie Desu ka? OVA"
+  },
+  "releasedAt": "2011-06-10T00:00:00.000Z",
+  "finishedAt": "2012-04-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6079/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6079/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "harem",
+    "japan",
+    "magic",
+    "magical girl",
+    "present",
+    "zombie"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/is-this-a-zombie",
+    "https://www.funimation.com/shows/is-this-a-zombie/"
+  ],
+  "relations": {
+    "kitsu": "6079",
+    "anidb": "8448",
+    "anilist/anime": "10209",
+    "aozora": "dm9aGpIaUU",
+    "myanimelist/anime": "10209"
+  }
+}

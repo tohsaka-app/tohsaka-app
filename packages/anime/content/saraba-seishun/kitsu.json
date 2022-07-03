@@ -1,0 +1,21 @@
+{
+  "slug": "saraba-seishun",
+  "synopsis": "A retrospective of a long journey on a great open highway. The time spent, the people they see, the billboards they gaze upon, and the records the go through.",
+  "title": {
+    "jp": "Saraba Seishun"
+  },
+  "releasedAt": "1975-06-01T00:00:00.000Z",
+  "finishedAt": "1975-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40906/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40906",
+    "anilist/anime": "140853",
+    "aozora": "SyCelDJGln",
+    "myanimelist/anime": "36354"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "sanrio-christmas-fantasia",
+  "synopsis": "Set to Fantasia-like music, the anime pans over the Sanrio franchise characters during their Christmas celebrations.",
+  "title": {
+    "jp": "Sanrio Christmas Fantasia"
+  },
+  "releasedAt": "1992-11-01T00:00:00.000Z",
+  "finishedAt": "1992-11-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10310/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10310",
+    "aozora": "M6jFK2qvZV",
+    "myanimelist/anime": "29547"
+  }
+}

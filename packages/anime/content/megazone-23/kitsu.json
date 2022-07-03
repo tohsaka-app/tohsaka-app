@@ -1,0 +1,38 @@
+{
+  "slug": "megazone-23",
+  "synopsis": "Shougo Yahagi is a young motorcycle enthusiast living in a world of hot bikes, hard rock, and J-pop idols. The general populace go about their lives in peace, under the watchful eyes of a computer program in the guise of pop idol sensation Eve, unbeknownst to them. Shougo himself is mostly concerned with riding his motorcycle and picking up beautiful women like Yui Takanaka, who aspires to be a dancer.\nShougo's life suddenly changes when his friend, Shinji Nakagawa, shows him a top-secret project: the \"Garland,\" an advanced motorcycle that can transform into a robot. Ambushed by the military, Shougo hijacks the Garland and escapes into the city. Evading the military with the help of Yui and her friends, he gradually discovers that their idyllic society is only an illusion.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Megazone 23",
+    "jp": "Megazone 23"
+  },
+  "releasedAt": "1985-03-09T00:00:00.000Z",
+  "finishedAt": "1989-12-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1744/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/1744/cover_image/8b94a09ab1b1c92f399328a01624d78f.jpg",
+  "categories": [
+    "action",
+    "conspiracy",
+    "cyberpunk",
+    "earth",
+    "future",
+    "mecha",
+    "music",
+    "mystery",
+    "piloted robot",
+    "romance",
+    "science fiction",
+    "transforming craft",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1744",
+    "anidb": "1729",
+    "anilist/anime": "1935",
+    "aozora": "mT0FCrHBsM",
+    "myanimelist/anime": "1935"
+  }
+}

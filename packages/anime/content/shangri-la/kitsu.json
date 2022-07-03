@@ -1,0 +1,36 @@
+{
+  "slug": "shangri-la",
+  "synopsis": "In the distant future, earthquakes and the effects of global warming have splintered Japanese society. Some struggle hand-to-mouth in the jungle-tangled ruins of civilization. Some live comfortably within the closed-off city of Atlas. Others lurk online, anonymously hacking the global economy. As nature grows more violent and the divide between classes expands, one spirited girl—Kuniko—must face her destiny and lead her people into the utopia of Atlas. The city's ruthless government isn't going to welcome them with open arms, but Kuniko won't give up until the gates of Atlas are kicked open for good—even if it means discovering that the promised land she dreamed of is built upon a foundation of twisted secrets and lies.\n(Source: FUNimation)",
+  "title": {
+    "en": "Shangri-La",
+    "jp": "Shangri-La"
+  },
+  "releasedAt": "2009-04-06T00:00:00.000Z",
+  "finishedAt": "2009-09-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3995/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3995/original.jpg",
+  "categories": [
+    "action",
+    "earth",
+    "future",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/shangri-la",
+    "http://www.funimation.com/shows/shangri-la"
+  ],
+  "relations": {
+    "kitsu": "3995",
+    "anidb": "6267",
+    "anilist/anime": "5220",
+    "aozora": "aUSjEr8sER",
+    "hulu": "50008454",
+    "myanimelist/anime": "5220",
+    "thetvdb": "87871/1",
+    "thetvdb/series": "87871",
+    "trakt": "61917"
+  }
+}

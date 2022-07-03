@@ -1,0 +1,24 @@
+{
+  "slug": "ookami-nanka-kowakunai",
+  "synopsis": "\"Wolves Aren't Scary!\" is an original song by OSTER project featuring Hatsune Miku and GUMI along with Kagamine Rin, Kagamine Len, Megurine Luka, MEIKO and KAITO in the chorus.\n\n(Souce: Fan Wiki)",
+  "title": {
+    "en": "Wolves Aren't Scary!",
+    "jp": "Ookami Nanka Kowakunai!"
+  },
+  "releasedAt": "2013-02-05T00:00:00.000Z",
+  "finishedAt": "2013-02-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45406/poster_image/5c56827cf0381f07a6cd18681ec05113.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=4hRk7Byq4tw"
+  ],
+  "relations": {
+    "kitsu": "45406"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "deep-blue-town-e-oide-yo",
+  "synopsis": "An animated music video by iMarine Project and produced by Sanyo. Animation features Marine-chan and several other characters from the Umi Monogatari a pachinko game manufactured by Sanyo Bussan. (Source: AniList)",
+  "title": {
+    "en": "Come to Deep Blue Town",
+    "jp": "Deep Blue Town e Oide yo"
+  },
+  "releasedAt": "2017-07-16T00:00:00.000Z",
+  "finishedAt": "2017-07-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43684/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "43684",
+    "anilist/anime": "102719",
+    "myanimelist/anime": "39313"
+  }
+}

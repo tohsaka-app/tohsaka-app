@@ -1,0 +1,25 @@
+{
+  "slug": "zero-sen-hayato",
+  "synopsis": "The adventures of a zero fighter pilot during World War II. \n(Source: AniDB) ",
+  "title": {
+    "jp": "0-sen Hayato"
+  },
+  "releasedAt": "1964-01-21T00:00:00.000Z",
+  "finishedAt": "1964-10-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6806/original.jpg",
+  "categories": [
+    "historical",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6806",
+    "anidb": "5121",
+    "anilist/anime": "12763",
+    "aozora": "MrMtPaabMV",
+    "myanimelist/anime": "12763"
+  }
+}

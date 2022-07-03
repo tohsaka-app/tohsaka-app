@@ -1,0 +1,26 @@
+{
+  "slug": "hanabi",
+  "synopsis": "Oku Hanako's music video for the song \"Hanabi\".",
+  "title": {
+    "jp": "Hanabi"
+  },
+  "releasedAt": "2015-10-29T00:00:00.000Z",
+  "finishedAt": "2015-10-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11539/original.jpg",
+  "categories": [
+    "drama",
+    "music",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11539",
+    "anilist/anime": "102662",
+    "aozora": "KAbpqCCgbi",
+    "myanimelist/anime": "31977"
+  }
+}

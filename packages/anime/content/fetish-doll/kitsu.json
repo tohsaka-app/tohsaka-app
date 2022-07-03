@@ -1,0 +1,25 @@
+{
+  "slug": "fetish-doll",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Fetish Doll"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8977/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8977",
+    "anidb": "11312",
+    "anilist/anime": "102389",
+    "aozora": "F8Mtst1oE3",
+    "myanimelist/anime": "22169"
+  }
+}

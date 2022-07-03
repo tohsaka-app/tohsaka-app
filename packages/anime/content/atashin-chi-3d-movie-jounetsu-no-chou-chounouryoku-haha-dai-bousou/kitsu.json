@@ -1,0 +1,25 @@
+{
+  "slug": "atashin-chi-3d-movie-jounetsu-no-chou-chounouryoku-haha-dai-bousou",
+  "synopsis": "A 3D theatrical anime adaptation.",
+  "title": {
+    "jp": "Atashin'chi 3D Movie: Jounetsu no Chou Chounouryoku Haha Dai Bousou"
+  },
+  "releasedAt": "2010-11-13T00:00:00.000Z",
+  "finishedAt": "2010-11-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5874/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5874",
+    "anidb": "7906",
+    "anilist/anime": "9796",
+    "aozora": "G4QykdKomh",
+    "myanimelist/anime": "9796"
+  }
+}

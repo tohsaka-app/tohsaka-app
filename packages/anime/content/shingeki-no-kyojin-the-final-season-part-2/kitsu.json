@@ -1,0 +1,37 @@
+{
+  "slug": "shingeki-no-kyojin-the-final-season-part-2",
+  "synopsis": "The war for Paradis zeroes in on Shiganshina just as the Jaegerists have seized control. After taking a huge blow from a surprise attack led by Eren, Marley swiftly acts to return the favor. With Zeke’s true plan revealed and the military forced under a new rule, this battle might be fought on two fronts. Does Eren intend on fulfilling his half-brother’s wishes or does he have a plan of his own?\n\n(Source: Funimation)",
+  "title": {
+    "en": "Attack on Titan: The Final Season Part 2",
+    "jp": "Shingeki no Kyojin The Final Season Part 2"
+  },
+  "releasedAt": "2022-01-09T00:00:00.000Z",
+  "finishedAt": "2022-04-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/44240/poster_image/408da3fa4a94c0b3164ebb2093dad119.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44240/cover_image/414d0ee30956dbe960c5c5dfdbf6cc46.png",
+  "categories": [
+    "action",
+    "drama",
+    "dystopia",
+    "fantasy",
+    "henshin",
+    "military",
+    "revenge",
+    "shounen",
+    "steampunk",
+    "super power"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/attack-on-titan",
+    "https://www.funimation.com/shows/attack-on-titan/",
+    "https://www.hulu.com/series/attack-on-titan-9c91ffa3-dc20-48bf-8bc5-692e37c76d88"
+  ],
+  "relations": {
+    "kitsu": "44240",
+    "anilist/anime": "131681",
+    "myanimelist/anime": "48583"
+  }
+}

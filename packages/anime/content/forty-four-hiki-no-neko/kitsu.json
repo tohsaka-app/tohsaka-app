@@ -1,0 +1,25 @@
+{
+  "slug": "forty-four-hiki-no-neko",
+  "synopsis": "The Japanese version of the 1968 '44 Gatti,' an Italian song from the TV program Zecchino D'Oro. It was introduced in the Japanese NHK TV program 'Minna no Uta' in 1969.",
+  "title": {
+    "jp": "44-hiki no Neko"
+  },
+  "releasedAt": "1969-01-01T00:00:00.000Z",
+  "finishedAt": "1969-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5415/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5415",
+    "anidb": "12585",
+    "anilist/anime": "8646",
+    "aozora": "3oQKBQIu1B",
+    "myanimelist/anime": "8646"
+  }
+}

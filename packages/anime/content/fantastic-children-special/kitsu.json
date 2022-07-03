@@ -1,0 +1,24 @@
+{
+  "slug": "fantastic-children-special",
+  "synopsis": "Extended ending showing what happened with Befort Children after the events from the last episode of the TV series. DVD release exclusive.",
+  "title": {
+    "jp": "Fantastic Children Special"
+  },
+  "releasedAt": "2005-09-23T00:00:00.000Z",
+  "finishedAt": "2005-09-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7224/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7224/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7224",
+    "anilist/anime": "15159",
+    "aozora": "AutTRVoze8",
+    "myanimelist/anime": "15159"
+  }
+}

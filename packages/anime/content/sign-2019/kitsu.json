@@ -1,0 +1,24 @@
+{
+  "slug": "sign-2019",
+  "synopsis": "Music video by Tarafu Otani for the song sign by Japanese idol unit amiinA from their second album \"Discovery\".",
+  "title": {
+    "en": "Sign (2019)",
+    "jp": "Sign (2019)"
+  },
+  "releasedAt": "2019-03-18T00:00:00.000Z",
+  "finishedAt": "2019-03-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44936/original.png",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44936",
+    "anilist/anime": "136144",
+    "myanimelist/anime": "43351"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "seirei-tsukai",
+  "synopsis": "Based on the manga by Okazaki Takeshi begun in 1990.\nAfter a family tragedy, Kagura is left with only his beloved friend Asami for consolation. Meanwhile, there is a war beginning in the spiritual world. Beings known as \"Elementalors\" call upon power from spirits to maintain harmony in the world by balancing individual forces of nature. Lord Shiki, a water Elementalor, kidnaps Asami in order to use special powers she posesses to retrieve his daughter, who has been imprisioned for nearly destroying the Earth. Kagura discovers that he is also an Elementalor—a very powerful one. He must join forces with other Elementalors to save Asami and prevent Lord Shiki from causing a great imbalance by releasing his daughter.\n(Source: ANN)",
+  "title": {
+    "en": "Elementalors",
+    "jp": "Seirei Tsukai"
+  },
+  "releasedAt": "1995-04-01T00:00:00.000Z",
+  "finishedAt": "1995-04-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1683/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "present",
+    "romance",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1683",
+    "anidb": "2792",
+    "anilist/anime": "1866",
+    "aozora": "MsmmJCG5Mt",
+    "myanimelist/anime": "1866"
+  }
+}

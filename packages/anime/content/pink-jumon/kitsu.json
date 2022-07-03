@@ -1,0 +1,25 @@
+{
+  "slug": "pink-jumon",
+  "synopsis": "A woman casts a magic spell on a pink spoon to pass onto her daughter so that she would always be protected.",
+  "title": {
+    "jp": "Pink Jumon"
+  },
+  "releasedAt": "2011-02-01T00:00:00.000Z",
+  "finishedAt": "2011-02-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14002/original.jpg",
+  "categories": [
+    "magic",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14002",
+    "anilist/anime": "103745",
+    "aozora": "k2dbrIBb55",
+    "myanimelist/anime": "36373"
+  }
+}

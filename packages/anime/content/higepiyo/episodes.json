@@ -1,0 +1,407 @@
+[
+  {
+    "title": {
+      "jp": "It's a chick!?"
+    },
+    "synopsis": "Hiroshi purchases Higepiyo at a local festival, and he gets used to his new home.",
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165698/original.jpg",
+    "releasedAt": "2009-04-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's cute, right!?"
+    },
+    "synopsis": "Higepiyo deals with a bully at Hiroshi's elementary school.",
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165707/original.jpg",
+    "releasedAt": "2009-04-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "What's Flower Viewing!?"
+    },
+    "synopsis": "Higepiyo travels with the family to see the cherry blossom trees.",
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165714/original.jpg",
+    "releasedAt": "2009-04-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Second helping is war!?"
+    },
+    "synopsis": "Higepiyo challenges Kumano to an eating contest at school.",
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165721/original.jpg",
+    "releasedAt": "2009-04-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The feelings of strawberry!?"
+    },
+    "synopsis": "Higepiyo learns the art of sharing.",
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165730/original.jpg",
+    "releasedAt": "2009-05-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's a Man's Castle!?"
+    },
+    "synopsis": "Katou checks up on Higepiyo while he tries to build his own house.",
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165736/original.jpg",
+    "releasedAt": "2009-05-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's an onion!?"
+    },
+    "synopsis": "Kumano challenges Hiroshi to a duel.",
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165744/original.jpg",
+    "releasedAt": "2009-05-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Isn't it a pet!?"
+    },
+    "synopsis": "Kumano tries to make Higepiyo his pet.",
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165753/original.jpg",
+    "releasedAt": "2009-05-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Bathwater is nice!?"
+    },
+    "synopsis": "Higepiyo and Hiroshi visit the local public bath.",
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165759/original.jpg",
+    "releasedAt": "2009-05-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "You're to dig it out!?"
+    },
+    "synopsis": "Higepiyo helps the family clean the house.",
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165767/original.jpg",
+    "releasedAt": "2009-06-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's a Samurai!?"
+    },
+    "synopsis": "Higepiyo meets an author with writer's block in the park.",
+    "season": 1,
+    "number": 11,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165775/original.jpg",
+    "releasedAt": "2009-06-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's a steamed meat bun?"
+    },
+    "synopsis": "Higepiyo confronts a burglar that breaks into Hiroshi's house.",
+    "season": 1,
+    "number": 12,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165782/original.jpg",
+    "releasedAt": "2009-06-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I don't have any weakness!?"
+    },
+    "synopsis": "Kumano tries to find out Higepiyo's weakness.",
+    "season": 1,
+    "number": 13,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165795/original.jpg",
+    "releasedAt": "2009-06-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's a birthday!?"
+    },
+    "synopsis": "Hiroshi is forced to goto Kumano's birthday party.",
+    "season": 1,
+    "number": 14,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165801/original.jpg",
+    "releasedAt": "2009-07-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's a continuation of the birthday?"
+    },
+    "season": 1,
+    "number": 15,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165806/original.jpg",
+    "releasedAt": "2009-07-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's victory or defeat in the pool!?"
+    },
+    "season": 1,
+    "number": 16,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165815/original.jpg",
+    "releasedAt": "2009-07-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A test of courage!?"
+    },
+    "season": 1,
+    "number": 17,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165824/original.jpg",
+    "releasedAt": "2009-07-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's Higepiyo vs Megapiyo!?"
+    },
+    "season": 1,
+    "number": 18,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165831/original.jpg",
+    "releasedAt": "2009-09-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's the Mystery of Higepiyo!?"
+    },
+    "season": 1,
+    "number": 19,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165849/original.jpg",
+    "releasedAt": "2009-09-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's an Achievement!?"
+    },
+    "season": 1,
+    "number": 20,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165864/original.jpg",
+    "releasedAt": "2009-09-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's a Gal Piyo!?"
+    },
+    "season": 1,
+    "number": 21,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165878/original.jpg",
+    "releasedAt": "2009-09-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's still a Gal Piyo!?"
+    },
+    "season": 1,
+    "number": 22,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165888/original.jpg",
+    "releasedAt": "2009-09-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's an athletic meet!?"
+    },
+    "season": 1,
+    "number": 23,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165897/original.jpg",
+    "releasedAt": "2009-10-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's Nursing!?"
+    },
+    "season": 1,
+    "number": 24,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165909/original.jpg",
+    "releasedAt": "2009-10-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "More good hot water!?"
+    },
+    "season": 1,
+    "number": 25,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165921/original.jpg",
+    "releasedAt": "2009-10-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The secret of two people!?"
+    },
+    "season": 1,
+    "number": 26,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165929/original.jpg",
+    "releasedAt": "2009-10-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Can't get out!?"
+    },
+    "season": 1,
+    "number": 27,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165946/original.jpg",
+    "releasedAt": "2009-11-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's a Chick's cake!?"
+    },
+    "season": 1,
+    "number": 28,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165963/original.jpg",
+    "releasedAt": "2009-11-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I can't sleep!?"
+    },
+    "season": 1,
+    "number": 29,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165972/original.jpg",
+    "releasedAt": "2009-11-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's a Historical Play!?  "
+    },
+    "season": 1,
+    "number": 30,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/165989/original.jpg",
+    "releasedAt": "2009-11-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's Christmas!?  "
+    },
+    "season": 1,
+    "number": 31,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/166005/original.jpg",
+    "releasedAt": "2009-12-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's the School Arts Festival!?"
+    },
+    "season": 1,
+    "number": 32,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/166022/original.jpg",
+    "releasedAt": "2010-01-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Getting into the roll!?"
+    },
+    "season": 1,
+    "number": 33,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/166032/original.jpg",
+    "releasedAt": "2010-01-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "He is a Korokke shop worker!?"
+    },
+    "synopsis": "Higepiyo happens to be passing by a korokke shop when he is enlisted to run the stand.",
+    "season": 1,
+    "number": 34,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/166041/original.jpg",
+    "releasedAt": "2010-01-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I can't sleep again!?"
+    },
+    "season": 1,
+    "number": 35,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/166058/original.jpg",
+    "releasedAt": "2010-01-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Home-made is full of heart!?"
+    },
+    "season": 1,
+    "number": 36,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/166065/original.jpg",
+    "releasedAt": "2010-01-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's the Mecha Piyo's counterattack!?"
+    },
+    "season": 1,
+    "number": 37,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/166075/original.jpg",
+    "releasedAt": "2010-02-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's conveyor-belt sushi!?"
+    },
+    "season": 1,
+    "number": 38,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/166080/original.jpg",
+    "releasedAt": "2010-02-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's the naming!?"
+    },
+    "season": 1,
+    "number": 39,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/166085/original.jpg",
+    "releasedAt": "2010-02-19T00:00:00.000Z",
+    "content": {}
+  }
+]

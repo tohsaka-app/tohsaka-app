@@ -1,0 +1,24 @@
+{
+  "slug": "dosukoi-tarou",
+  "synopsis": "Music video for the song Dosukoi!! Tarou by Kiyoko Suizenji (Tamiko Hayashida) that was featured on NHK's Minna no Uta program. The video was animated by Tatsuji Kurahashi.",
+  "title": {
+    "jp": "Dosukoi!! Tarou"
+  },
+  "releasedAt": "1993-06-01T00:00:00.000Z",
+  "finishedAt": "1993-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42829/original.jpg",
+  "categories": [
+    "kids",
+    "music",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42829",
+    "anilist/anime": "115514",
+    "myanimelist/anime": "40694"
+  }
+}

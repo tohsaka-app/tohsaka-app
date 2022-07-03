@@ -1,0 +1,27 @@
+{
+  "slug": "miyakawa-ke-no-kuufuku",
+  "synopsis": "A spin-off of Lucky Star. Centers around big sister Hinata Miyakawa and little sister Hikage Miyakawa's impoverished daily life at home (due to Hinata's wasteful habits) and Hikage's life at elementary school.",
+  "title": {
+    "jp": "Miyakawa-ke no Kuufuku"
+  },
+  "releasedAt": "2013-04-29T00:00:00.000Z",
+  "finishedAt": "2013-07-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7734/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7734/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7734",
+    "anidb": "9622",
+    "anilist/anime": "17637",
+    "aozora": "WJWeESlQag",
+    "myanimelist/anime": "17637"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "kakko-kawaii-sengen",
+  "synopsis": "Shorts run during Shueisha's Saki-yomi Jum-Bang! television program starting on November 5, 2010. \n(Source: AniDB)",
+  "title": {
+    "jp": "Kakko Kawaii Sengen!"
+  },
+  "releasedAt": "2010-11-05T00:00:00.000Z",
+  "finishedAt": "2010-12-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5813/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5813",
+    "anidb": "7996",
+    "anilist/anime": "9627",
+    "aozora": "O17bMjvLOc",
+    "myanimelist/anime": "9627"
+  }
+}

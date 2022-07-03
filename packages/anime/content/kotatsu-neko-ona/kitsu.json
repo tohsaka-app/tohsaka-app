@@ -1,0 +1,23 @@
+{
+  "slug": "kotatsu-neko-ona",
+  "synopsis": "A lazy cat sits comfortably under the \"kotatsu\", a low table with a heater used in Japan to keep warm during winter. What will he do when he realizes the remote control of his TV is out of reach? ",
+  "title": {
+    "jp": "Kotatsu Neko (ONA)"
+  },
+  "releasedAt": "2005-02-01T00:00:00.000Z",
+  "finishedAt": "2005-11-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4300/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4300",
+    "anilist/anime": "5842",
+    "aozora": "E3HCFtylc5",
+    "myanimelist/anime": "5842"
+  }
+}

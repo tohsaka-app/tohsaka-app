@@ -1,0 +1,23 @@
+{
+  "slug": "Amanchu-Upyopyo-Dive-Tsukkome-Umi-no-Sekai",
+  "synopsis": "Special shorts included on the Blu-ray volumes 2-7 of Amanchu!\".",
+  "title": {
+    "jp": "Amanchu!: Upyopyo Dive Tsukkome! Umi no Sekai!"
+  },
+  "releasedAt": "2016-10-26T00:00:00.000Z",
+  "finishedAt": "2017-03-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42894/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42894",
+    "anidb": "11683",
+    "anilist/anime": "110578",
+    "myanimelist/anime": "39709"
+  }
+}

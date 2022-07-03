@@ -1,0 +1,24 @@
+{
+  "slug": "ganbare-goemon-jigen-jou-no-akumu",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Ganbare Goemon: Jigen Jou no Akumu"
+  },
+  "releasedAt": "1993-03-26T00:00:00.000Z",
+  "finishedAt": "1993-03-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5514/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5514",
+    "anidb": "7394",
+    "anilist/anime": "8862",
+    "aozora": "rEGr0YoK9D",
+    "myanimelist/anime": "8862"
+  }
+}

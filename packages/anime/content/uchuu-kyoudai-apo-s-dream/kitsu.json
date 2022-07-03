@@ -1,0 +1,27 @@
+{
+  "slug": "uchuu-kyoudai-apo-s-dream",
+  "synopsis": "Included on a DVD within the limited edition of the manga's volume 17. \nApo, the pet dog from the manga, will star in the anime.",
+  "title": {
+    "en": "Space Brothers: Apo's Dream",
+    "jp": "Uchuu Kyoudai: Apo's Dream"
+  },
+  "releasedAt": "2012-03-23T00:00:00.000Z",
+  "finishedAt": "2012-03-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6975/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6975",
+    "anidb": "9032",
+    "anilist/anime": "20561",
+    "aozora": "RU73MZCCsf",
+    "myanimelist/anime": "13479"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "gridman-x-dynazenon",
+  "synopsis": "The next Gridman Universe project is a film with a release scheduled for 2022.",
+  "title": {
+    "en": "GRIDMAN x DYNAZENON",
+    "jp": "GRIDMAN x DYNAZENON"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "2022-12-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45583/poster_image/ef8ff12d9670598227ba3f10c0b8462c.jpg",
+  "categories": [
+    "action",
+    "henshin",
+    "mecha",
+    "science fiction",
+    "super robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45583",
+    "anilist/anime": "142684"
+  }
+}

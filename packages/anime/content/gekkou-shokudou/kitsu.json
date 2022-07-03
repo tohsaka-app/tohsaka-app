@@ -1,0 +1,23 @@
+{
+  "slug": "gekkou-shokudou",
+  "synopsis": "A music video for Fullkawa Honpo's song \"Gekkou Shokudou,\" featuring acane_madder.",
+  "title": {
+    "jp": "Gekkou Shokudou"
+  },
+  "releasedAt": "2012-11-02T00:00:00.000Z",
+  "finishedAt": "2012-11-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12187/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12187",
+    "anilist/anime": "103519",
+    "aozora": "4CeBJvdM8h",
+    "myanimelist/anime": "32761"
+  }
+}

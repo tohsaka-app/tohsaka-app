@@ -1,0 +1,37 @@
+{
+  "slug": "love-death-robots-volume-two",
+  "synopsis": "A second collection of shorts.",
+  "title": {
+    "en": "Love, Death + Robots Volume 2"
+  },
+  "releasedAt": "2021-05-14T00:00:00.000Z",
+  "finishedAt": "2021-05-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42858/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42858/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "cops",
+    "cyberpunk",
+    "drama",
+    "dystopia",
+    "fantasy",
+    "horror",
+    "other planet",
+    "psychological",
+    "robot",
+    "robot helper",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80174608"
+  ],
+  "relations": {
+    "kitsu": "42858"
+  }
+}

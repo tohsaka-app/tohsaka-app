@@ -1,0 +1,24 @@
+{
+  "slug": "ichimai-no-etegami",
+  "synopsis": "An educational film about town planning and factoring the opinion of the elderly as they have lived there the longest.",
+  "title": {
+    "jp": "Ichimai no Etegami"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9334/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9334",
+    "anilist/anime": "129840",
+    "aozora": "WJdQjMJNuv",
+    "myanimelist/anime": "26309"
+  }
+}

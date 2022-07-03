@@ -1,0 +1,28 @@
+{
+  "slug": "furudera-no-obake-soudou",
+  "synopsis": "A 1936 movie short about Taro a young man and his adventures against various creatures from different legends.",
+  "title": {
+    "en": "Taro's Monster Hunt",
+    "jp": "Furudera no Obake-soudou"
+  },
+  "releasedAt": "1936-01-01T00:00:00.000Z",
+  "finishedAt": "1936-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4298/original.jpg",
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/japanese-anime-classic-collection"
+  ],
+  "relations": {
+    "kitsu": "4298",
+    "anidb": "6718",
+    "anilist/anime": "5838",
+    "aozora": "abA4UZVWWh",
+    "myanimelist/anime": "5838"
+  }
+}

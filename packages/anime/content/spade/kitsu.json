@@ -1,0 +1,22 @@
+{
+  "slug": "spade",
+  "synopsis": "MV for Spade Echo's song Spade.",
+  "title": {
+    "en": "Spade"
+  },
+  "releasedAt": "2020-05-30T00:00:00.000Z",
+  "finishedAt": "2020-05-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43777/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43777/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43777"
+  }
+}

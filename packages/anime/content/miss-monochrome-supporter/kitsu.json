@@ -1,0 +1,33 @@
+{
+  "slug": "miss-monochrome-supporter",
+  "synopsis": "Special of Miss Monochrome. It's about football. Aired on the official Miss Monochrome YouTube channel.",
+  "title": {
+    "jp": "Miss Monochrome: The Animation - Soccer-hen"
+  },
+  "releasedAt": "2014-06-17T00:00:00.000Z",
+  "finishedAt": "2014-06-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8515/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8515/original.jpg",
+  "categories": [
+    "android",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "slice of life",
+    "soccer",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8515",
+    "anidb": "10693",
+    "anilist/anime": "20747",
+    "aozora": "L7n2CCKIhF",
+    "myanimelist/anime": "24713"
+  }
+}

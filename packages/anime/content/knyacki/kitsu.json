@@ -1,0 +1,26 @@
+{
+  "slug": "knyacki",
+  "synopsis": "Two caterpillars investigate objects on a kitchen counter while searching for food. One of them finds a piece of pasta and is intrigued by the fact that there's a hole in the middle.\nThey are having fun until a big mean caterpillar arrives. It's time for a major show down...",
+  "title": {
+    "jp": "Knyacki!"
+  },
+  "releasedAt": "1995-04-07T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5007/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5007",
+    "anilist/anime": "7505",
+    "aozora": "Ya4PmSFdPm",
+    "myanimelist/anime": "7505"
+  }
+}

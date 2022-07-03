@@ -1,0 +1,30 @@
+{
+  "slug": "kono-subarashii-sekai-ni-shukufuku-wo-3",
+  "synopsis": "The 3rd season of Kono Subarashii Sekai ni Shukufuku wo!",
+  "title": {
+    "en": "KonoSuba: God's Blessing on This Wonderful World! 3",
+    "jp": "Kono Subarashii Sekai ni Shukufuku wo! 3"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44911/poster_image/6ce8bb64ef99046d5ebdd4b91c58195c.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "isekai",
+    "magic",
+    "parody",
+    "satire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44911",
+    "anilist/anime": "136804",
+    "myanimelist/anime": "49458"
+  }
+}

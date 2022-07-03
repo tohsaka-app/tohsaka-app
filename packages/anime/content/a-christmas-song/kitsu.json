@@ -1,0 +1,23 @@
+{
+  "slug": "a-christmas-song",
+  "synopsis": "Music video for A Christmas Song by Monkey Majik in collaboration with Kazumasa Oda. It was released on the three-song album under the same name and features covers of other familiar Christmas songs.\n",
+  "title": {
+    "en": "A Christmas Song",
+    "jp": "A Christmas Song"
+  },
+  "releasedAt": "2012-11-29T00:00:00.000Z",
+  "finishedAt": "2012-11-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42739/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42739",
+    "anilist/anime": "126884",
+    "myanimelist/anime": "39086"
+  }
+}

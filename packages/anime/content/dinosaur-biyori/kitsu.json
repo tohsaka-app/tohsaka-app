@@ -1,0 +1,25 @@
+{
+  "slug": "dinosaur-biyori",
+  "synopsis": "The story follows the lives of three modern day dinosaurs as they share a room in the Dino-Shou (\"Dino Manor\") apartment building complex.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "",
+    "jp": "Dinosaur Biyori"
+  },
+  "releasedAt": "2021-04-04T00:00:00.000Z",
+  "finishedAt": "2021-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44217/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44217",
+    "anidb": "15962",
+    "anilist/anime": "130515",
+    "myanimelist/anime": "45618"
+  }
+}

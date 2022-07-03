@@ -1,0 +1,23 @@
+{
+  "slug": "experiment",
+  "synopsis": "A short film by Tsuji Naoyuki that blends stop motion with 2D drawn animation.",
+  "title": {
+    "jp": "Experiment"
+  },
+  "releasedAt": "1997-01-01T00:00:00.000Z",
+  "finishedAt": "1997-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12032/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12032",
+    "anilist/anime": "110580",
+    "aozora": "LmUkuV2gZ9",
+    "myanimelist/anime": "33114"
+  }
+}

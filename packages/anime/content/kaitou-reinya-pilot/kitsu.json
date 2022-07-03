@@ -1,0 +1,24 @@
+{
+  "slug": "kaitou-reinya-pilot",
+  "synopsis": "Pilot episode included as a bonus on the DVD.",
+  "title": {
+    "jp": "Kaitou Reinya Pilot"
+  },
+  "releasedAt": "2010-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8518/original.jpg",
+  "categories": [
+    "comedy",
+    "crime"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8518",
+    "anilist/anime": "18375",
+    "aozora": "FWqmShayuJ",
+    "myanimelist/anime": "18375"
+  }
+}

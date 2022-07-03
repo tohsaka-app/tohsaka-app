@@ -1,0 +1,24 @@
+{
+  "slug": "urarochi-diamond",
+  "synopsis": "Uraroji Diamond is a very interactive DVD which takes you inside a Studio-4C-style town with all the weirdness inside, while you scour for episodes (very short, black and white, weird episodes).\n(Source: AnimeDB)",
+  "title": {
+    "jp": "Urarochi Diamond"
+  },
+  "releasedAt": "2001-12-21T00:00:00.000Z",
+  "finishedAt": "2001-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3465/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3465",
+    "anidb": "3666",
+    "anilist/anime": "4098",
+    "aozora": "5IDUdol068",
+    "myanimelist/anime": "4098"
+  }
+}

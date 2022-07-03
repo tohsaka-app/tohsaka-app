@@ -1,0 +1,40 @@
+{
+  "slug": "flying-witch",
+  "synopsis": "Aomori, Japan.\nIn a land blessed by nature's bountiful beauty, bizarre things begin to take place. Makoto Kowata, 15 years old, is a professional witch. She left Yokohama with Chito, her black cat, to live in the house of her relatives in Aomori. This is where she begins to train as a witch.\nEven though Makoto's powers are still limited to just flying through the sky, she and her second cousins Kei and Chinatsu surely make the most out of each and every day.\n(Source: NTV)",
+  "title": {
+    "en": "Flying Witch",
+    "jp": "Flying Witch"
+  },
+  "releasedAt": "2016-04-10T00:00:00.000Z",
+  "finishedAt": "2016-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11317/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11317/original.png",
+  "categories": [
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "countryside",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "present",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/flying-witch",
+    "https://www.hidive.com/tv/flying-witch"
+  ],
+  "relations": {
+    "kitsu": "11317",
+    "anidb": "11469",
+    "anilist/anime": "21284",
+    "aozora": "Og68aQlQ0m",
+    "myanimelist/anime": "31376",
+    "thetvdb": "300816/1",
+    "trakt": "102187"
+  }
+}

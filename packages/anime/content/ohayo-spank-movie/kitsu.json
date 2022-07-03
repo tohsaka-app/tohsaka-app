@@ -1,0 +1,30 @@
+{
+  "slug": "ohayo-spank-movie",
+  "synopsis": "Based on the shoujo manga by Yukimuro Shun'ichi and Takanashi Shizue serialised in Nakayoshi. \n(Source: AniDB)",
+  "title": {
+    "jp": "Ohayou! Spank (Movie)"
+  },
+  "releasedAt": "1982-03-13T00:00:00.000Z",
+  "finishedAt": "1982-03-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9504/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9504",
+    "anidb": "7615",
+    "anilist/anime": "19897",
+    "aozora": "ANG87ueRHQ",
+    "myanimelist/anime": "19897"
+  }
+}

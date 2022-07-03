@@ -1,0 +1,23 @@
+{
+  "slug": "ari-no-seikatsu",
+  "synopsis": "A praying mantis strays into the society of ants that is organized by a mechanical queen.",
+  "title": {
+    "jp": "Ari no Seikatsu"
+  },
+  "releasedAt": "1994-01-01T00:00:00.000Z",
+  "finishedAt": "1994-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5062/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5062",
+    "anilist/anime": "7633",
+    "aozora": "iKh0ufUm0O",
+    "myanimelist/anime": "7633"
+  }
+}

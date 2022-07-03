@@ -1,0 +1,31 @@
+{
+  "slug": "ginga-kikoutai-majestic-prince-special",
+  "synopsis": "An all-new \"episode 25\" will air at the end of the rebroadcast of the original 2013 TV series, which will begin in July. The episode will connect the series to the film.\n\n(Source: ANN)",
+  "title": {
+    "en": "Majestic Prince Special",
+    "jp": "Ginga Kikoutai Majestic Prince: Mirai e no Tsubasa"
+  },
+  "releasedAt": "2016-10-01T00:00:00.000Z",
+  "finishedAt": "2016-10-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12002/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "school life",
+    "science fiction",
+    "space"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/majestic-prince-special"
+  ],
+  "relations": {
+    "kitsu": "12002",
+    "anidb": "12033",
+    "anilist/anime": "21752",
+    "aozora": "rOWzaRZQw0",
+    "myanimelist/anime": "33024"
+  }
+}

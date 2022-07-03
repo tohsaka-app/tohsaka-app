@@ -1,0 +1,29 @@
+{
+  "slug": "backkom-meogeujan-yeohaeng",
+  "synopsis": "A cowardly boy ends up having a magic necklace delivered to him which transports him to the world of Backkom. There the rag-tag team get out of jams and the boy learns a bit of courage by the time he arrives home.",
+  "title": {
+    "en": "My Friend Bernard",
+    "jp": "Backkom Meogeujan Yeohaeng"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9206/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9206",
+    "anidb": "10322",
+    "anilist/anime": "102986",
+    "aozora": "ahrRLHN8st",
+    "myanimelist/anime": "25963"
+  }
+}

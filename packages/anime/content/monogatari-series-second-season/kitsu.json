@@ -1,0 +1,45 @@
+{
+  "slug": "monogatari-series-second-season",
+  "synopsis": "Apparitions, oddities, and gods continue to manifest around Koyomi Araragi and his close-knit group of friends: Tsubasa Hanekawa, the group's modest genius; Shinobu Oshino, the resident doughnut-loving vampire; athletic deviant Suruga Kanbaru; bite-happy spirit Mayoi Hachikuji; Koyomi's cutesy stalker Nadeko Sengoku; and Hitagi Senjogahara, the poignant tsundere. \n\nMonogatari Series: Second Season revolves around these individuals and their struggle to overcome the darkness that is rapidly approaching. A new semester has begun and with graduation looming over Koyomi, he must quickly decide the paths he will walk, as well as the relationships and friends that he'll save. \n\nBut as strange events begin to unfold, Koyomi is nowhere to be found, and a vicious tiger apparition has appeared in his absence. Tsubasa Hanekawa has become its target, and she must fend for herself—or bow to the creature's perspective on the feebleness of humanity. \n\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Monogatari Series: Second Season",
+    "jp": "Monogatari Series: Second Season"
+  },
+  "releasedAt": "2013-07-07T00:00:00.000Z",
+  "finishedAt": "2013-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/7573/poster_image/919abf3df7d1b1806ce06d890ae0bb92.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7573/original.png",
+  "categories": [
+    "asia",
+    "breaking the fourth wall",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "harem",
+    "high school",
+    "japan",
+    "mystery",
+    "romance",
+    "time travel",
+    "vampire",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/monogatari-second-season",
+    "https://www.hulu.com/monogatari-series-second-season"
+  ],
+  "relations": {
+    "kitsu": "7573",
+    "anidb": "9183",
+    "anilist/anime": "17074",
+    "aozora": "IBcH3KTq1G",
+    "myanimelist/anime": "17074",
+    "thetvdb": "102261/3",
+    "thetvdb/season": "491474",
+    "thetvdb/series": "102261",
+    "trakt": "45938"
+  }
+}

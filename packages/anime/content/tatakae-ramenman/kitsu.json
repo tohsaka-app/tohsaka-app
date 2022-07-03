@@ -1,0 +1,35 @@
+{
+  "slug": "tatakae-ramenman",
+  "synopsis": "Set in a land where several martial arts styles collide, including (but not limited to) Chinese Kung Fu, Japanese Karate, and South Korean Taekwondo. Yet amongst these Shaolin-trained fighters and men powerful enough to cut the face of a mountain, Victory Ramenman is said to be the strongest of them all. At a young age, he witnessed his father Somenman being murdered by members of the Cobra Gang (who are still running rampant to this day). Found and taken in by the wise old Chen Sou-Mei, Ramenman trains for 12 years under his master and learns the great Essential Battle Dragon (闘龍極意書, To Ryuu Gokui Sho) style of Choujin Martial arts. Now, with his young sidekick Shao-Mai, Ramenman travels the land seeking vengeance for his father, fighting several villains along the way.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Fight!! Ramenman",
+    "jp": "Tatakae!! Ramenman"
+  },
+  "releasedAt": "1988-01-10T00:00:00.000Z",
+  "finishedAt": "1988-09-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3605/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "china",
+    "comedy",
+    "earth",
+    "martial arts",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3605",
+    "anidb": "1817",
+    "anilist/anime": "4427",
+    "aozora": "84UBee0syh",
+    "myanimelist/anime": "4427",
+    "thetvdb": "264809/1",
+    "thetvdb/series": "264809",
+    "trakt": "68863"
+  }
+}

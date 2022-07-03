@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-bokutachi-pichu-brothers-party-wa-oosawagi-no-maki",
+  "synopsis": "This is an animated cartoon that was released inside the game Pokémon Channel.\nA half-hour long anime show, broken into five short segments, featuring the Pichu Brothers. Meowth throws a party that the Pichu brothers and their friends are not invited to. After a series of events, they find out they were invited, but their invitations were simply delivered late. They go to Meowth's Party and hear him sing. The series has a total of five episodes, each on its own channel.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Pokemon: Pichu Bros. in Party Panic",
+    "jp": "Pokemon: Bokutachi Pichu Brothers - Party wa Oosawagi! no Maki"
+  },
+  "releasedAt": "2003-07-18T00:00:00.000Z",
+  "finishedAt": "2003-07-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4763/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4763",
+    "anidb": "3983",
+    "anilist/anime": "6877",
+    "aozora": "PoPT5U88GM",
+    "myanimelist/anime": "6877"
+  }
+}

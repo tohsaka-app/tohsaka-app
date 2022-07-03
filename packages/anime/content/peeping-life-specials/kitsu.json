@@ -1,0 +1,24 @@
+{
+  "slug": "peeping-life-specials",
+  "synopsis": "First special is a music video for the opening song. Second special is a bonus episode.",
+  "title": {
+    "jp": "Peeping Life Specials"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7597/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7597",
+    "anilist/anime": "17159",
+    "aozora": "x3X15eYULY",
+    "myanimelist/anime": "17159"
+  }
+}

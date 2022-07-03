@@ -1,0 +1,34 @@
+{
+  "slug": "golgo-13-the-professional",
+  "synopsis": "After assassinating the son of business tycoon Leonard Dawson, Golgo 13 finds himself prey to the CIA and the U.S. Army, whom Dawson has personally hired to kill the assassin. As days pass by, Dawson slowly loses his sanity as he continues to plot every attempt to kill Golgo 13 even without caring about who hired the assassin to kill his son.\n(Source: ANN)",
+  "title": {
+    "en": "Golgo 13: The Professional",
+    "jp": "Golgo 13"
+  },
+  "releasedAt": "1983-05-28T00:00:00.000Z",
+  "finishedAt": "1983-05-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1580/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "crime",
+    "gunfights",
+    "mafia",
+    "military",
+    "rotten world",
+    "violence"
+  ],
+  "externals": [
+    "https://www.amazon.com/Golgo-13-Professional-Tetsuro-Sagawa/dp/B07S99KJPY/"
+  ],
+  "relations": {
+    "kitsu": "1580",
+    "anidb": "1076",
+    "anilist/anime": "1760",
+    "aozora": "KysP2zz1pb",
+    "myanimelist/anime": "1760"
+  }
+}

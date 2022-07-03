@@ -1,0 +1,26 @@
+{
+  "slug": "juujika-you-and-i",
+  "synopsis": "Music video for the song \"Juujika You and I\" from the Base Ball Bear's album Cypress Girls. This features vocals reminiscent of Michael Jackson funk.",
+  "title": {
+    "en": "Cross You and I",
+    "jp": "Juujika You and I"
+  },
+  "releasedAt": "2010-09-03T00:00:00.000Z",
+  "finishedAt": "2010-09-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8841/original.jpg",
+  "categories": [
+    "mecha",
+    "music",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8841",
+    "anilist/anime": "19481",
+    "aozora": "VJ0WY19Mqg",
+    "myanimelist/anime": "19481"
+  }
+}

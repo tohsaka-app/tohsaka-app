@@ -1,0 +1,47 @@
+{
+  "slug": "maken-ki",
+  "synopsis": "Based on the manga series by Hiromitsu Takeda, this romantic comedy is about Takeru Ohyama, a typical perverted teenage boy. His new school doesn't require entrance exams, and it just turned co-ed! Unfortunately, his dreams of a happy high school life are dashed when he finds out the school is much more than it seems. All of the students wield a special item—a Maken—to unleash their magical abilities in duels! Can Takeru find a Maken that works for him? Even while trying to fit in at a new school and dealing with all kinds of girl problems?\n\n(Source: FUNimation)",
+  "title": {
+    "jp": "Maken-Ki!"
+  },
+  "releasedAt": "2011-10-05T00:00:00.000Z",
+  "finishedAt": "2011-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5949/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5949/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "contemporary fantasy",
+    "earth",
+    "ecchi",
+    "harem",
+    "japan",
+    "love polygon",
+    "martial arts",
+    "present",
+    "romance",
+    "school life",
+    "sudden girlfriend appearance",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/maken-ki",
+    "https://www.funimation.com/shows/maken-ki/",
+    "https://www.hulu.com/maken-ki-battling-venus"
+  ],
+  "relations": {
+    "kitsu": "5949",
+    "anidb": "8265",
+    "anilist/anime": "9936",
+    "aozora": "MVEAKvX1FV",
+    "hulu": "50005322",
+    "myanimelist/anime": "9936",
+    "thetvdb": "252474/1",
+    "thetvdb/season": "475734",
+    "thetvdb/series": "252474",
+    "trakt": "60297"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "hatsune-tenchikaibyaku-shinwa",
+  "synopsis": "The official music video for the Vocaloid song Hatsune Creation Myth, by the producer cosMo.",
+  "title": {
+    "en": "Hatsune Creation Myth",
+    "jp": "Hatsune Tenchikaibyaku Shinwa"
+  },
+  "releasedAt": "2021-08-20T00:00:00.000Z",
+  "finishedAt": "2021-08-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45569/poster_image/e1d8b41c546268b2ae144f140baea227.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45569/cover_image/3e8f6ece00d108b2e933ee37c89866ce.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Q7Difhy3mOw"
+  ],
+  "relations": {
+    "kitsu": "45569"
+  }
+}

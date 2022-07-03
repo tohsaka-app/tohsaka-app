@@ -1,0 +1,25 @@
+{
+  "slug": "chiba-pedal-yowamushi-pedal-to-manabu-jitensha-koutsuuanzen",
+  "synopsis": "A collaboration ad campaign between Yowamushi Pedal and Chiba prefecture about bicycle safety.",
+  "title": {
+    "jp": "Chiba Pedal: Yowamushi Pedal to Manabu Jitensha Koutsuu Anzen"
+  },
+  "releasedAt": "2016-07-01T00:00:00.000Z",
+  "finishedAt": "2016-09-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12469/original.jpg",
+  "categories": [
+    "motorsport",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12469",
+    "anidb": "12255",
+    "anilist/anime": "116015",
+    "aozora": "MYFEw0Y5cz",
+    "myanimelist/anime": "33522"
+  }
+}

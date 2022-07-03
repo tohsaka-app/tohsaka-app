@@ -1,0 +1,27 @@
+{
+  "slug": "xingchen-bian-po-tian-mi-ju",
+  "synopsis": "The fourth season of Xingchen Bian.",
+  "title": {},
+  "releasedAt": "2022-01-23T00:00:00.000Z",
+  "finishedAt": "2022-04-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46180/poster_image/6f8a44c56089703c38edfee81a93f4b0.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "dragon",
+    "fantasy",
+    "martial arts",
+    "romance",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46180",
+    "anilist/anime": "137738",
+    "myanimelist/anime": "50667"
+  }
+}

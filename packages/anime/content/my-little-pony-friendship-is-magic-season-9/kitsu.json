@@ -1,0 +1,32 @@
+{
+  "slug": "my-little-pony-friendship-is-magic-season-9",
+  "synopsis": "Season 9 of My Little Pony Friendship is Magic",
+  "title": {
+    "en": "My Little Pony: Friendship Is Magic Season 9",
+    "jp": "My Little Pony: ~ Tomodachi wa Mahou ~ 9"
+  },
+  "releasedAt": "2019-04-06T00:00:00.000Z",
+  "finishedAt": "2019-10-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44354/original.jpg",
+  "categories": [
+    "anime influenced",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "kids",
+    "magic",
+    "magical girl",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.hulu.com/series/my-little-pony-friendship-is-magic-3790ca9f-1a6b-4130-b0b3-e3fc0fe5a5f8"
+  ],
+  "relations": {
+    "kitsu": "44354",
+    "thetvdb": "212171/9"
+  }
+}

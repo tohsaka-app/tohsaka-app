@@ -1,0 +1,26 @@
+{
+  "slug": "tetsuwan-atom-ao-kishi-no-kan",
+  "synopsis": "The film begins with the Phoenix retelling the tales and hopes of Astro Boy. Many of the visual being directly taken from the 1980s TV series as it recaps some of his adventures.\nFollowing this recap, Astro Boy confronts Blue Bon and tries to convince him to change his mind about the humans. But Blue Bon misunderstands, assuming that if Astro Boy does not agree then he is an enemy. Blue Bon hates humans because they broke apart his family (Maria and Tonto). A battle begins between the two after Astro Boy fails to convince Blue Bon that they aren't each others' enemy.\n(Source: Astro Boy Wiki)",
+  "title": {
+    "jp": "Tetsuwan Atom: Ao Kishi no Kan"
+  },
+  "releasedAt": "1999-07-20T00:00:00.000Z",
+  "finishedAt": "1999-07-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8938/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8938",
+    "anidb": "11156",
+    "anilist/anime": "17965",
+    "aozora": "RAE8337iIv",
+    "myanimelist/anime": "17965"
+  }
+}

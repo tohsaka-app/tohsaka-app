@@ -1,0 +1,25 @@
+{
+  "slug": "baka-miserables",
+  "synopsis": "Baka Miserables follows the every day life of a family that goes into Les Misérables-style ballads for minor inconveniences or irks. ",
+  "title": {
+    "jp": "Baka Misérables"
+  },
+  "releasedAt": "2013-05-21T00:00:00.000Z",
+  "finishedAt": "2013-06-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9212/original.jpg",
+  "categories": [
+    "music",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9212",
+    "anidb": "9958",
+    "anilist/anime": "101181",
+    "aozora": "wE13R4lNpd",
+    "myanimelist/anime": "20705"
+  }
+}

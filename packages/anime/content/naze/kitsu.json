@@ -1,0 +1,23 @@
+{
+  "slug": "naze",
+  "synopsis": "A music video for the song by Keropons and Sayama Children's Choir that was featured on NHK's Minna no Uta Program.",
+  "title": {
+    "jp": "Naze"
+  },
+  "releasedAt": "2012-02-01T00:00:00.000Z",
+  "finishedAt": "2012-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10720/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10720",
+    "aozora": "2sEyCByxev",
+    "myanimelist/anime": "30209"
+  }
+}

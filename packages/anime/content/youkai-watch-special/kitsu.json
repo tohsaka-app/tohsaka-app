@@ -1,0 +1,29 @@
+{
+  "slug": "youkai-watch-special",
+  "synopsis": "The new show will feature unique and returning Yo-kai. The comedy will also center on the original series' main characters: fifth-grader Keita (Nate in the English version), ghost butler Whisper, and popular Yo-kai like Jibanyan and Komasan. The original cast members for these four characters are returning for this new series.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Youkai Watch ♪"
+  },
+  "releasedAt": "2021-04-09T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44215/original.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "friendship",
+    "ghost",
+    "kids",
+    "parody",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44215",
+    "anidb": "16077",
+    "anilist/anime": "130445",
+    "myanimelist/anime": "48365"
+  }
+}

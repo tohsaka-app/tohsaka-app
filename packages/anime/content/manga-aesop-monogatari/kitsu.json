@@ -1,0 +1,29 @@
+{
+  "slug": "manga-aesop-monogatari",
+  "synopsis": "Aesop is a trouble-making young boy who finds himself in another world filled with creatures he never believed to exist, such as fairies and talking donkeys. He sets off to find a way back to the nomal world. On his jouney he befriends many classical creatures from well-known fables and encounters many trials, each teaching him a valuable lesson. ",
+  "title": {
+    "jp": "Manga Aesop Monogatari (TV)"
+  },
+  "releasedAt": "1983-10-10T00:00:00.000Z",
+  "finishedAt": "1983-12-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2842/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2842",
+    "anidb": "2277",
+    "anilist/anime": "3180",
+    "aozora": "z4dDswqN53",
+    "myanimelist/anime": "3180",
+    "thetvdb": "95671/1",
+    "thetvdb/series": "95671",
+    "trakt": "61324"
+  }
+}

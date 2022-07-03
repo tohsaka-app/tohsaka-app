@@ -1,0 +1,30 @@
+{
+  "slug": "ijime",
+  "synopsis": "The March issue of Shogakukan's Ciao shoujo magazine bundled a DVD with a special anime of Igarashi Kaoru's Ijime manga.",
+  "title": {
+    "jp": "Ijime: Ikenie no Kyoushitsu"
+  },
+  "releasedAt": "2012-02-03T00:00:00.000Z",
+  "finishedAt": "2012-02-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6772/original.jpg",
+  "categories": [
+    "asia",
+    "coming of age",
+    "earth",
+    "elementary school",
+    "japan",
+    "present",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6772",
+    "anidb": "8881",
+    "anilist/anime": "12599",
+    "aozora": "RjJjQcYaCB",
+    "myanimelist/anime": "12599"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "boukyaku-battery",
+  "synopsis": "The story follows a group of baseball players who after having quit playing baseball are reunited by fate after enrolling in the same university. At the time the university did not have a baseball team, so the group who have previously faced off against each other throughout the years. Form a team and start playing once again, reviving their passion for the sport. (Source: MAL News)",
+  "title": {
+    "jp": "Boukyaku Battery"
+  },
+  "releasedAt": "2020-10-11T00:00:00.000Z",
+  "finishedAt": "2020-10-11T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43732/original.jpg",
+  "categories": [
+    "baseball",
+    "school life",
+    "shounen",
+    "sports",
+    "university"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43732",
+    "anidb": "15765",
+    "anilist/anime": "124703",
+    "myanimelist/anime": "42829"
+  }
+}

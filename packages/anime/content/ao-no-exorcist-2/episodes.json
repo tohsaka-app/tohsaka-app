@@ -1,0 +1,110 @@
+[
+  {
+    "title": {
+      "jp": "Koushi Ranshou"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2017-01-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Goetsudoushuu"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2017-01-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gishinanki"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2017-01-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Haishin Kigi"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2017-01-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Aienkien"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2017-02-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Menrihoushin"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2017-02-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kienbanjuu"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2017-02-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fushisouden"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2017-02-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Secchuu Shouhaku"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2017-03-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Futoufukutsu"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2017-03-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kouki Sanzen"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2017-03-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kyoshintankai"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2017-03-25T00:00:00.000Z",
+    "content": {}
+  }
+]

@@ -1,0 +1,40 @@
+{
+  "slug": "sketchbook-full-color-s",
+  "synopsis": "Sora Kajiwara is a shy first year who joined the art club at her school. Sora slowly becomes less shy as she befriends everyone in the art club. She also grows artistically and learns how to sketch the beautiful world around her... and cats!",
+  "title": {
+    "en": "Sketchbook ~full color's~",
+    "jp": "Sketchbook: Full Color's"
+  },
+  "releasedAt": "2007-10-02T00:00:00.000Z",
+  "finishedAt": "2007-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2663/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2663/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "present",
+    "school clubs",
+    "school life",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/sketchbook-full-colors"
+  ],
+  "relations": {
+    "kitsu": "2663",
+    "anidb": "5186",
+    "anilist/anime": "2942",
+    "aozora": "PCsJ2cp8VA",
+    "myanimelist/anime": "2942",
+    "thetvdb": "81375/1",
+    "thetvdb/series": "81375",
+    "trakt": "42666"
+  }
+}

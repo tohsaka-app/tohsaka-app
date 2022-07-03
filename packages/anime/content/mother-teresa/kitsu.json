@@ -1,0 +1,24 @@
+{
+  "slug": "mother-teresa",
+  "synopsis": "A biographical anime about Mother Teresa.",
+  "title": {
+    "jp": "Mother Teresa"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9467/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9467",
+    "aozora": "b89ztZvAqd",
+    "myanimelist/anime": "26281"
+  }
+}

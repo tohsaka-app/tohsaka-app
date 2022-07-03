@@ -1,0 +1,23 @@
+{
+  "slug": "kakegurui-picture-drama",
+  "synopsis": "",
+  "title": {
+    "jp": "Kakegurui Picture Drama"
+  },
+  "releasedAt": "2017-10-13T00:00:00.000Z",
+  "finishedAt": "2017-12-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42112/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42112",
+    "anidb": "12834",
+    "anilist/anime": "107622",
+    "myanimelist/anime": "38939"
+  }
+}

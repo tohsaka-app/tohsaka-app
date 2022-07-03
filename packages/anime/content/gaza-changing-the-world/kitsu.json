@@ -1,0 +1,26 @@
+{
+  "slug": "gaza-changing-the-world",
+  "synopsis": "A promotional video produced by the Shizuoka Muslim Association for their campaign to fund and build a mosque in Shizuoka prefecture.\n(Source: ANN)",
+  "title": {
+    "jp": "Gaza: Changing the World"
+  },
+  "releasedAt": "2015-06-27T00:00:00.000Z",
+  "finishedAt": "2015-06-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12148/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=w-6O1yoYKv8"
+  ],
+  "relations": {
+    "kitsu": "12148",
+    "anilist/anime": "103527",
+    "aozora": "1sj7X7vJTM",
+    "myanimelist/anime": "32581"
+  }
+}

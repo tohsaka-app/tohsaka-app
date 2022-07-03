@@ -1,0 +1,27 @@
+{
+  "slug": "sore-ike-anpanman-yakisobapanman-to-black-sabotenman",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Yakisobapanman to Black Sabotenman"
+  },
+  "releasedAt": "2007-07-29T00:00:00.000Z",
+  "finishedAt": "2007-07-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9630/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9630",
+    "anidb": "7751",
+    "anilist/anime": "112006",
+    "aozora": "mU67vI8fiX",
+    "myanimelist/anime": "21297"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "ranma-chou-musabetsu-kessen-ranma-team-vs-densetsu-no-houou",
+  "synopsis": "Kuno purchases a strange egg, believing that the mysterious powers of the legendary Phoenix will help him defeat Ranma. But when the egg hatches on his head, the bird goes out of control and wreaks havoc all over Tokyo. Ranma and the gang must use any means necessary to get the Phoenix to leave Kuno's head and fly away.\n(Source: ANN)",
+  "title": {
+    "en": "Ranma ½: Team Ranma vs. The Legendary Phoenix",
+    "jp": "Ranma ½: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou"
+  },
+  "releasedAt": "1994-08-20T00:00:00.000Z",
+  "finishedAt": "1994-08-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/900/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/900/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "martial arts",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "900",
+    "anidb": "2850",
+    "anilist/anime": "1010",
+    "aozora": "Xv7EwH0vn6",
+    "myanimelist/anime": "1010"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "natsu-no-ginkei",
+  "synopsis": "A music video for the Aobouzu song \"Natsu no Ginkei\". ",
+  "title": {
+    "jp": "Natsu no Ginkei"
+  },
+  "releasedAt": "2014-10-09T00:00:00.000Z",
+  "finishedAt": "2014-10-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12940/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12940",
+    "anilist/anime": "103749",
+    "aozora": "xmCyorkBzg",
+    "myanimelist/anime": "32857"
+  }
+}

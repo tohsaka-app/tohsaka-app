@@ -1,0 +1,28 @@
+{
+  "slug": "shinkansen-henkei-robo-shinkalion-mirai-kara-kita-shinsoku-no-alfa-x",
+  "synopsis": "A film sequel to the anime, titled Shinkansen Henkei Robo Shinkalion the Movie: Mirai Kara Kita Shinsoku no ALFA-X.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "Transformable Shinkansen Robot Shinkalion Movie",
+    "jp": "Shinkansen Henkei Robo Shinkalion: Mirai kara Kita Shinsoku no ALFA-X"
+  },
+  "releasedAt": "2019-12-27T00:00:00.000Z",
+  "finishedAt": "2019-12-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43354/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "robot",
+    "science fiction",
+    "super robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43354",
+    "anilist/anime": "110131",
+    "myanimelist/anime": "39967"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "tekkaman-blade-ova-burning-clock",
+  "synopsis": "The first OVA, Burning Clock, tells the story of the Aiba family, goes into further detail about Shinya and Takaya's rivalry.",
+  "title": {
+    "en": "Tekkaman Blade: Burning Clock",
+    "jp": "Uchuu no Kishi Tekkaman Blade OVA: Burning Clock"
+  },
+  "releasedAt": "1999-11-30T00:00:00.000Z",
+  "finishedAt": "1999-11-30T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2081/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2081",
+    "anilist/anime": "2299",
+    "aozora": "9DohXK9bNw",
+    "myanimelist/anime": "2299"
+  }
+}

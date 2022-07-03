@@ -1,0 +1,26 @@
+{
+  "slug": "crystal-clear",
+  "synopsis": "A music video for BIGMAMA's song \"Crystal Clear,\" which focuses on a young woman's attempt to achieve space travel and her interactions with her cat.",
+  "title": {
+    "en": "Crystal Clear",
+    "jp": "Crystal Clear"
+  },
+  "releasedAt": "2017-07-19T00:00:00.000Z",
+  "finishedAt": "2017-07-19T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14011/original.jpg",
+  "categories": [
+    "music",
+    "space",
+    "space travel",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14011",
+    "anilist/anime": "101116",
+    "myanimelist/anime": "36136"
+  }
+}

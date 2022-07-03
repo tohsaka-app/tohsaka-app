@@ -1,0 +1,24 @@
+{
+  "slug": "anata-ga-miemashita",
+  "synopsis": "Tosuke is a home tutor who meets a girl named Miyako on the job. She is blind and doesn't move or speak. But is Tosuke seeing the real Miyako?\n\n1st year work 2017, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Invisible Touch",
+    "jp": "Anata ga Miemashita"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45009/original.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/bBSnZWliujQ"
+  ],
+  "relations": {
+    "kitsu": "45009",
+    "anilist/anime": "115141"
+  }
+}

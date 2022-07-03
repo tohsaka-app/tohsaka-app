@@ -1,0 +1,23 @@
+{
+  "slug": "shuukan-shimakou-special",
+  "synopsis": "Preview episode aired online.",
+  "title": {
+    "jp": "Shuukan Shimakou Special"
+  },
+  "releasedAt": "2011-01-04T00:00:00.000Z",
+  "finishedAt": "2011-01-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6548/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6548",
+    "anilist/anime": "11611",
+    "aozora": "gL6u7KyH4g",
+    "myanimelist/anime": "11611"
+  }
+}

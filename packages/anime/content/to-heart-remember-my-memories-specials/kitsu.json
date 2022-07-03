@@ -1,0 +1,28 @@
+{
+  "slug": "to-heart-remember-my-memories-specials",
+  "synopsis": "This is a special to To Heart: Remember My Memories, which includes fighting scenes between all the female characters.",
+  "title": {
+    "jp": "To Heart: Remember My Memories Specials"
+  },
+  "releasedAt": "2006-01-26T00:00:00.000Z",
+  "finishedAt": "2006-08-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/627/original.jpg",
+  "categories": [
+    "comedy",
+    "martial arts",
+    "parody",
+    "samurai",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "627",
+    "anilist/anime": "686",
+    "aozora": "iuULUtaJvi",
+    "myanimelist/anime": "686"
+  }
+}

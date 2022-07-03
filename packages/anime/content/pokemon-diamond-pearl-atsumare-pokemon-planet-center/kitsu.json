@@ -1,0 +1,27 @@
+{
+  "slug": "pokemon-diamond-pearl-atsumare-pokemon-planet-center",
+  "synopsis": "Hey everyone! I'm Satoshi! Have you ever looked up at the night sky and gazed at the stars floating up there? Just like with Pokemon, the star-studded sky has lots and lots of mysteries! The Pokemon Planet Center is a place where you can solve some of the mysteries of space together with Pikachu! So let's all get together at the Pokemon Planet Center!\n\n(Source: Dogasu's Backpack)",
+  "title": {
+    "jp": "Pokemon Diamond & Pearl Atsumare! Pokemon Planet Center"
+  },
+  "releasedAt": "2006-07-02T00:00:00.000Z",
+  "finishedAt": "2006-07-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43342/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43342",
+    "myanimelist/anime": "42136"
+  }
+}

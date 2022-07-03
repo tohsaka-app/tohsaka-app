@@ -1,0 +1,31 @@
+{
+  "slug": "gregory-horror-show",
+  "synopsis": "The first series is a set of 25 stories about a male businessman arriving at the hotel after taking a train home from work. He encounters the mysterious owner of the hotel, an old mouse known as Gregory, who suggests that he stay a while. Soon, the man becomes drawn into a bizarre series of events taking place within Gregory House as he tries desperately to escape from this bizarre purgatory.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "Gregory Horror Show",
+    "jp": "Gregory Horror Show"
+  },
+  "releasedAt": "1999-10-01T00:00:00.000Z",
+  "finishedAt": "2001-06-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4410/original.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "horror",
+    "mystery",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4410",
+    "anidb": "2235",
+    "anilist/anime": "6069",
+    "aozora": "wcFVzoBygh",
+    "myanimelist/anime": "6069",
+    "thetvdb": "286497/1",
+    "thetvdb/series": "286497"
+  }
+}

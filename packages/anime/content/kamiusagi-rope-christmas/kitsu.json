@@ -1,0 +1,24 @@
+{
+  "slug": "kamiusagi-rope-christmas",
+  "synopsis": "A Christmas special of Kamiusagi no Rope aired in all TOHO Cinemas theaters.",
+  "title": {
+    "en": "Paper Rabbit Rope: Christmas",
+    "jp": "Kamiusagi Rope: Christmas"
+  },
+  "releasedAt": "2011-12-23T00:00:00.000Z",
+  "finishedAt": "2011-12-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7040/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7040",
+    "anilist/anime": "13829",
+    "myanimelist/anime": "13829"
+  }
+}

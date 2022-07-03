@@ -1,0 +1,22 @@
+{
+  "slug": "slow-start-web-yokoku-movie",
+  "synopsis": "Web-exclusive next episode previews for Slow Start. These contain unique chibi animations and are released on Slow Start's official Twitter page as well as Aniplex's official YouTube channel. They are released about a day prior the full episode airing.\n\n(Source: MyAnimeList)",
+  "title": {
+    "jp": "Slow Start: Web Yokoku Movie"
+  },
+  "releasedAt": "2018-01-12T00:00:00.000Z",
+  "finishedAt": "2018-03-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41728/original.png",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41728",
+    "anilist/anime": "132014",
+    "myanimelist/anime": "37104"
+  }
+}

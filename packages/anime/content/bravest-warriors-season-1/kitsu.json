@@ -1,0 +1,32 @@
+{
+  "slug": "bravest-warriors-season-1",
+  "synopsis": "Set in the year 3085, the series follows four teenage heroes-for-hire as they warp through the universe to save adorable aliens and their worlds using the power of their emotions.",
+  "title": {
+    "en": "Bravest Warriors Season 1",
+    "jp": "Bravest Warriors Season 1"
+  },
+  "releasedAt": "2012-11-08T00:00:00.000Z",
+  "finishedAt": "2013-07-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14109/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14109/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "future",
+    "science fiction",
+    "space"
+  ],
+  "externals": [
+    "https://vrv.co/series/GYP8VJJQY/Bravest-Warriors",
+    "https://www.youtube.com/watch?v=mpDOscUDQ_0&list=PL2DcNkn8HAwSPwGn9h2GGM4Z0t6B0ySVD"
+  ],
+  "relations": {
+    "kitsu": "14109",
+    "thetvdb": "263975/1"
+  }
+}

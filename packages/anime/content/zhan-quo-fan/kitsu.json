@@ -1,0 +1,27 @@
+{
+  "slug": "zhan-quo-fan",
+  "synopsis": "",
+  "title": {
+    "en": "The Seven",
+    "jp": "Zhan Guo FAN"
+  },
+  "releasedAt": "2016-08-22T00:00:00.000Z",
+  "finishedAt": "2016-11-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14012/original.jpg",
+  "categories": [
+    "fantasy",
+    "magic",
+    "martial arts",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14012",
+    "anilist/anime": "101907",
+    "aozora": "IiLsEou4Fc",
+    "myanimelist/anime": "36428"
+  }
+}

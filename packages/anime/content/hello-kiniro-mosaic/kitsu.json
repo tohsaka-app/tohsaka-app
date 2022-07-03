@@ -1,0 +1,40 @@
+{
+  "slug": "hello-kiniro-mosaic",
+  "synopsis": "Second season of Kiniro Mosaic.",
+  "title": {
+    "en": "Hello!! KINMOZA!",
+    "jp": "Hello!! Kiniro Mosaic"
+  },
+  "releasedAt": "2015-04-06T00:00:00.000Z",
+  "finishedAt": "2015-06-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8431/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8431/original.jpeg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "friendship",
+    "japan",
+    "present",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/hello-kinmoza"
+  ],
+  "relations": {
+    "kitsu": "8431",
+    "anidb": "10603",
+    "anilist/anime": "20654",
+    "aozora": "89wlZm330i",
+    "hulu": "50021512",
+    "myanimelist/anime": "23269",
+    "thetvdb": "269872/2",
+    "thetvdb/season": "592139",
+    "thetvdb/series": "269872",
+    "trakt": "70751"
+  }
+}

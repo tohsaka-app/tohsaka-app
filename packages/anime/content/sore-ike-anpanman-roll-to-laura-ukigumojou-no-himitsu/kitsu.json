@@ -1,0 +1,26 @@
+{
+  "slug": "sore-ike-anpanman-roll-to-laura-ukigumojou-no-himitsu",
+  "synopsis": "14th Anpanman movie.",
+  "title": {
+    "jp": "Sore Ike! Anpanman: Roll to Laura Ukigumojou no Himitsu"
+  },
+  "releasedAt": "2002-07-13T00:00:00.000Z",
+  "finishedAt": "2002-07-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7610/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7610",
+    "anidb": "7550",
+    "anilist/anime": "17219",
+    "aozora": "GEAS54uauH",
+    "myanimelist/anime": "17219"
+  }
+}

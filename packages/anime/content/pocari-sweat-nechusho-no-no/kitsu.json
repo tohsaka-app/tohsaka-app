@@ -1,0 +1,23 @@
+{
+  "slug": "pocari-sweat-nechusho-no-no",
+  "synopsis": null,
+  "title": {
+    "jp": "Pocari Sweat: Nechusho No!No!"
+  },
+  "releasedAt": "2020-01-24T00:00:00.000Z",
+  "finishedAt": "2020-01-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46160/poster_image/e89d3024ac019de957379784dd855a1d.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Hjt59bZqC0g&ab_channel=%E5%A4%A7%E5%A1%9A%E8%A3%BD%E8%96%AC%E5%85%AC%E5%BC%8F%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
+  ],
+  "relations": {
+    "kitsu": "46160"
+  }
+}

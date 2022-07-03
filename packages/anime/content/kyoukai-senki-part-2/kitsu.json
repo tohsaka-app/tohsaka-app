@@ -1,0 +1,29 @@
+{
+  "slug": "kyoukai-senki-part-2",
+  "synopsis": "The second cour of Kyoukai Senki.",
+  "title": {
+    "en": "AMAIM Warrior at the Borderline 2nd Season",
+    "jp": "Kyoukai Senki Part 2"
+  },
+  "releasedAt": "2022-04-11T00:00:00.000Z",
+  "finishedAt": "2022-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45703/poster_image/6c58f2361eb8674481426ed2ea739f07.jpg",
+  "categories": [
+    "action",
+    "dystopia",
+    "mecha",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GJ0H7QXE2/amaim-warrior-at-the-borderline"
+  ],
+  "relations": {
+    "kitsu": "45703",
+    "anilist/anime": "143203",
+    "myanimelist/anime": "50678"
+  }
+}

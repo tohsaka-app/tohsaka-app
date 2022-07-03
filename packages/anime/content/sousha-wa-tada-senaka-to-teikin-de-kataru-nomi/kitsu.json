@@ -1,0 +1,22 @@
+{
+  "slug": "sousha-wa-tada-senaka-to-teikin-de-kataru-nomi",
+  "synopsis": "Official music video for the song Sousha wa Tada Senaka to Teikin de Kataru Nomiby the fictional band Irodorimidori. It is the 21st song in the franchise and focuses on Nachi Tsukisuzu.\n",
+  "title": {
+    "jp": "Sousha wa Tada Senaka to Teikin de Kataru Nomi"
+  },
+  "releasedAt": "2017-11-20T00:00:00.000Z",
+  "finishedAt": "2017-11-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14134/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14134",
+    "anilist/anime": "102847",
+    "myanimelist/anime": "36841"
+  }
+}

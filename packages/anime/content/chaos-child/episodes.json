@@ -1,0 +1,108 @@
+[
+  {
+    "title": {
+      "jp": "Jouhou Kyousha wa Jiken wo Ou"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2017-01-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Jiken ga Karera wo Usobuku"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2017-01-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Karera no Omatsuri no Ohanashi no Iibun"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2017-01-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ohanashi no Uragwa ga Mousou wo Hajimeru"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2017-02-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mousou no Juunin ga Sawagiseru"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2017-02-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Okashita Kako ni Maniau Tame ni"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2017-02-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2017-02-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sakusousuru Hikari to Kage ni Madou Omoi wa"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2017-03-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sakusousuru Omowaku no Yukitsuku Tokoro"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2017-03-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Semarikuru Kako no Kioku"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2017-03-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kare no Tatakai"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2017-03-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kanojo no Omowaku"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2017-03-29T00:00:00.000Z",
+    "content": {}
+  }
+]

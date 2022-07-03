@@ -1,0 +1,25 @@
+{
+  "slug": "pikachu-no-asa-no-nikka",
+  "synopsis": "Now, let's take a look at a morning of a Pikachu and find out what kind of routine it goes through.\n\n(Source: Official YouTube Channel)",
+  "title": {
+    "en": "Pikachu's Morning Routine",
+    "jp": "Pikachu no Asa no Nikka"
+  },
+  "releasedAt": "2020-07-10T00:00:00.000Z",
+  "finishedAt": "2020-07-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46205/poster_image/e2291f918fad49bc645348ccb53c04c1.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=lSi-2GEqyBE"
+  ],
+  "relations": {
+    "kitsu": "46205",
+    "myanimelist/anime": "51883"
+  }
+}

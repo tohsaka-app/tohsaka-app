@@ -1,0 +1,24 @@
+{
+  "slug": "hamatora-the-animation-saishuukai-chokuzen-mao-ga-okuru-soushuuhen-special",
+  "synopsis": "Recap of the Hamatora The Animation series narrated by Mao.",
+  "title": {
+    "jp": "Hamatora The Animation: Saishuukai Chokuzen! Mao ga Okuru"
+  },
+  "releasedAt": "2014-03-21T00:00:00.000Z",
+  "finishedAt": "2014-03-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8773/original.jpg",
+  "categories": [
+    "comedy",
+    "mystery",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8773",
+    "aozora": "9fxP1TwhLc",
+    "myanimelist/anime": "23115"
+  }
+}

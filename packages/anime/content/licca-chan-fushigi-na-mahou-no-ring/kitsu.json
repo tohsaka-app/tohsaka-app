@@ -1,0 +1,26 @@
+{
+  "slug": "licca-chan-fushigi-na-mahou-no-ring",
+  "synopsis": "Second part in the OVA series that was later adapted into a TV show in 1998.",
+  "title": {
+    "en": "Licca: Mysterious Magical Ring",
+    "jp": "Licca-chan Fushigi na Mahou no Ring"
+  },
+  "releasedAt": "1991-08-30T00:00:00.000Z",
+  "finishedAt": "1991-08-30T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4930/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4930",
+    "anidb": "6348",
+    "anilist/anime": "7294",
+    "aozora": "1EGK9cO5wC",
+    "myanimelist/anime": "7294"
+  }
+}

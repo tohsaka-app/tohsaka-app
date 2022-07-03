@@ -1,0 +1,36 @@
+{
+  "slug": "code-geass-lelouch-of-the-rebellion-r2-special-edition-zero-requiem",
+  "synopsis": "An OVA summarizing all 25 episodes of season 2.",
+  "title": {
+    "en": "Code Geass: Lelouch of the Rebellion R2 Special Edition Zero Requiem",
+    "jp": "Code Geass: Hangyaku no Lelouch R2 Special Edition Zero Requiem"
+  },
+  "releasedAt": "2009-07-24T00:00:00.000Z",
+  "finishedAt": "2009-07-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4705/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "asia",
+    "earth",
+    "mecha",
+    "military",
+    "piloted robot",
+    "plot continuity",
+    "politics",
+    "science fiction",
+    "super power",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4705",
+    "anidb": "7127",
+    "anilist/anime": "6768",
+    "aozora": "FLNrpSh6cw",
+    "myanimelist/anime": "6768"
+  }
+}

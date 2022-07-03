@@ -1,0 +1,27 @@
+{
+  "slug": "bokura-wa-minna-kawaisou-special",
+  "synopsis": "Unaired episode bundled on 7th Blu-ray/DVD volume of Bokura wa Minna Kawaisou.",
+  "title": {
+    "jp": "Bokura wa Minna Kawai-sou: Hajimete no"
+  },
+  "releasedAt": "2015-01-30T00:00:00.000Z",
+  "finishedAt": "2015-01-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8536/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8536/original.png",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8536",
+    "anilist/anime": "20780",
+    "aozora": "08Kwle7iRF",
+    "myanimelist/anime": "24913"
+  }
+}

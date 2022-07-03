@@ -1,0 +1,25 @@
+{
+  "slug": "grendizer-giga",
+  "synopsis": "PV for Grendizer Giga manga.",
+  "title": {
+    "jp": "Grendizer Giga"
+  },
+  "releasedAt": "2015-04-12T00:00:00.000Z",
+  "finishedAt": "2015-04-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11781/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11781/original.jpg",
+  "categories": [
+    "action",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11781",
+    "anidb": "11772",
+    "aozora": "bcoeOIhkwK",
+    "myanimelist/anime": "31467"
+  }
+}

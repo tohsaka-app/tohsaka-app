@@ -1,0 +1,25 @@
+{
+  "slug": "notari-matsutarou",
+  "synopsis": "A teenage school dropout finds new meaning in life when he discovers sumo wrestling, heading off to Tokyo for the bright lights and training with an aging master of the sport.\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "jp": "Notari Matsutarou"
+  },
+  "releasedAt": "1990-11-22T00:00:00.000Z",
+  "finishedAt": "1991-04-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5136/original.jpg",
+  "categories": [
+    "sports",
+    "wrestling"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5136",
+    "anidb": "5389",
+    "anilist/anime": "7836",
+    "aozora": "retjzW6qUN",
+    "myanimelist/anime": "7836"
+  }
+}

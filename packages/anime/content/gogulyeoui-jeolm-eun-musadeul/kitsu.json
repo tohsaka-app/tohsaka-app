@@ -1,0 +1,24 @@
+{
+  "slug": "gogulyeoui-jeolm-eun-musadeul",
+  "synopsis": "",
+  "title": {
+    "en": "Young Warriors of Koguryo",
+    "jp": "Gogulyeoui Jeolm-eun Musadeul"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11847/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11847",
+    "anidb": "11663",
+    "aozora": "cBGy2HoWOz",
+    "myanimelist/anime": "31692"
+  }
+}

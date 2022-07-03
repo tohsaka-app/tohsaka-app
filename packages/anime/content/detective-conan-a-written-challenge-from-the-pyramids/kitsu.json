@@ -1,0 +1,22 @@
+{
+  "slug": "detective-conan-a-written-challenge-from-the-pyramids",
+  "synopsis": "A Written Challenge from the Pyramids!",
+  "title": {
+    "en": "Case Closed - A Written Challenge from the Pyramids!",
+    "jp": "Detective Conan: A Written Challenge from the Pyramids!"
+  },
+  "releasedAt": "2001-06-22T00:00:00.000Z",
+  "finishedAt": "2001-06-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12925/original.jpg",
+  "categories": [
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12925",
+    "myanimelist/anime": "33150"
+  }
+}

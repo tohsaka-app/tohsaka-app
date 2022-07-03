@@ -1,0 +1,25 @@
+{
+  "slug": "first-squad",
+  "synopsis": "Music video for the song First Squad by Ligalize, created by Studio 4°C.",
+  "title": {
+    "jp": "First Squad"
+  },
+  "releasedAt": "2005-03-20T00:00:00.000Z",
+  "finishedAt": "2005-03-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3410/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3410/original.jpg",
+  "categories": [
+    "action",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3410",
+    "anilist/anime": "4012",
+    "aozora": "2AKI0VIbo9",
+    "myanimelist/anime": "4012"
+  }
+}

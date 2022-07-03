@@ -1,0 +1,25 @@
+{
+  "slug": "getsuyoubi-no-yuuutsu",
+  "synopsis": "Music video animated by Sena Makino for the song Monday's Melancholy by Amatsuki featuring HoneyWorks, with art by Mikkun.",
+  "title": {
+    "en": "Monday's Melancholy",
+    "jp": "Getsuyoubi no Yuuutsu"
+  },
+  "releasedAt": "2019-07-08T00:00:00.000Z",
+  "finishedAt": "2019-07-08T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44477/original.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=E5Jy_h1eHzY"
+  ],
+  "relations": {
+    "kitsu": "44477",
+    "anilist/anime": "122008"
+  }
+}

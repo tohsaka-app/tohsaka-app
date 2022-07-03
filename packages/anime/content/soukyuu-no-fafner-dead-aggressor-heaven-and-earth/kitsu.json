@@ -1,0 +1,34 @@
+{
+  "slug": "soukyuu-no-fafner-dead-aggressor-heaven-and-earth",
+  "synopsis": "A Festum gains Life. It wanted to be a human. Yes, to be a man named Minashiro Soushi. That's why I'm here.",
+  "title": {
+    "jp": "Soukyuu no Fafner: Dead Aggressor - Heaven and Earth"
+  },
+  "releasedAt": "2010-12-25T00:00:00.000Z",
+  "finishedAt": "2010-12-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5194/original.jpg",
+  "categories": [
+    "action",
+    "earth",
+    "future",
+    "mecha",
+    "military",
+    "piloted robot",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.hulu.com/fafner-heaven-and-earth"
+  ],
+  "relations": {
+    "kitsu": "5194",
+    "anidb": "7304",
+    "anilist/anime": "8098",
+    "aozora": "aRfkP7kRcI",
+    "hulu": "50010750",
+    "myanimelist/anime": "8098"
+  }
+}

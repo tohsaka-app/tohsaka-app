@@ -1,0 +1,20 @@
+{
+  "slug": "little-bell-and-ami-s-love-story",
+  "synopsis": null,
+  "title": {
+    "en": "Little Bell and Ami’s Love Story"
+  },
+  "releasedAt": "2021-09-11T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45308/poster_image/411b6ab3c3f0856f62abbc42e29d8dde.jpg",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45308"
+  }
+}

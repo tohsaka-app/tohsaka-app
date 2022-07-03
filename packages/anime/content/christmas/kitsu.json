@@ -1,0 +1,25 @@
+{
+  "slug": "christmas",
+  "synopsis": "A girl creates a talisman and makes a wish for good weather on Christmas day. A fantastical and destructive event plays out that brings more than good weather.\nThe song done by the band \"amazarashi\" as a part of their ワンルーム叙事詩/Epic Studio album.\n(Source: AniDB)",
+  "title": {
+    "jp": "Christmas"
+  },
+  "releasedAt": "2010-11-16T00:00:00.000Z",
+  "finishedAt": "2010-11-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7616/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7616",
+    "anidb": "9210",
+    "anilist/anime": "17245",
+    "aozora": "08pIur50zd",
+    "myanimelist/anime": "17245"
+  }
+}

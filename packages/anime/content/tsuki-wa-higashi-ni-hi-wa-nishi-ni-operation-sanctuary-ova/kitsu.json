@@ -1,0 +1,27 @@
+{
+  "slug": "tsuki-wa-higashi-ni-hi-wa-nishi-ni-operation-sanctuary-ova",
+  "synopsis": "Episodes based on Mikoto scenario.",
+  "title": {
+    "jp": "Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary OVA"
+  },
+  "releasedAt": "2004-12-12T00:00:00.000Z",
+  "finishedAt": "2004-12-12T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6835/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "harem",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6835",
+    "anilist/anime": "12881",
+    "aozora": "eduqGRA0Zv",
+    "myanimelist/anime": "12881"
+  }
+}

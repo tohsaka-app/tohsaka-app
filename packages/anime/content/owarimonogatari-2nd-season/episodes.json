@@ -1,0 +1,65 @@
+[
+  {
+    "title": {
+      "jp": "Mayoi Heru Sono Ichi"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2017-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mayoi Heru Sono Ni"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2017-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hitagi Rendezvous Sono Ichi"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2017-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hitagi Rendezvous Sono Ni"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2017-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ougi Dark Sono Ichi"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2017-08-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ougi Dark Sono Ni"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2017-08-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ougi Dark Sono San"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2017-08-13T00:00:00.000Z",
+    "content": {}
+  }
+]

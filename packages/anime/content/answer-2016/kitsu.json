@@ -1,0 +1,27 @@
+{
+  "slug": "answer-2016",
+  "synopsis": "Music video for the opening theme from 3-gatsu no Lion.",
+  "title": {
+    "jp": "Answer (2016)"
+  },
+  "releasedAt": "2016-12-21T00:00:00.000Z",
+  "finishedAt": "2016-12-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13198/original.jpg",
+  "categories": [
+    "drama",
+    "slice of life",
+    "virtual reality"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=bRWQckbQ9tQ"
+  ],
+  "relations": {
+    "kitsu": "13198",
+    "anilist/anime": "102293",
+    "aozora": "fkQQno9Y0w",
+    "myanimelist/anime": "34611"
+  }
+}

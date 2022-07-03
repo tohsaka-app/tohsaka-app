@@ -1,0 +1,36 @@
+{
+  "slug": "digimon-adventure-tri-3-kokuhaku",
+  "synopsis": "Meicoomon vanishes into the distorted abyss. Shaken, Tai and the others search for answers about Meicoomon's infection. Koushirou seeks answers from Meiko but she's lost all emotion. Koushirou quarantines Agumon and the other Digimon in the office so that the infection can't spread any further, but Patamon starts to show signs of the illness. Agumon and the others use Hikari's voice to tell the team about an important secret concerning the Digital World.\n\n(Source: ANN)",
+  "title": {
+    "en": "Digimon Adventure tri. Chapter 3: Confession",
+    "jp": "Digimon Adventure tri. 3: Kokuhaku"
+  },
+  "releasedAt": "2016-09-24T00:00:00.000Z",
+  "finishedAt": "2016-09-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11547/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11547/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "japan",
+    "proxy battles"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/digimon-adventure-tri",
+    "https://tubitv.com/series/1832",
+    "https://vrv.co/series/G6NQX5GZ6/Digimon-Adventure-tri"
+  ],
+  "relations": {
+    "kitsu": "11547",
+    "anidb": "10764",
+    "anilist/anime": "21596",
+    "aozora": "LV82O3unE2",
+    "myanimelist/anime": "32551"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "calbee-hitokuchi-gekijou",
+  "synopsis": "A series of short commercials advertising Calbee's snack products. The first commercial, which premiered in August, was made to mark the 50th anniversary of the company's Kappa Ebisen snack. ",
+  "title": {
+    "jp": "Calbee Hitokuchi Gekijou"
+  },
+  "releasedAt": "2014-08-11T00:00:00.000Z",
+  "finishedAt": "2015-09-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12147/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12147",
+    "aozora": "pKQ0x0Ar6O",
+    "myanimelist/anime": "32738"
+  }
+}

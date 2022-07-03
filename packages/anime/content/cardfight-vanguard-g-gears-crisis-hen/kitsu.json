@@ -1,0 +1,30 @@
+{
+  "slug": "cardfight-vanguard-g-gears-crisis-hen",
+  "synopsis": "Second season of Cardfight!! Vanguard G series.",
+  "title": {
+    "en": "Cardfight!! Vanguard G GIRS Crisis",
+    "jp": "Cardfight!! Vanguard G: GIRS Crisis-hen"
+  },
+  "releasedAt": "2015-10-11T00:00:00.000Z",
+  "finishedAt": "2016-04-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11220/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11220/original.jpg",
+  "categories": [
+    "action",
+    "card games",
+    "proxy battles"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/cardfight-vanguard-g"
+  ],
+  "relations": {
+    "kitsu": "11220",
+    "anidb": "11485",
+    "anilist/anime": "21345",
+    "aozora": "0Xdfhn8oxA",
+    "myanimelist/anime": "31196"
+  }
+}

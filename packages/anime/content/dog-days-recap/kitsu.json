@@ -1,0 +1,26 @@
+{
+  "slug": "dog-days-recap",
+  "synopsis": "Recap of the first two seasons of Dog Days series narrated by Mikako Takahashi. Aired simultaneously with the first episode of the third season.",
+  "title": {
+    "jp": "Dog Days Recap"
+  },
+  "releasedAt": "2015-01-11T00:00:00.000Z",
+  "finishedAt": "2015-01-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10345/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "isekai",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10345",
+    "aozora": "BzsQ1106sa",
+    "myanimelist/anime": "29413"
+  }
+}

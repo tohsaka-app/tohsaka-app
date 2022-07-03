@@ -1,0 +1,25 @@
+{
+  "slug": "kitte-no-nai-okurimono",
+  "synopsis": "This catchy Minna no Uta tune is sung by Kazuo Zaitsu with animation done by Taku Furukawa.",
+  "title": {
+    "jp": "Kitte no Nai Okurimono"
+  },
+  "releasedAt": "1996-06-07T00:00:00.000Z",
+  "finishedAt": "1996-06-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5414/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5414",
+    "anidb": "11442",
+    "anilist/anime": "8645",
+    "aozora": "Zm9v1tv4ml",
+    "myanimelist/anime": "8645"
+  }
+}

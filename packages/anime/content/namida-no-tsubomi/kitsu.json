@@ -1,0 +1,24 @@
+{
+  "slug": "namida-no-tsubomi",
+  "synopsis": "An animated music video shown in the NHK program 'Minna no Uta,' sung by CECIL.",
+  "title": {
+    "jp": "Namida no Tsubomi"
+  },
+  "releasedAt": "2005-06-01T00:00:00.000Z",
+  "finishedAt": "2005-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8902/original.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8902",
+    "anilist/anime": "17891",
+    "aozora": "ZetzPFAoye",
+    "myanimelist/anime": "17891"
+  }
+}

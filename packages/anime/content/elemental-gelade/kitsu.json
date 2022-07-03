@@ -1,0 +1,41 @@
+{
+  "slug": "elemental-gelade",
+  "synopsis": "After a routine raid, the rookie sky pirate Coud finds a most unusual cargo in his mates' cargo hold: Ren, an \"Edel Reid\", a race prized by humans for granting special combat power to their partners through \"Reacting\". He quickly discovers, however, that Ren is even more prized than he expected. The pirate ship is visited by three members of the Edel Reid Complete Protection Agency \"Arc Aire\", who try to purchase her. When Coud refuses, the ship is suddenly attacked by a mysterious force, and Coud's captain charges him with Ren's protection.\n(Source: ANN)",
+  "title": {
+    "en": "Elemental Gelade",
+    "jp": "Erementar Gerad"
+  },
+  "releasedAt": "2005-04-05T00:00:00.000Z",
+  "finishedAt": "2005-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1125/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1125/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "fantasy world",
+    "gunfights",
+    "magic",
+    "pirate",
+    "romance",
+    "super power"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/elemental-gelade"
+  ],
+  "relations": {
+    "kitsu": "1125",
+    "anidb": "2183",
+    "anilist/anime": "1250",
+    "aozora": "mMqy1Gz9yc",
+    "myanimelist/anime": "1250",
+    "thetvdb": "95911",
+    "thetvdb/series": "95911",
+    "trakt": "34562"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "madonna-movie",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Madonna (Movie)"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10086/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10086",
+    "anilist/anime": "102683",
+    "aozora": "TcVCCivfD5",
+    "myanimelist/anime": "22177"
+  }
+}

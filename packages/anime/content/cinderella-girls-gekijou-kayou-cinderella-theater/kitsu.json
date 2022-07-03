@@ -1,0 +1,26 @@
+{
+  "slug": "cinderella-girls-gekijou-kayou-cinderella-theater",
+  "synopsis": "Bonus segments of Cinderella Girls Gekijou streamed on The iDOLM@STER Cinderella Girls Mobage following the television broadcast.",
+  "title": {
+    "en": "The iDOLM@STER Cinderella Girls Theater: Tuesday Cinderella Theater",
+    "jp": "Cinderella Girls Gekijou: Kayou Cinderella Theater"
+  },
+  "releasedAt": "2017-04-04T00:00:00.000Z",
+  "finishedAt": "2017-06-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13327/original.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-idolmster-cinderella-girls-theater"
+  ],
+  "relations": {
+    "kitsu": "13327",
+    "anilist/anime": "98556",
+    "myanimelist/anime": "35346"
+  }
+}

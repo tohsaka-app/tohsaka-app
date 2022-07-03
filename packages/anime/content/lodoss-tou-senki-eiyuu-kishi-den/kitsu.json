@@ -1,0 +1,39 @@
+{
+  "slug": "lodoss-tou-senki-eiyuu-kishi-den",
+  "synopsis": "Five years after the death of the Emperor of Marmo in the War of Heroes, Parn is now the Free Knight of Lodoss, he and his old allies now famous through the land. However, the Emperor's right-hand man, Ashram, seeks the scepter of domination to re-unify Lodoss under his former leader's banner. Meanwhile, beyond his attempts at conquest lies a more sinister force beginning to set the stage for the resurrection of the goddess of death and destruction...\n(Source: ANN)",
+  "title": {
+    "en": "Record of Lodoss War: Chronicles of the Heroic Knight",
+    "jp": "Lodoss-tou Senki: Eiyuu Kishi Den"
+  },
+  "releasedAt": "1998-04-01T00:00:00.000Z",
+  "finishedAt": "1998-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/182/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "magic",
+    "romance",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/record-of-lodoss-war",
+    "https://www.funimation.com/shows/372159/"
+  ],
+  "relations": {
+    "kitsu": "182",
+    "anidb": "137",
+    "anilist/anime": "206",
+    "aozora": "FvHLHiIzxM",
+    "myanimelist/anime": "206",
+    "thetvdb": "113801/1",
+    "thetvdb/series": "113801",
+    "trakt": "61370"
+  }
+}

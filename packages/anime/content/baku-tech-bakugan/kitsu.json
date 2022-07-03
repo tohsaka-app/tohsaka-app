@@ -1,0 +1,25 @@
+{
+  "slug": "baku-tech-bakugan",
+  "synopsis": "Bakugan is the card game for a new generation. In \"Baku TECH\" passionate warriors fight each other and risk their life for Bakugan.",
+  "title": {
+    "jp": "Baku Tech! Bakugan"
+  },
+  "releasedAt": "2012-04-07T00:00:00.000Z",
+  "finishedAt": "2013-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6892/original.jpg",
+  "categories": [
+    "action",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6892",
+    "anidb": "9003",
+    "anilist/anime": "13143",
+    "aozora": "FykiNxHOyU",
+    "myanimelist/anime": "13143"
+  }
+}

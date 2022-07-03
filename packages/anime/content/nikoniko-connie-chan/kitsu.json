@@ -1,0 +1,22 @@
+{
+  "slug": "nikoniko-connie-chan",
+  "synopsis": "8-year old Connie-chan from the Japanese children's block Ponkikki Kids (successor to the famous Hirake! Ponkikki show) gets her own anime at a now 18-year old attended Tokyo University.",
+  "title": {
+    "jp": "Nikoniko♪Connie-chan"
+  },
+  "releasedAt": "2009-04-01T00:00:00.000Z",
+  "finishedAt": "2009-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13098/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13098",
+    "aozora": "eioHVRgJl3",
+    "myanimelist/anime": "34182"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "awake",
+  "synopsis": "The first episode served as the opening animation for 1984's SciFi convention named Uru Matsuri III (ウル祭Ⅲ) and it follows the style of the Daicon openings. The video consists of two primary fixations of the Japanese otaku culture in the 80s - scifi and lolis. The 2nd episode is only known to have been released in 1987. \n(Source: AniDB)",
+  "title": {
+    "jp": "Awake"
+  },
+  "releasedAt": "1984-08-16T00:00:00.000Z",
+  "finishedAt": "1987-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6455/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "earth",
+    "future",
+    "japan",
+    "loli",
+    "mecha",
+    "parody",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6455",
+    "anidb": "8110",
+    "anilist/anime": "11087",
+    "aozora": "UhZXoMjlyS",
+    "myanimelist/anime": "11087"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "liang-bu-yi-2",
+  "synopsis": "Second season of Liang Bu Yi.",
+  "title": {
+    "en": "No Doubt In Us"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45539/poster_image/718d17cd7e13e51e71ab96e6cd0bf117.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45539",
+    "anilist/anime": "141877",
+    "myanimelist/anime": "50403"
+  }
+}

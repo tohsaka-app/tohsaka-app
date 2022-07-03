@@ -1,0 +1,42 @@
+{
+  "slug": "seiken-no-blacksmith",
+  "synopsis": "Once upon a time, there was a tragic war, in which the power of the devils was involved. After the war, the devils' power was banned and the world was restored to peace. Cecily Campbell is a knight, who has been looking for a blacksmith to repair her old sword given by her father. One day, she saw a man fighting with a ruffian who used the tabooed devil's power. The man defeated him with one blow of his weirdly shaped sword. The man turned out to be a blacksmith called Luke. The fateful encounter was the beginning of the adventure.",
+  "title": {
+    "en": "The Sacred Blacksmith",
+    "jp": "Seiken no Blacksmith"
+  },
+  "releasedAt": "2009-10-03T00:00:00.000Z",
+  "finishedAt": "2009-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4354/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4354/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "earth",
+    "fantasy",
+    "fantasy world",
+    "plot continuity",
+    "present",
+    "slice of life",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/the-sacred-blacksmith/videos/episodes",
+    "http://www.hulu.com/the-sacred-blacksmith"
+  ],
+  "relations": {
+    "kitsu": "4354",
+    "anidb": "6546",
+    "anilist/anime": "5940",
+    "aozora": "6me6ufkwpI",
+    "hulu": "50001409",
+    "myanimelist/anime": "5940",
+    "thetvdb": "117081/1",
+    "thetvdb/series": "117081",
+    "trakt": "61399"
+  }
+}

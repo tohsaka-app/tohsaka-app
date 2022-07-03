@@ -1,0 +1,26 @@
+{
+  "slug": "transformers-animated",
+  "synopsis": "A group of maintenance Autobots (Optimus Prime, Ratchet, Bulkhead, Prowl and Bumblebee) discover the coveted Transformer artifact called \"The AllSpark\" and, in escaping pursuit from the Decepticons, land on Earth in Detroit. Waking up in The Future, they befriend Sari Sumdac, 7-year-old daughter of Professor Isaac Sumdac, and work to maintain friendly relations with the public. However, the Decepticons aren't far behind.",
+  "title": {
+    "en": "",
+    "jp": "Transformers: Animated"
+  },
+  "releasedAt": "2007-12-26T00:00:00.000Z",
+  "finishedAt": "2009-05-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11162/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "mecha",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11162"
+  }
+}

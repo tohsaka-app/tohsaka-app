@@ -1,0 +1,45 @@
+{
+  "slug": "sankarea",
+  "synopsis": "Chihiro Furuya likes zombies. There’s something about the shambling corpses and blood that appeals to him on a visual level, and since childhood he longed to enter into a romantic situation with one. He gets his wish when he encounters Rea Sanka—the daughter of the school director—at the abandoned building he uses in an attempt to resurrect Baabu, the family cat, with a resurrection potion. Hoping to escape her awful home life, Rea consumes the potion and falls to her death, only to come back as a zombie?! Could this possibly be Chihiro's dream come true, or will it be a rude awakening?",
+  "title": {
+    "en": "Sankarea: Undying Love",
+    "jp": "Sankarea"
+  },
+  "releasedAt": "2012-04-06T00:00:00.000Z",
+  "finishedAt": "2012-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6521/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6521/original.png",
+  "categories": [
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "countryside",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "horror",
+    "japan",
+    "love polygon",
+    "present",
+    "romance",
+    "zombie"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/sankarea/videos/episodes",
+    "http://www.hulu.com/sankarea"
+  ],
+  "relations": {
+    "kitsu": "6521",
+    "anidb": "8642",
+    "anilist/anime": "11499",
+    "aozora": "ZcRyxTran5",
+    "hulu": "50007823",
+    "myanimelist/anime": "11499",
+    "thetvdb": "257518/1",
+    "thetvdb/series": "257518",
+    "trakt": "66109"
+  }
+}

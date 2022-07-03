@@ -1,0 +1,25 @@
+{
+  "slug": "space-station-no-9",
+  "synopsis": "Second animated music video for music by capsule based around their NEXUS-2060 concept - a space station resort in the year 2060. ",
+  "title": {
+    "jp": "Space Station No.9"
+  },
+  "releasedAt": "2005-05-01T00:00:00.000Z",
+  "finishedAt": "2005-05-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3274/original.jpg",
+  "categories": [
+    "music",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3274",
+    "anidb": "3965",
+    "anilist/anime": "3820",
+    "aozora": "I7J3SbqYZ8",
+    "myanimelist/anime": "3820"
+  }
+}

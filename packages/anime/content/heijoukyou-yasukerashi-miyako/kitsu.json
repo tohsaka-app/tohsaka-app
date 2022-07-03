@@ -1,0 +1,22 @@
+{
+  "slug": "heijoukyou-yasukerashi-miyako",
+  "synopsis": "A CGI short film only shown at Heijokyo History Museum in Nara. It tells the story of Empress Koken in the 8th century.",
+  "title": {
+    "jp": "Heijoukyou: Yasukerashi Miyako"
+  },
+  "releasedAt": "2013-04-02T00:00:00.000Z",
+  "finishedAt": "2013-04-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10180/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10180",
+    "aozora": "aLb2t8HiDf",
+    "myanimelist/anime": "28749"
+  }
+}

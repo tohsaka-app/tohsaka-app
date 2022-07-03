@@ -1,0 +1,30 @@
+{
+  "slug": "tsuki-ga-kirei",
+  "synopsis": "Kotarou Azumi and Akane Mizuno became third year students at junior high school and are classmates for the first time. These two, along with fellow classmates, Chinatsu Nishio and Takumi Hira, relate to their peers through mutual understandings and feelings. As their final year at junior high school progresses, the group overcome their challenges to mature and become aware of changes in themselves.\n\n(Source: Nijipoi)",
+  "title": {
+    "en": "Tsukigakirei",
+    "jp": "Tsuki ga Kirei"
+  },
+  "releasedAt": "2017-04-07T00:00:00.000Z",
+  "finishedAt": "2017-06-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13234/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13234/original.jpg",
+  "categories": [
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/tsukigakirei",
+    "https://www.funimation.com/shows/tsukigakirei/"
+  ],
+  "relations": {
+    "kitsu": "13234",
+    "anilist/anime": "98202",
+    "aozora": "K48rrRkhA0",
+    "myanimelist/anime": "34822",
+    "thetvdb": "325197/1"
+  }
+}

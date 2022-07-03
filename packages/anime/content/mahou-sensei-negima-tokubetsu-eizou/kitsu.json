@@ -1,0 +1,25 @@
+{
+  "slug": "mahou-sensei-negima-tokubetsu-eizou",
+  "synopsis": "Music videos included with the limited edition 12th volume of UQ Holder! manga.",
+  "title": {
+    "jp": "Mahou Sensei Negima! Tokubetsu Eizou"
+  },
+  "releasedAt": "2016-11-17T00:00:00.000Z",
+  "finishedAt": "2016-11-17T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13341/original.jpg",
+  "categories": [
+    "fantasy",
+    "magic",
+    "music",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13341",
+    "aozora": "unxRO3RBWl",
+    "myanimelist/anime": "34450"
+  }
+}

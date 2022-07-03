@@ -1,0 +1,20 @@
+{
+  "slug": "the-idolm-ster-million-live-4th-anniversary-pv",
+  "synopsis": "",
+  "title": {
+    "jp": "The iDOLM@STER Million Live! 4th Anniversary PV"
+  },
+  "releasedAt": "2017-03-12T00:00:00.000Z",
+  "finishedAt": "2017-03-12T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41529/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41529",
+    "anilist/anime": "110219",
+    "myanimelist/anime": "35081"
+  }
+}

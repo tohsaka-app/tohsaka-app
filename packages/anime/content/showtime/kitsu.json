@@ -1,0 +1,26 @@
+{
+  "slug": "showtime",
+  "synopsis": "Music video for the single Showtime by Japanese rock band DATS.",
+  "title": {
+    "en": "Showtime",
+    "jp": "Showtime"
+  },
+  "releasedAt": "2020-07-29T00:00:00.000Z",
+  "finishedAt": "2020-07-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45481/poster_image/094065e23a1fbe835b487c5d3c0f7b1f.png",
+  "categories": [
+    "demon",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=_vJf38Lp5CI"
+  ],
+  "relations": {
+    "kitsu": "45481",
+    "anilist/anime": "139283",
+    "myanimelist/anime": "42584"
+  }
+}

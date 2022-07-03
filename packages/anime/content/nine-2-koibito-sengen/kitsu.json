@@ -1,0 +1,27 @@
+{
+  "slug": "nine-2-koibito-sengen",
+  "synopsis": "Second part of the Nine TV movies.",
+  "title": {
+    "jp": "Nine 2: Koibito Sengen"
+  },
+  "releasedAt": "1983-12-18T00:00:00.000Z",
+  "finishedAt": "1983-12-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5643/original.jpg",
+  "categories": [
+    "action",
+    "baseball",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5643",
+    "anidb": "3148",
+    "anilist/anime": "9243",
+    "aozora": "UD8SByn0YP",
+    "myanimelist/anime": "9243"
+  }
+}

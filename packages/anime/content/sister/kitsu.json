@@ -1,0 +1,25 @@
+{
+  "slug": "sister",
+  "synopsis": "An original song by Eve featuring Vocaloid Hatsune Miku, animated by Avogado6. A re-arranged version of the song was also included on Eve's 3rd album \"Official Number\" released October 16, 2016 on his own self-made record label harapeco records. Eve also created a self-cover on February 1, 2018.",
+  "title": {
+    "en": "sister",
+    "jp": "sister"
+  },
+  "releasedAt": "2016-12-02T00:00:00.000Z",
+  "finishedAt": "2016-12-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42482/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/JhoK7chbpZ0"
+  ],
+  "relations": {
+    "kitsu": "42482",
+    "anilist/anime": "106919",
+    "myanimelist/anime": "39174"
+  }
+}

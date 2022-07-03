@@ -1,0 +1,23 @@
+{
+  "slug": "moon-festa",
+  "synopsis": "A fantasy world that unfolds during a moonlit night.\nThe song was composed by Kajiura Yuki and sung by Kalafina for NHK's Minna no Uta program",
+  "title": {
+    "jp": "Moon Festa"
+  },
+  "releasedAt": "2012-06-01T00:00:00.000Z",
+  "finishedAt": "2012-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9464/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9464",
+    "anilist/anime": "102239",
+    "aozora": "BJTdBLLH3f",
+    "myanimelist/anime": "24995"
+  }
+}

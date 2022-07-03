@@ -1,0 +1,24 @@
+{
+  "slug": "tsune",
+  "synopsis": "Animated music video directed and animated by riooo for the song TSUNE by mino.",
+  "title": {
+    "jp": "TSUNE"
+  },
+  "releasedAt": "2021-10-31T00:00:00.000Z",
+  "finishedAt": "2021-10-31T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45979/poster_image/890bd749ea2a3d27e42e3f30e202ec88.jpg",
+  "categories": [
+    "music",
+    "science fiction"
+  ],
+  "externals": [
+    "https://youtu.be/JxyzEI6SOZo"
+  ],
+  "relations": {
+    "kitsu": "45979",
+    "anilist/anime": "146415"
+  }
+}

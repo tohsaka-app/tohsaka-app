@@ -1,0 +1,37 @@
+{
+  "slug": "sakura-taisen-le-nouveau-paris",
+  "synopsis": "After Ichiro Ogami's departure, the girls of the Paris Flower Defense Force are left debating who will be the next captain, while a centuries-old threat surfaces. \n(Source: ANN)",
+  "title": {
+    "en": "Sakura Wars: The New Paris",
+    "jp": "Sakura Taisen: Le Nouveau Paris"
+  },
+  "releasedAt": "2004-10-20T00:00:00.000Z",
+  "finishedAt": "2005-03-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/519/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "cops",
+    "earth",
+    "europe",
+    "france",
+    "law and order",
+    "mecha",
+    "past",
+    "piloted robot",
+    "science fiction",
+    "special squads",
+    "steampunk"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "519",
+    "anidb": "2407",
+    "anilist/anime": "562",
+    "aozora": "XS0HO8DhSZ",
+    "myanimelist/anime": "562"
+  }
+}

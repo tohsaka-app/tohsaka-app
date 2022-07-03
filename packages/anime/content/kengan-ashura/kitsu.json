@@ -1,0 +1,28 @@
+{
+  "slug": "kengan-ashura",
+  "synopsis": "Ohma Tokita enters a hidden world where corporate disputes are settled in brutal gladiator bouts. Forget the money, he just wants to fight -- and win\n\n(Source: Netflix)",
+  "title": {
+    "jp": "Kengan Ashura"
+  },
+  "releasedAt": "2019-07-31T00:00:00.000Z",
+  "finishedAt": "2019-07-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11031/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11031/original.jpg",
+  "categories": [
+    "action",
+    "combat",
+    "martial arts",
+    "violence"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80992228"
+  ],
+  "relations": {
+    "kitsu": "11031",
+    "anilist/anime": "100891",
+    "myanimelist/anime": "36903"
+  }
+}

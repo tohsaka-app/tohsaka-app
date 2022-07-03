@@ -1,0 +1,27 @@
+{
+  "slug": "keroro-gunsou-kerozero-shupattsudayo-zeninshuugou",
+  "synopsis": "This is episode 0, the prequel to the main Keroro Gunsou anime series. KeroZero was shown in theaters with Keroro Gunsou Movie 4. \nOn the day of Keroro battalion's departure from Keron Planet to Planet Earth, an opposing alien species assails the Keron space station, where Giroro and Zeroro (later known as Dororo) are waiting for Keroro to arrive.",
+  "title": {
+    "jp": "Keroro Gunsou: KeroZero Shupattsudayo! Zeninshuugou!"
+  },
+  "releasedAt": "2009-03-07T00:00:00.000Z",
+  "finishedAt": "2009-03-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6490/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "mecha",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6490",
+    "anilist/anime": "11299",
+    "aozora": "fMeu6Pl8Gp",
+    "myanimelist/anime": "11299"
+  }
+}

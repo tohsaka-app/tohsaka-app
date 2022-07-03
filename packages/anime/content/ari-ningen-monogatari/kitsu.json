@@ -1,0 +1,23 @@
+{
+  "slug": "ari-ningen-monogatari",
+  "synopsis": "Short film by Hirano Ryou.",
+  "title": {
+    "en": "Future Man",
+    "jp": "Ari Ningen Monogatari"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11411/original.png",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "11411",
+    "anidb": "11633",
+    "anilist/anime": "103534",
+    "aozora": "aeiLsEH66m",
+    "myanimelist/anime": "31507"
+  }
+}

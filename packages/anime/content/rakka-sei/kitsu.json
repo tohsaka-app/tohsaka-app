@@ -1,0 +1,23 @@
+{
+  "slug": "rakka-sei",
+  "synopsis": "An original concept movie directed by banishment (of FLAT STUDIO). This animation is accompanied with the songs “Slumber” and “Kaede” by Eve.\n\nKaede, a high school boy living in Tokyo, was plagued by the horror of a series of mysterious dreams. At that time, in the dream world where monsters roam, he meets another self. What is the secret of the spiritual world that gradually erodes everyday life and the emotions hidden within Kaede's unconsciousness?\n\n(Source: Official Youtube, translated.)",
+  "title": {
+    "en": "LIFE OF FALLING",
+    "jp": "Rakka-sei"
+  },
+  "releasedAt": "2021-01-09T00:00:00.000Z",
+  "finishedAt": "2021-01-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45983/poster_image/e98ae54ba3288c5680ace8482aa076b5.png",
+  "categories": [
+    "mystery",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45983",
+    "anilist/anime": "131964"
+  }
+}

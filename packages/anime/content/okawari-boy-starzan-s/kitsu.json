@@ -1,0 +1,26 @@
+{
+  "slug": "okawari-boy-starzan-s",
+  "synopsis": "On planet Kirakira live two tribes: Senobi and Robot. Senobi, quiet and peacefully set, settle down in the forest. Robot comes from the desert and starts war to take control of afforested grounds. A young hero coming from Senobi tries to appease the whole situation.",
+  "title": {
+    "jp": "Okawari-Boy Starzan-S"
+  },
+  "releasedAt": "1984-01-07T00:00:00.000Z",
+  "finishedAt": "1984-08-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5498/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5498",
+    "anidb": "1778",
+    "anilist/anime": "8799",
+    "aozora": "HHilHcQYPC",
+    "myanimelist/anime": "8799"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "mahoujin-guru-guru-movie",
+  "synopsis": "The hero Nike and magic user Kukuri learn of the \"Pickle of Happiness\", an item that will grant a wish to the one who eats it. With the help of old friends, they must beat the monsters to the Pickle and convince its guardian dragon to give it to them. \n(Source: ANN)",
+  "title": {
+    "en": "Magical Circle Guru Guru Movie",
+    "jp": "Mahoujin Guru Guru Movie"
+  },
+  "releasedAt": "1996-04-20T00:00:00.000Z",
+  "finishedAt": "1996-04-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/710/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "710",
+    "anidb": "418",
+    "anilist/anime": "796",
+    "aozora": "uIp2WdSMQQ",
+    "myanimelist/anime": "796"
+  }
+}

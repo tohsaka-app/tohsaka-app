@@ -1,0 +1,36 @@
+{
+  "slug": "generator-gawl",
+  "synopsis": "Ryo, Gawl and Koji are 3 young boys who travel back into the past with only 1 objective: change history. In their time they discover that their country, Kubere, uses genetically enhanced persons called generators as a military tool. These generators are the cause for the Third War which kills most of the human population. Now Koji, Ryo and Gawl are there to change all the events. \n(Source: ANN) ",
+  "title": {
+    "jp": "Generator Gawl"
+  },
+  "releasedAt": "1998-10-07T00:00:00.000Z",
+  "finishedAt": "1998-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/912/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "earth",
+    "genetic modification",
+    "human enhancement",
+    "plot continuity",
+    "science fiction",
+    "super power",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "912",
+    "anidb": "190",
+    "anilist/anime": "1022",
+    "aozora": "aWNFL85ByT",
+    "myanimelist/anime": "1022",
+    "thetvdb": "81169/1",
+    "thetvdb/series": "81169",
+    "trakt": "33936"
+  }
+}

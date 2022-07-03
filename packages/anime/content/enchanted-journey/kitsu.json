@@ -1,0 +1,30 @@
+{
+  "slug": "enchanted-journey",
+  "synopsis": "Glicko is a young chipmunk living in the city with his sister.  But after hearing from a carrier pigeon of the Chipmunk homeland, the Great Forest, he leaves home alone.  Glicko meets both friends and enemies along his adventure to the find the place where he truly belongs.",
+  "title": {
+    "en": "The Enchanted Journey",
+    "jp": "Grick no Bouken"
+  },
+  "releasedAt": "1981-07-21T00:00:00.000Z",
+  "finishedAt": "1981-07-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4912/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "fantasy",
+    "japan",
+    "kids",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4912",
+    "anidb": "6634",
+    "anilist/anime": "7252",
+    "aozora": "0rozdi3RxV",
+    "myanimelist/anime": "7252"
+  }
+}

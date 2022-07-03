@@ -1,0 +1,43 @@
+{
+  "slug": "garo-honoo-no-kokuin",
+  "synopsis": "In Garo: Honoo no Kokuin, Makai Knights and Alchemists, those who are able to keep supernatural enemies at bay, are feared and hated in the kingdom of Valiante. Encouraging this fear is the king’s trusted advisor, Mendoza, who convinces him to launch an all-out purge. Those of Makai blood are hunted and imprisoned or burned at the stake for so-called witchcraft. However, a dark omen is cast over Valiante when the execution of the last “witch” ends in the birth of her child who is saved from the flames by his father, a Makai Knight.\n\nGerman spirits the baby Leon away from Valiante and raises him as a Makai Knight of the Garo armor. Now, they have been recalled to Valiante by the ever-increasing swarm of Horrors preying on unsuspecting civilians. With no Makai Knights left to defend them, the people are desperate. In answer to this desperation, Valiante’s Prince Alfonso sets out for help. How will these two sides clash? Will Leon and German be able to save their homeland?",
+  "title": {
+    "en": "GARO THE ANIMATION",
+    "jp": "Garo: Honoo no Kokuin"
+  },
+  "releasedAt": "2014-10-04T00:00:00.000Z",
+  "finishedAt": "2015-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8409/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8409/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "dark fantasy",
+    "demon",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "magic",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/garo-the-animation",
+    "https://www.funimation.com/shows/garo-the-animation/",
+    "https://www.hulu.com/garo-the-animation"
+  ],
+  "relations": {
+    "kitsu": "8409",
+    "anidb": "10278",
+    "anilist/anime": "20753",
+    "aozora": "faOTdXmqem",
+    "hulu": "50018446",
+    "myanimelist/anime": "23311",
+    "thetvdb": "279980/1",
+    "thetvdb/series": "279980",
+    "trakt": "76834"
+  }
+}

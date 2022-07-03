@@ -1,0 +1,24 @@
+{
+  "slug": "ishida-to-asakura-special",
+  "synopsis": "A bonus episode aired on Tokyo MX a week after episode 12. Asakura asks why they're still there when the anime was supposed to end last week.",
+  "title": {
+    "jp": "Ishida to Asakura Special"
+  },
+  "releasedAt": "2013-03-31T00:00:00.000Z",
+  "finishedAt": "2013-03-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7809/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7809",
+    "anilist/anime": "18149",
+    "aozora": "jOtPgNzSKc",
+    "myanimelist/anime": "18149"
+  }
+}

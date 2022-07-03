@@ -1,0 +1,22 @@
+{
+  "slug": "natsume-yuujinchou-hitoyoshi-kuma-de-no-yasashii-jikan",
+  "synopsis": "A collaboration with the Kumamoto prefecture in which Natsume and Nyanko-sensei explore the Hitoyoshi Kuma area of Kumamoto, which served as the inspiration for the series.",
+  "title": {
+    "en": "Natsume Yuujinchou: A Day Out in Hitoyoshi Kuma",
+    "jp": "Natsume Yuujinchou: Hitoyoshi Kuma de no Yasashii Jikan"
+  },
+  "releasedAt": "2021-04-21T00:00:00.000Z",
+  "finishedAt": "2021-04-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44866/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44866",
+    "myanimelist/anime": "48953"
+  }
+}

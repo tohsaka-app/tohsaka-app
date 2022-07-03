@@ -1,0 +1,28 @@
+{
+  "slug": "fate-stay-night-movie-heaven-s-feel-2",
+  "synopsis": "Second of three movies in an adaptation of the third route of Fate/stay night.",
+  "title": {
+    "en": "Fate/stay night: Heaven's Feel II. Lost Butterfly",
+    "jp": "Gekijouban Fate/stay night: Heaven's Feel II. Lost Butterfly"
+  },
+  "releasedAt": "2019-01-12T00:00:00.000Z",
+  "finishedAt": "2019-01-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12007/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12007/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12007",
+    "anidb": "10755",
+    "anilist/anime": "21718",
+    "aozora": "AkHhzRemeC",
+    "myanimelist/anime": "33049"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "saiki-kusuo-no-psi-nan",
+  "synopsis": "Anime adaptation of the Saiki Kusuo no Ψ-nan manga by Asou Shuichi, telling the story about a male high school student named Kusuo Saiki. He possesses supernatural powers that cause unfortunate events in his everyday life.\n(Source: ANN)",
+  "title": {
+    "jp": "Saiki Kusuo no Ψ-nan"
+  },
+  "releasedAt": "2013-08-04T00:00:00.000Z",
+  "finishedAt": "2013-08-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8806/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8806/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8806",
+    "anidb": "9974",
+    "anilist/anime": "19469",
+    "aozora": "3xxfqXZaY6",
+    "myanimelist/anime": "19469"
+  }
+}

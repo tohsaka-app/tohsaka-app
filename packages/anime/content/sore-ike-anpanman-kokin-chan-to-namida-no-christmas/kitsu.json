@@ -1,0 +1,25 @@
+{
+  "slug": "sore-ike-anpanman-kokin-chan-to-namida-no-christmas",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Kokin-chan to Namida no Christmas"
+  },
+  "releasedAt": "2007-12-21T00:00:00.000Z",
+  "finishedAt": "2007-12-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9049/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9049",
+    "aozora": "IEXiyi5HMf",
+    "myanimelist/anime": "21955"
+  }
+}

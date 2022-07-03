@@ -1,0 +1,27 @@
+{
+  "slug": "ginga-hyouryuu-vifam-kachua-kara-no-tayori",
+  "synopsis": "A summary of the first half of the Galactic Drifter Vifam series.",
+  "title": {
+    "jp": "Ginga Hyouryuu Vifam: Kachua Kara no Tayori"
+  },
+  "releasedAt": "1984-10-28T00:00:00.000Z",
+  "finishedAt": "1984-10-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5713/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5713",
+    "anidb": "2363",
+    "anilist/anime": "9387",
+    "aozora": "YVH0BCRQRv",
+    "myanimelist/anime": "9387"
+  }
+}

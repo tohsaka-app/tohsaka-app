@@ -1,0 +1,27 @@
+{
+  "slug": "the-sound-of-tiger-bunny",
+  "synopsis": "The official website for the Tiger &amp; Bunny anime announced on Friday that the Pacifico Yokohama's National Convention Hall of Yokohama is hosting special Tiger &amp; Bunny concerts with a new short anime on September 19 and 20. The franchise's composer Yoshihiro Ike is personally conducting the \"Sternbild Orchestra &amp; Band\" for live performances of music from the television series and two films.\n(Source: ANN)",
+  "title": {
+    "jp": "Tiger & Bunny: Too Many Cooks Spoil the Broth."
+  },
+  "releasedAt": "2015-09-19T00:00:00.000Z",
+  "finishedAt": "2015-09-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10901/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "mystery",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10901",
+    "anidb": "11744",
+    "anilist/anime": "102628",
+    "aozora": "yOWFcTe1Jz",
+    "myanimelist/anime": "30537"
+  }
+}

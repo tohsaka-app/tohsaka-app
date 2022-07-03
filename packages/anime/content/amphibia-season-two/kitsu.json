@@ -1,0 +1,26 @@
+{
+  "slug": "amphibia-season-two",
+  "synopsis": "Second season of Amphibia",
+  "title": {},
+  "releasedAt": "2020-07-11T00:00:00.000Z",
+  "finishedAt": "2021-05-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45748/poster_image/c973cbfadd88e1e3a63eeee5d85870c0.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "kids",
+    "magic",
+    "robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45748"
+  }
+}

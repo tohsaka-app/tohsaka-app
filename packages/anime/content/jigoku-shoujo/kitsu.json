@@ -1,0 +1,41 @@
+{
+  "slug": "jigoku-shoujo",
+  "synopsis": "Have you heard of Jigoku Tsuushin (Hell Correspondence)? Those with a powerful grudge may only access this mysterious website at midnight, allowing them to enter anyone's name and have that person be ferried straight to hell. Ai Enma, the Hell Girl, will not judge whether or not the chosen target deserves punishment; she will merely exact revenge on them for you, provided your pain or suffering move her. Not much is known about this young girl other than that she swiftly carries out her tasks with the help of three straw dolls. There is just one catch, however—as payment for carrying out such a request, the user must condemn themselves to an afterlife in hell. \n\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Hell Girl",
+    "jp": "Jigoku Shoujo"
+  },
+  "releasedAt": "2005-10-05T00:00:00.000Z",
+  "finishedAt": "2006-04-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/203/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/203/original.jpg",
+  "categories": [
+    "angst",
+    "asia",
+    "drama",
+    "earth",
+    "horror",
+    "japan",
+    "mystery",
+    "present",
+    "psychological",
+    "revenge",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "203",
+    "anidb": "3291",
+    "anilist/anime": "228",
+    "aozora": "6JjhMysQKU",
+    "hulu": "50002394",
+    "myanimelist/anime": "228",
+    "thetvdb": "79106/1",
+    "thetvdb/season": "16042",
+    "thetvdb/series": "79106",
+    "trakt": "8927"
+  }
+}

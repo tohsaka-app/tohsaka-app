@@ -1,0 +1,27 @@
+{
+  "slug": "transformers-prime",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Transformers: Prime"
+  },
+  "releasedAt": "2010-11-29T00:00:00.000Z",
+  "finishedAt": "2013-07-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12249/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "drama",
+    "mecha",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12249",
+    "thetvdb/series": "205901"
+  }
+}

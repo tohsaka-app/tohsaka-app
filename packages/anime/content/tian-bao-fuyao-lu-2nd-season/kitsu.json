@@ -1,0 +1,26 @@
+{
+  "slug": "tian-bao-fuyao-lu-2nd-season",
+  "synopsis": "Second season of Tian Bao Fuyao Lu.",
+  "title": {
+    "en": "Legend of Exorcism"
+  },
+  "releasedAt": "2021-04-25T00:00:00.000Z",
+  "finishedAt": "2021-08-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43792/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43792",
+    "anilist/anime": "126354",
+    "myanimelist/anime": "44068"
+  }
+}

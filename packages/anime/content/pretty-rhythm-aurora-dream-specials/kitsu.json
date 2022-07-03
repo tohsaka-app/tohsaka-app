@@ -1,0 +1,23 @@
+{
+  "slug": "pretty-rhythm-aurora-dream-specials",
+  "synopsis": "Short specials included in the DVDs of the TV series.",
+  "title": {
+    "jp": "Pretty Rhythm: Aurora Dream - Prism Shougekijou"
+  },
+  "releasedAt": "2011-07-22T00:00:00.000Z",
+  "finishedAt": "2012-06-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6629/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6629",
+    "anilist/anime": "11911",
+    "aozora": "FD2n2R1Ypw",
+    "myanimelist/anime": "11911"
+  }
+}

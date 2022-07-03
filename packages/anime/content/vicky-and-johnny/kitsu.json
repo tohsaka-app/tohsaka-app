@@ -1,0 +1,23 @@
+{
+  "slug": "vicky-and-johnny",
+  "synopsis": "The series follows Vicky and Johnny, two exuberant children who become involved in several boy vs. girl matches. ",
+  "title": {
+    "en": "Angus & Cheryl",
+    "jp": "Vicky and Johnny"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13009/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13009",
+    "myanimelist/anime": "33431"
+  }
+}

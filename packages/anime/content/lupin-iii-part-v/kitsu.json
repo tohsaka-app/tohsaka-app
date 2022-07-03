@@ -1,0 +1,36 @@
+{
+  "slug": "lupin-iii-part-v",
+  "synopsis": "A legendary thief deserves a legendary heist, and Lupin has set his sights on his biggest bounty yet — but when a game called “Arrest Lupin III” goes viral on social media, things get a whole lot harder for the world’s most wanted thief!\n\n(Source: HIDIVE)",
+  "title": {
+    "en": "Lupin the Third: Part V",
+    "jp": "Lupin Sansei: Part 5"
+  },
+  "releasedAt": "2018-04-04T00:00:00.000Z",
+  "finishedAt": "2018-09-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13749/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13749/original.jpg",
+  "categories": [
+    "action",
+    "crime",
+    "europe",
+    "france",
+    "politics",
+    "present",
+    "seinen",
+    "thievery"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/lupin-the-3rd-part-5",
+    "https://www.hidive.com/tv/lupin-the-3rd-part-5"
+  ],
+  "relations": {
+    "kitsu": "13749",
+    "anidb": "13266",
+    "anilist/anime": "100957",
+    "aozora": "22M8vMUj4u",
+    "myanimelist/anime": "35857"
+  }
+}

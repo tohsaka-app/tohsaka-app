@@ -1,0 +1,20 @@
+{
+  "slug": "kana-kana-ka-na",
+  "synopsis": "An official \"Minna no Uta\" music video for Saori Yuki's song <i>Kana Kana ka na</i>.",
+  "title": {
+    "jp": "Kana Kana ka na"
+  },
+  "releasedAt": "1978-02-01T00:00:00.000Z",
+  "finishedAt": "1978-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40883/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40883",
+    "aozora": "yse5iNXtrY",
+    "myanimelist/anime": "36294"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "gall-force-new-era",
+  "synopsis": "The year is 2291, and the citizens live a peaceful existence after the catastrophic war between the humans and the Yuman. This quiet life is about to be shattered, the leader of the Yuman is not convinced the war is over, and now plans to renew hostilities! \n(Source: AniDB)",
+  "title": {
+    "jp": "Gall Force: New Era"
+  },
+  "releasedAt": "1991-12-01T00:00:00.000Z",
+  "finishedAt": "1992-01-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1864/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "earth",
+    "future",
+    "mecha",
+    "military",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1864",
+    "anidb": "2116",
+    "anilist/anime": "2065",
+    "aozora": "zZBr5HZQnP",
+    "myanimelist/anime": "2065"
+  }
+}

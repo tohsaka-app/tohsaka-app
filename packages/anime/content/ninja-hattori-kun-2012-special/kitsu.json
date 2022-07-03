@@ -1,0 +1,23 @@
+{
+  "slug": "ninja-hattori-kun-2012-special",
+  "synopsis": "Special of Ninja Hattori-kun (2012).",
+  "title": {
+    "jp": "Ninja Hattori-kun (2012) Special"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10703/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10703",
+    "aozora": "9BmFhcLQvs",
+    "myanimelist/anime": "30177"
+  }
+}

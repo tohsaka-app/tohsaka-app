@@ -1,0 +1,24 @@
+{
+  "slug": "neko-hiki-no-ororane",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Neko Hiki no Ororane"
+  },
+  "releasedAt": "1992-11-26T00:00:00.000Z",
+  "finishedAt": "1992-11-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4342/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4342",
+    "anidb": "6282",
+    "anilist/anime": "5925",
+    "aozora": "s3nAHflyw5",
+    "myanimelist/anime": "5925"
+  }
+}

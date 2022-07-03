@@ -1,0 +1,28 @@
+{
+  "slug": "hakken-taiken-daisuki-shimajirou",
+  "synopsis": "Second season of the Shimajirou children's television series.",
+  "title": {
+    "jp": "Hakken Taiken Daisuki! Shimajirou"
+  },
+  "releasedAt": "2008-04-07T00:00:00.000Z",
+  "finishedAt": "2010-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8992/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8992",
+    "anidb": "6241",
+    "anilist/anime": "18937",
+    "aozora": "yn5vpW4ppP",
+    "myanimelist/anime": "18937"
+  }
+}

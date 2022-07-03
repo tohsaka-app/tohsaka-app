@@ -1,0 +1,21 @@
+{
+  "slug": "China-KFC-x-Gintama",
+  "synopsis": "",
+  "title": {
+    "jp": "China KFC x Gintama"
+  },
+  "releasedAt": "2018-05-09T00:00:00.000Z",
+  "finishedAt": "2018-05-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42855/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42855",
+    "myanimelist/anime": "37864"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "kick-flight",
+  "synopsis": "A promotional video for the smartphone game Kick-Flight featuring the song \"Flyers\" by KANA-BOON.",
+  "title": {
+    "jp": "Kick-Flight"
+  },
+  "releasedAt": "2019-06-04T00:00:00.000Z",
+  "finishedAt": "2019-06-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42685/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/8HGIkTSWpgs"
+  ],
+  "relations": {
+    "kitsu": "42685",
+    "myanimelist/anime": "40375"
+  }
+}

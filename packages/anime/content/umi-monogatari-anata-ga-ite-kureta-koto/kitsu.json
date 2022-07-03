@@ -1,0 +1,41 @@
+{
+  "slug": "umi-monogatari-anata-ga-ite-kureta-koto",
+  "synopsis": "Marin and her sister Urin live in the sea. One day they find a ring fallen into the sea. They get out of the sea and meet a girl Kanon, the owner of the ring. Kanon tells them she doesn't want the ring anymore because it was given by her boyfriend whom she just broke up with, and she throws it into the forest. Marin thinks Kanon is still in love with him and looks for the ring with her sister. But Urin accidentally breaks a seal near a shrine...",
+  "title": {
+    "en": "Umi Monogatari",
+    "jp": "Umi Monogatari: Anata ga Ite Kureta Koto"
+  },
+  "releasedAt": "2009-06-25T00:00:00.000Z",
+  "finishedAt": "2009-09-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4439/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4439/original.jpg",
+  "categories": [
+    "asia",
+    "coming of age",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "magical girl",
+    "plot continuity",
+    "present",
+    "romance"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/umi-monogatari/"
+  ],
+  "relations": {
+    "kitsu": "4439",
+    "anidb": "6402",
+    "anilist/anime": "6129",
+    "aozora": "LCvBM5xvhk",
+    "myanimelist/anime": "6129",
+    "thetvdb": "102041/1",
+    "thetvdb/series": "102041",
+    "trakt": "64059"
+  }
+}

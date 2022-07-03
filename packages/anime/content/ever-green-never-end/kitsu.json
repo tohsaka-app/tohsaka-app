@@ -1,0 +1,23 @@
+{
+  "slug": "ever-green-never-end",
+  "synopsis": "Official music video for the song Ever Green Never End by the fictional band Irodorimidori. It is the 40th song in the franchise and focuses on Shirona Tsukisuzu.\n",
+  "title": {
+    "en": "Ever green Never end",
+    "jp": "Ever Green Never End"
+  },
+  "releasedAt": "2019-05-08T00:00:00.000Z",
+  "finishedAt": "2019-05-08T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43202/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43202",
+    "anilist/anime": "110283",
+    "myanimelist/anime": "39793"
+  }
+}

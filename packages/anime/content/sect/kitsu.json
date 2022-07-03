@@ -1,0 +1,21 @@
+{
+  "slug": "sect",
+  "synopsis": "An original song by Mah featuring the Vocaloid VY1.",
+  "title": {
+    "jp": "Sect"
+  },
+  "releasedAt": "2014-06-30T00:00:00.000Z",
+  "finishedAt": "2014-06-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43147/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43147",
+    "myanimelist/anime": "39171"
+  }
+}

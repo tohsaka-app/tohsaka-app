@@ -1,0 +1,33 @@
+{
+  "slug": "smash-hit",
+  "synopsis": "Mitsuki Ikuta works for the Houchiku Corporation, making movies. To all who know her, she is perceived as being a very infantile woman, still wearing childish fashions. A fan of the detective movie genre, she suddenly finds herself chosen to be the main producer of a new film—but it's a \"hero movie\" (a genre generally considered childish). Determined to succeed, regardless, she takes on the job.\n(Source: ANN)",
+  "title": {
+    "jp": "Hit wo Nerae!"
+  },
+  "releasedAt": "2004-03-09T00:00:00.000Z",
+  "finishedAt": "2004-04-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/854/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "japan",
+    "plot continuity",
+    "present",
+    "slice of life",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "854",
+    "anidb": "1532",
+    "anilist/anime": "964",
+    "aozora": "xgLoyekRwq",
+    "myanimelist/anime": "964",
+    "thetvdb": "123691/1",
+    "thetvdb/series": "123691",
+    "trakt": "65071"
+  }
+}

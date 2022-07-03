@@ -1,0 +1,23 @@
+{
+  "slug": "kyoukai-no-rinne",
+  "synopsis": "Kyoukai no Rinne commercial aired during Inuyasha Kanketsu-hen.",
+  "title": {
+    "jp": "Kyoukai no Rinne"
+  },
+  "releasedAt": "2009-10-03T00:00:00.000Z",
+  "finishedAt": "2009-10-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8461/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8461",
+    "aozora": "2XFETzSHl3",
+    "myanimelist/anime": "23179"
+  }
+}

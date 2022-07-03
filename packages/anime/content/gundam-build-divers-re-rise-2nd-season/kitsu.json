@@ -1,0 +1,28 @@
+{
+  "slug": "gundam-build-divers-re-rise-2nd-season",
+  "synopsis": "Second Season of Gundam Build Divers Re:Rise",
+  "title": {
+    "en": "Gundam Build Divers Re:RISE 2nd Season",
+    "jp": "Gundam Build Divers Re:Rise 2nd Season"
+  },
+  "releasedAt": "2020-04-09T00:00:00.000Z",
+  "finishedAt": "2020-08-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43144/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GY9VDNJ0R/gundam-build-divers",
+    "https://vrv.co/series/GY9VDNJ0R/Gundam-Build-Divers"
+  ],
+  "relations": {
+    "kitsu": "43144",
+    "anilist/anime": "114233",
+    "myanimelist/anime": "40942"
+  }
+}

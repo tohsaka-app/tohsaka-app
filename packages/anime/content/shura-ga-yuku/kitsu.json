@@ -1,0 +1,30 @@
+{
+  "slug": "shura-ga-yuku",
+  "synopsis": "Based on a Yakuza drama manga by Kawabe Yuu and Yamaguchi Masato.",
+  "title": {
+    "jp": "Shura ga Yuku"
+  },
+  "releasedAt": "1994-12-09T00:00:00.000Z",
+  "finishedAt": "1995-05-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9597/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "earth",
+    "gunfights",
+    "japan",
+    "mafia",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9597",
+    "anidb": "9174",
+    "anilist/anime": "126320",
+    "aozora": "C4MAr1R0PW",
+    "myanimelist/anime": "24085"
+  }
+}

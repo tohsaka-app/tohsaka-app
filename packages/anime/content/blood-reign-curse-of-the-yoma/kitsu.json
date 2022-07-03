@@ -1,0 +1,34 @@
+{
+  "slug": "blood-reign-curse-of-the-yoma",
+  "synopsis": "A terrible war has ravaged the land, and now, fueled by the blood of numerous fallen warriors the Yoma, demons from hell, emerge once more. A skilled ninja seeks to end the bloodshed these demons inflict upon humanity, but to do this he must fight against his undead former best friend and fellow ninja who was killed in battle and has been resurrected to serve the Yoma. \n(Source: ANN)",
+  "title": {
+    "en": "Blood Reign: Curse of the Yoma",
+    "jp": "Youma"
+  },
+  "releasedAt": "1989-05-01T00:00:00.000Z",
+  "finishedAt": "1989-06-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1330/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "demon",
+    "earth",
+    "fantasy",
+    "feudal warfare",
+    "horror",
+    "japan",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1330",
+    "anidb": "347",
+    "anilist/anime": "1484",
+    "aozora": "hfk0vlbw2W",
+    "myanimelist/anime": "1484"
+  }
+}

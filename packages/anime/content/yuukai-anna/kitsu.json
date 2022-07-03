@@ -1,0 +1,20 @@
+{
+  "slug": "yuukai-anna",
+  "synopsis": "",
+  "title": {
+    "jp": "Yuukai Anna"
+  },
+  "releasedAt": "2018-07-21T00:00:00.000Z",
+  "finishedAt": "2018-07-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41880/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41880",
+    "anilist/anime": "109203",
+    "myanimelist/anime": "38017"
+  }
+}

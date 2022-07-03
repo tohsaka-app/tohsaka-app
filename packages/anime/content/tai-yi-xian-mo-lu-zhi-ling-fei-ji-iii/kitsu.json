@@ -1,0 +1,26 @@
+{
+  "slug": "tai-yi-xian-mo-lu-zhi-ling-fei-ji-iii",
+  "synopsis": null,
+  "title": {
+    "en": "Magical Legend: Rise to Immortality 3"
+  },
+  "releasedAt": "2019-07-16T00:00:00.000Z",
+  "finishedAt": "2020-01-07T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45285/poster_image/d385d4d86e7c8980b099dcbc92abf36a.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45285",
+    "anilist/anime": "129221",
+    "myanimelist/anime": "45040"
+  }
+}

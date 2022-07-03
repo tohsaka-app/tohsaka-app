@@ -1,0 +1,29 @@
+{
+  "slug": "ginga-tetsudou-999-glass-no-clair",
+  "synopsis": "This short movie is a remake of the first half of episode 3 of Ginga Tetsudou 999.",
+  "title": {
+    "en": "Galaxy Express 999: Claire of the Glass",
+    "jp": "Ginga Tetsudou 999: Glass no Clair"
+  },
+  "releasedAt": "1980-03-15T00:00:00.000Z",
+  "finishedAt": "1980-03-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4649/original.jpg",
+  "categories": [
+    "cyborg",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4649",
+    "anidb": "2231",
+    "anilist/anime": "6653",
+    "aozora": "Mq9VSxe0BR",
+    "myanimelist/anime": "6653"
+  }
+}

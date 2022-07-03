@@ -1,0 +1,21 @@
+{
+  "slug": "killer-song",
+  "synopsis": "Music video for the album \"Owari no Hoshi no Love Song\"",
+  "title": {
+    "en": "Killer Song",
+    "jp": "Killer Song"
+  },
+  "releasedAt": "2011-12-21T00:00:00.000Z",
+  "finishedAt": "2011-12-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12924/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12924"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "byunshin-jadongcha-tobot-season-4",
+  "synopsis": "Season 4 of Tobot.\n\nNote: This was edited into Season 1 - Episodes 13 to 16.",
+  "title": {
+    "en": "Tobot Season 4"
+  },
+  "releasedAt": "2011-09-01T00:00:00.000Z",
+  "finishedAt": "2011-09-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44247/original.jpg",
+  "categories": [
+    "kids",
+    "korea",
+    "mecha",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.amazon.com/Tobot/dp/B07GX7Z43J",
+    "https://www.netflix.com/title/81072571"
+  ],
+  "relations": {
+    "kitsu": "44247"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "the-baby-birds-of-norman-mclaren",
+  "synopsis": "Celebrating the 100th year of birth of Norman McLaren, this short animation is set to the song \"Poker\" by Shugo Tokumaru and is the \"sister piece\" to its music video, also animated by Mirai Mizue and Yukie Tanauchi. It was made as part of the NFB \"Wall-to-Wall\" contest.",
+  "title": {
+    "jp": "The Baby Birds of Norman McLaren"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10088/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10088",
+    "anidb": "11235",
+    "anilist/anime": "103407",
+    "aozora": "fkMnj4l35J",
+    "myanimelist/anime": "28765"
+  }
+}

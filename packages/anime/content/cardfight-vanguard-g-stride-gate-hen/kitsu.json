@@ -1,0 +1,30 @@
+{
+  "slug": "cardfight-vanguard-g-stride-gate-hen",
+  "synopsis": "Third season of Cardfight!! Vanguard G series.",
+  "title": {
+    "en": "Cardfight!! Vanguard G Stride Gate",
+    "jp": "Cardfight!! Vanguard G: Stride Gate-hen"
+  },
+  "releasedAt": "2016-04-17T00:00:00.000Z",
+  "finishedAt": "2016-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11857/original.png",
+  "categories": [
+    "action",
+    "card games",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/cardfight-vanguard-g"
+  ],
+  "relations": {
+    "kitsu": "11857",
+    "anidb": "11946",
+    "anilist/anime": "21664",
+    "aozora": "MsFTiL5esZ",
+    "myanimelist/anime": "32802",
+    "trakt": "35290"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "kaitou-tenshi-twin-angel",
+  "synopsis": "Haruka Minazuki and Aoi Kannazuki are freshman high school students and best friends. During the day they help with school activities but at night they thwart enemies like Black Auction and other villains as Red Angel and Blue Angel, the Twin Angel team. ",
+  "title": {
+    "jp": "Kaitou Tenshi Twin Angel"
+  },
+  "releasedAt": "2008-08-08T00:00:00.000Z",
+  "finishedAt": "2008-10-02T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3261/original.jpg",
+  "categories": [
+    "contemporary fantasy",
+    "friendship",
+    "magic",
+    "magical girl",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3261",
+    "anidb": "5583",
+    "anilist/anime": "3805",
+    "aozora": "ja4pjcTYY6",
+    "myanimelist/anime": "3805"
+  }
+}

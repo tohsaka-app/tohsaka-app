@@ -1,0 +1,25 @@
+{
+  "slug": "sukitte-ii-na-yo-specials",
+  "synopsis": "Specials released with the anime BD/DVD.",
+  "title": {
+    "en": "Say \"I Love You\".: Mei and Marshmallow Meow",
+    "jp": "Sukitte Ii na yo.: Mei and Marshmallow"
+  },
+  "releasedAt": "2012-12-26T00:00:00.000Z",
+  "finishedAt": "2013-05-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7779/original.jpg",
+  "categories": [
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7779",
+    "anilist/anime": "17409",
+    "aozora": "vsXIyd4HbJ",
+    "myanimelist/anime": "17409"
+  }
+}

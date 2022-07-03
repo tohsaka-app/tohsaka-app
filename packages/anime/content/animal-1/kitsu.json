@@ -1,0 +1,24 @@
+{
+  "slug": "animal-1",
+  "synopsis": "Ichirou Azuma, a young amateur wrestler, wants to participate in the Olympics Games in Mexico.\n(Source: ANN)",
+  "title": {
+    "jp": "Animal 1"
+  },
+  "releasedAt": "1968-04-01T00:00:00.000Z",
+  "finishedAt": "1968-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9190/original.jpg",
+  "categories": [
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9190",
+    "anidb": "3080",
+    "anilist/anime": "17671",
+    "aozora": "0M4XdfnDxz",
+    "myanimelist/anime": "17671"
+  }
+}

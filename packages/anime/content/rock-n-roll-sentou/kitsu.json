@@ -1,0 +1,23 @@
+{
+  "slug": "rock-n-roll-sentou",
+  "synopsis": "An early short film by Ryoji Yamada.",
+  "title": {
+    "en": "Rock'n Roll Bath",
+    "jp": "Rock'n Roll Sentou"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44696/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44696",
+    "anilist/anime": "139510",
+    "myanimelist/anime": "49091"
+  }
+}

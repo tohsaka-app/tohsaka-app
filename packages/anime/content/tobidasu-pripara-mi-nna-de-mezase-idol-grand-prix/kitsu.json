@@ -1,0 +1,28 @@
+{
+  "slug": "tobidasu-pripara-mi-nna-de-mezase-idol-grand-prix",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Tobidasu PriPara: Mi~nna de Mezase! Idol☆Grand Prix"
+  },
+  "releasedAt": "2015-10-24T00:00:00.000Z",
+  "finishedAt": "2015-10-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11260/original.jpg",
+  "categories": [
+    "music",
+    "school life",
+    "shoujo",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11260",
+    "anidb": "11294",
+    "anilist/anime": "21453",
+    "aozora": "V4i9rcxkSG",
+    "myanimelist/anime": "31055"
+  }
+}

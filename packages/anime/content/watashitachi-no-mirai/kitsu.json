@@ -1,0 +1,22 @@
+{
+  "slug": "watashitachi-no-mirai",
+  "synopsis": "An educational anime part of the \"Save our mother earth\" project made to raise the awareness about global warming.\n",
+  "title": {
+    "jp": "Watashitachi no Mirai"
+  },
+  "releasedAt": "2018-04-01T00:00:00.000Z",
+  "finishedAt": "2018-04-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41425/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41425",
+    "anidb": "13921",
+    "myanimelist/anime": "37493"
+  }
+}

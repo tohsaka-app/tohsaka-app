@@ -1,0 +1,42 @@
+{
+  "slug": "the-rolling-girls",
+  "synopsis": "In a dystopian future where Japan's political organization has crumbled after the Great Tokyo War, Japan is broken up into 10 independent nations, with each nation controlled by a gang led by a \"Best,\" a human-proclaimed prophet with destructive superpowers. Nozomi Moritomo is a \"Rest\"—a normal girl that has just started out as a rookie in the local gang. She wants to help the Best Masami Utoku, her childhood friend and role model, in the ongoing territorial dispute.\n\nWhen Masami becomes severely injured and unable to fight, Nozomi decides to go on a mission to complete the requests sent to Masami from all over Japan. Along the way, she meets Yukina Kosaka, a shy girl with no sense of direction; Ai Hibiki, an upbeat girl who loves eating; and Chiaya Misono, a quiet and mysterious girl that wears a gas mask. Together, the four girls travel all over the country on their motorcycles while getting involved in territorial wars, disagreements, and even suspicious conspiracies.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "The Rolling Girls",
+    "jp": "Rolling☆Girls"
+  },
+  "releasedAt": "2015-01-11T00:00:00.000Z",
+  "finishedAt": "2015-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8667/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8667/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "coming of age",
+    "friendship",
+    "japan",
+    "music",
+    "slice of life",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-rolling-girls",
+    "https://www.funimation.com/shows/the-rolling-girls/"
+  ],
+  "relations": {
+    "kitsu": "8667",
+    "anidb": "10784",
+    "anilist/anime": "20815",
+    "aozora": "yA067Jq4vo",
+    "hulu": "50019826",
+    "myanimelist/anime": "25867",
+    "thetvdb": "284585/1",
+    "thetvdb/series": "284585",
+    "trakt": "82216"
+  }
+}

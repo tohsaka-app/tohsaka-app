@@ -1,0 +1,24 @@
+{
+  "slug": "four-eyes",
+  "synopsis": "Film by Tanaami Keiichi.",
+  "title": {
+    "jp": "4.Eyes"
+  },
+  "releasedAt": "1975-01-01T00:00:00.000Z",
+  "finishedAt": "1975-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10925/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10925",
+    "anidb": "11217",
+    "anilist/anime": "102502",
+    "aozora": "jmjAPYfloE",
+    "myanimelist/anime": "30665"
+  }
+}

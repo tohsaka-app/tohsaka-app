@@ -1,0 +1,26 @@
+{
+  "slug": "ukkari-penelope-2009",
+  "synopsis": "Ukkari Penelope is about a young koala's daily adventures. The narrator is Mamiko Noto!",
+  "title": {
+    "jp": "Ukkari Pénélope (2009)"
+  },
+  "releasedAt": "2009-06-29T00:00:00.000Z",
+  "finishedAt": "2010-01-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4727/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4727",
+    "anidb": "7035",
+    "anilist/anime": "6822",
+    "aozora": "jZEzVjEIUE",
+    "myanimelist/anime": "6822",
+    "trakt": "64316"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "dappys",
+  "synopsis": "Love trouble, friendship, busy work.\nWhen the mind is tight and painful, you ought to shed it!\nVery cute \"Dappys\" sing and dance to give encouragement.",
+  "title": {
+    "en": "Dappys",
+    "jp": "Dappys"
+  },
+  "releasedAt": "2017-05-02T00:00:00.000Z",
+  "finishedAt": "2017-10-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14169/original.jpg",
+  "categories": [
+    "comedy",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14169",
+    "anilist/anime": "120315",
+    "aozora": "JNHNPtRe8G",
+    "myanimelist/anime": "35516"
+  }
+}

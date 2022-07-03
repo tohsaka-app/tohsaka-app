@@ -1,0 +1,24 @@
+{
+  "slug": "mori",
+  "synopsis": "Graduation work of Maiko Fukada at Tama Art University.",
+  "title": {
+    "en": "In the forest",
+    "jp": "Mori"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45487/poster_image/7190c5f977899d28662b0a41e331b8b2.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [
+    "https://youtu.be/KHLEJ9VeMzI"
+  ],
+  "relations": {
+    "kitsu": "45487",
+    "anilist/anime": "140723"
+  }
+}

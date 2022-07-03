@@ -1,0 +1,26 @@
+{
+  "slug": "sekaiichi-hatsukoi-proposal-hen",
+  "synopsis": "",
+  "title": {
+    "jp": "Sekaiichi Hatsukoi: Proposal-hen"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42518/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "romance",
+    "shounen ai",
+    "yaoi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42518",
+    "anilist/anime": "111305",
+    "myanimelist/anime": "40314"
+  }
+}

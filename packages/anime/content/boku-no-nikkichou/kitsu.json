@@ -1,0 +1,22 @@
+{
+  "slug": "boku-no-nikkichou",
+  "synopsis": "Music video for the song Boku no Nikkichou by Ichiro Ogura that was featured on NHK's Minna no Uta program. The video was animated by Akira Katou.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Boku no Nikkichou"
+  },
+  "releasedAt": "1982-06-07T00:00:00.000Z",
+  "finishedAt": "1982-06-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44774/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44774",
+    "myanimelist/anime": "43689"
+  }
+}

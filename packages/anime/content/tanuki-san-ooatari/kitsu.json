@@ -1,0 +1,24 @@
+{
+  "slug": "tanuki-san-ooatari",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Tanuki-san Ooatari"
+  },
+  "releasedAt": "1967-03-19T00:00:00.000Z",
+  "finishedAt": "1967-03-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9659/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9659",
+    "anidb": "7636",
+    "aozora": "zGkwmv29n4",
+    "myanimelist/anime": "27377"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "neko-naraba-ikeru",
+  "synopsis": "MV for the song Neko Naraba Ikeru by AZKi.",
+  "title": {
+    "jp": "Neko Naraba Ikeru"
+  },
+  "releasedAt": "2020-04-30T00:00:00.000Z",
+  "finishedAt": "2020-04-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43986/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43986/original.jpg",
+  "categories": [
+    "comedy",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=TnQgSAaGhVc&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43986"
+  }
+}

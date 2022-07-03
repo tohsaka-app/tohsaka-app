@@ -1,0 +1,23 @@
+{
+  "slug": "original-eigakan-manner-eizou",
+  "synopsis": "A parody manner movie for a fictitious film about Oshiri Mae Man that was featured on the variety show Eizou Big Creator: Ryuji Akiyama no Douga Shin Jidai.",
+  "title": {
+    "jp": "Original Eigakan Manner Eizou"
+  },
+  "releasedAt": "2019-09-10T00:00:00.000Z",
+  "finishedAt": "2019-09-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44309/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44309",
+    "anilist/anime": "120266",
+    "myanimelist/anime": "42211"
+  }
+}

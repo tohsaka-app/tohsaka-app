@@ -1,0 +1,25 @@
+{
+  "slug": "hakubutsushi",
+  "synopsis": "Short film by Yamamura Kouji.",
+  "title": {
+    "en": "Natural History",
+    "jp": "Hakubutsushi"
+  },
+  "releasedAt": "1985-01-01T00:00:00.000Z",
+  "finishedAt": "1985-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11672/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11672",
+    "anidb": "11707",
+    "anilist/anime": "103716",
+    "aozora": "hsxvDaJ2VF",
+    "myanimelist/anime": "31759"
+  }
+}

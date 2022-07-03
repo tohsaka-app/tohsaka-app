@@ -1,0 +1,34 @@
+{
+  "slug": "detective-conan-movie-14-the-lost-ship-in-the-sky",
+  "synopsis": "Kid has his eyes set on the \"Lady of the Sky\" jewel aboard Bell 3, the largest airship in the world. However, a mysterious terrorist group called Red Shamu-neko (Red Siamese Cat) has hijacked the airship itself, along with Conan and his allies Kogoro and Ran.\n(Source: ANN)",
+  "title": {
+    "en": "Case Closed Movie 14: The Lost Ship in the Sky",
+    "jp": "Detective Conan Movie 14: The Lost Ship in the Sky"
+  },
+  "releasedAt": "2010-04-17T00:00:00.000Z",
+  "finishedAt": "2010-04-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4572/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "cops",
+    "detective",
+    "earth",
+    "japan",
+    "mystery",
+    "present",
+    "tokyo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4572",
+    "anidb": "7250",
+    "anilist/anime": "6467",
+    "aozora": "YUIma1erAX",
+    "myanimelist/anime": "6467",
+    "trakt": "30849"
+  }
+}

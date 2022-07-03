@@ -1,0 +1,29 @@
+{
+  "slug": "yuru-camp-2",
+  "synopsis": "Rin, Nadeshiko, Ena, Chiaki, and Aoi continue their laid-back adventures camping around Yamanashi prefecture, whether together, in pairs, or enjoying their own solitude.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Laid-Back Camp 2",
+    "jp": "Yuru Camp△ 2"
+  },
+  "releasedAt": "2021-01-07T00:00:00.000Z",
+  "finishedAt": "2021-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/41976/poster_image/48a34d94376470ca8b6661c4164a0ed8.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41976/original.jpg",
+  "categories": [
+    "comedy",
+    "school clubs",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/laid-back-camp"
+  ],
+  "relations": {
+    "kitsu": "41976",
+    "anidb": "a14437",
+    "anilist/anime": "104459",
+    "myanimelist/anime": "38474"
+  }
+}

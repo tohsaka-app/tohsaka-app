@@ -1,0 +1,27 @@
+{
+  "slug": "fake-fake-fake",
+  "synopsis": "MV for the song Fake.Fake.Fake by AZKi. The music video feature fellow Hololive member, Minato Aqua.",
+  "title": {
+    "en": "Fake.Fake.Fake",
+    "jp": "Fake.Fake.Fake"
+  },
+  "releasedAt": "2019-04-30T00:00:00.000Z",
+  "finishedAt": "2019-04-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43952/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43952/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "psychological"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=lGXgYHlR8ww&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43952",
+    "myanimelist/anime": "51811"
+  }
+}

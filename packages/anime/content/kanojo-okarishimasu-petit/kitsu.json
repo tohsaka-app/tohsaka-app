@@ -1,0 +1,24 @@
+{
+  "slug": "kanojo-okarishimasu-petit",
+  "synopsis": "Short episodes with super-deformed characters posted on the official Twitter account. Includes extra collaboration episodes with halca and the peggies.",
+  "title": {
+    "jp": "Kanojo, Okarishimasu Petit"
+  },
+  "releasedAt": "2020-07-17T00:00:00.000Z",
+  "finishedAt": "2020-10-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43565/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43565",
+    "anilist/anime": "123901",
+    "myanimelist/anime": "42867"
+  }
+}

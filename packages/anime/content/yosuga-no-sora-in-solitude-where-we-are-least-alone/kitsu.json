@@ -1,0 +1,37 @@
+{
+  "slug": "yosuga-no-sora-in-solitude-where-we-are-least-alone",
+  "synopsis": "After losing both of their parents in an accident, Haruka and his twin sister Sora move out of the city to the rural town where they spent their childhood summers. In their new home, everything seems peaceful until Haruka discovers a special, forbidden love that may disrupt the entire town!\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Yosuga no Sora",
+    "jp": "Yosuga no Sora: In Solitude, Where We Are Least Alone."
+  },
+  "releasedAt": "2010-10-04T00:00:00.000Z",
+  "finishedAt": "2010-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5513/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5513/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "ecchi",
+    "female student",
+    "harem",
+    "japan",
+    "present",
+    "romance"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/yosuga-no-sora-in-solitude-where-we-are-least-alone"
+  ],
+  "relations": {
+    "kitsu": "5513",
+    "anidb": "7656",
+    "anilist/anime": "8861",
+    "aozora": "WoV2zZJLac",
+    "myanimelist/anime": "8861",
+    "thetvdb": "195231",
+    "trakt": "61032"
+  }
+}

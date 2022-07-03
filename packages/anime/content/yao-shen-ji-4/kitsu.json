@@ -1,0 +1,26 @@
+{
+  "slug": "yao-shen-ji-4",
+  "synopsis": "Fourth season of Yao Shen Ji.",
+  "title": {
+    "en": "Tales of Demons and Gods 4th Season"
+  },
+  "releasedAt": "2020-04-08T00:00:00.000Z",
+  "finishedAt": "2020-09-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43564/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43564",
+    "anilist/anime": "116964",
+    "myanimelist/anime": "40734"
+  }
+}

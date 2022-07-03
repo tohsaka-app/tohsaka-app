@@ -1,0 +1,35 @@
+{
+  "slug": "gyagu-manga-biyori",
+  "synopsis": "Gyagu Manga Biyori is an anime that is about absolutely nothing. It is comprised of 12 short stories (5 minutes long each) that only build up a small amount of plot for each story. The anime feeds off the stupidest things, but is quite humorous.\n(Source: ANN)",
+  "title": {
+    "jp": "Masuda Kousuke Gekijou Gag Manga Biyori"
+  },
+  "releasedAt": "2005-02-07T00:00:00.000Z",
+  "finishedAt": "2005-04-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1076/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "fantasy",
+    "japan",
+    "parody",
+    "present",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1076",
+    "anidb": "2827",
+    "anilist/anime": "1196",
+    "aozora": "xv0OtVayo8",
+    "myanimelist/anime": "1196",
+    "thetvdb": "83807/1",
+    "thetvdb/season": "37359",
+    "thetvdb/series": "83807",
+    "trakt": "65392"
+  }
+}

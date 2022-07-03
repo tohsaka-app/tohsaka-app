@@ -1,0 +1,28 @@
+{
+  "slug": "future-gpx-cyber-formula-early-days-renewal",
+  "synopsis": "Future GPX Cyber Formula: Early Days Renewal is following Future GPX Cyber Formula ZERO.",
+  "title": {
+    "jp": "Future GPX Cyber Formula: Early Days Renewal"
+  },
+  "releasedAt": "1996-04-01T00:00:00.000Z",
+  "finishedAt": "1996-06-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1249/original.jpg",
+  "categories": [
+    "formula racing",
+    "future",
+    "motorsport",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1249",
+    "anidb": "2461",
+    "anilist/anime": "1396",
+    "aozora": "ccnCUg7HFy",
+    "myanimelist/anime": "1396"
+  }
+}

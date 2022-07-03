@@ -1,0 +1,32 @@
+{
+  "slug": "jikan-no-shihaisha",
+  "synopsis": "The story centers on \"Chronos Rulers,\" those who fight the time-eating demons that appear when people wish they could turn back time. The Chronos Rulers fight a time-manipulation battle against these demons.\n\n(Source: ANN)",
+  "title": {
+    "en": "Chronos Ruler",
+    "jp": "Jikan no Shihaisha"
+  },
+  "releasedAt": "2017-07-08T00:00:00.000Z",
+  "finishedAt": "2017-09-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12971/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/12971/cover_image/2f5852a450de8da6a07f96233cb7415b.png",
+  "categories": [
+    "action",
+    "demon",
+    "fantasy"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/chronos-ruler"
+  ],
+  "relations": {
+    "kitsu": "12971",
+    "anidb": "12660",
+    "anilist/anime": "97939",
+    "aozora": "UHuEEmklXm",
+    "hulu": "50031680",
+    "myanimelist/anime": "34565",
+    "thetvdb": "327016/1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "man-with-a-mission-the-animation",
+  "synopsis": "Short 3DCG anime for Japanese band MAN WITH A MISSION.",
+  "title": {
+    "jp": "Man with a Mission The Animation"
+  },
+  "releasedAt": "2020-03-16T00:00:00.000Z",
+  "finishedAt": "2020-04-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43506/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43506",
+    "anilist/anime": "119592",
+    "animenewsnetwork": "23193",
+    "myanimelist/anime": "41477"
+  }
+}

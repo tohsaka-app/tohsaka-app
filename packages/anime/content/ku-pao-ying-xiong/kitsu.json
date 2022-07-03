@@ -1,0 +1,27 @@
+{
+  "slug": "ku-pao-ying-xiong",
+  "synopsis": "The animation tells the story of Xiao Shuai who has gone into a cool running world by accident and is embroiled in a dispute between parkour colleges.\n",
+  "title": {
+    "jp": "Ku Pao Ying Xiong"
+  },
+  "releasedAt": "2017-09-02T00:00:00.000Z",
+  "finishedAt": "2018-02-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14014/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14014",
+    "anilist/anime": "100295",
+    "aozora": "9jkTd0yqHE",
+    "myanimelist/anime": "36440"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "fushigi-no-kuni-no-alice",
+  "synopsis": "A retelling of Lewis Carroll's classic tale of the young girl Alice, who follows a white rabbit into a hole, only to find herself in Wonderland, where she meets many interesting characters, both the mysterious Cheshire Cat and the terrible Queen of Hearts.\n(Source: ANN)",
+  "title": {
+    "en": "Alice in Wonderland",
+    "jp": "Fushigi no Kuni no Alice"
+  },
+  "releasedAt": "1983-10-10T00:00:00.000Z",
+  "finishedAt": "1984-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2337/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "kids",
+    "plot continuity"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2337",
+    "anidb": "2744",
+    "anilist/anime": "2572",
+    "aozora": "d1stv2ONQJ",
+    "myanimelist/anime": "2572",
+    "thetvdb": "85318/1",
+    "thetvdb/series": "85318",
+    "trakt": "61459"
+  }
+}

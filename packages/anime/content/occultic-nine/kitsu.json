@@ -1,0 +1,33 @@
+{
+  "slug": "occultic-nine",
+  "synopsis": "The \"paranormal science\" story follows nine idiosyncratic individuals, linked by the \"Choujou Kagaku Kirikiri Basara\" occult summary blog run by 17-year-old second-year high school student Yuuta Gamon. Little incongruities that occur around these nine eventually lead to a larger, unimaginable event that may alter what is considered common sense in this world.\n(Source: ANN)",
+  "title": {
+    "en": "Occultic;Nine",
+    "jp": "Occultic;Nine"
+  },
+  "releasedAt": "2016-10-09T00:00:00.000Z",
+  "finishedAt": "2016-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11949/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11949/original.png",
+  "categories": [
+    "asia",
+    "earth",
+    "japan",
+    "mystery",
+    "present",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11949",
+    "anidb": "12004",
+    "anilist/anime": "21708",
+    "aozora": "wQPnN0Ygw2",
+    "myanimelist/anime": "32962",
+    "thetvdb": "316332/1",
+    "trakt": "110989"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "gakuen-handsome-haitoku-no-lesson",
+  "synopsis": "Two music videos for the songs \"Shuumatsu no Mellow Dance\" and \"Haitoku no Lesson,\" sung by Teruhiko Saionji from the Gakuen Handsome franchise.",
+  "title": {
+    "jp": "Gakuen Handsome: Haitoku no Lesson"
+  },
+  "releasedAt": "2016-05-10T00:00:00.000Z",
+  "finishedAt": "2016-05-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12736/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12736",
+    "aozora": "EmzZ54EUZT",
+    "myanimelist/anime": "33912"
+  }
+}

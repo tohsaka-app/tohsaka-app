@@ -1,0 +1,29 @@
+{
+  "slug": "uchurei",
+  "synopsis": "The \"summer supernatural teen comedy\" revolves around an ordinary high school boy named Takashi who ends up living with a space alien's spirit (uchūjin no yūrei) after a strange incident. He names the creature \"Uchurei\" and plans to keep it as a pet, but becomes possessed by it. \n(Source: ANN)",
+  "title": {
+    "jp": "Uchurei!"
+  },
+  "releasedAt": "2009-08-09T00:00:00.000Z",
+  "finishedAt": "2009-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4799/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4799",
+    "anidb": "6771",
+    "anilist/anime": "6947",
+    "aozora": "rg8ujtdVEi",
+    "myanimelist/anime": "6947",
+    "thetvdb": "263330/1",
+    "thetvdb/series": "263330",
+    "trakt": "68111"
+  }
+}

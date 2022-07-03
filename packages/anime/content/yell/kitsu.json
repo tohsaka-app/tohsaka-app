@@ -1,0 +1,23 @@
+{
+  "slug": "yell",
+  "synopsis": "Music video for the song by Ikimono-gakari that was featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Yell"
+  },
+  "releasedAt": "2009-08-01T00:00:00.000Z",
+  "finishedAt": "2009-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10570/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10570",
+    "anilist/anime": "145374",
+    "aozora": "BTiPcJuFXE",
+    "myanimelist/anime": "29970"
+  }
+}

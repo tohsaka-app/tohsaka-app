@@ -1,0 +1,30 @@
+{
+  "slug": "girls-und-panzer-saishuushou-part-4",
+  "synopsis": "The fourth film in the six-part Girls und Panzer: Saishuushou film series.",
+  "title": {
+    "en": "Girls & Panzer: Saishuushou Part 4",
+    "jp": "Girls und Panzer: Saishuushou Part 4"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44520/original.png",
+  "categories": [
+    "action",
+    "all girls school",
+    "friendship",
+    "military",
+    "school clubs",
+    "school life",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44520",
+    "anilist/anime": "132420",
+    "myanimelist/anime": "39167"
+  }
+}

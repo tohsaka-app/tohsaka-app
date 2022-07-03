@@ -1,0 +1,34 @@
+{
+  "slug": "galaxy-fraulein-yuna-returns",
+  "synopsis": "Just when everything seems peaceful again for Yuna and her friends, a new enemy appears in the form of three robotic sisters. Yuna must once again become the Savoir of Light to fight this strong, new evil.\n(Source: ANN)",
+  "title": {
+    "en": "Galaxy Fraulein Yuna Returns",
+    "jp": "Ginga Ojousama Densetsu Yuna: Shin'en no Fairy"
+  },
+  "releasedAt": "1996-12-21T00:00:00.000Z",
+  "finishedAt": "1997-05-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2247/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "future",
+    "magic",
+    "mecha",
+    "science fiction",
+    "shipboard",
+    "stereotypes",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2247",
+    "anidb": "487",
+    "anilist/anime": "2474",
+    "aozora": "V5wzRefCcM",
+    "myanimelist/anime": "2474"
+  }
+}

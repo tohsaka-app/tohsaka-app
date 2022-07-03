@@ -1,0 +1,34 @@
+{
+  "slug": "cowboy-bebop-tengoku-no-tobira",
+  "synopsis": "Another day, another bounty—such is the life of the often unlucky crew of the Bebop. However, this routine is interrupted when Faye, who is chasing a fairly worthless target on Mars, witnesses an oil tanker suddenly explode, causing mass hysteria. As casualties mount due to a strange disease spreading through the smoke from the blast, a whopping three hundred million woolong price is placed on the head of the supposed perpetrator.\nWith lives at stake and a solution to their money problems in sight, the Bebop crew springs into action. Spike, Jet, Faye, and Edward, followed closely by Ein, split up to pursue different leads across Alba City. Through their individual investigations, they discover a cover-up scheme involving a pharmaceutical company, revealing a plot that reaches much further than the ragtag team of bounty hunters could have realized.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Cowboy Bebop: The Movie",
+    "jp": "Cowboy Bebop: Tengoku no Tobira"
+  },
+  "releasedAt": "2001-09-01T00:00:00.000Z",
+  "finishedAt": "2001-09-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2/original.png",
+  "categories": [
+    "action",
+    "bounty hunter",
+    "future",
+    "gunfights",
+    "mars",
+    "mystery",
+    "other planet",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2",
+    "anidb": "219",
+    "anilist/anime": "5",
+    "aozora": "wC7Q6Km90c",
+    "myanimelist/anime": "5"
+  }
+}

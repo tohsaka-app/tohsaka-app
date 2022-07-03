@@ -1,0 +1,20 @@
+{
+  "slug": "kakuchou-shoujo-kei-trinary-ex-mv",
+  "synopsis": "",
+  "title": {
+    "jp": "Kakuchou Shoujo-kei Trinary: Ex.MV"
+  },
+  "releasedAt": "2017-06-15T00:00:00.000Z",
+  "finishedAt": "2017-11-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41668/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41668",
+    "anilist/anime": "106159",
+    "myanimelist/anime": "36782"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "toruru-s-adventure",
+  "synopsis": "The story centers on Toruru, as he searches for his younger sister Haruru, through multiple dimensions with the help of the NaSuBi. This anime short features different directors for worlds Toruru visits:\nDimension One: Time Master directed by Tatsuyuki Tanaka (Tojin Kit, Digital Juice)\nDimension Two: Crazy Consumption directed by Sayo Yamamoto (Wooser's Hand-to-Mouth Life)\nDimension Three: The Last of the Flowers directed by Tomoyuki Niho (Birdy the Mighty: Decode)\nDimension Four: The Door to the Future directed by Takashi Nakamura (Catnapped! The Movie)\n(Source: ANN)",
+  "title": {
+    "en": "Toruru's Adventure",
+    "jp": "Toruru's Adventure"
+  },
+  "releasedAt": "2014-03-21T00:00:00.000Z",
+  "finishedAt": "2014-03-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13069/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13069",
+    "myanimelist/anime": "34258"
+  }
+}

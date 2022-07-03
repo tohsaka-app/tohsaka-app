@@ -1,0 +1,30 @@
+{
+  "slug": "kuroko-no-basket-ova",
+  "synopsis": "Bundled with the 25th volume of Kuroko no Basket manga. The anime based on the Baka Ja Katenai no yo (バカじゃ勝てないのよ) story that was featured in the manga's fifth volume.\n(Source: ANN)",
+  "title": {
+    "en": "Kuroko's Basketball OVA",
+    "jp": "Kuroko no Basket: Baka ja Katenai no yo!"
+  },
+  "releasedAt": "2013-12-04T00:00:00.000Z",
+  "finishedAt": "2013-12-04T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7903/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7903/original.jpg",
+  "categories": [
+    "basketball",
+    "comedy",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7903",
+    "anidb": "9991",
+    "anilist/anime": "19669",
+    "aozora": "PKNZb8Uj2m",
+    "myanimelist/anime": "19669"
+  }
+}

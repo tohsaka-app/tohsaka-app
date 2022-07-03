@@ -1,0 +1,39 @@
+{
+  "slug": "mirage-of-blaze",
+  "synopsis": "Takaya Ougi is just a typical high school guy who wants nothing more than to protect his best friend and live a normal life. Enter Nobutsuna Naoe, an older man who informs Takaya that he is in fact the reincarnation of Lord Kagetora. Naoe, himself a possessor, awakens Takaya's abilities to exorcise evil spirits and fight the Fuedal Underworld. While most possessors remember their former lives before being reincarnated, Takaya does not. Naoe is thankful for this, considering his passionate and abusive past with his Lord Kagetora. As Takaya improves his abilities, he also begins to remember what Naoe did because of his love for him. Meanwhile the dark forces of the Hojo and Fuma clans begin their attack as the Fuedal Underworld descends upon the living world.\n(Source: ANN)",
+  "title": {
+    "en": "Mirage of Blaze",
+    "jp": "Honoo no Mirage"
+  },
+  "releasedAt": "2002-01-07T00:00:00.000Z",
+  "finishedAt": "2002-04-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/909/original.jpg",
+  "categories": [
+    "action",
+    "contemporary fantasy",
+    "fantasy",
+    "historical",
+    "japan",
+    "past",
+    "romance",
+    "samurai",
+    "school life",
+    "shounen ai"
+  ],
+  "externals": [
+    "http://www.hulu.com/mirage-of-blaze"
+  ],
+  "relations": {
+    "kitsu": "909",
+    "anidb": "787",
+    "anilist/anime": "1019",
+    "aozora": "usPhLR2nF9",
+    "myanimelist/anime": "1019",
+    "thetvdb": "81780/1",
+    "thetvdb/series": "81780",
+    "trakt": "1060"
+  }
+}

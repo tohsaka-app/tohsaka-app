@@ -1,0 +1,27 @@
+{
+  "slug": "dragon-ball-z-the-real-4-d",
+  "synopsis": "Having been revived by the Dragon Balls, Frieza is back and stronger than ever. Overwhelmed by Frieza's fierce attacks, Gokuu is driven into a corner. In order to prevail, he'll need everybody's support!\nSource: AniDB",
+  "title": {
+    "jp": "Dragon Ball Z: The Real 4-D"
+  },
+  "releasedAt": "2016-07-01T00:00:00.000Z",
+  "finishedAt": "2016-07-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13123/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13123/original.png",
+  "categories": [
+    "action",
+    "fantasy",
+    "martial arts",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13123",
+    "anilist/anime": "102431",
+    "myanimelist/anime": "33947"
+  }
+}

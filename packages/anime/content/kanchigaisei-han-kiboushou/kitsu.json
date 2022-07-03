@@ -1,0 +1,25 @@
+{
+  "slug": "kanchigaisei-han-kiboushou",
+  "synopsis": "“Hey, let’s get out of here, Let’s end it already.”",
+  "title": {
+    "en": "Pseudo-Hope Syndrome",
+    "jp": "Kanchigaisei Han Kiboushou"
+  },
+  "releasedAt": "2020-09-04T00:00:00.000Z",
+  "finishedAt": "2020-09-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44705/original.jpg",
+  "categories": [
+    "music",
+    "psychological"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=KgczJh0uX5o"
+  ],
+  "relations": {
+    "kitsu": "44705",
+    "myanimelist/anime": "43415"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "flowers",
+  "synopsis": "A girl who loves to dance but has no talent. \"Talent\" is not something to be added on, but rather \"complements what is lacking.\" The important thing is to continually keep the easily wilted \"flower\" blooming beautifully.\n\n1st Year Work 2011 by Toyomi Morishita, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.",
+  "title": {
+    "en": "Flowers",
+    "jp": "Flowers"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44707/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://youtu.be/foNL8poa_kA"
+  ],
+  "relations": {
+    "kitsu": "44707",
+    "anilist/anime": "106701"
+  }
+}

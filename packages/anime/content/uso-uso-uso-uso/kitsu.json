@@ -1,0 +1,24 @@
+{
+  "slug": "uso-uso-uso-uso",
+  "synopsis": "Music video for the song Uso, Uso, Uso, Uso. by AZKi.",
+  "title": {
+    "en": "Lie, Lie, Lie, Lie",
+    "jp": "Uso Uso Uso Uso"
+  },
+  "releasedAt": "2019-10-27T00:00:00.000Z",
+  "finishedAt": "2019-10-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43964/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=re2rwAWZGjg&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43964"
+  }
+}

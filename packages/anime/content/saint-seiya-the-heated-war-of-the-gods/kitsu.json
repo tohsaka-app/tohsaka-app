@@ -1,0 +1,34 @@
+{
+  "slug": "saint-seiya-the-heated-war-of-the-gods",
+  "synopsis": "In northern Europe, the reincarnation of Odin, Dolbar, rules supreme. One day, Hyoga rescues a man in Siberia so warns him about trouble in the Asgard. Athena goes out to investigate and sends Hyoga in advance but when she and the others arrive at the Asgard, Hyoga is nowhere to be found. When Dolbar captures Athena to take control of the sanctuary, the bronze saints try to help her but are attacked by the God Warriors.\n(Source: ANN)",
+  "title": {
+    "en": "Saint Seiya: The Heated War of the Gods",
+    "jp": "Saint Seiya: Kamigami no Atsuki Tatakai"
+  },
+  "releasedAt": "1988-03-12T00:00:00.000Z",
+  "finishedAt": "1988-03-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1133/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1133/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "deity",
+    "drama",
+    "fantasy",
+    "henshin",
+    "science fiction",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1133",
+    "anidb": "1886",
+    "anilist/anime": "1258",
+    "aozora": "4RdVlRAuQ1",
+    "myanimelist/anime": "1258"
+  }
+}

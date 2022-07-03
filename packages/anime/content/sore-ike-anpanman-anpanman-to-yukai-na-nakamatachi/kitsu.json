@@ -1,0 +1,27 @@
+{
+  "slug": "sore-ike-anpanman-anpanman-to-yukai-na-nakamatachi",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Anpanman to Yukai na Nakama-tachi"
+  },
+  "releasedAt": "1992-03-14T00:00:00.000Z",
+  "finishedAt": "1992-03-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9607/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9607",
+    "anidb": "7754",
+    "anilist/anime": "121832",
+    "aozora": "aBctFnDRpn",
+    "myanimelist/anime": "21937"
+  }
+}

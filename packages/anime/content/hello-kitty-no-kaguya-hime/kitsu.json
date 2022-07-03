@@ -1,0 +1,26 @@
+{
+  "slug": "hello-kitty-no-kaguya-hime",
+  "synopsis": "Kitty and friends recreate the story of The Tale of the Bamboo Cutter.",
+  "title": {
+    "en": "Hello Kitty in the Bamboo Princess",
+    "jp": "Hello Kitty no Kaguya-hime"
+  },
+  "releasedAt": "1993-09-21T00:00:00.000Z",
+  "finishedAt": "1993-09-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9307/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9307",
+    "anidb": "7779",
+    "anilist/anime": "114968",
+    "aozora": "Ny36Ej1aKl",
+    "myanimelist/anime": "22497"
+  }
+}

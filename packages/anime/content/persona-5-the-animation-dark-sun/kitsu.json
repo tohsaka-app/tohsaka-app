@@ -1,0 +1,31 @@
+{
+  "slug": "persona-5-the-animation-dark-sun",
+  "synopsis": "The official P5A Twitter announced after the finale that there would be a special animation broadcast titled \"Dark Sun...\" before the end of 2018.",
+  "title": {
+    "jp": "Persona 5 the Animation: Dark Sun..."
+  },
+  "releasedAt": "2018-12-31T00:00:00.000Z",
+  "finishedAt": "2018-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41972/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41972/original.jpg",
+  "categories": [
+    "action",
+    "crime",
+    "fantasy",
+    "japan",
+    "mystery",
+    "supernatural",
+    "tokyo"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/persona5-the-animation/persona5-the-animation-dark-sun-780776"
+  ],
+  "relations": {
+    "kitsu": "41972",
+    "anilist/anime": "106169",
+    "myanimelist/anime": "38431"
+  }
+}

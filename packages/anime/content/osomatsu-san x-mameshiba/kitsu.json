@@ -1,0 +1,21 @@
+{
+  "slug": "osomatsu-san x-mameshiba",
+  "synopsis": "A televised collaboration between Osomatsu-san and Mameshiba.\n",
+  "title": {
+    "jp": "Osomatsu-san x Mameshiba"
+  },
+  "releasedAt": "2018-03-27T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41267/original.jpg",
+  "categories": [
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41267",
+    "myanimelist/anime": "37818"
+  }
+}

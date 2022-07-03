@@ -1,0 +1,33 @@
+{
+  "slug": "takamiya-nasuno-desu",
+  "synopsis": "A spin-off from Teekyuu which centers on the daily life of Nasuno Takamiya, the \"exceedingly airheaded\" school tennis club member in Teekyuu, and her friends.",
+  "title": {
+    "jp": "Takamiya Nasuno Desu!: Teekyuu Spin-off"
+  },
+  "releasedAt": "2015-04-07T00:00:00.000Z",
+  "finishedAt": "2015-06-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10074/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/takamiya-nasuno-desu"
+  ],
+  "relations": {
+    "kitsu": "10074",
+    "anidb": "10978",
+    "anilist/anime": "21079",
+    "aozora": "2j6RJiTrGY",
+    "myanimelist/anime": "28861",
+    "thetvdb": "292829/1",
+    "trakt": "96760"
+  }
+}

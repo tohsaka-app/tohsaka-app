@@ -1,0 +1,22 @@
+{
+  "slug": "shukka-fuufu",
+  "synopsis": "Sugawara-san commissioned a video to be shown at her wedding about her and her husband about their love journey.\n",
+  "title": {
+    "jp": "Shukka Fuufu"
+  },
+  "releasedAt": "2014-10-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14165/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14165",
+    "anilist/anime": "139001",
+    "myanimelist/anime": "36674"
+  }
+}

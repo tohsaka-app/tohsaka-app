@@ -1,0 +1,24 @@
+{
+  "slug": "kagirinaki-rakuen",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Kagirinaki Rakuen"
+  },
+  "releasedAt": "1981-01-01T00:00:00.000Z",
+  "finishedAt": "1981-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9082/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9082",
+    "anidb": "8543",
+    "aozora": "btizesp00E",
+    "myanimelist/anime": "23569"
+  }
+}

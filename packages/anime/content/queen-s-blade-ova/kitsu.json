@@ -1,0 +1,32 @@
+{
+  "slug": "queen-s-blade-ova",
+  "synopsis": "OVAs bundled with the Queen's Blade Premium Visual Book and the Queen's Blade Rebellion Premium Visual Book. Both of the episodes will be based on Queen's Blade Rebellion, a sequel to Queen's Blade: Utsukushiki Toushitachi.",
+  "title": {
+    "jp": "Queen's Blade OVA"
+  },
+  "releasedAt": "2011-10-29T00:00:00.000Z",
+  "finishedAt": "2012-01-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6409/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "ecchi",
+    "elf",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "past",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6409",
+    "anidb": "8528",
+    "anilist/anime": "10924",
+    "aozora": "Hw25UGOFTz",
+    "myanimelist/anime": "10924"
+  }
+}

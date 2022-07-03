@@ -1,0 +1,43 @@
+{
+  "slug": "shingeki-no-bahamut-genesis",
+  "synopsis": "Thousands of years ago, the ancient dragon Bahamut wrought havoc upon the land of Mistarcia, a world where both gods and demons live amongst mankind. Working together to prevent the world's destruction, the rival deities barely managed to seal Bahamut, agreeing to split the key between them so that the dragon would remain eternally imprisoned.\nWith the world safe from the destruction of Bahamut, it is business as usual for bounty hunters like Favaro Leone. Living a laid-back, self-serving lifestyle, the amoral Favaro goes about his work while on the run from fellow bounty hunter Kaisar Lidfard, a righteous man who swears vengeance upon Favaro. However, Favaro's carefree life is thrown into chaos when he meets Amira, a mysterious woman who holds half of the key to the world's fragile peace.Shingeki no Bahamut: Genesis tells the story of a group of unlikely heroes who find themselves caught in the middle of an epic clash between gods and demons, forced to carve their own path in the face of the imminent storm.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Rage of Bahamut: Genesis",
+    "jp": "Shingeki no Bahamut: Genesis"
+  },
+  "releasedAt": "2014-10-06T00:00:00.000Z",
+  "finishedAt": "2014-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8195/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8195/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "angel",
+    "deity",
+    "demon",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "magic",
+    "past"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/87729",
+    "http://www.hulu.com/rage-of-bahamut-genesis"
+  ],
+  "relations": {
+    "kitsu": "8195",
+    "anidb": "10373",
+    "anilist/anime": "20590",
+    "aozora": "DcjIK7iG8t",
+    "hulu": "50018427",
+    "myanimelist/anime": "21843",
+    "thetvdb": "284133/1",
+    "thetvdb/series": "284133",
+    "trakt": "60923"
+  }
+}

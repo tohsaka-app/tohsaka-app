@@ -1,0 +1,40 @@
+[
+  {
+    "title": {
+      "jp": "Koto, Shujinkou Kaku Katariki"
+    },
+    "synopsis": "Episode talking about Koto's life when she was little.",
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2012-08-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shouko, Kagakusha Awate Kyuusu"
+    },
+    "synopsis": "Shouko loses her controller.",
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2012-10-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 3,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 4,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 5,
+    "content": {}
+  }
+]

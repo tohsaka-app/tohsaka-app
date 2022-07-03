@@ -1,0 +1,24 @@
+{
+  "slug": "eizou-kage",
+  "synopsis": "A black-and-white flicker film by Nobuhiro Aihara.\n",
+  "title": {
+    "en": "Picture (Shadow)",
+    "jp": "Eizou (Kage)"
+  },
+  "releasedAt": "1987-01-01T00:00:00.000Z",
+  "finishedAt": "1987-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43323/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43323",
+    "anilist/anime": "121049",
+    "myanimelist/anime": "42248"
+  }
+}

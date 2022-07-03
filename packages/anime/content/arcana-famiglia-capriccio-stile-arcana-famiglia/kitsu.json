@@ -1,0 +1,26 @@
+{
+  "slug": "arcana-famiglia-capriccio-stile-arcana-famiglia",
+  "synopsis": "An unaired episode of Arcana Famiglia. ",
+  "title": {
+    "jp": "Arcana Famiglia: Capriccio - stile Arcana Famiglia"
+  },
+  "releasedAt": "2013-03-27T00:00:00.000Z",
+  "finishedAt": "2013-03-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7252/original.jpg",
+  "categories": [
+    "family",
+    "romance"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/la-storia-della-arcana-famiglia-ova"
+  ],
+  "relations": {
+    "kitsu": "7252",
+    "anilist/anime": "15411",
+    "aozora": "YoGX7jVcsP",
+    "myanimelist/anime": "15411"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "mametarou-ganbare",
+  "synopsis": "Shows the journey a corn kernel takes to grow into a fully mature plant.",
+  "title": {
+    "jp": "Mametarou Ganbare"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40678/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40678",
+    "aozora": "umbfuLi9GP",
+    "myanimelist/anime": "35055"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "tenpou-ibun-ayakashi-ayashi-inferno-ova",
+  "synopsis": "Specials set six months after the end of Tenpou Ibun Ayakashi Ayashi.",
+  "title": {
+    "en": "Ghost Slayers Ayashi: Inferno",
+    "jp": "Tenpou Ibun: Ayakashi Ayashi - Ayashi Shinkyoku"
+  },
+  "releasedAt": "2007-08-22T00:00:00.000Z",
+  "finishedAt": "2007-10-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2882/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2882",
+    "anilist/anime": "3248",
+    "aozora": "fRozmnJ2xN",
+    "myanimelist/anime": "3248"
+  }
+}

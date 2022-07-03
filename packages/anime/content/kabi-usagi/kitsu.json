@@ -1,0 +1,22 @@
+{
+  "slug": "kabi-usagi",
+  "synopsis": "Shorts focusing on the cute (albeit bittersweet) lives of several rabbits with mold growing on them. They dream to spread their mold all over the world.",
+  "title": {
+    "jp": "Kabi Usagi"
+  },
+  "releasedAt": "2016-06-26T00:00:00.000Z",
+  "finishedAt": "2016-06-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12746/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12746",
+    "aozora": "fGwkEvk1oh",
+    "myanimelist/anime": "33867"
+  }
+}

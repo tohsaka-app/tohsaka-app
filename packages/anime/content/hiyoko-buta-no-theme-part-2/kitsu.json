@@ -1,0 +1,23 @@
+{
+  "slug": "hiyoko-buta-no-theme-part-2",
+  "synopsis": "Music video for the song Hiyoko Buta no Theme Part 2. by Cocco (Tomoko Maki) that was featured on NHK's Minna no Uta program. The video features clay animation by Yuuichi Itou.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Hiyoko Buta no Theme Part 2."
+  },
+  "releasedAt": "2001-08-02T00:00:00.000Z",
+  "finishedAt": "2001-08-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44833/original.jpg",
+  "categories": [
+    "kids",
+    "music",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44833",
+    "myanimelist/anime": "42786"
+  }
+}

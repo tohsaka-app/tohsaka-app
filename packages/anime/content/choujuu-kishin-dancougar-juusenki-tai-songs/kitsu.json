@@ -1,0 +1,25 @@
+{
+  "slug": "choujuu-kishin-dancougar-juusenki-tai-songs",
+  "synopsis": "A lengthy tribute music video featuring various songs.",
+  "title": {
+    "jp": "Choujuu Kishin Dancougar: Juusenki-tai Songs"
+  },
+  "releasedAt": "1986-01-01T00:00:00.000Z",
+  "finishedAt": "1986-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7564/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7564",
+    "anilist/anime": "17002",
+    "aozora": "y8Ph3UyylU",
+    "myanimelist/anime": "17002"
+  }
+}

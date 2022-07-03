@@ -1,0 +1,31 @@
+{
+  "slug": "turn-a-gundam-ii-moonlight-butterfly",
+  "synopsis": "The movie retelling of the final half of the Turn A Gundam series. ",
+  "title": {
+    "en": "∀ Gundam II: Moonlight Butterfly",
+    "jp": "Turn A Gundam II Movie: Moonlight Butterfly"
+  },
+  "releasedAt": "2002-02-10T00:00:00.000Z",
+  "finishedAt": "2002-02-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3382/original.jpg",
+  "categories": [
+    "action",
+    "earth",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3382",
+    "anidb": "2812",
+    "anilist/anime": "3964",
+    "aozora": "E7XNqzg0q0",
+    "myanimelist/anime": "3964"
+  }
+}

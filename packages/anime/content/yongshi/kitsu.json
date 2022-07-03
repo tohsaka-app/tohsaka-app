@@ -1,0 +1,24 @@
+{
+  "slug": "yongshi",
+  "synopsis": "Based on a Mongolian folklore, the story begins with a young warrior Barter coming to Balin Grassland. He rescues a young girl from a herd of running horses and finds out she is the daughter of the wrestling coach working for the grassland lord. Barter starts learning wrestling while working for the grassland lord as a coolie. Barter falls in love with the girl he saved. However, there is a reason for his coming to the grassland – he is looking for the man who killed his father.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Warrior",
+    "jp": "Yongshi"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12444/original.jpg",
+  "categories": [
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12444",
+    "aozora": "AVSGGgaT1Q",
+    "myanimelist/anime": "32920"
+  }
+}

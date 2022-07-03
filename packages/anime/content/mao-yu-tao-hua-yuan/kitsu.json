@@ -1,0 +1,25 @@
+{
+  "slug": "mao-yu-tao-hua-yuan",
+  "synopsis": "A cat named Blanket has long been living in a high-rise apartment in the city with his son, Cloak. One day, curious about the outside world, Cloak decides to leave home and embarks on an adventure to find the legendary cat's paradise. To find his son, Blanket must overcome his fear and reconcile with his past, with the help of a female Macaw.\n\n(Source: MAL)",
+  "title": {
+    "en": "Cats and Peachtopia"
+  },
+  "releasedAt": "2018-04-05T00:00:00.000Z",
+  "finishedAt": "2018-04-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41170/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41170",
+    "anilist/anime": "102060",
+    "myanimelist/anime": "37179"
+  }
+}

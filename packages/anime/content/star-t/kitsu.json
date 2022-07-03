@@ -1,0 +1,23 @@
+{
+  "slug": "star-t",
+  "synopsis": "Official music video for the song \"Star\"t. It is the 46th song in the franchise. With a feature on Nanase Hagiwara, Nadeshiko Igarashi, and Minae Ono we assumed that it was once again about \"Maigahara Koukou Keion-bu,\" an after school club band with them. But they now have a new club member called Hana Katsuragi. Together the four of them have now renamed the band to HaNaMiNa which uses the first syllables of their names (in order: Hana, Nanase, Minae, and Nadeshiko).",
+  "title": {
+    "jp": "\"Star\"t"
+  },
+  "releasedAt": "2019-10-21T00:00:00.000Z",
+  "finishedAt": "2019-10-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44893/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=C4Q9Ibuw4So"
+  ],
+  "relations": {
+    "kitsu": "44893",
+    "myanimelist/anime": "41090"
+  }
+}

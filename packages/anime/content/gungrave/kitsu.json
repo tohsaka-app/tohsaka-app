@@ -1,0 +1,47 @@
+{
+  "slug": "gungrave",
+  "synopsis": "Brandon Heat and Harry MacDowel, two friends so close they could be called brothers, receive an abrupt and violent reminder one fateful day of how appallingly merciless the world around them can be. Their whole lives before then were simple and easygoing, consisting largely of local brawls, seducing women, and committing petty theft to make a living and pass the time. What they failed to realize is that in this cruel world, happiness is fleeting, and change is inevitable.\nEnter Millennion, the largest and most infamous mafia syndicate in the area, which accepts Brandon and Harry into their ranks and starts them at the bottom of the food chain. Harry has ambitions to ascend the ranks and one day replace Big Daddy as the supreme leader of Millennion, while Brandon only wishes to support his friend and appease Big Daddy who has taken custody of the woman Brandon loves.\nBased off the third-person shooter video game under the same name, Gungrave is an epic story of friendship, betrayal, and avarice that spans the course of several years, ultimately tying back to the gripping and foreboding first episode, all the while building up to the story's thrilling conclusion.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Gungrave",
+    "jp": "Gungrave"
+  },
+  "releasedAt": "2003-10-07T00:00:00.000Z",
+  "finishedAt": "2004-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/242/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/242/original.jpg",
+  "categories": [
+    "action",
+    "contemporary fantasy",
+    "crime",
+    "drama",
+    "dystopia",
+    "fantasy world",
+    "gunfights",
+    "mafia",
+    "plot continuity",
+    "present",
+    "revenge",
+    "rotten world",
+    "science fiction",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/gungrave/videos/episodes",
+    "http://www.hulu.com/gungrave"
+  ],
+  "relations": {
+    "kitsu": "242",
+    "anidb": "1003",
+    "anilist/anime": "267",
+    "aozora": "8owoEOPcOh",
+    "hulu": "50003480",
+    "myanimelist/anime": "267",
+    "thetvdb": "78963/1",
+    "thetvdb/series": "78963",
+    "trakt": "5856"
+  }
+}

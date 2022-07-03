@@ -1,0 +1,28 @@
+{
+  "slug": "mugyutto!-black-clover",
+  "synopsis": "",
+  "title": {
+    "en": "Squishy! Black Clover",
+    "jp": "Mugyutto! Black Clover"
+  },
+  "releasedAt": "2019-07-01T00:00:00.000Z",
+  "finishedAt": "2019-08-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42426/original.png",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "shounen",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42426",
+    "anilist/anime": "110318",
+    "myanimelist/anime": "40031"
+  }
+}

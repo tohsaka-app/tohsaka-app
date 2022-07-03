@@ -1,0 +1,25 @@
+{
+  "slug": "towa-no-kizuna",
+  "synopsis": "Limited single release from Daisy x Daisy featuring the ninth intro theme of the series Fairy Tail has on the bundled music video Towa no Kizuna feat. Another Infinity. \n(Source: AniDB)",
+  "title": {
+    "jp": "Towa no Kizuna"
+  },
+  "releasedAt": "2011-10-19T00:00:00.000Z",
+  "finishedAt": "2011-10-19T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6668/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6668",
+    "anidb": "8783",
+    "anilist/anime": "12121",
+    "aozora": "Svxcp6dDv5",
+    "myanimelist/anime": "12121"
+  }
+}

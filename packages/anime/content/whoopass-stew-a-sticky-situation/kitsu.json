@@ -1,0 +1,23 @@
+{
+  "slug": "whoopass-stew-a-sticky-situation",
+  "synopsis": "Original pilot that became The Powerpuff Girls.",
+  "title": {},
+  "releasedAt": "1994-12-02T00:00:00.000Z",
+  "finishedAt": "1994-12-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12798/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12798/original.png",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12798"
+  }
+}

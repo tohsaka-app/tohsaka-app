@@ -1,0 +1,24 @@
+{
+  "slug": "dore-dore-no-uta",
+  "synopsis": "An animated music video made for Meiko Haigou by Studio Ghibli. Included on the Ghibli ga Ippai Special Short Short DVD.",
+  "title": {
+    "jp": "Dore Dore no Uta"
+  },
+  "releasedAt": "2005-11-16T00:00:00.000Z",
+  "finishedAt": "2005-11-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3495/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3495",
+    "anidb": "4174",
+    "anilist/anime": "4158",
+    "aozora": "qnj86m8EZX",
+    "myanimelist/anime": "4158"
+  }
+}

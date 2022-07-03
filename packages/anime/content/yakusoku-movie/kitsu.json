@@ -1,0 +1,24 @@
+{
+  "slug": "yakusoku-movie",
+  "synopsis": "A short animation by Taku Furukawa. ",
+  "title": {
+    "en": "Promise",
+    "jp": "Yakusoku"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11416/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11416",
+    "anilist/anime": "102300",
+    "aozora": "hBvIeJ6gVa",
+    "myanimelist/anime": "30400"
+  }
+}

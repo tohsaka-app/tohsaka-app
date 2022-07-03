@@ -1,0 +1,28 @@
+{
+  "slug": "mini-toji",
+  "synopsis": "Does the girls' daily life include fighting and not fighting? \n\nAll the characters from the TV animated series \"Katana Maidens\" and the smartphone game \"Katana Maidens Kizamishi Issen no Tomoshibi\" are gathered together in smaller form!\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Katana Maidens ~ Mini Toji",
+    "jp": "Mini Toji"
+  },
+  "releasedAt": "2019-01-13T00:00:00.000Z",
+  "finishedAt": "2019-03-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42008/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/katana-maidens-mini-toji"
+  ],
+  "relations": {
+    "kitsu": "42008",
+    "anidb": "14489",
+    "anilist/anime": "105387",
+    "myanimelist/anime": "38673"
+  }
+}

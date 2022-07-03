@@ -1,0 +1,26 @@
+{
+  "slug": "lemon-angel-yj-ban",
+  "synopsis": "Adaptation of the Lemon Angel manga serialized in Young Jump magazine. ",
+  "title": {
+    "jp": "Lemon Angel YJ-ban"
+  },
+  "releasedAt": "1990-07-06T00:00:00.000Z",
+  "finishedAt": "1990-08-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4407/original.jpg",
+  "categories": [
+    "japan",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4407",
+    "anidb": "5307",
+    "anilist/anime": "6065",
+    "aozora": "mcAHqoDuj0",
+    "myanimelist/anime": "6065"
+  }
+}

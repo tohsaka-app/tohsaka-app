@@ -1,0 +1,26 @@
+{
+  "slug": "shanhe-jian-xin-2nd-season",
+  "synopsis": "Second season of Shanhe Jian Xin.",
+  "title": {
+    "en": "Thousand Autumns"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45072/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45072",
+    "anilist/anime": "137746",
+    "myanimelist/anime": "49558"
+  }
+}

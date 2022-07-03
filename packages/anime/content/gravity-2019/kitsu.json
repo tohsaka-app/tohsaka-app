@@ -1,0 +1,25 @@
+{
+  "slug": "gravity-2019",
+  "synopsis": "Vertical music video directed by Kousuke Sugimoto for the song Gravity by The Charm Park that was included on his album \"Reverse &amp; Rebirth\".",
+  "title": {
+    "jp": "Gravity (2019)"
+  },
+  "releasedAt": "2019-11-20T00:00:00.000Z",
+  "finishedAt": "2019-11-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43518/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=joTPmH_QRNk"
+  ],
+  "relations": {
+    "kitsu": "43518",
+    "anilist/anime": "119591",
+    "myanimelist/anime": "41495"
+  }
+}

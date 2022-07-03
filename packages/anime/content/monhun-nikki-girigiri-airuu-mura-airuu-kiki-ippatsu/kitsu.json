@@ -1,0 +1,25 @@
+{
+  "slug": "monhun-nikki-girigiri-airuu-mura-airuu-kiki-ippatsu",
+  "synopsis": "A flash anime featuring Airuu, the helper cats in the original Monster Hunter game.",
+  "title": {
+    "jp": "MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu"
+  },
+  "releasedAt": "2010-08-05T00:00:00.000Z",
+  "finishedAt": "2010-10-07T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5552/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5552",
+    "anidb": "7611",
+    "anilist/anime": "8960",
+    "aozora": "422DBGmAQa",
+    "myanimelist/anime": "8960"
+  }
+}

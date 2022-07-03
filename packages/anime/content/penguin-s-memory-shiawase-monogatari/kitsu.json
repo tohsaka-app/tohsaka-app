@@ -1,0 +1,25 @@
+{
+  "slug": "penguin-s-memory-shiawase-monogatari",
+  "synopsis": "Mike is a penguin soldier who returns home after being injured during combat. Estranged from his family and friends, he leaves his hometown and starts to roam adrift through the country.\n(Source: ANN)",
+  "title": {
+    "jp": "Penguin's Memory: Shiawase Monogatari"
+  },
+  "releasedAt": "1985-06-22T00:00:00.000Z",
+  "finishedAt": "1985-06-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7427/original.jpg",
+  "categories": [
+    "drama",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7427",
+    "anidb": "7331",
+    "anilist/anime": "16434",
+    "aozora": "YVUPZdUXE1",
+    "myanimelist/anime": "16434"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "idol-memories",
+  "synopsis": "The story of Idol Memories is set in the near future, where live idol music performances in virtual reality have become commonplace. Against this backdrop, a pair of rival idol groups compete for the coveted \"tiara,\" which represents the number one spot in the \"Idol League.\"\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Idol Memories"
+  },
+  "releasedAt": "2016-10-03T00:00:00.000Z",
+  "finishedAt": "2016-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12307/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12307",
+    "anidb": "12261",
+    "anilist/anime": "21872",
+    "aozora": "A0Ic03sm8N",
+    "myanimelist/anime": "33572",
+    "thetvdb": "315095/1"
+  }
+}

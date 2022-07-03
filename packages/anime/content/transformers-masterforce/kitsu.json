@@ -1,0 +1,36 @@
+{
+  "slug": "transformers-masterforce",
+  "synopsis": "Even though the Decepticons have been driven off Earth, a small team of Autobot Pretenders have remained behind, just in case. Led by Metalhawk (\"Hawk\" in his human identity), the Pretenders live among the humans, using their Pretender shells to assume human size and appearance. The Autobots' caution is rewarded: Decepticon Pretenders soon appear, led by a mysterious force called Devil Z. The Autobots and Decepticons soon build up their forces, recruiting humans to become Junior Headmasters and Godmasters (Powermasters).\n(Source: ANN) ",
+  "title": {
+    "en": "Transformers Super-God Masterforce",
+    "jp": "Transformers: Choujin Master Force"
+  },
+  "releasedAt": "1988-04-12T00:00:00.000Z",
+  "finishedAt": "1989-03-07T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/822/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "earth",
+    "future",
+    "gunfights",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "822",
+    "anidb": "2069",
+    "anilist/anime": "924",
+    "aozora": "ZsCAS2VVSd",
+    "myanimelist/anime": "924",
+    "thetvdb": "78830/1",
+    "thetvdb/series": "78830",
+    "trakt": "11788"
+  }
+}

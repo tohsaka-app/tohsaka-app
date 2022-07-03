@@ -1,0 +1,24 @@
+{
+  "slug": "chao-you-bing",
+  "synopsis": "A collection of animation that the highlights the Sickness(increasing stupidity) that is plagueing this generation: Chao You Bing",
+  "title": {
+    "jp": "Chao You Bing"
+  },
+  "releasedAt": "2014-04-25T00:00:00.000Z",
+  "finishedAt": "2014-08-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13072/original.jpg",
+  "categories": [
+    "comedy",
+    "dementia",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13072",
+    "anilist/anime": "101095",
+    "myanimelist/anime": "33883"
+  }
+}

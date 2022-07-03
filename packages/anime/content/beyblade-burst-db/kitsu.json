@@ -1,0 +1,30 @@
+{
+  "slug": "beyblade-burst-db",
+  "synopsis": "The story centers on Bell Daikokuten, the leader of the Bey graveyard \"Makai no Mon.\" Bell, who holds Dynamite Belial, declares war on Bladers across the world.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Beyblade Burst Dynamite Battle",
+    "jp": "Beyblade Burst DB"
+  },
+  "releasedAt": "2021-04-02T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44957/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "kids",
+    "proxy battles",
+    "science fiction",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44957",
+    "anilist/anime": "130253",
+    "myanimelist/anime": "48455"
+  }
+}

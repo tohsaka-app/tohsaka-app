@@ -1,0 +1,26 @@
+{
+  "slug": "heterostasis",
+  "synopsis": "MV for ChroNoiR's single, Heterostasis",
+  "title": {
+    "en": "Heterostasis",
+    "jp": "Heterostasis"
+  },
+  "releasedAt": "2020-02-11T00:00:00.000Z",
+  "finishedAt": "2020-02-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43871/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43871/original.jpg",
+  "categories": [
+    "fantasy",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=sTcvNTQS86s&ab_channel=ChroNoiR"
+  ],
+  "relations": {
+    "kitsu": "43871"
+  }
+}

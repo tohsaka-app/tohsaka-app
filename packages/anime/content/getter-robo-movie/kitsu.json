@@ -1,0 +1,25 @@
+{
+  "slug": "getter-robo-movie",
+  "synopsis": "When earthquakes shake up Japan, Professor Saotome is certain that it is the work of the Dinosaur Empire. Michiru goes out to investigate in the Command Module but is quickly shot down and injured; the culprit is none other than Megazaus! Team Getter Robo is eager to get revenge for Michiru, but first they have to brave the fractured roads and find a physician for her. Once Getter Robo is formed, they must track Megazaus underground and defeat him before he destroys the cities of Japan.\n(Source: Anime-Planet)",
+  "title": {
+    "en": "Getter Robo Movie",
+    "jp": "Getter Robo (Movie)"
+  },
+  "releasedAt": "1974-07-27T00:00:00.000Z",
+  "finishedAt": "1974-07-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5271/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5271/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5271",
+    "aozora": "7z5tGOGCwY"
+  }
+}

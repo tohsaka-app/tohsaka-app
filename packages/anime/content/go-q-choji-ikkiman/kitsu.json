@@ -1,0 +1,27 @@
+{
+  "slug": "go-q-choji-ikkiman",
+  "synopsis": "Ikkiman is super human alien, but he doesn't know it. He was raised in a farm by an old couple. When his girlfriend dumps him to become a star, Ikkiman swears to himself that he will become a super star even more famous then her so they can get back together, and so he leaves the farm for the city. There, he interrupts the match of the Battle-ball team \"Blue Planets,\" the battle-ball champions of the earth, and decides to join them with his superhuman discovered abilities. With the Blue planets, Ikkiman will play against alien enemy's for the title of champion and for the sake of the planet Earth.",
+  "title": {
+    "en": "Battle Ball",
+    "jp": "Go-Q-Choji Ikkiman"
+  },
+  "releasedAt": "1986-04-13T00:00:00.000Z",
+  "finishedAt": "1986-11-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3006/original.jpg",
+  "categories": [
+    "baseball",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3006",
+    "anidb": "2082",
+    "anilist/anime": "3433",
+    "aozora": "ltWg9wyV5C",
+    "myanimelist/anime": "3433"
+  }
+}

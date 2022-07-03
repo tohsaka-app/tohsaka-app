@@ -1,0 +1,23 @@
+{
+  "slug": "shuukan-shimakou",
+  "synopsis": "Shuukan Shimakou is about a life of a Japanese white-collar worker salaryman, Shima Kosaku.",
+  "title": {
+    "jp": "Shuukan Shimakou"
+  },
+  "releasedAt": "2011-04-13T00:00:00.000Z",
+  "finishedAt": "2011-06-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6233/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6233",
+    "anilist/anime": "10541",
+    "aozora": "ejmEqk7OMQ",
+    "myanimelist/anime": "10541"
+  }
+}

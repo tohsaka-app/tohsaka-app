@@ -1,0 +1,28 @@
+{
+  "slug": "yakusoku-no-neverland-2nd-season-tokubetsu-hen-michishirube",
+  "synopsis": null,
+  "title": {
+    "en": "The Promised Neverland Season 2 Episode 5.5",
+    "jp": "Yakusoku no Neverland 2nd Season: Tokubetsu-hen - Michishirube"
+  },
+  "releasedAt": "2021-02-12T00:00:00.000Z",
+  "finishedAt": "2021-02-12T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44076/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44076/cover_image/8d03175a32c6e132c552ca946edb81a8.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "horror",
+    "mystery",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44076",
+    "anidb": "14801",
+    "myanimelist/anime": "47616"
+  }
+}

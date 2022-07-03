@@ -1,0 +1,40 @@
+{
+  "slug": "cross-game",
+  "synopsis": "The main character is Kou Kitamura, son of the owner of Kitamura Sports. In the same neighborhood is a batting center run by the Tsukishima family. Due to their proximity and the relationship between their businesses, the Kitamura and Tsukishima familes have been close for many years, with their children going back and forth between the two homes like extended family. Because Kou and Wakaba were the same age and always together, Aoba was jealous of all the time Kou spent with her older sister. Aoba is a natural pitcher with excellent form, and Kou secretly trains to become as good as she was, even while publicly showing little interest in baseball.",
+  "title": {
+    "en": "Cross Game",
+    "jp": "Cross Game"
+  },
+  "releasedAt": "2009-04-05T00:00:00.000Z",
+  "finishedAt": "2010-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4355/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4355/original.jpeg",
+  "categories": [
+    "asia",
+    "baseball",
+    "comedy",
+    "high school",
+    "japan",
+    "present",
+    "romance",
+    "school clubs",
+    "school life",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4355",
+    "anidb": "6424",
+    "anilist/anime": "5941",
+    "aozora": "k97kIiqv3f",
+    "hulu": "50001092",
+    "myanimelist/anime": "5941",
+    "thetvdb": "87901/1",
+    "thetvdb/series": "87901",
+    "trakt": "46079"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "kinensatsuei",
+  "synopsis": "The full music video for the song \"Kinensatsuei\" from BUMP OF CHICKEN used in the \"Hungry Days: Aoharu ka yo.\" series of cup noodle commercials. This music video is an expansion on the commercials featuring One Piece characters in a modern day Japanese high school.",
+  "title": {
+    "en": "Commemorative Photo",
+    "jp": "Kinensatsuei"
+  },
+  "releasedAt": "2019-11-02T00:00:00.000Z",
+  "finishedAt": "2019-11-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42798/original.jpg",
+  "categories": [
+    "drama",
+    "friendship",
+    "high school",
+    "music",
+    "school clubs",
+    "school life",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42798"
+  }
+}

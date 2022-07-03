@@ -1,0 +1,29 @@
+{
+  "slug": "voltron-legendary-defender-season-5",
+  "synopsis": "Season 5 of Voltron: Legendary Defender.",
+  "title": {},
+  "releasedAt": "2018-03-02T00:00:00.000Z",
+  "finishedAt": "2018-03-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40568/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/40568/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "anime influenced",
+    "humanoid alien",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "space",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40568",
+    "thetvdb/series": "307899/5"
+  }
+}

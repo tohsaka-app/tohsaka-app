@@ -1,0 +1,23 @@
+{
+  "slug": "audition",
+  "synopsis": "A cartoon by CHUN Gye-young, which was one of the most popular cartoons in the late 1990’s, is made into an animation after 8 years of work. The film’s leading characters, with appearances typical for girls’ cartoons, are already popular as various licensed products. Four musical prodigies, who never had a chance to get a music education, meet in a band called ‘Recycled Band’. In the band, they open their minds to each other and follow their dreams in music.\n(Source: Hancinema.net)",
+  "title": {
+    "jp": "Audition"
+  },
+  "releasedAt": "2009-12-21T00:00:00.000Z",
+  "finishedAt": "2009-12-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11697/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11697",
+    "anidb": "11662",
+    "aozora": "9ZrK8svMUJ",
+    "myanimelist/anime": "31730"
+  }
+}

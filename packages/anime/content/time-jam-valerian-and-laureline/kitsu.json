@@ -1,0 +1,29 @@
+{
+  "slug": "time-jam-valerian-and-laureline",
+  "synopsis": "The story is based on a well know Sci-Fi graphic novel written by renown French graphic novel artists, Jean-Claude Mezieres and Christin.\n\n[Source: Crunchyroll]",
+  "title": {},
+  "releasedAt": "2007-10-20T00:00:00.000Z",
+  "finishedAt": "2008-03-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8127/original.jpg",
+  "categories": [
+    "alien",
+    "fantasy",
+    "future",
+    "humanoid alien",
+    "science fiction",
+    "space",
+    "space travel",
+    "time travel"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/valerian-and-laureline",
+    "https://www.hidive.com/tv/valerian-laureline"
+  ],
+  "relations": {
+    "kitsu": "8127",
+    "thetvdb/series": "265078"
+  }
+}

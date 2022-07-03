@@ -1,0 +1,23 @@
+{
+  "slug": "angel-special",
+  "synopsis": "A man in a prison dreams of being an angel.",
+  "title": {
+    "jp": "Angel (Special)"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2001-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9188/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9188",
+    "anilist/anime": "102982",
+    "aozora": "91ghTQWjBy",
+    "myanimelist/anime": "25971"
+  }
+}

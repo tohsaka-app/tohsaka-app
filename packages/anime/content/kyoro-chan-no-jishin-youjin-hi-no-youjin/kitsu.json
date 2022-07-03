@@ -1,0 +1,24 @@
+{
+  "slug": "kyoro-chan-no-jishin-youjin-hi-no-youjin",
+  "synopsis": "An educational film about fire safety starring Kyoro-chan. ",
+  "title": {
+    "jp": "Kyoro-chan no Jishin Youjin Hi no Youjin"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2001-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10120/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10120",
+    "aozora": "Ax0HDZjT5K",
+    "myanimelist/anime": "28579"
+  }
+}

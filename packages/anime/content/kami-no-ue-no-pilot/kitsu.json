@@ -1,0 +1,20 @@
+{
+  "slug": "kami-no-ue-no-pilot",
+  "synopsis": "",
+  "title": {
+    "jp": "Kami no Ue no Pilot"
+  },
+  "releasedAt": "2016-12-24T00:00:00.000Z",
+  "finishedAt": "2016-12-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41806/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41806",
+    "anilist/anime": "116236",
+    "myanimelist/anime": "37540"
+  }
+}

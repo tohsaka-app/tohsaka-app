@@ -1,0 +1,26 @@
+{
+  "slug": "himitsukessha-taka-no-tsume-countdown",
+  "synopsis": "The second season of Eagle Talon.",
+  "title": {
+    "jp": "Himitsukessha Taka no Tsume Countdown"
+  },
+  "releasedAt": "2009-10-07T00:00:00.000Z",
+  "finishedAt": "2009-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4893/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4893",
+    "anidb": "7010",
+    "anilist/anime": "7175",
+    "aozora": "XtdWuIqhGf",
+    "myanimelist/anime": "7175"
+  }
+}

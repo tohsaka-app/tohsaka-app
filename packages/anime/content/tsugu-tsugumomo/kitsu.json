@@ -1,0 +1,32 @@
+{
+  "slug": "tsugu-tsugumomo",
+  "synopsis": "Season 2 of Tsugumomo",
+  "title": {
+    "jp": "Tsugu Tsugumomo"
+  },
+  "releasedAt": "2020-04-05T00:00:00.000Z",
+  "finishedAt": "2020-06-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42180/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "contemporary fantasy",
+    "ecchi",
+    "fantasy",
+    "school life",
+    "seinen",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/tsugumomo"
+  ],
+  "relations": {
+    "kitsu": "42180",
+    "anidb": "14728",
+    "anilist/anime": "108266",
+    "myanimelist/anime": "39469"
+  }
+}

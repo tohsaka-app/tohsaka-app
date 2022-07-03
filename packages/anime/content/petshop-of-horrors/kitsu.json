@@ -1,0 +1,38 @@
+{
+  "slug": "petshop-of-horrors",
+  "synopsis": "There is a very unique pet shop in Chinatown. You must follow the rules laid out by the shop's owner or beware because a lot can go wrong. There have been a string of inexplicable customer deaths, so Detective Orcot sets out to find out why.\n\n(Source: HIDIVE)",
+  "title": {
+    "en": "Pet Shop of Horrors",
+    "jp": "Petshop of Horrors"
+  },
+  "releasedAt": "1999-03-02T00:00:00.000Z",
+  "finishedAt": "1999-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/293/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/293/original.jpg",
+  "categories": [
+    "americas",
+    "anthropomorphism",
+    "earth",
+    "horror",
+    "josei",
+    "mystery",
+    "present",
+    "united states"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/pet-shop-of-horrors?q=Pet+Shop+of+Horrors"
+  ],
+  "relations": {
+    "kitsu": "293",
+    "anidb": "209",
+    "anilist/anime": "326",
+    "aozora": "v76VfwlZNZ",
+    "myanimelist/anime": "326",
+    "thetvdb": "82970/1",
+    "thetvdb/series": "82970",
+    "trakt": "45212"
+  }
+}

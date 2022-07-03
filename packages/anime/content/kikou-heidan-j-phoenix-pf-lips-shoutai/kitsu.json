@@ -1,0 +1,25 @@
+{
+  "slug": "kikou-heidan-j-phoenix-pf-lips-shoutai",
+  "synopsis": "Mecha series based on Takara's videogames.",
+  "title": {
+    "jp": "Kikou Heidan J-Phoenix: PF Lips Shoutai"
+  },
+  "releasedAt": "2002-05-12T00:00:00.000Z",
+  "finishedAt": "2004-02-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5517/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5517",
+    "anidb": "7433",
+    "anilist/anime": "8883",
+    "aozora": "3ysbvn4odL",
+    "myanimelist/anime": "8883"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "xpice",
+  "synopsis": "XFLAG and Scandal have joined forces to create an original animated short: XPICE—a tale of heroes fighting to protect their city, and how they grow along the way. It’s got a dash of courage, a pinch of teamwork, and a whole lot of heart.\n\n\"Find your spice. Live true to you.\"\n\n(Source: YouTube)\n",
+  "title": {
+    "jp": "XPICE"
+  },
+  "releasedAt": "2020-07-15T00:00:00.000Z",
+  "finishedAt": "2020-07-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43398/original.jpeg",
+  "categories": [
+    "action",
+    "music",
+    "superhero"
+  ],
+  "externals": [
+    "https://youtu.be/y2W295yVVSE"
+  ],
+  "relations": {
+    "kitsu": "43398"
+  }
+}

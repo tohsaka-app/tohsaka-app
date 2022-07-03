@@ -1,0 +1,23 @@
+{
+  "slug": "worldcalling",
+  "synopsis": "Music video from the IA x JIN project.",
+  "title": {
+    "jp": "World Calling"
+  },
+  "releasedAt": "2012-11-02T00:00:00.000Z",
+  "finishedAt": "2012-11-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10227/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10227",
+    "anilist/anime": "102362",
+    "aozora": "2nC933wMlN",
+    "myanimelist/anime": "29123"
+  }
+}

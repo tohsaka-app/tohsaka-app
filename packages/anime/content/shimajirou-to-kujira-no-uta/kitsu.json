@@ -1,0 +1,28 @@
+{
+  "slug": "shimajirou-to-kujira-no-uta",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Shimajirou to Kujira no Uta"
+  },
+  "releasedAt": "2014-03-14T00:00:00.000Z",
+  "finishedAt": "2014-03-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8288/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8288",
+    "anidb": "10150",
+    "anilist/anime": "20550",
+    "aozora": "pj3iDLcDL7",
+    "myanimelist/anime": "20963"
+  }
+}

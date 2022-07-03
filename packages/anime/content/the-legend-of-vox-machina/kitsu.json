@@ -1,0 +1,26 @@
+{
+  "slug": "the-legend-of-vox-machina",
+  "synopsis": "They're rowdy, they're ragtag, they're misfits turned mercenaries for hire. Vox Machina is more interested in easy money and cheap ale than actually protecting the realm. But when the kingdom is threatened by evil, this boisterous crew realizes that they are the only ones capable of restoring justice. What began as a simple payday is now the origin story behind Exandria’s newest heroes.\n\n(Source: Prime Video)",
+  "title": {
+    "en": "The Legend of Vox Machina"
+  },
+  "releasedAt": "2022-01-28T00:00:00.000Z",
+  "finishedAt": "2022-01-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45932/poster_image/c6433111a0cdf2ff5c84c7a41d1c1b25.png",
+  "coverUrl": "https://media.kitsu.io/anime/45932/cover_image/13b619eeac4c43184dda9c86834fafdf.png",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.amazon.com/Legend-Vox-Machina-Season/dp/B09PZG2979"
+  ],
+  "relations": {
+    "kitsu": "45932"
+  }
+}

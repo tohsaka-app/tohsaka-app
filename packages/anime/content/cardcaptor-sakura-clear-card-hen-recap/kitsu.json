@@ -1,0 +1,30 @@
+{
+  "slug": "cardcaptor-sakura-clear-card-hen-recap",
+  "synopsis": "Recap of first 12 eps. of Cardcaptor Sakura: Clear Card-hen.",
+  "title": {
+    "en": "Cardcaptor Sakura: Clear Card-hen Recap",
+    "jp": "Cardcaptor Sakura: Clear Card-hen Recap"
+  },
+  "releasedAt": "2018-04-01T00:00:00.000Z",
+  "finishedAt": "2018-04-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41176/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41176/original.png",
+  "categories": [
+    "adventure",
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "magic",
+    "magical girl",
+    "romance",
+    "shoujo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41176",
+    "myanimelist/anime": "37595"
+  }
+}

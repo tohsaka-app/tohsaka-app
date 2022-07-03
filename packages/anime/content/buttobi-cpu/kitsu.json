@@ -1,0 +1,35 @@
+{
+  "slug": "buttobi-cpu",
+  "synopsis": "For three years Akira has been saving up for a computer. When a model 9821 goes on sale he runs to the store only to find it sold out in five minutes. Discouraged, walking home he discovers a man in an alley who happens to have the computer he was looking for. Excited he buys the computer and runs home only to find that he didn’t purchase a 9821 but a 2198, a super advanced biomechanical computer girl named Mimi.",
+  "title": {
+    "en": "I Dream of Mimi",
+    "jp": "Buttobi!! CPU"
+  },
+  "releasedAt": "1997-04-25T00:00:00.000Z",
+  "finishedAt": "1997-09-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/420/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "fantasy world",
+    "japan",
+    "magic",
+    "present",
+    "science fiction",
+    "sudden girlfriend appearance",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "420",
+    "anidb": "316",
+    "anilist/anime": "458",
+    "aozora": "ZFV8nfTyxm",
+    "myanimelist/anime": "458"
+  }
+}

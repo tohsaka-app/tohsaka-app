@@ -1,0 +1,28 @@
+{
+  "slug": "gekitou-crush-gear-turbo",
+  "synopsis": "After losing almost all their members the Tobita Crush Gear club is facing extinction. Kouya who dreams of being a Crush Gear Fighting Champion doesn't want to see the club become extinct and will do whatever he can to keep the club running and become a Cush Gear Champion.",
+  "title": {
+    "jp": "Gekitou! Crush Gear Turbo"
+  },
+  "releasedAt": "2001-10-07T00:00:00.000Z",
+  "finishedAt": "2003-01-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2723/original.jpg",
+  "categories": [
+    "present",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2723",
+    "anidb": "2322",
+    "anilist/anime": "3012",
+    "aozora": "QVj6rdg3Dk",
+    "myanimelist/anime": "3012",
+    "thetvdb": "250577/1",
+    "thetvdb/series": "250577",
+    "trakt": "44756"
+  }
+}

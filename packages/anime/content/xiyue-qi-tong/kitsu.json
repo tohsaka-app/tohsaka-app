@@ -1,0 +1,27 @@
+{
+  "slug": "xiyue-qi-tong",
+  "synopsis": "A puppet stop-motion film about the classic Lotus Lantern Chinese story.",
+  "title": {
+    "en": "Saving Mother",
+    "jp": "Xiyue Qi Tong"
+  },
+  "releasedAt": "1984-01-01T00:00:00.000Z",
+  "finishedAt": "1984-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11646/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11646",
+    "anidb": "12143",
+    "anilist/anime": "130560",
+    "aozora": "db5i9awCts",
+    "myanimelist/anime": "32269"
+  }
+}

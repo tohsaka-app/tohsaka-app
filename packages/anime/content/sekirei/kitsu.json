@@ -1,0 +1,42 @@
+{
+  "slug": "sekirei",
+  "synopsis": "Struggling yet brilliant teenager Minato Sahashi has failed his college entrance exams for the second time, resulting in him being regarded as worthless by those around him. However, the course of his seemingly bleak future is altered dramatically when a beautiful, supernatural woman falls from the sky and into his life. That woman, Musubi, is a unique being known as a \"Sekirei,\" a humanoid extraterrestrial with extraordinary abilities. These aliens are known for kissing humans carrying the Ashikabi gene in order to awaken additional latent powers deep within.Recognizing the potential within the seemingly insignificant youth, Musubi kisses the bewildered Minato, initiating a bond between the two of them. This drags him into the high-stakes world of the Sekirei, where he and his new partner must compete against others in a battle for survival called the \"Sekirei Plan.\" However, unbeknownst to the contestants, there is far more at risk that what the competition initially entailed.[Written by MAL Rewrite]",
+  "title": {
+    "en": "Sekirei",
+    "jp": "Sekirei"
+  },
+  "releasedAt": "2008-07-02T00:00:00.000Z",
+  "finishedAt": "2008-09-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3441/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3441/original.png",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "harem",
+    "japan",
+    "sudden girlfriend appearance",
+    "super power"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/sekirei/videos/episodes",
+    "http://www.hulu.com/sekirei"
+  ],
+  "relations": {
+    "kitsu": "3441",
+    "anidb": "5786",
+    "anilist/anime": "4063",
+    "aozora": "x9VKtn0VAi",
+    "hulu": "50000784",
+    "myanimelist/anime": "4063",
+    "thetvdb": "82807/1",
+    "thetvdb/season": "34566",
+    "thetvdb/series": "82807",
+    "trakt": "34656"
+  }
+}

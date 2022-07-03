@@ -1,0 +1,30 @@
+{
+  "slug": "nanbaka",
+  "synopsis": "A super exciting action comedy starring the inmates and guards of the world's most formidable prison.\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Nanbaka",
+    "jp": "Nanbaka"
+  },
+  "releasedAt": "2016-10-05T00:00:00.000Z",
+  "finishedAt": "2016-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10467/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10467/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10467",
+    "anidb": "11075",
+    "anilist/anime": "21051",
+    "aozora": "YZh7PSw6vE",
+    "myanimelist/anime": "30016",
+    "thetvdb": "315103",
+    "trakt": "110252"
+  }
+}

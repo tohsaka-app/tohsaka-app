@@ -1,0 +1,28 @@
+{
+  "slug": "stitch-zutto-saikou-no-tomodachi",
+  "synopsis": "In their new adventure, Yuuna and Stitch move from their small island Izayoi to the Okinawa main island where Yuuna is supposed to visit a school. A new cast of friends awaits them there as well as a new crisis approaching from space.\n(Source: AniDB)",
+  "title": {
+    "jp": "Stitch!: Zutto Saikou no Tomodachi"
+  },
+  "releasedAt": "2010-07-06T00:00:00.000Z",
+  "finishedAt": "2011-03-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5555/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5555",
+    "anidb": "7570",
+    "anilist/anime": "8964",
+    "aozora": "75DqUBujx0",
+    "myanimelist/anime": "8964",
+    "thetvdb": "98661",
+    "trakt": "20661"
+  }
+}

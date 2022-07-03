@@ -1,0 +1,24 @@
+{
+  "slug": "shirokuro-obake-no-ekaki-uta",
+  "synopsis": "A promotional video made to celebrate over 100,000 copies sold of  the \"Twin Obake's search and find picture book\"!",
+  "title": {
+    "en": "Twin Obake's Drawing Song UTA-MON",
+    "jp": "Shirokuro Obake no Ekaki Uta"
+  },
+  "releasedAt": "2017-09-18T00:00:00.000Z",
+  "finishedAt": "2017-09-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43359/original.jpg",
+  "categories": [
+    "music",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=PJ2vvwLVJ6s"
+  ],
+  "relations": {
+    "kitsu": "43359"
+  }
+}

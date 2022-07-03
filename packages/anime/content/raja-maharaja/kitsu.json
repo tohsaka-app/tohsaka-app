@@ -1,0 +1,25 @@
+{
+  "slug": "raja-maharaja",
+  "synopsis": "A Minna no Uta song about the life of a potentate, sung by Togawa Jun.",
+  "title": {
+    "jp": "Raja Maharaja"
+  },
+  "releasedAt": "1984-01-01T00:00:00.000Z",
+  "finishedAt": "1984-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5433/original.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5433",
+    "anidb": "12541",
+    "anilist/anime": "8671",
+    "aozora": "re6HUbl8A0",
+    "myanimelist/anime": "8671"
+  }
+}

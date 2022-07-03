@@ -1,0 +1,24 @@
+{
+  "slug": "wo-jia-da-shixiong-shi-ge-fanpai",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2020-10-29T00:00:00.000Z",
+  "finishedAt": "2021-01-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43779/original.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43779",
+    "anilist/anime": "115907",
+    "myanimelist/anime": "42950"
+  }
+}

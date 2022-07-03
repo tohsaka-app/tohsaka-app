@@ -1,0 +1,28 @@
+{
+  "slug": "jack-to-mame-no-ki-1989",
+  "synopsis": "A little-known adaptation of \"Jack and the Beanstalk,\" directed by Morimoto Kouji and produced at Studio 4°C in 1989 for the collection \"Anime Video Art Collection,\" a series of animated shorts based on stories for children. Released only on VHS.\n(Source: AniDB)",
+  "title": {
+    "jp": "Jack to Mame no Ki (OVA)"
+  },
+  "releasedAt": "1989-01-01T00:00:00.000Z",
+  "finishedAt": "1989-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5585/original.jpg",
+  "categories": [
+    "adventure",
+    "dementia",
+    "fantasy",
+    "kids",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5585",
+    "anidb": "7614",
+    "anilist/anime": "9045",
+    "aozora": "fuFe1oUXLs",
+    "myanimelist/anime": "9045"
+  }
+}

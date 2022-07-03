@@ -1,0 +1,36 @@
+{
+  "slug": "sabu-to-ichi-torimono-hikae",
+  "synopsis": "The series follows the adventures of Sabu, a young Edo bakufu investigator traveling with the blind master swordsman Ichi. In their travels, they assist the common people in solving mysteries and righting wrongs (usually committed by bandits or corrupt officials). Sabu is engaged to Midori, the daughter of his boss, who works as a police officer for the Tokugawa shogunate.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Sabu & Ichi's Arrest Warrant",
+    "jp": "Sabu to Ichi Torimono Hikae"
+  },
+  "releasedAt": "1968-10-03T00:00:00.000Z",
+  "finishedAt": "1969-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4379/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "cops",
+    "detective",
+    "historical",
+    "japan",
+    "martial arts",
+    "past",
+    "samurai",
+    "slice of life",
+    "swordplay",
+    "tokugawa period"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4379",
+    "anidb": "5293",
+    "anilist/anime": "5997",
+    "aozora": "p8It3MV2xi",
+    "myanimelist/anime": "5997"
+  }
+}

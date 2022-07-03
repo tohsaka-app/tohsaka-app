@@ -1,0 +1,28 @@
+{
+  "slug": "tsuyoshi-shikkari-shinasai-tsuyoshi-no-time-machine-de-shikkari-shinasai",
+  "synopsis": "Tsuyoshi Shikkari Shinasai movie.",
+  "title": {
+    "jp": "Tsuyoshi Shikkari Shinasai: Tsuyoshi no Time Machine de Shikkari Shinasai"
+  },
+  "releasedAt": "1993-12-05T00:00:00.000Z",
+  "finishedAt": "1993-12-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6418/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6418",
+    "anidb": "7378",
+    "anilist/anime": "10943",
+    "aozora": "SaYhOpcyey",
+    "myanimelist/anime": "10943"
+  }
+}

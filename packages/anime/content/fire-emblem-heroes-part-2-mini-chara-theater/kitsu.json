@@ -1,0 +1,28 @@
+{
+  "slug": "fire-emblem-heroes-part-2-mini-chara-theater",
+  "synopsis": "An adorable animated video which takes a look back at the events of Book II in Fire Emblem Heroes' story which is performed through a stage play-like setting.\n\n(Source: A-L)",
+  "title": {
+    "en": "Fire Emblem Heroes - Book II - Chibi Playhouse",
+    "jp": "Fire Emblem Heroes: Part 2 - Mini Chara Theater"
+  },
+  "releasedAt": "2021-07-06T00:00:00.000Z",
+  "finishedAt": "2021-07-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44939/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44939/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "super deformed"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=M8nAqMPb8bM"
+  ],
+  "relations": {
+    "kitsu": "44939",
+    "anilist/anime": "137102"
+  }
+}

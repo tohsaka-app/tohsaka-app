@@ -1,0 +1,27 @@
+{
+  "slug": "rurouni-kenshin-special",
+  "synopsis": "A VHS only special episode. Also known as Episode 95.",
+  "title": {
+    "en": "Samurai X Special",
+    "jp": "Rurouni Kenshin Special"
+  },
+  "releasedAt": "1998-12-02T00:00:00.000Z",
+  "finishedAt": "1998-12-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6659/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "romance",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6659",
+    "anilist/anime": "12067",
+    "aozora": "avDnDUxYLh",
+    "myanimelist/anime": "12067"
+  }
+}

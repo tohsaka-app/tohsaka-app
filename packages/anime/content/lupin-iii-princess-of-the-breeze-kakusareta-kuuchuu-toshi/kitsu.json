@@ -1,0 +1,31 @@
+{
+  "slug": "lupin-iii-princess-of-the-breeze-kakusareta-kuuchuu-toshi",
+  "synopsis": "The story is set in Shahalta, a tiny European city-state floating in the air with practically no contact with the outside world for years. The government is transitioning from a monarchy to a republic, and to celebrate the occasion, a national treasure exhibition is being held. Lupin infiltrates the exhibition for the secret royal treasures, but not before sky pirates snatch them first.\n(Source: ANN) ",
+  "title": {
+    "en": "Lupin the Third: Princess of the Breeze - Hidden City in the Sky",
+    "jp": "Lupin III: Princess of the Breeze - Kakusareta Kuuchuu Toshi"
+  },
+  "releasedAt": "2013-11-15T00:00:00.000Z",
+  "finishedAt": "2013-11-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7923/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7923/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "crime",
+    "seinen",
+    "thievery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7923",
+    "anidb": "10021",
+    "anilist/anime": "20141",
+    "aozora": "lIjBn67S2T",
+    "myanimelist/anime": "20141"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "hello-kitty-no-alps-no-shoujo-heidi",
+  "synopsis": "Part 1 Hello Kitty version of Heidi, a novel by Johanna Spyri.",
+  "title": {
+    "en": "Hello Kitty in Heidi",
+    "jp": "Hello Kitty no Alps no Shoujo Heidi"
+  },
+  "releasedAt": "1993-08-21T00:00:00.000Z",
+  "finishedAt": "1993-08-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9303/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9303",
+    "anidb": "7775",
+    "anilist/anime": "114967",
+    "aozora": "UWAJewsxrg",
+    "myanimelist/anime": "22443"
+  }
+}

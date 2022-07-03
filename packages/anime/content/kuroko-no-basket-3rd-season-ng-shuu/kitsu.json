@@ -1,0 +1,28 @@
+{
+  "slug": "kuroko-no-basket-3rd-season-ng-shuu",
+  "synopsis": "Animated bloopers included with the Blu-ray/DVD releases of the Kuroko no Basket 3rd Season.",
+  "title": {
+    "jp": "Kuroko no Basket 3rd Season NG-shuu"
+  },
+  "releasedAt": "2015-04-24T00:00:00.000Z",
+  "finishedAt": "2015-12-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10768/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10768/original.jpg",
+  "categories": [
+    "basketball",
+    "comedy",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10768",
+    "anilist/anime": "98704",
+    "aozora": "B8C4hS0Um4",
+    "myanimelist/anime": "30311",
+    "trakt": "66153"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "sk8",
+  "synopsis": "Reki, a high school sophomore and skater, is addicted to \"S,\" a highly secret and dangerous downhill skateboarding race that takes place in an abandoned mine. The skaters are especially wild about the \"beefs,\" or heated battles that erupt in the races.Reki takes Langa, a transfer student returning to Japan after studying abroad, to the mine where the races are held. Langa, who has no skateboarding experience, finds himself pulled into the world of \"S\"...(Source: Aniplex US)",
+  "title": {
+    "en": "SK8 the Infinity",
+    "jp": "SK8"
+  },
+  "releasedAt": "2021-01-10T00:00:00.000Z",
+  "finishedAt": "2021-04-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43595/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43595/original.jpeg",
+  "categories": [
+    "action",
+    "comedy",
+    "drama",
+    "school life",
+    "slapstick",
+    "sports"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/sk8-the-infinity/"
+  ],
+  "relations": {
+    "kitsu": "43595",
+    "anilist/anime": "124153",
+    "myanimelist/anime": "42923"
+  }
+}

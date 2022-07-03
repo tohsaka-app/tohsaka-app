@@ -1,0 +1,26 @@
+{
+  "slug": "duel-masters-king-tv",
+  "synopsis": null,
+  "title": {
+    "jp": "Duel Masters King!"
+  },
+  "releasedAt": "2021-04-04T00:00:00.000Z",
+  "finishedAt": "2022-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46018/poster_image/1b816f459acd0efbc35582b73dc155b4.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "card games",
+    "comedy",
+    "kids",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46018",
+    "anilist/anime": "130584"
+  }
+}

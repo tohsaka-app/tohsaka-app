@@ -1,0 +1,27 @@
+{
+  "slug": "houkago-no-pleiades-manner-movie",
+  "synopsis": "A manner movie based on the Houkago no Pleiades anime.\nA manner movie is a reminder video shown in theaters before the main movie starts, it is there to remind the audience to turn off their mobile phones, avoid talking, etc. This Houkago no Pleiades manner movie was exclusive to the United Cinemas theater chain.\n(Source: AniDB)",
+  "title": {
+    "jp": "Houkago no Pleiades: Manner Movie"
+  },
+  "releasedAt": "2011-06-04T00:00:00.000Z",
+  "finishedAt": "2011-06-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6308/original.jpg",
+  "categories": [
+    "fantasy",
+    "magic",
+    "magical girl",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6308",
+    "anidb": "8418",
+    "anilist/anime": "10710",
+    "aozora": "AqnTvWGPud",
+    "myanimelist/anime": "10710"
+  }
+}

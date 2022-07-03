@@ -1,0 +1,22 @@
+{
+  "slug": "Junji-Ito-Maniac-Japanese-Tales-of-the-Macabre",
+  "synopsis": "From the horror master of manga comes a new anime series: JUNJI ITO'S MANIAC\nA Netflix produced anime series adapting 20 stories chosen by Junji Ito, including from:\n- Tomie\n- Souichi\n- The Hanging Balloons",
+  "title": {
+    "en": "Junji Ito Maniac: Japanese Tales of the Macabre",
+    "jp": "Itou Junji: Maniac"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46168/poster_image/97ee34394caf04c8e8e87e1d7e0f77e3.jpg",
+  "categories": [
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46168",
+    "anilist/anime": "150653"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "wala-pyeon-uijeom-the-animation",
+  "synopsis": "",
+  "title": {
+    "en": "Welcome to Wara Store!",
+    "jp": "Wala! Pyeon-uijeom The Animation"
+  },
+  "releasedAt": "2009-10-23T00:00:00.000Z",
+  "finishedAt": "2010-04-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7584/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7584",
+    "anilist/anime": "17106",
+    "aozora": "2noT5JD7V7",
+    "myanimelist/anime": "17106"
+  }
+}

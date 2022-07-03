@@ -1,0 +1,38 @@
+{
+  "slug": "master-keaton",
+  "synopsis": "Taichi Keaton is a half-British half-Japanese archeologist and SAS veteran of the Falklands War. He solves mysteries and investigates insurance fraud for Lloyd's around the world.\n(Source: ANN)",
+  "title": {
+    "jp": "Master Keaton"
+  },
+  "releasedAt": "1998-10-06T00:00:00.000Z",
+  "finishedAt": "1999-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1329/original.jpg",
+  "categories": [
+    "adventure",
+    "detective",
+    "earth",
+    "europe",
+    "france",
+    "historical",
+    "japan",
+    "law and order",
+    "mystery",
+    "present",
+    "russia",
+    "united kingdom"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1329",
+    "anidb": "1439",
+    "anilist/anime": "1483",
+    "aozora": "jrMT0fK2Ra",
+    "myanimelist/anime": "1483",
+    "thetvdb": "71767/1",
+    "thetvdb/series": "71767",
+    "trakt": "34525"
+  }
+}

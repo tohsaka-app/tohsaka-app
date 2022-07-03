@@ -1,0 +1,27 @@
+{
+  "slug": "soukou-kyoshin-z-knight",
+  "synopsis": "A promotional video tape with a short Z-Knight anime and other clips sold with a Z-Knight douple pack including colour variations of two Z-Knights.\n(Source: AniDB)",
+  "title": {
+    "jp": "Soukou Kyojin Z-Knight"
+  },
+  "releasedAt": "1991-12-30T00:00:00.000Z",
+  "finishedAt": "1991-12-30T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5968/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5968",
+    "anidb": "7681",
+    "anilist/anime": "9965",
+    "aozora": "yqRP9yKbmp",
+    "myanimelist/anime": "9965"
+  }
+}

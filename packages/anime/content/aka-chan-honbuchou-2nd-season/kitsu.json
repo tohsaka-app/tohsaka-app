@@ -1,0 +1,25 @@
+{
+  "slug": "aka-chan-honbuchou-2nd-season",
+  "synopsis": "The second season of Akachan Honbuchou.",
+  "title": {
+    "en": "Baby in Charge 2nd Season",
+    "jp": "Aka-chan Honbuchou 2nd Season"
+  },
+  "releasedAt": "2022-01-09T00:00:00.000Z",
+  "finishedAt": "2022-01-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45994/poster_image/1f88f00b695e8c735211774e4e9cfe5d.jpg",
+  "categories": [
+    "comedy",
+    "seinen",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45994",
+    "anilist/anime": "144852",
+    "myanimelist/anime": "51132"
+  }
+}

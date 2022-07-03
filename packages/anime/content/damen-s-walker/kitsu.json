@@ -1,0 +1,24 @@
+{
+  "slug": "damen-s-walker",
+  "synopsis": "Damen is a coined word combining \"Dame (failed)\" and \"Men\". It's a collection of short stories about women's experiences with \"Damen (failed men like swindler, liar etc.)\".",
+  "title": {
+    "jp": "Damen's Walker"
+  },
+  "releasedAt": "2010-03-01T00:00:00.000Z",
+  "finishedAt": "2010-05-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5272/original.jpg",
+  "categories": [
+    "comedy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5272",
+    "anilist/anime": "8258",
+    "aozora": "R0PB0hB9Rc",
+    "myanimelist/anime": "8258"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "anime-rakugo-kan",
+  "synopsis": "A collection of 4 stand-alone stories.",
+  "title": {
+    "jp": "Anime Rakugo Kan"
+  },
+  "releasedAt": "1992-07-05T00:00:00.000Z",
+  "finishedAt": "1992-07-05T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5460/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5460",
+    "anidb": "5136",
+    "anilist/anime": "8723",
+    "aozora": "zNSD0En77V",
+    "myanimelist/anime": "8723"
+  }
+}

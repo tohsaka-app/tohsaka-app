@@ -1,0 +1,25 @@
+{
+  "slug": "nineko-gelee-opening-movie",
+  "synopsis": "A music video staring Gelée, a character created by DLE, featuring Seiko Oomori.",
+  "title": {
+    "en": "Runnin' Away Gelée",
+    "jp": "Nineko Gelée"
+  },
+  "releasedAt": "2016-07-29T00:00:00.000Z",
+  "finishedAt": "2016-07-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12574/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12574",
+    "anilist/anime": "98902",
+    "aozora": "vy64VxRD9I",
+    "myanimelist/anime": "33914"
+  }
+}

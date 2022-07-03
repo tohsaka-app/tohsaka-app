@@ -1,0 +1,24 @@
+{
+  "slug": "utawarerumono-itsuwari-no-kamen-specials",
+  "synopsis": "Utawarerumono: Itsuwari no Kamen specials included with the volumes of the DVD/BD.",
+  "title": {
+    "jp": "Utawarerumono: Itsuwari no Kamen Specials"
+  },
+  "releasedAt": "2016-03-30T00:00:00.000Z",
+  "finishedAt": "2016-06-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12776/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12776",
+    "anilist/anime": "98547",
+    "aozora": "N1UrCyvq6y",
+    "myanimelist/anime": "33208"
+  }
+}

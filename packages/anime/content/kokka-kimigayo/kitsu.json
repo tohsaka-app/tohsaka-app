@@ -1,0 +1,26 @@
+{
+  "slug": "kokka-kimigayo",
+  "synopsis": "Short movie from 1931. ",
+  "title": {
+    "en": "The National Anthem Kimigayo",
+    "jp": "Kokka Kimigayo"
+  },
+  "releasedAt": "1931-01-01T00:00:00.000Z",
+  "finishedAt": "1931-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3589/original.jpg",
+  "categories": [
+    "historical",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3589",
+    "anidb": "6707",
+    "anilist/anime": "4393",
+    "aozora": "h7NDugp5HD",
+    "myanimelist/anime": "4393"
+  }
+}

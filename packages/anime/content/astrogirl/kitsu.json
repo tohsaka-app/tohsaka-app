@@ -1,0 +1,25 @@
+{
+  "slug": "astrogirl",
+  "synopsis": "Music video for the song Astrogirl by Tsukumo Sana.",
+  "title": {
+    "en": "Astrogirl"
+  },
+  "releasedAt": "2022-06-09T00:00:00.000Z",
+  "finishedAt": "2022-06-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46178/poster_image/c38c2850a7a0a7270ad2e1b9eea0e5ee.png",
+  "categories": [
+    "anime influenced",
+    "friendship",
+    "music",
+    "space"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=R8y1aWMlPOs"
+  ],
+  "relations": {
+    "kitsu": "46178"
+  }
+}

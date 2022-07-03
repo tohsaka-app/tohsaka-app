@@ -1,0 +1,24 @@
+{
+  "slug": "umi-yori-fukai-sora-no-shita",
+  "synopsis": "MV for Umi Yori Fukai Sora no Shita by Tokino Sora.",
+  "title": {
+    "jp": "Umi Yori Fukai Sora no Shita"
+  },
+  "releasedAt": "2018-12-18T00:00:00.000Z",
+  "finishedAt": "2018-12-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44001/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=nP5mhWX2i0Q&feature=youtu.be&ab_channel=SoraCh.%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%9D%E3%82%89%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
+  ],
+  "relations": {
+    "kitsu": "44001",
+    "myanimelist/anime": "51813"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "avatar-the-last-airbender-book-1-water",
+  "synopsis": "Aang and his friends Katara and Sokka journey to the North Pole to find a Waterbending master to teach Aang and Katara. The Fire Nation is waging a seemingly endless war against the Earth Kingdom and the Water Tribes. Aang, the current Avatar, must master the four elements (Air, Water, Earth, and Fire) to end the war.",
+  "title": {},
+  "releasedAt": "2005-02-21T00:00:00.000Z",
+  "finishedAt": "2005-12-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7936/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7936/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "martial arts",
+    "super power"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/70142405"
+  ],
+  "relations": {
+    "kitsu": "7936",
+    "thetvdb": "74852/1",
+    "thetvdb/season": "8113",
+    "thetvdb/series": "74852"
+  }
+}

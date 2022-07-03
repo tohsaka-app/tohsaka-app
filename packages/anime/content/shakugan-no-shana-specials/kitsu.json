@@ -1,0 +1,25 @@
+{
+  "slug": "shakugan-no-shana-specials",
+  "synopsis": "Shana-tan specials bundled with the first and fifth volume pre-orders of the Shakugan no Shana DVD, the limited edition Shakugan no Shana guide book, and the limited edition Shakugan no Shana Movie preview DVD special.Episodes\n#1: Shakugan no Shana-tan\n#2: Shakugan no Shana-tan Returns\n#3: Itadaki no Hecate-tan\n#4: Banjou no Carmel-san",
+  "title": {
+    "jp": "Shakugan no Shana Specials"
+  },
+  "releasedAt": "2006-01-25T00:00:00.000Z",
+  "finishedAt": "2007-04-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/953/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/953/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "953",
+    "anilist/anime": "1066",
+    "aozora": "FbGTv0LT7m",
+    "myanimelist/anime": "1066"
+  }
+}

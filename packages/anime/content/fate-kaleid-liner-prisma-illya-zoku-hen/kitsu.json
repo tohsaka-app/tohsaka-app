@@ -1,0 +1,25 @@
+{
+  "slug": "fate-kaleid-liner-prisma-illya-zoku-hen",
+  "synopsis": "New sequel to the Fate/kaleid liner Prisma☆Illya series.",
+  "title": {
+    "jp": "Fate/kaleid liner Prisma☆Illya (Zoku-hen)"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "unreleased",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45068/original.png",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45068",
+    "anilist/anime": "138511",
+    "myanimelist/anime": "49703"
+  }
+}

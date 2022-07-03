@@ -1,0 +1,24 @@
+{
+  "slug": "nobiro-nobiro-daisuki-na-ki",
+  "synopsis": "A creature takes care of a plant that rewards him in unexpected and wondrous ways. This tree grows throughout the seasons and sustains those around it until it comes full circle with its caretaker.\nA Minna no Uta song by Ann Sally for the NHK Heart Exhibition.",
+  "title": {
+    "jp": "Nobiro Nobiro Daisuki na Ki"
+  },
+  "releasedAt": "2007-09-01T00:00:00.000Z",
+  "finishedAt": "2007-09-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5461/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5461",
+    "anilist/anime": "8724",
+    "aozora": "shxKMziDKP",
+    "myanimelist/anime": "8724"
+  }
+}

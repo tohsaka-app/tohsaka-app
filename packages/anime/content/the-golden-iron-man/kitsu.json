@@ -1,0 +1,29 @@
+{
+  "slug": "the-golden-iron-man",
+  "synopsis": "The titular hero sets out on a journey to the underworld.",
+  "title": {
+    "en": "The Golden Iron Man",
+    "jp": "Hwanggeum Cheolin"
+  },
+  "releasedAt": "1968-01-01T00:00:00.000Z",
+  "finishedAt": "1968-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7527/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "kids",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7527",
+    "anidb": "9636",
+    "anilist/anime": "16808",
+    "aozora": "r5kMhc4iKX",
+    "myanimelist/anime": "16808"
+  }
+}

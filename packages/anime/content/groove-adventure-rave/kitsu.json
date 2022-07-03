@@ -1,0 +1,37 @@
+{
+  "slug": "groove-adventure-rave",
+  "synopsis": "Long ago, a war was waged between the forces of darkness and light as Dark Brings—stones containing dark power beyond human ability—put the world at risk with their destructive force. In order to stem the tide of darkness, a lone swordsman used holy power known as the Rave to destroy the source of every Dark Brings. The resulting explosion, which came to be known as the Overdrive, destroyed a tenth of the world; fragments of the Rave were scattered throughout.Groove Adventure Rave takes place fifty years after the Overdrive. A group known as Demon Card has collected the remaining Dark Brings, using them to lay siege to a number of towns. Meanwhile, a young swordsman by the name of Haru Glory has inherited both the Rave and its guardian, Plue, making him the next Rave Master. With the aid of an amnesiac drifter by the name of Elie and a silver-manipulating blacksmith by the name of Musica, Haru must scour the world in search of the scattered Rave Stones and put an end to the Dark Brings and Demon Card for once and for all.",
+  "title": {
+    "en": "Rave Master",
+    "jp": "Groove Adventure Rave"
+  },
+  "releasedAt": "2001-10-13T00:00:00.000Z",
+  "finishedAt": "2002-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/221/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/221/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "coming of age",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "romance",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "221",
+    "anidb": "125",
+    "anilist/anime": "246",
+    "aozora": "N9HR4ElRHV",
+    "myanimelist/anime": "246",
+    "thetvdb": "72973/1",
+    "thetvdb/series": "72973",
+    "trakt": "37315"
+  }
+}

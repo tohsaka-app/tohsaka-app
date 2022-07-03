@@ -1,0 +1,25 @@
+{
+  "slug": "maabou-no-shounen-koukuu-tsuwamono",
+  "synopsis": "A short film from 1937.",
+  "title": {
+    "en": null,
+    "jp": "Maabou no Shounen Koukuu Tsuwamono"
+  },
+  "releasedAt": "1937-10-27T00:00:00.000Z",
+  "finishedAt": "1937-10-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5004/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5004",
+    "anidb": "6856",
+    "anilist/anime": "7500",
+    "aozora": "qwPAVd3GNH",
+    "myanimelist/anime": "7500"
+  }
+}

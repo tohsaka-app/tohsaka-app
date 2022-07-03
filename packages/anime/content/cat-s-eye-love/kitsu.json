@@ -1,0 +1,24 @@
+{
+  "slug": "cat-s-eye-love",
+  "synopsis": "Beauty is in the eye of the beholder, in this case, it's a cat who loves milk cookies and sees the moon as a wonderful treat.",
+  "title": {
+    "jp": "Cat's Eye Love"
+  },
+  "releasedAt": "1978-02-01T00:00:00.000Z",
+  "finishedAt": "1978-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40900/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40900",
+    "anilist/anime": "139905",
+    "aozora": "LIJvVz3AE1",
+    "myanimelist/anime": "36348"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "aquatic",
+  "synopsis": "The stream of a mil, an apple flows down through the stream, where innumerable illusion of fish appears and disappears in the sky reflected in the water.",
+  "title": {
+    "en": "Aquatic",
+    "jp": "Suisei"
+  },
+  "releasedAt": "1987-01-01T00:00:00.000Z",
+  "finishedAt": "1987-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4907/original.jpg",
+  "categories": [
+    "comedy",
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4907",
+    "anidb": "5154",
+    "anilist/anime": "7243",
+    "aozora": "fTwqLcjQSF",
+    "myanimelist/anime": "7243"
+  }
+}

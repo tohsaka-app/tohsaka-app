@@ -1,0 +1,38 @@
+{
+  "slug": "tamako-market",
+  "synopsis": "Tamako knows everything about mochi, the traditional Japanese dessert treats - she even works at Tama-ya, her family’s mochi shop. However, friendships, rivalries, and strange new feelings are beginning to make her life a sticky, complicated mess!\n\n(Source: HIDIVE)",
+  "title": {
+    "en": "Tamako Market",
+    "jp": "Tamako Market"
+  },
+  "releasedAt": "2013-01-10T00:00:00.000Z",
+  "finishedAt": "2013-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7425/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7425/original.jpg",
+  "categories": [
+    "comedy",
+    "cooking",
+    "friendship",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/tamako-market"
+  ],
+  "relations": {
+    "kitsu": "7425",
+    "anidb": "9525",
+    "anilist/anime": "16417",
+    "aozora": "kU1idQvqsq",
+    "hulu": "50012480",
+    "myanimelist/anime": "16417",
+    "thetvdb": "264534/1",
+    "thetvdb/season": "506403",
+    "thetvdb/series": "264534",
+    "trakt": "48267"
+  }
+}

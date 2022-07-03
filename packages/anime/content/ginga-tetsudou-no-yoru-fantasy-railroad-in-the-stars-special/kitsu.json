@@ -1,0 +1,22 @@
+{
+  "slug": "ginga-tetsudou-no-yoru-fantasy-railroad-in-the-stars-special",
+  "synopsis": "A BD/DVD special of Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars. It contains new animation and further explains star constellations.",
+  "title": {
+    "en": "Night on the Galactic Railroad - Fantasy Railroad in the Stars Special",
+    "jp": "Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars Special"
+  },
+  "releasedAt": "2007-02-23T00:00:00.000Z",
+  "finishedAt": "2007-02-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14248/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14248",
+    "myanimelist/anime": "33717"
+  }
+}

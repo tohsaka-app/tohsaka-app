@@ -1,0 +1,30 @@
+{
+  "slug": "kagee-mukashibanashi",
+  "synopsis": "The 1st arc of the Chiyotarou Kodomo Gekijou program that aired on TBS. Every episode is a different Japanese fairy tale told with shadow puppet animation. ",
+  "title": {
+    "jp": "Kagee Mukashibanashi"
+  },
+  "releasedAt": "1976-01-01T00:00:00.000Z",
+  "finishedAt": "1979-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10275/original.jpg",
+  "categories": [
+    "adventure",
+    "demon",
+    "drama",
+    "fantasy",
+    "historical",
+    "kids",
+    "magic",
+    "romance",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10275",
+    "aozora": "4LTMufPzLr",
+    "myanimelist/anime": "29527"
+  }
+}

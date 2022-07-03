@@ -1,0 +1,30 @@
+{
+  "slug": "marmalade-boy-movie",
+  "synopsis": "A prelude to Marmalade Boy the TV series. Yuu remembers the day when his parents decided to divorce each other and remarry with another married couple. Troubled by the news, Yuu decides to take a walk, on which he spots a girl he falls in love with at first sight. He decides to follow this unaware girl and falls more in love with her. However he discovers who the girl really is...she's the daughter of his parents' new lovers. \n(Source: ANN)",
+  "title": {
+    "jp": "Marmalade Boy Movie"
+  },
+  "releasedAt": "1995-03-04T00:00:00.000Z",
+  "finishedAt": "1995-03-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/479/original.jpg",
+  "categories": [
+    "comedy",
+    "coming of age",
+    "high school",
+    "japan",
+    "present",
+    "romance",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "479",
+    "anidb": "1259",
+    "anilist/anime": "520",
+    "aozora": "T4wVYpflRd",
+    "myanimelist/anime": "520"
+  }
+}

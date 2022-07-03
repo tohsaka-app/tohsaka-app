@@ -1,0 +1,40 @@
+{
+  "slug": "yahari-ore-no-seishun-love-comedy-wa-machigatteiru-kan",
+  "synopsis": "Third season of Yahari Ore no Seishun Love Comedy wa Machigatteiru..",
+  "title": {
+    "en": "My Teen Romantic Comedy SNAFU Climax",
+    "jp": "Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan"
+  },
+  "releasedAt": "2020-07-10T00:00:00.000Z",
+  "finishedAt": "2020-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42194/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42194/original.png",
+  "categories": [
+    "asia",
+    "comedy",
+    "drama",
+    "earth",
+    "friendship",
+    "high school",
+    "japan",
+    "present",
+    "romance",
+    "school clubs",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://vrv.co/series/GYNQJ8GXY/My-Teen-Romantic-Comedy-SNAFU",
+    "https://vrv.co/series/GYXJX2MM6/My-Teen-Romantic-Comedy-SNAFU-Climax",
+    "https://www.crunchyroll.com/en-gb/my-teen-romantic-comedy-snafu",
+    "https://www.hidive.com/tv/my-teen-romantic-comedy-snafu-climax"
+  ],
+  "relations": {
+    "kitsu": "42194",
+    "anilist/anime": "108489",
+    "myanimelist/anime": "39547"
+  }
+}

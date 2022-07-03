@@ -1,0 +1,44 @@
+{
+  "slug": "tetsuwan-birdy-decode",
+  "synopsis": " Federation investigator Birdy chases the space criminal Geega through space to Earth, where he hides in the entertainment industry under a human disguise. Birdy goes undercover herself, posing as famous model “Arita Shion” that often uses a ‘space girl’ look. A male student, Senkawa, stumbles upon a fight between the two one night in an abandoned building only to be severed in half as he is used as a shield by Geega against Birdy. Birdy heals him from imminent death in some fashion- but Senkawas body, and life, are now changed and permanently linked to Birdy.\n(Source: ANN)",
+  "title": {
+    "en": "Birdy the Mighty: Decode",
+    "jp": "Tetsuwan Birdy Decode"
+  },
+  "releasedAt": "2008-07-05T00:00:00.000Z",
+  "finishedAt": "2008-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3389/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3389/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "android",
+    "comedy",
+    "contemporary fantasy",
+    "idol",
+    "law and order",
+    "power suit",
+    "robot helper",
+    "science fiction",
+    "special squads"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/birdy-the-mighty-decode/videos/episodes",
+    "http://www.hulu.com/birdy-the-mighty-decode"
+  ],
+  "relations": {
+    "kitsu": "3389",
+    "anidb": "5722",
+    "anilist/anime": "3974",
+    "aozora": "oFXuKhsMVK",
+    "hulu": "50000798",
+    "myanimelist/anime": "3974",
+    "thetvdb": "82884/1",
+    "thetvdb/season": "34779",
+    "thetvdb/series": "82884",
+    "trakt": "37107"
+  }
+}

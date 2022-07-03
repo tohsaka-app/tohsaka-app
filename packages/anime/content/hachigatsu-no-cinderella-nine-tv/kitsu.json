@@ -1,0 +1,31 @@
+{
+  "slug": "hachigatsu-no-cinderella-nine-tv",
+  "synopsis": "When Arihara Tsubasa enters Rigahama Municipal High School and learns that it has no baseball club, she starts up the Girls' Baseball Club on her own. Drawn to the club are girls who have never played baseball before, girls who once played it but quit, and girls who are constantly tackling great challenges. The Rigahama Girls' Baseball Club races through the trials of youth, periodically clashing and quarreling, but supporting each other all the way! And so begins the hottest summer the world has ever known...\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Cinderella Nine",
+    "jp": "Hachigatsu no Cinderella Nine"
+  },
+  "releasedAt": "2019-04-08T00:00:00.000Z",
+  "finishedAt": "2019-07-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42144/original.jpg",
+  "categories": [
+    "baseball",
+    "school clubs",
+    "school life",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/cinderella-nine",
+    "https://www.hidive.com/tv/cinderella-nine"
+  ],
+  "relations": {
+    "kitsu": "42144",
+    "anidb": "14242",
+    "anilist/anime": "104989",
+    "animenewsnetwork": "21671",
+    "myanimelist/anime": "38091"
+  }
+}

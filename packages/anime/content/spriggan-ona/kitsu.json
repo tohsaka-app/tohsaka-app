@@ -1,0 +1,30 @@
+{
+  "slug": "spriggan-ona",
+  "synopsis": "A great civilization once existed on this Earth. Possessing knowledge and scientific prowess far exceeding that of modern man, the relics of this ancient civilization remain hidden across this world even now. As high-speed communication networks cover the globe and the peering eyes of satellites are able to expose all secrets, the armies of great nations clash as they seek to uncover and research these artifacts, which possess an unfathomable “power.” A member of this ancient civilization carved a message into a plate: “Protect our relics from evil-doers.” Taking this message to heart, one organization aims to seal away this ancient civilization for good. The elite secret agents of this organization are known as…Spriggans.\n\n(Source: Netflix)",
+  "title": {
+    "en": "SPRIGGAN",
+    "jp": "Spriggan"
+  },
+  "releasedAt": "2022-06-18T00:00:00.000Z",
+  "finishedAt": "2022-06-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/42797/poster_image/33a9265b44cfcb1aff5db36be99c018c.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "military",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.netflix.com/ro-en/title/81050064"
+  ],
+  "relations": {
+    "kitsu": "42797",
+    "anidb": "14734",
+    "anilist/anime": "108353",
+    "myanimelist/anime": "39489"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "fuusen-shoujo-temple-chan",
+  "synopsis": "When a little girl who loves music sneaks aboard a balloon, she soon finds herself far from home. She meets other children who also love music and agree to help her find her way back home.\n(Source: AniDB)",
+  "title": {
+    "en": "Temple the Balloonist",
+    "jp": "Fuusen Shoujo Temple-chan"
+  },
+  "releasedAt": "1977-10-01T00:00:00.000Z",
+  "finishedAt": "1978-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2564/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2564",
+    "anidb": "5518",
+    "anilist/anime": "2809",
+    "aozora": "YvJ2SKPq2O",
+    "myanimelist/anime": "2809"
+  }
+}

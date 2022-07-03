@@ -1,0 +1,26 @@
+{
+  "slug": "byunshin-jadongcha-tobot-season-14",
+  "synopsis": "Season 14 of Tobot.\n\nNote: This was edited to be the first 7 and a half Episodes of Season 3 for the English Release.",
+  "title": {
+    "en": "Tobot Season 14"
+  },
+  "releasedAt": "2014-04-01T00:00:00.000Z",
+  "finishedAt": "2014-04-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44258/original.jpg",
+  "categories": [
+    "kids",
+    "korea",
+    "mecha",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.amazon.com/Tobot/dp/B07GX7Z43J"
+  ],
+  "relations": {
+    "kitsu": "44258"
+  }
+}

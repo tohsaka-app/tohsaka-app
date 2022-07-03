@@ -1,0 +1,30 @@
+{
+  "slug": "digimon-tamers-boukensha-tachi-no-tatakai",
+  "synopsis": "Takato and Guilmon go on vacation to Okinawa and meet a fellow tamer, Minami. Back in Japan, a popular computer pet suddenly becomes a virus, infecting all of the computers who have it. As the virus spreads, Takato tries to figure out why digimon are all attacking his new friend, and what her connection is to the virus.\n(Source: ANN)",
+  "title": {
+    "en": "Digimon Tamers: Battle of Adventurers",
+    "jp": "Digimon Tamers: Boukensha-tachi no Tatakai"
+  },
+  "releasedAt": "2001-07-14T00:00:00.000Z",
+  "finishedAt": "2001-07-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2738/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "friendship",
+    "present",
+    "proxy battles",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2738",
+    "anidb": "1227",
+    "anilist/anime": "3032",
+    "aozora": "qjhtj35xqY",
+    "myanimelist/anime": "3032"
+  }
+}

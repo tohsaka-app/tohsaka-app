@@ -1,0 +1,26 @@
+{
+  "slug": "shuukan-story-land",
+  "synopsis": "This was an anthology program containing several different anime each week along with some non-animated segments. Several of the animated films were short series including: Nazo no Rouba [謎の老婆] (tvss), Meibugyou Bun-san [名奉行・文さん], Jo Keibu Jinguuji Youko [女警部・神宮寺葉子], Remon Suzumori's Soudanjo [鈴森なんでも相談所].\n(Source: animated-divots.net)",
+  "title": {
+    "jp": "Shuukan Storyland"
+  },
+  "releasedAt": "1999-10-14T00:00:00.000Z",
+  "finishedAt": "2001-09-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6991/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6991",
+    "anidb": "10774",
+    "anilist/anime": "13551",
+    "aozora": "QP3vdaNZ2o",
+    "myanimelist/anime": "13551"
+  }
+}

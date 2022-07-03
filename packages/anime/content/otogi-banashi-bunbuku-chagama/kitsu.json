@@ -1,0 +1,24 @@
+{
+  "slug": "otogi-banashi-bunbuku-chagama",
+  "synopsis": "An animated adaptation of the folktale of Bunbuku Chagama.",
+  "title": {
+    "en": null,
+    "jp": "Otogi Banashi: Bunbuku Chagama"
+  },
+  "releasedAt": "1917-10-10T00:00:00.000Z",
+  "finishedAt": "1917-10-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9523/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9523",
+    "anidb": "6840",
+    "aozora": "upBGCRGtpH",
+    "myanimelist/anime": "23181"
+  }
+}

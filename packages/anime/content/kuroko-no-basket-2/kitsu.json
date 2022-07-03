@@ -1,0 +1,42 @@
+{
+  "slug": "kuroko-no-basket-2",
+  "synopsis": "With the Interhigh Championship finally over, Seirin's basketball team refocuses their efforts, training harder than ever to get the chance to participate in the Winter Cup. Both Kuroko and Kagami see old friends walk back into their lives, providing a challenge both on and off the court.\nAs new skills are developed and new alliances created, enemies from various teams—giants of high school basketball such as Yousen, Shuutoku and Touou—stand in the way of Seirin's steadfast attempts to get to the top. All of these schools prove to be formidable foes whose abilities progress exponentially, while Kuroko struggles to find a balance between his resolve to play as part of a team and his desire to win. \nWith old wounds reopening, new challenges to face on the court, and a new set of foes—the \"Uncrowned Kings\"—vowing to defeat the new hopefuls, will Seirin ever be able to achieve their dream of beating the Generation of Miracles?\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Kuroko's Basketball 2",
+    "jp": "Kuroko no Basket 2nd Season"
+  },
+  "releasedAt": "2013-10-06T00:00:00.000Z",
+  "finishedAt": "2014-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/7545/poster_image/dab3f991b7e1f776bba5d4f5a2a8d2eb.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7545/original.jpg",
+  "categories": [
+    "asia",
+    "basketball",
+    "comedy",
+    "earth",
+    "friendship",
+    "japan",
+    "present",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/kurokos-basketball",
+    "https://www.netflix.com/title/80063153"
+  ],
+  "relations": {
+    "kitsu": "7545",
+    "anidb": "9603",
+    "anilist/anime": "16894",
+    "aozora": "yt2OWxRHyq",
+    "myanimelist/anime": "16894",
+    "thetvdb": "257765/2",
+    "thetvdb/season": "526308",
+    "thetvdb/series": "257765",
+    "trakt": "66153"
+  }
+}

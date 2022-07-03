@@ -1,0 +1,23 @@
+{
+  "slug": "manga-jinbutsushi",
+  "synopsis": "A short documentary series. Each 5 minute episode aired Monday through Saturday.\n(Source: AniDB)",
+  "title": {
+    "jp": "Manga Jinbutsushi"
+  },
+  "releasedAt": "1970-08-01T00:00:00.000Z",
+  "finishedAt": "1971-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9433/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9433",
+    "anidb": "4951",
+    "aozora": "nYs1VLWiXj",
+    "myanimelist/anime": "23001"
+  }
+}

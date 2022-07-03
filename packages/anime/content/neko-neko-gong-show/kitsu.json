@@ -1,0 +1,21 @@
+{
+  "slug": "neko-neko-gong-show",
+  "synopsis": "A collaboration between Kihara Yousuke and studio dwarf. Kihara is most famous for being the head artist for the PS2/GameCube game <i>Ribbit King</i> and the anime <i>Nikoniko♪Connie-chan</i>. <i>Neko Neko Gong Show</i> is a talent show for cats, where if their skits are bad, get a gong (made from a cat food tin can lid) hit to boot them off.",
+  "title": {
+    "jp": "Neko Neko Gong Show"
+  },
+  "releasedAt": "2015-08-13T00:00:00.000Z",
+  "finishedAt": "2015-11-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40972/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40972",
+    "anilist/anime": "133289",
+    "aozora": "aqznr27DuQ",
+    "myanimelist/anime": "36572"
+  }
+}

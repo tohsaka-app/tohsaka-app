@@ -1,0 +1,23 @@
+{
+  "slug": "baymax-and",
+  "synopsis": "Shorts involving Baymax hanging out with different characters.",
+  "title": {},
+  "releasedAt": "2018-05-31T00:00:00.000Z",
+  "finishedAt": "2018-06-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42332/original.jpg",
+  "categories": [
+    "anime influenced",
+    "comedy",
+    "kids",
+    "robot helper",
+    "slice of life",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42332"
+  }
+}

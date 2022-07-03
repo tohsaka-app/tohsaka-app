@@ -1,0 +1,35 @@
+{
+  "slug": "eve-no-jikan",
+  "synopsis": "In Eve no Jikan, The Three Laws of Robotics are held above all else in a world where android housekeepers have become commonplace. Although they look human, they are treated the same as lesser technology such as toasters and alarm clocks. Not everyone feels this way, however. Android sympathizers, known as \"android-holics,\" have been labelled as heretics and problematic members of society.\nRikuo Sakisaka was raised to believe and uphold society's tenets about androids, and is perfectly aware they are not human. Then one day, he finds abnormal data in his family android's activity logs. This leads him to a café that has only one rule that its clientele must follow: there must be no discrimination between humans and androids inside. Curiosity drives Rikuo to discover more about this strange place and its regulars, even though he has no desire to befriend machines.",
+  "title": {
+    "en": "Time of Eve",
+    "jp": "Eve no Jikan"
+  },
+  "releasedAt": "2008-08-01T00:00:00.000Z",
+  "finishedAt": "2009-09-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7661/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7661/original.jpg",
+  "categories": [
+    "android",
+    "asia",
+    "dystopia",
+    "earth",
+    "future",
+    "japan",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/time-of-eve"
+  ],
+  "relations": {
+    "kitsu": "7661",
+    "anidb": "5132",
+    "anilist/anime": "3167",
+    "aozora": "2EXBo76VW7",
+    "myanimelist/anime": "3167"
+  }
+}

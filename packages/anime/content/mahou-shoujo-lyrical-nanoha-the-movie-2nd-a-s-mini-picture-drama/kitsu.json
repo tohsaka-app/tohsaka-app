@@ -1,0 +1,25 @@
+{
+  "slug": "mahou-shoujo-lyrical-nanoha-the-movie-2nd-a-s-mini-picture-drama",
+  "synopsis": "Short picture drama specials included with the BD release of the film.",
+  "title": {
+    "jp": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's Mini Picture Drama"
+  },
+  "releasedAt": "2013-03-22T00:00:00.000Z",
+  "finishedAt": "2013-03-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13083/original.jpg",
+  "categories": [
+    "comedy",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13083",
+    "anilist/anime": "108549",
+    "aozora": "SyyxaEdRta",
+    "myanimelist/anime": "32316"
+  }
+}

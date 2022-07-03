@@ -1,0 +1,20 @@
+{
+  "slug": "eiga-de-utaou-mother-goose",
+  "synopsis": "A sing-a-long anime meant to teach Japanese children English. 4 DVD volumes feature an assorted amount of Mother Goose nursery rhymes.",
+  "title": {
+    "jp": "Eiga de Utaou! Mother Goose"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40673/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40673",
+    "aozora": "DU3rQzcybZ",
+    "myanimelist/anime": "35050"
+  }
+}

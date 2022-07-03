@@ -1,0 +1,23 @@
+{
+  "slug": "larva-3rd-season",
+  "synopsis": "Third season of Larva.",
+  "title": {
+    "jp": "Larva 3rd Season"
+  },
+  "releasedAt": "2014-08-04T00:00:00.000Z",
+  "finishedAt": "2014-11-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12369/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12369",
+    "anilist/anime": "104386",
+    "aozora": "JGavJwaSv4",
+    "myanimelist/anime": "31674"
+  }
+}

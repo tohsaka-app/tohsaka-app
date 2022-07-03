@@ -1,0 +1,34 @@
+{
+  "slug": "dragon-ball-z-special-1-tatta-hitori-no-saishuu-kessen-freezer-ni-idonda-z-senshi-son-goku-no-chi",
+  "synopsis": "Bardock, Son Goku's father, is a low-ranking Saiyan soldier who was given the power to see into the future by the last remaining alien on a planet he just destroyed. He witnesses the destruction of his race and must now do his best to stop Frieza's impending massacre.\n(Source: ANN)",
+  "title": {
+    "en": "Dragon Ball Z Special 1: Bardock",
+    "jp": "Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen"
+  },
+  "releasedAt": "1990-10-17T00:00:00.000Z",
+  "finishedAt": "1990-10-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/876/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/876/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "martial arts",
+    "science fiction",
+    "shounen",
+    "space",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "876",
+    "anidb": "2336",
+    "anilist/anime": "986",
+    "aozora": "6csvKq7fBW",
+    "myanimelist/anime": "986"
+  }
+}

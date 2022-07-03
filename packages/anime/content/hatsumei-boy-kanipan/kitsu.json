@@ -1,0 +1,27 @@
+{
+  "slug": "hatsumei-boy-kanipan",
+  "synopsis": "The story revolves around Kanipan aiming to be the best inventor and his adventures while trying to accomplish this.",
+  "title": {
+    "jp": "Hatsumei Boy Kanipan"
+  },
+  "releasedAt": "1998-07-03T00:00:00.000Z",
+  "finishedAt": "1999-01-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3196/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3196",
+    "anidb": "4667",
+    "anilist/anime": "3689",
+    "aozora": "DdAhedaJ3A",
+    "myanimelist/anime": "3689"
+  }
+}

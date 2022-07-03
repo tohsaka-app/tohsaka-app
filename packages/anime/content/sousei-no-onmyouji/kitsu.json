@@ -1,0 +1,38 @@
+{
+  "slug": "sousei-no-onmyouji",
+  "synopsis": "Grotesque monsters known as Impurities reside in Magano, a realm parallel to the present day. Exorcists purify these evil apparitions to protect the people. Rokuro Enmado is opposed to becoming an exorcist, even though he has the talent to be one, but an oracle gives him the title of \"Twin Star Exorcist,\" the name bestowed upon married exorcists. Benio Adashino, the girl who receives the title along with Rokuro, is determined to exorcise all the Kegare, or Impurities, in the world. The two find themselves wrapped up in more and more battles together as the Twin Star Exorcists...\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Twin Star Exorcists",
+    "jp": "Sousei no Onmyouji"
+  },
+  "releasedAt": "2016-04-06T00:00:00.000Z",
+  "finishedAt": "2017-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11553/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11553/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "horror",
+    "romance",
+    "shounen",
+    "sudden girlfriend appearance",
+    "super power"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/G63VM084Y/twin-star-exorcists"
+  ],
+  "relations": {
+    "kitsu": "11553",
+    "anidb": "11785",
+    "anilist/anime": "21499",
+    "aozora": "2GZxN0xKG9",
+    "myanimelist/anime": "32105",
+    "thetvdb": "307061",
+    "trakt": "105335"
+  }
+}

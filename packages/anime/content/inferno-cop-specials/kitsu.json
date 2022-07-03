@@ -1,0 +1,24 @@
+{
+  "slug": "inferno-cop-specials",
+  "synopsis": "Two special episodes of Inferno Cop. The first features cameos of characters from Little Witch Academia. ",
+  "title": {
+    "jp": "Inferno Cop Specials"
+  },
+  "releasedAt": "2015-06-13T00:00:00.000Z",
+  "finishedAt": "2016-06-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11123/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11123",
+    "anilist/anime": "101817",
+    "aozora": "MMqIyP5dNA",
+    "myanimelist/anime": "31035"
+  }
+}

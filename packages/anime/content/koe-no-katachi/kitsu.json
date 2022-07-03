@@ -1,0 +1,34 @@
+{
+  "slug": "koe-no-katachi",
+  "synopsis": "Shoya is a bully. When Shoko, a girl who can't hear, enters his elementary school class, she becomes their favorite target, and Shoya and his friends goad each other into devising new tortures for her. But the children's cruelty goes too far. Shoko is forced to leave the school, and Shoya ends up shouldering all the blame. Six years later, the two meet again. Can Shoya make up for his past mistakes, or is it too late?\n\n(Source: Kodansha Comics)",
+  "title": {
+    "en": "A Silent Voice",
+    "jp": "Koe no Katachi"
+  },
+  "releasedAt": "2016-09-17T00:00:00.000Z",
+  "finishedAt": "2016-09-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10028/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10028/original.jpg",
+  "categories": [
+    "coming of age",
+    "drama",
+    "friendship",
+    "japan",
+    "present",
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80223226"
+  ],
+  "relations": {
+    "kitsu": "10028",
+    "anidb": "10937",
+    "anilist/anime": "20954",
+    "aozora": "bdphmYWieY",
+    "myanimelist/anime": "28851"
+  }
+}

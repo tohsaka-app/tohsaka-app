@@ -1,0 +1,21 @@
+{
+  "slug": "iqoo",
+  "synopsis": "Short animation by Masanobu Hiraoka for the iQOO - Monster Inside project.",
+  "title": {
+    "jp": "IQOO"
+  },
+  "releasedAt": "2019-03-14T00:00:00.000Z",
+  "finishedAt": "2019-03-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45148/original.jpg",
+  "categories": [
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45148",
+    "anilist/anime": "110695"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "slug": "delete-2019-kami-to",
+  "synopsis": "This is a duplicate entry. The real entry is here: https://kitsu.io/anime/pocket-monsters-kami-to-yobareshi-arceus",
+  "title": {
+    "jp": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/45608/poster_image/0760dad4321ff159b93c57e7554d1905.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220703%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220703T141515Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=ad13ca89a4b76702329214d19f617c479b9891e6e39624aa757c94ecb818d10f",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "45608"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "nichijou-episode-0",
+  "synopsis": "While the title suggests a story of simple, everyday school life, the contents are more the opposite. The setting is a strange school where you may see the principal wrestle a deer or a robot's arm hide a rollcake. However there are still normal stories, like making a card castle or taking a test you didn't study for.",
+  "title": {
+    "en": "My Ordinary Life Episode 0",
+    "jp": "Nichijou: Nichijou no 0-wa"
+  },
+  "releasedAt": "2011-03-12T00:00:00.000Z",
+  "finishedAt": "2011-03-12T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5512/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5512/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5512",
+    "anidb": "7630",
+    "anilist/anime": "8857",
+    "aozora": "oBnrt3hbW4",
+    "myanimelist/anime": "8857"
+  }
+}

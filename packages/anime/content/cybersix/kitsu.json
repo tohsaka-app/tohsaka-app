@@ -1,0 +1,40 @@
+{
+  "slug": "cybersix",
+  "synopsis": "Anime based upon the original Argentine graphic novel series of the same name.\nThe story follows the titular character who is a genetically engineered super-soldier; one of the creations of Dr. Von Reichter's diabolic experiments. (The fictional) Von Reichter is actually a former Nazi who conducted horrendous experiments during the second world war. He flees to South America where he continues his experiments which culminate in the creation of the \"Cybers,\" one of which happens to be Cybersix. However, since the Cybers exhibit free will at an young age (an undesired trait), Von Reichter destroys all the Cybers to prevent a rebellion.\nIn the present day, Cybersix is one of the Cybers who managed to escape and is living a quiet life under the alias of \"Adrian Seidelman\"; however, she finds out that her survival is dependent on a special substance that Von Reichter created and thus she is forced to hunt down the \"Technos,\" a newer generation of super-soldiers created by him, in order to survive. Unintentionally, in the process, Cybersix becomes a superhero protecting the world from Dr. Von Reichter's creations and his evil plans.",
+  "title": {
+    "en": "Cybersix",
+    "jp": "Cybersix"
+  },
+  "releasedAt": "1999-09-06T00:00:00.000Z",
+  "finishedAt": "1999-11-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2160/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "crime",
+    "cyborg",
+    "earth",
+    "genetic modification",
+    "human enhancement",
+    "present",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.hulu.com/cybersix"
+  ],
+  "relations": {
+    "kitsu": "2160",
+    "anidb": "1524",
+    "anilist/anime": "2383",
+    "aozora": "bySV8S2XbM",
+    "hulu": "50010312",
+    "myanimelist/anime": "2383",
+    "thetvdb": "77193/1",
+    "thetvdb/series": "77193",
+    "trakt": "63139"
+  }
+}

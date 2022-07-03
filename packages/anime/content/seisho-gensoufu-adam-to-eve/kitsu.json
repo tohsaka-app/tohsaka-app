@@ -1,0 +1,23 @@
+{
+  "slug": "seisho-gensoufu-adam-to-eve",
+  "synopsis": "One of Oofuji's first films shot in colour.",
+  "title": {
+    "en": "A Biblic Fantasy: Adam and Eve",
+    "jp": "Seisho Gensou Fu: Adam to Eve"
+  },
+  "releasedAt": "1951-01-01T00:00:00.000Z",
+  "finishedAt": "1951-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10212/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10212",
+    "aozora": "RawssdXOkk",
+    "myanimelist/anime": "28693"
+  }
+}

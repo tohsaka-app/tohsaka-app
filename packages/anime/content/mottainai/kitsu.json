@@ -1,0 +1,24 @@
+{
+  "slug": "mottainai",
+  "synopsis": "Joint campaign by NHK and Advertising Council Japan.",
+  "title": {
+    "jp": "Mottainai"
+  },
+  "releasedAt": "2015-07-01T00:00:00.000Z",
+  "finishedAt": "2015-07-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11173/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11173",
+    "anidb": "11410",
+    "anilist/anime": "102652",
+    "aozora": "NXYLGFTZdc",
+    "myanimelist/anime": "31144"
+  }
+}

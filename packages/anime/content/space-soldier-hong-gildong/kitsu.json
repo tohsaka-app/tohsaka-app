@@ -1,0 +1,27 @@
+{
+  "slug": "space-soldier-hong-gildong",
+  "synopsis": "A movie adaptation of Heo Gyun's novel, The Tale Of Hong Gildong, taking the character into science-fiction setting.",
+  "title": {
+    "jp": "Uju Jeonsa Hong Gildong"
+  },
+  "releasedAt": "1983-01-01T00:00:00.000Z",
+  "finishedAt": "1983-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7537/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "kids",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7537",
+    "anilist/anime": "16830",
+    "aozora": "3NMJQ1IxLY",
+    "myanimelist/anime": "16830"
+  }
+}

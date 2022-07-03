@@ -1,0 +1,26 @@
+{
+  "slug": "nanocore-2nd-season",
+  "synopsis": "Second season of Nanocore.",
+  "title": {
+    "jp": "Nanocore 2nd Season"
+  },
+  "releasedAt": "2016-04-08T00:00:00.000Z",
+  "finishedAt": "2016-10-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12287/original.jpg",
+  "categories": [
+    "action",
+    "power suit",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12287",
+    "anidb": "12196",
+    "anilist/anime": "102776",
+    "aozora": "nPZy5LutLt",
+    "myanimelist/anime": "33271"
+  }
+}

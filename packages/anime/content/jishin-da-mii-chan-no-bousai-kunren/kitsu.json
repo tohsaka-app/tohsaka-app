@@ -1,0 +1,23 @@
+{
+  "slug": "jishin-da-mii-chan-no-bousai-kunren",
+  "synopsis": "An educational disaster safety video for kids featuring Mii-chan the cat and Daiki-kun after their animal abuse issue from the previous educational short.",
+  "title": {
+    "jp": "Jishin da!! Mii-chan no Bousai Kunren"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10115/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10115",
+    "aozora": "45JJpPB5VJ",
+    "myanimelist/anime": "28565"
+  }
+}

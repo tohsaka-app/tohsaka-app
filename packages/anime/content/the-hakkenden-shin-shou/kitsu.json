@@ -1,0 +1,37 @@
+{
+  "slug": "the-hakkenden-shin-shou",
+  "synopsis": "Second part of The Hakkenden.",
+  "title": {
+    "en": "The Hakkenden: Legend of the Dog Warriors Part 2",
+    "jp": "The Hakkenden: Shin Shou"
+  },
+  "releasedAt": "1993-11-25T00:00:00.000Z",
+  "finishedAt": "1995-03-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6797/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "demon",
+    "earth",
+    "fantasy",
+    "historical",
+    "japan",
+    "martial arts",
+    "past",
+    "samurai",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6797",
+    "anidb": "3353",
+    "anilist/anime": "12715",
+    "aozora": "3epu5L5iLQ",
+    "myanimelist/anime": "12715"
+  }
+}

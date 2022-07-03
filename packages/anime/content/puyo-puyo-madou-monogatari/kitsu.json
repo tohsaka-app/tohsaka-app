@@ -1,0 +1,24 @@
+{
+  "slug": "puyo-puyo-madou-monogatari",
+  "synopsis": "A compilation release featuring 17 short skits about the characters from the Puyo Puyo video game series. Some of these shorts were also bundled with DiscStation volumes 13-16, a magazine by Compile.",
+  "title": {
+    "jp": "Puyo Puyo: Madou Monogatari"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7832/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7832",
+    "anilist/anime": "119975",
+    "aozora": "F9xrOh0CTM",
+    "myanimelist/anime": "19009"
+  }
+}

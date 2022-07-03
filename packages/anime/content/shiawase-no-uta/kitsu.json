@@ -1,0 +1,26 @@
+{
+  "slug": "shiawase-no-uta",
+  "synopsis": "A music video for the song \"Shiawase no Uta\" by Ikue Sakakibara that was featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Shiawase no Uta"
+  },
+  "releasedAt": "1984-10-01T00:00:00.000Z",
+  "finishedAt": "1984-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10634/original.jpg",
+  "categories": [
+    "historical",
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10634",
+    "anidb": "12667",
+    "anilist/anime": "104349",
+    "aozora": "xjSszi5Yls",
+    "myanimelist/anime": "30081"
+  }
+}

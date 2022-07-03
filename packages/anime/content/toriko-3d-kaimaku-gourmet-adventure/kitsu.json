@@ -1,0 +1,28 @@
+{
+  "slug": "toriko-3d-kaimaku-gourmet-adventure",
+  "synopsis": "A Toriko movie, the action in it takes place before the beginning of the TV series. The story follows a kid, Peck, who lives in a village attacked by a Gerold. So, he seeks the help of Toriko.",
+  "title": {
+    "jp": "Toriko 3D: Kaimaku Gourmet Adventure!!"
+  },
+  "releasedAt": "2011-03-19T00:00:00.000Z",
+  "finishedAt": "2011-03-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6021/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "cooking",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6021",
+    "anidb": "8009",
+    "anilist/anime": "10074",
+    "aozora": "RtNRKFZxVS",
+    "myanimelist/anime": "10074"
+  }
+}

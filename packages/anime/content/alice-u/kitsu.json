@@ -1,0 +1,25 @@
+{
+  "slug": "alice-u",
+  "synopsis": "Music video for the song ALiCE&amp;u by Ayunda Risu.",
+  "title": {
+    "en": "ALiCE&u"
+  },
+  "releasedAt": "2022-01-15T00:00:00.000Z",
+  "finishedAt": "2022-01-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45762/poster_image/3286a9b279810ae1c98751dcc02a162c.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45762/cover_image/ceddbb04471c6c620f272294d9a12718.jpg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=IGviVpVE1fA"
+  ],
+  "relations": {
+    "kitsu": "45762"
+  }
+}

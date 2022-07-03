@@ -1,0 +1,25 @@
+{
+  "slug": "project-hal",
+  "synopsis": "Students in the Tokyo, Osaka and Nagoya branches of HAL College of Technology and Design under supervision and sponsorship by professional mecha designer Takayuki Yanase along with other industry professionals, created a series of 3 web movies to act as commercials.\nThe three teams—each consisting of 16 members including animators, artists and effect technicians—are working on their own advertisements to display the talent of the students and the subjects one can learn through attending HAL such as game design, anime development and even car design. Each team is drawing from the same design and story to create their own unique commercials. Initially all 3 branches released a 16-sec. CM before each completing the full 39-sec. Web Movie.\nMusic for each creation is provided by J-rock band MY FIRST STORY.\n(Source: Anime News Network)",
+  "title": {
+    "jp": "Project HAL"
+  },
+  "releasedAt": "2015-05-31T00:00:00.000Z",
+  "finishedAt": "2015-07-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11664/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11664/original.jpg",
+  "categories": [
+    "action",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11664",
+    "anilist/anime": "103470",
+    "aozora": "ZpoypZRz27",
+    "myanimelist/anime": "32385"
+  }
+}

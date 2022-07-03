@@ -1,0 +1,23 @@
+{
+  "slug": "akuei-to-gacchinpo-tenkomori-maboroshi-no-omake-episode",
+  "synopsis": "Special episode of Akuei to Gacchinpo Tenkomori.",
+  "title": {
+    "en": null,
+    "jp": "Akuei to Gacchinpo Tenkomori: Maboroshi no Omake Episode"
+  },
+  "releasedAt": "2005-07-27T00:00:00.000Z",
+  "finishedAt": "2005-07-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10370/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10370",
+    "aozora": "mYf4PI8bGI",
+    "myanimelist/anime": "29889"
+  }
+}

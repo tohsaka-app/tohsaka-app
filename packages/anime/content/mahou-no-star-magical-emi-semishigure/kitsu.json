@@ -1,0 +1,25 @@
+{
+  "slug": "mahou-no-star-magical-emi-semishigure",
+  "synopsis": "An OVA that both summarizes and continues the Mahou no Star Magical Emi TV series.",
+  "title": {
+    "jp": "Mahou no Star Magical Emi: Semishigure"
+  },
+  "releasedAt": "1986-09-21T00:00:00.000Z",
+  "finishedAt": "1986-09-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5337/original.jpg",
+  "categories": [
+    "comedy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5337",
+    "anidb": "5376",
+    "anilist/anime": "8443",
+    "aozora": "hIYHEf4gBN",
+    "myanimelist/anime": "8443"
+  }
+}

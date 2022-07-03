@@ -1,0 +1,20 @@
+{
+  "slug": "ninja-tamamaru",
+  "synopsis": "A simple short anime series about a ninja named Tamamaru who is diligent and enthusiastic about his ninja training...but always fails at it.",
+  "title": {
+    "jp": "Ninja Tamamaru"
+  },
+  "releasedAt": "2008-04-12T00:00:00.000Z",
+  "finishedAt": "2008-10-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40692/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40692",
+    "aozora": "NAn7YFN8Dt",
+    "myanimelist/anime": "35106"
+  }
+}

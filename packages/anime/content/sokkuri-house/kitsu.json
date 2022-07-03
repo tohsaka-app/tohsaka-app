@@ -1,0 +1,23 @@
+{
+  "slug": "sokkuri-house",
+  "synopsis": "A little girl looks into a doll house that's exactly like the house she's in currently including the dolls in side it.\n",
+  "title": {
+    "jp": "Sokkuri House"
+  },
+  "releasedAt": "2002-10-02T00:00:00.000Z",
+  "finishedAt": "2002-10-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42717/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42717",
+    "anilist/anime": "140375",
+    "myanimelist/anime": "38307"
+  }
+}

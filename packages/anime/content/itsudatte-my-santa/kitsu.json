@@ -1,0 +1,38 @@
+{
+  "slug": "itsudatte-my-santa",
+  "synopsis": "Mai, a Santa in training, appears in front of an unlucky boy named Santa on Christmas Eve, promising him that she will make him happy for one night. ",
+  "title": {
+    "en": "Itsudatte My Santa!",
+    "jp": "Itsudatte My Santa!"
+  },
+  "releasedAt": "2005-12-07T00:00:00.000Z",
+  "finishedAt": "2005-12-07T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/543/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "japan",
+    "magical girl",
+    "parental abandonment",
+    "present",
+    "romance",
+    "slapstick",
+    "stereotypes",
+    "sudden girlfriend appearance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "543",
+    "anidb": "3389",
+    "anilist/anime": "588",
+    "aozora": "2Zra2iHhgp",
+    "hulu": "50002211",
+    "myanimelist/anime": "588"
+  }
+}

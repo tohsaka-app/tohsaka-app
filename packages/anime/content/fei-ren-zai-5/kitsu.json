@@ -1,0 +1,25 @@
+{
+  "slug": "fei-ren-zai-5",
+  "synopsis": "The fifth season of Fei Ren Zai.",
+  "title": {
+    "en": "Non-human 5th season"
+  },
+  "releasedAt": "2021-07-21T00:00:00.000Z",
+  "finishedAt": "2021-09-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45287/poster_image/219e06240d89f6d2761c1ae6f2e94729.jpg",
+  "categories": [
+    "comedy",
+    "deity",
+    "fantasy",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45287",
+    "anilist/anime": "136582"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "usawaltz",
+  "synopsis": "In the black and white world with so many animals relaxing, there are small rabbits called 'usa' dancing in their world.\n(Source: Official site)",
+  "title": {
+    "jp": "Usawaltz"
+  },
+  "releasedAt": "2011-09-15T00:00:00.000Z",
+  "finishedAt": "2011-09-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12855/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12855",
+    "anilist/anime": "103343",
+    "aozora": "ANfkZHPYvi",
+    "myanimelist/anime": "32637"
+  }
+}

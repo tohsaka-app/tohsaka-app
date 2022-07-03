@@ -1,0 +1,22 @@
+{
+  "slug": "modern",
+  "synopsis": "I finished this film in only two months after the completion of Playground. Inspired by optical illusions, like Escher's paintings, I made the film using isometric drawings. my idea was to make a great film using only transformations of rectangular parallelepipeds. I applied the method of geometric animation, a technique used in Metropolis, in this film. Along with \"cell\" animation, I continue making films with the application of this method. Hopefully, I will eventually discover a third alternative method to use in my films.\n(Source: Mirai Mizue)",
+  "title": {
+    "jp": "Modern"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10080/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "10080",
+    "anidb": "11382",
+    "anilist/anime": "103380",
+    "aozora": "2jBS2vt0mo",
+    "myanimelist/anime": "28587"
+  }
+}

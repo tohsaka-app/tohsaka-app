@@ -1,0 +1,23 @@
+{
+  "slug": "bary-san-x-gospe-rats-tonde-bary-bary-monogatari",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Bary-san x Gospe Rats: Tonde Bary Bary Monogatari"
+  },
+  "releasedAt": "2015-09-01T00:00:00.000Z",
+  "finishedAt": "2015-09-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12331/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12331",
+    "aozora": "Pa7jkBKyob",
+    "myanimelist/anime": "31662"
+  }
+}

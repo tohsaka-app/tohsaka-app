@@ -1,0 +1,23 @@
+{
+  "slug": "kaze-no-tabibito",
+  "synopsis": "An educational film about wheel-chair bound people in Japan.",
+  "title": {
+    "jp": "Kaze no Tabibito"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9372/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9372",
+    "aozora": "hQhtUvkq2V",
+    "myanimelist/anime": "26229"
+  }
+}

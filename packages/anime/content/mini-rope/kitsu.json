@@ -1,0 +1,20 @@
+{
+  "slug": "mini-rope",
+  "synopsis": "A short broadcast of <i>Kamiusagi Rope</i> meant to promote the feature film that was released during the middle as well as promote features of the Nihon Eiga Senmon Channel (Japanese Movie Specialty Channel) which is a luxury TV channel that specializes in broadcasting films that costs about 700 yen a month. Rope and Akira talk about what \"mono\" sound is and what does the \"service\" feature actually do.",
+  "title": {
+    "jp": "Mini Rope"
+  },
+  "releasedAt": "2012-05-04T00:00:00.000Z",
+  "finishedAt": "2012-05-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40739/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40739",
+    "aozora": "ZfTORzRDcO",
+    "myanimelist/anime": "35317"
+  }
+}

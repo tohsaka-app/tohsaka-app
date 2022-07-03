@@ -1,0 +1,23 @@
+{
+  "slug": "deban-desu-yo-onigirizu",
+  "synopsis": "A short series created to commemorate the 25th anniversary of the NECO broadcast channel. It focuses on the backstage chatter and concerts of a band called Onigirizu.\n(Source: LiveChart)",
+  "title": {
+    "jp": "Deban Desu Yo! Onigirizu"
+  },
+  "releasedAt": "2015-06-01T00:00:00.000Z",
+  "finishedAt": "2015-10-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11019/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11019",
+    "anidb": "11636",
+    "aozora": "zfWB2ptCmb",
+    "myanimelist/anime": "30893"
+  }
+}

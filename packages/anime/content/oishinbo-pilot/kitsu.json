@@ -1,0 +1,21 @@
+{
+  "slug": "oishinbo-pilot",
+  "synopsis": "The unaired pilot of Oishinbo, included with the first Blu-ray Box. It tells a similar story to that of episode two of the main series.",
+  "title": {
+    "jp": "Oishinbo Pilot"
+  },
+  "releasedAt": "2016-12-21T00:00:00.000Z",
+  "finishedAt": "2016-12-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45371/poster_image/454a5a8dab20ea844ecd29bf4763c0b8.jpg",
+  "categories": [
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45371",
+    "myanimelist/anime": "49450"
+  }
+}

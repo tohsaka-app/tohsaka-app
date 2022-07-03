@@ -1,0 +1,36 @@
+{
+  "slug": "eat-man-98",
+  "synopsis": "The continuing adventures of Bolt Crank, the World's Greatest Mercenary, who has the ability to eat any object, mostly metal and weapons. When the time comes, Bolt can then reproduce those weapons and items in his right hand.\n(Source: ANN)",
+  "title": {
+    "jp": "Eat-Man '98"
+  },
+  "releasedAt": "1998-10-08T00:00:00.000Z",
+  "finishedAt": "1998-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1439/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "cyberpunk",
+    "earth",
+    "future",
+    "gunfights",
+    "science fiction",
+    "shoujo ai",
+    "super power"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/eat-man-98"
+  ],
+  "relations": {
+    "kitsu": "1439",
+    "anidb": "72",
+    "anilist/anime": "1599",
+    "aozora": "nq9ZRbluhJ",
+    "myanimelist/anime": "1599",
+    "thetvdb": "87941",
+    "trakt": "34062"
+  }
+}

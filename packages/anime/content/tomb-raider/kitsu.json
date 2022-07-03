@@ -1,0 +1,21 @@
+{
+  "slug": "tomb-raider",
+  "synopsis": "Netflix original series set in the \"Shadow of the Tomb raider universe.",
+  "title": {
+    "en": "Tomb Raider"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "r",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43943"
+  }
+}

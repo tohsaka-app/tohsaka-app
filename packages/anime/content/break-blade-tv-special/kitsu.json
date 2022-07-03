@@ -1,0 +1,22 @@
+{
+  "slug": "break-blade-tv-special",
+  "synopsis": "Fight between Nike and Narvi after both lose their Golems.\nIncluded in the Blu-ray Box release of the TV series.",
+  "title": {
+    "jp": "Break Blade: Virgins War"
+  },
+  "releasedAt": "2014-08-26T00:00:00.000Z",
+  "finishedAt": "2014-08-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10874/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10874",
+    "aozora": "VxywbvHyoR",
+    "myanimelist/anime": "30573"
+  }
+}

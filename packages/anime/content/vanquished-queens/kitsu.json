@@ -1,0 +1,34 @@
+{
+  "slug": "vanquished-queens",
+  "synopsis": "Vanquished Queens OVAs depicts what happened to various characters who were absent in Queen's Blade: Rebellion and what happened to them after Queen's Blade: Utsukushiki Toushitachi.",
+  "title": {
+    "jp": "Vanquished Queens"
+  },
+  "releasedAt": "2013-03-29T00:00:00.000Z",
+  "finishedAt": "2014-09-30T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7412/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7412/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "angel",
+    "ecchi",
+    "elf",
+    "fantasy",
+    "fantasy world",
+    "maid",
+    "past",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7412",
+    "anidb": "9513",
+    "anilist/anime": "16363",
+    "aozora": "V5f5eDFDu2",
+    "myanimelist/anime": "16363"
+  }
+}

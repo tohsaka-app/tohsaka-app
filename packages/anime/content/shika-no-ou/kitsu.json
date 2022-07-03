@@ -1,0 +1,26 @@
+{
+  "slug": "shika-no-ou",
+  "synopsis": "Van is the head of a group of soldiers who expected to die fighting for their lands against a large empire looking to incorporate their home into its kingdom. Instead of dying, however, Van is taken as a slave and thrown into a salt mine. One night, a pack of strange dogs attacks the salt mine, and a mysterious illness breaks out. During the attack, Van takes the opportunity to escape, and he meets a young girl. Elsewhere, rumor is spreading that only immigrants are coming down with this mysterious illness. The medical scientist Hossal risks his life to search for a cure. Doctors also study a father and child who seem to have survived the illness. The novels tell the interconnecting stories and bonds of those who fight against a cruel fate.\n\n(Source: ANN)",
+  "title": {
+    "en": "The Deer King: The Promised Journey With Yuna",
+    "jp": "Shika no Ou: Yuna to Yakusoku no Tabi"
+  },
+  "releasedAt": "2022-02-04T00:00:00.000Z",
+  "finishedAt": "2022-02-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/41412/poster_image/e3c2f807f6c24153fc12914fa74228cc.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41412/original.png",
+  "categories": [
+    "adventure",
+    "drama",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41412",
+    "anilist/anime": "102891",
+    "myanimelist/anime": "38015"
+  }
+}

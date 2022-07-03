@@ -1,0 +1,33 @@
+{
+  "slug": "bungou-stray-dogs-hitori-ayumu",
+  "synopsis": "Bundled with the 13th volume of the Bungou Stray Dogs manga.",
+  "title": {
+    "jp": "Bungou Stray Dogs: Hitori Ayumu"
+  },
+  "releasedAt": "2017-08-04T00:00:00.000Z",
+  "finishedAt": "2017-08-04T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12051/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12051/original.jpg",
+  "categories": [
+    "action",
+    "conspiracy",
+    "crime",
+    "detective",
+    "historical",
+    "mafia",
+    "mystery",
+    "super power",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12051",
+    "anidb": "12442",
+    "anilist/anime": "21791",
+    "aozora": "hURHetYEcG",
+    "myanimelist/anime": "33071"
+  }
+}

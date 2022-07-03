@@ -1,0 +1,22 @@
+{
+  "slug": "Fast-Week",
+  "synopsis": "The genesis of fast food.",
+  "title": {
+    "jp": "Fast Week"
+  },
+  "releasedAt": "2015-02-15T00:00:00.000Z",
+  "finishedAt": "2015-02-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42844/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42844",
+    "anilist/anime": "114469",
+    "myanimelist/anime": "40204"
+  }
+}

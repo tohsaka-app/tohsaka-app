@@ -1,0 +1,33 @@
+{
+  "slug": "beast-wars-second-chou-seimeitai-transformers",
+  "synopsis": "Beast Wars II tells the story of a battle waging between Lio Convoy's team of Cybertrons (Maximals) and Galvatrons army of Destrons (Predacon) on the planet Gaia. As LioConvoy and Galvatron fight over the mysterious energy source known as Angolmois energy, many strange occurrences and mysterious properties of Angolmois begin to arise.\n(Source: ANN)",
+  "title": {
+    "jp": "Beast Wars Second Chou Seimeitai Transformers"
+  },
+  "releasedAt": "1998-04-01T00:00:00.000Z",
+  "finishedAt": "1999-01-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3912/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "mecha",
+    "other planet",
+    "science fiction",
+    "slapstick",
+    "space",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3912",
+    "anidb": "4201",
+    "anilist/anime": "5070",
+    "aozora": "kG6Nc2X457",
+    "myanimelist/anime": "5070",
+    "thetvdb": "156481",
+    "trakt": "30963"
+  }
+}

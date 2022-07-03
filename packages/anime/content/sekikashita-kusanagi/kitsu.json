@@ -1,0 +1,26 @@
+{
+  "slug": "sekikashita-kusanagi",
+  "synopsis": "Senku has found yet another way to un-petrify people and let them live in the Stone World, Snickers bars! A new collaboration between the confectionary bar and the Dr. STONE TV anime sees the hero of the Stone World bring back Japanese comedian Kouki Kusanagi to life with a Snickers bar (Source: CR)",
+  "title": {
+    "jp": "Sekikashita Kusanagi"
+  },
+  "releasedAt": "2020-10-04T00:00:00.000Z",
+  "finishedAt": "2020-10-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43715/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=3QJpqHx3soo&ab_channel=SNICKERSJAPAN"
+  ],
+  "relations": {
+    "kitsu": "43715",
+    "anilist/anime": "125297",
+    "myanimelist/anime": "43349"
+  }
+}

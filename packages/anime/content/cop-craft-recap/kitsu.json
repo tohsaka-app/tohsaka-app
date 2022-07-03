@@ -1,0 +1,29 @@
+{
+  "slug": "cop-craft-recap",
+  "synopsis": "Recap of the first four episodes of Cop Craft series from Tilarna's perspective.\n",
+  "title": {
+    "en": "Cop Craft: Beautiful Knight! Pursue the Captured Fairy!",
+    "jp": "Cop Craft Recap"
+  },
+  "releasedAt": "2019-09-10T00:00:00.000Z",
+  "finishedAt": "2019-09-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42570/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42570/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "crime",
+    "fantasy",
+    "magic",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42570",
+    "anidb": "14574",
+    "myanimelist/anime": "40405"
+  }
+}

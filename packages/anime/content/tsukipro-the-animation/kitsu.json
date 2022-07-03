@@ -1,0 +1,29 @@
+{
+  "slug": "tsukipro-the-animation",
+  "synopsis": "SOARA, Growth, SolidS, and QUELL are four groups belonging to Tsukino Entertainment Production (AKA TSUKIPRO). The slice of life music anime \"PRO ANI\" depicting their music overflowing with uniqueness and the drama surrounding their lives begins now! Will you open this glittering treasure box of music?\n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Tsukipro The Animation"
+  },
+  "releasedAt": "2017-10-04T00:00:00.000Z",
+  "finishedAt": "2017-12-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13721/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13721/original.png",
+  "categories": [
+    "idol",
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/tsukipro-the-animation"
+  ],
+  "relations": {
+    "kitsu": "13721",
+    "anidb": "12578",
+    "anilist/anime": "97904",
+    "aozora": "RF4mFDWHSz",
+    "myanimelist/anime": "34474"
+  }
+}

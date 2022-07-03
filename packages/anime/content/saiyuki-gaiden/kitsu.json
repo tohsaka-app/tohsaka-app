@@ -1,0 +1,33 @@
+{
+  "slug": "saiyuki-gaiden",
+  "synopsis": " An OVA adaptation of the climactic part of Saiyuuki Gaiden. ",
+  "title": {
+    "jp": "Saiyuuki Gaiden"
+  },
+  "releasedAt": "2011-03-25T00:00:00.000Z",
+  "finishedAt": "2011-11-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5599/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5599/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "contemporary fantasy",
+    "fantasy",
+    "josei"
+  ],
+  "externals": [
+    "http://www.hulu.com/saiyuki-gaiden",
+    "https://www.hidive.com/movies/saiyuki-gaiden"
+  ],
+  "relations": {
+    "kitsu": "5599",
+    "anidb": "7728",
+    "anilist/anime": "9088",
+    "aozora": "kYSDttuor0",
+    "hulu": "50013071",
+    "myanimelist/anime": "9088"
+  }
+}

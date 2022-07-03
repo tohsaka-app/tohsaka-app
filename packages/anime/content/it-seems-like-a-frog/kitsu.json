@@ -1,0 +1,25 @@
+{
+  "slug": "it-seems-like-a-frog",
+  "synopsis": "Official music video for Nisshoku Natsuko's song It Seems like a Frog which was also released on her 4th mini-album \"Gekirin Mania\".",
+  "title": {
+    "en": "It Seems like a Frog",
+    "jp": "It Seems like a Frog"
+  },
+  "releasedAt": "2016-08-31T00:00:00.000Z",
+  "finishedAt": "2016-08-31T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13965/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13965",
+    "anilist/anime": "102698",
+    "aozora": "ea0sN7WgO6",
+    "myanimelist/anime": "36183"
+  }
+}

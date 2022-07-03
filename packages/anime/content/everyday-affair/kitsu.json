@@ -1,0 +1,24 @@
+{
+  "slug": "everyday-affair",
+  "synopsis": "An official music video for the song Everyday Affair from the [MARU-151] in the blue shirt - Cyanotype release by the band \"in the blue shirt\".",
+  "title": {
+    "en": "Everyday Affair",
+    "jp": "Everyday Affair"
+  },
+  "releasedAt": "2015-12-28T00:00:00.000Z",
+  "finishedAt": "2015-12-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13833/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13833",
+    "anilist/anime": "103443",
+    "myanimelist/anime": "34857"
+  }
+}

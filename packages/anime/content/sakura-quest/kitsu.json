@@ -1,0 +1,32 @@
+{
+  "slug": "sakura-quest",
+  "synopsis": "Five young women have one thing in common—the careers they planned for themselves weren’t working out. Job dissatisfaction, trying to make ends meet, and personal insecurities lead each of them to start working at a local tourism bureau where their lives become intertwined. As the girls experience their first year on the job, they learn a lot about their town, their industry, and themselves.\n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Sakura Quest"
+  },
+  "releasedAt": "2017-04-06T00:00:00.000Z",
+  "finishedAt": "2017-09-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12793/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12793/original.png",
+  "categories": [
+    "comedy",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/sakura-quest",
+    "https://www.funimation.com/shows/sakura-quest/"
+  ],
+  "relations": {
+    "kitsu": "12793",
+    "anidb": "12602",
+    "anilist/anime": "97903",
+    "aozora": "HutktAwGIv",
+    "myanimelist/anime": "34494",
+    "thetvdb": "321536/1",
+    "trakt": "114570"
+  }
+}

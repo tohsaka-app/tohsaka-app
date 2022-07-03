@@ -1,0 +1,37 @@
+{
+  "slug": "yuugen-kaisha",
+  "synopsis": "In a country where companies are categorized into many subdivisions and corporations, only one of them is a ghost corp - the Phantom quest corp. When otherworldly supernatural phenomenon threatens the city and its populace, Ayaka Kisaragi and her employees are on the job to fight any and all supernatural menace. \n(Source: ANN)",
+  "title": {
+    "en": "Phantom Quest Corp.",
+    "jp": "Yuugen Kaisha"
+  },
+  "releasedAt": "1994-08-25T00:00:00.000Z",
+  "finishedAt": "1995-02-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/554/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "bounty hunter",
+    "comedy",
+    "contemporary fantasy",
+    "demon",
+    "detective",
+    "japan",
+    "magic",
+    "present",
+    "slice of life",
+    "super power",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "554",
+    "anidb": "828",
+    "anilist/anime": "599",
+    "aozora": "KZETd3eWuP",
+    "myanimelist/anime": "599"
+  }
+}

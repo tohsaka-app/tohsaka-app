@@ -1,0 +1,21 @@
+{
+  "slug": "nine-mv",
+  "synopsis": "",
+  "title": {
+    "jp": "9"
+  },
+  "releasedAt": "2013-12-20T00:00:00.000Z",
+  "finishedAt": "2013-12-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13863/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "13863",
+    "anilist/anime": "103759",
+    "aozora": "toRqALNqvE",
+    "myanimelist/anime": "36089"
+  }
+}

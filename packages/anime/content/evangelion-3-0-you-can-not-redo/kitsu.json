@@ -1,0 +1,40 @@
+{
+  "slug": "evangelion-3-0-you-can-not-redo",
+  "synopsis": "Fourteen years after the Third Impact, the Earth is a post-apocalyptic wasteland, human civilization is in ruins, and the people Shinji knows are almost unrecognizable. Trapped inside Evangelion Unit-01, he is recovered from space by Asuka and Mari, only to find himself a prisoner of Wille, a military faction led by his former guardian Misato Katsuragi. Cold and bitter, his former allies view him with suspicion and refuse to support him as he comes to terms with the consequences of his actions.\n\nA hurt and confused Shinji is rescued from Wille by Rei and returned to Nerv headquarters. There, he meets and quickly befriends the enigmatic Kaworu Nagisa, who offers him warmth and insight into the state of Nerv's war with the Angels. But Shinji and Kaworu's brief respite lies on the eve of a new battle, one in which Shinji finds that his enemies are no longer Angels but former comrades. In this bitter confrontation to determine the future of the world, Shinji will learn first-hand that the past truly cannot be undone.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Evangelion: 3.0 You Can (Not) Redo",
+    "jp": "Evangelion: 3.0 You Can (Not) Redo"
+  },
+  "releasedAt": "2012-11-17T00:00:00.000Z",
+  "finishedAt": "2012-11-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/3251/poster_image/8323669f2472f25a7608ad6a11dad24e.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3251/original.png",
+  "categories": [
+    "action",
+    "alien",
+    "angst",
+    "drama",
+    "earth",
+    "future",
+    "human enhancement",
+    "japan",
+    "mecha",
+    "piloted robot",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.amazon.com/gp/video/detail/B08SW4G3FL/ref=atv_dp_amz_det_c_UTPsmN_1_1"
+  ],
+  "relations": {
+    "kitsu": "3251",
+    "anidb": "7565",
+    "anilist/anime": "3785",
+    "aozora": "julZDXe4Po",
+    "myanimelist/anime": "3785",
+    "trakt": "885"
+  }
+}

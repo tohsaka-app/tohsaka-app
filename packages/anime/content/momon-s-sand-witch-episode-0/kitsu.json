@@ -1,0 +1,23 @@
+{
+  "slug": "momon-s-sand-witch-episode-0",
+  "synopsis": "Episode 0 of Momon's Sandwitch.",
+  "title": {
+    "jp": "Momon's Sand Witch Episode 0"
+  },
+  "releasedAt": "2014-03-02T00:00:00.000Z",
+  "finishedAt": "2014-03-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8858/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8858",
+    "aozora": "6FumkzscYt",
+    "myanimelist/anime": "23885"
+  }
+}

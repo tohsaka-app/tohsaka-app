@@ -1,0 +1,37 @@
+{
+  "slug": "moyashimon-returns",
+  "synopsis": "In the second season the story continues exactly where it left off previously. Professor Itsuki's Fermentation Cellar and laboratory is ready for operation and with Sawaki Tadayasu's unique gift to see and communicate with microbes to help, Itsuki's motley group of students begin to process different fermented products like soy sauce and sake.\n(Source: ANN)",
+  "title": {
+    "jp": "Moyashimon Returns"
+  },
+  "releasedAt": "2012-07-06T00:00:00.000Z",
+  "finishedAt": "2012-09-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6957/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "delinquent",
+    "earth",
+    "japan",
+    "present",
+    "school clubs",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6957",
+    "anidb": "9093",
+    "anilist/anime": "13409",
+    "aozora": "xGh0uWAfMz",
+    "hulu": "50001580",
+    "myanimelist/anime": "13409",
+    "thetvdb": "80808/2",
+    "thetvdb/season": "488311",
+    "thetvdb/series": "80808",
+    "trakt": "61233"
+  }
+}

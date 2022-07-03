@@ -1,0 +1,21 @@
+{
+  "slug": "palladium-siropd-motion-collective",
+  "synopsis": "An official music videos for the songs from the [YZML-08]Palladium -siroPd Motion Collective- created by siroPd.\n",
+  "title": {
+    "jp": "Palladium: siroPd Motion Collective"
+  },
+  "releasedAt": "2014-04-06T00:00:00.000Z",
+  "finishedAt": "2014-04-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14168/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14168",
+    "myanimelist/anime": "34861"
+  }
+}

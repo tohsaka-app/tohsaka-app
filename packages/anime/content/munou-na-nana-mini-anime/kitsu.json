@@ -1,0 +1,24 @@
+{
+  "slug": "munou-na-nana-mini-anime",
+  "synopsis": "Mini anime for Munou na Nana released weekly on the official Twitter and website.",
+  "title": {
+    "en": "Talentless Nana Mini Anime",
+    "jp": "Munou na Nana Mini Anime"
+  },
+  "releasedAt": "2020-10-09T00:00:00.000Z",
+  "finishedAt": "2020-12-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43728/original.png",
+  "categories": [
+    "comedy",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43728",
+    "anilist/anime": "123803",
+    "myanimelist/anime": "42831"
+  }
+}

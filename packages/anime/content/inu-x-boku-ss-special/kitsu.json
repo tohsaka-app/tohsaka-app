@@ -1,0 +1,25 @@
+{
+  "slug": "inu-x-boku-ss-special",
+  "synopsis": "Unaired episode released with the seventh volume of the Blu-ray &amp; DVD. It consists of three short episodes newly written by the manga author Fujiwara Cocoa. Fujiwara also designed a new character called Hana-chan for the episode.",
+  "title": {
+    "en": "Inu X Boku Secret Service Special",
+    "jp": "Inu x Boku SS Special"
+  },
+  "releasedAt": "2012-09-26T00:00:00.000Z",
+  "finishedAt": "2012-09-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6954/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6954",
+    "anilist/anime": "13403",
+    "aozora": "bYVp8rNeHK",
+    "myanimelist/anime": "13403"
+  }
+}

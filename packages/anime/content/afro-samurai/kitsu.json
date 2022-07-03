@@ -1,0 +1,37 @@
+{
+  "slug": "afro-samurai",
+  "synopsis": "When he was a young boy, Afro witnessed his father be cut down in a duel at the hands of a man known only as Justice. After taking the life of Afro's father, Justice cast aside his Number Two headband and took the Number One to claim its godly powers as his own.\nYears later, having obtained the Number Two headband which grants him the right to challenge the Number One, Afro moves forward in his hunt for revenge on the man who murdered his father. There is just one thing that stands in his way—everyone else in the world! Though the Number One can only be challenged by the Number Two, the Number Two can be challenged by anyone. As his enemies gather to try and take the title of Number Two, Afro must fight through a myriad of foes and obstacles if he hopes to reach the Number One and claim vengeance once and for all.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Afro Samurai",
+    "jp": "Afro Samurai"
+  },
+  "releasedAt": "2007-01-04T00:00:00.000Z",
+  "finishedAt": "2007-02-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1165/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1165/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "gunfights",
+    "mecha",
+    "samurai",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1165",
+    "anidb": "2656",
+    "anilist/anime": "1292",
+    "aozora": "8dxwcTjA8P",
+    "hulu": "50001466",
+    "myanimelist/anime": "1292",
+    "thetvdb": "79755/1",
+    "thetvdb/series": "79755",
+    "trakt": "19453"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "ishitsubutsu-toriatsukaijo",
+  "synopsis": "A music video for Suck a Stew Dry's song \"Ishitsubutsu Toriatsukaijo\". ",
+  "title": {
+    "jp": "Ishitsubutsu Toriatsukaijo"
+  },
+  "releasedAt": "2012-05-27T00:00:00.000Z",
+  "finishedAt": "2012-05-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12190/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12190",
+    "anilist/anime": "102303",
+    "aozora": "NzM1m204n1",
+    "myanimelist/anime": "32845"
+  }
+}

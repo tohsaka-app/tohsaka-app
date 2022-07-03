@@ -1,0 +1,21 @@
+{
+  "slug": "purina-felix",
+  "synopsis": "Animated Felix commercials, they are a Nestlé Purina brand cat food treat. \n\n(Source: MAL)",
+  "title": {
+    "jp": "Purina Felix"
+  },
+  "releasedAt": "2015-03-04T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14250/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14250/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14250"
+  }
+}

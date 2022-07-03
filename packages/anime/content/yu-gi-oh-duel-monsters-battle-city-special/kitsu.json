@@ -1,0 +1,29 @@
+{
+  "slug": "yu-gi-oh-duel-monsters-battle-city-special",
+  "synopsis": "A special episode of 'Yu-Gi-Oh! Duel Monsters' aired in between episodes 88 and 89. Mainly narrated by Anzu, the special recaps the major events of the Battle City tournament, beginning from the Pharaoh's meeting with Ishizu, and retelling several important duels including Yugi and Seto's tag duel, and Yugi's duels against Jonouchi and Bakura, up to Jonouchi's battle with Rishid on the Battle Ship. The special ends with Anzu wishing the series a happy new year.",
+  "title": {
+    "jp": "Yu☆Gi☆Oh! Duel Monsters: Battle City Special"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4106/original.jpg",
+  "categories": [
+    "adventure",
+    "card games",
+    "fantasy",
+    "friendship",
+    "science fiction",
+    "shounen",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4106",
+    "anilist/anime": "5458",
+    "aozora": "2EdV3ImB2x",
+    "myanimelist/anime": "5458"
+  }
+}

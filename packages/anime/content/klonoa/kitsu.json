@@ -1,0 +1,18 @@
+{
+  "slug": "klonoa",
+  "synopsis": "Cancelled on 4th January 2019 due to a lack of progress.",
+  "title": {
+    "jp": "Kuronoa"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12865/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "12865"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sore-ike-anpanman-anpanman-to-kaizoku-lobster",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Anpanman to Kaizoku Lobster"
+  },
+  "releasedAt": "2000-02-21T00:00:00.000Z",
+  "finishedAt": "2000-02-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9603/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9603",
+    "aozora": "zTHVQnG9RD",
+    "myanimelist/anime": "27499"
+  }
+}

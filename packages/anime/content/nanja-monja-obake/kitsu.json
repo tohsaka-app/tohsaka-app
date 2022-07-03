@@ -1,0 +1,24 @@
+{
+  "slug": "nanja-monja-obake",
+  "synopsis": "An anime made entirely in sumi-e following a child fox spirit and his morphing ability for haunting but he ends up getting scared himself.",
+  "title": {
+    "jp": "Nanja Monja Obake"
+  },
+  "releasedAt": "1994-12-06T00:00:00.000Z",
+  "finishedAt": "1994-12-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10292/original.jpg",
+  "categories": [
+    "horror",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10292",
+    "anilist/anime": "103414",
+    "aozora": "LkuDULqkdX",
+    "myanimelist/anime": "29495"
+  }
+}

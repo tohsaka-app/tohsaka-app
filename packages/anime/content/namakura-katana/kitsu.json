@@ -1,0 +1,25 @@
+{
+  "slug": "namakura-katana",
+  "synopsis": "Namakura Gatana, meaning \"dull-edged sword,\" is a two-minute comedy about a samurai who, thanks to his dull instrument, loses every time he attacks a weak opponent. In order to examine the sword, he tries to attack passers-by, but lower-class townspeople fight back and knock him down.\n(Source: AniDB)",
+  "title": {
+    "jp": "Namakura Gatana"
+  },
+  "releasedAt": "1917-06-30T00:00:00.000Z",
+  "finishedAt": "1917-06-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4650/original.jpg",
+  "categories": [
+    "comedy",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4650",
+    "anidb": "5862",
+    "anilist/anime": "6654",
+    "aozora": "sa5Kl4itCX",
+    "myanimelist/anime": "6654"
+  }
+}

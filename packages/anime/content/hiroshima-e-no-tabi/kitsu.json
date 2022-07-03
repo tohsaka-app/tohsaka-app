@@ -1,0 +1,28 @@
+{
+  "slug": "hiroshima-e-no-tabi",
+  "synopsis": "To spend the summer vacation, junior high school student, Kazuki rides a bullet train to Hiroshima to stay with his aunt. Arriving in Hiroshima, his aunt  narrates the tragic past of what happened the day  the atomic bomb fell. From the aunt who had to overcome a lot of hardships, he learns the value of peace and to have the courage to lose.",
+  "title": {
+    "en": "A Journey to Hiroshima",
+    "jp": "Hiroshima e no Tabi"
+  },
+  "releasedAt": "1994-07-20T00:00:00.000Z",
+  "finishedAt": "1994-07-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9323/original.jpg",
+  "categories": [
+    "anti war",
+    "drama",
+    "historical",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9323",
+    "anidb": "9062",
+    "anilist/anime": "107878",
+    "aozora": "YPNHnaSqlo",
+    "myanimelist/anime": "23303"
+  }
+}

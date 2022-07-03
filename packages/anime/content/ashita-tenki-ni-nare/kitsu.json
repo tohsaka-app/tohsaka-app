@@ -1,0 +1,31 @@
+{
+  "slug": "ashita-tenki-ni-nare",
+  "synopsis": "The adventures of a young golf player.",
+  "title": {
+    "en": "A Great Super Shot Boy",
+    "jp": "Ashita Tenki ni Naare"
+  },
+  "releasedAt": "1984-10-06T00:00:00.000Z",
+  "finishedAt": "1985-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2815/original.png",
+  "categories": [
+    "japan",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2815",
+    "anidb": "3075",
+    "anilist/anime": "3131",
+    "animenewsnetwork": "1183",
+    "aozora": "PIUlJ6jpCX",
+    "myanimelist/anime": "3131",
+    "thetvdb": "160011/1",
+    "thetvdb/series": "160011",
+    "trakt": "65776"
+  }
+}

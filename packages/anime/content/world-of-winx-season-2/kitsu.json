@@ -1,0 +1,24 @@
+{
+  "slug": "world-of-winx-season-2",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "2017-06-16T00:00:00.000Z",
+  "finishedAt": "2017-06-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13559/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13559/original.jpg",
+  "categories": [
+    "anime influenced",
+    "contemporary fantasy",
+    "fantasy",
+    "henshin",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13559"
+  }
+}

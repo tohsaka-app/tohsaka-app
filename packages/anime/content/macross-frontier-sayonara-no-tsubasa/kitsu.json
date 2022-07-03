@@ -1,0 +1,39 @@
+{
+  "slug": "macross-frontier-sayonara-no-tsubasa",
+  "synopsis": "Second Macross Frontier movie.",
+  "title": {
+    "en": "Macross Frontier: The Wings of Farewell",
+    "jp": "Macross F Movie 2: Sayonara no Tsubasa"
+  },
+  "releasedAt": "2011-02-26T00:00:00.000Z",
+  "finishedAt": "2011-02-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4903/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "future",
+    "idol",
+    "love polygon",
+    "mecha",
+    "military",
+    "music",
+    "piloted robot",
+    "romance",
+    "science fiction",
+    "space",
+    "space opera",
+    "space travel",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4903",
+    "anidb": "7959",
+    "anilist/anime": "7222",
+    "aozora": "w85wOU1Rcg",
+    "myanimelist/anime": "7222"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "cell-no-koi",
+  "synopsis": "A starfish boy \"Cell\" falls in love with the beautiful mermaid princess.",
+  "title": {
+    "jp": "Cell no Koi"
+  },
+  "releasedAt": "2005-08-01T00:00:00.000Z",
+  "finishedAt": "2005-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13869/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13869",
+    "anilist/anime": "103790",
+    "aozora": "fP2dHMv55l",
+    "myanimelist/anime": "35785"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "shounen-hollywood-holly-stage-for-49",
+  "synopsis": "The anime tells an original story set 15 years after the novel's story.\nIt takes place at a fictional theater called Hollywood Tokyo in Harajuku, where members of the idol group \"Shounen Hollywood\" develop their talents with diligent work and studying.\n(Source: ANN)",
+  "title": {
+    "jp": "Shounen Hollywood: Holly Stage for 49"
+  },
+  "releasedAt": "2014-07-06T00:00:00.000Z",
+  "finishedAt": "2014-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8521/original.png",
+  "categories": [
+    "asia",
+    "bishounen",
+    "earth",
+    "idol",
+    "japan",
+    "music",
+    "musical band",
+    "performance",
+    "present",
+    "slice of life",
+    "the arts",
+    "tokyo"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/shonen-hollywood/videos/episodes",
+    "http://www.hulu.com/shonen-hollywood-holly-stage-for-49"
+  ],
+  "relations": {
+    "kitsu": "8521",
+    "anidb": "10517",
+    "anilist/anime": "20648",
+    "aozora": "8I72XelCh5",
+    "hulu": "50016949",
+    "myanimelist/anime": "23151",
+    "thetvdb": "281947/1",
+    "thetvdb/season": "586240",
+    "thetvdb/series": "281947",
+    "trakt": "77956"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "koi-to-senkyo-to-chocolate-ikenai-hazuki-sensei",
+  "synopsis": "Picture drama included with the 1st DVD/BD.",
+  "title": {
+    "jp": "Koi to Senkyo to Chocolate: Ikenai Hazuki-sensei"
+  },
+  "releasedAt": "2012-09-26T00:00:00.000Z",
+  "finishedAt": "2012-09-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8815/original.jpg",
+  "categories": [
+    "drama",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8815",
+    "anilist/anime": "18053",
+    "aozora": "9rAtr1xqjz",
+    "myanimelist/anime": "18053"
+  }
+}

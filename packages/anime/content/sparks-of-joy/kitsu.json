@@ -1,0 +1,24 @@
+{
+  "slug": "sparks-of-joy",
+  "synopsis": "Music video for Sparks of Joy by IRyS.",
+  "title": {
+    "en": "Sparks of Joy"
+  },
+  "releasedAt": "2021-12-25T00:00:00.000Z",
+  "finishedAt": "2021-12-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45673/poster_image/7a71fa9b69f17e9299153dcc23b15faa.jpg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=y2vrlxmOp7U"
+  ],
+  "relations": {
+    "kitsu": "45673"
+  }
+}

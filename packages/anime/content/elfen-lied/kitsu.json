@@ -1,0 +1,50 @@
+{
+  "slug": "elfen-lied",
+  "synopsis": "Lucy is a special breed of human referred to as \"Diclonius,\" born with a short pair of horns and invisible telekinetic hands that lands her as a victim of inhumane scientific experimentation by the government. However, once circumstances present her an opportunity to escape, Lucy, corrupted by the confinement and torture, unleashes a torrent of bloodshed as she escapes her captors.\nDuring her breakout, she receives a crippling head injury that leaves her with a split personality: someone with the mentality of a harmless child possessing limited speech capacity. In this state of instability, she stumbles upon two college students, Kouta and his cousin Yuka, who unknowingly take an injured fugitive into their care, unaware of her murderous tendencies. This act of kindness will change their lives, as they soon find themselves dragged into the shadowy world of government secrecy and conspiracy.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Elfen Lied",
+    "jp": "Elfen Lied"
+  },
+  "releasedAt": "2004-07-25T00:00:00.000Z",
+  "finishedAt": "2004-10-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/201/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/201/original.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "asia",
+    "drama",
+    "earth",
+    "ecchi",
+    "gunfights",
+    "harem",
+    "horror",
+    "japan",
+    "present",
+    "psychological",
+    "romance",
+    "science fiction",
+    "super power",
+    "supernatural",
+    "violence"
+  ],
+  "externals": [
+    "http://www.hulu.com/elfen-lied",
+    "https://www.amazon.com/Elfen-Lied-08-The-Beginning/dp/B008RJX012",
+    "https://www.hidive.com/tv/elfen-lied"
+  ],
+  "relations": {
+    "kitsu": "201",
+    "anidb": "1544",
+    "anilist/anime": "226",
+    "aozora": "I1oGdcDkrV",
+    "hulu": "50012577",
+    "myanimelist/anime": "226",
+    "thetvdb": "75941/1",
+    "thetvdb/series": "75941",
+    "trakt": "42446"
+  }
+}

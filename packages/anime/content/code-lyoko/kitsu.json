@@ -1,0 +1,27 @@
+{
+  "slug": "code-lyoko",
+  "synopsis": "A group of students uncover a parallel universe called Lyoko inside a super-computer that is threatened by a renegade program named XANA that could destroy the world. It's up to four boarding school students named Jeremy, Yumi, Ulrich, and Odd to help a humanoid being inside Lyoko named Aelita to stop the rogue program X.A.N.A and his plans to attack their world.",
+  "title": {
+    "en": "",
+    "jp": "Code Lyoko"
+  },
+  "releasedAt": "2003-09-03T00:00:00.000Z",
+  "finishedAt": "2007-11-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7930/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "drama",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7930",
+    "thetvdb": "74280/1",
+    "thetvdb/series": "74280"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "dance-xx",
+  "synopsis": "An official music video for the song Dance XX from the Never Look Back! EP release by the band \"Sappy\".",
+  "title": {
+    "jp": "Dance XX"
+  },
+  "releasedAt": "2015-10-07T00:00:00.000Z",
+  "finishedAt": "2015-10-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13839/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13839",
+    "myanimelist/anime": "34860"
+  }
+}

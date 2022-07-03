@@ -1,0 +1,22 @@
+{
+  "slug": "nitian-xie-shen-2",
+  "synopsis": "",
+  "title": {
+    "en": "Against the Gods 2"
+  },
+  "releasedAt": "2021-02-05T00:00:00.000Z",
+  "finishedAt": "2022-07-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45676/poster_image/05f7cd6fb1cd198253a77f5dbbaa9978.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45676",
+    "anilist/anime": "131078"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mangaka-san-to-assistant-san-to-the-animation-specials",
+  "synopsis": "Specials released with the Blu-ray/DVD volumes.",
+  "title": {
+    "jp": "Mangaka-san to Assistant-san to The Animation Specials"
+  },
+  "releasedAt": "2014-06-25T00:00:00.000Z",
+  "finishedAt": "2014-11-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8525/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8525/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "harem",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8525",
+    "anilist/anime": "20761",
+    "aozora": "nzwpLLAKQr",
+    "myanimelist/anime": "24475"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "the-disappearance-of-conan-edogawa-the-worst-two-days-in-history",
+  "synopsis": "The anime special celebrates the 20th anniversary of Gosho Aoyama's original manga, and it recounts a previously untold story from Conan's past.\n(Source: ANN)",
+  "title": {
+    "en": "The Disappearance of Conan Edogawa: The Worst Two Days in History",
+    "jp": "The Disappearance of Conan Edogawa: The Worst Two Days in History"
+  },
+  "releasedAt": "2014-12-26T00:00:00.000Z",
+  "finishedAt": "2014-12-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8179/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "cops",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8179",
+    "anidb": "10370",
+    "anilist/anime": "20878",
+    "aozora": "2eMTdBc0z6",
+    "myanimelist/anime": "21867"
+  }
+}

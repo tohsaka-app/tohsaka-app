@@ -1,0 +1,23 @@
+{
+  "slug": "talpy",
+  "synopsis": "Talpy is an odd creature than can transform into anything be it a bicycle or cowboy or a tailor. Every episode shows Talpy transforming into a few items/people based on the scenario he's in. ",
+  "title": {
+    "jp": "Talpy"
+  },
+  "releasedAt": "2005-11-04T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10319/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10319",
+    "aozora": "61QWe8drcp",
+    "myanimelist/anime": "29485"
+  }
+}

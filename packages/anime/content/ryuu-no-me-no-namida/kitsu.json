@@ -1,0 +1,23 @@
+{
+  "slug": "ryuu-no-me-no-namida",
+  "synopsis": "A pure hearted boy becomes friends with a dragon that people are afraid of.",
+  "title": {
+    "jp": "Ryuu no Me no Namida"
+  },
+  "releasedAt": "1981-01-01T00:00:00.000Z",
+  "finishedAt": "1981-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12897/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12897",
+    "aozora": "oefuoMJXjA",
+    "myanimelist/anime": "34225"
+  }
+}

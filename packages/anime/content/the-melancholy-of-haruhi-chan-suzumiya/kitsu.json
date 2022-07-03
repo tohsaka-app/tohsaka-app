@@ -1,0 +1,33 @@
+{
+  "slug": "the-melancholy-of-haruhi-chan-suzumiya",
+  "synopsis": "A parody series featuring the entire cast of The Melancholy of Haruhi Suzumiya in a smaller form factor.  Among the changes are: Yuki plays eroge, Haruhi is even more obnoxiuous and loud, Mikuru is even more emotional and Koizumi harbors a deep love for Kyon.  Kyon, on the other hand, is generally the same as ever.",
+  "title": {
+    "en": "The Melancholy of Haruhi-chan Suzumiya",
+    "jp": "Suzumiya Haruhi-chan no Yuuutsu"
+  },
+  "releasedAt": "2009-02-14T00:00:00.000Z",
+  "finishedAt": "2009-05-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3939/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3939/original.png",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "parody",
+    "school clubs",
+    "slapstick",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3939",
+    "anidb": "5335",
+    "anilist/anime": "5118",
+    "aozora": "CX575rL0w7",
+    "myanimelist/anime": "5118"
+  }
+}

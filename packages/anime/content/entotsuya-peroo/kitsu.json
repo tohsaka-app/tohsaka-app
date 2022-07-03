@@ -1,0 +1,24 @@
+{
+  "slug": "entotsuya-peroo",
+  "synopsis": "Tale of the chimney sweep, Peroo. ",
+  "title": {
+    "jp": "Entotsuya Peroo"
+  },
+  "releasedAt": "1930-04-13T00:00:00.000Z",
+  "finishedAt": "1930-04-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7221/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7221",
+    "anidb": "6933",
+    "anilist/anime": "15137",
+    "aozora": "ogHYIMOCu0",
+    "myanimelist/anime": "15137"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "astroganger",
+  "synopsis": "An alien woman named Maya crash-lands on Earth. Her homeworld was destroyed by the Blasters, a cruel alien race who steals the natural resources from other planets. She falls in love with a scientist and gives birth to a human boy named Kentaro. When the Blasters invade the Earth, Kentaro must defeat them by fighting with Astroganger, a robot made from living metal.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Astroganger"
+  },
+  "releasedAt": "1972-10-04T00:00:00.000Z",
+  "finishedAt": "1973-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4052/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "earth",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4052",
+    "anidb": "3079",
+    "anilist/anime": "5311",
+    "aozora": "fpKjqkNbgg",
+    "myanimelist/anime": "5311"
+  }
+}

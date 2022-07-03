@@ -1,0 +1,33 @@
+{
+  "slug": "knights-of-the-zodiac-saint-seiya",
+  "synopsis": "This 12-episode reimagining of the classic \"Saint Seiya\" series will feature a group of heroes equipped with magical armor based on the constellations. They're defending the reincarnation of Greek goddess Athena against the other Olympian gods.",
+  "title": {
+    "en": "Knights of the Zodiac: Saint Seiya",
+    "jp": "Knights of the Zodiac: Saint Seiya"
+  },
+  "releasedAt": "2019-07-19T00:00:00.000Z",
+  "finishedAt": "2020-01-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13695/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13695/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "deity",
+    "fantasy",
+    "henshin",
+    "martial arts",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13695",
+    "anidb": "13347",
+    "anilist/anime": "102427",
+    "aozora": "AnUxwfmLDu",
+    "myanimelist/anime": "36040"
+  }
+}

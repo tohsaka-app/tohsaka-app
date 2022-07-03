@@ -1,0 +1,29 @@
+{
+  "slug": "xi-avant",
+  "synopsis": "Short anime screened in theaters with the stereoscopic 3D conversion of Ghost in the Shell: Stand Alone Complex - Solid State Society movie. The story of Xi Avant is set in Spain and other locales in the near future, and it is tied to the NTT Docomo mobile phone network's next-generation Xi service.\n(Source: ANN)",
+  "title": {
+    "jp": "Xi Avant"
+  },
+  "releasedAt": "2011-03-26T00:00:00.000Z",
+  "finishedAt": "2011-03-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6166/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6166/original.jpg",
+  "categories": [
+    "adventure",
+    "earth",
+    "europe",
+    "future",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6166",
+    "anidb": "8303",
+    "anilist/anime": "10405",
+    "aozora": "fVI3ILlQAX",
+    "myanimelist/anime": "10405"
+  }
+}

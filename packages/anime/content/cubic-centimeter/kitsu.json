@@ -1,0 +1,24 @@
+{
+  "slug": "cubic-centimeter",
+  "synopsis": "This animation shows how the liquid in a glass erupts, spreads, mix, and overflows.\n\n1st year work 2013 by Tsumugi Harunari, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Cubic Centimeter",
+    "jp": "Cubic Centimeter"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44681/original.jpg",
+  "categories": [
+    "the arts"
+  ],
+  "externals": [
+    "https://youtu.be/z64Vq0W9zQw"
+  ],
+  "relations": {
+    "kitsu": "44681",
+    "anilist/anime": "109095"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "zhen-dao-ge-chenshi-hang",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44786/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "martial arts",
+    "revenge",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44786",
+    "anilist/anime": "133661",
+    "myanimelist/anime": "48914"
+  }
+}

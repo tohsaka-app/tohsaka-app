@@ -1,0 +1,24 @@
+{
+  "slug": "oshiri-kajiri-mushi-music",
+  "synopsis": "A funny video about a magical bug that likes to bite the people's derriere. The song was intended to encourage people who live in big cities to spontaneously interact with each other.",
+  "title": {
+    "jp": "Oshiri Kajiri Mushi"
+  },
+  "releasedAt": "2007-06-01T00:00:00.000Z",
+  "finishedAt": "2007-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5401/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5401",
+    "anilist/anime": "8604",
+    "aozora": "Y1rsulEl8l",
+    "myanimelist/anime": "8604"
+  }
+}

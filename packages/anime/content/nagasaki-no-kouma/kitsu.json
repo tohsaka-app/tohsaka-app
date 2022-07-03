@@ -1,0 +1,23 @@
+{
+  "slug": "nagasaki-no-kouma",
+  "synopsis": "A stop-motion anime about the atomic bombing of Nagasaki. The story follows a young boy an 1 surviving foal as they try to survive the wreckage and make their way to the mountains for safety.",
+  "title": {
+    "jp": "Nagasaki no Kouma"
+  },
+  "releasedAt": "1984-01-01T00:00:00.000Z",
+  "finishedAt": "1984-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9471/original.jpg",
+  "categories": [
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9471",
+    "aozora": "T3130sNMt8",
+    "myanimelist/anime": "26147"
+  }
+}

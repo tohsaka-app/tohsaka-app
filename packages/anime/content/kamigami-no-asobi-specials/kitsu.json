@@ -1,0 +1,22 @@
+{
+  "slug": "kamigami-no-asobi-specials",
+  "synopsis": "Special clips included in Blu-ray's/DVD's of Kamigami no Asobi.\n\nFirst volume includes Thoth's lecture with the Japanese mythology brothers.",
+  "title": {
+    "en": "Mischief of the Gods Specials",
+    "jp": "Kamigami no Asobi Specials"
+  },
+  "releasedAt": "2014-06-25T00:00:00.000Z",
+  "finishedAt": "2014-06-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8548/original.png",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8548"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "zettai-muteki-raijin-oh-1992",
+  "synopsis": "Continues the story of the TV series.",
+  "title": {
+    "jp": "Zettai Muteki Raijin-Oh (1992)"
+  },
+  "releasedAt": "1992-09-30T00:00:00.000Z",
+  "finishedAt": "1993-02-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1827/original.jpg",
+  "categories": [
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1827",
+    "anidb": "4487",
+    "anilist/anime": "2028",
+    "aozora": "7w3yLhF1el",
+    "myanimelist/anime": "2028"
+  }
+}

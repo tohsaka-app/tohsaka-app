@@ -1,0 +1,35 @@
+{
+  "slug": "lupin-iii-touhou-kenbunroku-another-page",
+  "synopsis": "Lupin has become a suspect in the murder of a professor named Theo Argent. The professor had just discovered the missing page of Marco Polo's Record of Observations of the East travel journal. As Lupin is being pursued by the police, he ends up getting unlikely help from the granddaughter of Theo Argent, Lisa. \n(Source: ANN) ",
+  "title": {
+    "en": "Lupin the Third: Record of Observations of the East - Another Page",
+    "jp": "Lupin III: Touhou Kenbunroku - Another Page"
+  },
+  "releasedAt": "2012-11-02T00:00:00.000Z",
+  "finishedAt": "2012-11-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7308/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7308/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "crime",
+    "earth",
+    "gunfights",
+    "mystery",
+    "present",
+    "seinen",
+    "thievery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7308",
+    "anidb": "9458",
+    "anilist/anime": "15783",
+    "aozora": "fgzIXXvh54",
+    "myanimelist/anime": "15783"
+  }
+}

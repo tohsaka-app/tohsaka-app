@@ -1,0 +1,25 @@
+{
+  "slug": "yokoo-s-3-animation-films",
+  "synopsis": "Three short films by the Japanese avant-garde illustrator and animator. Regarded (unfairly) as the Japanese equivalent of Andy Warhol, these films showcase a distinctively commercial illustration look reminiscent of the current pop art movement of that decade (1960s).",
+  "title": {
+    "jp": "Yokoo's 3 Animation Films"
+  },
+  "releasedAt": "1965-01-01T00:00:00.000Z",
+  "finishedAt": "1965-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5426/original.jpg",
+  "categories": [
+    "psychological",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5426",
+    "anidb": "5002",
+    "anilist/anime": "8663",
+    "aozora": "rBSnOIoiLw",
+    "myanimelist/anime": "8663"
+  }
+}

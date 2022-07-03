@@ -1,0 +1,26 @@
+{
+  "slug": "frog-seasons",
+  "synopsis": "\"Adventure Time Short: Frog Seasons\" is a series of five shorts.",
+  "title": {},
+  "releasedAt": "2016-04-02T00:00:00.000Z",
+  "finishedAt": "2016-09-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13771/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13771/original.jpg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "anthropomorphism",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "post apocalypse",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13771"
+  }
+}

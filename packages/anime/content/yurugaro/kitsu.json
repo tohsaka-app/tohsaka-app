@@ -1,0 +1,23 @@
+{
+  "slug": "yurugaro",
+  "synopsis": "Omake specials that feature the cast of Garo: Guren no Tsuki.",
+  "title": {
+    "jp": "Garo: Guren no Tsuki - Yurugaro"
+  },
+  "releasedAt": "2016-01-29T00:00:00.000Z",
+  "finishedAt": "2016-03-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12700/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12700",
+    "aozora": "vazjBbQSH5",
+    "myanimelist/anime": "33846"
+  }
+}

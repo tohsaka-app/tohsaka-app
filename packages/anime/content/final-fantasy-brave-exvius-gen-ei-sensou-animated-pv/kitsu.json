@@ -1,0 +1,26 @@
+{
+  "slug": "final-fantasy-brave-exvius-gen-ei-sensou-animated-pv",
+  "synopsis": "Animated Trailer for War of the Visions: Final Fantasy Brave Exvius featuring Raychell's song, ALL FOR LOVE.",
+  "title": {
+    "en": "War of the Visions: Final Fantasy Brave Exvius Animated PV",
+    "jp": "Final Fantasy Brave Exvius - Gen'ei Sensou Animated PV"
+  },
+  "releasedAt": "2020-05-11T00:00:00.000Z",
+  "finishedAt": "2020-05-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45248/poster_image/09fd6f46b80628d79eff9dac55a710b5.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=gfRCHZ3VuSY"
+  ],
+  "relations": {
+    "kitsu": "45248",
+    "anilist/anime": "118448"
+  }
+}

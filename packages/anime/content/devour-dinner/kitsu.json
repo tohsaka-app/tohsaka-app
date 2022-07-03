@@ -1,0 +1,25 @@
+{
+  "slug": "devour-dinner",
+  "synopsis": "Various scenes of predation. ",
+  "title": {
+    "jp": "Devour Dinner"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8218/original.jpg",
+  "categories": [
+    "dementia",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8218",
+    "anidb": "12209",
+    "anilist/anime": "19209",
+    "aozora": "HMj4LLPZfN",
+    "myanimelist/anime": "19209"
+  }
+}

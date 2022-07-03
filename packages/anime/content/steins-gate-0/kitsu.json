@@ -1,0 +1,33 @@
+{
+  "slug": "steins-gate-0",
+  "synopsis": "A divergent continuation of the original Steins;Gate ending, Steins;Gate 0 explores an alternate worldline where Okabe abandons time travel. While attempting to forget past traumas and get his life back on track, he meets an AI that re-opens old wounds.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Steins;Gate 0",
+    "jp": "Steins;Gate 0"
+  },
+  "releasedAt": "2018-04-12T00:00:00.000Z",
+  "finishedAt": "2018-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10788/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10788/original.jpeg",
+  "categories": [
+    "angst",
+    "drama",
+    "science fiction",
+    "thriller",
+    "time travel"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/steinsgate-0"
+  ],
+  "relations": {
+    "kitsu": "10788",
+    "anidb": "11167",
+    "anilist/anime": "21127",
+    "aozora": "HCTxI8WYHw",
+    "myanimelist/anime": "30484",
+    "thetvdb": "339268/1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "bishoujo-mobage-mobami-chan",
+  "synopsis": "DeNA promotional anime video for its line of mobile game. The mascot character for the line of games is called Mobami (a combination of \"mobile\" and \"beauty.\")\n(Source: ANN)",
+  "title": {
+    "jp": "Bishoujo Mobage: Mobami-chan"
+  },
+  "releasedAt": "2014-08-14T00:00:00.000Z",
+  "finishedAt": "2014-08-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9099/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9099",
+    "anilist/anime": "102406",
+    "aozora": "k8ur4o3e25",
+    "myanimelist/anime": "25991"
+  }
+}

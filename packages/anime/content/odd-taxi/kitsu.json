@@ -1,0 +1,30 @@
+{
+  "slug": "odd-taxi",
+  "synopsis": "This town should look familiar, but suddenly, it's not. The taxi driver Odokawa lives a very mundane life. He has no family, doesn't really hang out with others, and he's an oddball who is narrow-minded and doesn't talk much. The only people he can call his friends are his doctor, Gouriki, and his classmate from high school, Kakibana. All of his patrons seem to be slightly odd themselves. The college student who wants to be noticed online, Kabasawa. A nurse with secrets, Shirakawa. A comedy duo, the Homosapiens... All these mundane conversations somehow lead to a girl who's gone missing.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Odd Taxi",
+    "jp": "Odd Taxi"
+  },
+  "releasedAt": "2021-04-06T00:00:00.000Z",
+  "finishedAt": "2021-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/43932/poster_image/62052999e94860fba9bec6a9b305ba04.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43932/original.png",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "drama",
+    "mystery"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/oddtaxi"
+  ],
+  "relations": {
+    "kitsu": "43932",
+    "anidb": "15989",
+    "anilist/anime": "128547",
+    "myanimelist/anime": "46102"
+  }
+}

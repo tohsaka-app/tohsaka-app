@@ -1,0 +1,31 @@
+{
+  "slug": "kiddy-grade-truth-dawn",
+  "synopsis": "A is the retelling of the original anime's finale.",
+  "title": {
+    "jp": "Kiddy Grade: Truth Dawn"
+  },
+  "releasedAt": "2007-09-01T00:00:00.000Z",
+  "finishedAt": "2007-09-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2867/original.jpg",
+  "categories": [
+    "action",
+    "conspiracy",
+    "future",
+    "mecha",
+    "other planet",
+    "science fiction",
+    "space",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2867",
+    "anidb": "5087",
+    "anilist/anime": "3223",
+    "aozora": "a3crglqf49",
+    "myanimelist/anime": "3223"
+  }
+}

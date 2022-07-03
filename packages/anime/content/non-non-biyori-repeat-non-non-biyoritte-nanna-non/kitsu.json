@@ -1,0 +1,27 @@
+{
+  "slug": "non-non-biyori-repeat-non-non-biyoritte-nanna-non",
+  "synopsis": "Recap episodes of the 1st season promoting the 2nd season of Non Non Biyori.",
+  "title": {
+    "en": "",
+    "jp": "Non Non Biyori Repeat: Non Non Biyoritte Nanna Non!!?"
+  },
+  "releasedAt": "2015-06-15T00:00:00.000Z",
+  "finishedAt": "2015-06-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11300/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11300/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/non-non-biyori",
+    "http://www.hulu.com/non-non-biyori"
+  ],
+  "relations": {
+    "kitsu": "11300"
+  }
+}

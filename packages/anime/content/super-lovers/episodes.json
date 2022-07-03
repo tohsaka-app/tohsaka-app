@@ -1,0 +1,102 @@
+[
+  {
+    "title": {
+      "jp": "Forest Green"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/184745/original.jpg",
+    "releasedAt": "2016-04-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Black Eye"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/184746/original.jpg",
+    "releasedAt": "2016-04-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "White Christmas"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/184747/original.jpg",
+    "releasedAt": "2016-04-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Young Grass"
+    },
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/184748/original.jpg",
+    "releasedAt": "2016-04-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cherry Blossom"
+    },
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/184749/original.jpg",
+    "releasedAt": "2016-05-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cloudy Sky"
+    },
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/184750/original.jpg",
+    "releasedAt": "2016-05-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "White Fang"
+    },
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/184751/original.jpg",
+    "releasedAt": "2016-05-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Blue Sky"
+    },
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/184752/original.jpg",
+    "releasedAt": "2016-05-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rainy Season"
+    },
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/184753/original.jpg",
+    "releasedAt": "2016-06-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Summer Storm"
+    },
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/184754/original.jpg",
+    "releasedAt": "2016-06-08T00:00:00.000Z",
+    "content": {}
+  }
+]

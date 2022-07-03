@@ -1,0 +1,26 @@
+{
+  "slug": "osiris-no-tenbin-2nd-season",
+  "synopsis": "2nd Season to Osiris no Tenbin.",
+  "title": {
+    "jp": "Osiris no Tenbin: Season 2"
+  },
+  "releasedAt": "2016-04-22T00:00:00.000Z",
+  "finishedAt": "2016-07-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12048/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12048",
+    "anidb": "12074",
+    "anilist/anime": "21768",
+    "aozora": "4a4a5Sb4FC",
+    "myanimelist/anime": "33154"
+  }
+}

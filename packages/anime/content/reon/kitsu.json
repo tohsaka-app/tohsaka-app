@@ -1,0 +1,20 @@
+{
+  "slug": "reon",
+  "synopsis": "",
+  "title": {
+    "jp": "Reon"
+  },
+  "releasedAt": "2012-06-04T00:00:00.000Z",
+  "finishedAt": "2012-06-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13493/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13493"
+  }
+}

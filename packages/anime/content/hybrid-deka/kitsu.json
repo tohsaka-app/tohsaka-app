@@ -1,0 +1,24 @@
+{
+  "slug": "hybrid-deka",
+  "synopsis": "A Himitsukessha Taka no Tsume spin-off movie sponsored entirely by Toyota which had a limited theatrical run; in order to promote their hybrid car line. In the film, the Chancellor takes a break from Eagle Talon to become a struggling section chief of the Metropolitan Police Department Hybrid Division (which was born from the consolidation of several ministries for financial reasons). ",
+  "title": {
+    "jp": "Hybrid Deka"
+  },
+  "releasedAt": "2011-01-22T00:00:00.000Z",
+  "finishedAt": "2011-01-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6090/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6090",
+    "anidb": "8096",
+    "anilist/anime": "10238",
+    "aozora": "bGbJloDsBr",
+    "myanimelist/anime": "10238"
+  }
+}

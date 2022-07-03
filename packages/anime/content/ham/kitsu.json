@@ -1,0 +1,26 @@
+{
+  "slug": "ham",
+  "synopsis": "Music video directed and animated by goru for the song Ham by ZUTOMAYO.",
+  "title": {
+    "en": "Ham",
+    "jp": "Ham"
+  },
+  "releasedAt": "2020-08-11T00:00:00.000Z",
+  "finishedAt": "2020-08-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46067/poster_image/156fd87946395610fc30b7cdf024a552.png",
+  "categories": [
+    "music",
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/ouLndhBRL4w"
+  ],
+  "relations": {
+    "kitsu": "46067",
+    "anilist/anime": "122735",
+    "myanimelist/anime": "50054"
+  }
+}

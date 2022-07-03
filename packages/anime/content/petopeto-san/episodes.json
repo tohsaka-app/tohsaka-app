@@ -1,0 +1,119 @@
+[
+  {
+    "title": {
+      "jp": "Hello-san"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2005-07-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Special Race"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2005-07-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mint or Lavender"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2005-07-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Family Matters"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2005-07-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Younger Sister Village"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2005-08-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Older Sister and Younger Sister "
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2005-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ding-ling Ding-ling"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2005-08-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Summer Camp"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2005-08-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Police Chief for a Day"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2005-09-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Scout"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2005-09-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "\"Imo-ten\" Test Trial Version"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2005-09-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Project Daybreak"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2005-09-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Good-bye, Petopeto-san"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "2005-09-30T00:00:00.000Z",
+    "content": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "title": {},
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191327/original.jpg",
+    "releasedAt": "2016-08-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191328/original.png",
+    "releasedAt": "2016-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191329/original.png",
+    "releasedAt": "2016-08-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191330/original.jpg",
+    "releasedAt": "2016-08-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191331/original.jpg",
+    "releasedAt": "2016-09-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191332/original.png",
+    "releasedAt": "2016-09-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191333/original.jpg",
+    "releasedAt": "2016-09-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191334/original.jpg",
+    "releasedAt": "2016-11-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191335/original.jpg",
+    "releasedAt": "2016-11-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191336/original.png",
+    "releasedAt": "2016-12-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 11,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191337/original.png",
+    "releasedAt": "2017-01-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 12,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/191338/original.jpg",
+    "releasedAt": "2017-01-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 13,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/170443/original.png",
+    "releasedAt": "2017-01-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Zoo"
+    },
+    "season": 1,
+    "number": 14,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/170433/original.jpg",
+    "releasedAt": "2017-02-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "That Will Be All"
+    },
+    "season": 1,
+    "number": 15,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/1156/original.jpg",
+    "releasedAt": "2017-02-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The New Crystal Gems"
+    },
+    "season": 1,
+    "number": 16,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/1154/original.png",
+    "releasedAt": "2017-02-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Storm in the Room"
+    },
+    "season": 1,
+    "number": 17,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/1153/original.jpg",
+    "releasedAt": "2017-02-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rocknaldo"
+    },
+    "season": 1,
+    "number": 18,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/1152/original.jpg",
+    "releasedAt": "2017-02-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tiger Philanthropist"
+    },
+    "season": 1,
+    "number": 19,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/1151/original.jpg",
+    "releasedAt": "2017-03-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Room for Ruby"
+    },
+    "season": 1,
+    "number": 20,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/1150/original.jpg",
+    "releasedAt": "2017-03-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Lion 4: Alternate Ending"
+    },
+    "season": 1,
+    "number": 21,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/1149/original.jpg",
+    "releasedAt": "2017-05-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Doug Out"
+    },
+    "season": 1,
+    "number": 22,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/170469/original.jpg",
+    "releasedAt": "2017-05-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Good Lars"
+    },
+    "season": 1,
+    "number": 23,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5418/original.jpg",
+    "releasedAt": "2017-05-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Are You My Dad?"
+    },
+    "season": 1,
+    "number": 24,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5417/original.jpg",
+    "releasedAt": "2017-05-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I Am My Mom"
+    },
+    "season": 1,
+    "number": 25,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5416/original.jpg",
+    "releasedAt": "2017-05-11T00:00:00.000Z",
+    "content": {}
+  }
+]

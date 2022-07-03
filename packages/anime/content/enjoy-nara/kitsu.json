@@ -1,0 +1,23 @@
+{
+  "slug": "enjoy-nara",
+  "synopsis": "A short promotional video commissioned by Nara City in order to promote tourism to the region.",
+  "title": {
+    "jp": "ENJOYNARA"
+  },
+  "releasedAt": "2017-02-01T00:00:00.000Z",
+  "finishedAt": "2017-02-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43357/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=bGnBu_c3Nro"
+  ],
+  "relations": {
+    "kitsu": "43357"
+  }
+}

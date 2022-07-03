@@ -1,0 +1,24 @@
+{
+  "slug": "ji-no-nai-hagaki",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Ji no Nai Hagaki"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9352/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9352",
+    "anidb": "10117",
+    "aozora": "uEeLRZoZpm",
+    "myanimelist/anime": "23869"
+  }
+}

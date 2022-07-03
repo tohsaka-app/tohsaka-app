@@ -1,0 +1,36 @@
+{
+  "slug": "francesca-girls-be-ambitious",
+  "synopsis": "TV anime adaptation based on the undead idol character Francesca to promote Hokkaido, Japan.\n(Source: MAL News)",
+  "title": {
+    "en": "Hungry Zombie Francesca",
+    "jp": "Francesca"
+  },
+  "releasedAt": "2014-07-07T00:00:00.000Z",
+  "finishedAt": "2014-12-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8332/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "fantasy",
+    "idol",
+    "japan",
+    "music",
+    "the arts",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8332",
+    "anidb": "10496",
+    "anilist/anime": "20748",
+    "aozora": "vYFqYeXNOg",
+    "myanimelist/anime": "22955",
+    "thetvdb": "279979/1",
+    "thetvdb/series": "279979",
+    "trakt": "76833"
+  }
+}

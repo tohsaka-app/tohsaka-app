@@ -1,0 +1,24 @@
+{
+  "slug": "manga-nihonshi-nhk-han",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Manga Nihonshi (NHK Han)"
+  },
+  "releasedAt": "1992-04-06T00:00:00.000Z",
+  "finishedAt": "1993-03-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9899/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9899",
+    "anidb": "7684",
+    "aozora": "EFmzhp4xv6",
+    "myanimelist/anime": "22509"
+  }
+}

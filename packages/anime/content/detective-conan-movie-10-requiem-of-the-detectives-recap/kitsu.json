@@ -1,0 +1,27 @@
+{
+  "slug": "detective-conan-movie-10-requiem-of-the-detectives-recap",
+  "synopsis": "A promotional preview summary of the events in Detective Conan Movie 10: Requiem of the Detectives. Aired before the movie.",
+  "title": {
+    "en": "Case Closed Movie 10: Promo Special",
+    "jp": "Detective Conan Movie 10: Promo Special"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4935/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "cops",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4935",
+    "anilist/anime": "7305",
+    "aozora": "1kgbJ2xmQY",
+    "myanimelist/anime": "7305"
+  }
+}

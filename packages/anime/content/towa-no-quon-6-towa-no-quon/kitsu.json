@@ -1,0 +1,31 @@
+{
+  "slug": "towa-no-quon-6-towa-no-quon",
+  "synopsis": "The story follows a boy named Quon and others who suddenly wake up with supernatural powers.",
+  "title": {
+    "en": "Towanoquon: Eternal Quon",
+    "jp": "Towa no Quon 6: Towa no Quon"
+  },
+  "releasedAt": "2011-11-26T00:00:00.000Z",
+  "finishedAt": "2011-11-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6314/original.jpg",
+  "categories": [
+    "action",
+    "cyborg",
+    "japan",
+    "special squads",
+    "super power"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/towanoquon"
+  ],
+  "relations": {
+    "kitsu": "6314",
+    "anidb": "8184",
+    "anilist/anime": "10717",
+    "aozora": "OnUv92VYnR",
+    "myanimelist/anime": "10717"
+  }
+}

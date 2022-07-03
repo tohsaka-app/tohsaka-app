@@ -1,0 +1,29 @@
+{
+  "slug": "time-travel-shoujo-mari-waka-to-8-nin-no-kagakusha-tachi",
+  "synopsis": "Time Travel Shoujo is based on a 1983 book titled Jishaku to Denki no Hatsumei Hakken Monogatari by Japanese educator Kiyonobu Itakura. It is part of the Hatsumei Hakken Monogatari Zenshuu series which describes the story of various scientific discoveries and inventions throughout history. The 1983 book focuses on discoveries related to magnetism and electricity.",
+  "title": {
+    "en": "Time Travel Girl",
+    "jp": "Time Travel Shoujo: Mari Waka to 8-nin no Kagakusha-tachi"
+  },
+  "releasedAt": "2016-07-09T00:00:00.000Z",
+  "finishedAt": "2016-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12236/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12236/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12236",
+    "anidb": "12137",
+    "anilist/anime": "21824",
+    "aozora": "FlJAfuYg6x",
+    "myanimelist/anime": "33341",
+    "thetvdb": "313702/1"
+  }
+}

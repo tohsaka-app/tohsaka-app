@@ -1,0 +1,22 @@
+{
+  "slug": "choco-kyouju-no-oheya",
+  "synopsis": "A Meiji commissioned commercial teaching viewers the health benefits of chocolate such a alleviating high blood pressure.",
+  "title": {
+    "jp": "Choco Kyouju no Oheya"
+  },
+  "releasedAt": "2016-04-25T00:00:00.000Z",
+  "finishedAt": "2016-04-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13126/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13126",
+    "aozora": "DFv34gjYf1",
+    "myanimelist/anime": "34710"
+  }
+}

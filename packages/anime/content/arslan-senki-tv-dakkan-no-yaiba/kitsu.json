@@ -1,0 +1,28 @@
+{
+  "slug": "arslan-senki-tv-dakkan-no-yaiba",
+  "synopsis": "Arslan Senki (TV): Dakkan no Yaiba retells the events of the series' first 13 episodes, summarizing the events that transpired from Arslan's escape with Daryun, to their time in the Peshawar Citadel.",
+  "title": {
+    "en": "The Heroic Legend of Arslan",
+    "jp": "Arslan Senki (TV): Dakkan no Yaiba"
+  },
+  "releasedAt": "2015-07-05T00:00:00.000Z",
+  "finishedAt": "2015-07-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11164/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11164/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11164",
+    "aozora": "aD0kZmH6Cu",
+    "myanimelist/anime": "31128"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "detective-conan-magic-file-6-fantasista-flower",
+  "synopsis": "\"Fantasista Flower\" is a side-story OVA related to The Eleventh Striker. \n(Source: Detective Conan World) ",
+  "title": {
+    "en": "Case Closed Bonus File: Fantasista Flower",
+    "jp": "Detective Conan Bonus File: Fantasista Flower"
+  },
+  "releasedAt": "2012-04-14T00:00:00.000Z",
+  "finishedAt": "2012-04-14T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7044/original.jpg",
+  "categories": [
+    "comedy",
+    "cops",
+    "mystery",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7044",
+    "anidb": "9181",
+    "anilist/anime": "13837",
+    "aozora": "kN38jkzOUD",
+    "myanimelist/anime": "13837"
+  }
+}

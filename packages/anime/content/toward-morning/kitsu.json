@@ -1,0 +1,24 @@
+{
+  "slug": "toward-morning",
+  "synopsis": "An official music video for the song Toward Morning by the band \"in the blue shirt\".",
+  "title": {
+    "jp": "Toward Morning"
+  },
+  "releasedAt": "2015-04-25T00:00:00.000Z",
+  "finishedAt": "2015-04-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13807/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13807",
+    "anilist/anime": "103444",
+    "aozora": "P7HjHqcO1m",
+    "myanimelist/anime": "34858"
+  }
+}

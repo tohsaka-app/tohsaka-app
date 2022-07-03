@@ -1,0 +1,25 @@
+{
+  "slug": "kobutori",
+  "synopsis": "Based on the tale Kobutori-jiisan about an honest old man who  encounters a band of tengu, mythical bird-like creatures making merry and joins their dancing. They liked his dancing a lot that they remove an unsightly lump from the side of his face. ",
+  "title": {
+    "en": null,
+    "jp": "Kobutori"
+  },
+  "releasedAt": "1918-03-19T00:00:00.000Z",
+  "finishedAt": "1918-03-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8614/original.jpg",
+  "categories": [
+    "comedy",
+    "demon"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8614",
+    "anidb": "6922",
+    "aozora": "NDtT7cO83w",
+    "myanimelist/anime": "22511"
+  }
+}

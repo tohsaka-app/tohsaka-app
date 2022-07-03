@@ -1,0 +1,29 @@
+{
+  "slug": "kimetsu-no-yaiba-katanakaji-no-satohen",
+  "synopsis": "The third season of Demon Slayer: Kimetsu no Yaiba which adapts the Swordsmith Village Arc.",
+  "title": {
+    "en": "Demon Slayer: Kimetsu no Yaiba - Swordsmith Village Arc",
+    "jp": "Kimetsu no Yaiba: Katanakaji no Sato-hen"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45866/poster_image/f96c4921ebc9617fbda3bb53d986bbd6.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45866/cover_image/dbbd06b0cbb80bb5b36da9f4c1c105cc.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "drama",
+    "fantasy",
+    "historical",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45866",
+    "anilist/anime": "145139"
+  }
+}

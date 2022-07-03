@@ -1,0 +1,24 @@
+{
+  "slug": "inori-no-te",
+  "synopsis": "An educational anime about Hans Dürer.",
+  "title": {
+    "jp": "Inori no Te"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2001-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9345/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9345",
+    "aozora": "S3RnXRAVE8",
+    "myanimelist/anime": "26297"
+  }
+}

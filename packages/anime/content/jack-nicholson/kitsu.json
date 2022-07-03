@@ -1,0 +1,22 @@
+{
+  "slug": "jack-nicholson",
+  "synopsis": "Music video directed by Mitsuyuki Ishibashi for the song Jack Nicholson by Japanese rock band Bloodthirsty Butchers in their album \"birdy.\"\n\n(Source: MAL)",
+  "title": {
+    "en": "Jack Nicholson"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44178/original.png",
+  "categories": [
+    "action",
+    "drama",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44178"
+  }
+}

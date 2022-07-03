@@ -1,0 +1,45 @@
+{
+  "slug": "koutetsujou-no-kabaneri",
+  "synopsis": "The world is in the midst of the industrial revolution when horrific creatures emerge from a mysterious virus, ripping through the flesh of humans to sate their never-ending appetite. The only way to kill these beings, known as \"Kabane,\" is by destroying their steel-coated hearts. However, if bitten by one of these monsters, the victim is doomed to a fate worse than death, as the fallen rise once more to join the ranks of their fellow undead.\nOnly the most fortified of civilizations have survived this turmoil, as is the case with the island of Hinomoto, where mankind has created a massive wall to protect themselves from the endless hordes of Kabane. The only way into these giant fortresses is via heavily-armored trains, which are serviced and built by young men such as Ikoma. Having created a deadly weapon that he believes will easily pierce through the hearts of Kabane, Ikoma eagerly awaits the day when he will be able to fight using his new invention. Little does he know, however, that his chance will come much sooner than he expected...\n\n(Source: MAL)",
+  "title": {
+    "en": "Kabaneri of the Iron Fortress",
+    "jp": "Koutetsujou no Kabaneri"
+  },
+  "releasedAt": "2016-04-08T00:00:00.000Z",
+  "finishedAt": "2016-07-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10036/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10036/original.jpg",
+  "categories": [
+    "action",
+    "alternative past",
+    "asia",
+    "drama",
+    "earth",
+    "epidemic",
+    "fantasy",
+    "horror",
+    "japan",
+    "past",
+    "plot continuity",
+    "post apocalypse",
+    "steampunk",
+    "violence",
+    "zombie"
+  ],
+  "externals": [
+    "https://www.amazon.com/dp/B078TPP1ZP",
+    "https://www.crunchyroll.com/kabaneri-of-the-iron-fortress"
+  ],
+  "relations": {
+    "kitsu": "10036",
+    "anidb": "10951",
+    "anilist/anime": "21196",
+    "aozora": "vqMAQoVmax",
+    "myanimelist/anime": "28623",
+    "thetvdb": "305082/1",
+    "trakt": "104313"
+  }
+}

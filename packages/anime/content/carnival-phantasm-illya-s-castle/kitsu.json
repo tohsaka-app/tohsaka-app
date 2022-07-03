@@ -1,0 +1,25 @@
+{
+  "slug": "carnival-phantasm-illya-s-castle",
+  "synopsis": "A special feature based on a real-time run of the Fate/Hollow Ataraxia Visual Novel's mini-game, Illya's Castle. \nThe key characters' voice actor/actress' participate in live commentary for the duration of the game.",
+  "title": {
+    "jp": "Carnival Phantasm: Illya-jou"
+  },
+  "releasedAt": "2011-10-28T00:00:00.000Z",
+  "finishedAt": "2011-10-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6695/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6695/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6695",
+    "anilist/anime": "12255",
+    "aozora": "weODMOYivU",
+    "myanimelist/anime": "12255"
+  }
+}

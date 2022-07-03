@@ -1,0 +1,23 @@
+{
+  "slug": "mameushi-kun-no-koutsuu-anzen",
+  "synopsis": "An educational film about traffic safety staring Mameushi-kun.",
+  "title": {
+    "jp": "Mameushi-kun no Koutsuu Anzen"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11039/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11039",
+    "aozora": "WqmufuC84K",
+    "myanimelist/anime": "30930"
+  }
+}

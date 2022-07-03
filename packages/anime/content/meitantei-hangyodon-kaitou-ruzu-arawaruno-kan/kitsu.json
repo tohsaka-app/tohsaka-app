@@ -1,0 +1,25 @@
+{
+  "slug": "meitantei-hangyodon-kaitou-ruzu-arawaruno-kan",
+  "synopsis": "Sanrio's Hangyodon starring as a detective in the case of the mysterious thief.",
+  "title": {
+    "en": null,
+    "jp": "Meitantei Hangyodon: Kaitou Ruzu Arawaruno-kan"
+  },
+  "releasedAt": "1993-06-21T00:00:00.000Z",
+  "finishedAt": "1993-06-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9900/original.jpg",
+  "categories": [
+    "kids",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9900",
+    "anilist/anime": "19705",
+    "aozora": "KMmiORrc8T",
+    "myanimelist/anime": "19705"
+  }
+}

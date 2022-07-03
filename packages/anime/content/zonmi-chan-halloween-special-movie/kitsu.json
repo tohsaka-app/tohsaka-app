@@ -1,0 +1,25 @@
+{
+  "slug": "zonmi-chan-halloween-special-movie",
+  "synopsis": "A Halloween special starring Zonmi-chan. A soldier is being chased by several Zonmi-chan zombies. He shoots at them but is ultimately caught.",
+  "title": {
+    "jp": "Zonmi-chan: Halloween☆Special Movie!"
+  },
+  "releasedAt": "2015-10-26T00:00:00.000Z",
+  "finishedAt": "2015-10-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12077/original.jpg",
+  "categories": [
+    "comedy",
+    "horror",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12077",
+    "anilist/anime": "97956",
+    "aozora": "j43WG5TGS8",
+    "myanimelist/anime": "33042"
+  }
+}

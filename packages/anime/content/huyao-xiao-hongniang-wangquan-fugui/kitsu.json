@@ -1,0 +1,27 @@
+{
+  "slug": "huyao-xiao-hongniang-wangquan-fugui",
+  "synopsis": "Second season of Huyao Xiao Hongniang.",
+  "title": {
+    "en": "Fox Spirit Matchmaker Season 2",
+    "jp": "Huyao Xiao Hongniang: Wangquan Fugui"
+  },
+  "releasedAt": "2016-01-08T00:00:00.000Z",
+  "finishedAt": "2016-04-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12276/original.jpe",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12276/original.png",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12276",
+    "anilist/anime": "102599",
+    "aozora": "TD50YvQkFy",
+    "myanimelist/anime": "33209"
+  }
+}

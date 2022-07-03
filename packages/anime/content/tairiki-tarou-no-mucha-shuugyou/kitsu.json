@@ -1,0 +1,25 @@
+{
+  "slug": "tairiki-tarou-no-mucha-shuugyou",
+  "synopsis": "Short film from 1928 about a samurai fighting demons. ",
+  "title": {
+    "en": "Mighty Taro's Reckless Training",
+    "jp": "Tairiki Tarou no Mucha Shuugyou"
+  },
+  "releasedAt": "1928-01-01T00:00:00.000Z",
+  "finishedAt": "1928-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3621/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3621",
+    "anidb": "6700",
+    "anilist/anime": "4462",
+    "aozora": "mE2rzYQef9",
+    "myanimelist/anime": "4462"
+  }
+}

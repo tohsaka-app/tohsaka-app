@@ -1,0 +1,27 @@
+{
+  "slug": "hello-kitty-no-suteki-na-kyoudai",
+  "synopsis": "Kitty and Mimmy try to be the best sisters they can, even to the point of helping each other lie. When things backfire, they learn to appreciate themselves as much as they appreciate each other.",
+  "title": {
+    "en": "Hello Kitty in The Wonderful Sisters",
+    "jp": "Hello Kitty no Suteki na Kyoudai"
+  },
+  "releasedAt": "1993-05-21T00:00:00.000Z",
+  "finishedAt": "1993-05-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9855/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9855",
+    "anidb": "7813",
+    "anilist/anime": "18029",
+    "aozora": "TjvARhNBY8",
+    "myanimelist/anime": "18029"
+  }
+}

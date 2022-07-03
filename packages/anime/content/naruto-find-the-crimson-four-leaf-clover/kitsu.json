@@ -1,0 +1,27 @@
+{
+  "slug": "naruto-find-the-crimson-four-leaf-clover",
+  "synopsis": "The grandson of the 3rd Hokage, Konohamaru, finally has a crush on a girl, but he has a big problem she is soon to be moving away from the hidden leaf village. Konohamaru trying to make her stay seeks out the legendary crimson four-leaf clover, which is rumored to grant one wish. \n(Source: ANN)",
+  "title": {
+    "en": "Naruto: Find the Crimson Four-leaf Clover!",
+    "jp": "Naruto: Akaki Yotsuba no Clover wo Sagase"
+  },
+  "releasedAt": "2003-05-24T00:00:00.000Z",
+  "finishedAt": "2003-05-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/683/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/683/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "683",
+    "anilist/anime": "761",
+    "aozora": "srirwiu3mp",
+    "myanimelist/anime": "761"
+  }
+}

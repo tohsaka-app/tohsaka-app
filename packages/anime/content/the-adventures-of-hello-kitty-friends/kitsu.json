@@ -1,0 +1,27 @@
+{
+  "slug": "the-adventures-of-hello-kitty-friends",
+  "synopsis": "Random adventures of Hello Kitty and other Sanrio's characters.",
+  "title": {
+    "jp": "The Adventures of Hello Kitty & Friends"
+  },
+  "releasedAt": "2008-02-18T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8690/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8690",
+    "aozora": "06GWVXItzk",
+    "myanimelist/anime": "23915",
+    "thetvdb": "189891/1",
+    "thetvdb/series": "189891",
+    "trakt": "7122"
+  }
+}

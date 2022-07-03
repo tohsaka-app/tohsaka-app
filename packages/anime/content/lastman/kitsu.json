@@ -1,0 +1,27 @@
+{
+  "slug": "lastman",
+  "synopsis": "Who’s Richard Aldana? A poor bastard who’s the last man for the job. Watch him fight his way through hell in Mondo’s new series Lastman.\n\n(Source: VRV)",
+  "title": {},
+  "releasedAt": "2016-11-22T00:00:00.000Z",
+  "finishedAt": "2016-12-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13999/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13999/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "boxing",
+    "fantasy",
+    "sports",
+    "super power"
+  ],
+  "externals": [
+    "https://vrv.co/series/GY5V11XQY/Lastman"
+  ],
+  "relations": {
+    "kitsu": "13999"
+  }
+}

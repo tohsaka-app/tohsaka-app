@@ -1,0 +1,27 @@
+{
+  "slug": "shiki-specials",
+  "synopsis": "The official website of the Shiki television anime series confirmed on Saturday that the anime's eighth and ninth Blu-ray Disc/DVD volumes will each include an unaired episode. The eighth volume will ship with Episode 21 and the unaired episode \"Dai Futatō to Han wa\" (a wordplay for \"Episode 20.5\") on May 25, 2011, while the ninth volume will ship with Episode 22 and the unaired episode \"Dai Futatō-ichi to Han wa\" (\"Episode 21.5\") on June 22. \n(Source: ANN)",
+  "title": {
+    "jp": "Shiki Specials"
+  },
+  "releasedAt": "2011-05-25T00:00:00.000Z",
+  "finishedAt": "2011-06-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6027/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6027/original.jpg",
+  "categories": [
+    "fantasy",
+    "horror",
+    "mystery",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6027",
+    "anilist/anime": "10083",
+    "aozora": "FTCUz3fL4l",
+    "myanimelist/anime": "10083"
+  }
+}

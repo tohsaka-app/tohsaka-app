@@ -1,0 +1,26 @@
+{
+  "slug": "oh-yoko",
+  "synopsis": "In 1973, Japanese artist Keiichi Tanaami made an animated short based on the song written and performed by John Lennon, that can be found on his album Imagine and the greatest hits compilation Working Class Hero: The Definitive Lennon.",
+  "title": {
+    "jp": "Oh Yoko!"
+  },
+  "releasedAt": "1973-01-01T00:00:00.000Z",
+  "finishedAt": "1973-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10421/original.jpg",
+  "categories": [
+    "dementia",
+    "music",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10421",
+    "anidb": "11307",
+    "anilist/anime": "102623",
+    "aozora": "YvhjN9vvDH",
+    "myanimelist/anime": "29615"
+  }
+}

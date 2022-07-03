@@ -1,0 +1,25 @@
+{
+  "slug": "anime-koten-bungaku-kan",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Anime Koten Bungaku Kan"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9192/original.jpg",
+  "categories": [
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9192",
+    "anidb": "10168",
+    "aozora": "B9NT8uJch7",
+    "myanimelist/anime": "24859"
+  }
+}

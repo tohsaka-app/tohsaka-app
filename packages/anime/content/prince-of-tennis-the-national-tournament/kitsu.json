@@ -1,0 +1,30 @@
+{
+  "slug": "prince-of-tennis-the-national-tournament",
+  "synopsis": "Seigaku continues their road to winning the National Championship, but only the best schools remain as they'll have to go toe-to-toe with old rivals and new foes in the National Tournament. \n(Source: ANN)",
+  "title": {
+    "en": "Prince of Tennis: National Championship Chapter",
+    "jp": "Prince of Tennis: The National Tournament"
+  },
+  "releasedAt": "2006-03-24T00:00:00.000Z",
+  "finishedAt": "2007-03-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/885/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/885/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "middle school",
+    "sports",
+    "tennis"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "885",
+    "anidb": "4244",
+    "anilist/anime": "995",
+    "aozora": "B2ZsERUGZR",
+    "myanimelist/anime": "995"
+  }
+}

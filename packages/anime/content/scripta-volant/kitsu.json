@@ -1,0 +1,25 @@
+{
+  "slug": "scripta-volant",
+  "synopsis": "Graduate animation by Ryo Orikasa, based The Happy Prince by Oscar Wilde.",
+  "title": {
+    "jp": "Scripta Volant"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12785/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [
+    "https://youtu.be/l5od-8bjOqY"
+  ],
+  "relations": {
+    "kitsu": "12785",
+    "anilist/anime": "107197",
+    "aozora": "1SYz11BOXu",
+    "myanimelist/anime": "33318"
+  }
+}

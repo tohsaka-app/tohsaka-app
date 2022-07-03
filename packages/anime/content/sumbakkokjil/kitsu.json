@@ -1,0 +1,22 @@
+{
+  "slug": "sumbakkokjil",
+  "synopsis": null,
+  "title": {
+    "en": "Hide and Seek"
+  },
+  "releasedAt": "2012-01-09T00:00:00.000Z",
+  "finishedAt": "2012-01-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45634/poster_image/9d335ce669de4c960292c38abb7a12b3.jpg",
+  "categories": [
+    "horror",
+    "music",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45634"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hustle-tokitama-kun",
+  "synopsis": "Director's description: \"I want to show you a world that you have never seen.\" I think this is something that all computer graphics producers strive for. What to create?! How do you create it with computer graphics? The skill of drawing does not change that much when performed on a computer instead of paper. This work is a mixture of traditional cel-based animation, 3-D animation and 2-D computer graphics techniques, each with its own history and production standards. My theme for this production was \"The Transformation of Time and Space.\" I used ToonShader and hand drawn animation to achieve the desired effect. I think that I have succeeded in creating a world that you have never seen.\n(Source: plaza.bunka.go.jp)",
+  "title": {
+    "en": "Tokitama Hustle",
+    "jp": "Hustle!! Tokitama-kun"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5878/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5878",
+    "anidb": "8461",
+    "anilist/anime": "9801",
+    "aozora": "cgU41olOcz",
+    "myanimelist/anime": "9801"
+  }
+}

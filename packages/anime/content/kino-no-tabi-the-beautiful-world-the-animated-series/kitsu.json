@@ -1,0 +1,31 @@
+{
+  "slug": "kino-no-tabi-the-beautiful-world-the-animated-series",
+  "synopsis": "The story follows the travels of Kino, a young adventurer who rides a talking motorcycle named Hermes. They explore the people and cultures of different places throughout their adventures, spending only three days at each location.\n\n(Source: ANN)",
+  "title": {
+    "en": "Kino's Journey -the Beautiful World- the Animated Series",
+    "jp": "Kino no Tabi: The Beautiful World - The Animated Series"
+  },
+  "releasedAt": "2017-10-06T00:00:00.000Z",
+  "finishedAt": "2017-12-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13467/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13467/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/kinos-journey-the-beautiful-world-the-animated-series"
+  ],
+  "relations": {
+    "kitsu": "13467",
+    "anidb": "12959",
+    "anilist/anime": "98448",
+    "hulu": "50033225",
+    "myanimelist/anime": "35079",
+    "thetvdb": "336038/1"
+  }
+}

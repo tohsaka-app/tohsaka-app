@@ -1,0 +1,29 @@
+{
+  "slug": "yama-nezumi-rocky-chuck",
+  "synopsis": "Various stories about a group of animals that live together in a forest. The stories are adaptations from the many children's books written by Thornton W. Burgess.",
+  "title": {
+    "en": "Fables of the Green Forest",
+    "jp": "Yama Nezumi Rocky Chuck"
+  },
+  "releasedAt": "1973-01-07T00:00:00.000Z",
+  "finishedAt": "1973-12-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3712/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3712",
+    "anidb": "2309",
+    "anilist/anime": "4615",
+    "aozora": "14n8guI050",
+    "myanimelist/anime": "4615",
+    "thetvdb": "263488/1",
+    "thetvdb/series": "263488"
+  }
+}

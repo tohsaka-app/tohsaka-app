@@ -1,0 +1,25 @@
+{
+  "slug": "high-score-girl-ii",
+  "synopsis": "Second season of High Score Girl.",
+  "title": {
+    "jp": "High Score Girl II"
+  },
+  "releasedAt": "2019-10-26T00:00:00.000Z",
+  "finishedAt": "2019-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42199/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42199",
+    "anilist/anime": "108581",
+    "myanimelist/anime": "39570"
+  }
+}

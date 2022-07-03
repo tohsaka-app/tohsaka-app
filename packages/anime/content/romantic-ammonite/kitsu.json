@@ -1,0 +1,24 @@
+{
+  "slug": "romantic-ammonite",
+  "synopsis": "A collection of short animation set to a collection of music.",
+  "title": {
+    "en": "Ramantic Ammonite",
+    "jp": "Romantic Ammonite"
+  },
+  "releasedAt": "2021-05-23T00:00:00.000Z",
+  "finishedAt": "2021-05-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45203/poster_image/6d121161cbd4c1febaaf7a61041a3a55.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/PIPxjuo6A_o"
+  ],
+  "relations": {
+    "kitsu": "45203",
+    "anilist/anime": "139233"
+  }
+}

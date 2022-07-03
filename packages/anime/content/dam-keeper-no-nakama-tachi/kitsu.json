@@ -1,0 +1,23 @@
+{
+  "slug": "dam-keeper-no-nakama-tachi",
+  "synopsis": "The series will follow the fox and pig characters from the Oscar-nominated short The Dam Keeper.",
+  "title": {
+    "jp": "Pig: Oka no Ue no Dam Keeper"
+  },
+  "releasedAt": "2017-08-04T00:00:00.000Z",
+  "finishedAt": "2017-10-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12723/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12723",
+    "anilist/anime": "137493",
+    "aozora": "KiemLhJbR8",
+    "myanimelist/anime": "34346"
+  }
+}

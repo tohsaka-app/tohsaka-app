@@ -1,0 +1,27 @@
+{
+  "slug": "virtual-san-wa-miteiru",
+  "synopsis": "A TV anime featuring 30 VTubers including Mirai Akari, Siro, Nekomiya Hinata, Tsukino Mito, Tanaka Hime, and Suzuki Hina! In a creative collaboration Anno Hideaki, the six primary cast members will appear in Evangelion costumes. The theme song is composed by producer Nakata Yasutaka, sung by Kizuna Ai in the first six episodes, before being taken over for episodes seven through twelve by the main cast as the special VTuber unit dubbed \"Virtual Real\". \n\nAn original 3DCG animated project with an omnibus format designed to put the personality and charm of VTubers on full display.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Virtual-san Looking",
+    "jp": "Virtual-san wa Miteiru"
+  },
+  "releasedAt": "2019-01-10T00:00:00.000Z",
+  "finishedAt": "2019-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42042/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "comedy",
+    "music"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/virtualsan-looking"
+  ],
+  "relations": {
+    "kitsu": "42042",
+    "anilist/anime": "106433",
+    "myanimelist/anime": "38851"
+  }
+}

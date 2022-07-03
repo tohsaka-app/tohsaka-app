@@ -1,0 +1,25 @@
+{
+  "slug": "squid-girl-specials",
+  "synopsis": "\"Mini Ika-Musume\" side-story episodes.",
+  "title": {
+    "en": "Squid Girl Specials",
+    "jp": "Shinryaku! Ika Musume Specials"
+  },
+  "releasedAt": "2011-05-03T00:00:00.000Z",
+  "finishedAt": "2011-05-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5925/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5925/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5925",
+    "anilist/anime": "9888",
+    "aozora": "4rA2NI0bbN",
+    "myanimelist/anime": "9888"
+  }
+}

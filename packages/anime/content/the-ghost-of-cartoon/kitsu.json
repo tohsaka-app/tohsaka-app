@@ -1,0 +1,23 @@
+{
+  "slug": "the-ghost-of-cartoon",
+  "synopsis": "Space Shower TV Station ID directed by Ryuu Ookubo, with music by Mndsgn.",
+  "title": {
+    "jp": "The Ghost of Cartoon"
+  },
+  "releasedAt": "2015-09-24T00:00:00.000Z",
+  "finishedAt": "2015-09-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42692/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42692",
+    "anilist/anime": "140033",
+    "myanimelist/anime": "40159"
+  }
+}

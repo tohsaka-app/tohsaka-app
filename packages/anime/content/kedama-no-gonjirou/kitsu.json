@@ -1,0 +1,28 @@
+{
+  "slug": "kedama-no-gonjirou",
+  "synopsis": "Makoto, a young boy who befriends an enthusiastic, living ball of yarn named Gonjiro. Thanks to the properties of his wooly body, Gonjiro has the ability to \"fit\" and \"transform\", and he uses his powers to resolve all sorts of incidents. The series is described as \"an unprecedented hairball comedy that will wind its way around your heart\". \n\n(Source: AniList)",
+  "title": {
+    "jp": "Kedama no Gonjirou"
+  },
+  "releasedAt": "2019-04-06T00:00:00.000Z",
+  "finishedAt": "2020-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42405/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42405",
+    "anilist/anime": "108734",
+    "anilist/manga": "108736",
+    "myanimelist/anime": "39040",
+    "myanimelist/manga": "117634"
+  }
+}

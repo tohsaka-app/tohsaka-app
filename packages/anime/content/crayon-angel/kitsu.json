@@ -1,0 +1,23 @@
+{
+  "slug": "crayon-angel",
+  "synopsis": "Short animation by Keiichi Tanaami.",
+  "title": {
+    "jp": "Crayon Angel"
+  },
+  "releasedAt": "1975-01-01T00:00:00.000Z",
+  "finishedAt": "1975-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10462/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10462",
+    "anilist/anime": "102439",
+    "aozora": "W7uEnVbEBl",
+    "myanimelist/anime": "29984"
+  }
+}

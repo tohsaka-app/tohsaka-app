@@ -1,0 +1,30 @@
+{
+  "slug": "gundam-neo-experience-0087-green-divers",
+  "synopsis": "During the closing days of the Gryps conflict of Mobile Suit Zeta Gundam, two siblings—Asagi and Takuya—ride aboard a civilian transport bound for Earth. Caught in a battle between the Titans and AEUG, they must somehow guide their ship through atmospheric entry. Luckily, they're not completely alone, as they find aid from a custom-painted Zeta Gundam, whose pilot sounds a lot like One Year War ace Amuro Ray.\n(Source: ANN)",
+  "title": {
+    "en": "Gundam Neo Experience 0087: Green Divers",
+    "jp": "Gundam Neo Experience 0087: Green Divers"
+  },
+  "releasedAt": "2001-08-10T00:00:00.000Z",
+  "finishedAt": "2001-08-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5505/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "future",
+    "mecha",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5505",
+    "anidb": "2440",
+    "anilist/anime": "8839",
+    "aozora": "QJsuwlJbEr",
+    "myanimelist/anime": "8839"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "Caligula-Music",
+  "synopsis": "Music video for CALiGULA by GREAT3. Single from 1998.\n\nGuest vocals by CHARA.",
+  "title": {
+    "jp": "Caligula (Music)"
+  },
+  "releasedAt": "2012-05-27T00:00:00.000Z",
+  "finishedAt": "2012-05-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42845/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42845",
+    "myanimelist/anime": "37733"
+  }
+}

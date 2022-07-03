@@ -1,0 +1,29 @@
+{
+  "slug": "aquarion-movie-ippatsu-gyakuten-hen",
+  "synopsis": "This movie is an alternative version of the TV series; it is composed of the two 2007 OVAs, edited to improve the pacing of the plot, and an extra segment akin to a TV episode where the cast are given the task of studying flowers.\nThe plot has several differences to the TV series.",
+  "title": {
+    "jp": "Aquarion Movie: Ippatsu Gyakuten-hen"
+  },
+  "releasedAt": "2007-09-22T00:00:00.000Z",
+  "finishedAt": "2007-09-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4393/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "mecha",
+    "piloted robot",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4393",
+    "anidb": "5390",
+    "anilist/anime": "6032",
+    "aozora": "1ImYPzkxMl",
+    "myanimelist/anime": "6032"
+  }
+}

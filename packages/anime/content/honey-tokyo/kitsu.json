@@ -1,0 +1,29 @@
+{
+  "slug": "honey-tokyo",
+  "synopsis": "Small short to advertise the Tokyo Metropolitan area.",
+  "title": {
+    "en": "Honey Tokyo",
+    "jp": "Honey Tokyo"
+  },
+  "releasedAt": "2010-04-01T00:00:00.000Z",
+  "finishedAt": "2010-04-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5375/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "japan",
+    "science fiction",
+    "tokyo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5375",
+    "anidb": "7911",
+    "anilist/anime": "8526",
+    "aozora": "3kCersWEcY",
+    "myanimelist/anime": "8526"
+  }
+}

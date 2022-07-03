@@ -1,0 +1,26 @@
+{
+  "slug": "the-man-next-door",
+  "synopsis": "For the man living next door, a quiet and restful sleep seems to be an elusive wish.\nExperimental short animation from 1965 from pioneer Yoji Kuri.",
+  "title": {
+    "en": "The Man Next Door",
+    "jp": "Tonari no Yarou"
+  },
+  "releasedAt": "1965-01-01T00:00:00.000Z",
+  "finishedAt": "1965-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4842/original.jpg",
+  "categories": [
+    "comedy",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4842",
+    "anidb": "8582",
+    "anilist/anime": "7029",
+    "aozora": "dqZWwpm1E7",
+    "myanimelist/anime": "7029"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "kuroi-ame-ni-utarete",
+  "synopsis": "Anime adaptation of the manga Kuroi Ame ni Utarete by Nakazawa Keiji.",
+  "title": {
+    "jp": "Kuroi Ame ni Utarete"
+  },
+  "releasedAt": "1984-08-12T00:00:00.000Z",
+  "finishedAt": "1984-08-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7805/original.png",
+  "categories": [
+    "asia",
+    "disaster",
+    "drama",
+    "earth",
+    "historical",
+    "japan",
+    "plot continuity",
+    "present",
+    "slice of life",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7805",
+    "anidb": "4132",
+    "anilist/anime": "19135",
+    "aozora": "cGV3bwFPBk",
+    "myanimelist/anime": "19135"
+  }
+}

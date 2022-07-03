@@ -1,0 +1,25 @@
+{
+  "slug": "yuujou-no-kickoff",
+  "synopsis": "Makoto was a great soccer player in his elementary school team. When he moves to another school he is bullied. Through football he is able to turn their actions around.\n",
+  "title": {
+    "en": null,
+    "jp": "Yuujou no Kickoff"
+  },
+  "releasedAt": "1994-01-01T00:00:00.000Z",
+  "finishedAt": "1994-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11082/original.jpg",
+  "categories": [
+    "drama",
+    "kids",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11082",
+    "aozora": "tJzkc5UFRA",
+    "myanimelist/anime": "30998"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "Marumaru-Manul",
+  "synopsis": "The comedy story follows the daily life of a somewhat flippant Pallas's cat or manul named Manul-kun, an orange tabby cat named Chatora-kun, Sukofu-kun, and other cats. \n\n(Source: ANN)",
+  "title": {
+    "jp": "Marumaru Manul"
+  },
+  "releasedAt": "2020-01-05T00:00:00.000Z",
+  "finishedAt": "2020-12-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42912/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42912",
+    "anilist/anime": "114657",
+    "myanimelist/anime": "40939"
+  }
+}

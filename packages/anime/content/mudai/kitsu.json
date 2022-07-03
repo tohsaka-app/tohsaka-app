@@ -1,0 +1,27 @@
+{
+  "slug": "mudai",
+  "synopsis": "The struggles of an artist attempting to balance self-expression and the need for recognition.",
+  "title": {
+    "jp": "Mudai"
+  },
+  "releasedAt": "2015-05-07T00:00:00.000Z",
+  "finishedAt": "2015-05-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10912/original.jpg",
+  "categories": [
+    "music",
+    "romance",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10912",
+    "anidb": "11248",
+    "anilist/anime": "102063",
+    "aozora": "OzuYUOq0JH",
+    "myanimelist/anime": "30771"
+  }
+}

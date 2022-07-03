@@ -1,0 +1,26 @@
+{
+  "slug": "omakase-scrappers",
+  "synopsis": "Adventures of the Scrappers Rescue Team.",
+  "title": {
+    "jp": "Omakase Scrappers"
+  },
+  "releasedAt": "1994-04-07T00:00:00.000Z",
+  "finishedAt": "1995-01-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9511/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9511",
+    "anidb": "4063",
+    "anilist/anime": "17624",
+    "aozora": "ZvhIA3bbIt",
+    "myanimelist/anime": "17624"
+  }
+}

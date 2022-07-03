@@ -1,0 +1,35 @@
+{
+  "slug": "one-piece-strong-world-episode-0",
+  "synopsis": "Set over 20 years prior to the main One Piece story, this limited release OVA chronicles the confrontation between Gold Lion Shiki and Gold Roger as well as other events around the world around the time of the Pirate King's execution. ",
+  "title": {
+    "jp": "One Piece Film: Strong World Episode 0"
+  },
+  "releasedAt": "2010-04-01T00:00:00.000Z",
+  "finishedAt": "2010-04-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5469/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5469/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "crime",
+    "fantasy",
+    "friendship",
+    "navy",
+    "past",
+    "pirate",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5469",
+    "anidb": "7538",
+    "anilist/anime": "8740",
+    "aozora": "Ol8Wqcl0kH",
+    "myanimelist/anime": "8740"
+  }
+}

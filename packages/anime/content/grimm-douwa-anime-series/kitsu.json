@@ -1,0 +1,20 @@
+{
+  "slug": "grimm-douwa-anime-series",
+  "synopsis": "This OVA tells three Brothers Grimm fairy tales: <i>The Hut in the Forest</i>, <i>Little Red Riding Hood</i>, and <i>Snow-White and Rose-Red</i>.",
+  "title": {
+    "jp": "Grimm Douwa Anime Series"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40686/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40686",
+    "aozora": "4yHMUjCksn",
+    "myanimelist/anime": "35084"
+  }
+}

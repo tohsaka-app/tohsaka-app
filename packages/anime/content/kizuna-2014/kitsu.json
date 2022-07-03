@@ -1,0 +1,27 @@
+{
+  "slug": "kizuna-2014",
+  "synopsis": "A story passed on is a living memorial.\nIn eternal remembrance of March 11, 2011.\n\n(Source: Official Website)",
+  "title": {
+    "jp": "Kizuna (2014)"
+  },
+  "releasedAt": "2014-03-03T00:00:00.000Z",
+  "finishedAt": "2014-03-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45466/poster_image/e78d47e8fcfd4671a1573777699abec3.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "music",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=2j0wabUi6P0"
+  ],
+  "relations": {
+    "kitsu": "45466",
+    "anilist/anime": "140111",
+    "myanimelist/anime": "41945"
+  }
+}

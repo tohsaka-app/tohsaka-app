@@ -1,0 +1,25 @@
+{
+  "slug": "panda-no-taputapu",
+  "synopsis": "A short anime featuring the zodiac animals with a panda named Taputapu as the main character. Each episode is focuses on having a proverb, moral, or uplifting value.",
+  "title": {
+    "en": "",
+    "jp": "Panda no Taputapu"
+  },
+  "releasedAt": "2012-04-02T00:00:00.000Z",
+  "finishedAt": "2013-11-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6972/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6972",
+    "anidb": "9084",
+    "anilist/anime": "13463",
+    "aozora": "ycTm5uy0LA",
+    "myanimelist/anime": "13463"
+  }
+}

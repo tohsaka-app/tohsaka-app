@@ -1,0 +1,24 @@
+{
+  "slug": "ai-mai-mi-mousou-catastrophe-special",
+  "synopsis": "Unaired episode inluded with the Blu-ray/DVD release.",
+  "title": {
+    "jp": "Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe Special"
+  },
+  "releasedAt": "2014-10-10T00:00:00.000Z",
+  "finishedAt": "2014-10-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8786/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8786",
+    "anilist/anime": "21125",
+    "aozora": "UUaxL1dDke",
+    "myanimelist/anime": "25439"
+  }
+}

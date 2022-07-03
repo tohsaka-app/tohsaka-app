@@ -1,0 +1,30 @@
+{
+  "slug": "inu-to-neko-docchi-mo-katteru-to-mainichi-tanoshii",
+  "synopsis": "A hard-working way-too-cute dog and a scary-faced but lovable cat. Living with them makes every day fun. Their owner's days are filled with laughter and sentiment. Are you a cat-lover? A dog-lover? Or both? This anime is a present for the people out there who love both dogs and cats so much they can't choose.(Source: Crunchyroll)",
+  "title": {
+    "en": "With a Dog and a Cat, Every Day is Fun",
+    "jp": "Inu to Neko Docchi mo Katteru to Mainichi Tanoshii"
+  },
+  "releasedAt": "2020-10-03T00:00:00.000Z",
+  "finishedAt": "2021-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43550/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43550/original.png",
+  "categories": [
+    "comedy",
+    "family",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/with-a-dog-and-a-cat-every-day-is-fun"
+  ],
+  "relations": {
+    "kitsu": "43550",
+    "anidb": "15297",
+    "anilist/anime": "116700",
+    "animenewsnetwork": "23504",
+    "myanimelist/anime": "40833"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "konna-watashitachi-ga-nariyuki-de-heroine-ni-natta-kekka-www-tv",
+  "synopsis": "TV series of Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www",
+  "title": {
+    "jp": "Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www (TV)"
+  },
+  "releasedAt": "2014-10-07T00:00:00.000Z",
+  "finishedAt": "2014-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9144/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9144",
+    "anidb": "10831",
+    "anilist/anime": "20885",
+    "aozora": "0FNcTA6KN9",
+    "myanimelist/anime": "27519"
+  }
+}

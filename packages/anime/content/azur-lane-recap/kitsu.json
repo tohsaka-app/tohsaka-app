@@ -1,0 +1,28 @@
+{
+  "slug": "azur-lane-recap",
+  "synopsis": "Recap of the first six episodes of Azur Lane narrated by Mikasa.",
+  "title": {
+    "jp": "Azur Lane Recap"
+  },
+  "releasedAt": "2019-11-14T00:00:00.000Z",
+  "finishedAt": "2019-11-14T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42734/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42734/original.jpg",
+  "categories": [
+    "action",
+    "disaster",
+    "historical",
+    "military",
+    "science fiction",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42734",
+    "anidb": "14396",
+    "myanimelist/anime": "40712"
+  }
+}

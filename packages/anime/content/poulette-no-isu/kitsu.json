@@ -1,0 +1,35 @@
+{
+  "slug": "poulette-no-isu",
+  "synopsis": "noitaminA's 10th anniversary commemoration short special.",
+  "title": {
+    "en": "Paulette's Chair",
+    "jp": "Paulette no Isu"
+  },
+  "releasedAt": "2014-03-21T00:00:00.000Z",
+  "finishedAt": "2014-03-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8412/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8412/original.png",
+  "categories": [
+    "anthropomorphism",
+    "asia",
+    "comedy",
+    "countryside",
+    "earth",
+    "friendship",
+    "japan",
+    "kids",
+    "plot continuity",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8412",
+    "anidb": "10541",
+    "anilist/anime": "20674",
+    "aozora": "9wycJ7fowf",
+    "myanimelist/anime": "23285"
+  }
+}

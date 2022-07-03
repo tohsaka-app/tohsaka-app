@@ -1,0 +1,24 @@
+{
+  "slug": "holy-shit",
+  "synopsis": "One elephant lives in a mountain. He spends his life drawing pictures and fishing. Pigs with swollen crotches live in the city. The city is full of towers. One day a tower is built near the elephant's cabin, the elephant starts to climb it.\n\nGraduate Work 2015 by Takashi Shibuya, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Holy Shit!",
+    "jp": "Holy Shit!"
+  },
+  "releasedAt": "2015-03-07T00:00:00.000Z",
+  "finishedAt": "2015-03-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44995/original.png",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [
+    "https://youtu.be/4u3oXp_VbcU"
+  ],
+  "relations": {
+    "kitsu": "44995",
+    "anilist/anime": "104164"
+  }
+}

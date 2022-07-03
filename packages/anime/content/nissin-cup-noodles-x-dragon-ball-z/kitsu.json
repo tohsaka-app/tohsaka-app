@@ -1,0 +1,20 @@
+{
+  "slug": "nissin-cup-noodles-x-dragon-ball-z",
+  "synopsis": "A collaboration between Dragon Ball Z and Cup Noodles.",
+  "title": {
+    "jp": "Nissin Cup Noodles x Dragon Ball Z"
+  },
+  "releasedAt": "2015-05-25T00:00:00.000Z",
+  "finishedAt": "2015-05-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42749/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42749"
+  }
+}

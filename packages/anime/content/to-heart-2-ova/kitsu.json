@@ -1,0 +1,36 @@
+{
+  "slug": "to-heart-2-ova",
+  "synopsis": "A collection of stories involving the girls of To Heart 2, with each episode focusing on a different character.\n(Source: ANN)",
+  "title": {
+    "jp": "To Heart 2 OVA"
+  },
+  "releasedAt": "2007-02-28T00:00:00.000Z",
+  "finishedAt": "2007-09-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1541/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1541/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "harem",
+    "high school",
+    "japan",
+    "maid",
+    "present",
+    "romance",
+    "school life",
+    "slapstick",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1541",
+    "anidb": "4806",
+    "anilist/anime": "1720",
+    "aozora": "OSd5DttuvR",
+    "myanimelist/anime": "1720"
+  }
+}

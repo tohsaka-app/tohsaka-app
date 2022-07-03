@@ -1,0 +1,23 @@
+{
+  "slug": "eiga-ensetsu-seiji-no-rinrika-gotou-shinpei-1926",
+  "synopsis": "A series of animations and quotes depicting the political ideologies of Shinpei Goto, a cabinet member in the Taisho period.\n",
+  "title": {
+    "en": "Film Address \"Ethicization of Politics\" by Shinpei Goto, 1926",
+    "jp": "Eiga Ensetsu \"Seiji no Rinrika\" Gotou Shinpei 1926"
+  },
+  "releasedAt": "1926-01-01T00:00:00.000Z",
+  "finishedAt": "1926-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41202/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41202",
+    "anilist/anime": "104623",
+    "myanimelist/anime": "35366"
+  }
+}

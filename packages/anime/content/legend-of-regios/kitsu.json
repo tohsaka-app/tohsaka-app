@@ -1,0 +1,24 @@
+{
+  "slug": "legend-of-regios",
+  "synopsis": "Legend of Regios was originally the English speaking cut-scenes on TV, that the characters in the Chrome Shelled Regios series were watching.\nThis special (which has been included with the DVD release of Chrome Shelled Regios) has reorganized the scenes, extended some, and has been re-dubbed completely in Japanese.  It's a side story within the Chrome Shelled Regios series.",
+  "title": {
+    "en": "Legend of Regios",
+    "jp": "Legend of Regios"
+  },
+  "releasedAt": "2009-03-27T00:00:00.000Z",
+  "finishedAt": "2009-05-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4533/original.jpg",
+  "categories": [
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4533",
+    "anilist/anime": "6368",
+    "aozora": "t57C3yuH1H",
+    "myanimelist/anime": "6368"
+  }
+}

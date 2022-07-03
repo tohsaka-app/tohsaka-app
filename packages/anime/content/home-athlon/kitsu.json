@@ -1,0 +1,22 @@
+{
+  "slug": "home-athlon",
+  "synopsis": "Athletes race to complete random tasks or challenges in an unsuspecting family's house.",
+  "title": {
+    "jp": "Home Athlon"
+  },
+  "releasedAt": "2012-02-22T00:00:00.000Z",
+  "finishedAt": "2012-02-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12902/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12902",
+    "aozora": "i9CHuKzySP",
+    "myanimelist/anime": "34596"
+  }
+}

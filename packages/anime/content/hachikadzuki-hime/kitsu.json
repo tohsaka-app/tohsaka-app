@@ -1,0 +1,25 @@
+{
+  "slug": "hachikadzuki-hime",
+  "synopsis": "An anime adaptation of the Hachikadzuki-hime Japanese folk tale.",
+  "title": {
+    "jp": "Hachikadzuki-hime"
+  },
+  "releasedAt": "1996-01-01T00:00:00.000Z",
+  "finishedAt": "1996-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11069/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11069",
+    "aozora": "FFZWR8xNq4",
+    "myanimelist/anime": "30979"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "daisougen-to-hakuba",
+  "synopsis": "Bataar, a young Mongolian boy, wishes to cure his father's leg that was injured during a war with a neighboring tribe. One day, a white horse suddenly appears before him and Bataar starts a magical journey through time to rewrite history and to prevent the war from ever happening!",
+  "title": {
+    "en": "The Prince and the White Horse",
+    "jp": "Daisougen to Hakuba"
+  },
+  "releasedAt": "2000-07-01T00:00:00.000Z",
+  "finishedAt": "2000-07-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9242/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "historical",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9242",
+    "anidb": "9057",
+    "anilist/anime": "115140",
+    "aozora": "JaQOMafEa4",
+    "myanimelist/anime": "22329"
+  }
+}

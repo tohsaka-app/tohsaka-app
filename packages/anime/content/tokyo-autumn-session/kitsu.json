@@ -1,0 +1,29 @@
+{
+  "slug": "tokyo-autumn-session",
+  "synopsis": "",
+  "title": {
+    "en": "Tokyo Autumn Session",
+    "jp": "Tokyo Autumn Session"
+  },
+  "releasedAt": "2020-01-24T00:00:00.000Z",
+  "finishedAt": "2020-01-24T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/42988/poster_image/ad7e72c5856882467649116f387ba1cd.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/42988/cover_image/985920b5975d8fcc49ec985b8f745585.jpg",
+  "categories": [
+    "music",
+    "romance",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=asZ0SVwCec4"
+  ],
+  "relations": {
+    "kitsu": "42988",
+    "anilist/anime": "117913",
+    "myanimelist/anime": "41132"
+  }
+}

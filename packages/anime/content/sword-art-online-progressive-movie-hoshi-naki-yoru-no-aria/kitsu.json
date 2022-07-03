@@ -1,0 +1,27 @@
+{
+  "slug": "sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria",
+  "synopsis": "Sword Art Online: Progressive is based on the rewrite of the original Sword Art Online Aincrad arc",
+  "title": {
+    "en": "Sword Art Online the Movie -Progressive- Aria of the Starless Night",
+    "jp": "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria"
+  },
+  "releasedAt": "2021-10-30T00:00:00.000Z",
+  "finishedAt": "2021-10-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43546/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "romance",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43546",
+    "anilist/anime": "124140",
+    "myanimelist/anime": "42916"
+  }
+}

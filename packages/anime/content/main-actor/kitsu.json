@@ -1,0 +1,25 @@
+{
+  "slug": "main-actor",
+  "synopsis": "Music video for the song main actor by Minami.",
+  "title": {
+    "en": "main actor",
+    "jp": "Main Actor"
+  },
+  "releasedAt": "2018-02-21T00:00:00.000Z",
+  "finishedAt": "2018-02-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42318/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/jb4ybTQwcdw"
+  ],
+  "relations": {
+    "kitsu": "42318",
+    "anilist/anime": "107873",
+    "myanimelist/anime": "39511"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "final-fantasy-vii-advent-children-complete",
+  "synopsis": "AC: Complete contains a considerable amount of new footage that the original version lacks, as well as roughly a thousand revised scenes. This adds a total of 26 minutes to the film.\nSome of the new scenes include a more in-depth look at the Geostigma, Denzel and Kadaj's origins, as well as an extended fight between Cloud and Sephiroth.\nThe Japanese release of this edition features a new ending track from Kyosuke Himuro called \"Safe and Sound\", with additional lyrics from My Chemical Romance frontman Gerard Way. The track replaces Himuro's previous track \"Calling\" from the original cut of the film. However, in the North American release, the song \"Calling\" remains, and \"Safe and Sound\" is absent. \n(Source: Wikipedia)",
+  "title": {
+    "jp": "Final Fantasy VII: Advent Children Complete"
+  },
+  "releasedAt": "2009-04-16T00:00:00.000Z",
+  "finishedAt": "2009-04-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2672/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2672/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2672",
+    "anilist/anime": "2952",
+    "aozora": "txLTw7TzWb",
+    "myanimelist/anime": "2952"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "ongaku-sekai-ryokou",
+  "synopsis": "Stop-motion animation using clay and puppets follows a musician and hit cat traveling the world and learning about music in different cultures while spreading their own songs.",
+  "title": {
+    "jp": "Ongaku Sekai Ryokou"
+  },
+  "releasedAt": "2011-05-07T00:00:00.000Z",
+  "finishedAt": "2014-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10480/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10480",
+    "aozora": "6mcmlRHVIX",
+    "myanimelist/anime": "29435"
+  }
+}

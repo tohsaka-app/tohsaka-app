@@ -1,0 +1,28 @@
+{
+  "slug": "mobile-suit-sd-gundam-mk-v",
+  "synopsis": "The Warring-States-Era SD Gundams are back to dispel evil spirits and an evil plot taking place in the ruins of Jaburo City.\n(Source: ANN)",
+  "title": {
+    "jp": "Mobile Suit SD Gundam Mk V"
+  },
+  "releasedAt": "1990-10-25T00:00:00.000Z",
+  "finishedAt": "1990-10-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4716/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha",
+    "parody",
+    "science fiction",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4716",
+    "anidb": "3341",
+    "anilist/anime": "6792",
+    "aozora": "lwColDacAO",
+    "myanimelist/anime": "6792"
+  }
+}

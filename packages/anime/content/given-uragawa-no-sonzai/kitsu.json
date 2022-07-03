@@ -1,0 +1,29 @@
+{
+  "slug": "given-uragawa-no-sonzai",
+  "synopsis": "OVA bundled with the Given manga's seventh volume, as a limited edition bonus.",
+  "title": {
+    "en": "Given OVA",
+    "jp": "Given: Uragawa no Sonzai"
+  },
+  "releasedAt": "2021-12-01T00:00:00.000Z",
+  "finishedAt": "2021-12-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44622/original.jpg",
+  "categories": [
+    "drama",
+    "music",
+    "romance",
+    "shounen ai",
+    "slice of life"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GRG5WWD4R/given"
+  ],
+  "relations": {
+    "kitsu": "44622",
+    "anilist/anime": "134710",
+    "myanimelist/anime": "49053"
+  }
+}

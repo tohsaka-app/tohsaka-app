@@ -1,0 +1,27 @@
+{
+  "slug": "doraemon-nobita-s-space-hero-record-of-space-heroes",
+  "synopsis": "Remake of the 1982 film, Doraemon: Nobita's Great Demon\n\n(Source: Wikipedia)",
+  "title": {
+    "en": null,
+    "jp": "Doraemon Movie 35: Nobita no Space Heroes"
+  },
+  "releasedAt": "2015-03-07T00:00:00.000Z",
+  "finishedAt": "2015-03-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8900/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8900",
+    "anidb": "10737",
+    "anilist/anime": "100291",
+    "aozora": "mfIwTj1aNv",
+    "myanimelist/anime": "25383"
+  }
+}

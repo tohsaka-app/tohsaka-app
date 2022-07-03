@@ -1,0 +1,21 @@
+{
+  "slug": "chibikko-cowboy",
+  "synopsis": "A little boy has fun being a cowboy out in the Wild West.",
+  "title": {
+    "jp": "Chibikko Cowboy"
+  },
+  "releasedAt": "1966-08-01T00:00:00.000Z",
+  "finishedAt": "1966-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40909/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40909",
+    "anilist/anime": "119787",
+    "aozora": "cTsBB8r04O",
+    "myanimelist/anime": "36357"
+  }
+}

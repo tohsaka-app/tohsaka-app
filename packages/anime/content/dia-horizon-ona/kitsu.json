@@ -1,0 +1,24 @@
+{
+  "slug": "dia-horizon-ona",
+  "synopsis": "The web anime of Dia Horizon; characters are featured as chibis as they break the 4th wall to talk about their own real-life mobile game (which is being released this month). As well as promoting the full length TV anime coming out in a October 2017 as well as the 4-koma manga available now.",
+  "title": {
+    "jp": "Dia Horizon"
+  },
+  "releasedAt": "2017-08-09T00:00:00.000Z",
+  "finishedAt": "2017-08-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13897/original.jpg",
+  "categories": [
+    "breaking the fourth wall",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13897",
+    "anidb": "13327",
+    "myanimelist/anime": "36018"
+  }
+}

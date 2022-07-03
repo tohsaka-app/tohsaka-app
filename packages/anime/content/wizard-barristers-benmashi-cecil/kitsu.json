@@ -1,0 +1,45 @@
+{
+  "slug": "wizard-barristers-benmashi-cecil",
+  "synopsis": "The story takes place in Tokyo in 2018, where normal humans and those who can use magic coexist. As a result, there are laws against using magic, and a \"magic courtroom\" exists to preside over lawsuits regarding magic use. In these cases, \"Benmashi\" or wizard barristers defend those who use magic. The anime follows Cecil, the youngest Benmashi in history, and her associates as they defend clients in these cases.\n(Source: ANN)",
+  "title": {
+    "en": "Wizard Barristers",
+    "jp": "Wizard Barristers: Benmashi Cecil"
+  },
+  "releasedAt": "2014-01-13T00:00:00.000Z",
+  "finishedAt": "2014-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7898/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7898/original.jpeg",
+  "categories": [
+    "action",
+    "asia",
+    "conspiracy",
+    "contemporary fantasy",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "japan",
+    "law and order",
+    "magic",
+    "tokyo",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/wizard-barristers",
+    "http://www.hulu.com/wizard-barristers",
+    "https://www.hidive.com/tv/wizard-barristers"
+  ],
+  "relations": {
+    "kitsu": "7898",
+    "anidb": "10024",
+    "anilist/anime": "20053",
+    "aozora": "d5jIzYUlHg",
+    "hulu": "50014964",
+    "myanimelist/anime": "20053",
+    "thetvdb": "275629/1",
+    "thetvdb/series": "275629",
+    "trakt": "74209"
+  }
+}

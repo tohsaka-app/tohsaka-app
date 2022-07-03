@@ -1,0 +1,24 @@
+{
+  "slug": "hyoutan-suzume",
+  "synopsis": "One of the famous Asian animated films from the late 1950s.",
+  "title": {
+    "jp": "Hyoutan Suzume"
+  },
+  "releasedAt": "1959-02-10T00:00:00.000Z",
+  "finishedAt": "1959-02-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7357/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7357",
+    "anidb": "4933",
+    "anilist/anime": "16007",
+    "aozora": "3xelgHJMD9",
+    "myanimelist/anime": "16007"
+  }
+}

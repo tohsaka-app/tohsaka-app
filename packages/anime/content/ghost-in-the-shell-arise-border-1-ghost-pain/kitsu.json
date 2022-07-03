@@ -1,0 +1,43 @@
+{
+  "slug": "ghost-in-the-shell-arise-border-1-ghost-pain",
+  "synopsis": "The anime's story is set in 2027, one year after the end of the fourth non-nuclear war. New Port City is still reeling from the war's aftermath when it suffers a bombing caused by a self-propelled mine. Then, a military member implicated in arms-dealing bribes is gunned down.\nDuring the investigation, Public Security Section's Daisuke Aramaki encounters Motoko Kusanagi, the cyborg wizard-level hacker assigned to the military's 501st Secret Unit. Batou, a man with the \"eye that does not sleep,\" suspects that Kusanagi is the one behind the bombing. The Niihama Prefectural Police detective Togusa is pursuing his own dual cases of the shooting death and a prostitute's murder. Motoko herself is being watched by the 501st Secret Unit's head Kurutsu and cyborg agents.\n(Source: ANN)",
+  "title": {
+    "en": "Ghost in the Shell: Arise - Border 1: Ghost Pain",
+    "jp": "Ghost in the Shell: Arise - Border:1 Ghost Pain"
+  },
+  "releasedAt": "2013-06-22T00:00:00.000Z",
+  "finishedAt": "2013-06-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7602/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7602/original.png",
+  "categories": [
+    "action",
+    "asia",
+    "cops",
+    "cyberpunk",
+    "cyborg",
+    "earth",
+    "future",
+    "gunfights",
+    "human enhancement",
+    "japan",
+    "law and order",
+    "mecha",
+    "psychological",
+    "science fiction",
+    "special squads"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/19605",
+    "https://www.netflix.com/title/80002073"
+  ],
+  "relations": {
+    "kitsu": "7602",
+    "anidb": "9658",
+    "anilist/anime": "17187",
+    "aozora": "k19PBFFgdU",
+    "myanimelist/anime": "17187"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "mormorando",
+  "synopsis": "Short animation by Komazaki Tomomi.",
+  "title": {
+    "jp": "Mormorando"
+  },
+  "releasedAt": "2014-09-16T00:00:00.000Z",
+  "finishedAt": "2014-09-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11678/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "11678",
+    "anidb": "11716",
+    "anilist/anime": "102770",
+    "aozora": "6XKQ3akjrc",
+    "myanimelist/anime": "31834"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "boruto-naruto-next-generations",
+  "synopsis": "Naruto was a young shinobi with an incorrigible knack for mischief. He achieved his dream to become the greatest ninja in the village and his face sits atop the Hokage monument. But this is not his story... A new generation of ninja are ready to take the stage, led by Naruto's own son, Boruto!\n\n(Source: VIZ Media)",
+  "title": {
+    "jp": "Boruto: Naruto Next Generations"
+  },
+  "releasedAt": "2017-04-05T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/13051/poster_image/9b655bd837a2ef36bfbe12d9f466113d.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/13051/cover_image/fbc2a96681124b54663b34d414b748c8.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "martial arts",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/boruto-naruto-next-generations",
+    "https://www.hulu.com/boruto-naruto-next-generations",
+    "vrv.co/series/GR75Q020Y/BORUTO-NARUTO-NEXT-GENERATIONS"
+  ],
+  "relations": {
+    "kitsu": "13051",
+    "anidb": "12661",
+    "anilist/anime": "97938",
+    "aozora": "XCYBzJ4y7V",
+    "hulu": "50028379",
+    "myanimelist/anime": "34566",
+    "thetvdb": "321285/1",
+    "trakt": "113946"
+  }
+}

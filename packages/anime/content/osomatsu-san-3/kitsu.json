@@ -1,0 +1,26 @@
+{
+  "slug": "osomatsu-san-3",
+  "synopsis": "Season 3 of Osomatsu-san.",
+  "title": {
+    "en": "Mr. Osomatsu 3rd Season",
+    "jp": "Osomatsu-san Dai 3-ki"
+  },
+  "releasedAt": "2020-09-13T00:00:00.000Z",
+  "finishedAt": "2021-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43551/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43551",
+    "anidb": "15627",
+    "anilist/anime": "120851",
+    "animenewsnetwork": "23500",
+    "myanimelist/anime": "42391"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "evangelion-another-impact-vr",
+  "synopsis": "",
+  "title": {
+    "jp": "Evangelion: Another Impact (VR)"
+  },
+  "releasedAt": "2018-07-02T00:00:00.000Z",
+  "finishedAt": "2018-07-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41898/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41898",
+    "myanimelist/anime": "38055"
+  }
+}

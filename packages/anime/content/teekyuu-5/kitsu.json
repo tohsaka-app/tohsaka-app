@@ -1,0 +1,35 @@
+{
+  "slug": "teekyuu-5",
+  "synopsis": "Fifth season of Teekyuu series.",
+  "title": {
+    "en": "Teekyu 5",
+    "jp": "Teekyuu 5"
+  },
+  "releasedAt": "2015-07-07T00:00:00.000Z",
+  "finishedAt": "2015-09-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10858/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10858/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "comedy",
+    "japan",
+    "school clubs",
+    "school life",
+    "sports",
+    "tennis"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/teekyu"
+  ],
+  "relations": {
+    "kitsu": "10858",
+    "anilist/anime": "21136",
+    "aozora": "FCy0OCw2CS",
+    "myanimelist/anime": "30567",
+    "thetvdb": "262856/5",
+    "trakt": "67893"
+  }
+}

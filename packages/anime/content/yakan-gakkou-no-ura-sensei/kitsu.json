@@ -1,0 +1,22 @@
+{
+  "slug": "yakan-gakkou-no-ura-sensei",
+  "synopsis": "An animated promotional video for the web manga of the same name.\n",
+  "title": {
+    "jp": "Yakan Gakkou no Ura-sensei"
+  },
+  "releasedAt": "2016-08-02T00:00:00.000Z",
+  "finishedAt": "2016-08-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14237/original.jpg",
+  "categories": [
+    "fantasy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14237",
+    "myanimelist/anime": "36718"
+  }
+}

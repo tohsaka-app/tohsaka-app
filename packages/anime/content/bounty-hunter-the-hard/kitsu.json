@@ -1,0 +1,33 @@
+{
+  "slug": "bounty-hunter-the-hard",
+  "synopsis": "The story of \"Hard\", a bounty hunter living in New-York and seeking revenge.",
+  "title": {
+    "jp": "Bounty Hunter: The Hard"
+  },
+  "releasedAt": "1996-05-01T00:00:00.000Z",
+  "finishedAt": "1996-05-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3662/original.jpg",
+  "categories": [
+    "action",
+    "americas",
+    "bounty hunter",
+    "cops",
+    "crime",
+    "earth",
+    "gunfights",
+    "present",
+    "united states",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3662",
+    "anidb": "1501",
+    "anilist/anime": "4522",
+    "aozora": "xcEMdLP5sI",
+    "myanimelist/anime": "4522"
+  }
+}

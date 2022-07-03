@@ -1,0 +1,34 @@
+{
+  "slug": "new-initial-d-movie-legend-2-tousou",
+  "synopsis": "The second movie in a trilogy.",
+  "title": {
+    "en": "Initial D Legend 2: Racer",
+    "jp": "New Initial D Movie: Legend 2 - Tousou"
+  },
+  "releasedAt": "2015-05-23T00:00:00.000Z",
+  "finishedAt": "2015-05-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10073/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10073/original.jpg",
+  "categories": [
+    "action",
+    "drifting",
+    "motorsport",
+    "seinen",
+    "sports",
+    "street racing"
+  ],
+  "externals": [
+    "https://vrv.co/watch/GRP51WXMR/Initial-D-Legend-2-Racer-Dubbed-Home-Video",
+    "https://vrv.co/watch/GYVDXWEQY/Initial-D-Legend-2-Racer-Subtitled-Home-Video",
+    "https://www.hidive.com/movies/initial-d-legend-2-racer"
+  ],
+  "relations": {
+    "kitsu": "10073",
+    "anilist/anime": "20990",
+    "aozora": "OGlSoniR7l",
+    "myanimelist/anime": "28881"
+  }
+}

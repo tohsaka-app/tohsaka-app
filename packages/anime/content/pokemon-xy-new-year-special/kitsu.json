@@ -1,0 +1,27 @@
+{
+  "slug": "pokemon-xy-new-year-special",
+  "synopsis": "Recap episode.",
+  "title": {
+    "jp": "Pokemon XY: New Year Special"
+  },
+  "releasedAt": "2013-12-31T00:00:00.000Z",
+  "finishedAt": "2013-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8948/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8948",
+    "aozora": "hdWesM3rml",
+    "myanimelist/anime": "21703"
+  }
+}

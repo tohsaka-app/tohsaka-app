@@ -1,0 +1,25 @@
+{
+  "slug": "nendo-no-tatakai-2019",
+  "synopsis": "A 2D remake of Nagao Takena's original claymation Nendo no Tatakai.",
+  "title": {
+    "en": "Battle of Clay (2019)",
+    "jp": "Nendo no Tatakai (2019)"
+  },
+  "releasedAt": "2019-05-22T00:00:00.000Z",
+  "finishedAt": "2019-05-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42827/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42827",
+    "anidb": "15053",
+    "anilist/anime": "120904",
+    "myanimelist/anime": "40282"
+  }
+}

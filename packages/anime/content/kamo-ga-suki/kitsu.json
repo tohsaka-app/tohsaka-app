@@ -1,0 +1,23 @@
+{
+  "slug": "Kamo-ga-Suki",
+  "synopsis": "One sunny afternoon, a middle-aged man goes on a walk to feed some ducks.",
+  "title": {
+    "en": "I Like Ducks",
+    "jp": "Kamo ga Suki"
+  },
+  "releasedAt": "2017-04-06T00:00:00.000Z",
+  "finishedAt": "2017-04-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42840/original.jpg",
+  "categories": [
+    "comedy",
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42840",
+    "myanimelist/anime": "40202"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "aru-hibi-no-clamp-gakuen-tanteidan",
+  "synopsis": "DVD extras featuring characters from the original series",
+  "title": {
+    "jp": "Aruhi no Clamp Gakuen Tanteidan"
+  },
+  "releasedAt": "2005-04-22T00:00:00.000Z",
+  "finishedAt": "2005-04-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4428/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4428",
+    "anilist/anime": "6107",
+    "aozora": "w6lwCb7Wf1",
+    "myanimelist/anime": "6107"
+  }
+}

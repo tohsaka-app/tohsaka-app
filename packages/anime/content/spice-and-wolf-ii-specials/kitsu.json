@@ -1,0 +1,25 @@
+{
+  "slug": "spice-and-wolf-ii-specials",
+  "synopsis": "Extra short anime featuring Holo from BD volumes 1 and 2.",
+  "title": {
+    "en": "Spice and Wolf II Specials",
+    "jp": "Ookami to Koushinryou II Specials"
+  },
+  "releasedAt": "2009-10-07T00:00:00.000Z",
+  "finishedAt": "2009-11-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4768/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4768/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4768",
+    "anilist/anime": "6884",
+    "aozora": "XCBgUHPr66",
+    "myanimelist/anime": "6884"
+  }
+}

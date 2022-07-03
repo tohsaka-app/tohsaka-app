@@ -1,0 +1,44 @@
+{
+  "slug": "tenjou-tenge",
+  "synopsis": "For some people, high school represents the opportunity for a fresh start. You can take new classes and make new friends. For Souichiro Nagi and Bob Makihara, though, high school means something different: the chance to become the top fighters in the entire student body! Too bad Toudou Academy is the hardest possible place to realize their dreams. Their new high school is no ordinary academic institution. Rather than concentrating on classic subjects like math and science, Toudou Academy was created for the sole purpose of reviving the martial arts in Japan!\nAs a result, Souichiro's aspirations to become top dog are cut short when he runs afoul of Masataka Takayanagi and Maya Natsume. The two upperclassmen easily stop the freshmen duo's rampage across school, but rather than serving as a deterrent, it only stokes their competitive fire. What kind of monstrous fighters attend Toudou Academy? Are there any stronger than Masataka and Maya? And why in the world is Maya's younger sister stalking Souichiro? Learn the answers to these questions and more in Tenjou Tenge!",
+  "title": {
+    "en": "Tenjho Tenge",
+    "jp": "Tenjou Tenge"
+  },
+  "releasedAt": "2004-04-02T00:00:00.000Z",
+  "finishedAt": "2004-09-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/151/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/151/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "delinquent",
+    "drama",
+    "earth",
+    "ecchi",
+    "high school",
+    "japan",
+    "martial arts",
+    "plot continuity",
+    "present",
+    "school clubs",
+    "school life",
+    "super power",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "151",
+    "anidb": "1540",
+    "anilist/anime": "174",
+    "aozora": "DhuIjjER5T",
+    "myanimelist/anime": "174",
+    "thetvdb": "78974/1",
+    "thetvdb/series": "78974",
+    "trakt": "34583"
+  }
+}

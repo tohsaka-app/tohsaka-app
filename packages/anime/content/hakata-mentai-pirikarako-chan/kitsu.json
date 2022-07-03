@@ -1,0 +1,27 @@
+{
+  "slug": "hakata-mentai-pirikarako-chan",
+  "synopsis": "Hakata Mentai! Pirikarako-chan is set in a mysterious shopping center in a town that is like but also not quite like Hakata. In this setting, a walleye pollack roe fairy named Pirikarakochan rushes about every day trying to ease the worries and solve the rumors of the other food fairies.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Hakata Mentai! Pirikarako-chan",
+    "jp": "Hakata Mentai! Pirikarako-chan"
+  },
+  "releasedAt": "2019-07-07T00:00:00.000Z",
+  "finishedAt": "2019-09-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42369/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/hakata-mentai-pirikarako-chan"
+  ],
+  "relations": {
+    "kitsu": "42369",
+    "anidb": "14805",
+    "anilist/anime": "109929",
+    "myanimelist/anime": "39620"
+  }
+}

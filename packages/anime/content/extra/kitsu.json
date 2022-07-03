@@ -1,0 +1,31 @@
+{
+  "slug": "extra",
+  "synopsis": "Animation veteran and Studio 4°C collaborator Koji Morimoto teamed up with techo artist Ken Ishii for this AMV.\n\"EXTRA\" is a random cross talk about computer, music, images, and Internet by two authors working on their first collaboration in techno music and animation. This short animation which is stored on CD-ROM and immediately shakes the viewer with question as to what the word of the title, \"EXTRA,\" means.\n(Source: AniDB)",
+  "title": {
+    "en": "Extra",
+    "jp": "Extra"
+  },
+  "releasedAt": "1995-01-01T00:00:00.000Z",
+  "finishedAt": "1995-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3072/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3072/original.jpg",
+  "categories": [
+    "action",
+    "dementia",
+    "horror",
+    "music",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3072",
+    "anidb": "2754",
+    "anilist/anime": "3525",
+    "aozora": "NaCJ094Z3x",
+    "myanimelist/anime": "3525"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "blue-gender-the-warrior",
+  "synopsis": "It is a time of chaos. Earth is no longer what it used to be. It has been infested with a bug like species called the Blue. 20 years ago Yuji Kaido, who has a mysterious disease, is put into suspended animation until a cure is found. When he wakes up Yuji learns that it’s been more than 20 years since he was put into suspended animation, and the world is now controlled by these creatures. He then decides to join a group of soldiers fighting against the Blue for hope of a better future.\n(Source: ANN)",
+  "title": {
+    "en": "Blue Gender: The Warrior",
+    "jp": "Blue Gender: The Warrior"
+  },
+  "releasedAt": "2002-11-20T00:00:00.000Z",
+  "finishedAt": "2002-11-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1234/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1234/original.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "earth",
+    "future",
+    "horror",
+    "mecha",
+    "military",
+    "post apocalypse",
+    "romance",
+    "science fiction",
+    "space",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1234",
+    "anidb": "771",
+    "anilist/anime": "1380",
+    "aozora": "5uQG8RdUq6",
+    "hulu": "50004442",
+    "myanimelist/anime": "1380"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "makkuramori-no-uta",
+  "synopsis": "When the last ray of the sun disappears, the day ends. But in the forest, a world that is hidden during the day awakens with the darkness.\n(Source: Anisearch)",
+  "title": {
+    "jp": "Makkuramori no Uta"
+  },
+  "releasedAt": "1985-08-01T00:00:00.000Z",
+  "finishedAt": "1985-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8848/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8848",
+    "anidb": "12669",
+    "anilist/anime": "103986",
+    "aozora": "n747kDo07x",
+    "myanimelist/anime": "21715"
+  }
+}

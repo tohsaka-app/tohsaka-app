@@ -1,0 +1,24 @@
+{
+  "slug": "dear-brave",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Dear Brave"
+  },
+  "releasedAt": "2015-11-18T00:00:00.000Z",
+  "finishedAt": "2015-11-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11817/original.jpg",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11817",
+    "anilist/anime": "132321",
+    "aozora": "8WDtEp9hIi",
+    "myanimelist/anime": "32264"
+  }
+}

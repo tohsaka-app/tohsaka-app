@@ -1,0 +1,24 @@
+{
+  "slug": "kakushin",
+  "synopsis": "A musical anime promoting motivation for LGBT teens. The focus of the short is on a young man and his struggling affection towards his male classmates.",
+  "title": {
+    "jp": "Kakushin"
+  },
+  "releasedAt": "2016-03-28T00:00:00.000Z",
+  "finishedAt": "2016-03-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14053/original.jpg",
+  "categories": [
+    "music",
+    "shounen ai",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14053",
+    "anilist/anime": "104346",
+    "myanimelist/anime": "36753"
+  }
+}

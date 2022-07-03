@@ -1,0 +1,30 @@
+{
+  "slug": "hetalia-axis-powers-movie-paint-it-white",
+  "synopsis": "The movie involves a mysterious force causing unusual incidents to happen all over the world, and the nations having to try to ward off the threat of human extinction from the alien race known as Pict, who seek to transform mankind and drain the color from the world (with America deciding that the world will be saved under his command).\n(Source: WikiHetalia)",
+  "title": {
+    "en": "Hetalia Axis Powers: Paint it",
+    "jp": "Hetalia Axis Powers Movie: Paint it, White"
+  },
+  "releasedAt": "2010-06-05T00:00:00.000Z",
+  "finishedAt": "2010-06-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4946/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "parody"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/hetalia/videos/episodes"
+  ],
+  "relations": {
+    "kitsu": "4946",
+    "anidb": "7461",
+    "anilist/anime": "7337",
+    "aozora": "IumK5MqFii",
+    "hulu": "50007551",
+    "myanimelist/anime": "7337"
+  }
+}

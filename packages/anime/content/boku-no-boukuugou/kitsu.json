@@ -1,0 +1,28 @@
+{
+  "slug": "boku-no-boukuugou",
+  "synopsis": "The fourth film in Shin-Ei's series of annual WWII themed anime television movies for children Sensou Douwa (war story).\n(Source: AniDB)",
+  "title": {
+    "jp": "Boku no Boukuugou"
+  },
+  "releasedAt": "2005-08-13T00:00:00.000Z",
+  "finishedAt": "2005-08-13T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9215/original.jpg",
+  "categories": [
+    "anti war",
+    "historical",
+    "kids",
+    "past",
+    "world war ii"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9215",
+    "anidb": "3567",
+    "anilist/anime": "20207",
+    "aozora": "nNGww3UCXJ",
+    "myanimelist/anime": "20207"
+  }
+}

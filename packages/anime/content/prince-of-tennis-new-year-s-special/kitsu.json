@@ -1,0 +1,25 @@
+{
+  "slug": "prince-of-tennis-new-year-s-special",
+  "synopsis": "This New Year special episode is a recap of the first episodes 1 to 12. However, there is a curious tournament with the regular players too.",
+  "title": {
+    "jp": "Tennis no Ouji-sama: Oshougatsu Special"
+  },
+  "releasedAt": "2003-03-07T00:00:00.000Z",
+  "finishedAt": "2003-03-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4378/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4378",
+    "anilist/anime": "5996",
+    "aozora": "kLdEFy5U4Q",
+    "myanimelist/anime": "5996"
+  }
+}

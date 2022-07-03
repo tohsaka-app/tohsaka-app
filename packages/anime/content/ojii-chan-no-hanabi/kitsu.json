@@ -1,0 +1,24 @@
+{
+  "slug": "ojii-chan-no-hanabi",
+  "synopsis": "An educational film showing the importance of connectence between people even when you fail in certain aspects of your life.",
+  "title": {
+    "jp": "Ojiichan no Hanabi"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11070/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11070",
+    "anilist/anime": "130776",
+    "aozora": "4RvCYwvCNp",
+    "myanimelist/anime": "30980"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "mahou-shoujo-lyrical-nanoha-strikers-picture-drama",
+  "synopsis": "A picture drama released on the BD Box Set of Mahou Shoujo Lyrical Nanoha StrikerS. Subaru, Teana, Vivio host a radio show promoting their own BD Box Sets. They look at a hypothetical Midchilda Academy with all the core cast is present be it as students or as teachers.\n",
+  "title": {
+    "en": "Magical Girl Lyrical Nanoha StrikerS Picture Drama",
+    "jp": "Mahou Shoujo Lyrical Nanoha StrikerS Picture Drama"
+  },
+  "releasedAt": "2015-02-25T00:00:00.000Z",
+  "finishedAt": "2015-02-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41360/original.jpg",
+  "categories": [
+    "comedy",
+    "magic",
+    "magical girl",
+    "parody",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41360",
+    "anidb": "4688",
+    "anilist/anime": "108730",
+    "myanimelist/anime": "37934"
+  }
+}

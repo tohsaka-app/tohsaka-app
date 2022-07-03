@@ -1,0 +1,23 @@
+{
+  "slug": "morfonica",
+  "synopsis": "Announced during Day 1 of Bandori Channel☆'s \"Garupa 5th Anniversary Fan Festa in Akihabara\" live stream, a new anime project focused on the band Morfonica will be made and set to broadcast during Summer 2022.",
+  "title": {
+    "en": "BanG Dream! Morfonica",
+    "jp": "Morfonica"
+  },
+  "releasedAt": "2022-07-28T00:00:00.000Z",
+  "finishedAt": "2022-07-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "upcoming",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45999/poster_image/95e03a514a9f82416c06450879147bb5.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45999",
+    "anilist/anime": "146501"
+  }
+}

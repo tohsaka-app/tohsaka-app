@@ -1,0 +1,25 @@
+{
+  "slug": "boukentai-mori-no-yuusha",
+  "synopsis": "Music video for Chiaki Maruyama's song Boukentai: Mori no Yuusha.",
+  "title": {
+    "jp": "Boukentai: Mori no Yuusha"
+  },
+  "releasedAt": "2020-10-14T00:00:00.000Z",
+  "finishedAt": "2020-10-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43678/original.jpg",
+  "categories": [
+    "family",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=SNIE80rJRiM"
+  ],
+  "relations": {
+    "kitsu": "43678",
+    "anilist/anime": "126170",
+    "myanimelist/anime": "43444"
+  }
+}

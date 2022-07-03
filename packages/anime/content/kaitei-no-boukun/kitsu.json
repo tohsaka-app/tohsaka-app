@@ -1,0 +1,25 @@
+{
+  "slug": "kaitei-no-boukun",
+  "synopsis": "Short film from the 1930s.",
+  "title": {
+    "en": "The Underwater Tyrant",
+    "jp": "Kaitei no Boukun"
+  },
+  "releasedAt": "1935-01-01T00:00:00.000Z",
+  "finishedAt": "1935-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4752/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4752",
+    "anidb": "7193",
+    "anilist/anime": "6851",
+    "aozora": "OZPViNfiW1",
+    "myanimelist/anime": "6851"
+  }
+}

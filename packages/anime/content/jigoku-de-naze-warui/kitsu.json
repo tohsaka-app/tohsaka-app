@@ -1,0 +1,23 @@
+{
+  "slug": "jigoku-de-naze-warui",
+  "synopsis": "The theme song for the 2013 film Why Don't You Play in Hell, performed by Gen Hoshino.",
+  "title": {
+    "jp": "Jigoku de Naze Warui"
+  },
+  "releasedAt": "2013-09-19T00:00:00.000Z",
+  "finishedAt": "2013-09-19T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12952/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12952",
+    "anilist/anime": "103793",
+    "aozora": "NzL03fssS8",
+    "myanimelist/anime": "33400"
+  }
+}

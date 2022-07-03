@@ -1,0 +1,22 @@
+{
+  "slug": "rain-memory-of-cloud-1",
+  "synopsis": "A psychedelic anime that starts with irregular ink bleeding and develops with increasing degree of chaos.\n",
+  "title": {
+    "jp": "Rain: Memory of Cloud. 1"
+  },
+  "releasedAt": "1996-01-01T00:00:00.000Z",
+  "finishedAt": "1996-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43466/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43466",
+    "anilist/anime": "121036",
+    "myanimelist/anime": "42276"
+  }
+}

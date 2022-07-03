@@ -1,0 +1,35 @@
+{
+  "slug": "crimson-wolf",
+  "synopsis": "The fate of the world rests in the ability of three untested warriors to defeat an unearthly army of darkness. Sorcery, martial arts and an unrequited love, spanning the centuries, explode in an epic battle at the gates of the forbidden city. Crimson Wolf is an unusual departure for the Anime genre - rooted in real world reference, it makes the fantasy all the more believeable. \n(Source: AniDB)",
+  "title": {
+    "en": "Crimson Wolf",
+    "jp": "Hon Ran"
+  },
+  "releasedAt": "1993-07-07T00:00:00.000Z",
+  "finishedAt": "1993-07-07T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4420/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "asia",
+    "china",
+    "coming of age",
+    "conspiracy",
+    "disaster",
+    "earth",
+    "magic",
+    "martial arts",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4420",
+    "anidb": "1466",
+    "anilist/anime": "6090",
+    "aozora": "HAEvwiTVsd",
+    "myanimelist/anime": "6090"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "li-l-chillun",
+  "synopsis": "Li'l Chillun' is a curious snow child who loves to bring happiness to others. It's Christmas Eve and houses in the village leave out presents for Li'l Chillun' as a thank you.",
+  "title": {
+    "jp": "Li'l Chillun'"
+  },
+  "releasedAt": "1989-01-01T00:00:00.000Z",
+  "finishedAt": "1989-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40804/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40804",
+    "anilist/anime": "130212",
+    "aozora": "N4PO88XRmR",
+    "myanimelist/anime": "35618"
+  }
+}

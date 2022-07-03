@@ -1,0 +1,24 @@
+{
+  "slug": "panight",
+  "synopsis": "Music video for the song PANIGHT by NEGI☆U (Minato Aqua, Oozora Subaru and Momosuzu Nene)",
+  "title": {
+    "jp": "PANIGHT"
+  },
+  "releasedAt": "2022-05-29T00:00:00.000Z",
+  "finishedAt": "2022-05-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46152/poster_image/ff694045bee1e1640673714e28853df9.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/46152/cover_image/4389a5745345aada803dfc8539eaac27.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=zxTarx9eJAM"
+  ],
+  "relations": {
+    "kitsu": "46152"
+  }
+}

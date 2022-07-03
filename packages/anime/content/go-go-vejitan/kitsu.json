@@ -1,0 +1,24 @@
+{
+  "slug": "go-go-vejitan",
+  "synopsis": "A fusion of drawn animation, stop-motion animation, and live-action sequences. Go! Go! Vejitan tells a quirky tale of a tomato and eggplant that fell to Earth from their spaceship after a meteorite hit them and they became enchanted by local playground equipment.",
+  "title": {
+    "jp": "Go! Go! Veggie-tan"
+  },
+  "releasedAt": "1996-05-13T00:00:00.000Z",
+  "finishedAt": "1996-05-13T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10257/original.jpg",
+  "categories": [
+    "kids",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10257",
+    "aozora": "1kIZh15a3I",
+    "myanimelist/anime": "29497"
+  }
+}

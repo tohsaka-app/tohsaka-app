@@ -1,0 +1,20 @@
+{
+  "slug": "mugen-no-ryvius-art-gallery-and-audio-drama",
+  "synopsis": "Video galleries of the arts of Mugen no Ryvius, along with short audio dramas talking loosely about the characters and advertising the home video release.",
+  "title": {
+    "jp": "Mugen no Ryvius: Art Gallery and Audio Drama"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13127/original.jpg",
+  "categories": [
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13127"
+  }
+}

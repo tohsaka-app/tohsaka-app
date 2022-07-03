@@ -1,0 +1,32 @@
+{
+  "slug": "osomatsu-san-2",
+  "synopsis": "Second season of Osomatsu-san.",
+  "title": {
+    "en": "Mr. Osomatsu 2nd Season",
+    "jp": "Osomatsu-san Dai 2-ki"
+  },
+  "releasedAt": "2017-10-03T00:00:00.000Z",
+  "finishedAt": "2018-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13326/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13326/original.jpg",
+  "categories": [
+    "comedy",
+    "japan",
+    "parody",
+    "present"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/mr-osomatsu"
+  ],
+  "relations": {
+    "kitsu": "13326",
+    "anidb": "12944",
+    "anilist/anime": "98565",
+    "aozora": "NmxObUHGIC",
+    "myanimelist/anime": "35067",
+    "thetvdb": "300989/2"
+  }
+}

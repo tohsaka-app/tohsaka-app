@@ -1,0 +1,25 @@
+{
+  "slug": "urawa-no-usagi-chan-special",
+  "synopsis": "Unaired episode included in Blu-ray and DVD sets.",
+  "title": {
+    "jp": "Urawa no Usagi-chan Special"
+  },
+  "releasedAt": "2015-10-16T00:00:00.000Z",
+  "finishedAt": "2015-10-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11345/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11345",
+    "anilist/anime": "21433",
+    "aozora": "22YPuIoWnn",
+    "myanimelist/anime": "31426"
+  }
+}

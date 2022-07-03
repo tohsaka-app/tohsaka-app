@@ -1,0 +1,23 @@
+{
+  "slug": "snailchan-adventure",
+  "synopsis": "Official Music Video for Snail's House's song \"Snailchan Adventure.\"",
+  "title": {
+    "en": "Snailchan Adventure"
+  },
+  "releasedAt": "2018-10-23T00:00:00.000Z",
+  "finishedAt": "2018-10-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46226/poster_image/9c7c36e1a230f344fd092da60f9301ee.png",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=US3VTVDRbjE"
+  ],
+  "relations": {
+    "kitsu": "46226"
+  }
+}

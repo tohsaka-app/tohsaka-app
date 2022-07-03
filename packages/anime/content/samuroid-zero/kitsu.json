@@ -1,0 +1,24 @@
+{
+  "slug": "samuroid-zero",
+  "synopsis": "This is a pilot movie for a Polygon Picutres Inc. original project, a full CG SF action samurai drama movie originally announced at the 2005 Tokyo International Anime Fair. The project was scrapped and only the pilot remains. ",
+  "title": {
+    "jp": "Samuroid Zero"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13081/original.jpg",
+  "categories": [
+    "action",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13081",
+    "anilist/anime": "102565",
+    "aozora": "pmlxPcWq7b",
+    "myanimelist/anime": "34721"
+  }
+}

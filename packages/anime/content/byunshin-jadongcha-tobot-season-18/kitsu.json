@@ -1,0 +1,26 @@
+{
+  "slug": "byunshin-jadongcha-tobot-season-18",
+  "synopsis": "Season 18 of Tobot.\n\nNote: This season was edited into episodes 8 to 16 of season 4 for the English version.",
+  "title": {
+    "en": "Tobot Season 18"
+  },
+  "releasedAt": "2015-07-01T00:00:00.000Z",
+  "finishedAt": "2015-07-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44264/original.jpg",
+  "categories": [
+    "kids",
+    "korea",
+    "mecha",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.amazon.com/Tobot/dp/B07GX7Z43J"
+  ],
+  "relations": {
+    "kitsu": "44264"
+  }
+}

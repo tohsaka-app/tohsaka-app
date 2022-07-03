@@ -1,0 +1,24 @@
+{
+  "slug": "utsura-utsura",
+  "synopsis": "Rie Oshima's Tama Art University 2015 graduate project",
+  "title": {
+    "en": "drowsily",
+    "jp": "utsura utsura"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45359/poster_image/a26c90dad08765feb6cb401e65908b29.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/4i4kZli08Yk"
+  ],
+  "relations": {
+    "kitsu": "45359",
+    "anilist/anime": "140587"
+  }
+}

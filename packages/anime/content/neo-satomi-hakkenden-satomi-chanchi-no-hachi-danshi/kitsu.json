@@ -1,0 +1,24 @@
+{
+  "slug": "neo-satomi-hakkenden-satomi-chanchi-no-hachi-danshi",
+  "synopsis": "An animated promotional video for the Neo Satomi Hakkenden: Satomi-chanchi no Hachi Danshi light novel series.\n(Source: AniDB)",
+  "title": {
+    "jp": "Neo Satomi Hakkenden: Satomi-chanchi no Hachi Danshi"
+  },
+  "releasedAt": "2011-12-21T00:00:00.000Z",
+  "finishedAt": "2011-12-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6985/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6985",
+    "anidb": "8866",
+    "anilist/anime": "13515",
+    "aozora": "hSioCYxgUA",
+    "myanimelist/anime": "13515"
+  }
+}

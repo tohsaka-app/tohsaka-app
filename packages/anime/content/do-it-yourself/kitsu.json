@@ -1,0 +1,26 @@
+{
+  "slug": "do-it-yourself",
+  "synopsis": "The anime follows the daily lives of high school girls as they face struggles working on DIY projects.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Do It Yourself!!",
+    "jp": "Do It Yourself!!"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44237/original.jpg",
+  "categories": [
+    "friendship",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44237",
+    "anidb": "16163",
+    "anilist/anime": "131516",
+    "myanimelist/anime": "48542"
+  }
+}

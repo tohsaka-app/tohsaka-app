@@ -1,0 +1,23 @@
+{
+  "slug": "hyakka-ryouran-samurai-girls-specials",
+  "synopsis": "Special episodes added to DVDs and Blu-rays.",
+  "title": {
+    "jp": "Hyakka Ryouran: Samurai Girls Specials"
+  },
+  "releasedAt": "2010-11-25T00:00:00.000Z",
+  "finishedAt": "2011-04-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5703/original.jpg",
+  "categories": [
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5703",
+    "anilist/anime": "9362",
+    "aozora": "J1x6PKqt9W",
+    "myanimelist/anime": "9362"
+  }
+}

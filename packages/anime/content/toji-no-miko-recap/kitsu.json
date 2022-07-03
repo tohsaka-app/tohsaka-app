@@ -1,0 +1,29 @@
+{
+  "slug": "toji-no-miko-recap",
+  "synopsis": "A summary of the first 12 episodes of Toji no Miko.\n",
+  "title": {
+    "en": "Katana Maidens: Toji no Miko Recap",
+    "jp": "Toji no Miko Recap"
+  },
+  "releasedAt": "2018-03-30T00:00:00.000Z",
+  "finishedAt": "2018-03-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41205/original.jpg",
+  "categories": [
+    "action",
+    "all girls school",
+    "fantasy",
+    "fantasy world",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/katana-maidens-toji-no-miko"
+  ],
+  "relations": {
+    "kitsu": "41205",
+    "anidb": "13172",
+    "myanimelist/anime": "37672"
+  }
+}

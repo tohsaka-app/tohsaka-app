@@ -1,0 +1,29 @@
+{
+  "slug": "toaru-kagaku-no-railgun-t",
+  "synopsis": "Third season of Toaru Kagaku no Railgun.",
+  "title": {
+    "en": "A Certain Scientific Railgun T",
+    "jp": "Toaru Kagaku no Railgun T"
+  },
+  "releasedAt": "2020-01-10T00:00:00.000Z",
+  "finishedAt": "2020-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41979/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41979/original.png",
+  "categories": [
+    "action",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/a-certain-scientific-railgun"
+  ],
+  "relations": {
+    "kitsu": "41979",
+    "anidb": "a14441",
+    "anilist/anime": "104462",
+    "myanimelist/anime": "38481"
+  }
+}

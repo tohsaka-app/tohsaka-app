@@ -1,0 +1,25 @@
+{
+  "slug": "nagagutsu-wo-haita-neko-no-boken",
+  "synopsis": "Anime adaptation of Charles Perrault fairy tale, directed by Susumu Ishizaki.",
+  "title": {
+    "jp": "Nagagutsu wo Haita Neko no Bouken"
+  },
+  "releasedAt": "1992-04-01T00:00:00.000Z",
+  "finishedAt": "1992-09-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3624/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3624",
+    "anidb": "2211",
+    "anilist/anime": "4468",
+    "aozora": "D4dDwnhgOR",
+    "myanimelist/anime": "4468"
+  }
+}

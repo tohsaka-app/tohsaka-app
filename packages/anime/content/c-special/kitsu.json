@@ -1,0 +1,29 @@
+{
+  "slug": "c-special",
+  "synopsis": "Unaired episode included with the fifth volume of the Blu-ray. The gang goes on a school trip. ",
+  "title": {
+    "en": "C³ - CubexCursedxCurious Special",
+    "jp": "C³: Rikan Gakkou Confussion!"
+  },
+  "releasedAt": "2012-04-25T00:00:00.000Z",
+  "finishedAt": "2012-04-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6751/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6751/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6751",
+    "anilist/anime": "12505",
+    "aozora": "k3j8703aXl",
+    "myanimelist/anime": "12505"
+  }
+}

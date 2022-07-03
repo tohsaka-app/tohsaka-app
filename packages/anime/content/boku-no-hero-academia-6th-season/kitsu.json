@@ -1,0 +1,27 @@
+{
+  "slug": "boku-no-hero-academia-6th-season",
+  "synopsis": "The sixth season of My Hero Academia.",
+  "title": {
+    "en": "My Hero Academia 6",
+    "jp": "Boku no Hero Academia 6"
+  },
+  "releasedAt": "2022-09-30T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "upcoming",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45240/poster_image/5b196c230adb59404a853189fca1d4c8.png",
+  "coverUrl": "https://media.kitsu.io/anime/45240/cover_image/69846c6ed4720bd85bdbcb91acd23eb1.jpg",
+  "categories": [
+    "action",
+    "shounen",
+    "super power",
+    "superhero",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45240",
+    "anilist/anime": "139630"
+  }
+}

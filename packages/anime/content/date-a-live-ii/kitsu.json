@@ -1,0 +1,41 @@
+{
+  "slug": "date-a-live-ii",
+  "synopsis": "Shido Itsuka, who used to be a normal high school student at Raizen High, meets the first Spirit, Tohka, and awakens his power to \"seal the Spirit's power\". Though they may be feared and hated beings due to their immense power, Spirits were always alone and knew only combat and death. Shido, the only one in the world with the power to seal the Spirits' might, hurls himself into life-threatening dates with the beautiful Spirits in order to save them.\n\n(Source: ANN)",
+  "title": {
+    "en": "Date A Live II",
+    "jp": "Date A Live II"
+  },
+  "releasedAt": "2014-04-12T00:00:00.000Z",
+  "finishedAt": "2014-06-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7864/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7864/original.png",
+  "categories": [
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "harem",
+    "mecha",
+    "romance",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [
+    "crunchyroll.com/date-a-live",
+    "funimation.com/shows/date-a-live/?qid=a021b93b174d6be",
+    "https://vrv.co/series/GYEX5E1G6/Date-A-Live"
+  ],
+  "relations": {
+    "kitsu": "7864",
+    "anidb": "9935",
+    "anilist/anime": "19163",
+    "aozora": "Y9qyk5Sbcr",
+    "myanimelist/anime": "19163",
+    "thetvdb": "264663/2",
+    "thetvdb/season": "575557",
+    "thetvdb/series": "264663",
+    "trakt": "70005"
+  }
+}

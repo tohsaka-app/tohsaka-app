@@ -1,0 +1,28 @@
+{
+  "slug": "quanzhi-fashi-2nd-season",
+  "synopsis": "Second season of Quanzhi Fashi.",
+  "title": {
+    "en": "Full-Time Magister 2",
+    "jp": "Quanzhi Fashi 2nd Season"
+  },
+  "releasedAt": "2017-09-15T00:00:00.000Z",
+  "finishedAt": "2017-12-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13841/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13841",
+    "anidb": "13469",
+    "anilist/anime": "100294",
+    "aozora": "FOE5dDSE1k",
+    "myanimelist/anime": "36318"
+  }
+}

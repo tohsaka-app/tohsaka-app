@@ -1,0 +1,35 @@
+{
+  "slug": "manaria-friends",
+  "synopsis": "Mysteria Academy is a prestigious magic school that teaches magic without discrimination to the three factions (men, gods, demons), who usually are engaged in battle with each other. Two of the academy's students are Anne, a princess and honor student, and Grea, a princess born from a dragon and a human.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Mysteria Friends",
+    "jp": "Manaria Friends"
+  },
+  "releasedAt": "2019-01-21T00:00:00.000Z",
+  "finishedAt": "2019-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11354/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "high fantasy",
+    "magic",
+    "school life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/mysteria-friends",
+    "https://www.hidive.com/tv/mysteria-friends"
+  ],
+  "relations": {
+    "kitsu": "11354",
+    "anidb": "11544",
+    "anilist/anime": "21322",
+    "aozora": "azLVRQWVZr",
+    "myanimelist/anime": "31537",
+    "thetvdb": "306111/1"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "wu-geng-ji-third-season",
+  "synopsis": "Third season of Wu Geng Ji.",
+  "title": {},
+  "releasedAt": "2019-12-20T00:00:00.000Z",
+  "finishedAt": "2020-10-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43027/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43027",
+    "anilist/anime": "104868",
+    "myanimelist/anime": "38467"
+  }
+}

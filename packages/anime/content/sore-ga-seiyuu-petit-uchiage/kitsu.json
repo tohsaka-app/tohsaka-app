@@ -1,0 +1,24 @@
+{
+  "slug": "sore-ga-seiyuu-petit-uchiage",
+  "synopsis": "Special episode of Sore ga Seiyuu! bundled in BD &amp; DVD Vol.7 ",
+  "title": {
+    "jp": "Sore ga Seiyuu!: Petit Uchiage"
+  },
+  "releasedAt": "2016-03-23T00:00:00.000Z",
+  "finishedAt": "2016-03-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11963/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11963",
+    "anilist/anime": "21737",
+    "aozora": "lcCs5CPe1j",
+    "myanimelist/anime": "32993"
+  }
+}

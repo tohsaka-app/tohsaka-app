@@ -1,0 +1,24 @@
+{
+  "slug": "squirrel-and-hedgehog",
+  "synopsis": "Squirrel and Hedgehog documents various animal communities warring and in conflict against one another, each animal being a symbolic representation of real life countries and sometimes political events.\nA North Korean propaganda anime that was developed and produced in North Korea to be aired on state television.",
+  "title": {
+    "jp": "Dalam-iwa Goseumdochi"
+  },
+  "releasedAt": "1977-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9938/original.jpg",
+  "categories": [
+    "historical",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9938",
+    "anidb": "11545",
+    "aozora": "gID4gY33eR",
+    "myanimelist/anime": "18007"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "nami-yo-kiitekure",
+  "synopsis": "The stage is Sapporo, Hokkaido. One night, our heroine, Minare Koda, spills her heartbroken woes to a radio station worker she meets while out drinking one night. The next day, she hears a recording of her pitiful grumbling being played live over the air. Minare storms into the station in a rage, only to then be duped by the station director into doing an impromptu talk show explaining her harsh dialogue. With just one recording, the many eccentric facets of Minare's life begin to pull every which direction as she falls ever deeper into the world of radio.\n\n(Source: Kodansha Comics)",
+  "title": {
+    "jp": "Nami yo Kiitekure"
+  },
+  "releasedAt": "2020-04-04T00:00:00.000Z",
+  "finishedAt": "2020-06-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42614/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42614/original.png",
+  "categories": [
+    "comedy",
+    "drama",
+    "romance",
+    "seinen",
+    "working life"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/wave-listen-to-me/"
+  ],
+  "relations": {
+    "kitsu": "42614",
+    "anilist/anime": "112353",
+    "myanimelist/anime": "40513"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "twenty-one-seiki-manga-hajimete-monogatari",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "21 Seiki Manga Hajimete Monogatari"
+  },
+  "releasedAt": "2001-03-30T00:00:00.000Z",
+  "finishedAt": "2001-03-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6053/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids",
+    "science fiction",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6053",
+    "anidb": "4965",
+    "anilist/anime": "10139",
+    "aozora": "Exb8wuHSZb",
+    "myanimelist/anime": "10139"
+  }
+}

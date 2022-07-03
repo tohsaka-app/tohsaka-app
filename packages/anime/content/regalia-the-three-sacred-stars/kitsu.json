@@ -1,0 +1,30 @@
+{
+  "slug": "regalia-the-three-sacred-stars",
+  "synopsis": "In the country of Rimguard, a mysterious event shook the country and its people just 12 years prior. As time passed, memory of the incident began to fade while peace reigned over the land. Sisters Yui and Rena live a quiet life in the Enastria Empire until a large mecha suddenly attacks their peaceful home, changing everything. The girls become caught in a vortex of destiny and godly revival.\n(Source: FUNimation)",
+  "title": {
+    "en": "Regalia: The Three Sacred Stars",
+    "jp": "Regalia: The Three Sacred Stars"
+  },
+  "releasedAt": "2016-07-07T00:00:00.000Z",
+  "finishedAt": "2016-11-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11948/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11948/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11948",
+    "anidb": "12003",
+    "anilist/anime": "21707",
+    "aozora": "RsIYdZrWiB",
+    "myanimelist/anime": "32961",
+    "thetvdb": "312665/1",
+    "trakt": "108180"
+  }
+}

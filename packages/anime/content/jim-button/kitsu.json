@@ -1,0 +1,27 @@
+{
+  "slug": "jim-button",
+  "synopsis": "Jim Button and his best friend Luke live on an island. When Luke has to leave the island Jim decides to go with him. when they leave they don't have a clue about the hidden dangers in the world. while traveling they learn that a young princess name Lisi was captured by pirates whom brought her to Sorrowland. The evil and dangerous dragon miss. Grindtooth rules in that land. Jim and Luke decide to go to Sorrowland to save princess Lisi.",
+  "title": {
+    "jp": "Jim Button"
+  },
+  "releasedAt": "1974-10-04T00:00:00.000Z",
+  "finishedAt": "1975-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4675/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4675",
+    "anidb": "6030",
+    "anilist/anime": "6701",
+    "aozora": "LHCIiotcDk",
+    "myanimelist/anime": "6701"
+  }
+}

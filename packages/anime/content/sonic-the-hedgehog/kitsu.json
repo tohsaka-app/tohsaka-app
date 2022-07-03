@@ -1,0 +1,28 @@
+{
+  "slug": "sonic-the-hedgehog",
+  "synopsis": "When Dr. Eggman (Robotnik in the US version) holds the president and his daughter hostage, Sonic must comply to the evil scientist's demand of going to Eggmanland to stop Black Eggman and deactivate the city's generator before it reaches critical mass. Little does Sonic know that it's a trap to activate Hyper Metal Sonic, a robot counterpart built by Eggman to destroy our hero.\n\n(Source: ANN)",
+  "title": {
+    "en": "Sonic the Hedgehog: The Movie",
+    "jp": "Sonic★the★Hedgehog"
+  },
+  "releasedAt": "1996-01-26T00:00:00.000Z",
+  "finishedAt": "1996-01-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2051/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy world",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2051",
+    "anidb": "1744",
+    "anilist/anime": "2263",
+    "aozora": "RaKszvtpEX",
+    "myanimelist/anime": "2263"
+  }
+}

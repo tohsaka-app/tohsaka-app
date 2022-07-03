@@ -1,0 +1,236 @@
+[
+  {
+    "title": {
+      "jp": "Dan Doh's Dream"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2004-04-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tournament"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2004-04-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yuka"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2004-04-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Missed Shot"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2004-04-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Niko-Ball!"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2004-05-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yokota"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2004-05-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Final Round"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2004-05-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Father"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2004-05-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "6-Iron"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2004-05-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Over The Valley"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2004-06-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Strong Ones Are Gathering"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2004-06-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Only One in the World"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2004-06-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Light that Reaches the Heart"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "2004-06-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Battle Between Man and Man"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "2004-07-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Disqualify"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "2004-07-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "To Hokkaido"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "2004-07-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Caddy"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "2004-07-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Favorite Shot"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "2004-07-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Challenge"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "2004-08-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Two of Us Make Two"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "2004-08-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Faith"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "2004-08-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Taku-san"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "2004-08-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ordeal"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "2004-09-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "End of Match"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "2004-09-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kazama"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "2004-09-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Within the Light"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "2004-09-25T00:00:00.000Z",
+    "content": {}
+  }
+]

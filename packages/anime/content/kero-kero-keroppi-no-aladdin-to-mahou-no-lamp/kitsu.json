@@ -1,0 +1,26 @@
+{
+  "slug": "kero-kero-keroppi-no-aladdin-to-mahou-no-lamp",
+  "synopsis": "Keroppi re-creates the story of Aladdin and the Wonderful Lamp.",
+  "title": {
+    "en": "Keroppi in Aladdin and the Magic Lamp",
+    "jp": "Kero Kero Keroppi no Aladdin to Mahou no Lamp"
+  },
+  "releasedAt": "2001-11-23T00:00:00.000Z",
+  "finishedAt": "2001-11-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9378/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9378",
+    "anidb": "7812",
+    "aozora": "2Ri6TnBrU8",
+    "myanimelist/anime": "22573"
+  }
+}

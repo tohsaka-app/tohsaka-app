@@ -1,0 +1,29 @@
+{
+  "slug": "murder",
+  "synopsis": "Short animated film by acclaimed multi-talented artist Makoto Wada.",
+  "title": {
+    "en": "Murder",
+    "jp": "Murder"
+  },
+  "releasedAt": "1964-01-01T00:00:00.000Z",
+  "finishedAt": "1964-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3224/original.jpg",
+  "categories": [
+    "comedy",
+    "detective",
+    "mystery",
+    "parody",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3224",
+    "anidb": "4393",
+    "anilist/anime": "3743",
+    "aozora": "7X7ihZTsDP",
+    "myanimelist/anime": "3743"
+  }
+}

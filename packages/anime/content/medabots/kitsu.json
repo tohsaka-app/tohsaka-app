@@ -1,0 +1,32 @@
+{
+  "slug": "medabots",
+  "synopsis": "In the 22nd century, Medarots—intelligent robots powered by medals that act as their minds—are commonplace all over the world. They serve their human partners and settle disputes through a combat sporting event known as Robattling. Combatants that take part in robattling for the sake of improving their ranking are known as Meda-fighters, and they aim to climb the ranks to enter the World Tournament and represent their country.Medarot tells the story of ten-year-old Ikki Tenryou stumbling across a rare Beetle medal and gaining his first Medarot, dubbed Metabee. He’s expecting a submissive and loyal robot that would follow his every command, but Metabee does what he wants and doesn’t take kindly to being insulted. Now Ikki is stuck with him, and they must work together to give their competition a Metabee-boppin’ as they robattle their way to the top!",
+  "title": {
+    "en": "Medabots",
+    "jp": "Medarot"
+  },
+  "releasedAt": "1999-07-02T00:00:00.000Z",
+  "finishedAt": "2000-06-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1019/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "mecha",
+    "proxy battles",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1019",
+    "anidb": "3303",
+    "anilist/anime": "1138",
+    "aozora": "4qENUC7lzt",
+    "myanimelist/anime": "1138",
+    "thetvdb": "76906",
+    "trakt": "11183"
+  }
+}

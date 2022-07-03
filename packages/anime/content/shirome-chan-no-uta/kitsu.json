@@ -1,0 +1,20 @@
+{
+  "slug": "shirome-chan-no-uta",
+  "synopsis": "A CG animated music video featuring the character Shirome-chan.",
+  "title": {
+    "jp": "Shirome-chan no Uta"
+  },
+  "releasedAt": "2016-07-28T00:00:00.000Z",
+  "finishedAt": "2016-07-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40794/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40794",
+    "aozora": "r7N7KMxMYr",
+    "myanimelist/anime": "35560"
+  }
+}

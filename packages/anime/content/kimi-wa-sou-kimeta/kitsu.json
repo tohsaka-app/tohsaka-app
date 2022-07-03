@@ -1,0 +1,24 @@
+{
+  "slug": "kimi-wa-sou-kimeta",
+  "synopsis": "An animated music video for Yura Yura Teikoku's song \"Kimi wa Sou Kimeta\".",
+  "title": {
+    "en": "You Just Decided",
+    "jp": "Kimi wa Sou Kimeta"
+  },
+  "releasedAt": "2011-11-15T00:00:00.000Z",
+  "finishedAt": "2011-11-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10795/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10795",
+    "anilist/anime": "103405",
+    "aozora": "lEwttxtBZN",
+    "myanimelist/anime": "30430"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "maria-sama-ga-miteru-haru-specials",
+  "synopsis": "Specials of Maria-sama ga Miteru: Haru released on the DVDs only.",
+  "title": {
+    "en": "Maria Watches Over Us: Printemps Specials",
+    "jp": "Maria-sama ga Miteru: Haru Specials"
+  },
+  "releasedAt": "2004-10-22T00:00:00.000Z",
+  "finishedAt": "2005-05-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/407/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/407/original.jpg",
+  "categories": [
+    "drama",
+    "romance",
+    "school life",
+    "shoujo ai",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "407",
+    "anilist/anime": "3469",
+    "aozora": "n1HO24lBKM",
+    "myanimelist/anime": "3469"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "mahou-shoujo-madoka-magica-concept-movie",
+  "synopsis": "A short four-minute concept film that served as a surprise unveil at Studio SHAFT's 40th anniversary event in Winter 2015, Madogatari. The concept movie is the core of a new Madoka Magica project, and serves as its trailer. The second short was later screened in Osaka, with the difference being a replacement of several imageboard segments.",
+  "title": {
+    "en": "Puella Magi Madoka Magica Concept Movie",
+    "jp": "Mahou Shoujo Madoka★Magica: Concept Movie"
+  },
+  "releasedAt": "2015-11-27T00:00:00.000Z",
+  "finishedAt": "2015-11-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11573/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11573/original.jpg",
+  "categories": [
+    "magic",
+    "magical girl",
+    "psychological",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11573",
+    "anidb": "11793",
+    "anilist/anime": "101090",
+    "aozora": "0vZCepJ1rt",
+    "myanimelist/anime": "32153"
+  }
+}

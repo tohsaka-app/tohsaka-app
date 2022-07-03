@@ -1,0 +1,43 @@
+{
+  "slug": "digimon-frontier",
+  "synopsis": "With five new kids and an exciting new mission in the Digital World, Digimon Frontier brings back all the great action and adventure of the last three seasons. Takuya, Kouji, Izumi, Junpei. and Tomoki meet each other in a train that takes them to the Digital World where a war against evil is being fought. The Angel digimon, Cherubimon, one of The three angels sent to save the World from the power-hungry Lucemon, has turned to the dark side and the entire Digital World is in peril. To fight this great battle, the five CHOSEN ONES must find the Densetsu no Spirit (Legendary Spirit).",
+  "title": {
+    "en": "Digimon Frontier",
+    "jp": "Digimon Frontier"
+  },
+  "releasedAt": "2002-04-07T00:00:00.000Z",
+  "finishedAt": "2003-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1014/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "isekai",
+    "parallel universe",
+    "plot continuity",
+    "present",
+    "proxy battles"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/digimon-frontier",
+    "http://www.hulu.com/digimon-frontier"
+  ],
+  "relations": {
+    "kitsu": "1014",
+    "anidb": "464",
+    "anilist/anime": "1132",
+    "aozora": "68KcRajCcv",
+    "myanimelist/anime": "1132",
+    "thetvdb": "72241/4",
+    "thetvdb/season": "3767",
+    "thetvdb/series": "72241",
+    "trakt": "31517"
+  }
+}

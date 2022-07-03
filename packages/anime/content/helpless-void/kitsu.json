@@ -1,0 +1,25 @@
+{
+  "slug": "helpless-void",
+  "synopsis": "At night, a man holds out his own leash into the void. He has to explode in order to escape.\n\nGraduate Work 2017, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Helpless Void",
+    "jp": "Helpless Void"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44992/original.jpg",
+  "categories": [
+    "dementia",
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/ktaovmwjCf8"
+  ],
+  "relations": {
+    "kitsu": "44992",
+    "anilist/anime": "116575"
+  }
+}

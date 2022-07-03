@@ -1,0 +1,25 @@
+{
+  "slug": "dr-typhoon",
+  "synopsis": "Based on a seinen manga written by Takahashi Michitsuna and illustrated by Kazama Eiji, serialised in Weekly Manga Action.",
+  "title": {
+    "jp": "Dr. Typhoon"
+  },
+  "releasedAt": "1991-04-03T00:00:00.000Z",
+  "finishedAt": "1991-04-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7635/original.jpg",
+  "categories": [
+    "mafia",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7635",
+    "anidb": "7572",
+    "anilist/anime": "17307",
+    "aozora": "6auqoIDJ9f",
+    "myanimelist/anime": "17307"
+  }
+}

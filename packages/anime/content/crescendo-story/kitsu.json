@@ -1,0 +1,25 @@
+{
+  "slug": "crescendo-story",
+  "synopsis": "Official music video for the song Crescendo Story by the fictional band Irodorimidori. It is the 28th song in the franchise and focuses on Shirona Tsukisuzu.",
+  "title": {
+    "jp": "Crescendo Story"
+  },
+  "releasedAt": "2018-06-19T00:00:00.000Z",
+  "finishedAt": "2018-06-19T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41890/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=59IOmnfIm6Q"
+  ],
+  "relations": {
+    "kitsu": "41890",
+    "anilist/anime": "109414",
+    "myanimelist/anime": "38047"
+  }
+}

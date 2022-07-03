@@ -1,0 +1,32 @@
+{
+  "slug": "centaur-no-nayami",
+  "synopsis": "Himeno is a sweet, shy little centaur girl. In her world, everyone seems to be a supernatural creature, and all her classmates have some kind of horns, wings, tails, halos, or other visible supernatural body part. Despite their supernatural elements, Himeno and her best friends, Nozomi and Kyoko, have a fun and mostly normal daily school life!\n\n(Source: MangaHelpers)",
+  "title": {
+    "en": "A Centaur's Life",
+    "jp": "Centaur no Nayami"
+  },
+  "releasedAt": "2017-07-09T00:00:00.000Z",
+  "finishedAt": "2017-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13270/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13270/original.png",
+  "categories": [
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "juujin",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/a-centaurs-life"
+  ],
+  "relations": {
+    "kitsu": "13270",
+    "anilist/anime": "98519",
+    "aozora": "BiuMYngbqv",
+    "myanimelist/anime": "34525",
+    "thetvdb": "327597/1"
+  }
+}

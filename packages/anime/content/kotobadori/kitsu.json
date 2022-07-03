@@ -1,0 +1,23 @@
+{
+  "slug": "kotobadori",
+  "synopsis": "Music video for the song Kotobadori by Tomoyo Harada that was featured on NHK's Minna no Uta program. The video was animated by Masahiro Okano.",
+  "title": {
+    "jp": "Kotobadori"
+  },
+  "releasedAt": "2019-06-03T00:00:00.000Z",
+  "finishedAt": "2019-06-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43659/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43659",
+    "anilist/anime": "125263",
+    "myanimelist/anime": "42853"
+  }
+}

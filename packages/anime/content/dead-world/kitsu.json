@@ -1,0 +1,23 @@
+{
+  "slug": "dead-world",
+  "synopsis": "In the forest ...",
+  "title": {
+    "jp": "Dead World"
+  },
+  "releasedAt": "2016-09-16T00:00:00.000Z",
+  "finishedAt": "2016-09-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12545/original.png",
+  "categories": [
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12545",
+    "anilist/anime": "102785",
+    "aozora": "OBXiHsoH7B",
+    "myanimelist/anime": "34060"
+  }
+}

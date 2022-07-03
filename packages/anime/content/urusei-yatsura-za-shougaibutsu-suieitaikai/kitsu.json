@@ -1,0 +1,35 @@
+{
+  "slug": "urusei-yatsura-za-shougaibutsu-suieitaikai",
+  "synopsis": "The story is from manga volume 23.",
+  "title": {
+    "jp": "Urusei Yatsura: The Shougaibutsu Suieitaikai"
+  },
+  "releasedAt": "2008-12-23T00:00:00.000Z",
+  "finishedAt": "2008-12-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4613/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "alternative present",
+    "asia",
+    "comedy",
+    "earth",
+    "humanoid alien",
+    "japan",
+    "present",
+    "romance",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4613",
+    "anidb": "7322",
+    "anilist/anime": "6567",
+    "aozora": "Q2MT2EhKhp",
+    "myanimelist/anime": "6567"
+  }
+}

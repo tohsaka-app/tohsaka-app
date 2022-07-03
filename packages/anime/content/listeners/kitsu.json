@@ -1,0 +1,25 @@
+{
+  "slug": "listeners",
+  "synopsis": "The \"great adolescent symphony\" is set in a world where nothing called \"music\" exists. A boy meets Myū, a mysterious girl with an empty audio input jack on her body. When she is plugged into an amp, something that will change the world is set in motion …. \"Thus begins a journey of sound that will never be forgotten.\"\n\n(Source: ANN)",
+  "title": {
+    "jp": "Listeners"
+  },
+  "releasedAt": "2020-04-04T00:00:00.000Z",
+  "finishedAt": "2020-06-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42391/original.jpg",
+  "categories": [
+    "music",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/listeners"
+  ],
+  "relations": {
+    "kitsu": "42391",
+    "anilist/anime": "109856",
+    "myanimelist/anime": "40165"
+  }
+}

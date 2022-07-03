@@ -1,0 +1,31 @@
+{
+  "slug": "gokiburi-tachi-no-tasogare",
+  "synopsis": "Hybrid film with animated cockroaches interacting with live-action actors.\nIn a trashy bachelor pad lived a colony of roaches who were able to roam freely for food or for games. Because of the homeowner being gentle with the roaches, they have no fear of traps, spray, or being stepped on. However when the homeowner starts bringing over a woman over, life starts to change for the roaches who are already living an easy life.\n(Source: ANN)",
+  "title": {
+    "en": "Twilight of the Cockroaches",
+    "jp": "Gokiburi-tachi no Tasogare"
+  },
+  "releasedAt": "1987-11-21T00:00:00.000Z",
+  "finishedAt": "1987-11-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3526/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "japan",
+    "military",
+    "present",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.amazon.com/Twilight-Cockroaches-Atsuko-Asano/dp/B07RN3MZ7P/"
+  ],
+  "relations": {
+    "kitsu": "3526",
+    "anidb": "2406",
+    "anilist/anime": "4210",
+    "aozora": "fFziT4A4GY",
+    "myanimelist/anime": "4210"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "two-thousand-and-five-nen-uchuu-no-tabi",
+  "synopsis": "Experimental short film by Michio Mihara.",
+  "title": {
+    "jp": "2005-nen Uchuu no Tabi"
+  },
+  "releasedAt": "2005-12-31T00:00:00.000Z",
+  "finishedAt": "2005-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10040/original.jpg",
+  "categories": [
+    "dementia",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10040",
+    "anidb": "11398",
+    "anilist/anime": "104092",
+    "aozora": "f6DEinuUyI",
+    "myanimelist/anime": "28339"
+  }
+}

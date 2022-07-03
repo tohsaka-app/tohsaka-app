@@ -1,0 +1,26 @@
+{
+  "slug": "miraculous-tales-of-ladybug-and-cat-noir-christmaster",
+  "synopsis": "Christmas special for Season 3.",
+  "title": {
+    "en": "Miraculous: Tales of Ladybug and Cat Noir - Christmaster"
+  },
+  "releasedAt": "2019-12-01T00:00:00.000Z",
+  "finishedAt": "2019-12-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44437/original.png",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "henshin",
+    "magical girl",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44437"
+  }
+}

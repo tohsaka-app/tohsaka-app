@@ -1,0 +1,26 @@
+{
+  "slug": "yatogame-chan-kansatsu-nikki-sansatsume",
+  "synopsis": "Third season of Yatogame-chan Kansatsu Nikki.",
+  "title": {
+    "jp": "Yatogame-chan Kansatsu Nikki Sansatsume"
+  },
+  "releasedAt": "2021-01-10T00:00:00.000Z",
+  "finishedAt": "2021-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43593/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43593/original.png",
+  "categories": [
+    "comedy",
+    "school life",
+    "shounen",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43593",
+    "anilist/anime": "124394",
+    "myanimelist/anime": "42959"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "kizuna-koi-no-kara-sawagi",
+  "synopsis": "Enjouji and Ranmaru are a mostly-happy couple, but when Ranmaru finds lipstick on Enjouji, he becomes suspicious and leaves in a huff. Enjouji follows Ranmaru throughout the day. As they do so, the two men think about their past and their uncertain future. ",
+  "title": {
+    "en": "Kizuna: Much Ado About Nothing",
+    "jp": "Kizuna: Koi no kara Sawagi"
+  },
+  "releasedAt": "2001-03-03T00:00:00.000Z",
+  "finishedAt": "2001-03-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/661/original.jpg",
+  "categories": [
+    "romance",
+    "shounen ai",
+    "yaoi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "661",
+    "anidb": "3459",
+    "anilist/anime": "734",
+    "aozora": "ezo1JGbhr2",
+    "myanimelist/anime": "734"
+  }
+}

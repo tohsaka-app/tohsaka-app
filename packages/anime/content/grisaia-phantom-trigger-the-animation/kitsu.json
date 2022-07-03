@@ -1,0 +1,22 @@
+{
+  "slug": "grisaia-phantom-trigger-the-animation",
+  "synopsis": "Sequel to Grisaia: Phantom Trigger THE ANIMATION - Stargazer.",
+  "title": {
+    "jp": "Grisaia: Phantom Trigger the Animation"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/46011/poster_image/e2af94d5fc1dab085048e48c5aa6a0ac.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46011",
+    "anilist/anime": "145740",
+    "myanimelist/anime": "51119"
+  }
+}

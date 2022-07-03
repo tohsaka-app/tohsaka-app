@@ -1,0 +1,30 @@
+{
+  "slug": "kakushigoto-tv",
+  "synopsis": "The story of Kakushigoto follows the father-daughter unit, Kakushi and Hime Goto. Kakushi loves his daughter more than anything, but he doesn't want the 4th grade Hime to know that her father is the author of a somewhat vulgar and disreputable weekly manga series because he fears that Hime would resent him if she found out. With the help of his editors and assistants, Kakushi does his best to keep his profession a secret … with varying results.\n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Kakushigoto (TV)"
+  },
+  "releasedAt": "2020-04-02T00:00:00.000Z",
+  "finishedAt": "2020-06-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42722/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42722/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "family",
+    "shounen",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/kakushigoto"
+  ],
+  "relations": {
+    "kitsu": "42722",
+    "anilist/anime": "113311",
+    "myanimelist/anime": "40716"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "trapp-ikka-monogatari",
+  "synopsis": "Based on the same story that produced the classic musical 'The Sound of Music', this is the story of Maria, who leaves her life in a convent to take up the responsibility of taking care of Captain Trapp's children.\n(Source: ANN)",
+  "title": {
+    "en": "The Trapp Family Story",
+    "jp": "Trapp Ikka Monogatari"
+  },
+  "releasedAt": "1991-01-13T00:00:00.000Z",
+  "finishedAt": "1991-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2322/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2322/original.jpg",
+  "categories": [
+    "coming of age",
+    "europe",
+    "historical",
+    "music",
+    "past",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2322",
+    "anidb": "2293",
+    "anilist/anime": "2557",
+    "aozora": "1LU8xCJdN2",
+    "myanimelist/anime": "2557",
+    "thetvdb": "254954/1",
+    "thetvdb/series": "254954"
+  }
+}

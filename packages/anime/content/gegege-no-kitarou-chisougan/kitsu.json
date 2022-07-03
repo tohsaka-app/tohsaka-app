@@ -1,0 +1,33 @@
+{
+  "slug": "gegege-no-kitarou-chisougan",
+  "synopsis": "A retelling of episode 37 from the 1971 TV anime.",
+  "title": {
+    "en": "Spooky Kitaro: The All Seeing Eye",
+    "jp": "Gegege no Kitarou: Chisougan"
+  },
+  "releasedAt": "1980-07-12T00:00:00.000Z",
+  "finishedAt": "1980-07-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5217/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "horror",
+    "japan",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5217",
+    "anidb": "7474",
+    "anilist/anime": "8150",
+    "aozora": "FpoGQnMHew",
+    "myanimelist/anime": "8150"
+  }
+}

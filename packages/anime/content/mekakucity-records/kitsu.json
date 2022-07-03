@@ -1,0 +1,21 @@
+{
+  "slug": "mekakucity-records",
+  "synopsis": "Jin (Shizen no Teki-P)'s incredibly popular vocaloid song series (sung by IA and Hatsune Miku) with PV's done mainly by Sidu and Wannyanpu.\n\nThis entry encompasses the official music videos published on the Mekakucity Records DVD release.",
+  "title": {
+    "jp": "Mekakucity Records"
+  },
+  "releasedAt": "2013-05-29T00:00:00.000Z",
+  "finishedAt": "2013-05-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40956/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40956",
+    "anilist/anime": "102734",
+    "aozora": "vIWdME5hwv",
+    "myanimelist/anime": "36494"
+  }
+}

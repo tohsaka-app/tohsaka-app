@@ -1,0 +1,23 @@
+{
+  "slug": "ame-iro-cocoa-jouhoukyoku",
+  "synopsis": "Special episode that announced three important news, including information on the second season.",
+  "title": {
+    "en": "",
+    "jp": "Ame-iro Cocoa Jouhoukyoku"
+  },
+  "releasedAt": "2015-06-28T00:00:00.000Z",
+  "finishedAt": "2015-06-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11175/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11175",
+    "aozora": "Ofy1qTQlPR"
+  }
+}

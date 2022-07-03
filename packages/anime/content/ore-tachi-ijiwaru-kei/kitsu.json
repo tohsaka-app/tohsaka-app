@@ -1,0 +1,23 @@
+{
+  "slug": "ore-tachi-ijiwaru-kei",
+  "synopsis": "An anime about Kei's daily life.",
+  "title": {
+    "jp": "Ore-tachi Ijiwaru Kei"
+  },
+  "releasedAt": "2004-12-26T00:00:00.000Z",
+  "finishedAt": "2005-04-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9516/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9516",
+    "anidb": "4091",
+    "aozora": "gHvmAkn8IE",
+    "myanimelist/anime": "25809"
+  }
+}

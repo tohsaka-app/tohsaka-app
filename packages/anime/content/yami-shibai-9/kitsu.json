@@ -1,0 +1,27 @@
+{
+  "slug": "yami-shibai-9",
+  "synopsis": "The ninth season of Yami Shibai.",
+  "title": {
+    "en": "Yamishibai: Japanese Ghost Stories 9",
+    "jp": "Yami Shibai 9"
+  },
+  "releasedAt": "2021-07-11T00:00:00.000Z",
+  "finishedAt": "2021-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44664/original.jpg",
+  "categories": [
+    "dementia",
+    "horror",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/theatre-of-darkness-yamishibai"
+  ],
+  "relations": {
+    "kitsu": "44664",
+    "anidb": "16363",
+    "anilist/anime": "135108"
+  }
+}

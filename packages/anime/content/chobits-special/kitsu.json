@@ -1,0 +1,28 @@
+{
+  "slug": "chobits-special",
+  "synopsis": "A DVD recap episode of the Chobits TV series.",
+  "title": {
+    "en": "Chobits: Hibiya and Kotoko Chat",
+    "jp": "Chobits Recap"
+  },
+  "releasedAt": "2003-02-21T00:00:00.000Z",
+  "finishedAt": "2003-02-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1176/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "ecchi",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1176",
+    "anilist/anime": "1311",
+    "aozora": "gOJuCYwvoA",
+    "myanimelist/anime": "1311"
+  }
+}

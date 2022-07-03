@@ -1,0 +1,24 @@
+{
+  "slug": "watashi-shain-ryokou-tte-hajimete-na-node",
+  "synopsis": "Mangaka Shoutarou Tokunou announced via his Twitter that an unaired thirteenth episode of New Game! about an open-air bath will be distributed to those who have collected the tickets that are included with all six BD and DVD volumes.\n(Source: MAL News)",
+  "title": {
+    "jp": "New Game!: Watashi, Shain Ryokou tte Hajimete nano de..."
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12681/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12681",
+    "anilist/anime": "97637",
+    "aozora": "bUMAQfe2ot",
+    "myanimelist/anime": "34277"
+  }
+}

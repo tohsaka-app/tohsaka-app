@@ -1,0 +1,21 @@
+{
+  "slug": "astro-boy-reboot",
+  "synopsis": "Japan's Tezuka Productions, France's Caribara Animation, and Monaco's Shibuya Productions are creating a new animated television series of Astro Boy. The series, animated with both 2D and CG techniques, was first announced at the Annecy Festival's International Animation Film Market.\n\n(Source: ANN)",
+  "title": {},
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11944/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11944/original.jpg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11944"
+  }
+}

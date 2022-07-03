@@ -1,0 +1,27 @@
+{
+  "slug": "mahou-shoujo-lyrical-nanoha-detonation",
+  "synopsis": "The film will delve into the history between Iris and Yuri, and the tragedy of Eltoria's \"Planet Reclamation Committee.\"",
+  "title": {
+    "jp": "Mahou Shoujo Lyrical Nanoha: Detonation"
+  },
+  "releasedAt": "2018-10-19T00:00:00.000Z",
+  "finishedAt": "2018-10-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40853/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "drama",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40853",
+    "anilist/anime": "99614",
+    "aozora": "p2Gn0yoMuT",
+    "myanimelist/anime": "35984"
+  }
+}

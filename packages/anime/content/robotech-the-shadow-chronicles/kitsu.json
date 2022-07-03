@@ -1,0 +1,29 @@
+{
+  "slug": "robotech-the-shadow-chronicles",
+  "synopsis": "Scott Bernard and Vince Grant fight to end a decades-long struggle against an enigmatic alien race known as the Invid. However, the mysterious disappearance of the legendary Admiral Hunter will unfold in a treacherous mystery that could tear apart our young heroes - and threaten their very survival!",
+  "title": {
+    "en": "",
+    "jp": "Robotech - The Shadow Chronicles"
+  },
+  "releasedAt": "2006-08-25T00:00:00.000Z",
+  "finishedAt": "2006-08-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7949/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7949/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "anime influenced",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "shipboard",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7949"
+  }
+}

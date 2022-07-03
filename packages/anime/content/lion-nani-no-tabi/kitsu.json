@@ -1,0 +1,24 @@
+{
+  "slug": "lion-nani-no-tabi",
+  "synopsis": "Lion Nanny rides the train and embarks on a life journey while interacting with those around her.\n\n(Source: Graduate Work 2018, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation)",
+  "title": {
+    "en": "Lion Nanny's Journey",
+    "jp": "Lion Nani no Tabi"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2021-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45255/poster_image/f1321553b55d0edd23fa13b7cfc7e287.png",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/u_cNP6kjNgs"
+  ],
+  "relations": {
+    "kitsu": "45255",
+    "anilist/anime": "139695"
+  }
+}

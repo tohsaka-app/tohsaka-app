@@ -1,0 +1,20 @@
+{
+  "slug": "asonde-oboeru-gakushuu-dvd",
+  "synopsis": "An educational DVD series meant to teach children their ABC's, how to read time, simple math, and geography.",
+  "title": {
+    "jp": "Asonde Oboeru Gakushuu DVD"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40732/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40732",
+    "aozora": "D4LE80qwRC",
+    "myanimelist/anime": "35275"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "since-re-ly",
+  "synopsis": "MV for the song Since-Re:ly from the Re:A Project.",
+  "title": {
+    "en": "Since-Re:ly",
+    "jp": "Since-Re:ly"
+  },
+  "releasedAt": "2019-04-13T00:00:00.000Z",
+  "finishedAt": "2019-04-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44098/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=8xfeej2eC2U&feature=youtu.be&ab_channel=Re%3AAprojecT"
+  ],
+  "relations": {
+    "kitsu": "44098"
+  }
+}

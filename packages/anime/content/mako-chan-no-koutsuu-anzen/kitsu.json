@@ -1,0 +1,24 @@
+{
+  "slug": "mako-chan-no-koutsuu-anzen",
+  "synopsis": "An educational film about traffic safety.",
+  "title": {
+    "jp": "Mako-chan no Koutsuu Anzen"
+  },
+  "releasedAt": "1961-01-01T00:00:00.000Z",
+  "finishedAt": "1961-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11718/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11718",
+    "anilist/anime": "117792",
+    "aozora": "CbL1lu78Mh",
+    "myanimelist/anime": "32224"
+  }
+}

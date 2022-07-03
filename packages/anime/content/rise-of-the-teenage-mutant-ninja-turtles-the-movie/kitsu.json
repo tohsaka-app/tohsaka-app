@@ -1,0 +1,26 @@
+{
+  "slug": "rise-of-the-teenage-mutant-ninja-turtles-the-movie",
+  "synopsis": "When a mysterious stranger arrives from the future with a dire warning, Leo is forced to rise &amp; lead his brothers, Raph, Donnie, &amp; Mikey in a fight to save the world from a terrifying alien species… the Krang!\n\n(Source: Turtlepedia.Fandom)",
+  "title": {
+    "en": "Rise of the Teenage Mutant Ninja Turtles: The Movie"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45681/poster_image/735ce0f94bca75629bfda40f86f3791a.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "martial arts",
+    "science fiction",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45681",
+    "imdb/episodes": "tt9784708"
+  }
+}

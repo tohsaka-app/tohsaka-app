@@ -1,0 +1,25 @@
+{
+  "slug": "hoshi-uranai-kirakira",
+  "synopsis": "Music video for the song by Shounen Shoujo Gasshou Dan Mizuumi featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Hoshi Uranai Kirakira"
+  },
+  "releasedAt": "1983-12-01T00:00:00.000Z",
+  "finishedAt": "1983-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10270/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10270",
+    "anidb": "12640",
+    "anilist/anime": "103975",
+    "aozora": "omYNmtp9vu",
+    "myanimelist/anime": "29451"
+  }
+}

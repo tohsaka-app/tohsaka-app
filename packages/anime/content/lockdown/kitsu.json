@@ -1,0 +1,22 @@
+{
+  "slug": "lockdown",
+  "synopsis": "Toonami's second Total Immersion Event.",
+  "title": {},
+  "releasedAt": "2001-09-17T00:00:00.000Z",
+  "finishedAt": "2001-09-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42010/original.jpg",
+  "categories": [
+    "anime influenced",
+    "mecha",
+    "science fiction",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42010"
+  }
+}

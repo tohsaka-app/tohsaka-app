@@ -1,0 +1,19 @@
+{
+  "slug": "saigo-no-kuushuu-kumagaya",
+  "synopsis": "",
+  "title": {
+    "jp": "Saigo no Kuushuu: Kumagaya"
+  },
+  "releasedAt": "1993-01-01T00:00:00.000Z",
+  "finishedAt": "1993-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41532/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41532",
+    "myanimelist/anime": "35093"
+  }
+}

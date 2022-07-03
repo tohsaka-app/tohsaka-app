@@ -1,0 +1,24 @@
+{
+  "slug": "blue-reflection-ray-special",
+  "synopsis": "Recap of the first 12 episodes of Blue Reflection Ray.",
+  "title": {
+    "en": "Blue Reflection Ray Recap",
+    "jp": "Blue Reflection Ray Special"
+  },
+  "releasedAt": "2021-07-03T00:00:00.000Z",
+  "finishedAt": "2021-07-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45593/poster_image/192b752f3e93adbec3cd44046a650c26.jpg",
+  "categories": [
+    "fantasy",
+    "magic",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45593",
+    "myanimelist/anime": "49348"
+  }
+}

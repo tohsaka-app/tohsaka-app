@@ -1,0 +1,33 @@
+{
+  "slug": "dragon-ball-z-saiya-jin-zetsumetsu-keikaku",
+  "synopsis": "Dr. Raichii is the only Tsufurujin (the race eradicated by the Saiyajin many years ago) thought to have survived. He now is going to take revenge on the only surviving Saiyajin still alive, Goku and Vegita. He uses machines that emit destron, a gas that will destroy all life on Earth. Now the the Z warriors only have 72 hours to find and destroy Dr. Raichii.\n(Source: ANN)",
+  "title": {
+    "jp": "Dragon Ball Z: Saiya-jin Zetsumetsu Keikaku"
+  },
+  "releasedAt": "1993-07-23T00:00:00.000Z",
+  "finishedAt": "1993-07-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/874/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/874/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "magic",
+    "martial arts",
+    "science fiction",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "874",
+    "anidb": "2643",
+    "anilist/anime": "984",
+    "aozora": "jtSAOWV7YM",
+    "myanimelist/anime": "984"
+  }
+}

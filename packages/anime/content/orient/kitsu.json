@@ -1,0 +1,31 @@
+{
+  "slug": "orient",
+  "synopsis": "At age 10, best friends Musashi and Kojirou sat in excited silence as Kojirou's father spun tales of evil demons who preyed on the innocent, and the warriors who defeated them. Practicing swordplay, the two swear an oath to become the strongest in the world, but as they grow up, Kojirou turns cynical, and Musashi comes to the realization that he can't overturn 150 years of demon rule on his own. He's being called a prodigy with a pickaxe, and he's almost ready to settle into a life of labor. Yet he can't shake the feeling that he is still has a responsibility to act... and soon, the injustices of his world will force his hand...\n\n(Source: Kodansha USA)",
+  "title": {
+    "en": "Orient",
+    "jp": "Orient"
+  },
+  "releasedAt": "2022-01-05T00:00:00.000Z",
+  "finishedAt": "2022-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44205/poster_image/634c1ae17c1673a1f6e44e1522eb0211.jpg",
+  "coverUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44205/cover_image/e9b1a3e4d456dd2b883700afb78be3ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220703%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220703T141426Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=bd36848734bddaf994a59d58e4a1f00808d2133885546fc8165a188b6cd01599",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "historical",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/orient"
+  ],
+  "relations": {
+    "kitsu": "44205",
+    "anilist/anime": "128034",
+    "myanimelist/anime": "45560"
+  }
+}

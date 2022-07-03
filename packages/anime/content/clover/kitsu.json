@@ -1,0 +1,29 @@
+{
+  "slug": "clover",
+  "synopsis": "Suu is a Four Leaf Clover. Her power is unrivaled, yet all she has known her whole life is loneliness. One day, a man named Kazuhiko appears and accompanies Suu for her first and last journey, to the place where she can find happiness.",
+  "title": {
+    "jp": "Clover"
+  },
+  "releasedAt": "1999-08-21T00:00:00.000Z",
+  "finishedAt": "1999-08-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1700/original.jpg",
+  "categories": [
+    "action",
+    "contemporary fantasy",
+    "fantasy",
+    "music",
+    "present",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1700",
+    "anidb": "2893",
+    "anilist/anime": "1890",
+    "aozora": "H11uEudM1j",
+    "myanimelist/anime": "1890"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "calimero",
+  "synopsis": "Calimero is a small black bird who has a shell on his head; his dream is to fly like the other birds. When he tries to fly and screws up he is teased by the other birds, but his girlfriend Pricilla is there to cheer him up. Despite his appearance, he is quite smart and thinks up an idea to fly.\n(Source: ANN)",
+  "title": {
+    "jp": "Calimero"
+  },
+  "releasedAt": "1974-10-15T00:00:00.000Z",
+  "finishedAt": "1975-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2581/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2581",
+    "anidb": "1907",
+    "anilist/anime": "2827",
+    "aozora": "QFJUxMwP74",
+    "myanimelist/anime": "2827",
+    "thetvdb": "131141/1",
+    "thetvdb/series": "131141"
+  }
+}

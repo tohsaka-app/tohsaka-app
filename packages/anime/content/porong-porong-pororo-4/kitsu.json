@@ -1,0 +1,28 @@
+{
+  "slug": "porong-porong-pororo-4",
+  "synopsis": "A direct continuation of the previous season where an anthropomorphic car gets separated from his home and arrive in Pororo's village and beings to live there.",
+  "title": {
+    "en": "Pororo the Little Penguin 4",
+    "jp": "Porong Porong Pororo 4"
+  },
+  "releasedAt": "2012-02-29T00:00:00.000Z",
+  "finishedAt": "2012-05-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9546/original.jpg",
+  "categories": [
+    "kids",
+    "motorsport"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9546",
+    "anilist/anime": "102372",
+    "aozora": "rGqvAhRTJh",
+    "myanimelist/anime": "27457",
+    "thetvdb": "139251/4",
+    "thetvdb/season": "591200",
+    "thetvdb/series": "139251"
+  }
+}

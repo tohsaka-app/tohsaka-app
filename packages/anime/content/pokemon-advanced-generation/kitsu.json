@@ -1,0 +1,34 @@
+{
+  "slug": "pokemon-advanced-generation",
+  "synopsis": "After participating in the Johto League, Ash decides to begin anew in yet another journey; this time by himself and Pikachu, in the land of Hoenn. Though he isn't alone for long, as 10-year-old May (whom dislikes Pokemon, but just wants to come along to see the world) travels with him after Pikachu destroys her bicycle. Ash also meets up with his old companion, Brock, and May's younger brother, Max. Together, they travel along in Hoenn, battling Gym Leaders, entering Contests, and other events on the way to the Hoenn League. \n(Source: ANN)",
+  "title": {
+    "en": "Pokemon: Advanced",
+    "jp": "Pokemon Advanced Generation"
+  },
+  "releasedAt": "2002-11-21T00:00:00.000Z",
+  "finishedAt": "2006-09-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1404/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "plot continuity",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1404",
+    "anidb": "1041",
+    "anilist/anime": "1564",
+    "aozora": "941ZvQCTll",
+    "myanimelist/anime": "1564",
+    "thetvdb": "76703",
+    "trakt": "60156"
+  }
+}

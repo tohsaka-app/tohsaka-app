@@ -1,0 +1,22 @@
+{
+  "slug": "learn-to-love",
+  "synopsis": "\"Someone loves you whether you know it or not.\"\n(Source: Maya Yonesho)",
+  "title": {
+    "jp": "Learn to Love"
+  },
+  "releasedAt": "1999-01-01T00:00:00.000Z",
+  "finishedAt": "1999-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10410/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10410",
+    "aozora": "MYHJp50txj",
+    "myanimelist/anime": "29712"
+  }
+}

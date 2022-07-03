@@ -1,0 +1,26 @@
+{
+  "slug": "fw-hamatora",
+  "synopsis": "Summary movie of Hamatora The Animation and Re:␣Hamatora.",
+  "title": {
+    "jp": "Fw:Hamatora"
+  },
+  "releasedAt": "2015-11-14T00:00:00.000Z",
+  "finishedAt": "2015-11-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10851/original.jpg",
+  "categories": [
+    "comedy",
+    "mystery",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10851",
+    "anidb": "11727",
+    "anilist/anime": "107199",
+    "aozora": "NMN33PgqfL",
+    "myanimelist/anime": "30290"
+  }
+}

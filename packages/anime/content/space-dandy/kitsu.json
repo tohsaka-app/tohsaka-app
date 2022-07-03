@@ -1,0 +1,44 @@
+{
+  "slug": "space-dandy",
+  "synopsis": "The universe is a mysterious and strange place, full of even stranger and more mysterious aliens. Dandy's job is to hunt down unclassified aliens and register them for a reward. It sounds easy enough, but something weird always seems to happen along the way, like chance meetings with zombies, mystical ramen chefs, and adorable orphans. Hunting down aliens may not be easy, but it's definitely never boring.\nWith the help of his sidekicks, the adorable robot vacuum QT and cat-like alien Meow, and his slightly-used ship the Aloha Oe, Dandy roams the galaxy searching for new alien species. What he usually finds, however, is adventure, danger, and romance, and no two journeys (or universes) are ever the same. This is Space☆Dandy, baby!",
+  "title": {
+    "en": "Space Dandy",
+    "jp": "Space☆Dandy"
+  },
+  "releasedAt": "2014-01-05T00:00:00.000Z",
+  "finishedAt": "2014-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7910/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7910/original.png",
+  "categories": [
+    "absurdist humour",
+    "alien",
+    "anthropomorphism",
+    "comedy",
+    "future",
+    "parody",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space travel"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/space-dandy",
+    "http://www.funimation.com/shows/space-dandy/",
+    "http://www.hulu.com/space-dandy"
+  ],
+  "relations": {
+    "kitsu": "7910",
+    "anidb": "10027",
+    "anilist/anime": "20057",
+    "aozora": "duUbECrPXw",
+    "hulu": "50014482",
+    "myanimelist/anime": "20057",
+    "thetvdb": "272849/1",
+    "thetvdb/season": "528869",
+    "thetvdb/series": "272849",
+    "trakt": "73626"
+  }
+}

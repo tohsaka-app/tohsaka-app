@@ -1,0 +1,34 @@
+{
+  "slug": "saenai-heroine-no-sodatekata-flat",
+  "synopsis": "Second season of Saenai Heroine no Sodatekata.",
+  "title": {
+    "en": "Saekano: How to Raise a Boring Girlfriend .flat",
+    "jp": "Saenai Heroine no Sodatekata ♭"
+  },
+  "releasedAt": "2017-04-14T00:00:00.000Z",
+  "finishedAt": "2017-06-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10909/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10909/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "harem",
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "https://www.amazon.com/gp/video/detail/B06Y1QNBN3"
+  ],
+  "relations": {
+    "kitsu": "10909",
+    "anidb": "11221",
+    "anilist/anime": "21180",
+    "aozora": "qLWKhfMVLI",
+    "myanimelist/anime": "30727",
+    "thetvdb": "281275/2",
+    "trakt": "77579"
+  }
+}

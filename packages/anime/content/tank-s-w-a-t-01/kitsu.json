@@ -1,0 +1,32 @@
+{
+  "slug": "tank-s-w-a-t-01",
+  "synopsis": "Masamune Shirow presents a story about the Dominion Tank Police dealing with terrorists taking over the NT Building with AI driven tanks.",
+  "title": {
+    "en": "TANK S.W.A.T. 01",
+    "jp": "TANK S.W.A.T. 01"
+  },
+  "releasedAt": "2006-03-24T00:00:00.000Z",
+  "finishedAt": "2006-03-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1975/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "future",
+    "japan",
+    "law and order",
+    "mecha",
+    "science fiction",
+    "special squads"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1975",
+    "anidb": "3112",
+    "anilist/anime": "2181",
+    "aozora": "qHBXX6ggZQ",
+    "myanimelist/anime": "2181"
+  }
+}

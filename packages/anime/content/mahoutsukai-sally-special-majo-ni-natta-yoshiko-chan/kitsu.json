@@ -1,0 +1,21 @@
+{
+  "slug": "mahoutsukai-sally-special-majo-ni-natta-yoshiko-chan",
+  "synopsis": "First Mahou Tsukai Sally special.",
+  "title": {
+    "jp": "Mahoutsukai Sally: Majo ni Natta Yoshiko-chan"
+  },
+  "releasedAt": "1990-01-01T00:00:00.000Z",
+  "finishedAt": "1990-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13163/original.jpg",
+  "categories": [
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13163",
+    "myanimelist/anime": "32794"
+  }
+}

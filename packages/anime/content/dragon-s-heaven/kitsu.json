@@ -1,0 +1,33 @@
+{
+  "slug": "dragon-s-heaven",
+  "synopsis": "In the year 3195, there was a war between an army of robots and the humans. When Shaian, a sentient combat armor, lost his companion in battle, he shut down until his internal systems spotted a new human. It's now almost a 1000 years later, and Shaian's greatest enemy is still alive and doing battle in Brazil. With a new friend`s help, Shaian may be able to stop this evil force before another war rages over the continent.\n(Source: ANN)",
+  "title": {
+    "en": "Dragon's Heaven",
+    "jp": "Dragon's Heaven"
+  },
+  "releasedAt": "1988-02-25T00:00:00.000Z",
+  "finishedAt": "1988-02-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2817/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "mecha",
+    "piloted robot",
+    "post apocalypse",
+    "power suit",
+    "science fiction",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2817",
+    "anidb": "2622",
+    "anilist/anime": "3135",
+    "aozora": "YIaloSBMPS",
+    "myanimelist/anime": "3135"
+  }
+}

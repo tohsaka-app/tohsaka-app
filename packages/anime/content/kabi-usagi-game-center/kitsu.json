@@ -1,0 +1,22 @@
+{
+  "slug": "kabi-usagi-game-center",
+  "synopsis": "The mold rabbits visit a game center.",
+  "title": {
+    "jp": "Kabi Usagi: Game Center"
+  },
+  "releasedAt": "2012-07-22T00:00:00.000Z",
+  "finishedAt": "2012-07-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12816/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12816",
+    "aozora": "AuErOkjg25",
+    "myanimelist/anime": "33870"
+  }
+}

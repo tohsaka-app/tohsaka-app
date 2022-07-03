@@ -1,0 +1,34 @@
+{
+  "slug": "hell-target",
+  "synopsis": "A spaceship is lost near the forbidden planet of Inferno II. Some years later, a second ship with a crew of nine gets there and encounters a monster that rapidly makes mince meat of most of them. The sole survivor, Makurou Kitazato, must destroy the monster before it can surprise a third ship that is already en route.\n(Source: AniDB)",
+  "title": {
+    "en": "Hell Target",
+    "jp": "Hell Target"
+  },
+  "releasedAt": "1987-01-21T00:00:00.000Z",
+  "finishedAt": "1987-01-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6506/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "angst",
+    "future",
+    "horror",
+    "other planet",
+    "science fiction",
+    "space",
+    "space travel",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6506",
+    "anidb": "6294",
+    "anilist/anime": "11411",
+    "aozora": "dESl17cyWc",
+    "myanimelist/anime": "11411"
+  }
+}

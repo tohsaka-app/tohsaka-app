@@ -1,0 +1,28 @@
+{
+  "slug": "gegege-no-kitarou-2007",
+  "synopsis": "The classic tale of Gegege no Kitaro told yet again.  The story is the usual in the Gegege no Kitaro series. Kitaro is a boy living in the Gegege Forest/Cemetery (lands where many Yokai roam) with his mostly dead father (who survives only in his eye), Sunakake Babaa, NekoMusume, and Konaki Jiji.  One difference between this Kitaro and all of the others that came before him, is that this one has brown hair instead of the standard grayish silver. ",
+  "title": {
+    "jp": "Gegege no Kitarou (2007)"
+  },
+  "releasedAt": "2007-04-01T00:00:00.000Z",
+  "finishedAt": "2009-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1960/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1960/original.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "fantasy",
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1960",
+    "anidb": "5049",
+    "anilist/anime": "2165",
+    "aozora": "ntpqdLNQ2u",
+    "myanimelist/anime": "2165"
+  }
+}

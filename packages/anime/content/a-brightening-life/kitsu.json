@@ -1,0 +1,25 @@
+{
+  "slug": "a-brightening-life",
+  "synopsis": "Above ground, there are many people, coming and going. Underneath a certain sidewalk grate, lives a garbage bag. He has no work, no home, and no family. This is a story of the dirty, black garbage bag and how he gains new life through his connection to the outside world.",
+  "title": {
+    "en": "A brightening life",
+    "jp": "A Brightening Life"
+  },
+  "releasedAt": "2010-03-31T00:00:00.000Z",
+  "finishedAt": "2010-03-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43474/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=-QtuW9-g3uo"
+  ],
+  "relations": {
+    "kitsu": "43474",
+    "myanimelist/anime": "40628"
+  }
+}

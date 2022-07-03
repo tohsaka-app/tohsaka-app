@@ -1,0 +1,22 @@
+{
+  "slug": "pixel-galaxy",
+  "synopsis": "Official Music Video for Snail's House's song \"Pixel Galaxy.\" ",
+  "title": {},
+  "releasedAt": "2017-10-23T00:00:00.000Z",
+  "finishedAt": "2017-10-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13986/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13986/original.jpg",
+  "categories": [
+    "contemporary fantasy",
+    "fantasy",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13986"
+  }
+}

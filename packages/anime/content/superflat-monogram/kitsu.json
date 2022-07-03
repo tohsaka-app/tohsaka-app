@@ -1,0 +1,26 @@
+{
+  "slug": "superflat-monogram",
+  "synopsis": "Murakami made this movie in cooperation with Louis Vuitton, the handbag producer. It is more a commercial for Louis Vuitton than it is an anime movie, however the animation is quite special. ",
+  "title": {
+    "jp": "Superflat Monogram"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2075/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2075/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2075",
+    "anidb": "5057",
+    "anilist/anime": "2290",
+    "aozora": "VrPDyxyX6F",
+    "myanimelist/anime": "2290"
+  }
+}

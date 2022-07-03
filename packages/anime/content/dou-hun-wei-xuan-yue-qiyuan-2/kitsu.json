@@ -1,0 +1,23 @@
+{
+  "slug": "dou-hun-wei-xuan-yue-qiyuan-2",
+  "synopsis": null,
+  "title": {
+    "en": "Spirit Guardians 2"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2018-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43746/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43746",
+    "anilist/anime": "110272",
+    "myanimelist/anime": "41079"
+  }
+}

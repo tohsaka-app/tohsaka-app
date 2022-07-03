@@ -1,0 +1,24 @@
+{
+  "slug": "souhaku-shisuferia",
+  "synopsis": "Shoujo Byou (少女病) doujin musical group's Souhaku Shisuferia CD single included a music video DVD with original animation.",
+  "title": {
+    "jp": "Souhaku Shisuferia"
+  },
+  "releasedAt": "2009-12-23T00:00:00.000Z",
+  "finishedAt": "2009-12-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8873/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8873",
+    "anidb": "7893",
+    "anilist/anime": "13857",
+    "aozora": "z7F9Dgo3ak",
+    "myanimelist/anime": "13857"
+  }
+}

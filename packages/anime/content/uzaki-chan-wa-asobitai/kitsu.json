@@ -1,0 +1,28 @@
+{
+  "slug": "uzaki-chan-wa-asobitai",
+  "synopsis": "Sakurai Shinichi's one wish is for a little peace and quiet. But Uzaki Hana–his boisterous, well-endowed underclassman–has other plans. All she wants is to hang out and poke fun at him. With the help of her chipper charm and peppy persistence, this might just be the start of a beautiful relationship!(Source: Seven Seas Entertainment)",
+  "title": {
+    "en": "Uzaki-chan Wants to Hang Out",
+    "jp": "Uzaki-chan wa Asobitai!"
+  },
+  "releasedAt": "2020-07-10T00:00:00.000Z",
+  "finishedAt": "2020-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43094/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43094/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/uzaki-chan-wants-to-hang-out/?qid=af5a270ed4a322"
+  ],
+  "relations": {
+    "kitsu": "43094",
+    "anilist/anime": "115113",
+    "myanimelist/anime": "41226"
+  }
+}

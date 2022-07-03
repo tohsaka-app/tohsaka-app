@@ -1,0 +1,42 @@
+{
+  "slug": "prince-of-tennis",
+  "synopsis": "The world of tennis is harsh and highly competitive. Numerous schools from Japan battle it out to determine the best of the best. \nSeishin Gakuen Junior High School, more commonly known as Seigaku, is one of the most prominent contestants in this battle of the finest. Their team line-up gets even stronger with the sudden arrival of a young prodigy from the West, Ryouma Echizen, who is determined to prove himself and escape the towering shadow of his legendary father. This fine addition changes the team forever.Prince of Tennis follows the heartwarming and inspirational story of Ryouma on his quest to become one of the best tennis players the country has ever seen. He pushes himself hard so that he can one day surpass his father’s name and his own personal expectations. Alongside the rest of the Seigaku team, Ryouma fights to make his and his teammate's dreams come true.",
+  "title": {
+    "en": "The Prince of Tennis",
+    "jp": "Prince of Tennis"
+  },
+  "releasedAt": "2001-10-10T00:00:00.000Z",
+  "finishedAt": "2005-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13/original.png",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "middle school",
+    "plot continuity",
+    "present",
+    "school clubs",
+    "school life",
+    "shounen",
+    "sports",
+    "tennis"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13",
+    "anidb": "56",
+    "anilist/anime": "22",
+    "aozora": "Ds8LfMhDgI",
+    "hulu": "50026910",
+    "myanimelist/anime": "22",
+    "thetvdb": "73532/1",
+    "thetvdb/series": "73532",
+    "trakt": "62571"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "furiten-kun-1990",
+  "synopsis": "Continuation of the everyday life adventures of the avid mahjong player Furiten-kun.",
+  "title": {
+    "jp": "Furiten-kun (1990)"
+  },
+  "releasedAt": "1990-06-21T00:00:00.000Z",
+  "finishedAt": "1990-07-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9267/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9267",
+    "anidb": "5284",
+    "anilist/anime": "20095",
+    "aozora": "LxulI4JDfQ",
+    "myanimelist/anime": "20095"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "happy-birthday-inochi-kagayaku-toki",
+  "synopsis": "After being abused by her mother physically and mentally Asuka gets taken in by her grandparents. Slowly she learns her own worth as a human being and overcomes many obstacles. ",
+  "title": {
+    "en": "Re-Birthday",
+    "jp": "Happy Birthday: Inochi Kagayaku Toki"
+  },
+  "releasedAt": "1999-07-27T00:00:00.000Z",
+  "finishedAt": "1999-07-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5946/original.jpg",
+  "categories": [
+    "elementary school",
+    "friendship",
+    "japan",
+    "kids",
+    "plot continuity",
+    "present",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5946",
+    "anidb": "6632",
+    "anilist/anime": "9931",
+    "aozora": "4nJjA0GABY",
+    "myanimelist/anime": "9931"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "huyao-xiao-hongniang-jin-chenxi",
+  "synopsis": "The 9th season of Huyao Xiao Hongniang.",
+  "title": {
+    "en": "Fox Spirit Matchmaker 9th Season"
+  },
+  "releasedAt": "2020-06-19T00:00:00.000Z",
+  "finishedAt": "2020-08-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43350/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "fantasy",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43350",
+    "anilist/anime": "117572",
+    "myanimelist/anime": "42176"
+  }
+}

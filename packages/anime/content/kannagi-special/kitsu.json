@@ -1,0 +1,25 @@
+{
+  "slug": "kannagi-special",
+  "synopsis": "Unaired episode included in DVD Vol.7.\nIn this episode they attempt to make a movie with some money they found lying on the ground.",
+  "title": {
+    "jp": "Kannagi: Moshimo Kannagi ga Attara..."
+  },
+  "releasedAt": "2009-05-27T00:00:00.000Z",
+  "finishedAt": "2009-05-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4369/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4369",
+    "anilist/anime": "5978",
+    "aozora": "eT4B3jNbei",
+    "myanimelist/anime": "5978"
+  }
+}

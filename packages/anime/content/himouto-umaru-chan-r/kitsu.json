@@ -1,0 +1,32 @@
+{
+  "slug": "himouto-umaru-chan-r",
+  "synopsis": "The anime's story centers around Taihei Doma and his little sister Umaru, who boasts beautiful looks as well as prowess in both school and sports. However, she has a certain secret. Everyone may think she is the ideal girl, but she is anything but. \"Himōto\" is a pun on \"imōto\" (little sister) and \"himono,\" which means \"dried fish,\" but in slang can refer to a woman who is proper in public but lazy at home.\n\n(Source: ANN)",
+  "title": {
+    "en": "Himouto! Umaru-chan R",
+    "jp": "Himouto! Umaru-chan R"
+  },
+  "releasedAt": "2017-10-08T00:00:00.000Z",
+  "finishedAt": "2017-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13489/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13489/original.png",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.amazon.com/Umaru-and-Dreams/dp/B0768KBDVV",
+    "https://www.hidive.com/tv/himouto-umaru-chan-r"
+  ],
+  "relations": {
+    "kitsu": "13489",
+    "anidb": "13106",
+    "anilist/anime": "98572",
+    "aozora": "KqRoqwUPX7",
+    "myanimelist/anime": "35376",
+    "thetvdb": "293121/2"
+  }
+}

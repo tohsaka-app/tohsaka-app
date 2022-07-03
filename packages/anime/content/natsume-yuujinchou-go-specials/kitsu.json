@@ -1,0 +1,28 @@
+{
+  "slug": "natsume-yuujinchou-go-specials",
+  "synopsis": "Two special episodes bundled with the fourth and fifth volumes of the Blu-ray/DVD.",
+  "title": {
+    "en": "Natsume's Book of Friends 5 Specials",
+    "jp": "Natsume Yuujinchou Go Specials"
+  },
+  "releasedAt": "2017-03-22T00:00:00.000Z",
+  "finishedAt": "2017-04-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13143/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13143/original.jpg",
+  "categories": [
+    "fantasy",
+    "shoujo",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13143",
+    "anilist/anime": "99363",
+    "aozora": "IKq3rYT34C",
+    "myanimelist/anime": "34534"
+  }
+}

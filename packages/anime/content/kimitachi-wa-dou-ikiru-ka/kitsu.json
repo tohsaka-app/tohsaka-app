@@ -1,0 +1,26 @@
+{
+  "slug": "kimitachi-wa-dou-ikiru-ka",
+  "synopsis": "Miyazaki derived the film's title from writer Genzaburou Yoshino's 1937 masterpiece of the same name. He added that this book is a story that has great meaning to the protagonist of his film. Yoshino's book centers around a man named Koperu and his uncle, and through Koperu's spiritual growth, it discusses how to live as human beings. \n\n(source: ANN)",
+  "title": {
+    "en": "How Do You Live?",
+    "jp": "Kimitachi wa Dou Ikiru ka"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41504/original.jpg",
+  "categories": [
+    "coming of age",
+    "historical",
+    "japan",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41504",
+    "anilist/anime": "109979",
+    "myanimelist/anime": "36699"
+  }
+}

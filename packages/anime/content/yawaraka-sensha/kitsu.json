@@ -1,0 +1,23 @@
+{
+  "slug": "yawaraka-sensha",
+  "synopsis": "Yawaraka Sensha is a short flash movie series, with a strange soundtrack, about a soft and cowardly tank. It became popular on the Internet a few years ago because of its ironic message for the war.\n(Source: AniDB)",
+  "title": {
+    "jp": "Yawaraka Sensha"
+  },
+  "releasedAt": "2005-12-01T00:00:00.000Z",
+  "finishedAt": "2011-11-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9955/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9955",
+    "anilist/anime": "126872",
+    "aozora": "Ln2dSD1LHB",
+    "myanimelist/anime": "21275"
+  }
+}

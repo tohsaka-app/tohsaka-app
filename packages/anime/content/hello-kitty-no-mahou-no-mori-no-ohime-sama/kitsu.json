@@ -1,0 +1,28 @@
+{
+  "slug": "hello-kitty-no-mahou-no-mori-no-ohime-sama",
+  "synopsis": "Kitty and Mimmy have to save a kingdom and break a magical spell on a sleeping princess.",
+  "title": {
+    "en": "Hello Kitty in The Sleeping Princess",
+    "jp": "Hello Kitty: Mahou no Mori no Ohimesama"
+  },
+  "releasedAt": "1991-07-20T00:00:00.000Z",
+  "finishedAt": "1991-07-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9849/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9849",
+    "anidb": "7773",
+    "anilist/anime": "18827",
+    "aozora": "4lDvT23ggO",
+    "myanimelist/anime": "18827"
+  }
+}

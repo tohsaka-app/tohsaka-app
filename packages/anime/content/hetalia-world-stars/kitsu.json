@@ -1,0 +1,27 @@
+{
+  "slug": "hetalia-world-stars",
+  "synopsis": "There are strange people in this world. If it is short, it will disappear for several days, and if it is long, it will disappear for hundreds of years. The name and personality changed, and suddenly appeared by someone's unexpected idea. Even though he is the most weird, he is loosely accepted and used by his boss. This is the story of such strange people. (Source: MAL News)",
+  "title": {
+    "jp": "Hetalia World★Stars"
+  },
+  "releasedAt": "2021-04-01T00:00:00.000Z",
+  "finishedAt": "2021-06-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43689/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "parody"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/hetalia/"
+  ],
+  "relations": {
+    "kitsu": "43689",
+    "anidb": "15804",
+    "anilist/anime": "125351",
+    "myanimelist/anime": "43591"
+  }
+}

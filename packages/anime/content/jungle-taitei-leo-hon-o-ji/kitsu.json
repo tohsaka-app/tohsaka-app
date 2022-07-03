@@ -1,0 +1,24 @@
+{
+  "slug": "jungle-taitei-leo-hon-o-ji",
+  "synopsis": "This is one of a number of original animated short films made for viewing at Tezuka Osamu World's Tezuka Osamu Animation Theater in Kyoto.\n(Source: ANN)",
+  "title": {
+    "jp": "Jungle Taitei Leo: Hon-o-ji"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9354/original.jpg",
+  "categories": [
+    "adventure",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9354",
+    "anilist/anime": "18533",
+    "aozora": "xbHQRrSE8B",
+    "myanimelist/anime": "18533"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "little-polar-bear-shirokuma-kun-doko-e",
+  "synopsis": "Based on the childrens' book Little Polar Bear by Dutch author Hans de Beer.",
+  "title": {
+    "jp": "Little Polar Bear: Shirokuma-kun, Doko e?"
+  },
+  "releasedAt": "1990-04-28T00:00:00.000Z",
+  "finishedAt": "1990-04-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8799/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8799",
+    "anidb": "9363",
+    "anilist/anime": "118080",
+    "aozora": "tLWyHaIzo9",
+    "myanimelist/anime": "25027"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "universe",
+  "synopsis": "Under the night sky feebly illuminated by innumerable twinkling stars, a little girl wanders alone through a magic world between darkness and dawan, that is not today and not tomorrow, inhabited by 6 billion solitudes. What will she encounter in this solitary night journey?\nMusic video for Maaya Sakamoto's song Universe, created by Production I.G.",
+  "title": {
+    "jp": "Universe"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3623/original.jpg",
+  "categories": [
+    "fantasy",
+    "fantasy world",
+    "music",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3623",
+    "anidb": "6508",
+    "anilist/anime": "4467",
+    "aozora": "CicHmhEjlu",
+    "myanimelist/anime": "4467"
+  }
+}

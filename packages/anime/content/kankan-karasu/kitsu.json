@@ -1,0 +1,23 @@
+{
+  "slug": "kankan-karasu",
+  "synopsis": "Music video for the song Kankan Karasu by Tokiko Katou that was featured on NHK's Minna no Uta program. The video features artwork by Kiyoshi Nakashima.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Kankan Karasu"
+  },
+  "releasedAt": "1982-04-04T00:00:00.000Z",
+  "finishedAt": "1982-04-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44775/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44775",
+    "anilist/anime": "140847",
+    "myanimelist/anime": "42666"
+  }
+}

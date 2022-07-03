@@ -1,0 +1,27 @@
+{
+  "slug": "cmfu-xueyuan-shenshi-ji-jijian",
+  "synopsis": "",
+  "title": {
+    "jp": "CMFU Xueyuan: Shenshi Ji Jijian"
+  },
+  "releasedAt": "2017-11-21T00:00:00.000Z",
+  "finishedAt": "2018-05-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41245/original.jpg",
+  "categories": [
+    "romance",
+    "school clubs",
+    "school life",
+    "sports",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41245",
+    "anidb": "13808",
+    "anilist/anime": "103333",
+    "myanimelist/anime": "37620"
+  }
+}

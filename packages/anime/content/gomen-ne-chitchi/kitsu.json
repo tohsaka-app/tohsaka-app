@@ -1,0 +1,20 @@
+{
+  "slug": "gomen-ne-chitchi",
+  "synopsis": "An educational film aimed at lower elementary schoolers. It teaches about how pets rely on us to be taken care of. Dogs need attention and to be properly exercised. It does something bad, they don't understand when you beat them. And if you neglect them, they die which no amount of \"I'm sorry\" can fix.",
+  "title": {
+    "jp": "Gomen ne Chitchi"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40887/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40887",
+    "aozora": "YO9X0keKJD",
+    "myanimelist/anime": "36310"
+  }
+}

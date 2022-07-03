@@ -1,0 +1,23 @@
+{
+  "slug": "ukkari-penelope-2013",
+  "synopsis": "The third and final season of Ukkari Pénélope where a big focus is Pénélope's newborn twin sisters.",
+  "title": {
+    "jp": "Ukkari Pénélope (2013)"
+  },
+  "releasedAt": "2013-07-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12852/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12852",
+    "aozora": "eT6fkcF9aF",
+    "myanimelist/anime": "34078"
+  }
+}

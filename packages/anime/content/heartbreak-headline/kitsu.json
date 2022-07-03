@@ -1,0 +1,22 @@
+{
+  "slug": "heartbreak-headline",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Heartbreak Headline"
+  },
+  "releasedAt": "2012-01-02T00:00:00.000Z",
+  "finishedAt": "2012-01-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12062/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12062/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12062"
+  }
+}

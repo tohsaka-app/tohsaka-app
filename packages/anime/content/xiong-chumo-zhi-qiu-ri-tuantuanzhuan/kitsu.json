@@ -1,0 +1,23 @@
+{
+  "slug": "xiong-chumo-zhi-qiu-ri-tuantuanzhuan",
+  "synopsis": "Seventh season of Boonie Bears.",
+  "title": {
+    "en": "Boonie Bears: Autumn Awesomeness",
+    "jp": "Xiong Chumo Zhi: Qiu Ri Tuantuanzhuan"
+  },
+  "releasedAt": "2016-06-09T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13073/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13073",
+    "myanimelist/anime": "34677"
+  }
+}

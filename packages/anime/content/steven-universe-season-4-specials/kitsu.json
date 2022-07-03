@@ -1,0 +1,29 @@
+{
+  "slug": "steven-universe-season-4-specials",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "2016-10-03T00:00:00.000Z",
+  "finishedAt": "2016-10-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13424/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13424/original.jpg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "contemporary fantasy",
+    "family",
+    "fantasy",
+    "friendship",
+    "kids",
+    "united states"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=y8ZLIYRywdU&list=PL5Kgr4cQkciC7o0AQJgVLpQT_3lqZdZIl"
+  ],
+  "relations": {
+    "kitsu": "13424"
+  }
+}

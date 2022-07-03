@@ -1,0 +1,25 @@
+{
+  "slug": "not-for-you",
+  "synopsis": "MV for ChroNoiR's single 'Not For You.'",
+  "title": {
+    "en": "Not For You",
+    "jp": "Not For You"
+  },
+  "releasedAt": "2020-02-11T00:00:00.000Z",
+  "finishedAt": "2020-02-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43874/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43874/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=ppKMVPpdcE0"
+  ],
+  "relations": {
+    "kitsu": "43874"
+  }
+}

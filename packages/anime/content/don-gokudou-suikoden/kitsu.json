@@ -1,0 +1,26 @@
+{
+  "slug": "don-gokudou-suikoden",
+  "synopsis": "Takekichi and Masakazu are two tough guys who are forced to go underground when they lose their boss in a turf war in this modern update of the classic Chinese novel \"Water Margin\". \n(Source: The Anime Encyclopedia)",
+  "title": {
+    "jp": "Don: Gokudou Suikoden"
+  },
+  "releasedAt": "1992-07-01T00:00:00.000Z",
+  "finishedAt": "1992-09-09T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9245/original.jpg",
+  "categories": [
+    "action",
+    "mafia",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9245",
+    "anidb": "7096",
+    "anilist/anime": "18451",
+    "aozora": "amLKq9tJbs",
+    "myanimelist/anime": "18451"
+  }
+}

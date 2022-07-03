@@ -1,0 +1,24 @@
+{
+  "slug": "ten",
+  "synopsis": "Independent animation by Suzuki Shiniichi (鈴木伸一).",
+  "title": {
+    "en": "Dot",
+    "jp": "Ten"
+  },
+  "releasedAt": "1971-01-01T00:00:00.000Z",
+  "finishedAt": "1971-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10500/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10500",
+    "anilist/anime": "116711",
+    "aozora": "eGqulFK6km",
+    "myanimelist/anime": "29669"
+  }
+}

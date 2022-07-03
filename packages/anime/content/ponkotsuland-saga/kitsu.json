@@ -1,0 +1,26 @@
+{
+  "slug": "ponkotsuland-saga",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Ponkotsuland Saga"
+  },
+  "releasedAt": "2015-10-24T00:00:00.000Z",
+  "finishedAt": "2015-10-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11481/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11481",
+    "anidb": "11608",
+    "anilist/anime": "145902",
+    "aozora": "gSKPSqvz1d",
+    "myanimelist/anime": "31647"
+  }
+}

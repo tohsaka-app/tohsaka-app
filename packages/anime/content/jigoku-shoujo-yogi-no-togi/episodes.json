@@ -1,0 +1,92 @@
+[
+  {
+    "title": {
+      "jp": "Mienai Kikoenai"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2017-07-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Anata Shika Inai"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2017-07-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Itsuka Dareka ga..."
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2017-07-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Watashi wo Fukaku Umete"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2017-08-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kaze no Uta ga Kikoeru"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2017-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ayaori"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2017-08-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 7,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 8,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 9,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 10,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 11,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 12,
+    "content": {}
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "slug": "boku-no-diet-dai-sakusen",
+  "synopsis": "An educational film about childhood obesity in Japan.",
+  "title": {
+    "jp": "Boku no Diet Daisakusen"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9216/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9216",
+    "aozora": "00BYxRvDTq",
+    "myanimelist/anime": "26291"
+  }
+}

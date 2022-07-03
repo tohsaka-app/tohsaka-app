@@ -1,0 +1,33 @@
+{
+  "slug": "buzzer-beater",
+  "synopsis": "Hideyoshi is a homeless boy living in New York in the near future, who survives by hustling other kids in basketball games. But now he's been drafted into a pro team-a pro team with a very unique goal. There once was a time when humans dominated the game of basketball. But times have changed, and now the physically superior alien players have taken over the game, and there are barely any human players left. But Hideyoshi's team-the first all-human team to compete in the Space League-intends to change all that, and bring the championship back home to Earth.\n(Source: ANN)",
+  "title": {
+    "jp": "Buzzer Beater"
+  },
+  "releasedAt": "2005-02-05T00:00:00.000Z",
+  "finishedAt": "2005-04-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/373/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "basketball",
+    "future",
+    "humanoid alien",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "373",
+    "anidb": "2808",
+    "anilist/anime": "406",
+    "aozora": "pv83XfmhZv",
+    "myanimelist/anime": "406",
+    "thetvdb": "156221/1",
+    "thetvdb/series": "156221",
+    "trakt": "21573"
+  }
+}

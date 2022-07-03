@@ -1,0 +1,26 @@
+{
+  "slug": "outlaw-star-pilot",
+  "synopsis": "A two minute long promo for the re-mastered series. Contains animation not used in the TV series.",
+  "title": {
+    "en": "Outlaw Star Pilot",
+    "jp": "Seihou Bukyou Outlaw Star Pilot"
+  },
+  "releasedAt": "2006-09-22T00:00:00.000Z",
+  "finishedAt": "2006-09-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/367/original.jpg",
+  "categories": [
+    "action",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "367",
+    "anilist/anime": "4650",
+    "aozora": "aXLhk1beOC",
+    "myanimelist/anime": "4650"
+  }
+}

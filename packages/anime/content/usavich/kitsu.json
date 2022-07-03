@@ -1,0 +1,33 @@
+{
+  "slug": "usavich",
+  "synopsis": "Collection of animated shorts from MTV Japan and produced by Studio Kanaban that follows the misadventures of Kirenenko and Putin, two rabbits stuck in a Russian prison. ",
+  "title": {
+    "en": "Usavich",
+    "jp": "Usavich"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3222/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "past",
+    "russia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3222",
+    "anidb": "5917",
+    "anilist/anime": "3737",
+    "aozora": "boD2IK8abB",
+    "myanimelist/anime": "3737",
+    "thetvdb": "137951/1",
+    "thetvdb/season": "181531",
+    "thetvdb/series": "137951",
+    "trakt": "13900"
+  }
+}

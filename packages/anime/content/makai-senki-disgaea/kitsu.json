@@ -1,0 +1,43 @@
+{
+  "slug": "makai-senki-disgaea",
+  "synopsis": "An angel arrives in Hell! A demon lord is awakened! There are penguins everywhere! What’s going on here?\nAngel assassin-in-training Flonne is on a quest to destroy the demon Overlord. Instead of accomplishing her mission, the ditzy Flonne manages to wake Laharl, the demon lord and heir to the throne, from his two year slumber. Now the pair, along with Laharl’s not-so-faithful vassal Etna and her army of explosive souls in penguin costumes, must restore order to the crumbling Netherworld.\nBased on the events of the game Disgaea: Hour of Darkness, Makai Senki Disgaea follows Laharl’s journey to squash the demon rebellion, reclaim the throne, and destroy anyone who stands in his path. Or, you know, let them join him on his travels if they really want. Just remember: Laharl is a demon lord. There’s no way he’ll ever show kindness, compassion, or love... right?",
+  "title": {
+    "en": "Disgaea",
+    "jp": "Makai Senki Disgaea"
+  },
+  "releasedAt": "2006-04-05T00:00:00.000Z",
+  "finishedAt": "2006-06-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/762/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "angel",
+    "comedy",
+    "demon",
+    "fantasy",
+    "fantasy world",
+    "future",
+    "magic",
+    "slapstick",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/disgaea",
+    "http://www.funimation.com/shows/disgaea/videos/episodes",
+    "http://www.hulu.com/disgaea"
+  ],
+  "relations": {
+    "kitsu": "762",
+    "anidb": "3444",
+    "anilist/anime": "860",
+    "aozora": "AiewGYtTKY",
+    "hulu": "50003327",
+    "myanimelist/anime": "860",
+    "thetvdb": "80206/1",
+    "thetvdb/series": "80206",
+    "trakt": "35742"
+  }
+}

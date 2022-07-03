@@ -1,0 +1,24 @@
+{
+  "slug": "lethe",
+  "synopsis": "The main character wrapped in a white cocoon rides on a train with no particular destination in mind. This character travels somewhere far away with the Face entrusted by another passenger, along with the Shadow that vaguely appears in the window.\n\nGraduate Work 2019, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Lethe",
+    "jp": "Lethe"
+  },
+  "releasedAt": "2019-01-01T00:00:00.000Z",
+  "finishedAt": "2019-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45475/poster_image/6127d1fb9da01b0440e185d0f1ffe76b.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/PhQ5nvNL0ME"
+  ],
+  "relations": {
+    "kitsu": "45475",
+    "anilist/anime": "138983"
+  }
+}

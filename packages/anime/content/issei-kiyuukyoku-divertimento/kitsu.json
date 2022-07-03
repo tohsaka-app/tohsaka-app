@@ -1,0 +1,24 @@
+{
+  "slug": "issei-kiyuukyoku-divertimento",
+  "synopsis": "Official music video for the song Issei Kiyuukyoku: Divertimento by the fictional band Irodorimidori. It is the 41st song in the franchise and focuses on Nachi Tsukisuzu.",
+  "title": {
+    "jp": "Issei Kiyuukyoku: Divertimento"
+  },
+  "releasedAt": "2019-05-26T00:00:00.000Z",
+  "finishedAt": "2019-05-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42490/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=H6Qx-vkt-oM"
+  ],
+  "relations": {
+    "kitsu": "42490",
+    "anilist/anime": "110362",
+    "myanimelist/anime": "40140"
+  }
+}

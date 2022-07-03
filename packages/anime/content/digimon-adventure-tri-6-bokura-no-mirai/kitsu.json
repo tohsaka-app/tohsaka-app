@@ -1,0 +1,32 @@
+{
+  "slug": "digimon-adventure-tri-6-bokura-no-mirai",
+  "synopsis": "Final film of Digimon Adventure tri.",
+  "title": {
+    "en": "Digimon Adventure tri. 6: Our Future",
+    "jp": "Digimon Adventure tri. 6: Bokura no Mirai"
+  },
+  "releasedAt": "2018-05-05T00:00:00.000Z",
+  "finishedAt": "2018-05-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11550/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "friendship",
+    "proxy battles"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/digimon-adventure-tri",
+    "https://vrv.co/series/G6NQX5GZ6/Digimon-Adventure-tri"
+  ],
+  "relations": {
+    "kitsu": "11550",
+    "anilist/anime": "100181",
+    "aozora": "chpYCRY8tf",
+    "myanimelist/anime": "36466"
+  }
+}

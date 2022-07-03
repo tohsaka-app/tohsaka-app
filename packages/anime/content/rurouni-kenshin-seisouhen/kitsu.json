@@ -1,0 +1,35 @@
+{
+  "slug": "rurouni-kenshin-seisouhen",
+  "synopsis": "Kaoru goes to the harbor every day to see if Kenshin has returned. After a while, she starts looking back at her life with Kenshin and all the things that have happened.\n(Source: ANN)",
+  "title": {
+    "en": "Samurai X: Reflection",
+    "jp": "Rurouni Kenshin: Meiji Kenkaku Romantan - Seisou-hen"
+  },
+  "releasedAt": "2001-12-03T00:00:00.000Z",
+  "finishedAt": "2001-12-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/368/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/368/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "bakumatsu   meiji period",
+    "drama",
+    "earth",
+    "historical",
+    "japan",
+    "past",
+    "romance",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "368",
+    "anidb": "195",
+    "anilist/anime": "401",
+    "aozora": "XJJjVvC4nR",
+    "myanimelist/anime": "401"
+  }
+}

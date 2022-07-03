@@ -1,0 +1,23 @@
+{
+  "slug": "mizu-wa-karma-2",
+  "synopsis": "A serene, abstract short film by Nobuhiro Aihara, featuring the song Asa no Inori by Kitarou (Masanori Takahashi).\n",
+  "title": {
+    "jp": "Mizu wa Karma 2"
+  },
+  "releasedAt": "1980-01-01T00:00:00.000Z",
+  "finishedAt": "1980-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43327/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43327",
+    "anilist/anime": "120981",
+    "myanimelist/anime": "42233"
+  }
+}

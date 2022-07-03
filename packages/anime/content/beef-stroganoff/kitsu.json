@@ -1,0 +1,22 @@
+{
+  "slug": "beef-stroganoff",
+  "synopsis": "Music video for the song Beef Stroganoff by Japanese band Chopiiin that was featured on NHK's Minna no Uta program. The video features illustrations by comedian Akira Kawashima and animation by Hironori Oohashi.",
+  "title": {
+    "jp": "Beef Stroganoff"
+  },
+  "releasedAt": "2014-02-02T00:00:00.000Z",
+  "finishedAt": "2014-02-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43656/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43656",
+    "myanimelist/anime": "43004"
+  }
+}

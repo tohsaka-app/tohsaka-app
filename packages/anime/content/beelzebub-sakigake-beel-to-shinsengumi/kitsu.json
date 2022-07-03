@@ -1,0 +1,27 @@
+{
+  "slug": "beelzebub-sakigake-beel-to-shinsengumi",
+  "synopsis": "Short specials included in the DVDs (volumes 7-13) of Beelzebub.",
+  "title": {
+    "en": null,
+    "jp": "Beelzebub: Sakigake!! Beel to Shinsengumi"
+  },
+  "releasedAt": "2011-12-21T00:00:00.000Z",
+  "finishedAt": "2012-06-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6875/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "demon",
+    "fantasy",
+    "school life",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6875",
+    "aozora": "KFPdXogus4"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "minami-ke-natsuyasumi",
+  "synopsis": "Second Minami-ke OVA bundled with the 11th volume of the manga.\nChiaki, Kana, and Haruka decide how to spend their last few days of summer together.  Kana struggles to finish her homework.",
+  "title": {
+    "jp": "Minami-ke Natsuyasumi"
+  },
+  "releasedAt": "2013-08-06T00:00:00.000Z",
+  "finishedAt": "2013-08-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7968/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7968/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7968",
+    "anidb": "10015",
+    "anilist/anime": "20221",
+    "aozora": "sfIMn3aKkj",
+    "myanimelist/anime": "20221"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "servamp",
+  "synopsis": "The story revolves around a high school student named Mahiru Shirota, who likes simple things and dislikes difficult things. One day, he picks up a stray black cat he finds in the middle of the road and gives him the name Kuro. From this moment on, a contract between the servant-vampire Kuro, called \"Sleepy Ash,\" and Mahiru is formed, and Mahiru is pulled into a war between the seven deadly servamp and their eighth sibling Tsubaki.\n(Source: Servamp Wikia, edited)",
+  "title": {
+    "en": "SERVAMP",
+    "jp": "Servamp"
+  },
+  "releasedAt": "2016-07-05T00:00:00.000Z",
+  "finishedAt": "2016-09-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11210/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11210/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "drama",
+    "fantasy",
+    "josei",
+    "vampire"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/servamp/"
+  ],
+  "relations": {
+    "kitsu": "11210",
+    "anidb": "11366",
+    "anilist/anime": "21269",
+    "aozora": "ymrRFSUd33",
+    "myanimelist/anime": "31229",
+    "thetvdb": "307110",
+    "trakt": "105345"
+  }
+}

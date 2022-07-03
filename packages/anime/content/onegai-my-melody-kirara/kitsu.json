@@ -1,0 +1,26 @@
+{
+  "slug": "onegai-my-melody-kirara",
+  "synopsis": "Sequel to Onegai My Melody Sukkiri.",
+  "title": {
+    "jp": "Onegai♪My Melody Kirara★"
+  },
+  "releasedAt": "2008-04-06T00:00:00.000Z",
+  "finishedAt": "2009-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4353/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4353",
+    "anidb": "5852",
+    "anilist/anime": "5938",
+    "aozora": "5O5aNzG0Yj",
+    "myanimelist/anime": "5938"
+  }
+}

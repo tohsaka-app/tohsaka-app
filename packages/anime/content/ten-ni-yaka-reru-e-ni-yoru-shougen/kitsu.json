@@ -1,0 +1,23 @@
+{
+  "slug": "ten-ni-yaka-reru-e-ni-yoru-shougen",
+  "synopsis": "A documentary style anime about the atomic bomb dropped on Hiroshima.",
+  "title": {
+    "en": null,
+    "jp": "Ten ni Yaka Reru: E ni Yoru Shougen"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "categories": [
+    "drama",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12846",
+    "aozora": "16G7yTnhDw",
+    "myanimelist/anime": "33822"
+  }
+}

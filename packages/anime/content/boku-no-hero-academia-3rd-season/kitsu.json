@@ -1,0 +1,35 @@
+{
+  "slug": "boku-no-hero-academia-3rd-season",
+  "synopsis": "Summer is here, and the heroes of Class 1-A and 1-B are in for the toughest training camp of their lives! A group of seasoned pros pushes everyone's Quirks to new heights as the students face one overwhelming challenge after another. Braving the elements in this secret location becomes the least of their worries when routine training turns into a critical struggle for survival.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "My Hero Academia 3",
+    "jp": "Boku no Hero Academia 3"
+  },
+  "releasedAt": "2018-04-07T00:00:00.000Z",
+  "finishedAt": "2018-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13881/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13881/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "school life",
+    "shounen",
+    "super power",
+    "superhero"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/my-hero-academia",
+    "https://www.funimation.com/shows/my-hero-academia/"
+  ],
+  "relations": {
+    "kitsu": "13881",
+    "anidb": "13485",
+    "anilist/anime": "100166",
+    "aozora": "K4JskofMFr",
+    "myanimelist/anime": "36456",
+    "thetvdb": "305074/3"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "code-geass-lelouch-of-the-rebellion",
+  "synopsis": "In the year 2010, the Holy Empire of Britannia is establishing itself as a dominant military nation, starting with the conquest of Japan. Renamed to Area 11 after its swift defeat, Japan has seen significant resistance against these tyrants in an attempt to regain independence.\n\nLelouch Lamperouge, exiled prince of Britannia, unfortunately finds himself caught in a crossfire between the two nations' armed forces. He is able to escape, however, thanks to the timely appearance of a mysterious girl named C.C., who bestows upon him Geass, the \"Power of Kings.\" Realizing the vast potential of his newfound \"power of absolute obedience,\" Lelouch embarks upon a perilous journey as the masked vigilante known as Zero, leading a merciless onslaught against Britannia in order to get revenge once and for all.\n\n(Source: MAL)",
+  "title": {
+    "en": "Code Geass: Lelouch of the Rebellion",
+    "jp": "Code Geass: Hangyaku no Lelouch"
+  },
+  "releasedAt": "2006-10-06T00:00:00.000Z",
+  "finishedAt": "2007-07-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1415/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1415/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "asia",
+    "drama",
+    "earth",
+    "japan",
+    "mecha",
+    "military",
+    "piloted robot",
+    "plot continuity",
+    "politics",
+    "present",
+    "school life",
+    "science fiction",
+    "stereotypes",
+    "super power",
+    "tokyo",
+    "violence",
+    "war"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/code-geass",
+    "https://www.funimation.com/shows/143082/",
+    "https://www.netflix.com/title/80065146"
+  ],
+  "relations": {
+    "kitsu": "1415",
+    "anidb": "4521",
+    "anilist/anime": "1575",
+    "aozora": "8ReJ4GRcRL",
+    "myanimelist/anime": "1575",
+    "thetvdb": "79525/1",
+    "thetvdb/season": "17760",
+    "thetvdb/series": "79525",
+    "trakt": "31586"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "pikaia",
+  "synopsis": "The story begins in the future when Earth itself is no longer inhabitable by living creatures. Humans began their interstellar migration with space colonies. Vince and Hana work as researchers in the Cambrian Project. Together with the creature Pikaia, they seek the Lost Code, the key to restoring Earth, and aim to return to Cambrian-era Earth.\n(Source: ANN)",
+  "title": {
+    "jp": "Pikaia!"
+  },
+  "releasedAt": "2015-04-29T00:00:00.000Z",
+  "finishedAt": "2015-07-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10784/original.jpg",
+  "categories": [
+    "earth",
+    "future",
+    "kids",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10784",
+    "anidb": "11149",
+    "anilist/anime": "98223",
+    "aozora": "AmRl9ugegz",
+    "myanimelist/anime": "30386"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ajin-ova",
+  "synopsis": "New episodes bundled with the limited edition eighth and ninth manga volumes.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Ajin OVA"
+  },
+  "releasedAt": "2015-05-06T00:00:00.000Z",
+  "finishedAt": "2016-10-07T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11615/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "horror",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11615",
+    "anidb": "11758",
+    "anilist/anime": "21487",
+    "aozora": "kZmRBpI8ra",
+    "myanimelist/anime": "32015",
+    "trakt": "102203"
+  }
+}

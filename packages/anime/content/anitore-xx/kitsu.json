@@ -1,0 +1,27 @@
+{
+  "slug": "anitore-xx",
+  "synopsis": "Sequel of Anitore! EX. \nNew member Sakura Izumi joins the five idol candidates of the previous season. A second year middle schooler, she often wears a big smile on her face.\n(Source: ANN)",
+  "title": {
+    "en": "Anime de Training! Xx",
+    "jp": "Anitore! XX: Hitotsu Yane no Shita de"
+  },
+  "releasedAt": "2016-10-05T00:00:00.000Z",
+  "finishedAt": "2016-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12459/original.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12459",
+    "anidb": "12301",
+    "anilist/anime": "21886",
+    "aozora": "JCyooXTBAb",
+    "myanimelist/anime": "33746",
+    "thetvdb": "300110/2"
+  }
+}

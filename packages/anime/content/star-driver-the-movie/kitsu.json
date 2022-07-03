@@ -1,0 +1,26 @@
+{
+  "slug": "star-driver-the-movie",
+  "synopsis": "Star Driver takes place on the fictional Southern Cross Isle. One night, a boy named Takuto washes up on shore swimming from the mainland. He later enrolls in Southern Cross High School as a freshman and makes new friends. \n(Source: Official website) ",
+  "title": {
+    "jp": "Star Driver the Movie"
+  },
+  "releasedAt": "2013-02-09T00:00:00.000Z",
+  "finishedAt": "2013-02-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6826/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6826",
+    "anidb": "9410",
+    "anilist/anime": "12857",
+    "aozora": "D7TzKscADk",
+    "myanimelist/anime": "12857"
+  }
+}

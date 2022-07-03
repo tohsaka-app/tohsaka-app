@@ -1,0 +1,24 @@
+{
+  "slug": "estima-sense-of-wonder",
+  "synopsis": "Promotional shorts for Toyota's Estima (or Previa) car make.",
+  "title": {
+    "jp": "Estima: Sense of Wonder"
+  },
+  "releasedAt": "2016-06-24T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12581/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12581",
+    "aozora": "Wpf7L44kms",
+    "myanimelist/anime": "33871"
+  }
+}

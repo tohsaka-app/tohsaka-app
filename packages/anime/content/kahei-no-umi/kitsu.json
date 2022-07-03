@@ -1,0 +1,23 @@
+{
+  "slug": "kahei-no-umi",
+  "synopsis": "Biopic of Takadaya Kahei.",
+  "title": {
+    "en": "KAHEY - A Certain Captain's Life",
+    "jp": "Kahei no Umi"
+  },
+  "releasedAt": "2005-07-16T00:00:00.000Z",
+  "finishedAt": "2005-07-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12317/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12317",
+    "aozora": "12E3JHb8Fi",
+    "myanimelist/anime": "33607"
+  }
+}

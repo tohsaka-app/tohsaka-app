@@ -1,0 +1,38 @@
+{
+  "slug": "photon",
+  "synopsis": "Photon Earth is a young and gentle boy with superhuman strength and \"Baka\" (meaning \"idiot\" in Japanese) scribbled on his forehead (apparently by his troublemaking friend Aun Freya). One day, he finds himself engaged to the beautiful fugitive pilot Keyne Acqua after writing \"baka\" on her forehead. And that's the least of his worries as he must protect both Aun and Keyne from the evil Papacharino, who seeks to steal the secrets of \"Aho\" (another word for idiot) energy from Keyne's grandfather's ship.\n(Source: ANN)",
+  "title": {
+    "en": "Photon: The Idiot Adventures",
+    "jp": "Photon"
+  },
+  "releasedAt": "1997-11-21T00:00:00.000Z",
+  "finishedAt": "1999-02-18T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1753/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1753/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "comedy",
+    "ecchi",
+    "harem",
+    "humanoid alien",
+    "mecha",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/photon-the-idiot-adventures"
+  ],
+  "relations": {
+    "kitsu": "1753",
+    "anidb": "139",
+    "anilist/anime": "1944",
+    "aozora": "U3yvFhhBag",
+    "myanimelist/anime": "1944",
+    "thetvdb": "86921/1"
+  }
+}

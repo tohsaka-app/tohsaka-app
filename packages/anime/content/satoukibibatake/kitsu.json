@@ -1,0 +1,23 @@
+{
+  "slug": "satoukibibatake",
+  "synopsis": "An educational film about the Sugarcane Field song composed by Naohiko Terashima in honor of the fallen soldiers at the Battle of Okinawa. The song is a ballad focusing on a girl who does not know her father has died in battle and goes to search for him in the sugarcane fields wondering why people go to war and if it was all worth the risk.",
+  "title": {
+    "en": null,
+    "jp": "Satoukibibatake"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "pg",
+  "categories": [
+    "drama",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12837",
+    "aozora": "wNQ8u5dps8",
+    "myanimelist/anime": "33824"
+  }
+}

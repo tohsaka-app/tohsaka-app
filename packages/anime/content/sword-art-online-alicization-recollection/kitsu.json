@@ -1,0 +1,33 @@
+{
+  "slug": "sword-art-online-alicization-recollection",
+  "synopsis": "Recap of the first 18 episodes of Sword Art Online: Alicization.",
+  "title": {
+    "jp": "Sword Art Online: Alicization - Recollection"
+  },
+  "releasedAt": "2019-02-17T00:00:00.000Z",
+  "finishedAt": "2019-02-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42154/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42154/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "romance",
+    "swordplay",
+    "virtual reality"
+  ],
+  "externals": [
+    "funimation.com/shows/sword-art-online/?qid=7c3700f465589fe1",
+    "hidive.com/tv/sword-art-online-alicization",
+    "https://vrv.co/series/GRNVNVNX6/Sword-Art-Online-Alicization",
+    "https://www.crunchyroll.com/sword-art-online/episode-185-recollection-782313",
+    "vrv.co/series/GR49G9VP6/Sword-Art-Online"
+  ],
+  "relations": {
+    "kitsu": "42154",
+    "myanimelist/anime": "39239"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "takoyaki-story",
+  "synopsis": "Music video directed by Sawako Kabuki for the song TAKOYAKI STORY by 1980YEN in the album \"FAST FOOD.\"\n",
+  "title": {
+    "en": "Takoyaki Story",
+    "jp": "Takoyaki Story"
+  },
+  "releasedAt": "2018-10-10T00:00:00.000Z",
+  "finishedAt": "2018-10-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42559/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42559",
+    "anilist/anime": "107011",
+    "myanimelist/anime": "38961"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "requiem-ona",
+  "synopsis": "Short animation by Sawako Kabuki.",
+  "title": {
+    "jp": "Requiem (ONA)"
+  },
+  "releasedAt": "2012-01-17T00:00:00.000Z",
+  "finishedAt": "2012-01-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11425/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11425",
+    "anidb": "11658",
+    "anilist/anime": "103367",
+    "aozora": "vwrrXlu8cz",
+    "myanimelist/anime": "31689"
+  }
+}

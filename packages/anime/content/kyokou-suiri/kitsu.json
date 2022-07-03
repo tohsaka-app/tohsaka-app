@@ -1,0 +1,37 @@
+{
+  "slug": "kyokou-suiri",
+  "synopsis": "When she was still just a girl, Kotoko was kidnapped by yokai. These spirits made her into a powerful intermediary between the spirit and human worlds, but this power came at a price: an eye and a leg. Now, years later, she watches out for dangerous yokai while developing feelings for a young man named Kurou, who is also special: an incident with a yokai has given him healing powers. He's surprised when Kotoko asks him to team up to handle renegade yokai, preserving the thin line between reality and the supernatural.\n\n(Source: Kodansha Comic)",
+  "title": {
+    "en": "In/Spectre",
+    "jp": "Kyokou Suiri"
+  },
+  "releasedAt": "2020-01-11T00:00:00.000Z",
+  "finishedAt": "2020-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42117/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42117/original.jpg",
+  "categories": [
+    "comedy",
+    "deity",
+    "demon",
+    "ghost",
+    "mystery",
+    "romance",
+    "shounen",
+    "supernatural",
+    "thriller"
+  ],
+  "externals": [
+    "https://vrv.co/series/GYZJEEQGR/InSpectre",
+    "https://www.crunchyroll.com/inspectre"
+  ],
+  "relations": {
+    "kitsu": "42117",
+    "anidb": "14602",
+    "anilist/anime": "107201",
+    "myanimelist/anime": "39017",
+    "thetvdb": "368565/1"
+  }
+}

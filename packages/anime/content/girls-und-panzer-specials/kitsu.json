@@ -1,0 +1,28 @@
+{
+  "slug": "girls-und-panzer-specials",
+  "synopsis": "Mini episodes bundled with Blu-rays and DVDs.",
+  "title": {
+    "en": "Girls & Panzer OVAs",
+    "jp": "Girls & Panzer Specials"
+  },
+  "releasedAt": "2012-12-21T00:00:00.000Z",
+  "finishedAt": "2013-06-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7315/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7315/original.jpg",
+  "categories": [
+    "military",
+    "school life"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/girls-und-panzer-ova"
+  ],
+  "relations": {
+    "kitsu": "7315",
+    "anilist/anime": "15811",
+    "aozora": "YXwJP8urnJ",
+    "myanimelist/anime": "15811"
+  }
+}

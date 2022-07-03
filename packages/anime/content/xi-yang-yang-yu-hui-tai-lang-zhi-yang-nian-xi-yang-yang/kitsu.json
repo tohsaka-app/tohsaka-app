@@ -1,0 +1,26 @@
+{
+  "slug": "xi-yang-yang-yu-hui-tai-lang-zhi-yang-nian-xi-yang-yang",
+  "synopsis": "",
+  "title": {
+    "en": "Amazing Pleasant Goat",
+    "jp": "Xi Yang Yang Yu Hui Tai Lang: Zhi Yang Nian Xi Yang Yang"
+  },
+  "releasedAt": "2015-01-31T00:00:00.000Z",
+  "finishedAt": "2015-01-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41156/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41156",
+    "anilist/anime": "131566",
+    "myanimelist/anime": "37392"
+  }
+}

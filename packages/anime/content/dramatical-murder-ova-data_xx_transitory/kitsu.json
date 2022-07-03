@@ -1,0 +1,29 @@
+{
+  "slug": "dramatical-murder-ova-data_xx_transitory",
+  "synopsis": "Data xx Transitory is the thirteenth and bonus episode of the DRAMAtical Murder animation. It features all of the bad endings from the original game.\n(Source: DRAMAtical Murder Wiki)",
+  "title": {
+    "jp": "DRAMAtical Murder OVA: Data_xx_Transitory"
+  },
+  "releasedAt": "2014-12-24T00:00:00.000Z",
+  "finishedAt": "2014-12-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8628/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8628/original.png",
+  "categories": [
+    "drama",
+    "psychological",
+    "science fiction",
+    "shounen ai"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/dramatical-murder-ova"
+  ],
+  "relations": {
+    "kitsu": "8628",
+    "anilist/anime": "21011",
+    "aozora": "CE1eDcBnNq",
+    "myanimelist/anime": "25567"
+  }
+}

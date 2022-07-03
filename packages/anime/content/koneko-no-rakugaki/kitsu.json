@@ -1,0 +1,26 @@
+{
+  "slug": "koneko-no-rakugaki",
+  "synopsis": "Yasuji Mori's short about a kitten drawing pictures on a wall.",
+  "title": {
+    "jp": "Koneko no Rakugaki"
+  },
+  "releasedAt": "1957-05-13T00:00:00.000Z",
+  "finishedAt": "1957-05-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4827/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4827",
+    "anidb": "6768",
+    "anilist/anime": "6993",
+    "aozora": "fpCbohENPS",
+    "myanimelist/anime": "6993"
+  }
+}

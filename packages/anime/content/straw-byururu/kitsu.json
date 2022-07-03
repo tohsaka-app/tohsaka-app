@@ -1,0 +1,26 @@
+{
+  "slug": "straw-byururu",
+  "synopsis": "Byururu came from the straw world. At night the kitchen turns into a magical forest inhabited by witches. Here Byururu sets out on an adventure.",
+  "title": {
+    "jp": "Straw Byururu"
+  },
+  "releasedAt": "2010-03-22T00:00:00.000Z",
+  "finishedAt": "2017-01-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10316/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10316",
+    "anidb": "12521",
+    "aozora": "9hJpKn3LpQ",
+    "myanimelist/anime": "29429"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "mirai-nikki-pilot",
+  "synopsis": "A short OVA that was bundled with the limited edition of the eleventh volume of the manga.",
+  "title": {
+    "jp": "Mirai Nikki"
+  },
+  "releasedAt": "2010-12-09T00:00:00.000Z",
+  "finishedAt": "2010-12-09T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5344/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "contemporary fantasy",
+    "drama",
+    "earth",
+    "japan",
+    "middle school",
+    "present",
+    "school life",
+    "sudden girlfriend appearance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5344",
+    "anidb": "7432",
+    "anilist/anime": "8460",
+    "aozora": "Zbi7nLWIbJ",
+    "myanimelist/anime": "8460"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "kuma-kuma-kuma-bear-2nd-season",
+  "synopsis": "Second season of Kuma Kuma Kuma Bear.",
+  "title": {
+    "en": "The Bears Bear a Bare Kuma 2nd Season",
+    "jp": "Kuma Kuma Kuma Bear 2nd Season"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43863/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "isekai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43863",
+    "anilist/anime": "127550",
+    "myanimelist/anime": "45486"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "choujikuu-kidan-southern-cross",
+  "synopsis": "By the year 2120, humans have successfully colonized other planets following the near devestation of Earth from the last great world war. However, on Gloire, one such colony are surprised and unprepared at the arrival of The Zor, a group of beings whom were the original inhabitants of the planet and left following similar near fatal events. Coming to reclaim their former home world, a relentless war erupts between both races that ultimately leads to a cataclysmic showdown and into a no-win scenario for either.\n(Source: ANN)",
+  "title": {
+    "en": "Super Dimensional Cavalry Southern Cross",
+    "jp": "Choujikuu Kidan Southern Cross"
+  },
+  "releasedAt": "1984-04-15T00:00:00.000Z",
+  "finishedAt": "1984-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3653/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3653",
+    "anidb": "1177",
+    "anilist/anime": "4503",
+    "aozora": "wYM8K0JySn",
+    "myanimelist/anime": "4503",
+    "thetvdb": "72876",
+    "trakt": "71335"
+  }
+}

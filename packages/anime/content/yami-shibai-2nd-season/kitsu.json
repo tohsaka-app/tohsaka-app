@@ -1,0 +1,35 @@
+{
+  "slug": "yami-shibai-2nd-season",
+  "synopsis": "Yamishibai is a picture-story style of animation whose motif is surrounded and based off rumors and urban legends throughout the history of Japan.\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Yamishibai: Japanese Ghost Stories 2",
+    "jp": "Yami Shibai 2"
+  },
+  "releasedAt": "2014-07-07T00:00:00.000Z",
+  "finishedAt": "2014-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8359/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8359/original.png",
+  "categories": [
+    "asia",
+    "dementia",
+    "earth",
+    "horror",
+    "japan",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8359",
+    "anidb": "10717",
+    "anilist/anime": "20669",
+    "aozora": "6HSRiQR8cx",
+    "myanimelist/anime": "22537",
+    "thetvdb": "271591/2",
+    "thetvdb/season": "579467",
+    "thetvdb/series": "271591",
+    "trakt": "71821"
+  }
+}

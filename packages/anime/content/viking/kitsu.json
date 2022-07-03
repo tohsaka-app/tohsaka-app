@@ -1,0 +1,25 @@
+{
+  "slug": "viking",
+  "synopsis": "Music video directed by Nike Shimaguchi for the song Viking performed by the Nijisanji unit le jouet (Kakeru Yumeoi, Hayato Kagami, Ryushen).",
+  "title": {
+    "en": "Viking",
+    "jp": "Viking"
+  },
+  "releasedAt": "2021-11-03T00:00:00.000Z",
+  "finishedAt": "2021-11-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45408/poster_image/cd0e9a68014085c715a9404416ab07f7.jpg",
+  "categories": [
+    "action",
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/BF_FmInMcgU"
+  ],
+  "relations": {
+    "kitsu": "45408",
+    "anilist/anime": "141073"
+  }
+}

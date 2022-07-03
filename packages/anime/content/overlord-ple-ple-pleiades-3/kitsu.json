@@ -1,0 +1,27 @@
+{
+  "slug": "overlord-ple-ple-pleiades-3",
+  "synopsis": "Super deformed parody shorts of Overlord III.",
+  "title": {
+    "jp": "Overlord: Ple Ple Pleiades 3"
+  },
+  "releasedAt": "2018-07-10T00:00:00.000Z",
+  "finishedAt": "2018-10-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41482/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "magic",
+    "parody",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41482",
+    "anilist/anime": "103209",
+    "myanimelist/anime": "37781"
+  }
+}

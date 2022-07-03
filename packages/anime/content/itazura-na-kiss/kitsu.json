@@ -1,0 +1,36 @@
+{
+  "slug": "itazura-na-kiss",
+  "synopsis": "When her newly-built home is razed to the ground by an earthquake, low-achieving, clumsy, and troublesome third-year high school student Kotoko Aihara is forced to share a roof with the school's—and possibly Japan's—smartest student, Naoki Irie. Kotoko is not actually a complete stranger to Irie-kun; unfortunately, a single love letter that she tried to give him in the past has already sealed her fate as far as he is concerned. Throw in some quirky friends and a meddlesome mother, and Kotoko might not even have a snowball's chance in hell of winning the older Irie boy's heart. Yet Kotoko remains optimistic that, because she now lives in his house, her unattainable crush on the genius since the beginning of high school has never been more within reach.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "ItaKiss",
+    "jp": "Itazura na Kiss"
+  },
+  "releasedAt": "2008-04-05T00:00:00.000Z",
+  "finishedAt": "2008-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3218/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3218/original.jpg",
+  "categories": [
+    "comedy",
+    "japan",
+    "plot continuity",
+    "present",
+    "romance"
+  ],
+  "externals": [
+    "https://tubitv.com/series/2223",
+    "https://www.hulu.com/itakiss"
+  ],
+  "relations": {
+    "kitsu": "3218",
+    "anidb": "5678",
+    "anilist/anime": "3731",
+    "aozora": "UvDmBsGHJU",
+    "myanimelist/anime": "3731",
+    "thetvdb": "82735/1",
+    "thetvdb/series": "82735",
+    "trakt": "35849"
+  }
+}

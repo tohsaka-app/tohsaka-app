@@ -1,0 +1,32 @@
+{
+  "slug": "hipira-kun",
+  "synopsis": "In the city of Salta, a place where the sun never shines, a community of vampires lives. Hipira is a little vampire who lives the life of a typical boy, attending school and dealing with bullies along the way. However, he also has a soft spot for exploring, playing pranks on others and having grand adventures! Whether he's befriending a human soul, scaring his neighbours by pretending day has come or encountering giant frogs and aliens, Hipira is always getting himself into and out of trouble.",
+  "title": {
+    "jp": "Hipira-kun"
+  },
+  "releasedAt": "2009-12-21T00:00:00.000Z",
+  "finishedAt": "2009-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5097/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids",
+    "vampire"
+  ],
+  "externals": [
+    "https://tubitv.com/series/2098/hipira"
+  ],
+  "relations": {
+    "kitsu": "5097",
+    "anidb": "7247",
+    "anilist/anime": "7723",
+    "aozora": "v97g3J51SD",
+    "myanimelist/anime": "7723",
+    "thetvdb": "163891/1",
+    "thetvdb/series": "163891",
+    "trakt": "65748"
+  }
+}

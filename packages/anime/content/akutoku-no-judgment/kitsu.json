@@ -1,0 +1,24 @@
+{
+  "slug": "akutoku-no-judgment",
+  "synopsis": "",
+  "title": {
+    "en": "Judgment of Corruption",
+    "jp": "Akutoku no Judgment"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42261/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42261/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=d2SXc0dH4K8"
+  ],
+  "relations": {
+    "kitsu": "42261"
+  }
+}

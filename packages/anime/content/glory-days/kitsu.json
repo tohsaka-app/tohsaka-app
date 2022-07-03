@@ -1,0 +1,30 @@
+{
+  "slug": "glory-days",
+  "synopsis": "Official music video of Hiroya Ozaki's \"Glory Days\" song featuring footage from both the original Eureka Seven anime series alongside scenes from the upcoming first Psalms of Planets Eureka Seven Hi-Evolution anime film. \"Glory Days\" serves as the film's theme song.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Glory Days"
+  },
+  "releasedAt": "2017-08-31T00:00:00.000Z",
+  "finishedAt": "2017-08-31T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13778/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13778/original.png",
+  "categories": [
+    "action",
+    "alien",
+    "earth",
+    "future",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13778",
+    "aozora": "UjbDT3DNsO",
+    "myanimelist/anime": "36232"
+  }
+}

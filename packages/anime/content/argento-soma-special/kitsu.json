@@ -1,0 +1,25 @@
+{
+  "slug": "argento-soma-special",
+  "synopsis": "The pilot Sue Harris goes to a mission on a frozen country, there she suffers an accident on the mountains and her life is in severe danger. Trying to survive on the harsh enviroment, she encounters an alien and engages in combat with it. The two beings will use all means possible to escape of that dead trap alive.",
+  "title": {
+    "jp": "Argento Soma Special"
+  },
+  "releasedAt": "2002-03-01T00:00:00.000Z",
+  "finishedAt": "2002-03-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1609/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1609",
+    "anilist/anime": "1789",
+    "aozora": "GOL0AAsz07",
+    "myanimelist/anime": "1789"
+  }
+}

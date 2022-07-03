@@ -1,0 +1,26 @@
+{
+  "slug": "where-i-belong",
+  "synopsis": "Music video colabaration between Mori Calliope and Princess Connect! Re: Dive.",
+  "title": {
+    "en": "Where I Belong",
+    "jp": "Ibasho"
+  },
+  "releasedAt": "2021-03-04T00:00:00.000Z",
+  "finishedAt": "2021-03-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44111/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44111/original.jpg",
+  "categories": [
+    "fantasy",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=gwlPwQLSeQk"
+  ],
+  "relations": {
+    "kitsu": "44111"
+  }
+}

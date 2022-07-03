@@ -1,0 +1,24 @@
+{
+  "slug": "happy-fluffy-time",
+  "synopsis": "A girl plays alone in the twilight park. Unexpectedly there appears a strange cotton candy man who makes magical cotton candies, which transform themselves into various animals and give the girl a happy fluffy moment.\n\n1st year work 2013, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Happy fluffy time",
+    "jp": "Happy fluffy time"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45885/poster_image/a128d73d7374d20d33cff497cb8a147b.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [
+    "https://youtu.be/f-o6e98o_t8"
+  ],
+  "relations": {
+    "kitsu": "45885",
+    "anilist/anime": "117224"
+  }
+}

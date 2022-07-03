@@ -1,0 +1,24 @@
+{
+  "slug": "awate-tokoya",
+  "synopsis": "A Minna no Uta video for the Awate Tokoya a song by Bonny Jacks.",
+  "title": {
+    "jp": "Awate Tokoya"
+  },
+  "releasedAt": "1961-04-01T00:00:00.000Z",
+  "finishedAt": "1961-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9803/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9803",
+    "anidb": "12581",
+    "anilist/anime": "139002",
+    "aozora": "UDYb0okKn5",
+    "myanimelist/anime": "24785"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "donyatsu",
+  "synopsis": "The \"loosely science-fiction adventure\" is set in the summer sometime in the 21st century. Tokyo's Shinjuku ward has become a wasteland, void of all humans due to an unexplained catastrophe. What remains are these strange creatures such as \"Donyatsu,\" the half-cat, half-doughnut hybrid, and \"Begaru,\" a feline bagel composite.\n(Source: ANN)",
+  "title": {
+    "jp": "Donyatsu"
+  },
+  "releasedAt": "2013-06-01T00:00:00.000Z",
+  "finishedAt": "2013-12-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8051/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "disaster",
+    "post apocalypse",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/donyatsu"
+  ],
+  "relations": {
+    "kitsu": "8051",
+    "anidb": "9889",
+    "anilist/anime": "18755",
+    "aozora": "G5tKJiiNcw",
+    "myanimelist/anime": "18755"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "the-dragon-prince",
+  "synopsis": "In the magical land of Xadia, magic comes from six primal sources: the sun, moon, stars, sky, earth and ocean. When human mages create a seventh kind of magic -- dark magic -- they start capturing and harvesting the unique magical creatures they need as ingredients, which sparks a war between Xadia and the Human Kingdoms. Three kids from opposite sides of the conflict -- two princes and an elven assassin sent to kill them -- discover a secret that could change everything and decide to join forces and go on an epic journey. That trek could be their only hope of ending the war and restoring peace to both worlds.\n\n(Source: Google)",
+  "title": {},
+  "releasedAt": "2018-09-14T00:00:00.000Z",
+  "finishedAt": "2018-09-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42096/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42096/original.jpeg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "dragon",
+    "elf",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80212245"
+  ],
+  "relations": {
+    "kitsu": "42096",
+    "thetvdb": "350123/1"
+  }
+}

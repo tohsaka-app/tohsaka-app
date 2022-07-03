@@ -1,0 +1,28 @@
+{
+  "slug": "nanatsu-no-taizai-imashime-no-fukkatsu-ova",
+  "synopsis": "OVA bundled with the 34th volume of the manga.",
+  "title": {
+    "en": "The Seven Deadly Sins: Revival of the Commandments OVA",
+    "jp": "Nanatsu no Taizai: Imashime no Fukkatsu OVA"
+  },
+  "releasedAt": "2018-11-16T00:00:00.000Z",
+  "finishedAt": "2018-11-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42050/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42050",
+    "anilist/anime": "104175",
+    "myanimelist/anime": "38198"
+  }
+}

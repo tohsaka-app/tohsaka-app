@@ -1,0 +1,25 @@
+{
+  "slug": "kamiusagi-rope-movie-episode-0",
+  "synopsis": "A special episode made for the Kamiusagi Rope Movie premiere. It features paper squirrel Akira's older sister, who has trouble with choosing which earrings to wear for her date.",
+  "title": {
+    "en": "Paper Rabbit Rope Movie Episode 0",
+    "jp": "Kamiusagi Rope Movie Episode 0"
+  },
+  "releasedAt": "2012-03-13T00:00:00.000Z",
+  "finishedAt": "2012-03-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7037/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7037",
+    "anilist/anime": "13823",
+    "aozora": "Xhv2cXiGe5",
+    "myanimelist/anime": "13823"
+  }
+}

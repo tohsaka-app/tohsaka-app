@@ -1,0 +1,29 @@
+{
+  "slug": "sonny-boy",
+  "synopsis": "The science-fiction ensemble drama centers around 36 boys and girls. On August 16, midway through a seemingly endless summer vacation, middle school third-year student Nagara, the mysterious transfer student Nozomi, and classmates such as Mizuho and Asakaze, are suddenly transported from their tranquil daily lives to a school adrift in an alternate dimension. They must survive with the super powers that have awakened within them. \n\n(Source: ANN)",
+  "title": {
+    "en": "Sonny Boy",
+    "jp": "Sonny Boy"
+  },
+  "releasedAt": "2021-06-19T00:00:00.000Z",
+  "finishedAt": "2021-10-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44501/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44501/original.png",
+  "categories": [
+    "isekai",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/sonny-boy/"
+  ],
+  "relations": {
+    "kitsu": "44501",
+    "anidb": "16282",
+    "anilist/anime": "132126",
+    "myanimelist/anime": "48849"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "hitsugi-no-chaika",
+  "synopsis": " Hitsugi no Chaika is about the quest of a pretty and charming 14-year old sorceress named Chaika Trabant, who carries a coffin on her back. She is surprisingly adept in casting high-precision spells, but she has no memory of her past. The only thing she knows is to gather the scattered remains of Emperor Gaz. Toru Acura is a Saboteur who relies on his adoptive sister Akari for their food. After the fall of Gaz Empire, he finds it difficult to land a job until he meets Chaika in the woods, and agrees to help her accomplish her quest along with Akari.\nThe unlikely trio sets on the journey with a clear goal in mind, unaware of the dangerous truth.",
+  "title": {
+    "en": "Chaika -The Coffin Princess-",
+    "jp": "Hitsugi no Chaika"
+  },
+  "releasedAt": "2014-04-10T00:00:00.000Z",
+  "finishedAt": "2014-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8008/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8008/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "disaster",
+    "fantasy",
+    "magic",
+    "plot continuity",
+    "romance"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/chaika-the-coffin-princess-",
+    "http://www.hulu.com/chaika-the-coffin-princess",
+    "https://www.hidive.com/tv/chaika-the-coffin-princess"
+  ],
+  "relations": {
+    "kitsu": "8008",
+    "anidb": "9973",
+    "anilist/anime": "20462",
+    "aozora": "hUVyajoihe",
+    "hulu": "50018802",
+    "myanimelist/anime": "20853",
+    "thetvdb": "278127/1",
+    "thetvdb/season": "575565",
+    "thetvdb/series": "278127",
+    "trakt": "60382"
+  }
+}

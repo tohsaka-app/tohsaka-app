@@ -1,0 +1,30 @@
+{
+  "slug": "kinnikuman-ii-sei-ultimate-muscle-2",
+  "synopsis": "Mantaro has made it to the semifinal match of the Chojin Cup. He must now fight Ricardo in a soccer field to advance to the last match. Kevin Mask is also in the semifinals, and must defeat Ilioukhine in an aerial field to advance. These three matches will determine who wins the Chojin Cup.\n(Source: ANN)",
+  "title": {
+    "jp": "Kinnikuman II Sei: Ultimate Muscle 2"
+  },
+  "releasedAt": "2006-01-04T00:00:00.000Z",
+  "finishedAt": "2006-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4367/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "martial arts",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4367",
+    "anidb": "4057",
+    "anilist/anime": "5968",
+    "aozora": "URjSOAEIHM",
+    "myanimelist/anime": "5968",
+    "thetvdb": "71419",
+    "trakt": "9502"
+  }
+}

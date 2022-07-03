@@ -1,0 +1,28 @@
+{
+  "slug": "sacred-seven-shirogane-no-tsubasa-picture-drama",
+  "synopsis": "Picture Drama included in Sacred Seven: Shirogane no Tsubasa, where Knight and Fei are in the same school as Alma and others.",
+  "title": {
+    "en": "Sacred Seven: Wings of the Silver Moon Picture Drama",
+    "jp": "Sacred Seven: Shirogane no Tsubasa Picture Drama"
+  },
+  "releasedAt": "2012-04-20T00:00:00.000Z",
+  "finishedAt": "2012-04-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7053/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "school life",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7053",
+    "anilist/anime": "13927",
+    "aozora": "uT32sfEaGu",
+    "myanimelist/anime": "13927"
+  }
+}

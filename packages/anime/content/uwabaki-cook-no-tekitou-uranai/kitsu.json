@@ -1,0 +1,22 @@
+{
+  "slug": "uwabaki-cook-no-tekitou-uranai",
+  "synopsis": "A collaboration shorts that aired as part of Yomiuri TV's morning program block.",
+  "title": {
+    "jp": "Uwabaki Cook no Tekitou Uranai!"
+  },
+  "releasedAt": "2015-01-05T00:00:00.000Z",
+  "finishedAt": "2015-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10916/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10916",
+    "aozora": "yEI3vvXW2G",
+    "myanimelist/anime": "30605"
+  }
+}

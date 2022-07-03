@@ -1,0 +1,23 @@
+{
+  "slug": "mcdull-fan-bao-qibing",
+  "synopsis": "The 6th animated McDull feature film (7th film the franchise overall).\n\nThe film sees a grotesque monster arrive from outer space. Humans are proving defenceless; after an Ultraman-like superhero, Spamerman, also flunks his rescue mission, the safety of the planet is left in the hands of McDull, the kindergarten kid who, with his sheer passion for science, invents a formidable robot based on designs of home appliances.\n\n(Source: Edmund Lee from South China Morning Post)",
+  "title": {
+    "en": "McDull: Rise of the Rice Cooker",
+    "jp": "McDull: Fan Bao Qibing"
+  },
+  "releasedAt": "2016-09-15T00:00:00.000Z",
+  "finishedAt": "2016-09-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13827/original.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13827",
+    "myanimelist/anime": "35910"
+  }
+}

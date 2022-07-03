@@ -1,0 +1,25 @@
+{
+  "slug": "b-project-3rd-season",
+  "synopsis": "Third season of B-Project.",
+  "title": {
+    "jp": "B-Project 3rd Season"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44311/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "shoujo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44311",
+    "anidb": "15866",
+    "anilist/anime": "126316",
+    "myanimelist/anime": "44081"
+  }
+}

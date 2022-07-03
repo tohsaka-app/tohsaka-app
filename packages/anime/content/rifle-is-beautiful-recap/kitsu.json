@@ -1,0 +1,28 @@
+{
+  "slug": "rifle-is-beautiful-recap",
+  "synopsis": "Recap of the first seven episodes of Rifle Is Beautiful.\n",
+  "title": {
+    "en": "Chidori RSC Recap",
+    "jp": "Rifle Is Beautiful Recap"
+  },
+  "releasedAt": "2019-12-01T00:00:00.000Z",
+  "finishedAt": "2019-12-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42852/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42852/original.png",
+  "categories": [
+    "comedy",
+    "school clubs",
+    "school life",
+    "seinen",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42852",
+    "anidb": "14445",
+    "myanimelist/anime": "40769"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dilemma",
+  "synopsis": "Music video directed by Yuma Saito for the song Dilemma by DECO*27 featuring vocals by Hatsune Miku.",
+  "title": {
+    "en": "Dilemma",
+    "jp": "Dilemma"
+  },
+  "releasedAt": "2022-03-09T00:00:00.000Z",
+  "finishedAt": "2022-03-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46053/poster_image/89bbd490670aed51b2e906fabb9e5646.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/E_PfhNftyh4"
+  ],
+  "relations": {
+    "kitsu": "46053",
+    "anilist/anime": "146208",
+    "myanimelist/anime": "51561"
+  }
+}

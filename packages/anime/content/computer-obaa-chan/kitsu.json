@@ -1,0 +1,29 @@
+{
+  "slug": "computer-obaa-chan",
+  "synopsis": "A children's song by NHK Tokyo Children's Choir featured in NHK's Minna no Uta segment.",
+  "title": {
+    "jp": "Computer Obaachan"
+  },
+  "releasedAt": "1981-12-01T00:00:00.000Z",
+  "finishedAt": "1981-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8825/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids",
+    "music",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8825",
+    "anidb": "12630",
+    "anilist/anime": "139901",
+    "aozora": "qZQJnkV7mS",
+    "myanimelist/anime": "22427"
+  }
+}

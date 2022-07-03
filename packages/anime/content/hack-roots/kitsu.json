@@ -1,0 +1,44 @@
+{
+  "slug": "hack-roots",
+  "synopsis": "After the destruction of \"The World\" in 2015, CC Corporation rebuilt the game using data from what was previously to be another game. \"The World R:2\" was then released in 2016. A newcomer to the game, Haseo, is instantly PKed and then revived by a mysterious man known as Ovan. With the problem of PKs occupying the game, Haseo soon after receives help from a female Harvest known as Shino. Amidst curiosity and confusion, Haseo is lead to joining the guild known as the Twilight Brigade. The guild that searches for the legendary object known as the \"Key of the Twilight\". Set before the .hack//G.U. game.",
+  "title": {
+    "en": ".hack//roots",
+    "jp": ".hack//Roots"
+  },
+  "releasedAt": "2006-04-06T00:00:00.000Z",
+  "finishedAt": "2006-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/773/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/773/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "plot continuity",
+    "science fiction",
+    "super power",
+    "swordplay",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://tubitv.com/series/2055",
+    "http://www.crunchyroll.com/hackroots",
+    "http://www.funimation.com/shows/hackroots/",
+    "http://www.hulu.com/hackroots"
+  ],
+  "relations": {
+    "kitsu": "773",
+    "anidb": "4324",
+    "anilist/anime": "873",
+    "aozora": "DQMbh2kIeS",
+    "hulu": "50020074",
+    "myanimelist/anime": "873",
+    "thetvdb": "79099/3",
+    "thetvdb/season": "482226",
+    "thetvdb/series": "79099",
+    "trakt": "8818"
+  }
+}

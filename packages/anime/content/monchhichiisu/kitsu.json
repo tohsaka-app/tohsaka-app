@@ -1,0 +1,23 @@
+{
+  "slug": "monchhichiisu",
+  "synopsis": "The CG anime series is based on Sekiguchi Corporation's line of stuffed toy monkeys. Ashi Productions previously produced the Monchichi, the Twins television anime series that aired in 1980. An American-produced animated series titled Monchhichis also aired in the 1980s.\n(Source: ANN)",
+  "title": {
+    "jp": "Monchhichiisu"
+  },
+  "releasedAt": "2012-12-01T00:00:00.000Z",
+  "finishedAt": "2013-04-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11507/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11507",
+    "anidb": "9539",
+    "aozora": "ASLcZAfSmt",
+    "myanimelist/anime": "31924"
+  }
+}

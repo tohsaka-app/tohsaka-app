@@ -1,0 +1,22 @@
+{
+  "slug": "sokkuri-oyako",
+  "synopsis": "A music video that aired as part of NHK's Minna no Uta program. The song is by Fusako Amachi.",
+  "title": {
+    "en": "Just Like Mother and Daughter",
+    "jp": "Sokkuri Oyako"
+  },
+  "releasedAt": "1992-08-01T00:00:00.000Z",
+  "finishedAt": "1992-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45261/poster_image/840bcdb085e4c93fa5ac05938fb0786d.png",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45261"
+  }
+}

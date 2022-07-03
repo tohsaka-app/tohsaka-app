@@ -1,0 +1,26 @@
+{
+  "slug": "sore-ike-anpanman-tsukiko-to-shiratama-tokimeki-dancing",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Tsukiko to Shiratama - Tokimeki Dancing"
+  },
+  "releasedAt": "2004-07-17T00:00:00.000Z",
+  "finishedAt": "2004-07-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9629/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9629",
+    "anidb": "7747",
+    "aozora": "E9KdL9bQNa",
+    "myanimelist/anime": "21963"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "berserk-ougon-jidaihen-ii-doldrey-kouryaku",
+  "synopsis": "This second Berserk film will cover the part of the series dealing with the taking of the important Band of the Hawk stronghold.",
+  "title": {
+    "en": "Berserk: The Golden Age Arc II - The Battle for Doldrey",
+    "jp": "Berserk: Ougon Jidai-hen II - Doldrey Kouryaku"
+  },
+  "releasedAt": "2012-06-23T00:00:00.000Z",
+  "finishedAt": "2012-06-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6664/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6664/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "drama",
+    "fantasy",
+    "friendship",
+    "horror",
+    "military",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6664",
+    "anilist/anime": "12113",
+    "aozora": "xdmtDV4Xp7",
+    "hulu": "50015504",
+    "myanimelist/anime": "12113"
+  }
+}

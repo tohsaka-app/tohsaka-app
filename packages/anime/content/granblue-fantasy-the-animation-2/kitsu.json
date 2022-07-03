@@ -1,0 +1,32 @@
+{
+  "slug": "granblue-fantasy-the-animation-2",
+  "synopsis": "Second season of Granblue Fantasy The Animation.",
+  "title": {
+    "en": "Granblue Fantasy: The Animation Season 2",
+    "jp": "Granblue Fantasy The Animation 2"
+  },
+  "releasedAt": "2019-10-05T00:00:00.000Z",
+  "finishedAt": "2019-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14132/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "swordplay"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/granblue-fantasy-the-animation",
+    "https://www.funimation.com/shows/granblue-fantasy-the-animation/",
+    "https://www.hidive.com/tv/granblue-fantasy-the-animation-season-2"
+  ],
+  "relations": {
+    "kitsu": "14132",
+    "anilist/anime": "107346",
+    "myanimelist/anime": "36587"
+  }
+}

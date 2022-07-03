@@ -1,0 +1,21 @@
+{
+  "slug": "fly-feat-79-kaho-nakamura",
+  "synopsis": "Stop motion film by Baku Hashimoto for the single Fly feat. 79, Kaho Nakamura by imai. It features various types of mochi going about Hashimoto's grandparents' house.",
+  "title": {
+    "jp": "Fly feat. 79, Kaho Nakamura"
+  },
+  "releasedAt": "2017-11-28T00:00:00.000Z",
+  "finishedAt": "2017-11-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42796/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42796",
+    "myanimelist/anime": "40373"
+  }
+}

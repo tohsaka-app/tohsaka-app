@@ -1,0 +1,21 @@
+{
+  "slug": "suijun-genten",
+  "synopsis": "Animation by Ryo Orikasa, based on a poem by the same name by Ishihara Yoshirou.",
+  "title": {
+    "jp": "Suijungenten​"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12842/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "12842",
+    "anilist/anime": "121885",
+    "aozora": "y1sPR7CiAS",
+    "myanimelist/anime": "33320"
+  }
+}

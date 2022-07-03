@@ -1,0 +1,24 @@
+{
+  "slug": "kana-kana-kazoku",
+  "synopsis": "An original anime series created in cooperation with Kanagawa Prefecture.",
+  "title": {
+    "jp": "Kana Kana Kazoku"
+  },
+  "releasedAt": "2014-07-26T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8563/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8563",
+    "anidb": "11590",
+    "anilist/anime": "121080",
+    "aozora": "23pL1nQ4GW",
+    "myanimelist/anime": "24977"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "color-spring",
+  "synopsis": "This is the story of a teenage girl and her beloved grandmother. After passing the nice voice, she returns to her granddaughter's side and leads her on a fantastic journey.",
+  "title": {
+    "en": "Color Spring",
+    "jp": "Haru wo Iroderu"
+  },
+  "releasedAt": "2015-02-11T00:00:00.000Z",
+  "finishedAt": "2015-02-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41929/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41929/original.jpeg",
+  "categories": [
+    "contemporary fantasy",
+    "family",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41929"
+  }
+}

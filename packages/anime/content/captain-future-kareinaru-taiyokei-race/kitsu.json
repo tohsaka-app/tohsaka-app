@@ -1,0 +1,26 @@
+{
+  "slug": "captain-future-kareinaru-taiyokei-race",
+  "synopsis": "Sequel of Captain Future.",
+  "title": {
+    "jp": "Captain Future: Kareinaru Taiyokei Race"
+  },
+  "releasedAt": "1978-12-31T00:00:00.000Z",
+  "finishedAt": "1978-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3656/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3656",
+    "anidb": "1849",
+    "anilist/anime": "4509",
+    "aozora": "wYHkytAPeH",
+    "myanimelist/anime": "4509"
+  }
+}

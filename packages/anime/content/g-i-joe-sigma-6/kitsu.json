@@ -1,0 +1,24 @@
+{
+  "slug": "g-i-joe-sigma-6",
+  "synopsis": "The toyline was accompanied by a 26-episode animated series produced by the Japanese animation studio Gonzo, which aired on Fox, G4, and YTV.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "",
+    "jp": "G.I. Joe: Sigma 6"
+  },
+  "releasedAt": "2005-09-10T00:00:00.000Z",
+  "finishedAt": "2007-01-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12450/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12450"
+  }
+}

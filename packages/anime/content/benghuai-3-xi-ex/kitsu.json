@@ -1,0 +1,26 @@
+{
+  "slug": "benghuai-3-xi-ex",
+  "synopsis": null,
+  "title": {
+    "en": "Honkai Impact 3rd - Chapter XI-EX"
+  },
+  "releasedAt": "2019-08-01T00:00:00.000Z",
+  "finishedAt": "2019-08-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44067/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44067/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Wk397xetYwk&feature=emb_title&ab_channel=HonkaiImpact3rd"
+  ],
+  "relations": {
+    "kitsu": "44067",
+    "anilist/anime": "129684"
+  }
+}

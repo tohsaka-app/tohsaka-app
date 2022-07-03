@@ -1,0 +1,24 @@
+{
+  "slug": "ef-a-tale-of-melodies-prologue",
+  "synopsis": "The prologue of ef - a tale of melodies.",
+  "title": {
+    "jp": "ef: A Tale of Melodies. - Prologue"
+  },
+  "releasedAt": "2008-05-10T00:00:00.000Z",
+  "finishedAt": "2008-05-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4548/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4548/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4548",
+    "anilist/anime": "6401",
+    "aozora": "0hqnjkDJbF",
+    "myanimelist/anime": "6401"
+  }
+}

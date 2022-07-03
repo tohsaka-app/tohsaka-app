@@ -1,0 +1,23 @@
+{
+  "slug": "dou-hun-wei-xuan-yue-qiyuan",
+  "synopsis": "",
+  "title": {
+    "en": "Spirit Guardians"
+  },
+  "releasedAt": "2018-06-19T00:00:00.000Z",
+  "finishedAt": "2018-09-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43023/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43023",
+    "anilist/anime": "103008",
+    "myanimelist/anime": "41078"
+  }
+}

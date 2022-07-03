@@ -1,0 +1,27 @@
+{
+  "slug": "norakuro-shoui-nichiyoubi-no-kaijiken",
+  "synopsis": "Norakuro's adventures in the Fierce Dog Brigade continue in this short film from the 1930s.",
+  "title": {
+    "en": "2nd Lieutenant Norakuro: Sunday Magic",
+    "jp": "Norakuro Shoui: Nichiyoubi no Kaijiken"
+  },
+  "releasedAt": "1933-01-01T00:00:00.000Z",
+  "finishedAt": "1933-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4751/original.jpg",
+  "categories": [
+    "action",
+    "anthropomorphism",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4751",
+    "anidb": "7195",
+    "anilist/anime": "6850",
+    "aozora": "hfoJAoim5O",
+    "myanimelist/anime": "6850"
+  }
+}

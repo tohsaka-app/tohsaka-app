@@ -1,0 +1,27 @@
+{
+  "slug": "saiki-kusuo-no-nan-kanketsu-hen",
+  "synopsis": "Adaptation of the final chapters of the Saiki Kusuo no Ψ-nan manga. \n\n(Source: MAL)",
+  "title": {
+    "en": "The Disastrous Life of Saiki K. Final Arc",
+    "jp": "Saiki Kusuo no Ψ-nan: Kanketsu-hen"
+  },
+  "releasedAt": "2018-12-28T00:00:00.000Z",
+  "finishedAt": "2018-12-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41940/original.jpg",
+  "categories": [
+    "comedy",
+    "high school",
+    "school life",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41940",
+    "anilist/anime": "104580",
+    "myanimelist/anime": "38249"
+  }
+}

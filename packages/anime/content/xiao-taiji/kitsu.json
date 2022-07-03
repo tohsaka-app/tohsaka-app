@@ -1,0 +1,26 @@
+{
+  "slug": "xiao-taiji",
+  "synopsis": "",
+  "title": {
+    "jp": "Xiao Taiji"
+  },
+  "releasedAt": "1999-01-01T00:00:00.000Z",
+  "finishedAt": "1999-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11732/original.jpg",
+  "categories": [
+    "action",
+    "kids",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11732",
+    "anidb": "11651",
+    "anilist/anime": "103159",
+    "aozora": "mbNxKiSaFU",
+    "myanimelist/anime": "31700"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "phantom-requiem-for-the-phantom-picture-drama",
+  "synopsis": "DVD/BD specials.",
+  "title": {
+    "jp": "Phantom: Requiem for the Phantom Picture Drama"
+  },
+  "releasedAt": "2009-07-24T00:00:00.000Z",
+  "finishedAt": "2010-02-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5449/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5449",
+    "anilist/anime": "8705",
+    "aozora": "O3LY4kbPmi",
+    "myanimelist/anime": "8705"
+  }
+}

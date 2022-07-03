@@ -1,0 +1,27 @@
+{
+  "slug": "takara-sagashi",
+  "synopsis": "Short film shown only in the Ghibli Museum in Mitaka. The nine-minute short adapts a picture book by Rieko Nakagawa and Yuriko Yamawaki, the author and illustrator of two previous books that inspired Ghibli shorts (Sora Iro no Tane, The Whale Hunt). In the story, a boy named Yuuji and a rabbit named Gikku find a stick at the same time, and decide to compete in games to decide who can keep the stick. However, whether it is a foot race, long jump, or sumo wrestling, they always end up in a tie. \n(Source: ANN) ",
+  "title": {
+    "en": "Treasure Hunting",
+    "jp": "Takara-sagashi"
+  },
+  "releasedAt": "2011-06-04T00:00:00.000Z",
+  "finishedAt": "2011-06-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6697/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6697",
+    "anidb": "9378",
+    "anilist/anime": "12267",
+    "aozora": "jODgDrYLrO",
+    "myanimelist/anime": "12267"
+  }
+}

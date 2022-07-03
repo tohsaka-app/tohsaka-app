@@ -1,0 +1,27 @@
+{
+  "slug": "adventure-time-diamonds-and-lemons",
+  "synopsis": "Special episode of Adventure Time set in a Minecraft version of Ooo.",
+  "title": {},
+  "releasedAt": "2018-07-20T00:00:00.000Z",
+  "finishedAt": "2018-07-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41494/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41494/original.png",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "anthropomorphism",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "kids",
+    "post apocalypse",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41494"
+  }
+}

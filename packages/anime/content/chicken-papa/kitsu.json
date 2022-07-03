@@ -1,0 +1,24 @@
+{
+  "slug": "chicken-papa",
+  "synopsis": "A rooster who happens to be a father.",
+  "title": {
+    "en": "Chicken Papa",
+    "jp": "Chicken Papa"
+  },
+  "releasedAt": "2010-03-30T00:00:00.000Z",
+  "finishedAt": "2010-03-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12801/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12801",
+    "anilist/anime": "102724",
+    "aozora": "Bqb8ehDXCk",
+    "myanimelist/anime": "33859"
+  }
+}

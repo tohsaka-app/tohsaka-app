@@ -1,0 +1,28 @@
+{
+  "slug": "namu_amida_butsu_rendai_utena",
+  "synopsis": "Long before superheroes, there were legends. One of them begins with Shaka Nyorai, whose bravery and enlightenment once saved humanity forever. But forever is fleeting because Mara, the personification of Earthly desires, forges a corrupt coalition with the devil to again visit wrath and vengeance upon humankind. To counter Mara’s cruel attack, Taishakuten and Bonten, divine beings, must join forces with the Thirteen Buddhas. Can the allied powers of light defeat the vicious onslaught and save humankind in their darkest hour?\n\n(Source: Sentai Filmworks)",
+  "title": {
+    "en": "NAMUAMIDABUTSU! -UTENA-",
+    "jp": "Namu Amida Butsu!: Rendai Utena"
+  },
+  "releasedAt": "2019-04-08T00:00:00.000Z",
+  "finishedAt": "2019-06-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42214/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42214/original.png",
+  "categories": [
+    "fantasy",
+    "historical"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/namuamidabutsu-utena-",
+    "https://www.hidive.com/tv/namuamidabutsu-utena-"
+  ],
+  "relations": {
+    "kitsu": "42214",
+    "anilist/anime": "104212",
+    "myanimelist/anime": "38150"
+  }
+}

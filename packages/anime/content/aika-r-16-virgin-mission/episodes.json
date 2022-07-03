@@ -1,0 +1,35 @@
+[
+  {
+    "title": {
+      "jp": "Secret Game"
+    },
+    "synopsis": "Aika is training to get her salvager's license and joins the Treasure Hunting Club at school.",
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/33381/original.jpeg",
+    "releasedAt": "2007-04-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Peach Peach Beach"
+    },
+    "synopsis": "The Treasure Hunting Club goes to the beach to relax.",
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/33382/original.jpeg",
+    "releasedAt": "2007-07-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Deep Blue Girl"
+    },
+    "synopsis": "Aika and Eri discover an old airport at the bottom of ocean.",
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/33383/original.jpeg",
+    "releasedAt": "2007-10-26T00:00:00.000Z",
+    "content": {}
+  }
+]

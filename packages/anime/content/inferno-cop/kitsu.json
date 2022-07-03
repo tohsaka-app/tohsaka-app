@@ -1,0 +1,28 @@
+{
+  "slug": "inferno-cop",
+  "synopsis": "The story deals with those in this world who dwell in the dark, invisible to the naked eye. From time to time, these figures bare their fangs and attack people. Inferno Cop is a messenger of justice who came from the depths of hell to protect people from them.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Inferno Cop"
+  },
+  "releasedAt": "2012-12-25T00:00:00.000Z",
+  "finishedAt": "2013-03-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7511/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7511/original.jpg",
+  "categories": [
+    "action",
+    "cops"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/inferno-cop",
+    "https://www.youtube.com/watch?v=gy0E-1MD0bw&list=PL8Vd-cvqk4GtPGk2K8yfiEcWxy6nt3VZY"
+  ],
+  "relations": {
+    "kitsu": "7511",
+    "anilist/anime": "16774",
+    "aozora": "fgDzwFnqfh",
+    "myanimelist/anime": "16774"
+  }
+}

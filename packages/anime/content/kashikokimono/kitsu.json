@@ -1,0 +1,23 @@
+{
+  "slug": "kashikokimono",
+  "synopsis": "A combination of hand-drawn animation and computer-based generative animation exploring music and animation as a form of organic expression. Animated by Takahiro Hayakawa.",
+  "title": {
+    "jp": "Kashikokimono"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13095/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13095",
+    "anilist/anime": "102771",
+    "aozora": "6BqkgvS4L0",
+    "myanimelist/anime": "31926"
+  }
+}

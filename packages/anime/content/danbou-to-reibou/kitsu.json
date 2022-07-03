@@ -1,0 +1,22 @@
+{
+  "slug": "Danbou-to-Reibou",
+  "synopsis": "Official music video for Nishinakajima Kinako's song Danbou to Reibou promoting his special feature interview with Natalie (a Japanese entertainment news website) on February 27, 2019. The music video is available to view on Space Show Music's official YouTube channel.",
+  "title": {
+    "jp": "Danbou to Reibou"
+  },
+  "releasedAt": "2019-01-31T00:00:00.000Z",
+  "finishedAt": "2019-01-31T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42857/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42857",
+    "myanimelist/anime": "39096"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "wo-shi-jiang-xiaobai-2018",
+  "synopsis": "",
+  "title": {
+    "en": "I'm Joybo OVA",
+    "jp": "Wo Shi Jiang Xiaobai (2018)"
+  },
+  "releasedAt": "2018-05-25T00:00:00.000Z",
+  "finishedAt": "2018-05-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41306/original.jpg",
+  "categories": [
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41306",
+    "anilist/anime": "101550",
+    "myanimelist/anime": "37886"
+  }
+}

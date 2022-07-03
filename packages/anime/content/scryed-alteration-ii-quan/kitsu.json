@@ -1,0 +1,26 @@
+{
+  "slug": "scryed-alteration-ii-quan",
+  "synopsis": "Second part of the Scryed Alteration recap.",
+  "title": {
+    "jp": "s.CRY.ed Alteration II: Quan"
+  },
+  "releasedAt": "2012-03-10T00:00:00.000Z",
+  "finishedAt": "2012-03-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6689/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6689",
+    "anilist/anime": "12223",
+    "aozora": "9pZGLl7j7v",
+    "myanimelist/anime": "12223"
+  }
+}

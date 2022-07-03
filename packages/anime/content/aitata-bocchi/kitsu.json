@@ -1,0 +1,25 @@
+{
+  "slug": "aitata-bocchi",
+  "synopsis": "Old friends Cabbage and Pea reunite under awkward circumstances.",
+  "title": {
+    "en": "Ouch",
+    "jp": "Aitata Bocchi"
+  },
+  "releasedAt": "2016-11-01T00:00:00.000Z",
+  "finishedAt": "2016-11-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13036/original.jpg",
+  "categories": [
+    "dementia",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13036",
+    "anilist/anime": "102448",
+    "aozora": "QavZyLrRgb",
+    "myanimelist/anime": "34631"
+  }
+}

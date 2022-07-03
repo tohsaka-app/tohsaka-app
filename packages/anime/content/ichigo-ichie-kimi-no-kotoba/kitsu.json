@@ -1,0 +1,24 @@
+{
+  "slug": "ichigo-ichie-kimi-no-kotoba",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Ichigo Ichie: Kimi no Kotoba"
+  },
+  "releasedAt": "2010-10-24T00:00:00.000Z",
+  "finishedAt": "2011-01-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5768/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5768",
+    "anidb": "7951",
+    "anilist/anime": "9518",
+    "aozora": "aQuaex4SbR",
+    "myanimelist/anime": "9518"
+  }
+}

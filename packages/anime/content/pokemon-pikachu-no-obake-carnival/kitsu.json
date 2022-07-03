@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-pikachu-no-obake-carnival",
+  "synopsis": "Pikachu and his friends have a picnic when they discover a Ghost Festival. The walk in to it, and find out that it is haunted by Ghost Pokemon and other Pokemon such as Koffing, Lickitung, Ditto, and Cubone. Meowth also discovers the Ghost Festival and gets scared out of his mind. Pikachu makes friends with the ghosts, and they work together to make Meowth run out of the Festival.\n(Source: ANN)",
+  "title": {
+    "en": "Pokemon: Pikachu's Ghost Festival!",
+    "jp": "Pokemon: Pikachu no Obake Carnival"
+  },
+  "releasedAt": "2005-08-01T00:00:00.000Z",
+  "finishedAt": "2005-08-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4301/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4301",
+    "anidb": "4553",
+    "anilist/anime": "5844",
+    "aozora": "MoFisgMdMO",
+    "myanimelist/anime": "5844"
+  }
+}

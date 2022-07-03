@@ -1,0 +1,24 @@
+{
+  "slug": "denwa-kakumei-naisen",
+  "synopsis": "Promotional music video for the ITALL INC. and their cloud-type phone service naisen.",
+  "title": {
+    "jp": "Denwa Kakumei Naisen"
+  },
+  "releasedAt": "2018-07-03T00:00:00.000Z",
+  "finishedAt": "2018-07-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44454/original.jpg",
+  "categories": [
+    "music",
+    "parody",
+    "piloted robot",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44454",
+    "myanimelist/anime": "37588"
+  }
+}

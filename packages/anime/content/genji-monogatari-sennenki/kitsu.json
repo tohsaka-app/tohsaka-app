@@ -1,0 +1,33 @@
+{
+  "slug": "genji-monogatari-sennenki",
+  "synopsis": "Born from a much loved, but lowly ranked concubine, Genji Hikaru is called the Shining Prince and is the beloved second son of the Emperor. Although he cannot be an heir to the throne of his father, Genji spends his life surrounded by every pleasure and love. And yet, his one longing in love is something that even the power of an Emperor can never give him.\n(Source: ANN)",
+  "title": {
+    "en": "Millennium Old Journal: Tale of Genji",
+    "jp": "Genji Monogatari Sennenki"
+  },
+  "releasedAt": "2009-01-16T00:00:00.000Z",
+  "finishedAt": "2009-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3954/original.jpg",
+  "categories": [
+    "heian period",
+    "historical",
+    "japan",
+    "past",
+    "plot continuity",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3954",
+    "anidb": "6130",
+    "anilist/anime": "5155",
+    "aozora": "jYrsAzh4LS",
+    "myanimelist/anime": "5155",
+    "thetvdb": "89741/1",
+    "thetvdb/series": "89741",
+    "trakt": "33969"
+  }
+}

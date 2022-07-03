@@ -1,0 +1,21 @@
+{
+  "slug": "my-name-is",
+  "synopsis": "",
+  "title": {
+    "jp": "My name is"
+  },
+  "releasedAt": "2013-11-23T00:00:00.000Z",
+  "finishedAt": "2013-11-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13364/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13364/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13364"
+  }
+}

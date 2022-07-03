@@ -1,0 +1,24 @@
+{
+  "slug": "ikuze-gen-san",
+  "synopsis": "The slapstick comedy centers on Genzō Tamura, a 19-year-old third-generation construction worker in the working-class neighborhood of Beranme. When the Kuromoku Group urban developers threatens the neighborhood with Chainsaw Mika and Dynamite Dan, Tamura must save his town with his trusty hammer.\nSource: ANN",
+  "title": {
+    "jp": "Ikuze! Gen-san"
+  },
+  "releasedAt": "2008-03-24T00:00:00.000Z",
+  "finishedAt": "2008-09-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3388/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3388",
+    "anidb": "7313",
+    "anilist/anime": "3973",
+    "aozora": "ne7hL6LLZe",
+    "myanimelist/anime": "3973"
+  }
+}

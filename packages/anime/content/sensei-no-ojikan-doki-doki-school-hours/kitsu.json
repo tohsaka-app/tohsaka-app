@@ -1,0 +1,37 @@
+{
+  "slug": "sensei-no-ojikan-doki-doki-school-hours",
+  "synopsis": "Meet Suzuki Mika, teacher at Okitsu High School. Mika-sensei is a good teacher, but she has a small problem... literally. Although she's 27, she is only 148 cm tall, and has the face of a child. As a result, it is often difficult for Mika-sensei to get anyone to take her seriously.\n\n(Source: ANN)",
+  "title": {
+    "en": "Doki Doki School Hours",
+    "jp": "Sensei no Ojikan: Doki Doki School Hours"
+  },
+  "releasedAt": "2004-04-05T00:00:00.000Z",
+  "finishedAt": "2004-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/492/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "present",
+    "school life",
+    "slapstick",
+    "slice of life",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "492",
+    "anidb": "1697",
+    "anilist/anime": "533",
+    "aozora": "knUb3OOm4r",
+    "myanimelist/anime": "533",
+    "thetvdb": "84012/1",
+    "thetvdb/series": "84012",
+    "trakt": "34584"
+  }
+}

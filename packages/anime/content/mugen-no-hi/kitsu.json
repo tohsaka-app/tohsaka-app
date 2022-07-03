@@ -1,0 +1,24 @@
+{
+  "slug": "mugen-no-hi",
+  "synopsis": "In the pitch darkness a man cannot see anything. Only light source is a light lit with a match by someone else. The light is lit and put out. This repeats sometime and eventually the man makes up his mind.\n\n1st year work 2016, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Eternal Flame",
+    "jp": "Mugen no Hi"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45236/poster_image/47293fd37939da0d60ff6528393ea35c.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/pKnQnL-RNy0"
+  ],
+  "relations": {
+    "kitsu": "45236",
+    "anilist/anime": "111967"
+  }
+}

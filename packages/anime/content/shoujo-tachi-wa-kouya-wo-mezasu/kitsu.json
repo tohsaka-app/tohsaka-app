@@ -1,0 +1,37 @@
+{
+  "slug": "shoujo-tachi-wa-kouya-wo-mezasu",
+  "synopsis": "Shoujo-tachi wa Kouya wo Mezasu is a series all about finding oneself and a direction in life... no matter how far off the beaten path it might be. \nBuntarou Hojo is a high school student who has a talent for writing, but no real direction in life or any plans for the future. His classmate, Sayuki Kuroda notices his talent, decides to help him find a way to use it properly by enlisting him in her bishoujo game development group.\nWhen Buntarou is cornered in the men's bathroom at school by Sayuki, he is surprised when he is asked out on what he thinks is a date, and even further surprised when he finds out that it's not a date, but a job interview. Reluctantly agreeing, the two start recruiting other members for their team but will they learn more about game creation, or life itself along the way?",
+  "title": {
+    "en": "Girls Beyond the Wasteland",
+    "jp": "Shoujo-tachi wa Kouya wo Mezasu"
+  },
+  "releasedAt": "2016-01-07T00:00:00.000Z",
+  "finishedAt": "2016-03-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11457/original.png",
+  "categories": [
+    "asia",
+    "earth",
+    "high school",
+    "japan",
+    "plot continuity",
+    "present",
+    "school clubs",
+    "school life"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/girls-beyond-the-wasteland"
+  ],
+  "relations": {
+    "kitsu": "11457",
+    "anidb": "11725",
+    "anilist/anime": "21444",
+    "aozora": "bwLsbzc6OY",
+    "hulu": "50024862",
+    "myanimelist/anime": "31914",
+    "thetvdb": "303147/1",
+    "trakt": "103404"
+  }
+}

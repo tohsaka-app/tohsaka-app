@@ -1,0 +1,34 @@
+{
+  "slug": "show-by-rock-2",
+  "synopsis": "Metropolis of music, MIDICITY. A kitty girl wearing gothic lolita clothing named Cyan is scouted by Maple Arisugawa, the president of a music agency. From there, she meets Chuchu (a pun off of the sound that rabbits make) the honor student rabbit girl, a net geek dog girl named Retoree (from \"Retriever\"), and an alien sheep (?) girl named Moa. Together, they form the band named \"Plasmagica,\" and aim for the top of the world.\nHowever, the path there is long and tough, and keeping in high spirits is important. By battling against other strange bands, Plasmagica slowly grows toward a top-grade band. In the end, they'll be a band that becomes the driving force of MIDICITY's music industry... Maybe?\nGonna be a music millionaire!\n(Source: Sanrio)",
+  "title": {
+    "en": "Show By Rock!! 2",
+    "jp": "Show By Rock!! #"
+  },
+  "releasedAt": "2016-10-02T00:00:00.000Z",
+  "finishedAt": "2016-12-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11494/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11494/original.jpg",
+  "categories": [
+    "comedy",
+    "juujin",
+    "music",
+    "musical band"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/show-by-rock",
+    "http://www.funimation.com/shows/show-by-rock/"
+  ],
+  "relations": {
+    "kitsu": "11494",
+    "anidb": "11763",
+    "anilist/anime": "21476",
+    "aozora": "SjzxekFjuu",
+    "myanimelist/anime": "32038",
+    "thetvdb": "291726",
+    "trakt": "95834"
+  }
+}

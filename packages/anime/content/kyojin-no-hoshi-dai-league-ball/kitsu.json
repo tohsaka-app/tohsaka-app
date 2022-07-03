@@ -1,0 +1,25 @@
+{
+  "slug": "kyojin-no-hoshi-dai-league-ball",
+  "synopsis": "Third Kyojin no Hoshi movie.",
+  "title": {
+    "jp": "Kyojin no Hoshi: Dai League Ball"
+  },
+  "releasedAt": "1970-03-21T00:00:00.000Z",
+  "finishedAt": "1970-03-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9414/original.jpg",
+  "categories": [
+    "baseball",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9414",
+    "anidb": "7633",
+    "anilist/anime": "17445",
+    "aozora": "63kzk4GANr",
+    "myanimelist/anime": "17445"
+  }
+}

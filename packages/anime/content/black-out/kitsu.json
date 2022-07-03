@@ -1,0 +1,24 @@
+{
+  "slug": "black-out",
+  "synopsis": "MV for Black Out performed by NIJISANJI's second EN wave, OBSYDIA.",
+  "title": {
+    "en": "Black Out"
+  },
+  "releasedAt": "2021-07-17T00:00:00.000Z",
+  "finishedAt": "2021-07-17T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44908/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44908/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=D-V0EHF30rk"
+  ],
+  "relations": {
+    "kitsu": "44908"
+  }
+}

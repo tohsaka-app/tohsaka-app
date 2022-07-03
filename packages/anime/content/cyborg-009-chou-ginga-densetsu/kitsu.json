@@ -1,0 +1,36 @@
+{
+  "slug": "cyborg-009-chou-ginga-densetsu",
+  "synopsis": "The cyborgs are no longer on duty, they live normal lives until a mysterious space ship lands on earth. The only survivor on the ship warns about an evil conqueror called Zoa that wants to conquer the universe, which means the cyborgs are back in action...\n(Source: ANN)",
+  "title": {
+    "en": "Cyborg 009: Legend of the Super Galaxy",
+    "jp": "Cyborg 009: Chou Ginga Densetsu"
+  },
+  "releasedAt": "1980-12-20T00:00:00.000Z",
+  "finishedAt": "1980-12-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4945/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "cyborg",
+    "future",
+    "human enhancement",
+    "humanoid alien",
+    "other planet",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4945",
+    "anidb": "2242",
+    "anilist/anime": "7336",
+    "aozora": "J4JEKjweyp",
+    "myanimelist/anime": "7336"
+  }
+}

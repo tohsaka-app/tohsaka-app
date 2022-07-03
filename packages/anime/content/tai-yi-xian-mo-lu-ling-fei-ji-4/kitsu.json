@@ -1,0 +1,26 @@
+{
+  "slug": "tai-yi-xian-mo-lu-ling-fei-ji-4",
+  "synopsis": null,
+  "title": {
+    "en": "Tai Yi Xian Mo Lu Zhi Ling Fei Ji 4th Season"
+  },
+  "releasedAt": "2021-05-16T00:00:00.000Z",
+  "finishedAt": "2021-08-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45286/poster_image/c3b1998f8e1b7801ce2da3ca9af61d56.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45286",
+    "anilist/anime": "129222",
+    "myanimelist/anime": "48873"
+  }
+}

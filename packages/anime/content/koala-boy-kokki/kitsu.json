@@ -1,0 +1,29 @@
+{
+  "slug": "koala-boy-kokki",
+  "synopsis": "A little koala and his friends have adventures together and learn lessons about the world while having a lot of fun.",
+  "title": {
+    "en": "The Adventures of the Little Koala",
+    "jp": "Koala Boy Kokki"
+  },
+  "releasedAt": "1984-04-11T00:00:00.000Z",
+  "finishedAt": "1985-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3212/original.jpg",
+  "categories": [
+    "comedy",
+    "earth"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3212",
+    "anidb": "5747",
+    "anilist/anime": "3723",
+    "aozora": "G7PBNcrJzL",
+    "myanimelist/anime": "3723",
+    "thetvdb": "267881/1",
+    "thetvdb/series": "267881",
+    "trakt": "9721"
+  }
+}

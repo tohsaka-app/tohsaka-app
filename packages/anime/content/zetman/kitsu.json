@@ -1,0 +1,37 @@
+{
+  "slug": "zetman",
+  "synopsis": "The story starts off with a face-off between two rival heroes, ZET and ALPHAS, and then traces their origins - Jin Kanzaki, a young man with the ability to transform into a superhuman being known as ZET, and Kouga Amagi, a young man with a strong sense of justice who uses technology to fight as ALPHAS.\nThe fates of these two men and those around them intertwine as they fight to protect mankind and destroy monstrous abominations known as Players.\n(Source: ytv ENGLISH)",
+  "title": {
+    "en": "Zetman",
+    "jp": "Zetman"
+  },
+  "releasedAt": "2012-04-03T00:00:00.000Z",
+  "finishedAt": "2012-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6614/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6614/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "horror",
+    "romance",
+    "science fiction",
+    "tokyo"
+  ],
+  "externals": [
+    "http://www.hulu.com/zetman"
+  ],
+  "relations": {
+    "kitsu": "6614",
+    "anidb": "8728",
+    "anilist/anime": "11837",
+    "aozora": "mn23VDcIP6",
+    "hulu": "50007106",
+    "myanimelist/anime": "11837",
+    "thetvdb": "257395/1",
+    "thetvdb/series": "257395",
+    "trakt": "60862"
+  }
+}

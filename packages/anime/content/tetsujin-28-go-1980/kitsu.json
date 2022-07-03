@@ -1,0 +1,31 @@
+{
+  "slug": "tetsujin-28-go-1980",
+  "synopsis": "Shotaro had become an Interpol agent, working with Branch Robo, the antirobot crime unit of that organization. He still employs Tetsujin.\n(Source: AniDB)",
+  "title": {
+    "en": "The New Adventures of Gigantor",
+    "jp": "Tetsujin 28-gou (1980)"
+  },
+  "releasedAt": "1980-10-03T00:00:00.000Z",
+  "finishedAt": "1981-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3524/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.hulu.com/gigantor"
+  ],
+  "relations": {
+    "kitsu": "3524",
+    "anidb": "1672",
+    "anilist/anime": "4208",
+    "aozora": "kNJlunt4Ng",
+    "myanimelist/anime": "4208",
+    "thetvdb": "251746/1",
+    "thetvdb/series": "251746"
+  }
+}

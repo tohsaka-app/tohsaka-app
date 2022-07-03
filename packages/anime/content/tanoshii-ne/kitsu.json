@@ -1,0 +1,21 @@
+{
+  "slug": "tanoshii-ne",
+  "synopsis": "Three girls have fun playing hand-clapping games.",
+  "title": {
+    "jp": "Tanoshii ne"
+  },
+  "releasedAt": "1965-02-01T00:00:00.000Z",
+  "finishedAt": "1965-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40908/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40908",
+    "anilist/anime": "139058",
+    "aozora": "SNihePdIgo",
+    "myanimelist/anime": "36356"
+  }
+}

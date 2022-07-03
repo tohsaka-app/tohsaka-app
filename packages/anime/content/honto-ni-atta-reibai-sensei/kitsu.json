@@ -1,0 +1,34 @@
+{
+  "slug": "honto-ni-atta-reibai-sensei",
+  "synopsis": "The story revolves around Kibayashi, a teacher whose hobby is speaking with the dead and whose special talent is exorcism. She seems to know everything about the other world, yet nothing about our own.\n(Source: AniDB)",
+  "title": {
+    "jp": "Honto ni Atta! Reibai Sensei"
+  },
+  "releasedAt": "2011-04-13T00:00:00.000Z",
+  "finishedAt": "2011-09-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6135/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "asia",
+    "comedy",
+    "earth",
+    "fantasy",
+    "japan",
+    "present",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6135",
+    "anidb": "8245",
+    "anilist/anime": "10338",
+    "aozora": "ppzNRztojO",
+    "myanimelist/anime": "10338",
+    "thetvdb": "248980/1",
+    "thetvdb/series": "248980",
+    "trakt": "65700"
+  }
+}

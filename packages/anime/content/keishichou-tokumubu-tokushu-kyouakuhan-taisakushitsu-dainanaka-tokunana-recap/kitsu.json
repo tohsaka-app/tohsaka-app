@@ -1,0 +1,28 @@
+{
+  "slug": "Keishichou-Tokumubu-Tokushu-Kyouakuhan-Taisakushitsu-Dainanaka-Tokunana-Recap",
+  "synopsis": "Recap of first eight episodes of Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana.",
+  "title": {
+    "en": "Special 7: Special Crime Investigation Unit - Seiji Nanatsuki's Running Report",
+    "jp": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana Recap"
+  },
+  "releasedAt": "2019-12-01T00:00:00.000Z",
+  "finishedAt": "2019-12-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42873/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "fantasy",
+    "vampire"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/special-7-special-crime-investigation-unit/",
+    "https://www.hulu.com/series/special-7-special-crime-investigation-unit-a53c908e-99c3-4ad2-87a8-3b61b9b9be83"
+  ],
+  "relations": {
+    "kitsu": "42873",
+    "anidb": "14777"
+  }
+}

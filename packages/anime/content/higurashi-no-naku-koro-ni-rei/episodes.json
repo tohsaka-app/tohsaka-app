@@ -1,0 +1,57 @@
+[
+  {
+    "title": {
+      "en": "Embarrassment Chapter",
+      "jp": "Hajisarashi Hen"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/53300/original.jpg",
+    "releasedAt": "2009-02-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "en": "Dice Killing Chapter One",
+      "jp": "Saikoroshi Hen Sono Ichi"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/53301/original.jpg",
+    "releasedAt": "2009-03-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "en": "Dice Killing Chapter Two",
+      "jp": "Saikoroshi Hen Sono Ni"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/53302/original.jpg",
+    "releasedAt": "2009-05-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "en": "Dice Killing Chapter Three",
+      "jp": "Saikoroshi Hen Sono San"
+    },
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/53303/original.jpg",
+    "releasedAt": "2009-06-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "en": "Daybreak Chapter",
+      "jp": "Hirukowashi Hen"
+    },
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/53304/original.jpg",
+    "releasedAt": "2009-08-21T00:00:00.000Z",
+    "content": {}
+  }
+]

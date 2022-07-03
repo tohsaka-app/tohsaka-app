@@ -1,0 +1,44 @@
+{
+  "slug": "initial-d-second-stage",
+  "synopsis": "Following his victory over RedSuns leader Ryosuke Takahashi, AE86 driver Takumi Fujiwara is challenged by the Lancer EVO-based \"Emperor,\" a group known for taking decals of racing teams they defeat, cutting them up and placing them on their cars like a fighter plane kill board. Takumi's undefeated streak is on the line as his AE86 is virtually no match against the more powerful and more agile four-wheel-drive EVOs of the Emperor team. \n(Source: ANN)",
+  "title": {
+    "en": "Initial D Second Stage",
+    "jp": "Initial D Second Stage"
+  },
+  "releasedAt": "1999-10-15T00:00:00.000Z",
+  "finishedAt": "2000-01-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/163/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/163/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "drifting",
+    "earth",
+    "japan",
+    "motorsport",
+    "plot continuity",
+    "present",
+    "school life",
+    "seinen",
+    "sports",
+    "street racing"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/initial-d/",
+    "https://www.hulu.com/initial-d"
+  ],
+  "relations": {
+    "kitsu": "163",
+    "anidb": "145",
+    "anilist/anime": "186",
+    "aozora": "FkrW9I2tMm",
+    "myanimelist/anime": "186",
+    "thetvdb": "70900/2",
+    "thetvdb/season": "1316",
+    "thetvdb/series": "70900",
+    "trakt": "40239"
+  }
+}

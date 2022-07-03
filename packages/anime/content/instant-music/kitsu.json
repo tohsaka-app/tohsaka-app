@@ -1,0 +1,24 @@
+{
+  "slug": "instant-music",
+  "synopsis": "Music video for the song ‘Instant Music’, from the album ‘Runners High’ by the pillows.",
+  "title": {
+    "en": "Instant Music",
+    "jp": "Instant Music"
+  },
+  "releasedAt": "1998-11-27T00:00:00.000Z",
+  "finishedAt": "1998-11-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10814/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10814",
+    "anilist/anime": "102386",
+    "aozora": "7ONd4qJKrM",
+    "myanimelist/anime": "30424"
+  }
+}

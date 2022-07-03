@@ -1,0 +1,28 @@
+{
+  "slug": "leafie-a-hen-into-the-wild",
+  "synopsis": "A Korean animation about a hen named Leafie who lives and works on an egg farm who dreams of freedom outside her cage. One day she fakes her own death to escape the farm.",
+  "title": {
+    "en": "Daisy: A Hen into the Wild",
+    "jp": "Madang-Eul Naon Amtalg"
+  },
+  "releasedAt": "2011-07-28T00:00:00.000Z",
+  "finishedAt": "2011-07-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6847/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6847",
+    "anidb": "10317",
+    "anilist/anime": "12917",
+    "aozora": "6WhRI3y3Yt",
+    "myanimelist/anime": "12917"
+  }
+}

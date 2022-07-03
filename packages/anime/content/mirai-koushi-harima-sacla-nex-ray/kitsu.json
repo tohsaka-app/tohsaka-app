@@ -1,0 +1,22 @@
+{
+  "slug": "mirai-koushi-harima-sacla-nex-ray",
+  "synopsis": "",
+  "title": {
+    "jp": "Mirai Koushi Harima SACLA NEX RAY"
+  },
+  "releasedAt": "2017-10-12T00:00:00.000Z",
+  "finishedAt": "2017-10-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42695/original.jpg",
+  "categories": [
+    "music",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42695",
+    "myanimelist/anime": "39056"
+  }
+}

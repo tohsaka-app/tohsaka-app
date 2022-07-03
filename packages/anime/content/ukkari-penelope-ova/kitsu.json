@@ -1,0 +1,24 @@
+{
+  "slug": "ukkari-penelope-ova",
+  "synopsis": "A Christmas OVA based on the European Pénélope picture books from Georg Hallensleben and Ann Gutman about the adventures of a blue koala.",
+  "title": {
+    "jp": "Ukkari Pénélope OVA"
+  },
+  "releasedAt": "2007-11-23T00:00:00.000Z",
+  "finishedAt": "2007-11-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5301/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5301",
+    "anidb": "7957",
+    "anilist/anime": "8346",
+    "aozora": "gtb2dnin17",
+    "myanimelist/anime": "8346"
+  }
+}

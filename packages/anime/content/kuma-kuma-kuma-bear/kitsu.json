@@ -1,0 +1,30 @@
+{
+  "slug": "kuma-kuma-kuma-bear",
+  "synopsis": "Fifteen-year-old Yuna prefers staying home and obsessively playing her favorite VRMMO to doing anything else, including going to school. When a strange new update gives her a one-of-a-kind bear outfit that comes with overpowered abilities, Yuna is torn: the outfit is unbearably cute, but too embarrassing to wear in-game. But then she suddenly finds herself transported into the world of the game, facing down monsters and magic for real, and the bear suit becomes the best weapon she has!(Source: Seven Seas Entertainment)Episode 1 was streamed in advance on September 19, 2020 on Abema TV. Regular broadcasting began on October 7, 2020.",
+  "title": {
+    "en": "Kuma Kuma Kuma Bear",
+    "jp": "Kuma Kuma Kuma Bear"
+  },
+  "releasedAt": "2020-09-19T00:00:00.000Z",
+  "finishedAt": "2020-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43214/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43214/original.png",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "isekai"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/kuma-kuma-kuma-bear/"
+  ],
+  "relations": {
+    "kitsu": "43214",
+    "anilist/anime": "114340",
+    "myanimelist/anime": "40974"
+  }
+}

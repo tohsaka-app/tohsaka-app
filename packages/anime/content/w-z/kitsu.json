@@ -1,0 +1,29 @@
+{
+  "slug": "w-z",
+  "synopsis": "Yukiya spends his free time as a DJ for a crowd of one and uploads his videos online while yearning for something greater than his current life. One day, he stumbles across a mysterious live broadcast that will change his world forever.\n\n(Source: HIDIVE)",
+  "title": {
+    "jp": "W'z"
+  },
+  "releasedAt": "2019-01-06T00:00:00.000Z",
+  "finishedAt": "2019-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41077/original.jpg",
+  "categories": [
+    "action",
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/wz",
+    "https://www.hidive.com/tv/wz"
+  ],
+  "relations": {
+    "kitsu": "41077",
+    "anidb": "13934",
+    "anilist/anime": "101337",
+    "animenewsnetwork": "20759",
+    "myanimelist/anime": "37509"
+  }
+}

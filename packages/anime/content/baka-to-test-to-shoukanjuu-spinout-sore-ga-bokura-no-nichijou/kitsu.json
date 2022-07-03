@@ -1,0 +1,27 @@
+{
+  "slug": "baka-to-test-to-shoukanjuu-spinout-sore-ga-bokura-no-nichijou",
+  "synopsis": "Spin-off of Baka to Test to Shoukanjuu that has been serialized on Famitsu Comic Clear website since 2010.\nThese specials are included in the Baka to Test Ni! BD/DVD releases.",
+  "title": {
+    "jp": "Baka to Test to Shoukanjuu: Spinout! Sore ga Bokura no Nichijou"
+  },
+  "releasedAt": "2011-09-21T00:00:00.000Z",
+  "finishedAt": "2012-02-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6376/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6376/original.png",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6376",
+    "anilist/anime": "10834",
+    "aozora": "J43ELyxB3r",
+    "myanimelist/anime": "10834"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "its-my-life",
+  "synopsis": "Based on a fantasy manga by Narita Imomushi.\n\nAstra Ludger Doomsday, former captain of the royal knights has finally achieved his dearest wish: To retire and use his savings to get his very own house. But not long after finally arriving at his sanctuary, a young girl crash-lands into his house. The girl is an apprentice witch and seems to mistake Astra for someone else.\n\n(Source: MU)",
+  "title": {
+    "en": "It's My Life",
+    "jp": "It's My Life"
+  },
+  "releasedAt": "2019-01-31T00:00:00.000Z",
+  "finishedAt": "2019-01-31T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41955/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41955",
+    "anidb": "a13645",
+    "anilist/anime": "105934",
+    "myanimelist/anime": "37286"
+  }
+}

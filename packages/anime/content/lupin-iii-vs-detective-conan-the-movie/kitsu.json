@@ -1,0 +1,34 @@
+{
+  "slug": "lupin-iii-vs-detective-conan-the-movie",
+  "synopsis": "It is a cross over between the series Lupin III and Detective Conan and takes place after the television special Lupin the 3rd vs Detective Conan. The plot follows Conan Edogawa who sets out to apprehend Arsène Lupin III, the suspect of stealing a jewel called Cherry Sapphire.\n(Souce: Wikipedia)",
+  "title": {
+    "en": "Lupin III vs. Detective Conan: The Movie",
+    "jp": "Lupin III vs. Detective Conan: The Movie"
+  },
+  "releasedAt": "2013-12-07T00:00:00.000Z",
+  "finishedAt": "2013-12-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7723/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7723/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "crime",
+    "earth",
+    "japan",
+    "mystery",
+    "seinen",
+    "tokyo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7723",
+    "anidb": "9841",
+    "anilist/anime": "18429",
+    "aozora": "CFX6BiauZV",
+    "myanimelist/anime": "18429"
+  }
+}

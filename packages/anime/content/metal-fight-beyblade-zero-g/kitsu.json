@@ -1,0 +1,31 @@
+{
+  "slug": "metal-fight-beyblade-zero-g",
+  "synopsis": "Seven years after the Nemesis Crisis, much of the world has been devastated and ruined after the tragic fighting.  As a result, most people lost faith and interest in Beyblading.  Otori Tsubasa, who became leader of the WBBA, made it his life goal to ensure humanity could restore itself, as well as restore the popularity of Beyblading.  He created the Zero-G battling style as a result, and hopes a new generation of bladers will rise up to accept the sport once again.  One of these is a teenager named Zero Kurogane, who aims to become the top blader after having a destined encounter with the hero of the Nemesis Crisis, Ginga Hagane.",
+  "title": {
+    "en": "Beyblade: Shogun Steel",
+    "jp": "Metal Fight Beyblade Zero G"
+  },
+  "releasedAt": "2012-04-08T00:00:00.000Z",
+  "finishedAt": "2012-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6917/original.jpg",
+  "categories": [
+    "adventure",
+    "friendship",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6917",
+    "anidb": "9048",
+    "anilist/anime": "13231",
+    "aozora": "dXD1oVu8d3",
+    "myanimelist/anime": "13231",
+    "thetvdb": "70799/7",
+    "thetvdb/season": "489014",
+    "thetvdb/series": "70799",
+    "trakt": "62163"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "pokemon-fushigi-no-dungeon-toki-no-tankentai-yami-no-tankentai",
+  "synopsis": "Based on Nintendo DS game; Pokémon Mystery Dungeon 2: Time &amp; Darkness. \n(Source: AniDB) ",
+  "title": {
+    "en": "Pokemon Mystery Dungeon: Explorers of Time and Darkness",
+    "jp": "Pokemon Fushigi no Dungeon: Toki no Tankentai, Yami no Tankentai"
+  },
+  "releasedAt": "2007-09-09T00:00:00.000Z",
+  "finishedAt": "2007-09-09T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4015/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=V0PlwsTLoM0"
+  ],
+  "relations": {
+    "kitsu": "4015",
+    "anilist/anime": "5256",
+    "aozora": "OjIgCEIAnE",
+    "myanimelist/anime": "5256"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "yumeyume",
+  "synopsis": "Music video from DECO*27.\n\n\"Miku Hatsune and Future Stars Project mirai\" (SEGA) Main Theme Song",
+  "title": {
+    "jp": "Yumeyume"
+  },
+  "releasedAt": "2012-01-12T00:00:00.000Z",
+  "finishedAt": "2012-01-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6790/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6790",
+    "anilist/anime": "12683",
+    "aozora": "5vWaNyYD2p",
+    "myanimelist/anime": "12683"
+  }
+}

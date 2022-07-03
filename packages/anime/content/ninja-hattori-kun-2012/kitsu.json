@@ -1,0 +1,25 @@
+{
+  "slug": "ninja-hattori-kun-2012",
+  "synopsis": "Remake of the Ninja Hattori-kun series.",
+  "title": {
+    "jp": "Ninja Hattori-kun (2012)"
+  },
+  "releasedAt": "2012-05-13T00:00:00.000Z",
+  "finishedAt": "2015-02-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9064/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9064",
+    "anidb": "9899",
+    "anilist/anime": "18845",
+    "aozora": "mb5sYgEjXB",
+    "myanimelist/anime": "18845"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "guilty-crown-specials",
+  "synopsis": "Animated four-panel manga that comes as extra on the DVDs and Blu-rays.",
+  "title": {
+    "jp": "Guilty Crown: 4-koma Gekijou"
+  },
+  "releasedAt": "2012-01-25T00:00:00.000Z",
+  "finishedAt": "2012-11-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6994/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6994",
+    "anilist/anime": "13561",
+    "aozora": "wUSHwoZT5D",
+    "myanimelist/anime": "13561"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "nareuneun-dwaeji-haejeok-mateo",
+  "synopsis": "A 2004 Korean CG film about an anthropomorphic pig being a sky pirate.",
+  "title": {
+    "jp": "Nareuneun Dwaeji - Haejeok Mateo"
+  },
+  "releasedAt": "2004-07-24T00:00:00.000Z",
+  "finishedAt": "2004-07-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9761/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9761",
+    "anilist/anime": "18315",
+    "aozora": "t8OhaYrRDR",
+    "myanimelist/anime": "18315"
+  }
+}

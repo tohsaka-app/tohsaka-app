@@ -1,0 +1,29 @@
+{
+  "slug": "aeon-flux-season-1",
+  "synopsis": "Aeon Flux is a mysterious and amoral secret agent from the country of Monica. Her motives or background are left unexplained, as are those of her antagonist/love, Trevor Goodchild. On her missions, she deals swift, bloody \"justice\" to all that oppose her.",
+  "title": {
+    "en": "",
+    "jp": "Aeon Flux Season 1"
+  },
+  "releasedAt": "1991-09-01T00:00:00.000Z",
+  "finishedAt": "1991-09-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7940/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7940/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "cops",
+    "mystery",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7940",
+    "thetvdb": "78660/1",
+    "thetvdb/season": "15408",
+    "thetvdb/series": "78660"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "choujigen-game-neptune-the-animation-ova",
+  "synopsis": "Unaired episode 13 of Choujigen Game Neptune: The Animation, included in the 7th BD/DVD volume.",
+  "title": {
+    "jp": "Choujigen Game Neptune The Animation OVA"
+  },
+  "releasedAt": "2014-03-26T00:00:00.000Z",
+  "finishedAt": "2014-03-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8071/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8071/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8071",
+    "anilist/anime": "20472",
+    "aozora": "7DvFL4Bmwp",
+    "myanimelist/anime": "20479"
+  }
+}

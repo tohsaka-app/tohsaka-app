@@ -1,0 +1,20 @@
+{
+  "slug": "baka-to-test-to-shoukanjuu-mini-anime",
+  "synopsis": "",
+  "title": {
+    "jp": "Baka to Test to Shoukanjuu Mini Anime"
+  },
+  "releasedAt": "2017-11-29T00:00:00.000Z",
+  "finishedAt": "2017-11-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41613/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41613",
+    "anilist/anime": "107348",
+    "myanimelist/anime": "36250"
+  }
+}

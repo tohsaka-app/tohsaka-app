@@ -1,0 +1,36 @@
+{
+  "slug": "soukyuu-no-fafner-dead-aggressor-exodus",
+  "synopsis": "2150 AD. The battle against the silicon-based Festums from outer space reaches a new phase. Fragments of the North Pole Mir were scattered throughout the world. Eventually, they began to act on their own as independent Mirs. Most hated humanity and attacked them, but some chose to coexist with mankind. Some with the same way of thinking existed within the human race, as well: those who were both human and Festum. They added to the chaos of the battle and brought about even more hatred. \n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Soukyuu no Fafner: Dead Aggressor - Exodus"
+  },
+  "releasedAt": "2015-01-09T00:00:00.000Z",
+  "finishedAt": "2015-04-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7575/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7575/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "piloted robot",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/fafner-exodus"
+  ],
+  "relations": {
+    "kitsu": "7575",
+    "anidb": "9639",
+    "anilist/anime": "17080",
+    "aozora": "K9MEIkB2J6",
+    "myanimelist/anime": "17080",
+    "thetvdb": "81110/2",
+    "thetvdb/season": "584483",
+    "thetvdb/series": "81110",
+    "trakt": "42610"
+  }
+}

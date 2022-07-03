@@ -1,0 +1,24 @@
+{
+  "slug": "hangyodon-no-007-2-doctor-sunday-arawaru-no-maki",
+  "synopsis": "Hangyodon parodies James Bond/spy movies.",
+  "title": {
+    "jp": "Hangyodon no 007/2: Doctor Sunday Arawaru no Maki"
+  },
+  "releasedAt": "1993-03-10T00:00:00.000Z",
+  "finishedAt": "1993-03-10T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10260/original.jpg",
+  "categories": [
+    "kids",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10260",
+    "anidb": "7838",
+    "aozora": "WsybmEiVCo",
+    "myanimelist/anime": "29271"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "katatsumuri",
+  "synopsis": "Graduation work of Mari Suzuki at Tama Art University.",
+  "title": {
+    "en": "a snail",
+    "jp": "Katatsumuri"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45352/poster_image/16e4e84b1600317bc605b80b4d2875e7.png",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/Xux7SWQTgNI"
+  ],
+  "relations": {
+    "kitsu": "45352",
+    "anilist/anime": "140381"
+  }
+}

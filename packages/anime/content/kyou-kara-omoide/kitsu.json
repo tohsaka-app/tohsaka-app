@@ -1,0 +1,20 @@
+{
+  "slug": "kyou-kara-omoide",
+  "synopsis": "Music video by Aimer for the song Kyou Kara Omoide that was on her 5th single Re:I Am. The video was directed by Gaku Kinoshita.\n",
+  "title": {
+    "jp": "Kyou kara Omoide"
+  },
+  "releasedAt": "2013-03-20T00:00:00.000Z",
+  "finishedAt": "2013-03-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43440/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "43440",
+    "anilist/anime": "139320",
+    "myanimelist/anime": "42432"
+  }
+}

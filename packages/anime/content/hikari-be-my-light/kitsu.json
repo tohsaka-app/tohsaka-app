@@ -1,0 +1,23 @@
+{
+  "slug": "hikari-be-my-light",
+  "synopsis": "He is the only light.\nStory about an office worker who is suffering from depression and a university student.\n\n(Source: YouTube)",
+  "title": {
+    "jp": "Hikari: Be My Light"
+  },
+  "releasedAt": "2020-02-23T00:00:00.000Z",
+  "finishedAt": "2022-03-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43970/original.jpg",
+  "categories": [
+    "drama",
+    "psychological",
+    "romance",
+    "shounen ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43970"
+  }
+}

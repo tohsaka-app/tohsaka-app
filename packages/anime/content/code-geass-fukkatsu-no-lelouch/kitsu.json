@@ -1,0 +1,32 @@
+{
+  "slug": "code-geass-fukkatsu-no-lelouch",
+  "synopsis": "The story takes place several years after Lelouch's \"Zero Requiem\" plan.\n\nSince the demise of the man believed to be Britannia's most wicked emperor one year ago, the world has enjoyed an unprecedented peace under the guidance of the United Federation of Nations. However, this fragile calm is shattered when armed militants successfully kidnap former princess Nunnally vi Britannia and Suzaku Kururugi, the chief advisor of the Black Knights, sparking an international crisis.\n\nThe powerful and untrustworthy Kingdom of Zilkhstan is accused of orchestrating their capture. To investigate, world authorities send Kallen Stadtfeld and her associates on a covert operation into the country. There, they encounter the immortal witch C.C., who is on a mission to complete the resurrection of the man responsible for the greatest revolution in history—a legend who will rise up, take command, and save the world from peril once again.",
+  "title": {
+    "en": "Code Geass: Lelouch of the Resurrection",
+    "jp": "Code Geass: Fukkatsu no Lelouch"
+  },
+  "releasedAt": "2019-02-09T00:00:00.000Z",
+  "finishedAt": "2019-02-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12767/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12767/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "mecha",
+    "military",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12767",
+    "anidb": "12566",
+    "anilist/anime": "97880",
+    "aozora": "ijVLqYLsat",
+    "myanimelist/anime": "34437",
+    "thetvdb": "79525/3"
+  }
+}

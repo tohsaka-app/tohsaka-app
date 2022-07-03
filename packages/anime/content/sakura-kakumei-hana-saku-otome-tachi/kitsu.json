@@ -1,0 +1,30 @@
+{
+  "slug": "sakura-kakumei-hana-saku-otome-tachi",
+  "synopsis": "A special anime based on the beginning of iOS/Android RPG by the same name.\n\n(Source: AniDB)",
+  "title": {
+    "en": "Sakura Revolution - Flower Blooming Midens",
+    "jp": "Sakura Kakumei: Hana Saku Otome-tachi"
+  },
+  "releasedAt": "2020-09-02T00:00:00.000Z",
+  "finishedAt": "2020-09-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44853/original.jpg",
+  "categories": [
+    "alternative past",
+    "japan",
+    "mecha",
+    "piloted robot",
+    "power suit",
+    "robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44853",
+    "anidb": "15710",
+    "anilist/anime": "123612",
+    "animenewsnetwork": "23605",
+    "myanimelist/anime": "42791"
+  }
+}

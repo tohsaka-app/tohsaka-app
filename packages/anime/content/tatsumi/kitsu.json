@@ -1,0 +1,25 @@
+{
+  "slug": "tatsumi",
+  "synopsis": "The film follows the career of Yoshihiro Tatsumi, as he begins to work as a comics artist in post-war occupied Japan, meets his idol Osamu Tezuka, and invents the gekiga genre of Japanese comics for adults. Interweaved with the biographical material are segments based on Tatsumi's short stories \"Hell\", \"Beloved Monkey\", \"Just a Man\", \"Good-Bye\" and \"Occupied\"\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "Tatsumi"
+  },
+  "releasedAt": "2011-05-17T00:00:00.000Z",
+  "finishedAt": "2011-05-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11440/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11440/original.jpg",
+  "categories": [
+    "anime influenced",
+    "drama",
+    "historical",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11440"
+  }
+}

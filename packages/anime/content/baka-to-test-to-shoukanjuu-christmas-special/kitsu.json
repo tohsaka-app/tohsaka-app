@@ -1,0 +1,26 @@
+{
+  "slug": "baka-to-test-to-shoukanjuu-christmas-special",
+  "synopsis": "The cast of Baka to Test all get together and tell us what Christmas means to them. Joy!",
+  "title": {
+    "en": "Baka and Test - Summon the Beasts Christmas Special",
+    "jp": "Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai"
+  },
+  "releasedAt": "2009-12-01T00:00:00.000Z",
+  "finishedAt": "2009-12-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5127/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5127/original.png",
+  "categories": [
+    "comedy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5127",
+    "anilist/anime": "7805",
+    "aozora": "2w6vC8kvsj",
+    "myanimelist/anime": "7805"
+  }
+}

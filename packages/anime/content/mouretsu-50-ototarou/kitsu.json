@@ -1,0 +1,22 @@
+{
+  "slug": "mouretsu-50-ototarou",
+  "synopsis": "A short web series to celebrate the 50th anniversary of Akatsuka Fujio's gag manga Mouretsu Atarou. The episodes were posted to the official Akatsuka Fujio website and Twitter account.\n",
+  "title": {
+    "jp": "Mouretsu 50 Ototarou"
+  },
+  "releasedAt": "2016-12-20T00:00:00.000Z",
+  "finishedAt": "2017-02-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43345/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43345",
+    "myanimelist/anime": "42111"
+  }
+}

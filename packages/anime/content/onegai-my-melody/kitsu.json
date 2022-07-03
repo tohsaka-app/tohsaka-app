@@ -1,0 +1,33 @@
+{
+  "slug": "onegai-my-melody",
+  "synopsis": "My Melody arrives on Earth much to the surprise of her rival Kuromi. Together with one of the junior high school students, Yumeno Uta, they decide to protect the dreams of the people with the help of magic. ",
+  "title": {
+    "en": "Onegai My Melody",
+    "jp": "Onegai My Melody"
+  },
+  "releasedAt": "2005-04-03T00:00:00.000Z",
+  "finishedAt": "2006-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2259/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "japan",
+    "magic",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2259",
+    "anidb": "2966",
+    "anilist/anime": "2489",
+    "aozora": "Y9oEx6O4mW",
+    "myanimelist/anime": "2489",
+    "thetvdb": "262210/1",
+    "thetvdb/series": "262210",
+    "trakt": "23484"
+  }
+}

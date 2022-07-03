@@ -1,0 +1,26 @@
+{
+  "slug": "pokemon-diamond-pearl-special",
+  "synopsis": "One-hour special split into 2 episodes during the airing of Pokemon Best Wishes! featuring the old characters from the Diamond &amp; Pearl series Hikari and Takeshi with their Pokemon.\n\nEpisode 1 - ヒカリ・新たなる旅立ち! (Hikari, Arata Naru Tabidachi!):\nHikari - Setting off on a New Journey!\n\nEpisode 2 - ニビジム・史上最大の危機! (Nibi Gym, Shijou Saidai no Kiki!):\nNibi Gym - The Greatest Crisis Ever!",
+  "title": {
+    "jp": "Pokemon Diamond & Pearl Specials"
+  },
+  "releasedAt": "2011-02-03T00:00:00.000Z",
+  "finishedAt": "2011-02-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6120/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6120",
+    "anilist/anime": "10302",
+    "aozora": "9d7hZGL7R7",
+    "myanimelist/anime": "10302"
+  }
+}

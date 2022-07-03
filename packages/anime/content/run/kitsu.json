@@ -1,0 +1,25 @@
+{
+  "slug": "run",
+  "synopsis": "A short film by Aoki Jun.",
+  "title": {
+    "en": "RUN!",
+    "jp": "Hashire!"
+  },
+  "releasedAt": "2003-05-01T00:00:00.000Z",
+  "finishedAt": "2003-05-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4986/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4986/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4986",
+    "anilist/anime": "7466",
+    "aozora": "QLUXqKA8Yo",
+    "myanimelist/anime": "7466"
+  }
+}

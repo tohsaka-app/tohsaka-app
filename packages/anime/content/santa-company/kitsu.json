@@ -1,0 +1,29 @@
+{
+  "slug": "santa-company",
+  "synopsis": "As a trainee of Santa Company, Noel White prepares for her test to become an official Tonttu, her assignment being \"To find the most important thing for a Santa Claus.\"\nThe deadline nears with an answer yet to be found, when a single letter from a child arrives late at the company. As the letter is about to be handled as a defect, Noel and friends set out on an adventure for the present - but will Noel find the answer to her assignment?\nSet a year after the events of the novel.",
+  "title": {
+    "jp": "Santa Company"
+  },
+  "releasedAt": "2014-10-25T00:00:00.000Z",
+  "finishedAt": "2014-10-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7416/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7416/original.jpg",
+  "categories": [
+    "fantasy",
+    "magic",
+    "present",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7416",
+    "anidb": "9516",
+    "anilist/anime": "16381",
+    "aozora": "tK2RrvGbjh",
+    "myanimelist/anime": "16381"
+  }
+}

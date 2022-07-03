@@ -1,0 +1,20 @@
+{
+  "slug": "kamisama-no-idenshi",
+  "synopsis": "The die is cast.\n\nMusic video animated by Riri Yamashita for the song Kamisama no Idenshi by Mafumafu.",
+  "title": {
+    "en": "Kamisama no Idenshi",
+    "jp": "Kamisama no Idenshi"
+  },
+  "releasedAt": "2021-10-18T00:00:00.000Z",
+  "finishedAt": "2021-10-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45346/poster_image/cd82dd10317f7df4bdb5d59fdc9381ac.png",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "45346",
+    "anilist/anime": "140474"
+  }
+}

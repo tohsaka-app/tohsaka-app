@@ -1,0 +1,25 @@
+{
+  "slug": "a-tang-qi-yu",
+  "synopsis": "A group of tea pets-cute clay figurines that are good-luck charms for tea drinkers-embark on a magical animated adventure to find a fabled mystic.\n\n(Source: IMDB)",
+  "title": {
+    "en": "Tea Pets",
+    "jp": "A Tang Qi Yu"
+  },
+  "releasedAt": "2017-07-21T00:00:00.000Z",
+  "finishedAt": "2017-07-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41135/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41135",
+    "anilist/anime": "102059",
+    "myanimelist/anime": "37180"
+  }
+}

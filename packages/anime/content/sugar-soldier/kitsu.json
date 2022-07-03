@@ -1,0 +1,31 @@
+{
+  "slug": "sugar-soldier",
+  "synopsis": "Three episodes aired on TV as part of the Ribon x Oha Suta specials. \nMakoto is determined to step out of her model sister's shadow and have her own high school debut, but when Makoto's sister shows up at her school unexpectedly, things go awry. \n(Source: MU)",
+  "title": {
+    "jp": "Sugar*Soldier"
+  },
+  "releasedAt": "2014-01-14T00:00:00.000Z",
+  "finishedAt": "2014-01-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8132/original.jpg",
+  "categories": [
+    "asia",
+    "bishounen",
+    "earth",
+    "japan",
+    "present",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8132",
+    "anidb": "10361",
+    "anilist/anime": "20584",
+    "aozora": "Dn345mT6lh",
+    "myanimelist/anime": "21773",
+    "thetvdb": "284128/1",
+    "thetvdb/series": "284128"
+  }
+}

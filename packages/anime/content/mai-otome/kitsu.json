@@ -1,0 +1,45 @@
+{
+  "slug": "mai-otome",
+  "synopsis": "Arika Yumemiya has traveled far in search of her goal: the prestigious Gualderobe Academy. This is the school where young girls are trained to become Otomes, protectors of royal leaders throughout the lands. Here, Arika makes plenty of friends, but some enemies know something about her past that she does not. Nevertheless, her spirit and determination will keep pushing her forward.\nAdapted from its predecessor, Mai-HiME, this series is not a direct sequel, but an alternate universe setting featuring some of the Mai-HiME cast (though with different personalities). \n(Source: ANN)",
+  "title": {
+    "en": "My ZHiME",
+    "jp": "Mai-Otome"
+  },
+  "releasedAt": "2005-10-07T00:00:00.000Z",
+  "finishedAt": "2006-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/78/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/78/original.png",
+  "categories": [
+    "action",
+    "all girls school",
+    "comedy",
+    "drama",
+    "ecchi",
+    "fantasy",
+    "future",
+    "human enhancement",
+    "magic",
+    "maid",
+    "mecha",
+    "other planet",
+    "plot continuity",
+    "post apocalypse",
+    "school life",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "78",
+    "anidb": "3216",
+    "anilist/anime": "99",
+    "aozora": "LjgNQObUhG",
+    "myanimelist/anime": "99",
+    "thetvdb": "78986/1",
+    "thetvdb/series": "78986",
+    "trakt": "42491"
+  }
+}

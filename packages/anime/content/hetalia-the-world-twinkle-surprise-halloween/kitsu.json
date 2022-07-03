@@ -1,0 +1,24 @@
+{
+  "slug": "hetalia-the-world-twinkle-surprise-halloween",
+  "synopsis": "Extra episode included in the Hetalia: The World Twinkle Extra Disc.",
+  "title": {
+    "jp": "Hetalia: The World Twinkle Extra Disc"
+  },
+  "releasedAt": "2016-02-24T00:00:00.000Z",
+  "finishedAt": "2016-02-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11689/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11689",
+    "aozora": "sJRV2Yrhu8",
+    "myanimelist/anime": "31997"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "gatchaman-crowds-insight-inbound",
+  "synopsis": "Episode 0 of Gatchaman Crowds Insight.",
+  "title": {
+    "jp": "Gatchaman Crowds Insight: Inbound"
+  },
+  "releasedAt": "2015-06-20T00:00:00.000Z",
+  "finishedAt": "2015-06-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11033/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/gatchaman-crowds/episode-0-inbound-682759"
+  ],
+  "relations": {
+    "kitsu": "11033",
+    "anilist/anime": "21252",
+    "aozora": "dEhJjGU4qJ",
+    "myanimelist/anime": "30925"
+  }
+}

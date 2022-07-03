@@ -1,0 +1,23 @@
+{
+  "slug": "araiguma-rascal-specials",
+  "synopsis": "A summary of the Araiguma Rascal full series aired as a TV specials. ",
+  "title": {
+    "jp": "Araiguma Rascal Specials"
+  },
+  "releasedAt": "2000-12-10T00:00:00.000Z",
+  "finishedAt": "2000-12-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9198/original.jpg",
+  "categories": [
+    "drama",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9198",
+    "aozora": "zRbWu6pErm",
+    "myanimelist/anime": "25089"
+  }
+}

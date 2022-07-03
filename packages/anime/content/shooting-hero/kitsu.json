@@ -1,0 +1,26 @@
+{
+  "slug": "shooting-hero",
+  "synopsis": "A music video for the song \"Shooting Hero\" by Duke Aces. Aired as part of NHK's Minna no Uta program from April to May 1986.",
+  "title": {
+    "jp": "Shooting Hero"
+  },
+  "releasedAt": "1986-04-01T00:00:00.000Z",
+  "finishedAt": "1986-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11505/original.jpg",
+  "categories": [
+    "kids",
+    "music",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11505",
+    "anidb": "12672",
+    "anilist/anime": "116155",
+    "aozora": "ckaQzvXLsQ",
+    "myanimelist/anime": "31942"
+  }
+}

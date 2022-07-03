@@ -1,0 +1,39 @@
+{
+  "slug": "recorder-to-randoseru-re",
+  "synopsis": "Second season.",
+  "title": {
+    "en": "Recorder and Randsell Re",
+    "jp": "Recorder to Randoseru Re♪"
+  },
+  "releasedAt": "2012-04-04T00:00:00.000Z",
+  "finishedAt": "2012-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6951/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "elementary school",
+    "high school",
+    "japan",
+    "present",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/recorder-and-randsell"
+  ],
+  "relations": {
+    "kitsu": "6951",
+    "anidb": "9034",
+    "anilist/anime": "13377",
+    "aozora": "l3BNRIQfzV",
+    "myanimelist/anime": "13377",
+    "thetvdb": "254652/2",
+    "thetvdb/season": "489416",
+    "thetvdb/series": "254652",
+    "trakt": "52535"
+  }
+}

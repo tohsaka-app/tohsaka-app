@@ -1,0 +1,27 @@
+{
+  "slug": "kanojo-ga-flag-wo-oraretara-ova",
+  "synopsis": "Bundled with the 11th volume of Kanojo ga Flag wo Oraretara light novel.",
+  "title": {
+    "jp": "Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?"
+  },
+  "releasedAt": "2014-12-02T00:00:00.000Z",
+  "finishedAt": "2014-12-02T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8705/original.jpg",
+  "categories": [
+    "comedy",
+    "harem",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8705",
+    "anidb": "10665",
+    "anilist/anime": "20731",
+    "aozora": "VZDDF0VqGr",
+    "myanimelist/anime": "24451"
+  }
+}

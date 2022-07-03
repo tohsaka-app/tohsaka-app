@@ -1,0 +1,28 @@
+{
+  "slug": "nobunaga-no-shinobi-episode-0",
+  "synopsis": "Oda Nobunaga saves a girl from drowning one day. She clumsily tells him that she's a shinobi. Instead of attempting to kill him, she swears to serve him one day after hearing his plans to unify Japan.\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Ninja Girl & Samurai Master: Episode 0",
+    "jp": "Nobunaga no Shinobi: Nobunaga to Minarai Shinobi"
+  },
+  "releasedAt": "2016-03-25T00:00:00.000Z",
+  "finishedAt": "2016-03-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12672/original.jpg",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/ninja-girl-samurai-master/episode-0-ninja-girl-samurai-master-722757"
+  ],
+  "relations": {
+    "kitsu": "12672",
+    "anilist/anime": "97969",
+    "aozora": "GTAnd5EhJF",
+    "hulu": "50004941",
+    "myanimelist/anime": "34283"
+  }
+}

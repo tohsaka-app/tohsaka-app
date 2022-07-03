@@ -1,0 +1,25 @@
+{
+  "slug": "watashi-no-kao",
+  "synopsis": "Abstract horror short film about a girl's face.",
+  "title": {
+    "jp": "Watashi no Kao"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10219/original.jpg",
+  "categories": [
+    "dementia",
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10219",
+    "anidb": "11432",
+    "anilist/anime": "103316",
+    "aozora": "yCr7fe3CWd",
+    "myanimelist/anime": "28843"
+  }
+}

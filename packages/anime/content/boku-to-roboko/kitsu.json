@@ -1,0 +1,26 @@
+{
+  "slug": "boku-to-roboko",
+  "synopsis": "The year is 20XX... A time when every household owns cute maid robots known as OrderMaids. Average grade-schooler Bondo dreams of having his very own robot. But what he got was... Unable to compute!!! Life is gonna get a whole lot weirder when Roboco, the most powerful clumsy maid ever created, shows up at his door!\n\n(Source: MANGA Plus)",
+  "title": {
+    "en": "Me & Roboco",
+    "jp": "Boku to Roboco"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46144/poster_image/2485cb5b87d4d2b85d0d74a76f0f87cc.png",
+  "categories": [
+    "comedy",
+    "maid",
+    "mecha",
+    "robot",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46144",
+    "anilist/anime": "150117"
+  }
+}

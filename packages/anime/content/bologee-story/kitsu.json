@@ -1,0 +1,26 @@
+{
+  "slug": "bologee-story",
+  "synopsis": "An award winning surreal stop motion anime from Korea using noodles, about a little Bologee (a so-called convex boy) who was born on the Concave Planet. He desperately wants to get to a another planet called Convex Star.\nWhen he finally manages to get there he falls in love with a girl from the Convex Planet. The people living there do not approve......",
+  "title": {
+    "en": "Bologee Story",
+    "jp": "Bollogi Iyagi"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5006/original.jpg",
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5006",
+    "anidb": "11559",
+    "anilist/anime": "7504",
+    "aozora": "4fA4dngezh",
+    "myanimelist/anime": "7504"
+  }
+}

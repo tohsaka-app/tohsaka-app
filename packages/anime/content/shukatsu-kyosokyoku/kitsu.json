@@ -1,0 +1,26 @@
+{
+  "slug": "shukatsu-kyosokyoku",
+  "synopsis": "An ordinary college girl is sucked into the frenetic job hunting, where all her friends dive into with dog-eat-dog vigor and crazed ambition. A potent look at one of Japanese social phenomenon with a dose of black humor.\n\nGraduate Work 2012, Tokyo University of the Arts, Graduate School of Film and New Media.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Recruit Rhapsody",
+    "jp": "Shukatsu Kyosokyoku"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45124/original.jpg",
+  "categories": [
+    "psychological",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [
+    "https://youtu.be/M6rb6kknj3A"
+  ],
+  "relations": {
+    "kitsu": "45124",
+    "anilist/anime": "117228"
+  }
+}

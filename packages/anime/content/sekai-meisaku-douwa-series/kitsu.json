@@ -1,0 +1,27 @@
+{
+  "slug": "sekai-meisaku-douwa-series",
+  "synopsis": "Toei's month long run of fairy tale stories.",
+  "title": {
+    "jp": "Sekai Meisaku Douwa Series"
+  },
+  "releasedAt": "1988-04-07T00:00:00.000Z",
+  "finishedAt": "1988-04-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10595/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "historical",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10595",
+    "anidb": "6603",
+    "aozora": "e7TUGLDdY6",
+    "myanimelist/anime": "30028"
+  }
+}

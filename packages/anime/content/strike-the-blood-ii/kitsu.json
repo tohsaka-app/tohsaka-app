@@ -1,0 +1,29 @@
+{
+  "slug": "strike-the-blood-ii",
+  "synopsis": "Second season of Strike the Blood.",
+  "title": {
+    "en": "Strike the Blood Second",
+    "jp": "Strike the Blood II"
+  },
+  "releasedAt": "2016-11-23T00:00:00.000Z",
+  "finishedAt": "2017-05-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12559/original.jpg",
+  "categories": [
+    "action",
+    "ecchi",
+    "fantasy",
+    "school life",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12559",
+    "anidb": "12121",
+    "anilist/anime": "21815",
+    "aozora": "rK1CnPCm9J",
+    "myanimelist/anime": "33286"
+  }
+}

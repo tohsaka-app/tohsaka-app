@@ -1,0 +1,23 @@
+{
+  "slug": "on-the-rocks",
+  "synopsis": "Music Video for OSTER project's song \"On the Rocks.\"",
+  "title": {
+    "en": "On the Rocks",
+    "jp": "On the Rocks"
+  },
+  "releasedAt": "2014-07-09T00:00:00.000Z",
+  "finishedAt": "2014-07-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45379/poster_image/6d881bf9e86ab2af37ae8b37bfdd06b4.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=hk1L0ZV2bVc"
+  ],
+  "relations": {
+    "kitsu": "45379"
+  }
+}

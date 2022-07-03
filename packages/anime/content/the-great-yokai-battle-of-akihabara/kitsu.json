@@ -1,0 +1,26 @@
+{
+  "slug": "the-great-yokai-battle-of-akihabara",
+  "synopsis": "Rick's toaster is broken. To repair it, he and Morty must go to Akihabara to find the perfect screw, and battle an old rival along the way.",
+  "title": {
+    "en": "The Great Yokai Battle of Akihabara"
+  },
+  "releasedAt": "2021-10-12T00:00:00.000Z",
+  "finishedAt": "2021-10-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45317/poster_image/38b85239e170b97f295e2108742493b2.png",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=_246-G6DnuY"
+  ],
+  "relations": {
+    "kitsu": "45317",
+    "anilist/anime": "143287"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "inochi-music",
+  "synopsis": "Music Video for AZKI's song Inochi.",
+  "title": {
+    "jp": "Inochi"
+  },
+  "releasedAt": "2019-04-30T00:00:00.000Z",
+  "finishedAt": "2019-04-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43954/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=-VQx0MtsvSQ&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43954"
+  }
+}

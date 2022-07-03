@@ -1,0 +1,23 @@
+{
+  "slug": "ball-yo-doko-e-yuku",
+  "synopsis": "Collaboration between Studio Binzo and J-toys Channel. Features zombies from Zombie Clay Anime.",
+  "title": {
+    "jp": "Ball yo Doko e Yuku"
+  },
+  "releasedAt": "2014-09-11T00:00:00.000Z",
+  "finishedAt": "2014-09-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10643/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10643",
+    "anidb": "11557",
+    "aozora": "gbcVwIUKDs",
+    "myanimelist/anime": "30093"
+  }
+}

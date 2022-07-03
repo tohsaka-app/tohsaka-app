@@ -1,0 +1,26 @@
+{
+  "slug": "fashion",
+  "synopsis": "Experimental anime from animation pioneer Yoji Kuri from 1960.",
+  "title": {
+    "jp": "Fashion"
+  },
+  "releasedAt": "1960-01-01T00:00:00.000Z",
+  "finishedAt": "1960-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4834/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4834/original.jpg",
+  "categories": [
+    "comedy",
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4834",
+    "anidb": "9009",
+    "anilist/anime": "7020",
+    "aozora": "RfTnQZp1vY",
+    "myanimelist/anime": "7020"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "please-marry-me",
+  "synopsis": "Music video directed by Mitsuyuki Ishibashi and animation director Kousuke Sugimoto for PLEASE! MARRY ME!! by the band ketchup mania.",
+  "title": {
+    "en": "Please! Marry Me!!",
+    "jp": "Please! Marry Me!!"
+  },
+  "releasedAt": "2008-05-21T00:00:00.000Z",
+  "finishedAt": "2008-05-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44516/original.jpg",
+  "categories": [
+    "action",
+    "music",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44516",
+    "anilist/anime": "106676",
+    "myanimelist/anime": "38818"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "pokemon-yuki-hodokishi-futaai",
+  "synopsis": "Get ready for a new adventure set in the vast, stunning Hisui region, the location of Pokémon LEGENDS: Arceus.\n\nYuki Hodokishi Futaai tells the story of a boy named Akio and his encounter with a Hisuian Zorua. When he was younger, Akio's father taught him that people and Pokémon cannot live together. But Akio's interactions with the Zorua might offer a different lesson.\n\n(Source: Pokemon.com)",
+  "title": {
+    "en": "Pokémon: Hisuian Snow",
+    "jp": "Yuki Hodokishi Futaai"
+  },
+  "releasedAt": "2022-05-18T00:00:00.000Z",
+  "finishedAt": "2022-06-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45933/poster_image/9a231282ebf8b4b4316d7d7600321201.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45933/cover_image/fd44666c010e48d7eacd79e4eb96414b.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "45933",
+    "anilist/anime": "145813",
+    "myanimelist/anime": "51145"
+  }
+}

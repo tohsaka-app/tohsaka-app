@@ -1,0 +1,38 @@
+{
+  "slug": "gunbuster-vs-diebuster",
+  "synopsis": "This double feature comprises of Gunbuster and Die Buster (aka Gunbuster 2) condensed them into a single theatrical release told in two parts with a musical intermission in between. The first part, Gunbuster the Movie, condenses the six episodes of the original OVA into a 95-minute movie featuring a new 5.1 audio remix and a redub by the original Japanese cast. The second part, Die Buster the Movie, mixes large chunks of the second OVA series with a few altered or newly-animated scenes to create a truncated take on Nono's story.\n(Source: ANN)",
+  "title": {
+    "jp": "Top wo Nerae! & Top wo Nerae 2! Gattai Movie!!"
+  },
+  "releasedAt": "2006-10-01T00:00:00.000Z",
+  "finishedAt": "2006-10-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1721/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1721/original.jpg",
+  "categories": [
+    "action",
+    "android",
+    "comedy",
+    "future",
+    "mecha",
+    "military",
+    "other planet",
+    "piloted robot",
+    "plot continuity",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space battles",
+    "space opera"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1721",
+    "anidb": "4526",
+    "anilist/anime": "1911",
+    "aozora": "XI7RjfIaDP",
+    "myanimelist/anime": "1911"
+  }
+}

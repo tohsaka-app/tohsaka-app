@@ -1,0 +1,26 @@
+{
+  "slug": "go-just-go",
+  "synopsis": "An animated commercial by CloverWorks promoting the THE iDOLM@STER: Cinderella Girls - Starlight Stage (iOS/Android game)'s fifth anniversary. The commercial features an animated music video of the song \"Go Just Go!\" which was released for the game's anniversary.",
+  "title": {
+    "en": "Go Just Go!",
+    "jp": "Go Just Go!"
+  },
+  "releasedAt": "2020-09-09T00:00:00.000Z",
+  "finishedAt": "2020-09-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44385/original.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=k1oo7wbf7z8"
+  ],
+  "relations": {
+    "kitsu": "44385",
+    "anilist/anime": "123994",
+    "myanimelist/anime": "42882"
+  }
+}

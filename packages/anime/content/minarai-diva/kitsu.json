@@ -1,0 +1,28 @@
+{
+  "slug": "minarai-diva",
+  "synopsis": "The story follows two aspiring divas who hope to become famous through a unique brand of music.",
+  "title": {
+    "jp": "Minarai Diva"
+  },
+  "releasedAt": "2014-07-14T00:00:00.000Z",
+  "finishedAt": "2014-09-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8559/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8559",
+    "anidb": "10555",
+    "anilist/anime": "20743",
+    "aozora": "Sc4xmxIp80",
+    "myanimelist/anime": "23375",
+    "thetvdb": "282688",
+    "trakt": "78467"
+  }
+}

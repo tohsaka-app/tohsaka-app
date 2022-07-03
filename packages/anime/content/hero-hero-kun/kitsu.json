@@ -1,0 +1,27 @@
+{
+  "slug": "hero-hero-kun",
+  "synopsis": "It's a comedy about children in elementary school.",
+  "title": {
+    "jp": "Hero Hero-kun"
+  },
+  "releasedAt": "2000-04-03T00:00:00.000Z",
+  "finishedAt": "2001-01-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6473/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6473",
+    "anidb": "4660",
+    "anilist/anime": "11203",
+    "aozora": "75g7U0Hp8W",
+    "myanimelist/anime": "11203"
+  }
+}

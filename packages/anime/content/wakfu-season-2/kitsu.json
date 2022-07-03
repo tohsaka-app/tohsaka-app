@@ -1,0 +1,32 @@
+{
+  "slug": "wakfu-season-2",
+  "synopsis": "A boy with the power to create portals, an ignoramus warrior, an old treasure-hunter, and an archer and her princess continue their journey to defeat a being that seeks to control time itself. (Source: Adapted from TheTVDB)",
+  "title": {},
+  "releasedAt": "2011-02-26T00:00:00.000Z",
+  "finishedAt": "2012-03-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8300/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8300/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "demon",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "magic"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80003196"
+  ],
+  "relations": {
+    "kitsu": "8300",
+    "thetvdb": "94121/2",
+    "thetvdb/season": "349081",
+    "thetvdb/series": "94121"
+  }
+}

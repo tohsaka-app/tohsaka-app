@@ -1,0 +1,23 @@
+{
+  "slug": "meitantei-conan-hannin-no-hanzawa-san",
+  "synopsis": "The story stars the black-silhouetted \"criminal\" who appears in the Detective Conan series who represents the mystery culprits.",
+  "title": {
+    "en": "Detective Conan: Hanzawa the Criminal",
+    "jp": "Meitantei Conan: Hannin no Hanzawa-san"
+  },
+  "releasedAt": "2022-10-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45282/poster_image/0702a16cacf5fd03f327a078924440f5.jpg",
+  "categories": [
+    "comedy",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45282",
+    "myanimelist/anime": "140005"
+  }
+}

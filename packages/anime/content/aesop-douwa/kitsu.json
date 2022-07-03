@@ -1,0 +1,20 @@
+{
+  "slug": "aesop-douwa",
+  "synopsis": "There is currently no synopsis for this title.",
+  "title": {
+    "jp": "Aesop Douwa"
+  },
+  "releasedAt": "1993-11-21T00:00:00.000Z",
+  "finishedAt": "1993-11-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40835/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40835",
+    "aozora": "bjYvlm2TOY",
+    "myanimelist/anime": "35722"
+  }
+}

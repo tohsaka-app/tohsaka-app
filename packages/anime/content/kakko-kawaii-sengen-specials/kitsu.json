@@ -1,0 +1,22 @@
+{
+  "slug": "kakko-kawaii-sengen-specials",
+  "synopsis": "Specials included in Kakko Kawaii Sengen! DVDs.",
+  "title": {
+    "jp": "Kakko Kawaii Sengen! Specials"
+  },
+  "releasedAt": "2011-12-16T00:00:00.000Z",
+  "finishedAt": "2012-03-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10981/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10981",
+    "aozora": "2CmWH1xNkB",
+    "myanimelist/anime": "30704"
+  }
+}

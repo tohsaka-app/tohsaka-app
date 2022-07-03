@@ -1,0 +1,27 @@
+{
+  "slug": "a-ripple-in-time",
+  "synopsis": "Daniel Arsham × Pokémon collabrative animation. This animated short is directed by Kunihiko Yuyama (chief director of the original Pocket Monsters anime) and was initially shown off at Daniel Arsham's \"A Ripple in Time\" art exhibition in Tokyo.\n\nNote: A minute-long preview was previously released on January 27, 2022, in Pokemon's official YouTube channel.",
+  "title": {
+    "en": "A Ripple in Time",
+    "jp": "A Ripple in Time"
+  },
+  "releasedAt": "2022-02-11T00:00:00.000Z",
+  "finishedAt": "2022-02-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45858/poster_image/7f553ef8643754497b30ad860ab483b3.png",
+  "coverUrl": "https://media.kitsu.io/anime/45858/cover_image/2cfc2d3ba7fd450c1bbcec43edbd5f66.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [
+    "https://youtu.be/n1YE9OlstpM"
+  ],
+  "relations": {
+    "kitsu": "45858",
+    "anilist/anime": "145059",
+    "myanimelist/anime": "51013"
+  }
+}

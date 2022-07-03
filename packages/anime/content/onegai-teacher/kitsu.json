@@ -1,0 +1,42 @@
+{
+  "slug": "onegai-teacher",
+  "synopsis": "Kusanagi Kei, a high-school student living with his aunt and uncle, has an encounter with a female alien. This alien is revealed to be a new teacher at his school. Later, he is forced to marry this alien to preserve her secrets. From there, various romantically-inclined problems crop up repeatedly. \n(Source: ANN)",
+  "title": {
+    "en": "Please Teacher!",
+    "jp": "Onegai☆Teacher"
+  },
+  "releasedAt": "2002-01-10T00:00:00.000Z",
+  "finishedAt": "2002-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/172/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/172/original.jpg",
+  "categories": [
+    "alien",
+    "asia",
+    "comedy",
+    "earth",
+    "humanoid alien",
+    "japan",
+    "present",
+    "romance",
+    "school life",
+    "science fiction",
+    "sudden girlfriend appearance"
+  ],
+  "externals": [
+    "http://www.hulu.com/please-teacher"
+  ],
+  "relations": {
+    "kitsu": "172",
+    "anidb": "16",
+    "anilist/anime": "195",
+    "aozora": "j1WACien0P",
+    "hulu": "50017434",
+    "myanimelist/anime": "195",
+    "thetvdb": "79062/1",
+    "thetvdb/series": "79062",
+    "trakt": "19689"
+  }
+}

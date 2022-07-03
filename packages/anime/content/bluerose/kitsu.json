@@ -1,0 +1,25 @@
+{
+  "slug": "bluerose",
+  "synopsis": "Music video for Suisei Hoshimachi's song Bluerose.",
+  "title": {
+    "en": "Bluerose",
+    "jp": "Bluerose"
+  },
+  "releasedAt": "2021-06-25T00:00:00.000Z",
+  "finishedAt": "2021-06-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44817/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44817/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=ZfDYRy17CBY"
+  ],
+  "relations": {
+    "kitsu": "44817"
+  }
+}

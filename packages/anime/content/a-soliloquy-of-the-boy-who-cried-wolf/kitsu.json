@@ -1,0 +1,20 @@
+{
+  "slug": "a-soliloquy-of-the-boy-who-cried-wolf",
+  "synopsis": "",
+  "title": {
+    "jp": "A Soliloquy of The Boy who Cried Wolf"
+  },
+  "releasedAt": "2012-11-02T00:00:00.000Z",
+  "finishedAt": "2012-11-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13454/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13454"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "higurashi-no-naku-koro-ni-kai-specials",
+  "synopsis": "Specials that come with the DVDs.",
+  "title": {
+    "en": "When They Cry Kai Specials",
+    "jp": "Higurashi no Naku Koro ni Kai Specials"
+  },
+  "releasedAt": "2007-09-21T00:00:00.000Z",
+  "finishedAt": "2008-08-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4406/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4406/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4406",
+    "anilist/anime": "6064",
+    "aozora": "nQCVdn69NI",
+    "myanimelist/anime": "6064"
+  }
+}

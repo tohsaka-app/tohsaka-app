@@ -1,0 +1,23 @@
+{
+  "slug": "matsubara-kun",
+  "synopsis": "Matsubara-kun commemorates the 60th anniversary of Matsubara's incorporation as a city.\n(Source: ANN)",
+  "title": {
+    "jp": "Matsubara-kun"
+  },
+  "releasedAt": "2015-05-18T00:00:00.000Z",
+  "finishedAt": "2015-05-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10919/original.png",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10919",
+    "anidb": "11300",
+    "aozora": "tC5YvQ2ury",
+    "myanimelist/anime": "30781"
+  }
+}

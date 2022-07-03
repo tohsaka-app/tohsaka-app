@@ -1,0 +1,40 @@
+{
+  "slug": "dragon-ball",
+  "synopsis": "Gokuu Son is a young boy who lives in the woods all alone—that is, until a girl named Bulma runs into him in her search for a set of magical objects called the \"Dragon Balls.\" Since the artifacts are said to grant one wish to whoever collects all seven, Bulma hopes to gather them and wish for a perfect boyfriend. Gokuu happens to be in possession of a dragon ball, but unfortunately for Bulma, he refuses to part ways with it, so she makes him a deal: he can tag along on her journey if he lets her borrow the dragon ball's power. With that, the two set off on the journey of a lifetime.\nThey don't go on the journey alone. On the way, they meet the old Muten-Roshi and wannabe disciple Kuririn, with whom Gokuu trains to become a stronger martial artist for the upcoming World Martial Arts Tournament. However, it's not all fun and games; the ability to make any wish come true is a powerful one, and there are others who would do much worse than just wishing for a boyfriend. To stop those who would try to abuse the legendary power, they train to become stronger fighters, using their newfound strength to help the people around them along the way.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Dragon Ball",
+    "jp": "Dragon Ball"
+  },
+  "releasedAt": "1986-02-26T00:00:00.000Z",
+  "finishedAt": "1989-04-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/199/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/199/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "combat",
+    "comedy",
+    "fantasy",
+    "martial arts",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/dragon-ball/videos/episodes",
+    "http://www.hulu.com/dragon-ball",
+    "https://www.crunchyroll.com/dragon-ball"
+  ],
+  "relations": {
+    "kitsu": "199",
+    "anidb": "231",
+    "anilist/anime": "223",
+    "aozora": "5Lt3QgpWl0",
+    "myanimelist/anime": "223",
+    "thetvdb": "76666/1",
+    "thetvdb/series": "76666",
+    "trakt": "12553"
+  }
+}

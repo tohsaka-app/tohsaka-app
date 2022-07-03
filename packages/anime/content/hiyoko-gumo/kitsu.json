@@ -1,0 +1,25 @@
+{
+  "slug": "hiyoko-gumo",
+  "synopsis": "A yellow chick shaped cloud goes through the day meeting and playing with friends and greeting new ones. A Minna no Uta song by Ayaka Wilson.",
+  "title": {
+    "jp": "Hiyoko Gumo"
+  },
+  "releasedAt": "2009-08-26T00:00:00.000Z",
+  "finishedAt": "2009-08-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5493/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5493",
+    "anilist/anime": "8782",
+    "aozora": "MRGVDg9lNP",
+    "myanimelist/anime": "8782"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "kaijuu-no-ballad",
+  "synopsis": "Across an arid landscape, a group of cute 'monsters' cross each other's path. The song was originally featured on NHK's show \"Stage 101.\"",
+  "title": {
+    "jp": "Kaijuu no Ballad"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2001-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5473/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5473",
+    "anilist/anime": "8751",
+    "aozora": "ZGLHTHn9Tb",
+    "myanimelist/anime": "8751"
+  }
+}

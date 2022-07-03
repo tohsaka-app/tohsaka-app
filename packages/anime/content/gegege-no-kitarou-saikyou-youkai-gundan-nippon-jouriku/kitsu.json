@@ -1,0 +1,29 @@
+{
+  "slug": "gegege-no-kitarou-saikyou-youkai-gundan-nippon-jouriku",
+  "synopsis": "Movie based on the 1985 TV anime with an original plot.",
+  "title": {
+    "en": "Spooky Kitarou: The Strongest Ghost Army! Landing in Japan!!",
+    "jp": "Gegege no Kitarou: Saikyou Youkai Gundan! Nippon Jouriku!!"
+  },
+  "releasedAt": "1986-07-12T00:00:00.000Z",
+  "finishedAt": "1986-07-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5219/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "demon",
+    "fantasy",
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5219",
+    "anidb": "2310",
+    "anilist/anime": "8154",
+    "aozora": "p6nfIvKElu",
+    "myanimelist/anime": "8154"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "city-hunter-bay-city-wars",
+  "synopsis": "A new island resort has been built in Tokyo bay, and it is run by one of the world's most powerful super computers. The City Hunter gang has been invited to the grand opening party, but only Miki &amp; Kaori have gotten there. Soon, they and the rest of the party goers are taken hostage by an exiled South American dictator called General Gillium. Now it's up to Ryo and Umibozu to free the hostages, and prevent Gillium's daughter from using the super computer to launch a nuclear attack on the USA. \n(Source: ANN)",
+  "title": {
+    "en": "City Hunter: Bay City Wars",
+    "jp": "City Hunter: Bay City Wars"
+  },
+  "releasedAt": "1990-08-25T00:00:00.000Z",
+  "finishedAt": "1990-08-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1321/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "earth",
+    "gunfights",
+    "japan",
+    "mystery",
+    "present"
+  ],
+  "externals": [
+    "crunchyroll.com/city-hunter",
+    "https://vrv.co/series/G6P5M4156/City-Hunter"
+  ],
+  "relations": {
+    "kitsu": "1321",
+    "anidb": "1567",
+    "anilist/anime": "1475",
+    "aozora": "wBFl5vCQ2J",
+    "myanimelist/anime": "1475"
+  }
+}

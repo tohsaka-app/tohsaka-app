@@ -1,0 +1,32 @@
+{
+  "slug": "one-punch-man-specials",
+  "synopsis": "Specials included in the Blu-ray and DVD releases of One Punch Man.",
+  "title": {
+    "en": "One-Punch Man Specials",
+    "jp": "One Punch Man Specials"
+  },
+  "releasedAt": "2015-12-24T00:00:00.000Z",
+  "finishedAt": "2016-05-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11430/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11430/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "parody",
+    "science fiction",
+    "shounen",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11430",
+    "anilist/anime": "21416",
+    "aozora": "lFXQW0SSnE",
+    "myanimelist/anime": "31772"
+  }
+}

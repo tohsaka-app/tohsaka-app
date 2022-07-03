@@ -1,0 +1,25 @@
+{
+  "slug": "chibi-neko-tomu-no-daibouken-chikyuu-wo-sukue-nakama-tachi",
+  "synopsis": "Anime adaptation of children's stories \"The Adventures of Tom the small Cat\" by Masumi Lino (飯野真澄) (Story) and Yumiko Imai (今井弓子) (Illustrations).",
+  "title": {
+    "jp": "Chibi Neko Tomu no Daibouken: Chikyuu wo Sukue! Nakama-tachi"
+  },
+  "releasedAt": "1992-01-01T00:00:00.000Z",
+  "finishedAt": "1992-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9734/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9734",
+    "anidb": "12135",
+    "anilist/anime": "17657",
+    "aozora": "x3pyAvgou5",
+    "myanimelist/anime": "17657"
+  }
+}

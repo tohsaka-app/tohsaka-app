@@ -1,0 +1,25 @@
+{
+  "slug": "forsaken",
+  "synopsis": "The song tells of a person who is visited at night by a vampiress. While the man thinks he is being shown \"beautiful things\", in reality he is having his blood sucked by the vampiress.\nMusic video by Dream Theater, produced by Gonzo and directed by Yasufumi Soejima.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Forsaken"
+  },
+  "releasedAt": "2008-01-26T00:00:00.000Z",
+  "finishedAt": "2008-01-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6604/original.jpg",
+  "categories": [
+    "music",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6604",
+    "anidb": "7889",
+    "anilist/anime": "11795",
+    "aozora": "LI5zPGiabj",
+    "myanimelist/anime": "11795"
+  }
+}

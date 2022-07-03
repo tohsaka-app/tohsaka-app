@@ -1,0 +1,38 @@
+{
+  "slug": "transformers-armada",
+  "synopsis": "On the mechanical planet of Cybertron live super robotic organisms known as Transformers. There, mainly consisting of convoys, the Cybertron army, and their old enemy Destron fell into conflict to gain hold of a new power to join their side. A new breed of Transformers known as the Microns. But, grieving over the battle the Microns set off to the other end of the universe. 4 million years later, on Earth, 3 young children activated a mysterious panel inside a cave. And somehow, that was the dormant Micron...",
+  "title": {
+    "en": "Transformers Armada",
+    "jp": "Transformers Micron Densetsu"
+  },
+  "releasedAt": "2003-01-10T00:00:00.000Z",
+  "finishedAt": "2003-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1505/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "earth",
+    "mecha",
+    "other planet",
+    "present",
+    "robot helper",
+    "science fiction",
+    "space",
+    "space travel",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1505",
+    "anidb": "525",
+    "anilist/anime": "1675",
+    "aozora": "NmVeD8kWIs",
+    "myanimelist/anime": "1675",
+    "thetvdb": "78628/1",
+    "thetvdb/series": "78628",
+    "trakt": "977"
+  }
+}

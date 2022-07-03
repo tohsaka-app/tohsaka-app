@@ -1,0 +1,23 @@
+{
+  "slug": "na-mo-nai-hana-no-youni",
+  "synopsis": "Various people take care of their pet dogs.",
+  "title": {
+    "jp": "Na mo Nai Hana no Youni"
+  },
+  "releasedAt": "2000-06-01T00:00:00.000Z",
+  "finishedAt": "2000-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40938/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40938",
+    "aozora": "J6o10Zjics",
+    "myanimelist/anime": "36398"
+  }
+}

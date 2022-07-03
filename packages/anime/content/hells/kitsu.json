@@ -1,0 +1,33 @@
+{
+  "slug": "hells",
+  "synopsis": "Amagane Rinne had an accident and died while hurrying to school. She suddenly arrived in an awkward school... in Hell, filled with demons. While she is struggling and wishing to go back to the world whence she came from, she makes friends with her demon schoolmates and develops an uncommon bond.",
+  "title": {
+    "jp": "Hells"
+  },
+  "releasedAt": "2008-10-18T00:00:00.000Z",
+  "finishedAt": "2008-10-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3873/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3873/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "horror",
+    "plot continuity",
+    "present",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3873",
+    "anidb": "6109",
+    "anilist/anime": "4983",
+    "aozora": "vXhFeALtPV",
+    "myanimelist/anime": "4983"
+  }
+}

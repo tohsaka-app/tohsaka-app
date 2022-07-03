@@ -1,0 +1,31 @@
+{
+  "slug": "bem",
+  "synopsis": "Bem, Bela, and Belo are ugly humanoid youkai who fight for justice. They live among humans and protect them from evil youkai. The three find themselves ostracized from both humans and other youkai, but the three continue to fight in hopes of one day becoming humans themselves.\n\n(Source: ANN)",
+  "title": {
+    "en": "BEM",
+    "jp": "BEM"
+  },
+  "releasedAt": "2019-07-08T00:00:00.000Z",
+  "finishedAt": "2019-10-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42175/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "demon",
+    "horror",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/bem/",
+    "https://www.hulu.com/series/bem-3fedb7c9-7fc1-4011-9344-33bc2ea01f2a"
+  ],
+  "relations": {
+    "kitsu": "42175",
+    "anilist/anime": "107876",
+    "myanimelist/anime": "39221"
+  }
+}

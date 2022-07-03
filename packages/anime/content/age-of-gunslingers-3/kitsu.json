@@ -1,0 +1,24 @@
+{
+  "slug": "age-of-gunslingers-3",
+  "synopsis": "Third season of Qiang Shen Ji.\n",
+  "title": {
+    "en": "Age of Gunslingers 3"
+  },
+  "releasedAt": "2019-12-15T00:00:00.000Z",
+  "finishedAt": "2020-02-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43254/original.jpg",
+  "categories": [
+    "action",
+    "gunfights",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43254",
+    "anilist/anime": "119922",
+    "myanimelist/anime": "42151"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "white-album-2nd-season",
+  "synopsis": "The second season of White Album, also known as episodes 14-26.",
+  "title": {
+    "en": "White Album Season 2",
+    "jp": "White Album 2nd Season"
+  },
+  "releasedAt": "2009-10-03T00:00:00.000Z",
+  "finishedAt": "2009-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4455/original.jpg",
+  "categories": [
+    "angst",
+    "asia",
+    "coming of age",
+    "earth",
+    "harem",
+    "idol",
+    "japan",
+    "love polygon",
+    "music",
+    "past",
+    "plot continuity",
+    "present",
+    "romance",
+    "the arts",
+    "unrequited love"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4455",
+    "anidb": "6970",
+    "anilist/anime": "6165",
+    "aozora": "t0hjrjC46b",
+    "myanimelist/anime": "6165",
+    "thetvdb": "84553/1",
+    "thetvdb/season": "128481",
+    "thetvdb/series": "84553",
+    "trakt": "28381"
+  }
+}

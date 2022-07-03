@@ -1,0 +1,20 @@
+{
+  "slug": "zannen-na-ikimono-jiten",
+  "synopsis": "",
+  "title": {
+    "jp": "Zannen na Ikimono Jiten"
+  },
+  "releasedAt": "2018-08-06T00:00:00.000Z",
+  "finishedAt": "2018-08-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41881/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41881",
+    "anilist/anime": "126843",
+    "myanimelist/anime": "38016"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "yume-de-aetara-ova",
+  "synopsis": "Yume de Aetara is a story about one guy Fuguno Masuo (a complete loser when it comes to relationship with women) and two girls: Shiozaki Nagisa and Hamaoka Miho. Since the story is pretty simple (and hilariously funny), further explanation will spoil everything (take the hint: watch it yourself!)\n(Source: AniDB)",
+  "title": {
+    "en": "If I See You in My Dreams",
+    "jp": "Yume de Aetara"
+  },
+  "releasedAt": "1998-04-21T00:00:00.000Z",
+  "finishedAt": "1998-12-19T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7807/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7807/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "ecchi",
+    "japan",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7807",
+    "anidb": "1064",
+    "anilist/anime": "715",
+    "aozora": "Xkwj5k1YQB",
+    "myanimelist/anime": "715"
+  }
+}

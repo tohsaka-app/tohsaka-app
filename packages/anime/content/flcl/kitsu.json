@@ -1,0 +1,45 @@
+{
+  "slug": "flcl",
+  "synopsis": "Nothing interesting happens in Naota's life since his brother left for America, leaving him with his grandfather and father in their boring little town. On his way home with Mamimi—his brother's ex-girlfriend—a pink-haired, crazy woman riding a Vespa, named Haruko, suddenly slams into him, kisses him, and then bashes him in the head with her guitar before riding off. The next thing he knows, the crazy girl is working as his housekeeper, two robots sprout from his forehead to do battle, and the surviving one starts living with him as well. I think it's fair to say that Naota has parted ways with his old mundane life.FLCL is a kooky coming-of-age story with surprisingly deep undertones as the twelve-year-old Naota develops through the wild antics of Haruko and matures along the way into adulthood.",
+  "title": {
+    "en": "FLCL",
+    "jp": "FLCL"
+  },
+  "releasedAt": "2000-04-26T00:00:00.000Z",
+  "finishedAt": "2001-03-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/202/poster_image/4529e23fafc229ab53edecbc4d2118de.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/202/cover_image/ec80b41410b7dd7e627a382fe11871a3.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "android",
+    "asia",
+    "comedy",
+    "coming of age",
+    "dementia",
+    "earth",
+    "japan",
+    "mecha",
+    "parody",
+    "present",
+    "romance",
+    "science fiction",
+    "slapstick"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/flcl/videos/episodes",
+    "http://www.hulu.com/flcl",
+    "https://www.animelab.com/shows/flcl"
+  ],
+  "relations": {
+    "kitsu": "202",
+    "anidb": "117",
+    "anilist/anime": "227",
+    "aozora": "lMZAohupiJ",
+    "hulu": "50002953",
+    "myanimelist/anime": "227"
+  }
+}

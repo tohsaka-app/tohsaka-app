@@ -1,0 +1,24 @@
+{
+  "slug": "a-friend-in-the-memories",
+  "synopsis": "Graduation work of Yui Nomura at Tama Art University.",
+  "title": {
+    "en": "a friend in the memories",
+    "jp": "a friend in the memories"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45380/poster_image/58788e1f53868734799cba302612dd35.png",
+  "categories": [
+    "drama"
+  ],
+  "externals": [
+    "https://youtu.be/odG5GzNkXJw"
+  ],
+  "relations": {
+    "kitsu": "45380",
+    "anilist/anime": "140722"
+  }
+}

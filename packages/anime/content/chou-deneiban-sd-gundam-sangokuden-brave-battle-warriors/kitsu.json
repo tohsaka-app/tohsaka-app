@@ -1,0 +1,39 @@
+{
+  "slug": "chou-deneiban-sd-gundam-sangokuden-brave-battle-warriors",
+  "synopsis": "A Romance of the Three Kingdoms retelling using SD Gundams.",
+  "title": {
+    "jp": "Chou Deneiban SD Gundam Sangokuden Brave Battle Warriors"
+  },
+  "releasedAt": "2010-02-27T00:00:00.000Z",
+  "finishedAt": "2010-02-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5206/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative past",
+    "android",
+    "asia",
+    "china",
+    "historical",
+    "martial arts",
+    "mecha",
+    "plot continuity",
+    "robot",
+    "samurai",
+    "science fiction",
+    "swordplay",
+    "three kingdoms",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5206",
+    "anidb": "7245",
+    "anilist/anime": "8132",
+    "aozora": "PFRWNJWZHU",
+    "myanimelist/anime": "8132"
+  }
+}

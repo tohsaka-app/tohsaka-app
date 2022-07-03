@@ -1,0 +1,31 @@
+{
+  "slug": "aggressive-retsuko-ona",
+  "synopsis": "The series follows Retsuko, a red panda office worker who unleashes her frustrations with life via death metal karaoke.",
+  "title": {
+    "en": "Aggretsuko",
+    "jp": "Aggressive Retsuko (ONA)"
+  },
+  "releasedAt": "2018-04-20T00:00:00.000Z",
+  "finishedAt": "2018-04-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41204/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41204/original.png",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "music",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80198505"
+  ],
+  "relations": {
+    "kitsu": "41204",
+    "anidb": "13636",
+    "anilist/anime": "101571",
+    "myanimelist/anime": "36904"
+  }
+}

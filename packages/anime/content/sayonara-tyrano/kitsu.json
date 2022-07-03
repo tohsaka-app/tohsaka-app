@@ -1,0 +1,28 @@
+{
+  "slug": "sayonara-tyrano",
+  "synopsis": "A joint production between South Korea, Japan and China. Based on the Tyrannosaurus series of picture books by Tatsuya Miyanishi.\n\nIt depicts the friendship of a lonely Tyrannosaurus rex who does not eat meat, Tyrano, and an orphaned baby dinosaur Punon, who cannot fly, run into each other and begin their journey to find ‘Paradise’. While on their way, they learn about each other’s difference and become important to each other.",
+  "title": {
+    "en": "My TYRANO: Together, Forever",
+    "jp": "Sayonara, Tyrano"
+  },
+  "releasedAt": "2019-08-14T00:00:00.000Z",
+  "finishedAt": "2019-08-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42975/original.jpg",
+  "categories": [
+    "adventure",
+    "alternative past",
+    "anthropomorphism",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42975",
+    "anilist/anime": "111015",
+    "myanimelist/anime": "41190"
+  }
+}

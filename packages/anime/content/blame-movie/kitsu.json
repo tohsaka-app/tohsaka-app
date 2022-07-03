@@ -1,0 +1,31 @@
+{
+  "slug": "blame-movie",
+  "synopsis": "In the distant technological future, civilization has reached its ultimate Net-based form. An \"infection\" in the past caused the automated systems to spiral out of order, resulting in a multi-leveled city structure that replicates itself infinitely in all directions. Now humanity has lost access to the city's controls, and is hunted down and purged by the defense system known as the Safeguard. In a tiny corner of the city, a little enclave known as the Electro-Fishers is facing eventual extinction, trapped between the threat of the Safeguard and dwindling food supplies. A girl named Zuru goes on a journey to find food for her village, only to inadvertently cause doom when an observation tower senses her and summons a Safeguard pack to eliminate the threat. With her companions dead and all escape routes blocked, the only thing that can save her now is the sudden arrival of Killy the Wanderer, on his quest for the Net Terminal Genes, the key to restoring order to the world.\n\n(Source: Official site)",
+  "title": {
+    "jp": "Blame! Movie"
+  },
+  "releasedAt": "2017-05-20T00:00:00.000Z",
+  "finishedAt": "2017-05-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11537/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11537/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "mecha",
+    "psychological",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80115466"
+  ],
+  "relations": {
+    "kitsu": "11537",
+    "anidb": "11782",
+    "anilist/anime": "21498",
+    "aozora": "jPOIssoBGd",
+    "myanimelist/anime": "32086"
+  }
+}

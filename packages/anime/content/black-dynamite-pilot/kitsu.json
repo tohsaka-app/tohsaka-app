@@ -1,0 +1,24 @@
+{
+  "slug": "black-dynamite-pilot",
+  "synopsis": "Pilot episode for Black Dynamite.",
+  "title": {},
+  "releasedAt": "2012-09-02T00:00:00.000Z",
+  "finishedAt": "2012-09-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41293/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "parody",
+    "satire",
+    "stereotypes",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41293"
+  }
+}

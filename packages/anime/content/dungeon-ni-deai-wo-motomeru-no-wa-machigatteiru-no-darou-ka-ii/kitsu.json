@@ -1,0 +1,33 @@
+{
+  "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-no-darou-ka-ii",
+  "synopsis": "Second season of Is It Wrong to Try to Pick Up Girls in a Dungeon?",
+  "title": {
+    "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+    "jp": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II"
+  },
+  "releasedAt": "2019-07-13T00:00:00.000Z",
+  "finishedAt": "2019-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40599/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/40599/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "high fantasy"
+  ],
+  "externals": [
+    "https://vrv.co/series/G6DQN9KGR/Is-It-Wrong-to-Try-to-Pick-Up-Girls-in-a-Dungeon",
+    "https://vrv.co/series/GY24VV98R/Is-It-Wrong-to-Try-to-Pick-Up-Girls-in-a-Dungeon-II",
+    "https://www.crunchyroll.com/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon",
+    "https://www.hidive.com/tv/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-ii"
+  ],
+  "relations": {
+    "kitsu": "40599",
+    "anilist/anime": "101167",
+    "myanimelist/anime": "37347"
+  }
+}

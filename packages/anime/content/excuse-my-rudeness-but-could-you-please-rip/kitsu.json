@@ -1,0 +1,25 @@
+{
+  "slug": "excuse-my-rudeness-but-could-you-please-rip",
+  "synopsis": "Music video for Mori Calliope first single Excuse My Rudeness, But Could You Please RIP?",
+  "title": {
+    "en": "Excuse My Rudeness, But Could You Please RIP?"
+  },
+  "releasedAt": "2020-09-12T00:00:00.000Z",
+  "finishedAt": "2020-09-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43765/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43765/original.jpg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=5y3xh8gs24c&ab_channel=MoriCalliopeCh.hololive-EN"
+  ],
+  "relations": {
+    "kitsu": "43765"
+  }
+}

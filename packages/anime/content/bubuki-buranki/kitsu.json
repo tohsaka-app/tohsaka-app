@@ -1,0 +1,34 @@
+{
+  "slug": "bubuki-buranki",
+  "synopsis": "When Azuma Kazuki returns to Japan after 10 years, he gets assaulted by a group of armed men and becomes their prisoner. Kogane Asabuki, a childhood friend, saves him with a weapon on her right hand known as Bubuki; a weapon with its own mind. Azuma Kazuki, who is a Bubuki user himself, learns about the existence of Bubuki and goes on a journey alongside the companions he has found, in an attempt to find and revive Oubu, a Buranki (titan) who sleeps underground.",
+  "title": {
+    "en": "BBK/BRNK",
+    "jp": "Bubuki Buranki"
+  },
+  "releasedAt": "2016-01-09T00:00:00.000Z",
+  "finishedAt": "2016-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11486/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11486/original.jpg",
+  "categories": [
+    "action",
+    "conspiracy",
+    "future",
+    "japan",
+    "mecha",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11486",
+    "anidb": "11761",
+    "anilist/anime": "21471",
+    "aozora": "JvLLRTbPx9",
+    "myanimelist/anime": "32023",
+    "thetvdb": "304106",
+    "trakt": "103909"
+  }
+}

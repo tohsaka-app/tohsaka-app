@@ -1,0 +1,37 @@
+{
+  "slug": "mamotte-lollipop",
+  "synopsis": "Nina, thinking it was a lolly, swallows an object called \"Crystal Pearl\". But the candy turns out to be a test for the magicians. To retrieve the crystal, a special medicine has to be made so now Zero and Ichii, the magicians, have to protect her from others while waiting for the medicine to be completed.\n(Source: ANN, edited)",
+  "title": {
+    "en": "Save Me! Lollipop",
+    "jp": "Mamotte! Lollipop"
+  },
+  "releasedAt": "2006-07-02T00:00:00.000Z",
+  "finishedAt": "2006-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1354/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "magic",
+    "romance",
+    "slapstick"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/save-me-lollipop/videos/episodes",
+    "http://www.hulu.com/save-me-lollipop"
+  ],
+  "relations": {
+    "kitsu": "1354",
+    "anidb": "4474",
+    "anilist/anime": "1509",
+    "aozora": "y9JxPJrhNH",
+    "hulu": "12266",
+    "myanimelist/anime": "1509",
+    "thetvdb": "200811/1",
+    "thetvdb/series": "200811",
+    "trakt": "37360"
+  }
+}

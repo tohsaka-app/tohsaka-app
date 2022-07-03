@@ -1,0 +1,25 @@
+{
+  "slug": "coruscate-dna",
+  "synopsis": "Animated music video for RAISE A SUILEN's CORUSCATE -DNA-.",
+  "title": {
+    "jp": "Coruscate: DNA"
+  },
+  "releasedAt": "2021-12-29T00:00:00.000Z",
+  "finishedAt": "2021-12-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46040/poster_image/78842a1fe879a8336cd3e6382ea80d45.png",
+  "categories": [
+    "music",
+    "musical band"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=43k5yuD3V70"
+  ],
+  "relations": {
+    "kitsu": "46040",
+    "anilist/anime": "143759",
+    "myanimelist/anime": "50735"
+  }
+}

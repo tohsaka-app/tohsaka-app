@@ -1,0 +1,27 @@
+{
+  "slug": "shounen-ashibe-go-go-goma-chan-2",
+  "synopsis": "Second season of Shounen Ashibe: Go! Go! Goma-chan.",
+  "title": {
+    "jp": "Shounen Ashibe: Go! Go! Goma-chan 2"
+  },
+  "releasedAt": "2017-04-04T00:00:00.000Z",
+  "finishedAt": "2018-02-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13304/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/shonen-ashibe-go-go-goma-chan"
+  ],
+  "relations": {
+    "kitsu": "13304",
+    "anilist/anime": "98383",
+    "aozora": "reiDTzLsff",
+    "myanimelist/anime": "34979"
+  }
+}

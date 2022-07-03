@@ -1,0 +1,21 @@
+{
+  "slug": "it-s-marey-o-clock-now",
+  "synopsis": "Title animation for mareykrap's first solo exhibition it's zero o'clock now.",
+  "title": {
+    "jp": "It's Marey O'Clock Now!"
+  },
+  "releasedAt": "2018-10-05T00:00:00.000Z",
+  "finishedAt": "2018-10-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43459/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43459",
+    "myanimelist/anime": "41489"
+  }
+}

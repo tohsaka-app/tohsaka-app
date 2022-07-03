@@ -1,0 +1,25 @@
+{
+  "slug": "doggy-god-s-street",
+  "synopsis": "Music video for the song Doggy god's street by Inugami Korone. This original song and corresponding video is to commemorate Korone's 3rd anniversary since her debut.",
+  "title": {
+    "jp": "Doggy god's street"
+  },
+  "releasedAt": "2022-04-13T00:00:00.000Z",
+  "finishedAt": "2022-04-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46058/poster_image/884b13e27e145bd1bd6425c54ff59d83.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/wLNTAMY1NZA"
+  ],
+  "relations": {
+    "kitsu": "46058",
+    "anilist/anime": "147495",
+    "myanimelist/anime": "51638"
+  }
+}

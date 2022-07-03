@@ -1,0 +1,35 @@
+{
+  "slug": "seven-seeds",
+  "synopsis": "In the immediate future, a giant meteorite has collided with earth. All living organisms, including mankind, have been wiped off the face of the planet. The government, who had foreseen this outcome, took measures to counter the worst-case scenario. In particular was Project \"7SEEDS,\" in which five sets of seven young men and women were carefully selected and placed into teams (Spring, Summer A, Summer B, Autumn and Winter). Each participant was then put under cryogenic sleep in hopes of preserving the continued existence of mankind.\n\nWhen those men and women awoke, they found themselves suddenly thrust into a cruel world. While bereft and grieved over forever losing their loved ones, they sought to find ways to survive.\n\n(Source: MU)",
+  "title": {
+    "en": "7 Seeds",
+    "jp": "7 Seeds"
+  },
+  "releasedAt": "2019-06-28T00:00:00.000Z",
+  "finishedAt": "2019-06-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42064/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42064/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "horror",
+    "mystery",
+    "post apocalypse",
+    "psychological",
+    "romance",
+    "science fiction",
+    "shoujo"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80183051"
+  ],
+  "relations": {
+    "kitsu": "42064",
+    "anidb": "14507",
+    "anilist/anime": "105807",
+    "myanimelist/anime": "38735"
+  }
+}

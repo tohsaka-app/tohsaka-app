@@ -1,0 +1,31 @@
+{
+  "slug": "umisea",
+  "synopsis": "Shorts featuring hololive's Ocean themed talents.",
+  "title": {
+    "en": "UMISEA",
+    "jp": "UMISEA"
+  },
+  "releasedAt": "2021-09-15T00:00:00.000Z",
+  "finishedAt": "2021-09-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45202/poster_image/15bd67e24b4d8069389fc07851ece01f.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/45202/original.jpeg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "idol",
+    "maid",
+    "pirate"
+  ],
+  "externals": [
+    "https://www.youtube.com/playlist?list=PL1NeGg1woXqlfRSp3fUtZuquUvyL2JVMr"
+  ],
+  "relations": {
+    "kitsu": "45202",
+    "anilist/anime": "139342",
+    "myanimelist/anime": "49860"
+  }
+}

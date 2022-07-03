@@ -1,0 +1,23 @@
+{
+  "slug": "bakuman-2-special",
+  "synopsis": "Short animation included as a bonus in the Blu-ray Box volume 2. ",
+  "title": {
+    "jp": "Bakuman. 2nd Season Special"
+  },
+  "releasedAt": "2012-09-26T00:00:00.000Z",
+  "finishedAt": "2012-09-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8766/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8766",
+    "anilist/anime": "102609",
+    "aozora": "XRobLGbqG4",
+    "myanimelist/anime": "23369"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "91-daze",
+  "synopsis": "",
+  "title": {
+    "jp": "91 Daze"
+  },
+  "releasedAt": "2016-11-30T00:00:00.000Z",
+  "finishedAt": "2017-07-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41661/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41661",
+    "anilist/anime": "104396",
+    "myanimelist/anime": "36756"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "gude-crest",
+  "synopsis": "Two partners Effera and Jiliora escape from a slave boat with the aid of their friend Orlin and a young boy named Kilian. When Kilian is killed in the escape Effera and Jiliora take it upon themselves to return Kilian's pendant to his two siblings who are being held captive by Baron Celdion, who is plotting to take over all of the neighboring countries.\n(Source: ANN)",
+  "title": {
+    "en": "Gude Crest: The Emblem of Gude",
+    "jp": "Onna Senshi Efe & Jira: Gude no Monshou"
+  },
+  "releasedAt": "1990-06-23T00:00:00.000Z",
+  "finishedAt": "1990-06-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1868/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "past",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1868",
+    "anidb": "2790",
+    "anilist/anime": "2069",
+    "aozora": "6flPULF7JZ",
+    "myanimelist/anime": "2069"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai",
+  "synopsis": "Film project adapting the sixth and seventh light novel volumes of \"Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\"",
+  "title": {
+    "en": "Rascal Does Not Dream of a Dreaming Girl",
+    "jp": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai"
+  },
+  "releasedAt": "2019-06-15T00:00:00.000Z",
+  "finishedAt": "2019-06-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41991/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41991/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41991",
+    "anidb": "a14397",
+    "anilist/anime": "104157",
+    "myanimelist/anime": "38329"
+  }
+}

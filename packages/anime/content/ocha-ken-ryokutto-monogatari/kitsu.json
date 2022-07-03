@@ -1,0 +1,25 @@
+{
+  "slug": "ocha-ken-ryokutto-monogatari",
+  "synopsis": "The third Ocha-ken series, this season focuses on environmental friendly themes.",
+  "title": {
+    "jp": "Ocha-ken: Ryokutto Monogatari"
+  },
+  "releasedAt": "2008-11-22T00:00:00.000Z",
+  "finishedAt": "2009-02-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12729/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12729",
+    "anidb": "9680",
+    "anilist/anime": "119772",
+    "aozora": "rLfFgyf5zL",
+    "myanimelist/anime": "34363"
+  }
+}

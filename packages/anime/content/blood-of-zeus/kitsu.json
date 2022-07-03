@@ -1,0 +1,28 @@
+{
+  "slug": "blood-of-zeus",
+  "synopsis": "Set in the world of Greek mythology, the series revolves around the son of Zeus trying to save heaven and earth. (Source: Wikipedia)",
+  "title": {
+    "en": "Blood of Zeus"
+  },
+  "releasedAt": "2020-10-27T00:00:00.000Z",
+  "finishedAt": "2020-10-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43623/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43623/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "dark fantasy",
+    "fantasy",
+    "violence"
+  ],
+  "externals": [
+    "https://www.netflix.com/watch/81001988?trackId=251769321&tctx=0%2C0%2C0166ed00-9806-439f-81eb-92d3c1be7708-1740962%2C%2Ccadefc16-e69d-440e-be2d-926e6184999f_ROOT%2C"
+  ],
+  "relations": {
+    "kitsu": "43623"
+  }
+}

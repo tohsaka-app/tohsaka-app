@@ -1,0 +1,25 @@
+{
+  "slug": "zoku-owarimonogatari",
+  "synopsis": "Zoku Owarimonogatari contains the Koyomi Reverse arc. The arc takes place after the college entrance exams but before the events in Hanamonogatari.",
+  "title": {
+    "jp": "Zoku Owarimonogatari"
+  },
+  "releasedAt": "2018-11-10T00:00:00.000Z",
+  "finishedAt": "2018-11-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14129/original.jpg",
+  "categories": [
+    "comedy",
+    "mystery",
+    "supernatural",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14129",
+    "anilist/anime": "100815",
+    "myanimelist/anime": "36999"
+  }
+}

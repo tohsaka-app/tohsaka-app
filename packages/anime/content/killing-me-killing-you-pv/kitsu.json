@@ -1,0 +1,26 @@
+{
+  "slug": "killing-me-killing-you-pv",
+  "synopsis": "PV (Promotional Video) for KILLING ME / KILLING YOU, a manga serialized in Young Dragon Age, created by the manga writer Imomushi Narita.\n\n(Source: A-L)",
+  "title": {
+    "en": "KILLING ME/KILLING YOU PV",
+    "jp": "KILLING ME/KILLING YOU PV"
+  },
+  "releasedAt": "2020-02-23T00:00:00.000Z",
+  "finishedAt": "2020-02-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45493/poster_image/cd7434e98c5a35c0df9f5748870f79e8.jpg",
+  "categories": [
+    "fantasy",
+    "fantasy world",
+    "magic"
+  ],
+  "externals": [
+    "https://youtu.be/Dfpdn0pAPAI"
+  ],
+  "relations": {
+    "kitsu": "45493",
+    "anilist/anime": "104690"
+  }
+}

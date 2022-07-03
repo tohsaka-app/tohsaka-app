@@ -1,0 +1,24 @@
+{
+  "slug": "pacusi",
+  "synopsis": "Pacusi is a story of Pacusi and his family. Little happenings in ordinary days are described. We can enjoy the warmhearted and big strange world of Pacusi.",
+  "title": {
+    "jp": "Pacusi"
+  },
+  "releasedAt": "1994-04-04T00:00:00.000Z",
+  "finishedAt": "1995-01-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4974/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4974",
+    "anidb": "9338",
+    "anilist/anime": "7448",
+    "aozora": "PN4Ld8ICrG",
+    "myanimelist/anime": "7448"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "school-rumble-ichi-gakki-hoshuu",
+  "synopsis": "This two-part OVA is a series of shorts in relation to the School Rumble series. This OVA fills in gaps with new content between episodes from beginning to nearly the end.\n(Source: ANN)",
+  "title": {
+    "jp": "School Rumble Ichi Gakki Hoshuu"
+  },
+  "releasedAt": "2005-12-22T00:00:00.000Z",
+  "finishedAt": "2005-12-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/476/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/476/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "love polygon",
+    "parody",
+    "present",
+    "romance",
+    "school life",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "476",
+    "anidb": "3643",
+    "anilist/anime": "517",
+    "aozora": "tavVTWqFog",
+    "myanimelist/anime": "517"
+  }
+}

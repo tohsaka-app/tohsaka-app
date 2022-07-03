@@ -1,0 +1,32 @@
+{
+  "slug": "battle-athletess-daiundoukai-shinsaku-animation",
+  "synopsis": "Aspiring athletes from around the galaxy gather to compete in a tournament where the winner will be crowned the Cosmic Beauty. What begins as rivalry grows into friendship among the athletes, including a lunar refugee and her kangaroo companion, the daughter of an arms-dealing CEO, a mysterious loner, and Earth’s representative…a humble potato farmer named Kanata Akehoshi.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Battle Athletes Victory ReSTART!",
+    "jp": "Battle Athletess Daiundoukai: ReSTART!"
+  },
+  "releasedAt": "2021-04-11T00:00:00.000Z",
+  "finishedAt": "2021-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43252/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43252/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "school life",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/battle-athletes-victory-restart/"
+  ],
+  "relations": {
+    "kitsu": "43252",
+    "anidb": "15612",
+    "anilist/anime": "120534",
+    "myanimelist/anime": "42321"
+  }
+}

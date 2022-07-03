@@ -1,0 +1,35 @@
+{
+  "slug": "macross-zero",
+  "synopsis": "Taking place one year before the Zentraedi arrive on Earth, Macross Zero chronicles the final days of the war between the U.N. Spacy and anti-U.N. factions. After being shot down by the anti-U.N.'s newest fighter plane, ace pilot Shin Kudo finds himself on the remote island of Mayan, where technology is almost non-existent. While Shin stays on the island to heal his wounds, the tranqulity of the island is shattered by a battle that involves the UN's newest fighter - the VF-0. \n(Source: ANN)",
+  "title": {
+    "en": "Macross Zero",
+    "jp": "Macross Zero"
+  },
+  "releasedAt": "2002-12-21T00:00:00.000Z",
+  "finishedAt": "2004-10-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/171/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "air force",
+    "fantasy",
+    "fantasy world",
+    "future",
+    "mecha",
+    "military",
+    "plot continuity",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "171",
+    "anidb": "427",
+    "anilist/anime": "194",
+    "aozora": "VakTUN6y5n",
+    "myanimelist/anime": "194"
+  }
+}

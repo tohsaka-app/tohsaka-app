@@ -1,0 +1,29 @@
+{
+  "slug": "koitabi-true-tours-nanto",
+  "synopsis": "The short tells three love stories set in Nanto. ",
+  "title": {
+    "jp": "Koitabi: True Tours Nanto"
+  },
+  "releasedAt": "2013-04-28T00:00:00.000Z",
+  "finishedAt": "2013-04-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7717/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7717",
+    "anidb": "9729",
+    "anilist/anime": "17635",
+    "aozora": "u2is5Mlczk",
+    "myanimelist/anime": "17635"
+  }
+}

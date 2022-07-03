@@ -1,0 +1,24 @@
+{
+  "slug": "love-letter",
+  "synopsis": "Music video directed by Satoru Ohno for the song Love Letter by YOASOBI.",
+  "title": {
+    "en": "Love Letter",
+    "jp": "Love Letter"
+  },
+  "releasedAt": "2021-08-31T00:00:00.000Z",
+  "finishedAt": "2021-08-31T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45050/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/mnta9Pp2LqA"
+  ],
+  "relations": {
+    "kitsu": "45050",
+    "anilist/anime": "138609"
+  }
+}

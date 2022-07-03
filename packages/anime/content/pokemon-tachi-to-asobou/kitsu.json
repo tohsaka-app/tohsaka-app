@@ -1,0 +1,20 @@
+{
+  "slug": "pokemon-tachi-to-asobou",
+  "synopsis": "A fun video featuring many Pokemon! If you put your finger on the screen and watch the video, you can enjoy it as if you were playing with Pokemon! Take a look on your smartphone or tablet!\n\n(Source: Official YouTube Channel)",
+  "title": {
+    "en": "Let's Play with Pokémon",
+    "jp": "Pokemon-tachi to Asobou!"
+  },
+  "releasedAt": "2021-03-12T00:00:00.000Z",
+  "finishedAt": "2021-03-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46212/poster_image/feb15b217234905f7176e5af7a125542.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "46212",
+    "myanimelist/anime": "51886"
+  }
+}

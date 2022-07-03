@@ -1,0 +1,36 @@
+{
+  "slug": "jyuushin-enbu-hero-tales",
+  "synopsis": "For citizens of the Ken Empire, justice is a myth. Lord Keiro, the deranged Shogun of the Imperial Army, blazes a trail of terror across the countryside in search of the sacred sword that will make him a god. Standing in his way is Taito, an omnipotent star reborn in human form—a young hero who vows to use his celestial strength to avenge those slaughtered by the villainous Shogun.\nTaito's mystical powers steer him toward a violent showdown with Keiro, and if used recklessly, his newfound abilities could shred the very fabric of his being. To master the art of control and become a heroic martial artist, Taito must seek the guidance of others like him: the seven star-born warriors with the strength to shatter a corrupt empire.\n(Source: RightStuf)",
+  "title": {
+    "en": "Hero Tales",
+    "jp": "Juushin Enbu: Hero Tales"
+  },
+  "releasedAt": "2007-10-08T00:00:00.000Z",
+  "finishedAt": "2008-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2530/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "martial arts",
+    "super power",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/hero-tales/videos/episodes",
+    "http://www.hulu.com/hero-tales"
+  ],
+  "relations": {
+    "kitsu": "2530",
+    "anidb": "5314",
+    "anilist/anime": "2772",
+    "aozora": "jx6OOPxCOg",
+    "hulu": "50001147",
+    "myanimelist/anime": "2772",
+    "thetvdb": "80927/1",
+    "thetvdb/series": "80927",
+    "trakt": "63717"
+  }
+}

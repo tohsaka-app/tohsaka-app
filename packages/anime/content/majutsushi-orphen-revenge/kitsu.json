@@ -1,0 +1,35 @@
+{
+  "slug": "majutsushi-orphen-revenge",
+  "synopsis": "Orphen and his gang has set out on an all new adventure with many monsters to battle and no peace and quiet. But a new friend has joined the group. Her name Lycorus who was sent to find Orphen. Many mysterious shadows are overhanging over head. \n(Source: ANN)",
+  "title": {
+    "en": "Orphen 2: Revenge",
+    "jp": "Majutsushi Orphen: Revenge"
+  },
+  "releasedAt": "1999-10-02T00:00:00.000Z",
+  "finishedAt": "2000-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/908/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/908/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "908",
+    "anidb": "678",
+    "anilist/anime": "1018",
+    "aozora": "2hnZpKWt4n",
+    "myanimelist/anime": "1018",
+    "thetvdb": "72901/2",
+    "thetvdb/season": "201861",
+    "thetvdb/series": "72901",
+    "trakt": "62549"
+  }
+}

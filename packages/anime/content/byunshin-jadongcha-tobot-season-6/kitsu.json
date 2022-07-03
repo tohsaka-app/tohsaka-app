@@ -1,0 +1,27 @@
+{
+  "slug": "byunshin-jadongcha-tobot-season-6",
+  "synopsis": "Season 6 of Tobot.\n\nNote: This Season was edited into Season 1 Episodes 21 to 24 of the English release.",
+  "title": {
+    "en": "Tobot Season 6"
+  },
+  "releasedAt": "2012-03-01T00:00:00.000Z",
+  "finishedAt": "2012-03-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44249/original.jpg",
+  "categories": [
+    "kids",
+    "korea",
+    "mecha",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.amazon.com/Tobot/dp/B07GX7Z43J",
+    "https://www.netflix.com/title/81072571"
+  ],
+  "relations": {
+    "kitsu": "44249"
+  }
+}

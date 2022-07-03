@@ -1,0 +1,32 @@
+{
+  "slug": "cubix",
+  "synopsis": "A boy who just moved to Bubbletown repairs a transformable robot named Cubix and becomes its owner. Together, along with the boys friends, they fight against the schemes of a mad doctor.\n\n(Source: IMDB)",
+  "title": {
+    "en": "Cubix",
+    "jp": "Saiko Robot Kombock"
+  },
+  "releasedAt": "2003-10-06T00:00:00.000Z",
+  "finishedAt": "2004-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3245/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3245/original.jpg",
+  "categories": [
+    "anime influenced",
+    "kids",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3245",
+    "anidb": "4247",
+    "anilist/anime": "3772",
+    "aozora": "4xKLh4QWFy",
+    "myanimelist/anime": "3772",
+    "thetvdb": "78722/1",
+    "thetvdb/series": "78722",
+    "trakt": "4888"
+  }
+}

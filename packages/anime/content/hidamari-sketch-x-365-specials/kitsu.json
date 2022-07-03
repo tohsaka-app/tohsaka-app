@@ -1,0 +1,25 @@
+{
+  "slug": "hidamari-sketch-x-365-specials",
+  "synopsis": "Includes:\n1. February 24: Polaroidron and February 25: Won't Forget\n2. February 10: Anywhere Bicycle and February 11: The Tortoise and the Hare\n3. June 6: Red Thread and June 7: Deeper Meaning",
+  "title": {
+    "jp": "Hidamari Sketch x 365 Specials"
+  },
+  "releasedAt": "2009-03-25T00:00:00.000Z",
+  "finishedAt": "2009-10-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4820/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4820",
+    "anilist/anime": "6984",
+    "aozora": "vzeDv1rNcE",
+    "myanimelist/anime": "6984"
+  }
+}

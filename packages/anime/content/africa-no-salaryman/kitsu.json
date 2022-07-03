@@ -1,0 +1,27 @@
+{
+  "slug": "africa-no-salaryman",
+  "synopsis": "The comedy manga follows a lion, toucan, and lizard as they live the lives of office workers in a capitalist society in Japan, while also dealing with their unique situations as animals living beyond the savanna and the food chain. \n\n(Source: ANN)",
+  "title": {
+    "en": "African Officer Worker",
+    "jp": "Africa no Salaryman"
+  },
+  "releasedAt": "2017-06-05T00:00:00.000Z",
+  "finishedAt": "2017-06-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13541/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13541",
+    "anidb": "12983",
+    "anilist/anime": "98472",
+    "aozora": "vlC61vWqKq",
+    "myanimelist/anime": "35113"
+  }
+}

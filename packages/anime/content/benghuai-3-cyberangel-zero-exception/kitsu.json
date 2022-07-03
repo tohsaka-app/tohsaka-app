@@ -1,0 +1,28 @@
+{
+  "slug": "benghuai-3-cyberangel-zero-exception",
+  "synopsis": null,
+  "title": {
+    "en": "Honkai Impact 3rd - Cyberangel: ZERO Exception",
+    "jp": "Benghuai 3 - Cyberangel: ZERO Exception"
+  },
+  "releasedAt": "2019-07-04T00:00:00.000Z",
+  "finishedAt": "2019-07-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43625/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43625/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "power suit",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=d6M-V_Ps2Ss&ab_channel=HonkaiImpact3rd"
+  ],
+  "relations": {
+    "kitsu": "43625",
+    "anilist/anime": "129682"
+  }
+}

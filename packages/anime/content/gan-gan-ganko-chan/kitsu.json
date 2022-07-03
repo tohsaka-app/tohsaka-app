@@ -1,0 +1,26 @@
+{
+  "slug": "gan-gan-ganko-chan",
+  "synopsis": "The anime follows a boy named Gen, who time travels from the year 2020 to a distant future where humanity has gone extinct. He begins staying at the Ganko family home in the Rustling Forest, where he has none of the amenities he is used to: no electricity, gas, or running water, as well as no television, smartphones, convenience stores, snacks, or games. \n(Source: ANN)",
+  "title": {
+    "jp": "Gan Gan Ganko-chan"
+  },
+  "releasedAt": "2016-12-19T00:00:00.000Z",
+  "finishedAt": "2017-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12811/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12811",
+    "anidb": "12595",
+    "anilist/anime": "126910",
+    "aozora": "ENDGDf2fEy",
+    "myanimelist/anime": "34488"
+  }
+}

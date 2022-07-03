@@ -1,0 +1,25 @@
+{
+  "slug": "hyakubanme-no-saru",
+  "synopsis": "Based on the 1981 book of the same name by new age guru Ken Keyes, Jr., which in turn is based on the story of a 1952 experiment on the southern Japanese island of Kojima. (Please note that the \"Hundredth monkey effect\" is discredited in the scientific community.)\nOnce one monkey has learned how to wash its food, it is able to teach others the same skill. When a certain number have learned (and Keyes suggests an arbitrary figure of 100), not only do the remaining monkeys suddenly appear to know how to do it, but so too does a completely different group of apes on a completely separate island. Keyes uses this apocryphal tale as a parable for the antinuclear movement, as \"proof' that change would come if enough people joined forces.\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "jp": "Hyakubanme no Saru"
+  },
+  "releasedAt": "1986-05-25T00:00:00.000Z",
+  "finishedAt": "1986-05-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9331/original.jpg",
+  "categories": [
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9331",
+    "anidb": "10174",
+    "anilist/anime": "121651",
+    "aozora": "UVZMviaG3z",
+    "myanimelist/anime": "25091"
+  }
+}

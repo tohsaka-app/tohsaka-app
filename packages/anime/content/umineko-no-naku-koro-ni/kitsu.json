@@ -1,0 +1,40 @@
+{
+  "slug": "umineko-no-naku-koro-ni",
+  "synopsis": "Considered as the third installment in the highly popular When They Cry series by 07th Expansion, Umineko no Naku Koro ni takes place on the island of Rokkenjima, owned by the immensely wealthy Ushiromiya family. As customary per year, the entire family is gathering on the island for a conference that discusses the current financial situations of each respective person. Because of the family head's poor health, this year involves the topic of the head of the family's inheritance and how it will be distributed.\nHowever, the family is unaware that the distribution of his wealth is the least of Ushiromiya Kinzou's (family head) concerns for this year's family conference. After being told that his end was approaching by his longtime friend and physician, Kinzou is desperate to meet his life's true love one last time: the Golden Witch, Beatrice. Having immersed himself in black magic for many of the later years in his life, Kinzou instigates a ceremony to revive his beloved upon his family's arrival on Rokkenjima. Soon after, a violent typhoon traps the family on the island and a string of mysterious murders commence, forcing the eighteen people on the island to fight for their lives in a deadly struggle between fantasy and reality.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Umineko: When They Cry",
+    "jp": "Umineko no Naku Koro ni"
+  },
+  "releasedAt": "2009-07-02T00:00:00.000Z",
+  "finishedAt": "2009-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3839/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3839/original.jpg",
+  "categories": [
+    "asia",
+    "contemporary fantasy",
+    "detective",
+    "earth",
+    "horror",
+    "japan",
+    "mystery",
+    "past",
+    "plot continuity",
+    "psychological",
+    "thriller",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3839",
+    "anidb": "6051",
+    "anilist/anime": "4896",
+    "aozora": "PHtOU8HpBJ",
+    "myanimelist/anime": "4896",
+    "thetvdb": "101981/1",
+    "thetvdb/series": "101981",
+    "trakt": "61178"
+  }
+}

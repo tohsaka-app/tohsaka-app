@@ -1,0 +1,51 @@
+{
+  "slug": "ergo-proxy",
+  "synopsis": "Thousands of years after Earth's atmosphere was destroyed, adventure blooms in the strangest of places. The domed city of Romdo is supposed to be perfect, but Re-l Mayer, a young female inspector from the Civilian Intelligence Office, knows better. In this place where humans and robots coexist, she receives a strange message: something is awakening!\n\n(Source: Funimation)",
+  "title": {
+    "en": "Ergo Proxy",
+    "jp": "Ergo Proxy"
+  },
+  "releasedAt": "2006-02-25T00:00:00.000Z",
+  "finishedAt": "2006-08-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/705/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/705/original.jpg",
+  "categories": [
+    "action",
+    "android",
+    "angst",
+    "conspiracy",
+    "contemporary fantasy",
+    "dystopia",
+    "earth",
+    "fantasy world",
+    "future",
+    "gunfights",
+    "mecha",
+    "mystery",
+    "plot continuity",
+    "post apocalypse",
+    "psychological",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [
+    "https://tubitv.com/series/2315/ergo_proxy",
+    "https://www.funimation.com/shows/ergo-proxy/",
+    "https://www.hulu.com/ergo-proxy"
+  ],
+  "relations": {
+    "kitsu": "705",
+    "anidb": "3302",
+    "anilist/anime": "790",
+    "aozora": "jLk9oHtfbD",
+    "hulu": "50000706",
+    "myanimelist/anime": "790",
+    "thetvdb": "79228/1",
+    "thetvdb/season": "16724",
+    "thetvdb/series": "79228",
+    "trakt": "1092"
+  }
+}

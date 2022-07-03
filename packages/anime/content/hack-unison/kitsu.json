@@ -1,0 +1,30 @@
+{
+  "slug": "hack-unison",
+  "synopsis": "Somewhere in the MMORPG called \"The World,\" a group is gathered at a pub, awaiting the start of an event. There, old friends and acquaintances are reunited, including those who rarely log on. Some are even forging new relationships for the first time. Together, invited by the hacker Helba, the group leaves for the event in the Net Slums where a celebration awaits them all.\n[Written by MAL Rewrite]",
+  "title": {
+    "jp": ".hack//Unison"
+  },
+  "releasedAt": "2003-10-24T00:00:00.000Z",
+  "finishedAt": "2003-10-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1333/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "magic",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/hacksign"
+  ],
+  "relations": {
+    "kitsu": "1333",
+    "anilist/anime": "1487",
+    "aozora": "6zjQx7nxku",
+    "myanimelist/anime": "1487"
+  }
+}

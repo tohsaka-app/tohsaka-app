@@ -1,0 +1,23 @@
+{
+  "slug": "message-song",
+  "synopsis": "A lively Christmas song from Pizzicato 5 for NHK's Minna no Uta. ",
+  "title": {
+    "jp": "Message Song"
+  },
+  "releasedAt": "1996-12-01T00:00:00.000Z",
+  "finishedAt": "1996-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5474/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5474",
+    "anilist/anime": "8752",
+    "aozora": "X9b728BSer",
+    "myanimelist/anime": "8752"
+  }
+}

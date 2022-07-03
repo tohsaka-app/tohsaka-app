@@ -1,0 +1,39 @@
+{
+  "slug": "hibike-euphonium-2",
+  "synopsis": "Second season of Hibike! Euphonium.",
+  "title": {
+    "en": "Sound! Euphonium 2",
+    "jp": "Hibike! Euphonium 2"
+  },
+  "releasedAt": "2016-10-06T00:00:00.000Z",
+  "finishedAt": "2016-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11474/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11474/original.jpg",
+  "categories": [
+    "angst",
+    "asia",
+    "earth",
+    "high school",
+    "japan",
+    "music",
+    "present",
+    "school clubs",
+    "school life",
+    "the arts"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/sound-euphonium"
+  ],
+  "relations": {
+    "kitsu": "11474",
+    "anidb": "11746",
+    "anilist/anime": "21460",
+    "aozora": "KMo0qghZz2",
+    "myanimelist/anime": "31988",
+    "thetvdb": "289884",
+    "trakt": "94106"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "shirobako",
+  "synopsis": "After making an animated film together in high school, Aoi and her friends Shizuka, Ema, Misa, and Midori made a promise to each other: to all get jobs in the anime industry and someday work together again. Two years later, Aoi is learning that working as a production assistant at a small animation studio is far more demanding than she ever imagined, and Shizuka's aspiring career as a voice actor involves more time waiting tables than recording. Meanwhile, Ema's slowly making a name for herself as a key animator, Misa's moved from 2D to 3D and now works in computer graphics, and screenwriting hopeful Midori is lagging furthest behind, still looking for her first big break. But are they ready to give up on their dreams just yet? No way! Because while anime may come from inspiration, in the end it's the ones who're willing to put in the perspiration that make their dreams real in SHIROBAKO!\n\n(Source: Sentai Filmworks)",
+  "title": {
+    "en": "Shirobako",
+    "jp": "Shirobako"
+  },
+  "releasedAt": "2014-10-09T00:00:00.000Z",
+  "finishedAt": "2015-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8698/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8698/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "plot continuity",
+    "present",
+    "slice of life",
+    "the arts",
+    "working life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/shirobako"
+  ],
+  "relations": {
+    "kitsu": "8698",
+    "anidb": "10779",
+    "anilist/anime": "20812",
+    "aozora": "9GgLzfq5Oi",
+    "hulu": "50018820",
+    "myanimelist/anime": "25835",
+    "thetvdb": "284564/1",
+    "thetvdb/series": "284564",
+    "trakt": "79687"
+  }
+}

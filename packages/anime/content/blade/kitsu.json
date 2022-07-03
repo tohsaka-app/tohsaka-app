@@ -1,0 +1,38 @@
+{
+  "slug": "blade",
+  "synopsis": "The story revolves around Blade, a \"Daywalker\" vampire hunter who was born with vampire and human blood after a vampire attacked his mother. While visiting Japan on a mission, Blade tracks down Deacon Frost, the vampire who killed his mother. Blade confronts \"Existence,\" a mysterious organization composed of vampires modified by Frost. \n(Source: ANN)",
+  "title": {
+    "en": "Blade",
+    "jp": "Blade"
+  },
+  "releasedAt": "2011-07-01T00:00:00.000Z",
+  "finishedAt": "2011-09-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4787/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "crime",
+    "genetic modification",
+    "horror",
+    "plot continuity",
+    "present",
+    "super power",
+    "swordplay",
+    "vampire",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4787",
+    "anidb": "8162",
+    "anilist/anime": "6920",
+    "aozora": "KFgrZeouVM",
+    "myanimelist/anime": "6920",
+    "thetvdb": "73192/1",
+    "thetvdb/series": "73192",
+    "trakt": "63435"
+  }
+}

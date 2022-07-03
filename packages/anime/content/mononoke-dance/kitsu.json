@@ -1,0 +1,27 @@
+{
+  "slug": "mononoke-dance",
+  "synopsis": "An animated music video for Denki Groove's song \"Mononoke Dance\".",
+  "title": {
+    "jp": "Mononoke Dance"
+  },
+  "releasedAt": "2008-04-02T00:00:00.000Z",
+  "finishedAt": "2008-04-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6252/original.jpg",
+  "categories": [
+    "dementia",
+    "demon",
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6252",
+    "anidb": "11478",
+    "anilist/anime": "10584",
+    "aozora": "esOhqro2VT",
+    "myanimelist/anime": "10584"
+  }
+}

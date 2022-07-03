@@ -1,0 +1,36 @@
+{
+  "slug": "genjitsu-shugi-yuusha-no-oukoku-saikenki-part-2",
+  "synopsis": "The second part of Genjitsu Shugi Yuusha no Oukoku Saikenki.",
+  "title": {
+    "en": "How a Realist Hero Rebuilt the Kingdom Part 2",
+    "jp": "Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2"
+  },
+  "releasedAt": "2022-01-09T00:00:00.000Z",
+  "finishedAt": "2022-04-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45252/poster_image/c3035ba7455e3f70c4da564c1b79a00e.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45252/cover_image/0bf5ee0f5d866d872497656c8cd318a6.png",
+  "categories": [
+    "action",
+    "dragon",
+    "elf",
+    "fantasy",
+    "fantasy world",
+    "harem",
+    "isekai",
+    "magic",
+    "military",
+    "romance"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/how-a-realist-hero-rebuilt-the-kingdom/"
+  ],
+  "relations": {
+    "kitsu": "45252",
+    "anilist/anime": "139648",
+    "animenewsnetwork": "24794",
+    "myanimelist/anime": "49930"
+  }
+}

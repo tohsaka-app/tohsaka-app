@@ -1,0 +1,22 @@
+{
+  "slug": "reiwa-no-di-gi-charat",
+  "synopsis": "Mini anime to celebrate the Di Gi Charat franchise's 24th anniversary.",
+  "title": {
+    "jp": "Reiwa no Di Gi Charat"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44709/original.png",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44709",
+    "anilist/anime": "135515",
+    "myanimelist/anime": "49179"
+  }
+}

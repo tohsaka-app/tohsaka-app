@@ -1,0 +1,25 @@
+{
+  "slug": "myself-yourself-specials",
+  "synopsis": "DVD specials featuring an animated music video to the full version of the opening song and an alternative animation to the ending song.",
+  "title": {
+    "jp": "Myself ; Yourself Specials"
+  },
+  "releasedAt": "2008-06-27T00:00:00.000Z",
+  "finishedAt": "2008-06-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8040/original.jpg",
+  "categories": [
+    "drama",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8040",
+    "anilist/anime": "17585",
+    "aozora": "eY5qn3eKpm",
+    "myanimelist/anime": "17585"
+  }
+}

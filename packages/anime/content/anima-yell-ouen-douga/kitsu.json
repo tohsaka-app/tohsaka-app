@@ -1,0 +1,23 @@
+{
+  "slug": "anima-yell-ouen-douga",
+  "synopsis": "Special shorts of Anima Yell! released on YouTube.",
+  "title": {
+    "jp": "Anima Yell! Ouen Douga"
+  },
+  "releasedAt": "2018-10-07T00:00:00.000Z",
+  "finishedAt": "2018-12-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42049/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42049",
+    "anilist/anime": "106674",
+    "myanimelist/anime": "38803"
+  }
+}

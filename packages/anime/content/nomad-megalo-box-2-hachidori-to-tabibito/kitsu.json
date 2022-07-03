@@ -1,0 +1,23 @@
+{
+  "slug": "nomad-megalo-box-2-hachidori-to-tabibito",
+  "synopsis": "A short anime included in the NOMAD: Megalo Box 2 Blu-ray Disc box set, based on the \"Las alas del viajero\" story that was featured in the anime",
+  "title": {
+    "jp": "NOMAD: Megalo Box 2 - Hachidori to tabibito."
+  },
+  "releasedAt": "2021-07-28T00:00:00.000Z",
+  "finishedAt": "2021-07-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44821/original.png",
+  "categories": [
+    "boxing",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44821",
+    "anilist/anime": "113359",
+    "myanimelist/anime": "48678"
+  }
+}

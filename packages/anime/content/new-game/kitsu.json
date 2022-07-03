@@ -1,0 +1,37 @@
+{
+  "slug": "new-game",
+  "synopsis": "The main character Suzukaze Aoba graduates from high school and joins a game company. The person who made the game that Aoba loved as a grade-schooler just happens to be Aoba's senior at the company. The story follows girls who work and aspire at the Eaglejump company.\n(Source: ANN)",
+  "title": {
+    "en": "New Game!",
+    "jp": "New Game!"
+  },
+  "releasedAt": "2016-07-04T00:00:00.000Z",
+  "finishedAt": "2016-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11467/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11467/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "slice of life",
+    "the arts",
+    "working life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/new-game"
+  ],
+  "relations": {
+    "kitsu": "11467",
+    "anidb": "11736",
+    "anilist/anime": "21455",
+    "aozora": "YEcTNz7fXm",
+    "myanimelist/anime": "31953",
+    "thetvdb": "309532",
+    "trakt": "106724"
+  }
+}

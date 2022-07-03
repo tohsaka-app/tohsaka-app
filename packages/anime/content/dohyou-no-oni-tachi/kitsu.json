@@ -1,0 +1,25 @@
+{
+  "slug": "dohyou-no-oni-tachi",
+  "synopsis": "Animated film about the life of the 45th Yokozuna, Wakanohana Kanji I. \n(Source: AniDB)",
+  "title": {
+    "jp": "Dohyou no Oni-tachi"
+  },
+  "releasedAt": "1994-05-21T00:00:00.000Z",
+  "finishedAt": "1994-05-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9243/original.jpg",
+  "categories": [
+    "historical",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9243",
+    "anidb": "7493",
+    "anilist/anime": "17665",
+    "aozora": "2mkJWohZPS",
+    "myanimelist/anime": "17665"
+  }
+}

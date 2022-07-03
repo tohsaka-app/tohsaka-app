@@ -1,0 +1,28 @@
+{
+  "slug": "eighty-four-taekwon-v",
+  "synopsis": "The seventh movie in the popular Korean movie series Robot Taekwon V.",
+  "title": {
+    "en": "Robot Taekwon V 84",
+    "jp": "84 Taekwon V"
+  },
+  "releasedAt": "1984-08-03T00:00:00.000Z",
+  "finishedAt": "1984-08-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7460/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7460",
+    "anidb": "10250",
+    "anilist/anime": "101179",
+    "aozora": "Sfh0qaWZiY",
+    "myanimelist/anime": "16564"
+  }
+}

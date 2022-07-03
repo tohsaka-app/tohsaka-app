@@ -1,0 +1,28 @@
+{
+  "slug": "mix-master-final-force",
+  "synopsis": "Mix Masters Final Force is the second season of the original mix masters show. In this story, Ditt forgets that he was a mix master. But when the time comes to save the world once again, he finds new friends to help him in his battle against Eva and Babel, the two new antagonists.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Mix Master: Final Force",
+    "jp": "Choegang Habche: Mix Master"
+  },
+  "releasedAt": "2010-05-26T00:00:00.000Z",
+  "finishedAt": "2011-03-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11214/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.amazon.com/The-Silver-Witch/dp/B06XQS2C68"
+  ],
+  "relations": {
+    "kitsu": "11214",
+    "anidb": "10912",
+    "anilist/anime": "104106",
+    "aozora": "HflXRztyiB",
+    "myanimelist/anime": "31246"
+  }
+}

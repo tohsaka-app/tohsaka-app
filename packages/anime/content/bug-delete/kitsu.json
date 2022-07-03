@@ -1,0 +1,18 @@
+{
+  "slug": "bug-delete",
+  "synopsis": "This is a duplicate entry. The real entry is here: https://kitsu.io/anime/bugburger",
+  "title": {
+    "jp": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45037/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "45037"
+  }
+}

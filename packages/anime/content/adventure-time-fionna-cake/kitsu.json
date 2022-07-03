@@ -1,0 +1,26 @@
+{
+  "slug": "adventure-time-fionna-cake",
+  "synopsis": "Spin off of Adventure Time.",
+  "title": {
+    "en": "Adventure Time: Fionna & Cake"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44987/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "anthropomorphism",
+    "fantasy",
+    "kids",
+    "post apocalypse"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44987"
+  }
+}

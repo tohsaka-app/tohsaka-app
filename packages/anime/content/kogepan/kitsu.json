@@ -1,0 +1,29 @@
+{
+  "slug": "kogepan",
+  "synopsis": "An accident in the bakery's oven caused a piece of bread to stay in the oven for way too long. Thus Kogepan was born - a piece of burnt bread, having no chance to be sold.\n(Source: ANN)",
+  "title": {
+    "en": "Scorched Bread",
+    "jp": "Kogepan"
+  },
+  "releasedAt": "2001-11-05T00:00:00.000Z",
+  "finishedAt": "2001-11-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/536/original.jpg",
+  "categories": [
+    "comedy",
+    "cooking"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "536",
+    "anidb": "203",
+    "anilist/anime": "580",
+    "aozora": "CKMRpv7LQ0",
+    "myanimelist/anime": "580",
+    "thetvdb": "80053/1",
+    "thetvdb/series": "80053",
+    "trakt": "65394"
+  }
+}

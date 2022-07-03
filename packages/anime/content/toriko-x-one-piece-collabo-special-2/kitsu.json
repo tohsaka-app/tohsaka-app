@@ -1,0 +1,29 @@
+{
+  "slug": "toriko-x-one-piece-collabo-special-2",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Toriko x One Piece Collabo Special 2"
+  },
+  "releasedAt": "2012-04-08T00:00:00.000Z",
+  "finishedAt": "2012-04-08T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11105/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "cooking",
+    "fantasy",
+    "friendship",
+    "pirate",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11105"
+  }
+}

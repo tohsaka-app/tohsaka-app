@@ -1,0 +1,42 @@
+{
+  "slug": "hokuto-no-ken",
+  "synopsis": "In the year 19XX, after being betrayed and left for dead, bravehearted warrior Kenshirou wanders a post-apocalyptic wasteland on a quest to track down his rival, Shin, who has kidnapped his beloved fiancée Yuria. During his journey, Kenshirou makes use of his deadly fighting form, Hokuto Shinken, to defend the helpless from bloodthirsty ravagers. It isn't long before his exploits begin to attract the attention of greater enemies, like warlords and rival martial artists, and Keshirou finds himself involved with more than he originally bargained for.\nFaced with ever-increasing odds, the successor of Hokuto Shinken is forced to put his skills to the test in an effort to take back what he cares for most. And as these new challenges present themselves and the battle against injustice intensifies, namely his conflict with Shin and the rest of the Nanto Seiken school of martial arts, Kenshirou is gradually transformed into the savior of an irradiated and violent world.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Fist of the North Star",
+    "jp": "Hokuto no Ken"
+  },
+  "releasedAt": "1984-10-04T00:00:00.000Z",
+  "finishedAt": "1987-03-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/857/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/857/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "earth",
+    "future",
+    "martial arts",
+    "plot continuity",
+    "post apocalypse",
+    "science fiction",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/fist-of-the-north-star",
+    "https://vrv.co/series/G6752ZK3R/Fist-of-the-North-Star"
+  ],
+  "relations": {
+    "kitsu": "857",
+    "anidb": "386",
+    "anilist/anime": "967",
+    "aozora": "LWfkMeJn5Y",
+    "myanimelist/anime": "967",
+    "thetvdb": "253182/1",
+    "thetvdb/season": "16089",
+    "thetvdb/series": "253182",
+    "trakt": "56032"
+  }
+}

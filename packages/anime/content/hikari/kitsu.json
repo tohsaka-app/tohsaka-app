@@ -1,0 +1,23 @@
+{
+  "slug": "hikari",
+  "synopsis": "Music video for the song Hikari by AZKi.",
+  "title": {
+    "jp": "Hikari"
+  },
+  "releasedAt": "2020-04-15T00:00:00.000Z",
+  "finishedAt": "2020-04-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43985/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=yT2h4nrfMME&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43985"
+  }
+}

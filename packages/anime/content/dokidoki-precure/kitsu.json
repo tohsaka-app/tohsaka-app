@@ -1,0 +1,36 @@
+{
+  "slug": "dokidoki-precure",
+  "synopsis": "Aida Mana is a girl who is always eager to do things for the sake of others.\nOne day, when she was visiting the Clover Tower during her school's orientation program, an enemy who called themselves \"Selfish\" appeared suddenly, and tried to manipulate her inner heart! To fight this enemy, she borrowed power from a magical fairy Sharuru to transform into Pretty Cure!\nTo protect the peace of the world, other legendary Pretty Cure soon joined her in battle! A mysterious baby also appears, making each day a \"Heartthrob\" experience! The 4 Cures, always holding \"love\" in their hearts, are battling for the world's fate!\n(Source: Asahi TV)",
+  "title": {
+    "en": "Glitter Force: Dokidoki!",
+    "jp": "Dokidoki! Precure"
+  },
+  "releasedAt": "2013-02-03T00:00:00.000Z",
+  "finishedAt": "2014-01-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7426/original.jpg",
+  "categories": [
+    "action",
+    "contemporary fantasy",
+    "fantasy",
+    "magic",
+    "magical girl",
+    "plot continuity",
+    "super power"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80175619"
+  ],
+  "relations": {
+    "kitsu": "7426",
+    "anidb": "9523",
+    "anilist/anime": "16419",
+    "aozora": "IBB4iFPt6o",
+    "myanimelist/anime": "16419",
+    "thetvdb": "266581/1",
+    "thetvdb/series": "266581",
+    "trakt": "69317"
+  }
+}

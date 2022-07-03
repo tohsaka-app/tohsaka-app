@@ -1,0 +1,22 @@
+{
+  "slug": "hentai",
+  "synopsis": "Hentai! is an anime made in MMD. It's about sex jokes.",
+  "title": {
+    "en": "",
+    "jp": "Hentai!"
+  },
+  "releasedAt": "2014-07-14T00:00:00.000Z",
+  "finishedAt": "2014-09-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11819/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11819"
+  }
+}

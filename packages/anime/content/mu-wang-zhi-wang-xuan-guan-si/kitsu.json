@@ -1,0 +1,24 @@
+{
+  "slug": "mu-wang-zhi-wang-xuan-guan-si",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "2017-12-07T00:00:00.000Z",
+  "finishedAt": "2018-04-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43085/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "martial arts",
+    "mystery",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43085",
+    "anilist/anime": "102057",
+    "myanimelist/anime": "39720"
+  }
+}

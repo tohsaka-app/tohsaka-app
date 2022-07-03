@@ -1,0 +1,26 @@
+{
+  "slug": "mou-ichido-luminous",
+  "synopsis": "",
+  "title": {
+    "jp": "Mou Ichido Luminous"
+  },
+  "releasedAt": "2018-06-28T00:00:00.000Z",
+  "finishedAt": "2018-06-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/41868/poster_image/bba2a73f03a9f311abd16dbaa1d61e6f.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/41868/cover_image/bf846c409a583f9ec78d630a8e485ed7.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=HhZW-XZShhs"
+  ],
+  "relations": {
+    "kitsu": "41868",
+    "anilist/anime": "113161",
+    "myanimelist/anime": "37955"
+  }
+}

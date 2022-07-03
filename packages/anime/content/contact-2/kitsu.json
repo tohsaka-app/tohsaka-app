@@ -1,0 +1,24 @@
+{
+  "slug": "contact-2",
+  "synopsis": "A Backkom short about him meeting an alien that aired between the 1st and 2nd season.",
+  "title": {
+    "jp": "Contact 2"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9239/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9239",
+    "aozora": "efaiNJDCqd",
+    "myanimelist/anime": "25977"
+  }
+}

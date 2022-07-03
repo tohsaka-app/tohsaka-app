@@ -1,0 +1,25 @@
+{
+  "slug": "tales-of-crestoria",
+  "synopsis": "The Bandai Namco concept movies for Tales of Crestoria. It is promoting the new mobile RPG game. While part of the \"Tales of...\" franchise, the game will feature original characters and story, to act as an entrance into the franchise for new fans who have no yet partaken in any of the anime/manga/video games of the franchise. The main theme of the work is \"sin\" and follows people who are living for their precious things while being chased by those who want to convict them for their sins.There is no word yet as to when the game will be released. (Source: MAL)",
+  "title": {
+    "en": "Tales of Crestoria",
+    "jp": "Tales of Crestoria"
+  },
+  "releasedAt": "2018-09-11T00:00:00.000Z",
+  "finishedAt": "2020-04-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43677/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43677",
+    "myanimelist/anime": "38361"
+  }
+}

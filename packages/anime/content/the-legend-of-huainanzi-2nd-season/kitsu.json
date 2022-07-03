@@ -1,0 +1,25 @@
+{
+  "slug": "the-legend-of-huainanzi-2nd-season",
+  "synopsis": "Second season of The Legend of Huainanzi.",
+  "title": {
+    "jp": "The Legend of Huainanzi 2nd Season"
+  },
+  "releasedAt": "2014-03-03T00:00:00.000Z",
+  "finishedAt": "2014-03-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11516/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11516",
+    "anilist/anime": "103756",
+    "aozora": "jlqHOQGT9n",
+    "myanimelist/anime": "31893"
+  }
+}

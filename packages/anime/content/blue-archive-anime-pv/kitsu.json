@@ -1,0 +1,22 @@
+{
+  "slug": "blue-archive-anime-pv",
+  "synopsis": "Animated promotional videos for the smartphone game Blue Archive.",
+  "title": {
+    "jp": "Blue Archive Anime PV"
+  },
+  "releasedAt": "2021-01-25T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46074/poster_image/34980b2c6241e9b3ec5ae20010710591.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46074",
+    "anilist/anime": "138416"
+  }
+}

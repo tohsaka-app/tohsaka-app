@@ -1,0 +1,22 @@
+{
+  "slug": "ryouma-30-seconds",
+  "synopsis": "",
+  "title": {
+    "jp": "Ryouma 30 Seconds"
+  },
+  "releasedAt": "2009-09-01T00:00:00.000Z",
+  "finishedAt": "2009-09-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12407/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12407",
+    "aozora": "Y7QIoUf3U8",
+    "myanimelist/anime": "31547"
+  }
+}

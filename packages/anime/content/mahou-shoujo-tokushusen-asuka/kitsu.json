@@ -1,0 +1,36 @@
+{
+  "slug": "mahou-shoujo-tokushusen-asuka",
+  "synopsis": "Legends, myths, magic... Humanity has finally had a chance encounter with a world that had been all but forgotten among all its scientific developments. However, this reunion is not a happy one. Monsters invading from the world of the dead render modern weapons useless, leaving the fate of humanity uncertain. But with help from the Otherworld Trade Agreement, mankind gains a possible means of returning from the brink of death in the form of magical girls. These girls finally lead humanity to victory. However, even this victory proves to be no more than the beginning of a new battle.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Magical Girl Spec-Ops Asuka",
+    "jp": "Mahou Shoujo Tokushusen Asuka"
+  },
+  "releasedAt": "2019-01-12T00:00:00.000Z",
+  "finishedAt": "2019-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41490/original.jpg",
+  "categories": [
+    "action",
+    "dark fantasy",
+    "drama",
+    "ecchi",
+    "magic",
+    "magical girl",
+    "military",
+    "special squads",
+    "supernatural",
+    "violence"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/magical-girl-spec-ops-asuka",
+    "https://www.funimation.com/shows/magical-girl-spec-ops-asuka/"
+  ],
+  "relations": {
+    "kitsu": "41490",
+    "anidb": "14229",
+    "anilist/anime": "103222",
+    "myanimelist/anime": "37979"
+  }
+}

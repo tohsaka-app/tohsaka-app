@@ -1,0 +1,23 @@
+{
+  "slug": "aoki-uru-overture",
+  "synopsis": "A short special created by a newly launched Uru in Blue LLP (Limited Liability Partnership) in Singapore that will pre-streamed in 2015 and will be a lead up/preview to the full film, set for 2018.",
+  "title": {
+    "jp": "Aoki Uru: Overture"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10585/original.png",
+  "categories": [
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10585",
+    "aozora": "ppZtl7xJeh",
+    "myanimelist/anime": "29999"
+  }
+}

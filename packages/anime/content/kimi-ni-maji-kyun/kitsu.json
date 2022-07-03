@@ -1,0 +1,26 @@
+{
+  "slug": "kimi-ni-maji-kyun",
+  "synopsis": "Full chorus animation and situational anime bundled as a DVD with the \"Kimi ni Maji Kyun!\" CD release.",
+  "title": {
+    "jp": "Kimi ni Maji Kyun!"
+  },
+  "releasedAt": "2016-05-18T00:00:00.000Z",
+  "finishedAt": "2016-05-18T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12145/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12145/original.jpg",
+  "categories": [
+    "magic",
+    "music",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12145",
+    "aozora": "GOgIQ6c0bM",
+    "myanimelist/anime": "32202"
+  }
+}

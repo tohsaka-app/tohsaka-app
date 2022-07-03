@@ -1,0 +1,27 @@
+{
+  "slug": "chimera-movie",
+  "synopsis": "The series follows Kou Ootori, an ordinary high school student who experiences a recurring nightmare of being eaten alive by a beast from within. However, when he meets Reiichi Kuki, an upperclassman who controls the school, the curtain of fate unravels.\n\n(Source: MAL News)",
+  "title": {
+    "jp": "Chimera"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42881/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "horror",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42881",
+    "anidb": "13892",
+    "anilist/anime": "110206",
+    "myanimelist/anime": "37437"
+  }
+}

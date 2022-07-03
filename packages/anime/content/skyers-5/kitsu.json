@@ -1,0 +1,27 @@
+{
+  "slug": "skyers-5",
+  "synopsis": "A science fiction action series about the future battles between a planetary police force and an international crime syndicate. The series plays out as a mix between science fiction and an old western. ",
+  "title": {
+    "jp": "Skyers 5"
+  },
+  "releasedAt": "1967-10-04T00:00:00.000Z",
+  "finishedAt": "1967-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6505/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "crime",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6505",
+    "anidb": "5288",
+    "anilist/anime": "11405",
+    "aozora": "FDkg5RCzlu",
+    "myanimelist/anime": "11405"
+  }
+}

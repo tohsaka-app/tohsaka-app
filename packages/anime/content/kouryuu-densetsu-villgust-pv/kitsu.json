@@ -1,0 +1,26 @@
+{
+  "slug": "kouryuu-densetsu-villgust-pv",
+  "synopsis": "4-minute promotional Anime featuring super-deformed versions of the main characters from the Villgust video game series.\n\nShown at the Tokyo Toy Show in 1990. Released 2 years before the Kouryuu Densetsu Villgust OVA.",
+  "title": {
+    "en": "Armed Dragon Fantasy Villgust Promotional Video",
+    "jp": "Kouryuu Densetsu Villgust PV"
+  },
+  "releasedAt": "1990-06-01T00:00:00.000Z",
+  "finishedAt": "1990-06-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44619/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44619",
+    "myanimelist/anime": "38153"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "umineko-no-naku-koro-ni-specials",
+  "synopsis": "DVD and BD specials of Umineko no Naku Koro ni containing the parody dubbing by the original cast.",
+  "title": {
+    "en": "When the Seagulls Cry Specials",
+    "jp": "Umineko no Naku Koro ni Specials"
+  },
+  "releasedAt": "2009-10-23T00:00:00.000Z",
+  "finishedAt": "2010-10-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5030/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5030/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5030",
+    "anilist/anime": "7568",
+    "aozora": "PzYiu5K7EY",
+    "myanimelist/anime": "7568"
+  }
+}

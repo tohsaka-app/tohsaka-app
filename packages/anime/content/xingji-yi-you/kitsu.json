@@ -1,0 +1,23 @@
+{
+  "slug": "xingji-yi-you",
+  "synopsis": null,
+  "title": {
+    "en": "Interstellar tour"
+  },
+  "releasedAt": "2022-04-18T00:00:00.000Z",
+  "finishedAt": "2022-06-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46111/poster_image/adb7601c0cbaf6b04708ee0031e3a906.png",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46111",
+    "anilist/anime": "146512"
+  }
+}

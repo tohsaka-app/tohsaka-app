@@ -1,0 +1,24 @@
+{
+  "slug": "kxdrop",
+  "synopsis": "Endou, a night guard, was patrolling the mall as usual. But this night was going to be different from usual...",
+  "title": {
+    "en": "K×Drop!!",
+    "jp": "K×Drop!!"
+  },
+  "releasedAt": "2017-03-29T00:00:00.000Z",
+  "finishedAt": "2017-03-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44810/original.png",
+  "categories": [
+    "comedy",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44810",
+    "anilist/anime": "115437",
+    "myanimelist/anime": "48508"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "azumanga-daioh",
+  "synopsis": "Chiyo Mihama begins her high school career as one of the strangest students in her freshman class—a tiny, 10-year-old academic prodigy with a fondness for plush dolls and homemade cooking. But her homeroom teacher, Yukari Tanizaki, is the kind of person who would hijack a student's bike to avoid being late, so \"strange\" is a relative word.\nThere certainly isn't a shortage of peculiar girls in Yukari-sensei's homeroom class. Accompanying Chiyo are students like Tomo Takino, an energetic tomboy with more enthusiasm than brains; Koyomi Mizuhara, Tomo's best friend whose temper has a fuse shorter than Chiyo; and Sakaki, a tall, athletic beauty whose intimidating looks hide a gentle personality and a painful obsession with cats. In addition, transfer student Ayumu Kasuga, a girl with her head stuck in the clouds, fits right in with the rest of the girls—and she has a few interesting theories about Chiyo's pigtails!\nTogether, this lovable group of girls experience the ups and downs of school life, their many adventures filled with constant laughter, surreal absurdity, and occasionally even touching commentary on the bittersweet, temporal nature of high school.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Azumanga Daioh: The Animation",
+    "jp": "Azumanga Daioh"
+  },
+  "releasedAt": "2002-04-09T00:00:00.000Z",
+  "finishedAt": "2002-10-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/47/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/47/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "friendship",
+    "high school",
+    "japan",
+    "present",
+    "school life",
+    "slapstick",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.animelab.com/shows/azumanga-daioh",
+    "https://www.hidive.com/tv/azumanga-daioh"
+  ],
+  "relations": {
+    "kitsu": "47",
+    "anidb": "106",
+    "anilist/anime": "66",
+    "aozora": "fyG5CLWZoS",
+    "hulu": "50005359",
+    "myanimelist/anime": "66",
+    "thetvdb": "79077/1",
+    "thetvdb/series": "79077",
+    "trakt": "12090"
+  }
+}

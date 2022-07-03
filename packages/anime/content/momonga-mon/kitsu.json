@@ -1,0 +1,24 @@
+{
+  "slug": "momonga-mon",
+  "synopsis": "Stop-motion animation about a mysterious creature Mont-chan from an unknown world looking for an adventure.",
+  "title": {
+    "en": "Momonga-mon",
+    "jp": "Momonga-mon"
+  },
+  "releasedAt": "2005-07-04T00:00:00.000Z",
+  "finishedAt": "2017-03-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10290/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10290",
+    "aozora": "V4neZIt9Fc",
+    "myanimelist/anime": "29387"
+  }
+}

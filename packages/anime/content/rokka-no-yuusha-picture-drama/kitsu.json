@@ -1,0 +1,28 @@
+{
+  "slug": "rokka-no-yuusha-picture-drama",
+  "synopsis": "Picture dramas bundled with the Blu-ray and DVD volumes.",
+  "title": {
+    "jp": "Rokka no Yuusha Picture Drama"
+  },
+  "releasedAt": "2015-09-16T00:00:00.000Z",
+  "finishedAt": "2015-11-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11603/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11603/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11603",
+    "anilist/anime": "106895",
+    "aozora": "Hgb5CxvwDG",
+    "myanimelist/anime": "31593"
+  }
+}

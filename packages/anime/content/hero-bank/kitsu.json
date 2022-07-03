@@ -1,0 +1,31 @@
+{
+  "slug": "hero-bank",
+  "synopsis": "In Big Money City, players participate in \"Hero Battles\" using Bankfon Gs, which allows them to rent powerful hero suits and fight battles against other players, receiving power boosts from the system's public domain feature. Kaito Goushou, a young elementary school student who is always eager to help others, ends up hastily signing a contract to rent the powerful unlisted hero suit, \"Enter the Gold,\" from a mysteriously seedy priest named Sennen; however, he soon learns that the suit comes with a debt of 10 billion yen, and Kaito must now clear his dues by winning Hero Battles.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Herobank",
+    "jp": "Hero Bank"
+  },
+  "releasedAt": "2014-04-07T00:00:00.000Z",
+  "finishedAt": "2015-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8282/original.jpg",
+  "categories": [
+    "kids",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/herobank"
+  ],
+  "relations": {
+    "kitsu": "8282",
+    "anidb": "10389",
+    "anilist/anime": "20655",
+    "aozora": "FurHXjK5vK",
+    "myanimelist/anime": "22099",
+    "thetvdb": "280612/1",
+    "thetvdb/series": "280612",
+    "trakt": "77176"
+  }
+}

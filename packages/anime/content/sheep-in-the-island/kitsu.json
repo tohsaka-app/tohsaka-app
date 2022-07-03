@@ -1,0 +1,23 @@
+{
+  "slug": "sheep-in-the-island",
+  "synopsis": "A boat sinks leaving a sheep and a duck-dinosaur-fish hybrid stranded on an island.",
+  "title": {
+    "jp": "Sheep in the Island"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9576/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9576",
+    "anilist/anime": "104123",
+    "aozora": "r7g9we9drQ",
+    "myanimelist/anime": "25979"
+  }
+}

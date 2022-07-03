@@ -1,0 +1,23 @@
+{
+  "slug": "monkey-king-vs-er-lang-shen",
+  "synopsis": "Based on a few early chapters of classic fantasy novel Journey to the West, the story tells how the Monkey King rises against the heaven and has a horrific fight with Er Lang Shen, the nephew of Jade Emperor, who rules the Heaven.",
+  "title": {
+    "jp": "Wu Kong Da Zhan Er Lang Shen"
+  },
+  "releasedAt": "2007-06-01T00:00:00.000Z",
+  "finishedAt": "2007-06-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12988/original.jpg",
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12988",
+    "anilist/anime": "103921",
+    "myanimelist/anime": "34248"
+  }
+}

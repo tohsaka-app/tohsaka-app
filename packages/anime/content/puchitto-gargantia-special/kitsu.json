@@ -1,0 +1,25 @@
+{
+  "slug": "puchitto-gargantia-special",
+  "synopsis": "Special Project Gargantia.",
+  "title": {
+    "jp": "Puchitto Gargantia Special"
+  },
+  "releasedAt": "2013-09-25T00:00:00.000Z",
+  "finishedAt": "2013-09-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8592/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8592",
+    "anilist/anime": "21863",
+    "aozora": "C8SVjk0Aws",
+    "myanimelist/anime": "23099"
+  }
+}

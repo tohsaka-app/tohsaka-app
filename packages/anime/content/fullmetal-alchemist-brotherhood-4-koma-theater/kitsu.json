@@ -1,0 +1,28 @@
+{
+  "slug": "fullmetal-alchemist-brotherhood-4-koma-theater",
+  "synopsis": "Short specials from the DVDs/BDs.",
+  "title": {
+    "en": "Fullmetal Alchemist: Brotherhood: 4-Koma Theater",
+    "jp": "Hagane no Renkinjutsushi: Furumetaru Arukemisuto: 4-Koma Gekijou"
+  },
+  "releasedAt": "2009-08-26T00:00:00.000Z",
+  "finishedAt": "2010-11-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5154/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "military",
+    "parody",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5154",
+    "anilist/anime": "7902",
+    "aozora": "672QspJRGI",
+    "myanimelist/anime": "7902"
+  }
+}

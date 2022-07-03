@@ -1,0 +1,18 @@
+{
+  "slug": "delete-20",
+  "synopsis": "Duplicate of: https://kitsu.io/anime/beyblade-burst-sparking",
+  "title": {
+    "jp": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43087/original.jpeg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "43087"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "okashina-hotel",
+  "synopsis": "Short film made by Michio Mihara in 2008.",
+  "title": {
+    "jp": "Okashina Hotel"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8443/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8443",
+    "anilist/anime": "102759",
+    "aozora": "fwEIPbJ4pB",
+    "myanimelist/anime": "22841"
+  }
+}

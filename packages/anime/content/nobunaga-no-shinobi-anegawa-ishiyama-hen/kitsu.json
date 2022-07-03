@@ -1,0 +1,24 @@
+{
+  "slug": "nobunaga-no-shinobi-anegawa-ishiyama-hen",
+  "synopsis": "Third season of Nobunaga no Shinobi",
+  "title": {
+    "en": "Ninja Girl & Samurai Master: Anegawa and Ishiyama Arc",
+    "jp": "Nobunaga no Shinobi: Anegawa Ishiyama-hen"
+  },
+  "releasedAt": "2018-04-07T00:00:00.000Z",
+  "finishedAt": "2018-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14207/original.jpg",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14207",
+    "anilist/anime": "100966",
+    "myanimelist/anime": "37126"
+  }
+}

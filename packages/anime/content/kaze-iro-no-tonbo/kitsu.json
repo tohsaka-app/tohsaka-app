@@ -1,0 +1,23 @@
+{
+  "slug": "kaze-iro-no-tonbo",
+  "synopsis": "Music video for the song Kaze Iro no Tonbo by Chie Hyou that was featured on NHK's Minna no Uta program. The video was animated by Kouji Nanke.",
+  "title": {
+    "jp": "Kaze Iro no Tonbo"
+  },
+  "releasedAt": "1996-10-01T00:00:00.000Z",
+  "finishedAt": "1996-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42803/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42803",
+    "anilist/anime": "116911",
+    "myanimelist/anime": "39914"
+  }
+}

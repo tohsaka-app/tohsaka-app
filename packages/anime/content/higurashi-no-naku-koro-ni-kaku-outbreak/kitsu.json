@@ -1,0 +1,29 @@
+{
+  "slug": "higurashi-no-naku-koro-ni-kaku-outbreak",
+  "synopsis": "The story is set in the same Hinamizawa village of the previous stories. The village has been completely sealed off due to a mysterious virus in 1983, and Maebara Keiichi and Ryuuguu Rena deal with the outbreak.\n(Source: ANN)",
+  "title": {
+    "en": "When They Cry: Outbreak",
+    "jp": "Higurashi no Naku Koro ni Kaku: Outbreak"
+  },
+  "releasedAt": "2013-08-15T00:00:00.000Z",
+  "finishedAt": "2013-08-15T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7494/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7494/original.jpg",
+  "categories": [
+    "horror",
+    "mystery",
+    "psychological",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7494",
+    "anidb": "9574",
+    "anilist/anime": "16700",
+    "aozora": "tsyxd61vR7",
+    "myanimelist/anime": "16700"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "yagate-kimi-ni-naru",
+  "synopsis": "Yuu has always dreamt of receiving a love confession but feels nothing when a boy gives her one. Confused, she starts her first year of high school and meets the beautiful student council president, Nanami, who makes her heart skip a beat.\n\n(Source: HIDIVE)",
+  "title": {
+    "en": "Bloom Into You",
+    "jp": "Yagate Kimi ni Naru"
+  },
+  "releasedAt": "2018-10-05T00:00:00.000Z",
+  "finishedAt": "2018-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41240/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41240/original.jpg",
+  "categories": [
+    "romance",
+    "school life",
+    "shoujo ai"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/bloom-into-you"
+  ],
+  "relations": {
+    "kitsu": "41240",
+    "anidb": "14053",
+    "anilist/anime": "101573",
+    "myanimelist/anime": "37786"
+  }
+}

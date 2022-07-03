@@ -1,0 +1,22 @@
+{
+  "slug": "power-powan",
+  "synopsis": "There is currently no synopsis for this title.",
+  "title": {
+    "jp": "Power Powan"
+  },
+  "releasedAt": "1970-02-01T00:00:00.000Z",
+  "finishedAt": "1970-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40921/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40921",
+    "aozora": "OAgIRXAvt3",
+    "myanimelist/anime": "36380"
+  }
+}

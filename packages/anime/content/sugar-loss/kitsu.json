@@ -1,0 +1,23 @@
+{
+  "slug": "sugar-loss",
+  "synopsis": "Music video animated by Marie Yasui for the song Sugar Loss by Wanuka. The track and music video is apart of Morinaga &amp; Co.'s \"DARS CHOCOLATE MUSIC LABEL\" collaboration campaign.\n\n(Source: AniList)",
+  "title": {
+    "en": "Sugar Loss",
+    "jp": "Sugar Loss"
+  },
+  "releasedAt": "2022-01-16T00:00:00.000Z",
+  "finishedAt": "2022-01-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45792/poster_image/060cda3ec7367a8946db716ff119b787.png",
+  "categories": [
+    "music",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45792",
+    "anilist/anime": "144189"
+  }
+}

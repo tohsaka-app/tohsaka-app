@@ -1,0 +1,24 @@
+{
+  "slug": "ai-wa-kat-tun",
+  "synopsis": "The mobile content developer MTI released a series of mobile phone anime shorts inspired by the all-male musical group KAT-TUN. Animated versions of the singers Kamenashi Kazuya, Taguchi Junnosuke, Tanaka Kouki, Ueda Tatsuya, and Nakamaru Yuuichi appear in unintentionally romantic situations with their younger sister. Each of the mobile anime series five 50-second episodes highlights one KAT-TUN performer.\n(Source: ANN)",
+  "title": {
+    "jp": "Ai wa KAT-TUN"
+  },
+  "releasedAt": "2012-01-13T00:00:00.000Z",
+  "finishedAt": "2012-01-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6830/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6830",
+    "anidb": "8961",
+    "anilist/anime": "12865",
+    "aozora": "SLtxvRTzRL",
+    "myanimelist/anime": "12865"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "tabihani",
+  "synopsis": null,
+  "title": {
+    "en": "Tabihani",
+    "jp": "Tabi Hani"
+  },
+  "releasedAt": "2022-03-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44931/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44931/cover_image/ce320c925ddaa9f9a19d8bcd16479503.png",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "44931",
+    "anilist/anime": "134226"
+  }
+}

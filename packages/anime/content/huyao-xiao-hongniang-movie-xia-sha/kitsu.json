@@ -1,0 +1,22 @@
+{
+  "slug": "huyao-xiao-hongniang-movie-xia-sha",
+  "synopsis": "Movie version of Huyao Xiao Hongniang.",
+  "title": {},
+  "releasedAt": "2015-12-11T00:00:00.000Z",
+  "finishedAt": "2015-12-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45960/poster_image/11a6bba809a06fc1ee87d0cf2d8b00f4.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "romance",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45960",
+    "myanimelist/anime": "51194"
+  }
+}

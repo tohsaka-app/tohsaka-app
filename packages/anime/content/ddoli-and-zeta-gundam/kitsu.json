@@ -1,0 +1,27 @@
+{
+  "slug": "ddoli-and-zeta-gundam",
+  "synopsis": "A boy finds a toy robot which turns out to not to be an ordinary toy.",
+  "title": {
+    "jp": "Ttori wa Zeta Robot"
+  },
+  "releasedAt": "1985-01-17T00:00:00.000Z",
+  "finishedAt": "1985-01-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7522/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "kids",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7522",
+    "anidb": "9597",
+    "anilist/anime": "16798",
+    "aozora": "Jqfs6kNFeI",
+    "myanimelist/anime": "16798"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "microid-s",
+  "synopsis": "This work focuses on environmental issues from the viewpoint of insects. In a refreshing twist, the central character miniaturizes, unlike the conventional hero who grows ever larger. From this perspective, the world looks different and unfamiliar. This work enables the reader to see that the world around is quickly moving towards destruction. \n(Source: en.tezuka.co.jp) ",
+  "title": {
+    "jp": "Microid S"
+  },
+  "releasedAt": "1973-04-07T00:00:00.000Z",
+  "finishedAt": "1973-10-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3298/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction",
+    "shounen",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3298",
+    "anidb": "1904",
+    "anilist/anime": "3846",
+    "animenewsnetwork": "1480",
+    "aozora": "Slysb9OXps",
+    "myanimelist/anime": "3846"
+  }
+}

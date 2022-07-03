@@ -1,0 +1,24 @@
+{
+  "slug": "fall-in-sunset",
+  "synopsis": "Music video for the original song Fall in Sunset by Domyoji Cocoa.",
+  "title": {
+    "en": "Fall in Sunset",
+    "jp": "Fall in Sunset"
+  },
+  "releasedAt": "2020-09-19T00:00:00.000Z",
+  "finishedAt": "2020-09-19T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44577/original.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=2ALRSD6RApo"
+  ],
+  "relations": {
+    "kitsu": "44577"
+  }
+}

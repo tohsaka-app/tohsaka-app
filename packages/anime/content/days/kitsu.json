@@ -1,0 +1,23 @@
+{
+  "slug": "days",
+  "synopsis": "days is the ending theme of Mekakucity Actors performed by Lia. The song was composed by Shizen no Teki-P (a.k.a. Jin) and a PV for the anime was illustrated and directed by Shidu.\n(Source: Kagerou Project Wikia)",
+  "title": {
+    "jp": "Days"
+  },
+  "releasedAt": "2014-06-13T00:00:00.000Z",
+  "finishedAt": "2014-06-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8544/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8544",
+    "anilist/anime": "102453",
+    "aozora": "FTV2SEkRz0",
+    "myanimelist/anime": "24823"
+  }
+}

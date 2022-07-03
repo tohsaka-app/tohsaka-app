@@ -1,0 +1,24 @@
+{
+  "slug": "wake-up-girls-no-miyagi-pr-yarasete-kudasai",
+  "synopsis": "",
+  "title": {
+    "en": "Wake Up, Girls! Please Let Us Promote Miyagi!",
+    "jp": "Wake Up, Girls! no Miyagi PR Yarasete Kudasai!"
+  },
+  "releasedAt": "2016-02-11T00:00:00.000Z",
+  "finishedAt": "2016-02-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12133/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12133",
+    "anilist/anime": "21849",
+    "aozora": "SM29EgVw9W",
+    "myanimelist/anime": "32382"
+  }
+}

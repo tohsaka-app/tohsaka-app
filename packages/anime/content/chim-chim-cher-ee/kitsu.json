@@ -1,0 +1,26 @@
+{
+  "slug": "chim-chim-cher-ee",
+  "synopsis": "The life of a chimney sweep in a song. This is the Japanese version of the 1964 Academy Award song Chim Chim Cher-ee that was originally sung by Dick Van Dyke and Julie Andrews in the movie 'Mary Poppins\". Given the anime treatment by graphic artist and animator Tadanori Yokoo and shown in the Minna no Uta segment of NHK programming.",
+  "title": {
+    "jp": "Chim Chim Cher-ee"
+  },
+  "releasedAt": "1966-04-01T00:00:00.000Z",
+  "finishedAt": "1966-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5425/original.jpg",
+  "categories": [
+    "kids",
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5425",
+    "anidb": "11125",
+    "anilist/anime": "8661",
+    "aozora": "sV7sRiatFu",
+    "myanimelist/anime": "8661"
+  }
+}

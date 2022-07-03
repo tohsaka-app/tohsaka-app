@@ -1,0 +1,33 @@
+{
+  "slug": "fire-tripper",
+  "synopsis": "It was just another ordinary afternoon for our heroine Suzuko when she suddenly got caught in a giant gas explosion. Instead of getting killed, Suzuko wakes up some 500 years in the past during the Civil War era of Japan. \nAfter being saved from a fate worse than death by a handsome, somewhat overbearing young man, Suzuko learns to adapt to the strange realm where she now resides. Along the way, Suzuko finds out more about her mysterious and spotty past. As clues begin to click into place, though, the village is attacked, and Suzuko finds herself travelling through time AGAIN, this time to the present. Will she solve the mystery regarding her origin and where she belongs?",
+  "title": {
+    "en": "Fire Tripper",
+    "jp": "Fire Tripper"
+  },
+  "releasedAt": "1985-12-16T00:00:00.000Z",
+  "finishedAt": "1985-12-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2690/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2690/original.png",
+  "categories": [
+    "earth",
+    "fantasy",
+    "feudal warfare",
+    "japan",
+    "past",
+    "present",
+    "science fiction",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2690",
+    "anidb": "1511",
+    "anilist/anime": "2973",
+    "aozora": "IfdsJccLlH",
+    "myanimelist/anime": "2973"
+  }
+}

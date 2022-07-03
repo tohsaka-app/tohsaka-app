@@ -1,0 +1,37 @@
+{
+  "slug": "kono-subarashii-sekai-ni-shukufuku-wo-2",
+  "synopsis": "Second season of Kono Subarashii Sekai ni Shukufuku wo!",
+  "title": {
+    "en": "KonoSuba: God's Blessing on This Wonderful World! 2",
+    "jp": "Kono Subarashii Sekai ni Shukufuku wo! 2"
+  },
+  "releasedAt": "2017-01-12T00:00:00.000Z",
+  "finishedAt": "2017-03-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11937/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11937/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "deity",
+    "ecchi",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "magic",
+    "parallel universe",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11937",
+    "anidb": "11992",
+    "anilist/anime": "21699",
+    "aozora": "uE70rsgWiu",
+    "myanimelist/anime": "32937",
+    "thetvdb": "303867/2",
+    "trakt": "103803"
+  }
+}

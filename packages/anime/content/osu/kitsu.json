@@ -1,0 +1,25 @@
+{
+  "slug": "osu",
+  "synopsis": "A cat just wants some alone time with his girl, but is interrupted by his stressed owner. Can't those stupid humans just keep things like relationships simple?",
+  "title": {
+    "en": "Male",
+    "jp": "Osu"
+  },
+  "releasedAt": "1962-11-05T00:00:00.000Z",
+  "finishedAt": "1962-11-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1784/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1784",
+    "anidb": "3474",
+    "anilist/anime": "1982",
+    "aozora": "UemBnpyeU3",
+    "myanimelist/anime": "1982"
+  }
+}

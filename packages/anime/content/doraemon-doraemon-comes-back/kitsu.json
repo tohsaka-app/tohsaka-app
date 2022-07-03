@@ -1,0 +1,25 @@
+{
+  "slug": "doraemon-doraemon-comes-back",
+  "synopsis": "Movie version of the Doraemon: Come Back Doraemon Special.",
+  "title": {
+    "jp": "Doraemon: Doraemon Comes Back (Movie)"
+  },
+  "releasedAt": "1998-03-07T00:00:00.000Z",
+  "finishedAt": "1998-03-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2415/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2415",
+    "anilist/anime": "2651",
+    "aozora": "A6AcyaYATK",
+    "myanimelist/anime": "2651"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "dibetagurashi-ahiru-no-seikatsu",
+  "synopsis": "The story follows the daily life of a group of birds, including a duck, an old nihilistic great grey owl, and a gluttonous Caique parrot.\n(Source: ANN)",
+  "title": {
+    "jp": "Dibetagurashi: Ahiru no Seikatsu"
+  },
+  "releasedAt": "2013-04-07T00:00:00.000Z",
+  "finishedAt": "2014-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7648/original.jpg",
+  "categories": [
+    "comedy",
+    "earth",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7648",
+    "anidb": "9746",
+    "anilist/anime": "17733",
+    "aozora": "ALcs53Umve",
+    "myanimelist/anime": "17733"
+  }
+}

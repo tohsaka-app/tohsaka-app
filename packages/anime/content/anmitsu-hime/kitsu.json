@@ -1,0 +1,28 @@
+{
+  "slug": "anmitsu-hime",
+  "synopsis": "Based on a manga by Kurakane Shousuke serialised in the Shoujo magazine.\nAnmitsu is a tomboy princess living happily at the Amakara Castle. Our story begins when she turns ten years old and gets a home tutor Castella from the Pudding Kingdom as a present from her parents. But they were very wrong when they thought that Anmitsu will finally start studying seriously, because she will frequently escape from the castle looking for some fun, and in the process she will learn a lot about the outside world, make numerous friends and cause endless trouble for the inhabitants of the castle who are supposed to take care of her.",
+  "title": {
+    "en": "Princess Anmitsu",
+    "jp": "Anmitsu Hime"
+  },
+  "releasedAt": "1986-10-05T00:00:00.000Z",
+  "finishedAt": "1987-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4422/original.jpg",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4422",
+    "anidb": "3086",
+    "anilist/anime": "6093",
+    "aozora": "3UvCfmfC7f",
+    "myanimelist/anime": "6093",
+    "thetvdb": "96191/1",
+    "thetvdb/series": "96191"
+  }
+}

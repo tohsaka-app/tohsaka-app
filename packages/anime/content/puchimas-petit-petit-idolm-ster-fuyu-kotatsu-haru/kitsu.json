@@ -1,0 +1,26 @@
+{
+  "slug": "puchimas-petit-petit-idolm-ster-fuyu-kotatsu-haru",
+  "synopsis": "Extra episode bundled with the limited edition of the 6th manga volume.",
+  "title": {
+    "jp": "Puchimas!!: Petit Petit iDOLM@STER - Fuyu→Kotatsu←Haru"
+  },
+  "releasedAt": "2014-03-27T00:00:00.000Z",
+  "finishedAt": "2014-03-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9033/original.jpg",
+  "categories": [
+    "comedy",
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9033",
+    "anidb": "12228",
+    "anilist/anime": "102582",
+    "aozora": "8v1FmyFSgo",
+    "myanimelist/anime": "23871"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "isshuukan-friends-specials",
+  "synopsis": "Specials included in the Blu-ray/DVD releases.",
+  "title": {
+    "jp": "Isshuukan Friends. Specials"
+  },
+  "releasedAt": "2014-06-18T00:00:00.000Z",
+  "finishedAt": "2014-11-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8528/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8528/original.jpg",
+  "categories": [
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8528",
+    "anilist/anime": "20765",
+    "aozora": "I8a4xYhYPH",
+    "myanimelist/anime": "24821"
+  }
+}

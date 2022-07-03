@@ -1,0 +1,29 @@
+{
+  "slug": "yakunara-mug-cup-mo-niban-kama",
+  "synopsis": "The second season of Yakunara Mug Cup Mo.",
+  "title": {
+    "en": "Let's Make a Mug Too Season 2",
+    "jp": "Yakunara Mug Cup mo: Niban Kama"
+  },
+  "releasedAt": "2021-10-01T00:00:00.000Z",
+  "finishedAt": "2021-12-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44787/poster_image/5033b18bcd035a172e4343ad98381113.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44787/original.png",
+  "categories": [
+    "comedy",
+    "slice of life",
+    "the arts",
+    "working life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/lets-make-a-mug-too"
+  ],
+  "relations": {
+    "kitsu": "44787",
+    "anilist/anime": "135939",
+    "myanimelist/anime": "49263"
+  }
+}

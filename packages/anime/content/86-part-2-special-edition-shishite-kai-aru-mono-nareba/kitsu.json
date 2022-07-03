@@ -1,0 +1,25 @@
+{
+  "slug": "86-part-2-special-edition-shishite-kai-aru-mono-nareba",
+  "synopsis": "Recap episodes of 86 Part 2.",
+  "title": {
+    "jp": "86 Part 2 Recaps"
+  },
+  "releasedAt": "2021-11-28T00:00:00.000Z",
+  "finishedAt": "2022-03-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45545/poster_image/b0bf3a1e2b4baef89aad1a430273c0a8.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45545/cover_image/0a39eca236668bbc8e684f462d803e39.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "military",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45545",
+    "myanimelist/anime": "50475"
+  }
+}

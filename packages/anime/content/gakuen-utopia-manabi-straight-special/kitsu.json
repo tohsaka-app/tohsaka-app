@@ -1,0 +1,27 @@
+{
+  "slug": "gakuen-utopia-manabi-straight-special",
+  "synopsis": "This episode takes place before the actual planning of the School Fair and shows how the girls spend their summer holidays.",
+  "title": {
+    "jp": "Gakuen Utopia Manabi Straight! Special"
+  },
+  "releasedAt": "2007-10-10T00:00:00.000Z",
+  "finishedAt": "2007-10-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2863/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2863/original.jpeg",
+  "categories": [
+    "comedy",
+    "school life",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2863",
+    "anilist/anime": "3219",
+    "aozora": "myff0NJpon",
+    "myanimelist/anime": "3219"
+  }
+}

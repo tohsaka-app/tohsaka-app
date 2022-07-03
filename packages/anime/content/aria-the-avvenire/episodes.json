@@ -1,0 +1,32 @@
+[
+  {
+    "title": {
+      "jp": "Sono Aitakatta Anata ni..."
+    },
+    "synopsis": "Episode 1 bundled with the Blu-ray Box of Aria the Animation.",
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2015-12-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sono Atataka na Sayonara wa..."
+    },
+    "synopsis": "Episode 2 bundled with the Blu-ray Box of Aria the Natural.",
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2016-03-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sono Haruka naru Mirai e..."
+    },
+    "synopsis": "Episode 3 bundled with the Blu-ray Box of Aria the Origination.",
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2016-06-24T00:00:00.000Z",
+    "content": {}
+  }
+]

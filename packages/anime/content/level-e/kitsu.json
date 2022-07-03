@@ -1,0 +1,33 @@
+{
+  "slug": "level-e",
+  "synopsis": "This extraterrestrial adventure follows the alien genius, Prince Baka as he turns life on Earth into his own personal laugh track. The Prince has the biggest brain in the galaxy, and he’s also a sadistic prankster who loves to make humans squirm. Nostalgic anime fans will fall hard for this “undeniably clever” series that spoofs the television shows and video games they loved as kids.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Level E",
+    "jp": "Level E"
+  },
+  "releasedAt": "2011-01-11T00:00:00.000Z",
+  "finishedAt": "2011-04-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5895/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5895/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/84241"
+  ],
+  "relations": {
+    "kitsu": "5895",
+    "anidb": "8057",
+    "anilist/anime": "9834",
+    "aozora": "BhE0GBQemX",
+    "hulu": "50006785",
+    "myanimelist/anime": "9834",
+    "thetvdb": "220551/1",
+    "thetvdb/series": "220551",
+    "trakt": "38399"
+  }
+}

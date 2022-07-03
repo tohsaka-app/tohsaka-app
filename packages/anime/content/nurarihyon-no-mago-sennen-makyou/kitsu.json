@@ -1,0 +1,42 @@
+{
+  "slug": "nurarihyon-no-mago-sennen-makyou",
+  "synopsis": "At first glance, Nura Rikuo seems like nothing more than a normal middle-schooler. In actual fact, he is grandson of Nurarihyon, master of a youkai clan. Having only recently resolved the hostilities between the Nura Clan and the Shikoku Yokai, Rikuo finds no rest as an ancient enemy of the Nura Clan, Haguromo-Gitsune, resurfaces. After 400 years of inactivity, Haguromo-Gitsune suddenly sweeps through Kyoto with overwhelming power.\n(Source: AniDB)",
+  "title": {
+    "en": "Nura: Rise of the Yokai Clan - Demon Capital",
+    "jp": "Nurarihyon no Mago: Sennen Makyou"
+  },
+  "releasedAt": "2011-07-03T00:00:00.000Z",
+  "finishedAt": "2011-12-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7728/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7728/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "bishounen",
+    "contemporary fantasy",
+    "demon",
+    "earth",
+    "fantasy",
+    "japan",
+    "present",
+    "swordplay"
+  ],
+  "externals": [
+    "t"
+  ],
+  "relations": {
+    "kitsu": "7728",
+    "anidb": "8177",
+    "anilist/anime": "10049",
+    "aozora": "L3rgvoUvml",
+    "myanimelist/anime": "10049",
+    "thetvdb": "171731/2",
+    "thetvdb/season": "468195",
+    "thetvdb/series": "171731",
+    "trakt": "37313"
+  }
+}

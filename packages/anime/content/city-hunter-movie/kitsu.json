@@ -1,0 +1,37 @@
+{
+  "slug": "city-hunter-movie",
+  "synopsis": "Ryo Saeba is a sniper and private eye (\"sweeper\") based in Tokyo's Shinjuku Ward, who possesses unrivaled marksmanship and an over-the-top obsession for the opposite sex. He and his partner Kaori Makimura serve as bodyguards and perform other duties for his clients. Their latest client is Ai Shindo, a model who's being attacked by mysterious people and unknowingly holds the key to a vast city-wide conspiracy.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "City Hunter: Shinjuku Private Eyes",
+    "jp": "Gekijouban City Hunter: Shinjuku Private Eyes"
+  },
+  "releasedAt": "2019-02-08T00:00:00.000Z",
+  "finishedAt": "2019-02-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41082/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "cops",
+    "ecchi",
+    "military",
+    "mystery",
+    "present",
+    "science fiction",
+    "shounen",
+    "slapstick",
+    "war"
+  ],
+  "externals": [
+    "crunchyroll.com/city-hunter",
+    "vrv.co/series/G6P5M4156/City-Hunter"
+  ],
+  "relations": {
+    "kitsu": "41082",
+    "anidb": "13943",
+    "anilist/anime": "101345",
+    "myanimelist/anime": "37516"
+  }
+}

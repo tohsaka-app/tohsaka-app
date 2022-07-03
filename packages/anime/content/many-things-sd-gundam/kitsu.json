@@ -1,0 +1,25 @@
+{
+  "slug": "many-things-sd-gundam",
+  "synopsis": "Specials included on SD Gundam Collection Box.",
+  "title": {
+    "en": "Many Things SD Gundam",
+    "jp": "Many Things SD Gundam"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-07-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11008/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11008",
+    "aozora": "aOZ25EwXjf",
+    "myanimelist/anime": "30840"
+  }
+}

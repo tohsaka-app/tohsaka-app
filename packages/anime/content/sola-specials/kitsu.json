@@ -1,0 +1,28 @@
+{
+  "slug": "sola-specials",
+  "synopsis": "The OVA consists of two side stories. The first takes place some time during the first half of the series and the second takes place the day before episode one.",
+  "title": {
+    "jp": "Sola Specials"
+  },
+  "releasedAt": "2007-09-25T00:00:00.000Z",
+  "finishedAt": "2007-10-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2838/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [
+    "https://tubitv.com/series/2382"
+  ],
+  "relations": {
+    "kitsu": "2838",
+    "anilist/anime": "3174",
+    "aozora": "44TM16pl1a",
+    "myanimelist/anime": "3174"
+  }
+}

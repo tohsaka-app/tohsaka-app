@@ -1,0 +1,36 @@
+{
+  "slug": "www-working",
+  "synopsis": "Daisuke Higashida is a serious first-year student at Higashizaka High School. He lives a peaceful everyday life even though he is not satisfied with the family who doesn't laugh at all and makes him tired. However, his father's company goes bankrupt one day, and he can no longer afford allowances, cellphone bills, and commuter tickets. When his father orders him to take up a part-time job, Daisuke decides to work at a nearby family restaurant in order to avoid traveling 15 kilometers to school by bicycle.",
+  "title": {
+    "en": "WWW.WAGNARIA!!",
+    "jp": "WWW.Working!!"
+  },
+  "releasedAt": "2016-10-01T00:00:00.000Z",
+  "finishedAt": "2016-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12024/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12024/original.png",
+  "categories": [
+    "absurdist humour",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "slice of life",
+    "waitress",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12024",
+    "anidb": "12059",
+    "anilist/anime": "21764",
+    "aozora": "FoH8212v3j",
+    "myanimelist/anime": "33094",
+    "thetvdb": "317802/1",
+    "trakt": "111749"
+  }
+}

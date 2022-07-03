@@ -1,0 +1,28 @@
+{
+  "slug": "rwby-ii",
+  "synopsis": "Second volume of RWBY.",
+  "title": {},
+  "releasedAt": "2014-07-24T00:00:00.000Z",
+  "finishedAt": "2014-10-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8278/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8278/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "fantasy",
+    "fantasy world"
+  ],
+  "externals": [
+    "https://tubitv.com/movies/376998/rwby_volume_2",
+    "https://vrv.co/series/G609MWD26/RWBY",
+    "https://www.youtube.com/watch?v=PzPZ6joXq5Y&list=PLUBVPK8x-XMjeWXRcHDNId3XZwfS9FYfE",
+    "www.crunchyroll.com/rwby"
+  ],
+  "relations": {
+    "kitsu": "8278"
+  }
+}

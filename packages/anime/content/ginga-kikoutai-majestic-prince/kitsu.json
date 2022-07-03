@@ -1,0 +1,47 @@
+{
+  "slug": "ginga-kikoutai-majestic-prince",
+  "synopsis": "In the latter half of 21st century, humans leave the Earth and begin to live in space. In order to adapt to the environment in space and deal with the hostile aliens in Jupiter, genetically engineered children called \"Princes\" are artificially raised and trained to be pilots of armed robots \"AHSMB (Advanced High Standard Multipurpose Battle Device). This is a story about one of the teenage \"Princes,\" Hitachi O Izuru, who studies in an academic city Grandzehle.\n(Source: MAL News)",
+  "title": {
+    "en": "Majestic Prince",
+    "jp": "Ginga Kikoutai Majestic Prince"
+  },
+  "releasedAt": "2013-04-04T00:00:00.000Z",
+  "finishedAt": "2013-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7325/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7325/original.jpg",
+  "categories": [
+    "action",
+    "disaster",
+    "future",
+    "genetic modification",
+    "humanoid alien",
+    "mecha",
+    "piloted robot",
+    "school life",
+    "science fiction",
+    "space",
+    "space travel",
+    "special squads",
+    "war"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/majestic-prince",
+    "http://www.hulu.com/majestic-prince",
+    "https://www.hidive.com/tv/majestic-prince"
+  ],
+  "relations": {
+    "kitsu": "7325",
+    "anidb": "9452",
+    "anilist/anime": "15863",
+    "aozora": "Oa8YH3xYtn",
+    "hulu": "50011658",
+    "myanimelist/anime": "15863",
+    "thetvdb": "268284/1",
+    "thetvdb/season": "516328",
+    "thetvdb/series": "268284",
+    "trakt": "70102"
+  }
+}

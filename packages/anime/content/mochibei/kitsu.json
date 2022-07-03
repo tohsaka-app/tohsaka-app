@@ -1,0 +1,24 @@
+{
+  "slug": "mochibei",
+  "synopsis": "Short film by Kurosaka Keita.",
+  "title": {
+    "jp": "Mochibei"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11471/original.png",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11471",
+    "anidb": "11625",
+    "anilist/anime": "102075",
+    "aozora": "3JhWP8s2yr",
+    "myanimelist/anime": "31586"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "alternative-days",
+  "synopsis": "MV for Elu the Elf's song, Alternative Days.",
+  "title": {
+    "en": "Alternative Days",
+    "jp": "Alternative Days"
+  },
+  "releasedAt": "2020-01-19T00:00:00.000Z",
+  "finishedAt": "2020-01-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43891/original.jpg",
+  "categories": [
+    "elf",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=q7NYJ_RrV6k&ab_channel=%E3%82%A8%E3%83%AB%E3%83%95%E3%81%AE%E3%81%88%E3%82%8B%2F%E3%81%AB%E3%81%98%E3%81%95%E3%82%93%E3%81%98%E6%89%80%E5%B1%9E"
+  ],
+  "relations": {
+    "kitsu": "43891"
+  }
+}

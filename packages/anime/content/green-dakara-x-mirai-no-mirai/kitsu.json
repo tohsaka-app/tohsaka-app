@@ -1,0 +1,22 @@
+{
+  "slug": "green-dakara-x-mirai-no-mirai",
+  "synopsis": "A collaboration between SUNTORY's drink brand Green Dakara and the Mirai no Mirai anime film.",
+  "title": {
+    "jp": "Green Dakara x Mirai no Mirai"
+  },
+  "releasedAt": "2018-07-13T00:00:00.000Z",
+  "finishedAt": "2018-07-13T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41885/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41885",
+    "anilist/anime": "145850",
+    "myanimelist/anime": "38028"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "feed",
+  "synopsis": "Four housekeepers package and prepare meals for children. The children feed the livestock, which are to be used for their meals. This repeats the cycle.",
+  "title": {
+    "jp": "Feed"
+  },
+  "releasedAt": "2015-03-31T00:00:00.000Z",
+  "finishedAt": "2015-03-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43480/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=ZcHsd1QAZXc"
+  ],
+  "relations": {
+    "kitsu": "43480",
+    "anilist/anime": "119109",
+    "myanimelist/anime": "40499"
+  }
+}

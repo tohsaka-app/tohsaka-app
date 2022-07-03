@@ -1,0 +1,31 @@
+{
+  "slug": "kimetsu-no-yaiba-hashira-gou-kaigi-chouyashiki-hen",
+  "synopsis": "Compilation movie of episodes 22-26 with some new footage and a special ending credits roll.",
+  "title": {
+    "en": "Demon Slayer: Kimetsu no Yaiba The Hashira Meeting Arc",
+    "jp": "Kimetsu no Yaiba: Hashira Gou Kaigi - Chouyashiki Hen"
+  },
+  "releasedAt": "2020-12-20T00:00:00.000Z",
+  "finishedAt": "2020-12-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44390/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44390/original.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "historical",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/demon-slayer-kimetsu-no-yaiba/"
+  ],
+  "relations": {
+    "kitsu": "44390",
+    "anidb": "16258"
+  }
+}

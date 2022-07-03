@@ -1,0 +1,31 @@
+{
+  "slug": "rpg-fudousan",
+  "synopsis": "The story begins 15 years after the demon king was defeated and the world has become peaceful. Kotone, who graduated from school and became a magician, inquired the kingdom-affiliated RPG Real Estate in order to find a new home. In reality, RPG Real Estate was Kotone's place of employment, and together with Fa, a demi-human, the priest Rufuria, and the soldier Rakira, they help support the searches of new homes for the customers with various circumstances.\n\n(Source: MU)",
+  "title": {
+    "en": "RPG Real Estate",
+    "jp": "RPG Fudousan"
+  },
+  "releasedAt": "2022-04-06T00:00:00.000Z",
+  "finishedAt": "2022-06-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44376/poster_image/3e42026a9c6c9d4d854dfb13d0eb731c.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44376/cover_image/f80174baf7ac5d6b91e3a9e302e7bc7b.png",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "seinen",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/rpg-real-estate"
+  ],
+  "relations": {
+    "kitsu": "44376",
+    "anidb": "16078",
+    "anilist/anime": "130319",
+    "myanimelist/anime": "48363"
+  }
+}

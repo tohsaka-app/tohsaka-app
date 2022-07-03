@@ -1,0 +1,27 @@
+{
+  "slug": "around",
+  "synopsis": "A multiple award-winning, dynamic and powerful short animation about a day of a guy. About perspectives and similarities. About nearby and distant, small and large. Around our world.",
+  "title": {
+    "jp": "Around"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8223/original.jpg",
+  "categories": [
+    "earth",
+    "present",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8223",
+    "anidb": "11024",
+    "anilist/anime": "19233",
+    "aozora": "fa8roova9f",
+    "myanimelist/anime": "19233"
+  }
+}

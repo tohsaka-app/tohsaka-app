@@ -1,0 +1,27 @@
+{
+  "slug": "love-stage-ova",
+  "synopsis": "Bundled with volume five of manga.",
+  "title": {
+    "jp": "Love Stage!!: Chotto Janakutte"
+  },
+  "releasedAt": "2014-11-22T00:00:00.000Z",
+  "finishedAt": "2014-11-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8730/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8730/original.png",
+  "categories": [
+    "comedy",
+    "romance",
+    "shounen ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8730",
+    "anidb": "10575",
+    "anilist/anime": "20960",
+    "aozora": "Ly3l05Osrr",
+    "myanimelist/anime": "23441"
+  }
+}

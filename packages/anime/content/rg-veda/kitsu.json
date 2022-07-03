@@ -1,0 +1,31 @@
+{
+  "slug": "rg-veda",
+  "synopsis": "At the dawn of time, the gods ruled the universe under the leadership of the mighty Tentei. But suddenly, the ferocious general, Taishakuten, appears, and destroys Tentei. Taishakuten declares that a new age has begun, and all who oppose him will die horribly. But legend says that a shimmering six-pointed star will rise into the heavens and restore the world to a golden age. The six points are six warriors, each with the power to move the stars and the hearts of all people... \n(Source: ANN)",
+  "title": {
+    "en": "RG Veda",
+    "jp": "RG Veda"
+  },
+  "releasedAt": "1991-06-01T00:00:00.000Z",
+  "finishedAt": "1992-06-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/402/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/402/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "shoujo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "402",
+    "anidb": "465",
+    "anilist/anime": "439",
+    "aozora": "RNzdJqH3xF",
+    "myanimelist/anime": "439"
+  }
+}

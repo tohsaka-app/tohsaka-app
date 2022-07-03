@@ -1,0 +1,25 @@
+{
+  "slug": "sprechchor",
+  "synopsis": "Animated music video for Roselia's Sprechchor. It was first released on July 21, 2021 on BanG Dream's official YouTube and was later included in the Blu-ray for the movie BanG Dream! Episode of Roselia II: Song I am.\n\n(Source: A-L)",
+  "title": {
+    "jp": "Sprechchor"
+  },
+  "releasedAt": "2021-07-21T00:00:00.000Z",
+  "finishedAt": "2021-07-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45712/poster_image/fd9571e80c16e7de1a48a6780c3a8b1f.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45712/cover_image/c6cd9e469903afb256c541eef76a80a7.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=sdRwP4OjVn4"
+  ],
+  "relations": {
+    "kitsu": "45712",
+    "anilist/anime": "142963"
+  }
+}

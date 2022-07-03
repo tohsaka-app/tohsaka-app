@@ -1,0 +1,40 @@
+{
+  "slug": "uchuu-senkan-yamato",
+  "synopsis": "In the distant future, the war between the human race and the Gamilon has taken its toll on the planet Earth. Constant bombardment of radioactive asteroids has rendered the planet's atmosphere uninhabitable. As a means of relief aid, Queen Starsha of the planet Iscandar offers the Earth Forces a device that can completely neutralize the radiation off the planet. For this task, the space battleship Yamato is launched from the remains of its World War II ancestor on a 148,000 light-year journey. However, the crew of the Yamato has only one Earth year to travel to Iscandar and back, or the human race will come to an end.\n(Source: ANN)",
+  "title": {
+    "en": "Star Blazers: The Quest for Iscandar",
+    "jp": "Uchuu Senkan Yamato"
+  },
+  "releasedAt": "1974-10-06T00:00:00.000Z",
+  "finishedAt": "1975-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1483/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1483/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "humanoid alien",
+    "military",
+    "plot continuity",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space opera",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1483",
+    "anidb": "648",
+    "anilist/anime": "1650",
+    "aozora": "yMYd4sCSnn",
+    "myanimelist/anime": "1650",
+    "thetvdb": "85230/1",
+    "thetvdb/season": "41147",
+    "thetvdb/series": "85230",
+    "trakt": "13281"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "the-lamp-man",
+  "synopsis": "Short animation produced and planned by the Live2D Creative Studio design team.\n\n\"The Lamp Man\" was the first Live2D short animation work produced by Live2D Creative Studio. It was the winner at the 16th Indie Anime Festa 2018 Grand Prix.\n\n(Source: Myanimelist)",
+  "title": {
+    "jp": "The Lamp Man"
+  },
+  "releasedAt": "2017-12-03T00:00:00.000Z",
+  "finishedAt": "2017-12-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45158/original.jpg",
+  "categories": [
+    "fantasy",
+    "mystery"
+  ],
+  "externals": [
+    "https://youtu.be/gVuuVwKVE_8"
+  ],
+  "relations": {
+    "kitsu": "45158",
+    "anilist/anime": "139082",
+    "myanimelist/anime": "39335"
+  }
+}

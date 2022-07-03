@@ -1,0 +1,31 @@
+{
+  "slug": "kurogane-no-linebarrels-specials",
+  "synopsis": "Episodes 25 &amp; 26, added to DVD.",
+  "title": {
+    "en": "Linebarrels of Iron",
+    "jp": "Kurogane no Linebarrels Specials"
+  },
+  "releasedAt": "2009-08-26T00:00:00.000Z",
+  "finishedAt": "2009-11-14T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3171/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "ecchi",
+    "mecha"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/linebarrels-of-iron",
+    "http://www.funimation.com/shows/linebarrels-of-iron/videos/episodes",
+    "http://www.hulu.com/linebarrels-of-iron"
+  ],
+  "relations": {
+    "kitsu": "3171",
+    "anilist/anime": "7540",
+    "aozora": "A6WTa3xr3T",
+    "myanimelist/anime": "7540"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "ginga-eiyuu-densetsu-die-neue-these-gekitotsu",
+  "synopsis": "Continuation of the Ginga Eiyuu Densetsu: Die Neue These series.",
+  "title": {
+    "en": "Legend of the Galactic Heroes: Die Neue These - Clash",
+    "jp": "Ginga Eiyuu Densetsu: Die Neue These - Gekitotsu"
+  },
+  "releasedAt": "2022-03-17T00:00:00.000Z",
+  "finishedAt": "2022-06-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44169/poster_image/03cb061068d7f4ccfbef94b6d1c25de4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220703%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220703T141425Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7b064e6b5742538415a166d0a984a9ab47681eec2f992591572b129a00895e9a",
+  "coverUrl": "https://media.kitsu.io/anime/44169/cover_image/3da6b35861b63c27de9ba6862bc3a948.png",
+  "categories": [
+    "action",
+    "military",
+    "politics",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space battles",
+    "war"
+  ],
+  "externals": [
+    "crunchyroll.com/series/GRW4DXNEY/legend-of-the-galactic-heroes-die-neue-these",
+    "https://www.funimation.com/shows/legend-of-the-galactic-heroes-die-neue-these/"
+  ],
+  "relations": {
+    "kitsu": "44169",
+    "anidb": "15728",
+    "anilist/anime": "124032",
+    "myanimelist/anime": "42886"
+  }
+}

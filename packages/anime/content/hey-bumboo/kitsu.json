@@ -1,0 +1,31 @@
+{
+  "slug": "hey-bumboo",
+  "synopsis": "Bumboo is a very strange car-like creature with a cute yellow body. He was born from a mysterious egg at an automobile factory. Having heard the first cries of a newborn baby, a boy named Ken comes to the factory and meets Bumboo. They soon become good friends and set out on their exciting journey.\nTraveling the world with his four-wheeled friend and Mister the dog, Ken faces big trouble from Doctor Monkey—who wants to get Bumboo into his own hands—but finds thrills and excitement around every corner.\n(Source: AniDB)",
+  "title": {
+    "en": "Bumpety Boo",
+    "jp": "Hey! Bumboo"
+  },
+  "releasedAt": "1985-04-08T00:00:00.000Z",
+  "finishedAt": "1986-04-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3007/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids",
+    "motorsport"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3007",
+    "anidb": "2705",
+    "anilist/anime": "3434",
+    "aozora": "2ErpbAG8wS",
+    "myanimelist/anime": "3434",
+    "thetvdb": "274383/1",
+    "thetvdb/series": "274383",
+    "trakt": "74980"
+  }
+}

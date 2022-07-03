@@ -1,0 +1,24 @@
+{
+  "slug": "tokyo-fantasia",
+  "synopsis": "A musical animated film by G9+1, a group of veteran animators. It won the Tokyo Anime Award in 2010.",
+  "title": {
+    "jp": "Tokyo Fantasia"
+  },
+  "releasedAt": "2010-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10443/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10443",
+    "anilist/anime": "103163",
+    "aozora": "aZSaL3GJqZ",
+    "myanimelist/anime": "29780"
+  }
+}

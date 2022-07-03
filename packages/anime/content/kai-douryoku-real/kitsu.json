@@ -1,0 +1,23 @@
+{
+  "slug": "kai-douryoku-real",
+  "synopsis": "Montage of the human body fusing stop-motion and computer animation into a bizzare scifi representation. It was shown at the Japanese Media Arts Festival and got the Excellence Award. And it won the Special Jury Prize in the Off Theatre Competition at the 10th Yubari International Fantastic Film Festival.",
+  "title": {
+    "jp": "Kai Douryoku Real"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10277/original.jpg",
+  "categories": [
+    "dementia",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10277",
+    "aozora": "N2fvIgaaJG",
+    "myanimelist/anime": "29383"
+  }
+}

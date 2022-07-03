@@ -1,0 +1,27 @@
+{
+  "slug": "touch-2-sayonara-no-okurimono",
+  "synopsis": "Compilation movie of the second year of the Touch timeline. Plotwise, the movie doesn't have much to do with the series second year.\n(Source: AniDB)",
+  "title": {
+    "jp": "Touch 2: Sayonara no Okurimono"
+  },
+  "releasedAt": "1986-12-13T00:00:00.000Z",
+  "finishedAt": "1986-12-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2262/original.jpg",
+  "categories": [
+    "action",
+    "baseball",
+    "romance",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2262",
+    "anidb": "2557",
+    "anilist/anime": "2492",
+    "aozora": "IfLFTLXQRc",
+    "myanimelist/anime": "2492"
+  }
+}

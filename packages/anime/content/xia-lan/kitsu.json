@@ -1,0 +1,20 @@
+{
+  "slug": "xia-lan",
+  "synopsis": "",
+  "title": {
+    "jp": "Xia Lan"
+  },
+  "releasedAt": "2012-01-29T00:00:00.000Z",
+  "finishedAt": "2016-07-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41509/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41509",
+    "anilist/anime": "102156",
+    "myanimelist/anime": "34129"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "shokugeki-no-souma-ni-no-sara",
+  "synopsis": "The second season of Shokugeki no Souma.",
+  "title": {
+    "en": "Food Wars! The Second Plate",
+    "jp": "Shokugeki no Souma: Ni no Sara"
+  },
+  "releasedAt": "2016-07-02T00:00:00.000Z",
+  "finishedAt": "2016-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11612/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11612/original.jpg",
+  "categories": [
+    "cooking",
+    "ecchi",
+    "school life",
+    "shounen"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/food-wars-shokugeki-no-soma",
+    "https://www.hidive.com/tv/food-wars-the-second-plate",
+    "https://www.hulu.com/food-wars"
+  ],
+  "relations": {
+    "kitsu": "11612",
+    "anidb": "11828",
+    "anilist/anime": "21518",
+    "aozora": "aex5Ok61sY",
+    "myanimelist/anime": "32282",
+    "thetvdb": "289909",
+    "trakt": "94084"
+  }
+}

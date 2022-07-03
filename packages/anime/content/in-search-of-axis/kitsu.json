@@ -1,0 +1,23 @@
+{
+  "slug": "in-search-of-axis",
+  "synopsis": "Polygon Pictures Inc.'s first animated work.",
+  "title": {
+    "en": "In Search of Axis",
+    "jp": "In Search of Axis"
+  },
+  "releasedAt": "1989-01-01T00:00:00.000Z",
+  "finishedAt": "1991-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12905/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12905",
+    "anilist/anime": "102567",
+    "myanimelist/anime": "34720"
+  }
+}

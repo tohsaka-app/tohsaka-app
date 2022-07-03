@@ -1,0 +1,25 @@
+{
+  "slug": "irodorimidori-episode-0-change-our-mirai",
+  "synopsis": "Irodorimidori: Change Our Mirai! extra animated in manga style.",
+  "title": {
+    "en": null,
+    "jp": "Irodorimidori Episode 0: Change Our Mirai!"
+  },
+  "releasedAt": "2015-07-16T00:00:00.000Z",
+  "finishedAt": "2015-07-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11301/original.jpg",
+  "categories": [
+    "comedy",
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11301",
+    "aozora": "RKBUuyaULw",
+    "myanimelist/anime": "31306"
+  }
+}

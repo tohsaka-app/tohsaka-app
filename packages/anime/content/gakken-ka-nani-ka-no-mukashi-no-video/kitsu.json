@@ -1,0 +1,25 @@
+{
+  "slug": "gakken-ka-nani-ka-no-mukashi-no-video",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Gakken no Zunou Kaihatsu Video"
+  },
+  "releasedAt": "1992-01-01T00:00:00.000Z",
+  "finishedAt": "1992-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11709/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11709",
+    "anidb": "11656",
+    "aozora": "dPBz4kpKnI",
+    "myanimelist/anime": "31694"
+  }
+}

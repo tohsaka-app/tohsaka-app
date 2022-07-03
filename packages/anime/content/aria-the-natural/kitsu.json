@@ -1,0 +1,39 @@
+{
+  "slug": "aria-the-natural",
+  "synopsis": "Akari, Aika and Alice are three girls who share a single dream: to become the most talented gondoliers in all of Neo-Venezia! Every day they train toward their goal, exploring all the wondrous sights that the water-covered planet Aqua has to offer. Whether it's spending a wild day at Carnevale, sharing a beautiful sunset, or even crossing paths with the mysterious spirits that dwell in Aqua's shadows, for these three friends, each day is a new adventure!\n\n(Source: Right Stuf)",
+  "title": {
+    "en": "Aria The Natural",
+    "jp": "Aria The Natural"
+  },
+  "releasedAt": "2006-04-03T00:00:00.000Z",
+  "finishedAt": "2006-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/852/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/852/original.png",
+  "categories": [
+    "fantasy",
+    "future",
+    "mars",
+    "other planet",
+    "science fiction",
+    "slice of life",
+    "space"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/aria-the-animation",
+    "https://tubitv.com/series/2344/aria"
+  ],
+  "relations": {
+    "kitsu": "852",
+    "anidb": "4243",
+    "anilist/anime": "962",
+    "aozora": "X74MeMRd3t",
+    "myanimelist/anime": "962",
+    "thetvdb": "79839/2",
+    "thetvdb/season": "30656",
+    "thetvdb/series": "79839",
+    "trakt": "61720"
+  }
+}

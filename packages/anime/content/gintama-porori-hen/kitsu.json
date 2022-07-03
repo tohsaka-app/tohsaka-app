@@ -1,0 +1,34 @@
+{
+  "slug": "gintama-porori-hen",
+  "synopsis": "Sixth season of Gintama.",
+  "title": {
+    "en": "Gintama.: Slip Arc",
+    "jp": "Gintama.: Porori-hen"
+  },
+  "releasedAt": "2017-10-02T00:00:00.000Z",
+  "finishedAt": "2017-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13726/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/13726/cover_image/03e4475bcf48b0547b51d059e2795bdb.png",
+  "categories": [
+    "action",
+    "comedy",
+    "historical",
+    "parody",
+    "samurai",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/gintama"
+  ],
+  "relations": {
+    "kitsu": "13726",
+    "anidb": "13263",
+    "anilist/anime": "99714",
+    "aozora": "R7GGAKAuYO",
+    "myanimelist/anime": "35843",
+    "thetvdb": "79895/9"
+  }
+}

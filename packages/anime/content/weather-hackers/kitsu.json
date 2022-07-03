@@ -1,0 +1,25 @@
+{
+  "slug": "weather-hackers",
+  "synopsis": "MV for the song Weather Hackers☆ by Kiryu Coco.",
+  "title": {
+    "en": "Weather Hackers☆",
+    "jp": "Weather Hackers☆"
+  },
+  "releasedAt": "2021-06-27T00:00:00.000Z",
+  "finishedAt": "2021-06-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44827/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44827/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=khRDaLiyGdA"
+  ],
+  "relations": {
+    "kitsu": "44827"
+  }
+}

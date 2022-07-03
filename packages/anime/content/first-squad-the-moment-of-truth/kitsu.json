@@ -1,0 +1,42 @@
+{
+  "slug": "first-squad-the-moment-of-truth",
+  "synopsis": "First Squad is set during the opening days of World War II on the Eastern Front. Its main cast are a group of Soviet teenagers with extraordinary abilities; the teenagers have been drafted to form a special unit to fight the invading German army. They are opposed by a Schutzstaffel (SS) officer who is attempting to raise from the dead a supernatural army of crusaders from the 12th-century Order of the Sacred Cross and enlist them in the Nazi cause.\n(Source: ANN)",
+  "title": {
+    "en": "First Squad: The Moment of Truth",
+    "jp": "First Squad: The Moment of Truth"
+  },
+  "releasedAt": "2009-05-13T00:00:00.000Z",
+  "finishedAt": "2009-05-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3968/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3968/original.jpg",
+  "categories": [
+    "action",
+    "alternative past",
+    "asia",
+    "earth",
+    "fantasy",
+    "gunfights",
+    "historical",
+    "magic",
+    "military",
+    "russia",
+    "special squads",
+    "super power",
+    "swordplay",
+    "war",
+    "world war ii"
+  ],
+  "externals": [
+    "http://tubitv.com/movies/283900/first_squad"
+  ],
+  "relations": {
+    "kitsu": "3968",
+    "anidb": "4401",
+    "anilist/anime": "5178",
+    "aozora": "PqagK2jIrP",
+    "myanimelist/anime": "5178"
+  }
+}

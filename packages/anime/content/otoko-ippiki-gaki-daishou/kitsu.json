@@ -1,0 +1,30 @@
+{
+  "slug": "otoko-ippiki-gaki-daishou",
+  "synopsis": "TV anime adaptation of Motomiya Hiroshi's manga \"Otoko Ippiki Gaki Daishou\" about young gang leader and all the trouble and fights his gang gets into, serialized in Weekly Shonen Jump.\n(Source: AniDB)",
+  "title": {
+    "jp": "Otoko Ippiki Gaki Daishou"
+  },
+  "releasedAt": "1969-09-29T00:00:00.000Z",
+  "finishedAt": "1970-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9172/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "friendship",
+    "middle school",
+    "shounen",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9172",
+    "anidb": "6956",
+    "anilist/anime": "17467",
+    "aozora": "wyxesjgrua",
+    "myanimelist/anime": "17467"
+  }
+}

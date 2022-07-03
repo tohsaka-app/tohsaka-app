@@ -1,0 +1,24 @@
+{
+  "slug": "shining-hearts-shiawase-no-pan-kokoro-ga-todoita-picture-drama",
+  "synopsis": "Picture dramas included in the Blu-ray/DVD volumes.",
+  "title": {
+    "en": "Shining Hearts: Bread of Happiness Picture Drama",
+    "jp": "Shining Hearts: Shiawase no Pan - Kokoro ga Todoita Picture Drama"
+  },
+  "releasedAt": "2012-07-27T00:00:00.000Z",
+  "finishedAt": "2012-12-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7304/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7304",
+    "anilist/anime": "15769",
+    "aozora": "trKsbllXyI",
+    "myanimelist/anime": "15769"
+  }
+}

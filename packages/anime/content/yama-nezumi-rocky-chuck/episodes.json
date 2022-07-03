@@ -1,0 +1,423 @@
+[
+  {
+    "title": {
+      "jp": "Spring comes to the Green Forest"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2013-01-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Johnny grows up"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2013-01-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Johnny builds his home"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2013-01-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Huge tracks in the forest"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2013-01-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Buster the bear comes to the Green Forest"
+    },
+    "season": 1,
+    "number": 5,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The monster of Poplar Hill "
+    },
+    "season": 1,
+    "number": 6,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mischeavous Chatterer"
+    },
+    "season": 1,
+    "number": 7,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Paddy Beaver comes to the forest"
+    },
+    "season": 1,
+    "number": 8,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The troublesome four "
+    },
+    "season": 1,
+    "number": 9,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Bob the Quail"
+    },
+    "season": 1,
+    "number": 10,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sammy's revenge"
+    },
+    "season": 1,
+    "number": 11,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Johnny's secret door"
+    },
+    "season": 1,
+    "number": 12,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A gun in the forest"
+    },
+    "season": 1,
+    "number": 13,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Peter the Rabbit of Thorn Estate"
+    },
+    "season": 1,
+    "number": 14,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "No title"
+    },
+    "season": 1,
+    "number": 15,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Bobby Racoon is captured"
+    },
+    "season": 1,
+    "number": 16,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Paddy builds a dream house "
+    },
+    "season": 1,
+    "number": 17,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Poor Mrs. Quack "
+    },
+    "season": 1,
+    "number": 18,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Search for Mr. Quack"
+    },
+    "season": 1,
+    "number": 19,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "No title"
+    },
+    "season": 1,
+    "number": 20,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sammy gets mocked"
+    },
+    "season": 1,
+    "number": 21,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The big commotion in the forest"
+    },
+    "season": 1,
+    "number": 22,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Buster the hero "
+    },
+    "season": 1,
+    "number": 23,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Traps in the forest "
+    },
+    "season": 1,
+    "number": 24,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Peter plays a prank "
+    },
+    "season": 1,
+    "number": 25,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Early to rise "
+    },
+    "season": 1,
+    "number": 26,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mr. Condor comes to the forest"
+    },
+    "season": 1,
+    "number": 27,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The secret of Mr. Condor / Mrs. Condor hatches her eggs "
+    },
+    "season": 1,
+    "number": 28,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fox meets coyote "
+    },
+    "season": 1,
+    "number": 29,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Coyote is the smartest "
+    },
+    "season": 1,
+    "number": 30,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Longlegs the heron "
+    },
+    "season": 1,
+    "number": 31,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The importance of Paddy's dam "
+    },
+    "season": 1,
+    "number": 32,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Bobby & Blackie Crow"
+    },
+    "season": 1,
+    "number": 33,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Grandfather Frog leaves the forest"
+    },
+    "season": 1,
+    "number": 34,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Entrapped"
+    },
+    "season": 1,
+    "number": 35,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Who's a Coward"
+    },
+    "season": 1,
+    "number": 36,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Lost in the Green Forest"
+    },
+    "season": 1,
+    "number": 37,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Running Amok"
+    },
+    "season": 1,
+    "number": 38,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Big Boast"
+    },
+    "season": 1,
+    "number": 39,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rogue"
+    },
+    "season": 1,
+    "number": 40,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Uncle Billy Regrets"
+    },
+    "season": 1,
+    "number": 41,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Captive Chatterer"
+    },
+    "season": 1,
+    "number": 42,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Peter Changes His Name"
+    },
+    "season": 1,
+    "number": 43,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tom and Bob the Quail"
+    },
+    "season": 1,
+    "number": 44,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Insidiousness"
+    },
+    "season": 1,
+    "number": 45,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sammy Learns a Lesson"
+    },
+    "season": 1,
+    "number": 46,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Gift Buster Left Behind"
+    },
+    "season": 1,
+    "number": 47,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Peter the Imitator"
+    },
+    "season": 1,
+    "number": 48,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Danny in the Snow"
+    },
+    "season": 1,
+    "number": 49,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Peter and the Peach Tree"
+    },
+    "season": 1,
+    "number": 50,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Whose Footprint is the Other One?"
+    },
+    "season": 1,
+    "number": 51,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Johnny's Hibernation"
+    },
+    "season": 1,
+    "number": 52,
+    "releasedAt": "1973-12-30T00:00:00.000Z",
+    "content": {}
+  }
+]

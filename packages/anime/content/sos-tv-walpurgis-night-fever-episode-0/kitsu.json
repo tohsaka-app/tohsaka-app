@@ -1,0 +1,24 @@
+{
+  "slug": "sos-tv-walpurgis-night-fever-episode-0",
+  "synopsis": "Episode 0 of SOS TV Walpurgis Night Fever, introducing the characters and the world.",
+  "title": {
+    "jp": "SOS TV Walpurgis Night Fever Episode 0"
+  },
+  "releasedAt": "2010-04-13T00:00:00.000Z",
+  "finishedAt": "2010-04-13T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5453/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5453",
+    "anilist/anime": "8710",
+    "aozora": "hVuoUikpgt",
+    "myanimelist/anime": "8710"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "tokyo-gurashi",
+  "synopsis": "A parody opening for a spin-off of Gakkougurashi!, starring the characters from the visual novel Tokyo Necro by Nitro+.",
+  "title": {
+    "en": "Tokyo-Live!",
+    "jp": "Tokyogurashi!"
+  },
+  "releasedAt": "2016-04-01T00:00:00.000Z",
+  "finishedAt": "2016-04-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12036/original.jpg",
+  "categories": [
+    "comedy",
+    "future",
+    "music",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12036",
+    "anidb": "12078",
+    "anilist/anime": "106606",
+    "aozora": "SJ7QIGCjlN",
+    "myanimelist/anime": "33119"
+  }
+}

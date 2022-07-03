@@ -1,0 +1,39 @@
+{
+  "slug": "hakuouki-sekkaroku",
+  "synopsis": "This OVA takes place in between episodes 8 and 9 of the first season of Hakuouki.\nYukimura Chizuru goes on a reconnaissance mission in Shimabara as a geiko for the Shinsengumi. Each episode unfolds the events of the days leading up to, during, and after the operation. It intermittently reveals each captain's involvement as well as that of a few demons in the affair. Each individual episode primarily focuses from the third person perspectives of: Okita Souji, Saito Hajime, Harada Sanosuke, Toudou Heisuke, Hijikata Toshizo, and Kazama Chikage.",
+  "title": {
+    "en": "Hakuoki ~Demon of the Fleeting Blossom~ A Memory of Snow Flowers",
+    "jp": "Hakuouki Sekkaroku"
+  },
+  "releasedAt": "2011-08-05T00:00:00.000Z",
+  "finishedAt": "2012-06-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6141/original.jpg",
+  "categories": [
+    "action",
+    "bakumatsu   meiji period",
+    "bishounen",
+    "demon",
+    "fantasy",
+    "historical",
+    "japan",
+    "josei",
+    "past",
+    "reverse harem",
+    "samurai",
+    "shinsengumi",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6141",
+    "anidb": "8268",
+    "anilist/anime": "10350",
+    "aozora": "0c3c5p1DiN",
+    "myanimelist/anime": "10350",
+    "thetvdb": "151281",
+    "trakt": "44073"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "gear-fighter-dendoh",
+  "synopsis": "The story takes place in the future where war machines from evil mechanical alien empire Garufa finally reaches Earth. In order to protect earth, an Earth defense organization called GEAR (Guard Earth and Advanced Reconnaissance) is formed. GEAR has an ultimate weapon in a form of war mecha, GEAR Fighter Dendoh, which is piloted by two elementary school students, namely Kusanagi Hokuto and Izumo Ginga. Can the friendship between Hokuto and Ginga unleashed the full potential power of Dendoh in order to fight Garufa? \n(Source: AniDB)",
+  "title": {
+    "jp": "Gear Fighter Dendoh"
+  },
+  "releasedAt": "2000-10-04T00:00:00.000Z",
+  "finishedAt": "2001-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2254/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "robot",
+    "school life",
+    "science fiction",
+    "space",
+    "super robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2254",
+    "anidb": "606",
+    "anilist/anime": "2484",
+    "aozora": "XbwX2bGVW8",
+    "myanimelist/anime": "2484",
+    "thetvdb": "81437/1",
+    "thetvdb/series": "81437",
+    "trakt": "34531"
+  }
+}

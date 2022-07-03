@@ -1,0 +1,22 @@
+{
+  "slug": "nikukyuu-no-uta",
+  "synopsis": "A song about a man who loves paws too much.\n",
+  "title": {
+    "jp": "Nikukyuu no Uta"
+  },
+  "releasedAt": "2014-04-01T00:00:00.000Z",
+  "finishedAt": "2014-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41187/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41187",
+    "myanimelist/anime": "37689"
+  }
+}

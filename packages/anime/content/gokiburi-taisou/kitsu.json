@@ -1,0 +1,26 @@
+{
+  "slug": "gokiburi-taisou",
+  "synopsis": "Female humanoid cockroaches do calisthenics (though resembling normal dancing more).",
+  "title": {
+    "en": "Cockroach Calisthenics",
+    "jp": "Gokiburi Taisou"
+  },
+  "releasedAt": "2017-08-07T00:00:00.000Z",
+  "finishedAt": "2017-08-07T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14001/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "music",
+    "sports",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14001",
+    "anilist/anime": "103373",
+    "myanimelist/anime": "36157"
+  }
+}

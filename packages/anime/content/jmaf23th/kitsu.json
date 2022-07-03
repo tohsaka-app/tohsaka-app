@@ -1,0 +1,23 @@
+{
+  "slug": "jmaf23th",
+  "synopsis": "Animated introduction for Japan Media Arts Festival 2019.",
+  "title": {
+    "en": "JMAF23th",
+    "jp": "JMAF23th"
+  },
+  "releasedAt": "2019-09-05T00:00:00.000Z",
+  "finishedAt": "2019-09-05T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45502/poster_image/2fc308979caecbf3bbc41dab0492bb7b.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45502",
+    "anilist/anime": "138993",
+    "myanimelist/anime": "42845"
+  }
+}

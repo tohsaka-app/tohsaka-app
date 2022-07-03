@@ -1,0 +1,23 @@
+{
+  "slug": "inner-arts",
+  "synopsis": "Together with「I」and「A」",
+  "title": {
+    "en": "Inner Arts",
+    "jp": "Inner Arts"
+  },
+  "releasedAt": "2014-05-22T00:00:00.000Z",
+  "finishedAt": "2014-05-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45528/poster_image/3964c2552107b990b896c692a12a1d87.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=fJGT8cqZFRk"
+  ],
+  "relations": {
+    "kitsu": "45528"
+  }
+}

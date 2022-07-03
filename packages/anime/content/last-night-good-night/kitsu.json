@@ -1,0 +1,24 @@
+{
+  "slug": "last-night-good-night",
+  "synopsis": "Last Night, Good Night is a song featuring Hatsune Miku by kz of livetune with animation and illustrations by redjuice. The song was later compiled into the album Re:Dial.\n\nIt is the theme for the 2013 movie \"Jellyfish Eyes\" (\"Mememe no kurage\"), Takashi Murakami's first feature film.",
+  "title": {
+    "en": "Last Night, Good Night",
+    "jp": "Last Night, Good Night"
+  },
+  "releasedAt": "2008-07-31T00:00:00.000Z",
+  "finishedAt": "2008-07-31T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44441/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=T6mMMYSqlM4"
+  ],
+  "relations": {
+    "kitsu": "44441",
+    "anilist/anime": "130609"
+  }
+}

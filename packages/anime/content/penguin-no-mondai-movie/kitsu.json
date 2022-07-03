@@ -1,0 +1,25 @@
+{
+  "slug": "penguin-no-mondai-movie",
+  "synopsis": "Penguin no Mondai Movie.",
+  "title": {
+    "jp": "Penguin no Mondai Movie"
+  },
+  "releasedAt": "2009-09-19T00:00:00.000Z",
+  "finishedAt": "2009-09-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4405/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4405",
+    "anidb": "7092",
+    "anilist/anime": "6063",
+    "aozora": "I6cB996gQY",
+    "myanimelist/anime": "6063"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "tanbai-haru-tookaraji",
+  "synopsis": "An educational film about exclusion and isolation of people in Japan. Specifically aimed at adult isolation.",
+  "title": {
+    "jp": "Tanbai Haru, Tookaraji"
+  },
+  "releasedAt": "2010-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9656/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9656",
+    "anilist/anime": "121655",
+    "aozora": "XTK2yRcNxq",
+    "myanimelist/anime": "26093"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "saga-incident",
+  "synopsis": "Short music video for the track \"Saga Incident\" from the Zombieland Saga Best album.\n\nThe short version of the MV was release on October 18, 2019.",
+  "title": {
+    "jp": "Saga Incident"
+  },
+  "releasedAt": "2019-11-27T00:00:00.000Z",
+  "finishedAt": "2019-11-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43283/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43283",
+    "anilist/anime": "121035",
+    "myanimelist/anime": "40630"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "nameko-sekai-no-tomodachi",
+  "synopsis": "Nameko Forest gathers nameko from all over the world. They form the Nameko Universal Ranger (NUR) to convey the charm of the forest. It's an everyday life of inviting new nameko with unique personalities to the forests. What incident will happen today?",
+  "title": {
+    "jp": "Nameko: Sekai no Tomodachi"
+  },
+  "releasedAt": "2016-04-10T00:00:00.000Z",
+  "finishedAt": "2016-02-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11893/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11893",
+    "anidb": "11969",
+    "anilist/anime": "21680",
+    "aozora": "iuCgLgmafb",
+    "myanimelist/anime": "32876",
+    "trakt": "106491"
+  }
+}

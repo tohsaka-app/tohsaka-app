@@ -1,0 +1,23 @@
+{
+  "slug": "kyoka",
+  "synopsis": "A short animation by Naoki Yoshibe.",
+  "title": {
+    "en": "Kyoka",
+    "jp": "Kyoka"
+  },
+  "releasedAt": "2009-11-29T00:00:00.000Z",
+  "finishedAt": "2009-11-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44408/original.png",
+  "categories": [
+    "music",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44408"
+  }
+}

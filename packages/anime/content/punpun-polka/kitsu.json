@@ -1,0 +1,25 @@
+{
+  "slug": "punpun-polka",
+  "synopsis": "A music video for the song \"Punpun Polka\" by Hiroshi Ashino that was featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Punpun Polka"
+  },
+  "releasedAt": "1961-08-01T00:00:00.000Z",
+  "finishedAt": "1961-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12834/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12834",
+    "anidb": "12579",
+    "anilist/anime": "102378",
+    "aozora": "UA46b473HO",
+    "myanimelist/anime": "34406"
+  }
+}

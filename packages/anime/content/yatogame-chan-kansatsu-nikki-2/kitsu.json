@@ -1,0 +1,27 @@
+{
+  "slug": "yatogame-chan-kansatsu-nikki-2",
+  "synopsis": "Second season of Yatogame-chan Kansatsu Nikki.\n\nAfter growing up in Tokyo, high school student Jin Kaito moves to Nagoya where he meets Yatogame Monaka, a fellow student who puts her Nagoya dialect on full display. With her cat-like appearance and unvarnished Nagoya dialect, Yatogame won't open up to him at all. This popular local comedy is increasing the status of Nagoya through observation of the adorable Yatogame-chan!\n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Yatogame-chan Kansatsu Nikki Nisatsume"
+  },
+  "releasedAt": "2020-01-05T00:00:00.000Z",
+  "finishedAt": "2020-03-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42398/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "shounen",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/yatogame-chan-kansatsu-nikki"
+  ],
+  "relations": {
+    "kitsu": "42398",
+    "anilist/anime": "110090",
+    "myanimelist/anime": "39960"
+  }
+}

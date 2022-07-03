@@ -1,0 +1,37 @@
+{
+  "slug": "biohazard-4-incubate",
+  "synopsis": "After the Playstation port of Resident Evil 4 hit the stores Capcom released a new 97 minute DVD some time later which intended to summarize the whole story of Resident Evil 4. It's played on English audio with Japanese subtitles. It also included a little book which explains the life on El Pueblo before and the arrival of Osmund Saddler. It also solved some plot holes like the whereabouts of the children. It contains many of the scenes original to Resident Evil 4.\n(Source: Resident Evil Wiki)",
+  "title": {
+    "en": "Resident Evil 4: Incubate",
+    "jp": "Biohazard 4: Incubate"
+  },
+  "releasedAt": "2006-10-01T00:00:00.000Z",
+  "finishedAt": "2006-10-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5275/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5275/original.jpeg",
+  "categories": [
+    "action",
+    "cops",
+    "demon",
+    "earth",
+    "europe",
+    "gunfights",
+    "horror",
+    "military",
+    "mystery",
+    "present",
+    "thriller",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5275",
+    "anidb": "8750",
+    "anilist/anime": "8278",
+    "aozora": "apI5Jju2zF",
+    "myanimelist/anime": "8278"
+  }
+}

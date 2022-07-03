@@ -1,0 +1,27 @@
+{
+  "slug": "code-geass-hangyaku-no-lelouch-recaps",
+  "synopsis": "Recap episodes of Code Geass. Also known as episodes 8.5 and 17.5.",
+  "title": {
+    "jp": "Code Geass: Hangyaku no Lelouch Recaps"
+  },
+  "releasedAt": "2006-12-01T00:00:00.000Z",
+  "finishedAt": "2007-02-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1921/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "politics",
+    "school life",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1921",
+    "aozora": "8rYjHiSSaP",
+    "myanimelist/anime": "2124"
+  }
+}

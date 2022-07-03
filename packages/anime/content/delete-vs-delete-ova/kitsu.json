@@ -1,0 +1,19 @@
+{
+  "slug": "delete-vs-delete-ova",
+  "synopsis": "This is a deleted entry. The real version is here: https://kitsu.io/anime/haikyuu-vs-akaten",
+  "title": {
+    "jp": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40843/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40843",
+    "aozora": "WC01SOQJHL"
+  }
+}

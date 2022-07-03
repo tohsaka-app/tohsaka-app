@@ -1,0 +1,32 @@
+{
+  "slug": "dororo",
+  "synopsis": "In Japan's Warring States period, Lord Daigo Kagemitsu makes a pact with 12 demons, exchanging his unborn son for the prosperity of his lands. The child is born malformed and is set adrift in a river, while Kagemitsu's lands thrive as promised. Years later, young thief Dororo encounters the mysterious \"Hyakkimaru\", a boy whose arms are blades and whose visionless eyes seem able to see monsters.\n\n(Source: Amazon Prime Video)",
+  "title": {
+    "en": "Dororo",
+    "jp": "Dororo"
+  },
+  "releasedAt": "2019-01-07T00:00:00.000Z",
+  "finishedAt": "2019-06-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41083/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41083/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "historical",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.amazon.com/dp/B07MLLQL8J"
+  ],
+  "relations": {
+    "kitsu": "41083",
+    "anidb": "a13946",
+    "anilist/anime": "101347",
+    "myanimelist/anime": "37520"
+  }
+}

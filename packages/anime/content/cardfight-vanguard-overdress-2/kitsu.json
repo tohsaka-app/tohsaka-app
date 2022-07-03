@@ -1,0 +1,27 @@
+{
+  "slug": "cardfight-vanguard-overdress-2",
+  "synopsis": "After the sudden departure of a valuable friend, the future of Team Blackout is now uncertain. Yu-yu Kondou and Megumi Ookura feel frustrated for failing to prevent the inevitable, while the heavily involved Touya Ebata is trying his best to atone for past mistakes that led to this misfortune. But whatever they decide to do next, the members of Team Blackout know that they will always find their way back together through their precious card game, Cardfight Vanguard.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Cardfight!! Vanguard: overDress Season 2"
+  },
+  "releasedAt": "2021-10-04T00:00:00.000Z",
+  "finishedAt": "2021-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44521/poster_image/8157b4eea1058e008a7fc214f386f834.jpg",
+  "categories": [
+    "action",
+    "card games",
+    "proxy battles"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/cardfight-vanguard-overdress/",
+    "https://www.hidive.com/tv/cardfight-vanguard-overdress/season-2"
+  ],
+  "relations": {
+    "kitsu": "44521",
+    "anilist/anime": "128827",
+    "myanimelist/anime": "48862"
+  }
+}

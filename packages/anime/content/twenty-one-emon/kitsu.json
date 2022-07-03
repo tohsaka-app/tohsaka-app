@@ -1,0 +1,26 @@
+{
+  "slug": "twenty-one-emon",
+  "synopsis": "In 2018 a young boy named 21 Emon dreams of becoming a space pilot and exploring space in general. He is the heir to a long line of hotel owners, which dates back to the founder of during the Tokugawa shogunate. Since the Earth has become a planet visited by tourists from all over the space, 21 Emon has to help out his family's business or they'll go bankrupt.",
+  "title": {
+    "jp": "21 Emon"
+  },
+  "releasedAt": "1991-05-02T00:00:00.000Z",
+  "finishedAt": "1992-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4209/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4209",
+    "anidb": "4922",
+    "anilist/anime": "5628",
+    "aozora": "99HCL3iXAD",
+    "myanimelist/anime": "5628"
+  }
+}

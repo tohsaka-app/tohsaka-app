@@ -1,0 +1,26 @@
+{
+  "slug": "sagashimono-ona",
+  "synopsis": "A story about a girl who is lost\nlooking for her identity in the wild.\nIn the end she finds herself.\n\nTakuji Miyamoto directed and animated this short with music by sooogood!.\nShort film created with the idea of \"What do people feel when they visit the rich and grand nature of Hokkaido?\"\n\nThis short is currently being played at New Chitose Airport's International Terminal meeting space \"Digital Symbol.\"\n\n(Source: YouTube)",
+  "title": {
+    "en": "Something Lost",
+    "jp": "Sagashimono (ONA)"
+  },
+  "releasedAt": "2019-12-10T00:00:00.000Z",
+  "finishedAt": "2019-12-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43365/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=UU1-NhNBzcI"
+  ],
+  "relations": {
+    "kitsu": "43365",
+    "anilist/anime": "139040",
+    "myanimelist/anime": "40851"
+  }
+}

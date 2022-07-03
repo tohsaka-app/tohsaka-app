@@ -1,0 +1,23 @@
+{
+  "slug": "insomniac",
+  "synopsis": "Music video made by Ryo Okawara. Music by ALT.",
+  "title": {
+    "jp": "Insomniac"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10564/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10564",
+    "anilist/anime": "102676",
+    "aozora": "ioWWDAS3p9",
+    "myanimelist/anime": "29955"
+  }
+}

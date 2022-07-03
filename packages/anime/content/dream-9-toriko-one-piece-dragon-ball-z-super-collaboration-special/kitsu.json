@@ -1,0 +1,33 @@
+{
+  "slug": "dream-9-toriko-one-piece-dragon-ball-z-super-collaboration-special",
+  "synopsis": "Luffy, Toriko, Goku and their crews face off in a food competition. (Source: ANN)",
+  "title": {
+    "en": "Dream 9 Toriko & One Piece & Dragon Ball Z Super Collaboration Special",
+    "jp": "Dream 9 Toriko & One Piece & Dragon Ball Z Chou Collaboration Special!!"
+  },
+  "releasedAt": "2013-04-07T00:00:00.000Z",
+  "finishedAt": "2013-04-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7884/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7884/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "cooking",
+    "fantasy",
+    "friendship",
+    "martial arts",
+    "motorsport",
+    "pirate",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7884",
+    "animenewsnetwork": "15122"
+  }
+}

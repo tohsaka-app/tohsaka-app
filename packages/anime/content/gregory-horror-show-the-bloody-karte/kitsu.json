@@ -1,0 +1,29 @@
+{
+  "slug": "gregory-horror-show-the-bloody-karte",
+  "synopsis": "The fourth series, The Bloody Karte (presented as a side series on the DVDs) is a set of 12 stories about Catherine working in a mysterious hospital.  \n(Source: AniDB)",
+  "title": {
+    "jp": "Gregory Horror Show: The Bloody Karte"
+  },
+  "releasedAt": "2001-04-07T00:00:00.000Z",
+  "finishedAt": "2001-06-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6745/original.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "fantasy",
+    "horror",
+    "mystery",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6745",
+    "anidb": "8018",
+    "anilist/anime": "12485",
+    "aozora": "yxmZpfBcNH",
+    "myanimelist/anime": "12485"
+  }
+}

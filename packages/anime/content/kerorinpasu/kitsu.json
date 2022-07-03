@@ -1,0 +1,23 @@
+{
+  "slug": "kerorinpasu",
+  "synopsis": "Short animation by Rapparu.",
+  "title": {
+    "jp": "Kerorinpasu"
+  },
+  "releasedAt": "2011-02-14T00:00:00.000Z",
+  "finishedAt": "2011-02-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11878/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11878",
+    "anilist/anime": "104926",
+    "aozora": "y6g314FUx0",
+    "myanimelist/anime": "32293"
+  }
+}

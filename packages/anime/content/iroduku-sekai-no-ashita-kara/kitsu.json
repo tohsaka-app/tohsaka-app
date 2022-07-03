@@ -1,0 +1,29 @@
+{
+  "slug": "iroduku-sekai-no-ashita-kara",
+  "synopsis": "In a world in the future where magic is still a part of everyday life, 17-year-old Hitomi Tsukishiro, a descendant of a family of mages, lost the ability to see colors when young and has grown up into a girl devoid of emotion.\n\n(Source: Prime Video)",
+  "title": {
+    "en": "IRODUKU: The World in Colors",
+    "jp": "Iroduku Sekai no Ashita kara"
+  },
+  "releasedAt": "2018-10-06T00:00:00.000Z",
+  "finishedAt": "2018-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41101/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41101/original.jpg",
+  "categories": [
+    "magic",
+    "romance",
+    "school clubs",
+    "school life"
+  ],
+  "externals": [
+    "http://a.co/d/9hJEmKC"
+  ],
+  "relations": {
+    "kitsu": "41101",
+    "anilist/anime": "101316",
+    "myanimelist/anime": "37497"
+  }
+}

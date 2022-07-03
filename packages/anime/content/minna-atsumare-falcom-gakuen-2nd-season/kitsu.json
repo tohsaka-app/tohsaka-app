@@ -1,0 +1,31 @@
+{
+  "slug": "minna-atsumare-falcom-gakuen-2nd-season",
+  "synopsis": "The warriors who have been warped by the rampaging power of Justice have been summoned into the world of Xanadu. It is up to Dark Fact, a former villain, and principal Lappi to re-educate these students.\n(Source: AniDB)",
+  "title": {
+    "jp": "Minna Atsumare! Falcom Gakuen SC"
+  },
+  "releasedAt": "2015-01-04T00:00:00.000Z",
+  "finishedAt": "2015-03-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8853/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "parody",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8853",
+    "anidb": "10798",
+    "anilist/anime": "20822",
+    "aozora": "AfVos3wxsL",
+    "myanimelist/anime": "25999",
+    "thetvdb": "276347/2",
+    "thetvdb/season": "593995",
+    "thetvdb/series": "276347",
+    "trakt": "74648"
+  }
+}

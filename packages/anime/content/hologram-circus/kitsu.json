@@ -1,0 +1,26 @@
+{
+  "slug": "hologram-circus",
+  "synopsis": "MV for Omaru Polka's song, HOLOGRAM CIRCUS.",
+  "title": {
+    "jp": "HOLOGRAM CIRCUS"
+  },
+  "releasedAt": "2020-12-26T00:00:00.000Z",
+  "finishedAt": "2020-12-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43841/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43841/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=LQ_eazT56FA"
+  ],
+  "relations": {
+    "kitsu": "43841",
+    "anilist/anime": "127716",
+    "myanimelist/anime": "51091"
+  }
+}

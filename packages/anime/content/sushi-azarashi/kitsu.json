@@ -1,0 +1,24 @@
+{
+  "slug": "sushi-azarashi",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sushi Azarashi"
+  },
+  "releasedAt": "2001-01-20T00:00:00.000Z",
+  "finishedAt": "2001-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12843/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12843",
+    "anidb": "3356",
+    "aozora": "hOYAQgiCA9",
+    "myanimelist/anime": "34490"
+  }
+}

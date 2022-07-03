@@ -1,0 +1,31 @@
+{
+  "slug": "jujutsu-kaisen-movie-0",
+  "synopsis": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?\n\n(Source: Viz Media)",
+  "title": {
+    "en": "Jujutsu Kaisen 0",
+    "jp": "Jujutsu Kaisen 0"
+  },
+  "releasedAt": "2021-12-24T00:00:00.000Z",
+  "finishedAt": "2021-12-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44212/poster_image/a77559a7906747abee627cc2db970d77.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44212/cover_image/9239a33e07c80b7cbe1530de9304bc6a.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "demon",
+    "drama",
+    "fantasy",
+    "shounen",
+    "supernatural",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44212",
+    "anilist/anime": "131573",
+    "myanimelist/anime": "48561"
+  }
+}

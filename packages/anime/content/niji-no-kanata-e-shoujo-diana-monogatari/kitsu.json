@@ -1,0 +1,24 @@
+{
+  "slug": "niji-no-kanata-e-shoujo-diana-monogatari",
+  "synopsis": "The rare anime biography of Princess Diana from her birth to her early teen years. \n(Source: AniDB)",
+  "title": {
+    "jp": "Niji no Kanata e! Shoujo Diana Monogatari"
+  },
+  "releasedAt": "1986-05-01T00:00:00.000Z",
+  "finishedAt": "1986-05-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6681/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6681",
+    "anidb": "3581",
+    "anilist/anime": "12165",
+    "aozora": "5GPLL6O6uU",
+    "myanimelist/anime": "12165"
+  }
+}

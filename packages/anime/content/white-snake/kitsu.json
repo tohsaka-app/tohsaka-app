@@ -1,0 +1,30 @@
+{
+  "slug": "white-snake",
+  "synopsis": "One day a young woman named Blanca is saved by Xuan, a snake catcher from a nearby village. She has lost her memory, and together they go on a journey to discover her real identity, developing deeper feelings for one another along the way. But as they learn more about her past, they uncover a darker plot of supernatural forces vying for power, with the fate of the world hanging in the balance. Conceived as a prequel to one of the most ancient and enduring stories in Chinese history, White Snake presents a sumptuous tale of trickster demons, deadly mythical beasts, assassins, wuxia action, and the promise of eternal love.\n\n(Source: GKIDS)",
+  "title": {
+    "en": "White Snake"
+  },
+  "releasedAt": "2019-01-11T00:00:00.000Z",
+  "finishedAt": "2019-01-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42683/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42683/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative past",
+    "drama",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42683",
+    "anilist/anime": "107371",
+    "myanimelist/anime": "38740"
+  }
+}

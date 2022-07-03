@@ -1,0 +1,24 @@
+{
+  "slug": "tonikaku-kawaii-kaisou",
+  "synopsis": "Recap of all 12 episodes of Tonikaku Kawaii.",
+  "title": {
+    "en": "TONIKAWA: Over The Moon For You Episode 12.5 – Flashbacks",
+    "jp": "Tonikaku Kawaii: Kaisou"
+  },
+  "releasedAt": "2020-12-26T00:00:00.000Z",
+  "finishedAt": "2020-12-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43833/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43833",
+    "myanimelist/anime": "45598"
+  }
+}

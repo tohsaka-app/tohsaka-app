@@ -1,0 +1,27 @@
+{
+  "slug": "xie-wang-zhui-qi-2",
+  "synopsis": "Second season of Xie Wang Zhui Qi.",
+  "title": {
+    "en": "The Demonic King Who Chases His Wife 2nd Season"
+  },
+  "releasedAt": "2020-12-11T00:00:00.000Z",
+  "finishedAt": "2021-02-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43815/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "drama",
+    "fantasy",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43815",
+    "anilist/anime": "115846",
+    "myanimelist/anime": "44221"
+  }
+}

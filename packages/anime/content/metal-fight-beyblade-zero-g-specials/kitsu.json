@@ -1,0 +1,25 @@
+{
+  "slug": "metal-fight-beyblade-zero-g-specials",
+  "synopsis": "The last seven unaired episodes of \"Metal Fight Beyblade Zero G\" released on DVD volumes 6 and 7 of the series.",
+  "title": {
+    "jp": "Metal Fight Beyblade Zero G Specials"
+  },
+  "releasedAt": "2013-08-27T00:00:00.000Z",
+  "finishedAt": "2013-09-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9073/original.jpg",
+  "categories": [
+    "adventure",
+    "friendship",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9073",
+    "anilist/anime": "136110",
+    "aozora": "8tHEigA5jp",
+    "myanimelist/anime": "21479"
+  }
+}

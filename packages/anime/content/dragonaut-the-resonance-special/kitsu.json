@@ -1,0 +1,27 @@
+{
+  "slug": "dragonaut-the-resonance-special",
+  "synopsis": "An unaired 26th episode that will be in the final DVD.",
+  "title": {
+    "jp": "Dragonaut: The Resonance - Kotou - Tozasareta Kyousoo"
+  },
+  "releasedAt": "2008-09-24T00:00:00.000Z",
+  "finishedAt": "2008-09-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3914/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "romance",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3914",
+    "anilist/anime": "5072",
+    "aozora": "UeFhHohFfh",
+    "myanimelist/anime": "5072"
+  }
+}

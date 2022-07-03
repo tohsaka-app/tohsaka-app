@@ -1,0 +1,23 @@
+{
+  "slug": "ninja-negizou",
+  "synopsis": "A music video for the song \"Ninja Negizou\" by Alberto Shiroma. Aired as part of NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Ninja Negizou"
+  },
+  "releasedAt": "2010-02-01T00:00:00.000Z",
+  "finishedAt": "2010-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12015/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12015",
+    "aozora": "pTeBk1qp3H",
+    "myanimelist/anime": "33060"
+  }
+}

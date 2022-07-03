@@ -1,0 +1,23 @@
+{
+  "slug": "count-down",
+  "synopsis": "A promotional video of the exhibition 'ArtPath 2011' by Tokyo University of the Arts Musical Creativity and the Environment. The excitement before ArtPath starts.\n(Source: Official website)",
+  "title": {
+    "jp": "Count Down"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10566/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10566/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "10566",
+    "anidb": "11520",
+    "anilist/anime": "102359",
+    "aozora": "BUwHKoAgz8",
+    "myanimelist/anime": "29957"
+  }
+}

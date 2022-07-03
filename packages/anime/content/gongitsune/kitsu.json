@@ -1,0 +1,29 @@
+{
+  "slug": "gongitsune",
+  "synopsis": "Gongitsune is a famous Japanese children's story about the life of a little fox called Gon. The story is considered the masterpiece of Nankichi Niimi, also sometimes known as the Hans Christian Andersen of Japan.\nGon is a little fox. Looking for food he comes to a little village where he repeatedly steals food and creates other mischief, constantly evading the angry villagers. \n(Source: AniDB)",
+  "title": {
+    "jp": "Gongitsune"
+  },
+  "releasedAt": "1985-03-16T00:00:00.000Z",
+  "finishedAt": "1985-03-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5779/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "asia",
+    "earth",
+    "japan",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5779",
+    "anidb": "7964",
+    "anilist/anime": "9535",
+    "aozora": "4vXw645dV7",
+    "myanimelist/anime": "9535"
+  }
+}

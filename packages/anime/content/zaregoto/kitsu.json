@@ -1,0 +1,30 @@
+{
+  "slug": "zaregoto",
+  "synopsis": "The story revolves around the protagonist \"I\" and the murders and mysteries he encounters. He tries in vain to stay out of the story, but instead he always gets dragged into the center of everything. Even though it seems that he contributes a lot, he always finds out that whatever he did was meaningless in the end.\n(Source: MAL News)",
+  "title": {
+    "en": "The Beheading Cycle: The Blue Savant and the Nonsense Bearer",
+    "jp": "Kubikiri Cycle: Aoiro Savant to Zaregototsukai"
+  },
+  "releasedAt": "2016-10-26T00:00:00.000Z",
+  "finishedAt": "2017-09-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12137/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12137/original.png",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12137",
+    "anidb": "12116",
+    "anilist/anime": "21803",
+    "aozora": "29UPSGzWff",
+    "myanimelist/anime": "33263",
+    "trakt": "112923"
+  }
+}

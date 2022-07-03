@@ -1,0 +1,21 @@
+{
+  "slug": "honky-tonk-women",
+  "synopsis": "A music video for Qing Yong All Stars' Chinese rendition of the song \"Honky Tonk Women\".",
+  "title": {
+    "jp": "Honky Tonk Women"
+  },
+  "releasedAt": "2015-01-25T00:00:00.000Z",
+  "finishedAt": "2015-01-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13149/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13149",
+    "myanimelist/anime": "32786"
+  }
+}

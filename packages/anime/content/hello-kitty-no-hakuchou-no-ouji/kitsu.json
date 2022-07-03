@@ -1,0 +1,27 @@
+{
+  "slug": "hello-kitty-no-hakuchou-no-ouji",
+  "synopsis": "Hello Kitty's version of The Swan Princess.",
+  "title": {
+    "en": "Hello Kitty in Swan Princess",
+    "jp": "Hello Kitty no Hakuchou no Ouji"
+  },
+  "releasedAt": "2001-09-21T00:00:00.000Z",
+  "finishedAt": "2001-09-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9305/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9305",
+    "anidb": "7820",
+    "anilist/anime": "18085",
+    "aozora": "fvckPcYIEN",
+    "myanimelist/anime": "18085"
+  }
+}

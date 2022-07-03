@@ -1,0 +1,24 @@
+{
+  "slug": "fushigi-no-yappo-shima-pukipuki-to-poi",
+  "synopsis": "A stop-motion animation with felt characters on a small island floating in the sea.",
+  "title": {
+    "en": "Pukipuki and Poi",
+    "jp": "Fushigi no Yappo Shima: Pukipuki to Poi"
+  },
+  "releasedAt": "2012-01-09T00:00:00.000Z",
+  "finishedAt": "2012-02-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12810/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12810",
+    "anidb": "8891",
+    "aozora": "qTISpU4YmE",
+    "myanimelist/anime": "33842"
+  }
+}

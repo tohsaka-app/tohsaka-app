@@ -1,0 +1,24 @@
+{
+  "slug": "hana-to-chou",
+  "synopsis": "An early color animation which uses the color to help tell the story. Three butterflies save a bird that falls out of it's nest during a rainstorm. The butterflies decide to ask the flowers for cover, but the red rose will only help the red butterfly since they are the same color.\n(Source: AniDB)",
+  "title": {
+    "jp": "Hana to Chou"
+  },
+  "releasedAt": "1954-10-01T00:00:00.000Z",
+  "finishedAt": "1954-10-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5020/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5020",
+    "anidb": "6871",
+    "anilist/anime": "7530",
+    "aozora": "zrK0v0usZV",
+    "myanimelist/anime": "7530"
+  }
+}

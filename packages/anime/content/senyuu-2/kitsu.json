@@ -1,0 +1,37 @@
+{
+  "slug": "senyuu-2",
+  "synopsis": "Second season of Senyuu.",
+  "title": {
+    "jp": "Senyuu. 2"
+  },
+  "releasedAt": "2013-07-03T00:00:00.000Z",
+  "finishedAt": "2013-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7719/original.png",
+  "categories": [
+    "absurdist humour",
+    "action",
+    "breaking the fourth wall",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "parody",
+    "slapstick"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/senyu"
+  ],
+  "relations": {
+    "kitsu": "7719",
+    "anidb": "9808",
+    "anilist/anime": "18523",
+    "aozora": "go1TjaB4QM",
+    "myanimelist/anime": "18523",
+    "thetvdb": "264050/2",
+    "thetvdb/season": "516640",
+    "thetvdb/series": "264050",
+    "trakt": "68739"
+  }
+}

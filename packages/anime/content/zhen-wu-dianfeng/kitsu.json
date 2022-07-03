@@ -1,0 +1,26 @@
+{
+  "slug": "zhen-wu-dianfeng",
+  "synopsis": "",
+  "title": {
+    "en": "The Peak of True Martial Arts"
+  },
+  "releasedAt": "2021-12-24T00:00:00.000Z",
+  "finishedAt": "2022-09-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45664/poster_image/c5ef281e3e234742d1a1a94119a1e90d.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45664",
+    "anilist/anime": "133787",
+    "myanimelist/anime": "50647"
+  }
+}

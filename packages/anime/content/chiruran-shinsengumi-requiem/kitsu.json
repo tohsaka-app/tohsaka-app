@@ -1,0 +1,36 @@
+{
+  "slug": "chiruran-shinsengumi-requiem",
+  "synopsis": "Strong, intense, and cute! The most laid-back Shinsengumi in history arrives!! An official spinoff series by Hashimoto Eiji (manga) and Umemura Shinya (story) of Chiruran Shinsengumi Requiem. Here's the laid-back everyday life of the Shinsengumi warriors.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Chiruran 1/2",
+    "jp": "Chiruran: Nibun no Ichi"
+  },
+  "releasedAt": "2017-01-10T00:00:00.000Z",
+  "finishedAt": "2017-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12600/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "bakumatsu   meiji period",
+    "comedy",
+    "earth",
+    "historical",
+    "japan",
+    "past"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/chiruran-12"
+  ],
+  "relations": {
+    "kitsu": "12600",
+    "anidb": "12418",
+    "anilist/anime": "97745",
+    "aozora": "0Xcb4SLJSG",
+    "myanimelist/anime": "34088",
+    "thetvdb": "320560/1",
+    "trakt": "113557"
+  }
+}

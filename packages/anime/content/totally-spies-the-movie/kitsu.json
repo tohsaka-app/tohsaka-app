@@ -1,0 +1,23 @@
+{
+  "slug": "totally-spies-the-movie",
+  "synopsis": "Totally Spies! The Movie (known as Totally Spies! Le film in France) is a 2009 French/Canadian animated action comedy film. The film is an adaptation of the Totally Spies! series and serves as its prequel, revealing how the girls first met and their first mission as Beverly Hills teenage secret agents.\n\n(Source: Wikipedia)",
+  "title": {},
+  "releasedAt": "2009-07-22T00:00:00.000Z",
+  "finishedAt": "2009-07-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13507/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13507/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13507"
+  }
+}

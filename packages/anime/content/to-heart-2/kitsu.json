@@ -1,0 +1,41 @@
+{
+  "slug": "to-heart-2",
+  "synopsis": "Following her graduation from middle school, Konomi Yuzuhara enters the same high school as Takaaki Kono, her childhood friend. As the new school year begins, they meet their childhood friend Tamaki Kosaka, as well as many new accquaintances. Unbeknownst to the group, their encounters with each other will soon lead to many memorable adventures. \n(Source: ANN)",
+  "title": {
+    "en": "To Heart 2",
+    "jp": "To Heart 2"
+  },
+  "releasedAt": "2005-10-03T00:00:00.000Z",
+  "finishedAt": "2005-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/433/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/433/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "coming of age",
+    "earth",
+    "harem",
+    "high school",
+    "japan",
+    "present",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/to-heart-2"
+  ],
+  "relations": {
+    "kitsu": "433",
+    "anidb": "3428",
+    "anilist/anime": "471",
+    "aozora": "g97hDplJUB",
+    "myanimelist/anime": "471",
+    "thetvdb": "81768/1",
+    "thetvdb/series": "81768",
+    "trakt": "63720"
+  }
+}

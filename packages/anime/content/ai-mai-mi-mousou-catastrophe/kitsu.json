@@ -1,0 +1,31 @@
+{
+  "slug": "ai-mai-mi-mousou-catastrophe",
+  "synopsis": "Second season of Ai Mai Mii.",
+  "title": {
+    "jp": "Choboraunyopomi Gekijou Dai Ni Maku Ai Mai Mii: Mousou Catastrophe"
+  },
+  "releasedAt": "2014-07-08T00:00:00.000Z",
+  "finishedAt": "2014-09-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8498/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/ai-mai-mi-mousou-catastrophe"
+  ],
+  "relations": {
+    "kitsu": "8498",
+    "anidb": "10580",
+    "anilist/anime": "20689",
+    "aozora": "P4VnV5Aiwc",
+    "myanimelist/anime": "23551",
+    "thetvdb": "264522/2",
+    "thetvdb/season": "586502",
+    "thetvdb/series": "264522",
+    "trakt": "68729"
+  }
+}

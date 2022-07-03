@@ -1,0 +1,28 @@
+{
+  "slug": "boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken-ova",
+  "synopsis": "Bundled with the limited edition sixth manga volume.",
+  "title": {
+    "en": "My Girlfriend Is ShoBitch OVA",
+    "jp": "Boku no Kanojo ga Majimesugiru Sho-bitch na Ken OVA"
+  },
+  "releasedAt": "2018-03-26T00:00:00.000Z",
+  "finishedAt": "2018-03-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40570/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/40570/cover_image/a5b4847fb38235e17e3fb0b958b6dcd2.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40570",
+    "anilist/anime": "100518",
+    "aozora": "DIpjcToaBl",
+    "myanimelist/anime": "36560"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "honoo-no-alpen-rose",
+  "synopsis": "Two-part OVA that summarises the entire Honoo no Alpenrose TV series featuring a new dubbing and reworked scenes.\n(Source: AniDB)",
+  "title": {
+    "jp": "Honoo no Alpenrose"
+  },
+  "releasedAt": "1986-02-15T00:00:00.000Z",
+  "finishedAt": "1986-03-31T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6460/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6460",
+    "anidb": "8559",
+    "anilist/anime": "11101",
+    "aozora": "YWRwpDfFNd",
+    "myanimelist/anime": "11101"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "the-idolm-ster-shiny-festa",
+  "synopsis": "New anime episodes released with each of the three iDOLM@STER Shiny Festa PSP games (Honey Sound, Funky Note, and Groovy Tune).",
+  "title": {
+    "en": "THE IDOLM@STER SHINY FESTA",
+    "jp": "The iDOLM@STER Shiny Festa"
+  },
+  "releasedAt": "2012-10-25T00:00:00.000Z",
+  "finishedAt": "2012-10-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7175/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "idol",
+    "japan",
+    "music",
+    "present",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7175",
+    "anidb": "9283",
+    "anilist/anime": "14835",
+    "aozora": "lM4OzIFGCQ",
+    "myanimelist/anime": "14835"
+  }
+}

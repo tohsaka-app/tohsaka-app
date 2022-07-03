@@ -1,0 +1,25 @@
+{
+  "slug": "orangutan",
+  "synopsis": "Music video for the song by Yasunori Soryo and Jim Rock Singers that was featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Orangutan"
+  },
+  "releasedAt": "1980-02-01T00:00:00.000Z",
+  "finishedAt": "1980-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10206/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10206",
+    "anidb": "12612",
+    "anilist/anime": "103955",
+    "aozora": "TDTdtkq6P0",
+    "myanimelist/anime": "29053"
+  }
+}

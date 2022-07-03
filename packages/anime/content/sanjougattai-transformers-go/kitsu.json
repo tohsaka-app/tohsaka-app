@@ -1,0 +1,26 @@
+{
+  "slug": "sanjougattai-transformers-go",
+  "synopsis": "Bundled on DVDs with Shogakukan's Terebi-kun (TV-kun) magazine and Kodansha's TV Magazine.\n(Source: ANN)",
+  "title": {
+    "jp": "Sanjougattai Transformers Go!"
+  },
+  "releasedAt": "2013-07-01T00:00:00.000Z",
+  "finishedAt": "2014-04-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9932/original.jpg",
+  "categories": [
+    "mecha",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9932",
+    "anidb": "9924",
+    "anilist/anime": "19171",
+    "aozora": "zbQdHAuPoG",
+    "myanimelist/anime": "19171"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "slug": "tengen-toppa-gurren-lagann",
+  "synopsis": "Simon and Kamina were born and raised in a deep, underground village, hidden from the fabled surface. Kamina is a free-spirited loose cannon bent on making a name for himself, while Simon is a timid young boy with no real aspirations. One day while excavating the earth, Simon stumbles upon a mysterious object that turns out to be the ignition key to an ancient artifact of war, which the duo dubs Lagann. Using their new weapon, Simon and Kamina fend off a surprise attack from the surface with the help of Yoko Littner, a hot-blooded redhead wielding a massive gun who wanders the world above.\nIn the aftermath of the battle, the sky is now in plain view, prompting Simon and Kamina to set off on a journey alongside Yoko to explore the wastelands of the surface. Soon, they join the fight against the \"Beastmen,\" humanoid creatures that terrorize the remnants of humanity in powerful robots called \"Gunmen.\" Although they face some challenges and setbacks, the trio bravely fights these new enemies alongside other survivors to reclaim the surface, while slowly unraveling a galaxy-sized mystery.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Gurren Lagann",
+    "jp": "Tengen Toppa Gurren Lagann"
+  },
+  "releasedAt": "2007-04-01T00:00:00.000Z",
+  "finishedAt": "2007-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1801/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1801/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "action",
+    "adventure",
+    "alien",
+    "comedy",
+    "drama",
+    "earth",
+    "future",
+    "humanoid alien",
+    "mecha",
+    "piloted robot",
+    "plot continuity",
+    "post apocalypse",
+    "science fiction",
+    "space battles",
+    "transforming craft"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/gurren-lagann",
+    "http://www.hulu.com/gurren-lagann",
+    "https://vrv.co/series/GR097JN7R/Gurren-Lagann",
+    "https://www.funimation.com/shows/gurren-lagann/",
+    "t"
+  ],
+  "relations": {
+    "kitsu": "1801",
+    "anidb": "4575",
+    "anilist/anime": "2001",
+    "aozora": "9AKb4BLBJB",
+    "myanimelist/anime": "2001",
+    "thetvdb": "80096/1",
+    "thetvdb/season": "17712",
+    "thetvdb/series": "80096",
+    "trakt": "21628"
+  }
+}

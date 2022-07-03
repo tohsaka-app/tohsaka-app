@@ -1,0 +1,27 @@
+{
+  "slug": "douluo-dalu-xiaowu-juebie",
+  "synopsis": "Fifth part of Douluo Dalu.",
+  "title": {},
+  "releasedAt": "2020-05-23T00:00:00.000Z",
+  "finishedAt": "2020-08-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44611/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "romance",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44611",
+    "anidb": "16203",
+    "anilist/anime": "129349",
+    "myanimelist/anime": "42498"
+  }
+}

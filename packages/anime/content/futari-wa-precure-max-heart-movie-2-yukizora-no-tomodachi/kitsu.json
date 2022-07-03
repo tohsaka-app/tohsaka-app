@@ -1,0 +1,34 @@
+{
+  "slug": "futari-wa-precure-max-heart-movie-2-yukizora-no-tomodachi",
+  "synopsis": "On his way to visit the Queen of the Garden of Light, the Sage of the Garden of Clouds accidentally drops the egg of the Houhou. The egg lands in the Garden of Rainbows, where it is found by Hikari, attracting the attention of a powerful pair of servants of the Dark Lord.\n(Source: AniDB)",
+  "title": {
+    "en": "Pretty Cure Max Heart: Friends of the Snow-Laden Sky",
+    "jp": "Futari wa Precure: Max Heart Movie 2 - Yukizora no Tomodachi"
+  },
+  "releasedAt": "2005-12-10T00:00:00.000Z",
+  "finishedAt": "2005-12-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1741/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1741/original.png",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "magical girl",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1741",
+    "anidb": "3566",
+    "anilist/anime": "1931",
+    "aozora": "KiKEWeD0va",
+    "myanimelist/anime": "1931"
+  }
+}

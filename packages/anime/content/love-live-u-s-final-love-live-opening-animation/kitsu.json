@@ -1,0 +1,23 @@
+{
+  "slug": "love-live-u-s-final-love-live-opening-animation",
+  "synopsis": "An anime special shown prior to the μ's Final Love Live Live concert that took place in the Tokyo Dome on March 31st and April 1st 2016. In the episode, the members of μ's visit the school's new baby alpaca, and muse about their current selves.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Love Live! μ's Final Love Live! Opening Animation"
+  },
+  "releasedAt": "2016-03-31T00:00:00.000Z",
+  "finishedAt": "2016-03-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13887/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13887",
+    "anilist/anime": "105906",
+    "myanimelist/anime": "33106"
+  }
+}

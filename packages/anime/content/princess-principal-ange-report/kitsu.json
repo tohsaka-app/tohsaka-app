@@ -1,0 +1,24 @@
+{
+  "slug": "princess-principal-ange-report",
+  "synopsis": "Chronological summary of episode 1 to 8 of Princess Principal.",
+  "title": {
+    "jp": "Princess Principal: Ange Report"
+  },
+  "releasedAt": "2017-09-16T00:00:00.000Z",
+  "finishedAt": "2017-09-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13860/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13860/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13860",
+    "anilist/anime": "101182",
+    "aozora": "FZoiTFrdK1",
+    "myanimelist/anime": "36424"
+  }
+}

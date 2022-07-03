@@ -1,0 +1,32 @@
+{
+  "slug": "tower-of-god",
+  "synopsis": "Reach the top, and everything will be yours. At the top of the tower exists everything in this world, and all of it can be yours. You can become a god. This is the story of the beginning and the end of Rachel, the girl who climbed the tower so she could see the stars, and Bam, the boy who needed nothing but her.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Tower of God",
+    "jp": "Kami no Tou: Tower of God"
+  },
+  "releasedAt": "2020-04-01T00:00:00.000Z",
+  "finishedAt": "2020-06-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43004/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43004/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "mystery"
+  ],
+  "externals": [
+    "https://vrv.co/series/G6J0G49DR/Tower-of-God",
+    "https://www.crunchyroll.com/tower-of-god"
+  ],
+  "relations": {
+    "kitsu": "43004",
+    "anidb": "15391",
+    "anilist/anime": "115230",
+    "myanimelist/anime": "40221"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "potekko-babies",
+  "synopsis": "Anime about potato characters.",
+  "title": {
+    "jp": "Potecco Babies"
+  },
+  "releasedAt": "2010-05-17T00:00:00.000Z",
+  "finishedAt": "2010-09-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5550/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5550",
+    "anilist/anime": "8958",
+    "aozora": "ir7p8kNpWp",
+    "myanimelist/anime": "8958"
+  }
+}

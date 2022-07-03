@@ -1,0 +1,22 @@
+{
+  "slug": "nar-doma-manner-movie",
+  "synopsis": "A short manner movie that aired at 109 Cinemas from November 1 to November 30, 2015 before films.",
+  "title": {
+    "jp": "Nar Doma Manner Movie"
+  },
+  "releasedAt": "2015-11-01T00:00:00.000Z",
+  "finishedAt": "2015-11-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12381/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12381",
+    "aozora": "DQVXiwm7Qh",
+    "myanimelist/anime": "32276"
+  }
+}

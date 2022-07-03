@@ -1,0 +1,29 @@
+{
+  "slug": "monster-strike-2",
+  "synopsis": "Second season of Monster Strike.",
+  "title": {
+    "en": "Monster Strike the Anime 2nd Season",
+    "jp": "Monsuto Anime"
+  },
+  "releasedAt": "2017-04-01T00:00:00.000Z",
+  "finishedAt": "2017-09-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13316/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/monster-strike"
+  ],
+  "relations": {
+    "kitsu": "13316",
+    "anidb": "12703",
+    "anilist/anime": "98069",
+    "aozora": "nmlInUjY1j",
+    "myanimelist/anime": "34670"
+  }
+}

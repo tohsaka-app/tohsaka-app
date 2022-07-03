@@ -1,0 +1,31 @@
+{
+  "slug": "gyakuten-sekai-no-denchi-shoujo",
+  "synopsis": "Japan, 2019, just before the dawn of a new era. Suddenly, a rift to another dimension appears in the sky, revealing an alternative world \"Shinkoku Nippon,\" with the sky and the earth upside down. This parallel world keeps their former militarism, with its era being Eternal Showa. The military invades the real Japan with giant humanoid robots called \"Garann\" and their gas weapons \"Genmu\", rendering our modern weapons ineffective. \"Shinkoku Nippon\" instantly seizes the government and achieves de facto conquest of Japan. The new era, \"Reiwa,\" has not arrived for Japan. \n\n(Source: Official site, edited)",
+  "title": {
+    "en": "Reversal World's Battery Girl",
+    "jp": "Gyakuten Sekai no Denchi Shoujo"
+  },
+  "releasedAt": "2021-10-11T00:00:00.000Z",
+  "finishedAt": "2021-12-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44300/poster_image/c812666cc5d310fccbd5a47a7ae0d93b.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44300/cover_image/42d8518a36c7db94f10d4997b3516854.png",
+  "categories": [
+    "action",
+    "comedy",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/rumble-garanndoll/"
+  ],
+  "relations": {
+    "kitsu": "44300",
+    "anidb": "16184",
+    "anilist/anime": "131878",
+    "animenewsnetwork": "24215",
+    "myanimelist/anime": "48644"
+  }
+}

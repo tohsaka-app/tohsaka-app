@@ -1,0 +1,26 @@
+{
+  "slug": "gorilla-shinkaron",
+  "synopsis": "Graduation work of Naoki Kaneshin at Tama Art University.",
+  "title": {
+    "en": "Evolution of humanity",
+    "jp": "Gorilla Shinkaron"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2018-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45373/poster_image/0e0b6f38fa4bb8ecaba6c858c9ca4669.png",
+  "categories": [
+    "coming of age",
+    "psychological",
+    "seinen"
+  ],
+  "externals": [
+    "https://youtu.be/YO7huRHhJXE"
+  ],
+  "relations": {
+    "kitsu": "45373",
+    "anilist/anime": "140727"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "moeru-onii-san-ova",
+  "synopsis": "No synopsis has been added for this series yet. \nClick here to update this information.",
+  "title": {
+    "jp": "Moeru! Oniisan (OVA)"
+  },
+  "releasedAt": "1989-07-01T00:00:00.000Z",
+  "finishedAt": "1989-08-02T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6634/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6634",
+    "anidb": "4010",
+    "anilist/anime": "11959",
+    "aozora": "nF0ALUz4TF",
+    "myanimelist/anime": "11959"
+  }
+}

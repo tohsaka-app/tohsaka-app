@@ -1,0 +1,38 @@
+{
+  "slug": "maken-ki-ova",
+  "synopsis": "OVA episodes bundled with the 8th and 11th volumes of the manga.",
+  "title": {
+    "jp": "Maken-Ki! OVA"
+  },
+  "releasedAt": "2012-03-01T00:00:00.000Z",
+  "finishedAt": "2013-09-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6474/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "contemporary fantasy",
+    "earth",
+    "ecchi",
+    "harem",
+    "japan",
+    "love polygon",
+    "martial arts",
+    "present",
+    "romance",
+    "school life",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6474",
+    "anidb": "10191",
+    "anilist/anime": "11209",
+    "aozora": "hQo7r4Xfx8",
+    "myanimelist/anime": "11209",
+    "thetvdb": "252474",
+    "trakt": "60297"
+  }
+}

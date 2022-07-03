@@ -1,0 +1,24 @@
+{
+  "slug": "itsumo-issho",
+  "synopsis": "Two sisters stay at home alone. They spend their time in their own worlds, at times in synch with each other and other times disconnected.\n\n1st year work 2018, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "SIBLINGS",
+    "jp": "Itsumo Issho"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2018-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45368/poster_image/3e6349e2c565bd74ba964007b85a76a6.png",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/Fvv38yMs2wk"
+  ],
+  "relations": {
+    "kitsu": "45368",
+    "anilist/anime": "140732"
+  }
+}

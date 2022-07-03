@@ -1,0 +1,43 @@
+{
+  "slug": "meitantei-holmes",
+  "synopsis": "Loosely based on the \"Sherlock Holmes\" series by Sir Arthur Conan Doyle, Sherlock Hound turns all the classic characters into dogs. The canine Sherlock Holmes, his assistant Watson, and housemaid Mrs. Hudson work together to solve mysteries. The culprit is usually Professor Moriarty and his gang, who use all kinds of wacky contraptions to steal what they want.\n(Source: ANN)",
+  "title": {
+    "en": "Sherlock Hound",
+    "jp": "Meitantei Holmes"
+  },
+  "releasedAt": "1984-11-06T00:00:00.000Z",
+  "finishedAt": "1985-05-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1775/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "cops",
+    "detective",
+    "earth",
+    "europe",
+    "law and order",
+    "mystery",
+    "past",
+    "steampunk",
+    "united kingdom"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/sherlock-hound",
+    "http://www.hulu.com/sherlock-hound"
+  ],
+  "relations": {
+    "kitsu": "1775",
+    "anidb": "617",
+    "anilist/anime": "1972",
+    "aozora": "XsBezmmbyj",
+    "hulu": "50011036",
+    "myanimelist/anime": "1972",
+    "thetvdb": "73082/1",
+    "thetvdb/series": "73082",
+    "trakt": "21198"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "itsumademo-tabibito",
+  "synopsis": "A Minna no Uta song from 1988. Animation by Shigeru Tamura.",
+  "title": {
+    "jp": "Itsumademo Tabibito"
+  },
+  "releasedAt": "1988-12-01T00:00:00.000Z",
+  "finishedAt": "1988-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5457/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5457",
+    "anilist/anime": "8718",
+    "aozora": "Mg3cM8YzWz",
+    "myanimelist/anime": "8718"
+  }
+}

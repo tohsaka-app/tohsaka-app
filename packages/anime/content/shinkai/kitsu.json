@@ -1,0 +1,25 @@
+{
+  "slug": "shinkai",
+  "synopsis": "Music video animated by Marie Yasui for the song Shinkai by Eve featuring arrangement by Tomoki Numano.",
+  "title": {
+    "jp": "Shinkai"
+  },
+  "releasedAt": "2020-12-07T00:00:00.000Z",
+  "finishedAt": "2020-12-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44204/original.png",
+  "categories": [
+    "music",
+    "psychological"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=vRPCAAUBMms"
+  ],
+  "relations": {
+    "kitsu": "44204",
+    "anilist/anime": "126898",
+    "myanimelist/anime": "44407"
+  }
+}

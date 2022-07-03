@@ -1,0 +1,26 @@
+{
+  "slug": "silent-service",
+  "synopsis": "During the cold war, the Japan Maritime Self-Defense Force jointly developed a nuclear submarine with the United States Navy. On its maiden voyage, the captain of the submarine declares the submarine to be an independent state, \"Yamato.\"",
+  "title": {
+    "en": "Silent Service",
+    "jp": "Chinmoku no Kantai"
+  },
+  "releasedAt": "1995-12-18T00:00:00.000Z",
+  "finishedAt": "1998-01-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2618/original.jpg",
+  "categories": [
+    "action",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2618",
+    "anidb": "1185",
+    "anilist/anime": "2881",
+    "aozora": "73SE2UKxa5",
+    "myanimelist/anime": "2881"
+  }
+}

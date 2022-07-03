@@ -1,0 +1,21 @@
+{
+  "slug": "Little-Scarlet-Bad-Girl-feat-Hatsune-Miku",
+  "synopsis": "Music video for Little Scarlet Bad Girl feat. Hatsune Miku by Hachioji-P.",
+  "title": {
+    "jp": "Little Scarlet Bad Girl feat. Hatsune Miku"
+  },
+  "releasedAt": "2015-07-22T00:00:00.000Z",
+  "finishedAt": "2015-07-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42887/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42887",
+    "myanimelist/anime": "40558"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "hanako",
+  "synopsis": "Hanako is a short, independent anime made by Mitsuru Sasaki.",
+  "title": {
+    "en": "Hanako",
+    "jp": "Hanako"
+  },
+  "releasedAt": "2021-01-01T00:00:00.000Z",
+  "finishedAt": "2021-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45723/poster_image/7e918c87da1f5c04f7fd1c07e5e099ca.jpg",
+  "categories": [
+    "horror",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45723",
+    "myanimelist/anime": "50740"
+  }
+}

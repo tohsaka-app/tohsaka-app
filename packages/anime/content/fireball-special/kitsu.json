@@ -1,0 +1,24 @@
+{
+  "slug": "fireball-special",
+  "synopsis": "A small special in which the show's stars, Drossel and Gedächtnis, explain a little bit about how the show is made, through interviews and behind the scenes shots.",
+  "title": {
+    "jp": "Fireball Special"
+  },
+  "releasedAt": "2009-08-19T00:00:00.000Z",
+  "finishedAt": "2009-08-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6283/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6283",
+    "anilist/anime": "10666",
+    "aozora": "fnE7DNB1T5",
+    "myanimelist/anime": "10666"
+  }
+}

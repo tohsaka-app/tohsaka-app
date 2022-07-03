@@ -1,0 +1,51 @@
+{
+  "slug": "yu-yu-hakusho",
+  "synopsis": "One fateful day, Yuusuke Urameshi, a 14-year-old delinquent with a dim future, gets a miraculous chance to turn it all around when he throws himself in front of a moving car to save a young boy. His ultimate sacrifice is so out of character that the authorities of the spirit realm are not yet prepared to let him pass on. Koenma, heir to the throne of the spirit realm, offers Yuusuke an opportunity to regain his life through completion of a series of tasks. With the guidance of the death god Botan, he is to thwart evil presences on Earth as a Spirit Detective.\n\nTo help him on his venture, Yuusuke enlists ex-rival Kazuma Kuwabara, and two demons, Hiei and Kurama, who have criminal pasts. Together, they train and battle against enemies who would threaten humanity's very existence.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Yu Yu Hakusho: Ghost Files",
+    "jp": "Yuu☆Yuu☆Hakusho"
+  },
+  "releasedAt": "1992-10-10T00:00:00.000Z",
+  "finishedAt": "1995-01-07T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/359/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/359/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "demon",
+    "earth",
+    "fantasy",
+    "fantasy world",
+    "japan",
+    "martial arts",
+    "plot continuity",
+    "present",
+    "school life",
+    "stereotypes",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/yu-yu-hakusho",
+    "http://www.funimation.com/shows/119587",
+    "http://www.hulu.com/yu-yu-hakusho",
+    "https://tubitv.com/series/2272/yu_yu_hakusho",
+    "https://www.animelab.com/shows/yu-yu-hakusho"
+  ],
+  "relations": {
+    "kitsu": "359",
+    "anidb": "312",
+    "anilist/anime": "392",
+    "aozora": "W0CkhLF9LM",
+    "hulu": "50028003",
+    "myanimelist/anime": "392",
+    "thetvdb": "76665/1",
+    "thetvdb/series": "76665",
+    "trakt": "30535"
+  }
+}

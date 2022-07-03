@@ -1,0 +1,28 @@
+{
+  "slug": "lord-of-lords-ryu-knight-adeu-legend-ii",
+  "synopsis": "Continuation of the series.",
+  "title": {
+    "en": "Lord of Lords Ryu Knight: Adeu's Legend II",
+    "jp": "Haou Daikei Ryuu Knight: Adeu Legend II"
+  },
+  "releasedAt": "1995-12-18T00:00:00.000Z",
+  "finishedAt": "1996-04-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1667/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1667",
+    "anidb": "1235",
+    "anilist/anime": "1850",
+    "aozora": "TV6DHBExxT",
+    "myanimelist/anime": "1850"
+  }
+}

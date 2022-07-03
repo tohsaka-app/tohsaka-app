@@ -1,0 +1,26 @@
+{
+  "slug": "dimension-w-special",
+  "synopsis": "An unaired episode released with the sixth BD volume.",
+  "title": {
+    "jp": "Dimension W Special"
+  },
+  "releasedAt": "2016-08-26T00:00:00.000Z",
+  "finishedAt": "2016-08-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12079/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12079/original.jpg",
+  "categories": [
+    "android",
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12079",
+    "anilist/anime": "98814",
+    "aozora": "8JYp9M2Ycr",
+    "myanimelist/anime": "33069"
+  }
+}

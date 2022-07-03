@@ -1,0 +1,25 @@
+{
+  "slug": "bit-the-cupid",
+  "synopsis": "Comedy about a character who shoots arrows that cause pairs of people to fall madly in love and float about in an ecstasy of emotion.\n(Source: AniDB)",
+  "title": {
+    "jp": "Bit the Cupid"
+  },
+  "releasedAt": "1995-04-26T00:00:00.000Z",
+  "finishedAt": "1996-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5883/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5883",
+    "anidb": "3514",
+    "anilist/anime": "9812",
+    "aozora": "zUWUeAwIwn",
+    "myanimelist/anime": "9812"
+  }
+}

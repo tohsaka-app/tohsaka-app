@@ -1,0 +1,23 @@
+{
+  "slug": "bloody-bunny",
+  "synopsis": "Shorts based on the Thai mascot, following the life of an assassin rabbit and his younger brother.",
+  "title": {
+    "jp": "Bloody Bunny"
+  },
+  "releasedAt": "2012-07-18T00:00:00.000Z",
+  "finishedAt": "2012-07-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8882/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8882",
+    "anidb": "11386",
+    "aozora": "YOSJ36Uh0H",
+    "myanimelist/anime": "24793"
+  }
+}

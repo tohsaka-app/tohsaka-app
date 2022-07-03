@@ -1,0 +1,35 @@
+{
+  "slug": "musashi-no-ken",
+  "synopsis": "Musashi no Ken is the story of a boy named Musashi who aims to be the Kendo champion.  Part of the anime is him as a child, and part is of him as an adult.",
+  "title": {
+    "jp": "Musashi no Ken"
+  },
+  "releasedAt": "1985-04-18T00:00:00.000Z",
+  "finishedAt": "1986-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3440/original.jpg",
+  "categories": [
+    "asia",
+    "combat",
+    "coming of age",
+    "drama",
+    "earth",
+    "japan",
+    "plot continuity",
+    "present",
+    "sports",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3440",
+    "anidb": "5546",
+    "anilist/anime": "4062",
+    "aozora": "ejSBL2mKfH",
+    "myanimelist/anime": "4062",
+    "thetvdb": "227871/1",
+    "thetvdb/series": "227871"
+  }
+}

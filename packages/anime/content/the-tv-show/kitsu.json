@@ -1,0 +1,49 @@
+{
+  "slug": "the-tv-show",
+  "synopsis": "An independent music video created in 2009 by Sugimoto Kousuke and with music by Manabe Takayuki.",
+  "title": {
+    "jp": "The TV Show"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5840/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5840/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "alternative present",
+    "asia",
+    "comedy",
+    "cops",
+    "earth",
+    "gunfights",
+    "human enhancement",
+    "japan",
+    "law and order",
+    "mecha",
+    "music",
+    "parody",
+    "performance",
+    "piloted robot",
+    "power suit",
+    "present",
+    "science fiction",
+    "slapstick",
+    "slice of life",
+    "special squads",
+    "the arts",
+    "violent retribution for accidental infringement"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5840",
+    "anidb": "8436",
+    "anilist/anime": "9733",
+    "aozora": "RmY7ZbMAZe",
+    "myanimelist/anime": "9733"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "hakusai-anime-special",
+  "synopsis": "A special of Hakusai Anime.",
+  "title": {
+    "jp": "Hakusai Anime Bangai-hen"
+  },
+  "releasedAt": "2014-08-11T00:00:00.000Z",
+  "finishedAt": "2014-08-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11289/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11289",
+    "anilist/anime": "129866",
+    "aozora": "JLL2dcOYPL",
+    "myanimelist/anime": "31255"
+  }
+}

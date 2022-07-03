@@ -1,0 +1,25 @@
+{
+  "slug": "hanakappa",
+  "synopsis": "Story about Kappa with flowers on their heads.",
+  "title": {
+    "jp": "Hanakappa"
+  },
+  "releasedAt": "2010-03-29T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5297/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5297",
+    "anidb": "7415",
+    "anilist/anime": "8336",
+    "aozora": "cBxFoGAtrf",
+    "myanimelist/anime": "8336"
+  }
+}

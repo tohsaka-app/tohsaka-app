@@ -1,0 +1,22 @@
+{
+  "slug": "kai-geoul-hosuui-jeonseo",
+  "synopsis": "An adaptation of Hans Christian Andersen's The Snow Queen in a central Asian setting",
+  "title": {
+    "jp": "Kai: Geoul Hosuui Jeonseo"
+  },
+  "releasedAt": "2016-08-18T00:00:00.000Z",
+  "finishedAt": "2016-08-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13025/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13025",
+    "myanimelist/anime": "34261"
+  }
+}

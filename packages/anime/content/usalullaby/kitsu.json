@@ -1,0 +1,26 @@
+{
+  "slug": "usalullaby",
+  "synopsis": "Increasing in its number, small rabbits take care of a great dolphin. Can the dolphin get to sleep by rabbits' gentle caress? May many people have good sleep and sweet dreams tonight even in the world with whining sounds and wriggle of yin and yang.\n(Source: Official Site)",
+  "title": {
+    "jp": "Usalullaby"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11241/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [
+    "https://youtu.be/u0iv7nXocFc"
+  ],
+  "relations": {
+    "kitsu": "11241",
+    "anidb": "12203",
+    "anilist/anime": "103345",
+    "aozora": "Sm15Hx5EgL",
+    "myanimelist/anime": "30863"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "shakugan-no-shana-naze-nani-shana",
+  "synopsis": "A series of short specials where Friagne and Marianne explain different terms from the show.",
+  "title": {
+    "jp": "Shakugan no Shana: Friagne to Marianne no Naze Nani Shana! Nandemo Shitsumonbako!"
+  },
+  "releasedAt": "2006-01-25T00:00:00.000Z",
+  "finishedAt": "2006-08-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4523/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4523/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4523",
+    "anilist/anime": "6330",
+    "aozora": "BsbSaVDbWv",
+    "myanimelist/anime": "6330"
+  }
+}

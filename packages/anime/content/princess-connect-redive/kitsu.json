@@ -1,0 +1,30 @@
+{
+  "slug": "princess-connect-redive",
+  "synopsis": "In the beautiful land of Astraea where a gentle breeze blows, a young man named Yuuki awakens with no memory of his past. There he encounters a guide who has sworn to care for him—Kokkoro, a lovely swordswoman who's always feeling peckish—Pecorine, and a cat-eared sorceress with a prickly attitude—Karyl. Led by fate, these four come together to form the \"Gourmet Guild.\" And so their adventure begins...\n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Princess Connect! Re:Dive"
+  },
+  "releasedAt": "2020-04-07T00:00:00.000Z",
+  "finishedAt": "2020-06-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42892/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42892/original.png",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "isekai"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/princess-connect-re-dive/"
+  ],
+  "relations": {
+    "kitsu": "42892",
+    "anidb": "14690",
+    "anilist/anime": "107871",
+    "animenewsnetwork": "21808",
+    "myanimelist/anime": "39292"
+  }
+}

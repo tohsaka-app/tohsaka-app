@@ -1,0 +1,31 @@
+{
+  "slug": "avatar-pilot",
+  "synopsis": "An unaired pilot episode included with the first complete DVD collection. Many elements of the pilot are dissimilar to what eventually developed into the televised series.\n\n(Source: Avatar Wikia)",
+  "title": {
+    "en": "",
+    "jp": "Avatar Pilot"
+  },
+  "releasedAt": "2006-09-19T00:00:00.000Z",
+  "finishedAt": "2006-09-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11842/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "martial arts",
+    "super power"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=GprPhEnmxAA&ab_channel=Avatar%3ATheLastAirbender"
+  ],
+  "relations": {
+    "kitsu": "11842"
+  }
+}

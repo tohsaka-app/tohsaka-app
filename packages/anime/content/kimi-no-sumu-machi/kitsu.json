@@ -1,0 +1,23 @@
+{
+  "slug": "kimi-no-sumu-machi",
+  "synopsis": "Original short animation that aired as part of promotion for the event \"Bunkyo+Waseda Bungo Week\". The video aims to convey the appeal of Bunkyo and Waseda area in Tokyo.",
+  "title": {
+    "jp": "Kimi no Sumu Machi"
+  },
+  "releasedAt": "2015-11-21T00:00:00.000Z",
+  "finishedAt": "2015-11-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12229/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12229",
+    "anidb": "11775",
+    "aozora": "K4aqNYZwWa",
+    "myanimelist/anime": "32065"
+  }
+}

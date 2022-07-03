@@ -1,0 +1,33 @@
+{
+  "slug": "kokoro-toshokan",
+  "synopsis": "Kokoro Toshokan, a small library, lies nestled in an unpopulated mountain far away from town. Three sisters, Iina, Aruto and Kokoro, call the library home and run it from day-to-day. Kokoro is just beginning her adventures at the library. Will she become a full-fledged librarian? Will the remote library ever attract readers? Kokoro tries her best to make her dreams come true at Kokoro Library, a place where miracles can happen.\n(Source: ANN)",
+  "title": {
+    "jp": "Kokoro Toshokan"
+  },
+  "releasedAt": "2001-10-12T00:00:00.000Z",
+  "finishedAt": "2002-02-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/713/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/713/original.jpg",
+  "categories": [
+    "alternative present",
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "713",
+    "anidb": "290",
+    "anilist/anime": "799",
+    "aozora": "T5W1f7X8vI",
+    "myanimelist/anime": "799",
+    "thetvdb": "72900/1",
+    "thetvdb/series": "72900",
+    "trakt": "34566"
+  }
+}

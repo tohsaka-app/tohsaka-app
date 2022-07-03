@@ -1,0 +1,28 @@
+{
+  "slug": "binan-koukou-chikyuu-bouei-bu-love-love-love",
+  "synopsis": "",
+  "title": {
+    "en": "Cute High Earth Defense Club LOVE! LOVE! LOVE!",
+    "jp": "Binan Koukou Chikyuu Boueibu LOVE! LOVE! LOVE!"
+  },
+  "releasedAt": "2017-08-26T00:00:00.000Z",
+  "finishedAt": "2017-08-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13651/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "henshin",
+    "magic",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13651",
+    "anidb": "12993",
+    "anilist/anime": "98599",
+    "myanimelist/anime": "35182"
+  }
+}

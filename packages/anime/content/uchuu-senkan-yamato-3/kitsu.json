@@ -1,0 +1,34 @@
+{
+  "slug": "uchuu-senkan-yamato-3",
+  "synopsis": "A stray missile from a confrontation between the Galman empire and the Bolar Federation crashes into the sun, turning it into a time bomb of radiation. The Star Force once again sets off into space, this time on a quest to look for a new world for the human race. \n(Source: ANN) ",
+  "title": {
+    "en": "Star Blazers: The Bolar Wars",
+    "jp": "Uchuu Senkan Yamato III"
+  },
+  "releasedAt": "1980-10-11T00:00:00.000Z",
+  "finishedAt": "1981-04-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1485/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "military",
+    "science fiction",
+    "space",
+    "space opera"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1485",
+    "anidb": "2661",
+    "anilist/anime": "1652",
+    "aozora": "URFBaJcvCo",
+    "myanimelist/anime": "1652",
+    "thetvdb": "85230/3",
+    "thetvdb/season": "41149",
+    "thetvdb/series": "85230",
+    "trakt": "13281"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "psycho-pass-ss-case-1-tsumi-to-bachi",
+  "synopsis": "The first film, \"Case.1 Tsumi to Bachi\" (Crime and Punishment), will focus on Nobuchika Ginoza and Mika Shimotsuki.",
+  "title": {
+    "en": "Psycho-Pass SS Case 1: Crime and Punishment",
+    "jp": "Psycho-Pass SS Case 1: Tsumi to Batsu"
+  },
+  "releasedAt": "2019-01-25T00:00:00.000Z",
+  "finishedAt": "2019-01-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41027/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "crime",
+    "cyberpunk",
+    "future",
+    "law and order",
+    "science fiction",
+    "special squads",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41027",
+    "anidb": "13894",
+    "anilist/anime": "102649",
+    "myanimelist/anime": "37440"
+  }
+}

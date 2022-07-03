@@ -1,0 +1,33 @@
+{
+  "slug": "no-guns-life",
+  "synopsis": "Ex-soldier Inui Juuzou has one question - who turned him into a cyborg and erased his memories?\n\nAfter the war, cyborg soldiers known as the Extended were discharged. Inui Juuzou is one of them, a man whose body was transformed, his head replaced with a giant gun! With no memory of his previous life - or who replaced his head and why - Inui now scratches out a living in the dark streets of the city as a Resolver, taking on cases involving the Extended.\n\nWhen a fellow Extended showed up in Inui's office - on the run from the Security Bureau with a kidnapped child in tow and asking for help - Inui should have just thrown the guy out. But Inui's loyalty to a brother Extended makes him take the job. Keeping the child safe won't be easy, since everyone seems to want to grab him, from street punks to the megacorporation Berühren, who have sent out a special agent that knows exactly how to deal with the Extended...\n\n(Source: VIZ Media)",
+  "title": {
+    "en": "No Guns Life",
+    "jp": "No Guns Life"
+  },
+  "releasedAt": "2019-10-11T00:00:00.000Z",
+  "finishedAt": "2019-12-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42197/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42197/original.png",
+  "categories": [
+    "action",
+    "cyberpunk",
+    "cyborg",
+    "dystopia",
+    "gunfights",
+    "science fiction",
+    "seinen"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/no-guns-life/",
+    "https://www.hulu.com/no-guns-life"
+  ],
+  "relations": {
+    "kitsu": "42197",
+    "anilist/anime": "108478",
+    "myanimelist/anime": "39539"
+  }
+}

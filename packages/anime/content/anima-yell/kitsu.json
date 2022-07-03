@@ -1,0 +1,29 @@
+{
+  "slug": "anima-yell",
+  "synopsis": "Hatogaya Kohane falls in love with cheerleading at the end of middle school, and begins a cheerleading club in high school with Arima Hizume and Saruwatari Uki. The positive, hard-working girls will be sure to cheer you up!\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Anima Yell!",
+    "jp": "Anima Yell!"
+  },
+  "releasedAt": "2018-10-07T00:00:00.000Z",
+  "finishedAt": "2018-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41423/original.jpg",
+  "categories": [
+    "comedy",
+    "school clubs",
+    "school life",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/anima-yell"
+  ],
+  "relations": {
+    "kitsu": "41423",
+    "anidb": "13756",
+    "anilist/anime": "101013",
+    "myanimelist/anime": "37206"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "ganbare-douki-chan-special",
+  "synopsis": "An unaired episode included with the Ganbare, Douki-chan Blu-ray.",
+  "title": {
+    "en": "Ganbare Douki-chan Special",
+    "jp": "Ganbare, Douki-chan Special"
+  },
+  "releasedAt": "2021-12-13T00:00:00.000Z",
+  "finishedAt": "2021-12-13T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45237/poster_image/e12075b390b16bb16661d85466dccf55.png",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45237",
+    "anilist/anime": "139451",
+    "myanimelist/anime": "49869"
+  }
+}

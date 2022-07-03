@@ -1,0 +1,33 @@
+{
+  "slug": "boku-no-hero-academia-4th-season",
+  "synopsis": "The villain world teeters on the brink of war now that All For One is out of the picture. Shigaraki of the League of Villains squares off with Overhaul of the yakuza, vying for total control of the shadows. Meanwhile, Deku gets tangled in another dangerous internship as he struggles to keep pace with his upperclassman—Mirio.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "My Hero Academia 4",
+    "jp": "Boku no Hero Academia 4"
+  },
+  "releasedAt": "2019-10-12T00:00:00.000Z",
+  "finishedAt": "2020-04-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41971/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41971/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "school life",
+    "shounen",
+    "super power",
+    "superhero"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/my-hero-academia",
+    "https://www.funimation.com/shows/my-hero-academia/",
+    "https://www.hulu.com/my-hero-academia"
+  ],
+  "relations": {
+    "kitsu": "41971",
+    "anilist/anime": "104276",
+    "myanimelist/anime": "38408"
+  }
+}

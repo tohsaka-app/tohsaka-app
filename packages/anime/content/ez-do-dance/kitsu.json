@@ -1,0 +1,21 @@
+{
+  "slug": "ez-do-dance",
+  "synopsis": "",
+  "title": {
+    "jp": "EZ DO DANCE"
+  },
+  "releasedAt": "2013-03-18T00:00:00.000Z",
+  "finishedAt": "2013-03-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13496/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13496/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13496"
+  }
+}

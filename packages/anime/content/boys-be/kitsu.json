@@ -1,0 +1,41 @@
+{
+  "slug": "boys-be",
+  "synopsis": "There are two sides to every love story, and Boys Be... reveals what's really going on—from the guy's point of view!\nMeet three normal high school guys with just one thing on their minds: girls. Quiet Kyoichi has been friends with Chiharu ever since they were young, but lately, his feelings have begun to change. Lecherous Makoto, a self-proclaimed master of the rules of romance, is ready to sweep the ladies off their feet. And Yoshihiko, a handsome sports nut, is unfortunately a bit clueless in matters of the heart.\nJoin this hapless trio for a year of romantic misadventures that will change their lives forever!\n(Source: RightStuf)",
+  "title": {
+    "en": "Boys Be...",
+    "jp": "Boys Be..."
+  },
+  "releasedAt": "2000-04-11T00:00:00.000Z",
+  "finishedAt": "2000-07-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/84/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/84/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "coming of age",
+    "earth",
+    "high school",
+    "japan",
+    "present",
+    "romance",
+    "school life",
+    "slice of life",
+    "tokyo"
+  ],
+  "externals": [
+    "http://www.hulu.com/boys-be"
+  ],
+  "relations": {
+    "kitsu": "84",
+    "anidb": "100",
+    "anilist/anime": "105",
+    "aozora": "kcYIdRytAg",
+    "myanimelist/anime": "105",
+    "thetvdb": "79566/1",
+    "thetvdb/series": "79566",
+    "trakt": "34591"
+  }
+}

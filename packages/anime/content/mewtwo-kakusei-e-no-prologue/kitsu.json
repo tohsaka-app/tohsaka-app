@@ -1,0 +1,27 @@
+{
+  "slug": "mewtwo-kakusei-e-no-prologue",
+  "synopsis": "The original story is set before Mewtwo meets Satoshi and his friends in the upcoming film's storyline.\nIt will focus on Mewtwo's history, goals, and how it became the strongest Pokémon.",
+  "title": {
+    "en": "Pokemon: Mewtwo - Prologue to Awakening",
+    "jp": "Pokemon: Mewtwo - Kakusei e no Prologue"
+  },
+  "releasedAt": "2013-07-11T00:00:00.000Z",
+  "finishedAt": "2013-07-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7789/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7789",
+    "anidb": "9926",
+    "anilist/anime": "19099",
+    "aozora": "PBSTvBdQk8",
+    "myanimelist/anime": "19099"
+  }
+}

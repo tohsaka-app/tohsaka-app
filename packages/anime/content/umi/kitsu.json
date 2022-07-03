@@ -1,0 +1,24 @@
+{
+  "slug": "umi",
+  "synopsis": "Music video by Yoriko Mizushiri for the song Umi by Japanese band Kuchiroro that was featured on their sixth album \"everyday is a symphony.\"",
+  "title": {
+    "jp": "Umi"
+  },
+  "releasedAt": "2009-12-02T00:00:00.000Z",
+  "finishedAt": "2009-12-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45344/poster_image/a84a62cb010fb8fb29ff122a58b04c63.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=dK0hMUnxiSQ"
+  ],
+  "relations": {
+    "kitsu": "45344",
+    "anilist/anime": "136462",
+    "myanimelist/anime": "41451"
+  }
+}

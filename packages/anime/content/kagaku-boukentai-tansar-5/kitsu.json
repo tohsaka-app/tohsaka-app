@@ -1,0 +1,26 @@
+{
+  "slug": "kagaku-boukentai-tansar-5",
+  "synopsis": "In 1999, a special mystery/paranormal investigative unit consisting of five youths is formed. The series uses a mix of real tokusatsu footage (vehicle scenes) and animation (character drama).",
+  "title": {
+    "jp": "Kagaku Bouken-tai Tansar 5"
+  },
+  "releasedAt": "1979-07-27T00:00:00.000Z",
+  "finishedAt": "1980-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6428/original.jpg",
+  "categories": [
+    "adventure",
+    "mystery",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6428",
+    "anidb": "2348",
+    "anilist/anime": "10965",
+    "aozora": "Q3ZIrsi97S",
+    "myanimelist/anime": "10965"
+  }
+}

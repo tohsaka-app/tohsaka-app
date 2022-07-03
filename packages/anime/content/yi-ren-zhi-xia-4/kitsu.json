@@ -1,0 +1,28 @@
+{
+  "slug": "yi-ren-zhi-xia-4",
+  "synopsis": "The fourth season of Yi Ren Zhi Xia.",
+  "title": {
+    "en": "The Outcast Season 4"
+  },
+  "releasedAt": "2021-09-24T00:00:00.000Z",
+  "finishedAt": "2021-12-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45264/poster_image/c93b85a0bb9aa34b2fa5119b762fa65c.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45264/cover_image/cc14af136911d91762cfb65fb9d8cdff.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "martial arts",
+    "mystery",
+    "psychological",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45264",
+    "anilist/anime": "122631"
+  }
+}

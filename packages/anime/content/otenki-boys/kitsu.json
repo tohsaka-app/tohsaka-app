@@ -1,0 +1,23 @@
+{
+  "slug": "otenki-boys",
+  "synopsis": "An anime made for toddlers following weather themed characters, originally aired as a part of the early morning children's program Hirake! Ponkikki before the anime was combined and released on VHS.",
+  "title": {
+    "jp": "Otenki Boys"
+  },
+  "releasedAt": "1991-04-01T00:00:00.000Z",
+  "finishedAt": "1991-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10592/original.jpg",
+  "categories": [
+    "kids",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10592",
+    "aozora": "lTJMTZadBh",
+    "myanimelist/anime": "30025"
+  }
+}

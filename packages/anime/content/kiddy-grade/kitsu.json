@@ -1,0 +1,48 @@
+{
+  "slug": "kiddy-grade",
+  "synopsis": "After fighting in numerous interstellar wars, mankind forms the Galactic Union to bring stability and to prevent conflicts between different planets. However, disputes between members of the union itself persists. In the Star Century year 0165, the Galactic Organization of Trade and Tariffs (GOTT) was formed. This organization utilizes the superpowered ES taskforce to maintain order. Eclair and Lumiere are two low-ranking ES members who carry out missions for GOTT. However, as they begin to see more and more of the galaxy, they soon realize that what they know about GOTT, the Galactic Union, and even themselves might not be all there is to it... \n(Source: ANN)",
+  "title": {
+    "en": "Kiddy Grade",
+    "jp": "Kiddy Grade"
+  },
+  "releasedAt": "2002-10-09T00:00:00.000Z",
+  "finishedAt": "2003-03-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/249/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/249/original.png",
+  "categories": [
+    "action",
+    "conspiracy",
+    "crime",
+    "cyborg",
+    "detective",
+    "ecchi",
+    "future",
+    "law and order",
+    "mecha",
+    "other planet",
+    "plot continuity",
+    "science fiction",
+    "space",
+    "space opera",
+    "special squads",
+    "super power"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/kiddy-grade/videos/episodes",
+    "http://www.hulu.com/kiddy-grade"
+  ],
+  "relations": {
+    "kitsu": "249",
+    "anidb": "251",
+    "anilist/anime": "274",
+    "aozora": "2bfYeoh0Ya",
+    "hulu": "10526",
+    "myanimelist/anime": "274",
+    "thetvdb": "72471/1",
+    "thetvdb/series": "72471",
+    "trakt": "9271"
+  }
+}

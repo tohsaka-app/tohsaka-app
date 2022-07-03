@@ -1,0 +1,29 @@
+{
+  "slug": "hakuouki-otogisoushi",
+  "synopsis": "Features the characters from the games in chibi form with a completely new story with the theme: \"A normal everyday that might have existed.\"",
+  "title": {
+    "jp": "Hakuouki: Otogisoushi"
+  },
+  "releasedAt": "2016-04-05T00:00:00.000Z",
+  "finishedAt": "2016-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11687/original.jpg",
+  "categories": [
+    "fantasy",
+    "historical",
+    "josei",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11687",
+    "anidb": "11754",
+    "anilist/anime": "21474",
+    "aozora": "DxwEfP66GK",
+    "myanimelist/anime": "32011",
+    "thetvdb": "312293",
+    "trakt": "108005"
+  }
+}

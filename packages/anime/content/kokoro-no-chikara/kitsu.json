@@ -1,0 +1,28 @@
+{
+  "slug": "kokoro-no-chikara",
+  "synopsis": "A man in love with a noble lady tries to get close to her with the help of cats.",
+  "title": {
+    "en": "Power of the Heart",
+    "jp": "Kokoro no Chikara"
+  },
+  "releasedAt": "1931-01-01T00:00:00.000Z",
+  "finishedAt": "1931-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10198/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10198",
+    "anidb": "10898",
+    "anilist/anime": "104457",
+    "aozora": "b6GgYSmSZT",
+    "myanimelist/anime": "28047"
+  }
+}

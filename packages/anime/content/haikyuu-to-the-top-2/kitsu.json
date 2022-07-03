@@ -1,0 +1,28 @@
+{
+  "slug": "haikyuu-to-the-top-2",
+  "synopsis": "Second cour of Haikyuu!! TO THE TOP.",
+  "title": {
+    "en": "Haikyuu!!: To the Top Part 2",
+    "jp": "Haikyuu!! TO THE TOP 2"
+  },
+  "releasedAt": "2020-10-03T00:00:00.000Z",
+  "finishedAt": "2020-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/42938/poster_image/1179f9d9eee53646e38dc532cd515eef.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42938/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "shounen",
+    "sports",
+    "volleyball"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42938",
+    "anilist/anime": "113538",
+    "myanimelist/anime": "40776"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "monkie-kid-season-2",
+  "synopsis": "Season 2 of Monkie Kid.",
+  "title": {
+    "en": "Monkie Kid: Season 2"
+  },
+  "releasedAt": "2021-05-01T00:00:00.000Z",
+  "finishedAt": "2021-05-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44759/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "fantasy",
+    "kids",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44759"
+  }
+}

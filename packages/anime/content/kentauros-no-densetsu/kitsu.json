@@ -1,0 +1,26 @@
+{
+  "slug": "kentauros-no-densetsu",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Kentauros no Densetsu"
+  },
+  "releasedAt": "1987-12-21T00:00:00.000Z",
+  "finishedAt": "1987-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9376/original.jpg",
+  "categories": [
+    "action",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9376",
+    "anidb": "7527",
+    "anilist/anime": "17339",
+    "aozora": "vqvR6uXhlD",
+    "myanimelist/anime": "17339"
+  }
+}

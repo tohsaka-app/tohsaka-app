@@ -1,0 +1,24 @@
+{
+  "slug": "midori-no-kuni-no-otomodachi-koeda-chan",
+  "synopsis": "Based on the Takara Tomy toy line. ",
+  "title": {
+    "jp": "Midori no Kuni no Otomodachi: Koeda-chan"
+  },
+  "releasedAt": "2017-03-03T00:00:00.000Z",
+  "finishedAt": "2017-10-07T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40648/original.jpg",
+  "categories": [
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40648",
+    "anilist/anime": "127507",
+    "aozora": "Y08qm7l4h8",
+    "myanimelist/anime": "35008"
+  }
+}

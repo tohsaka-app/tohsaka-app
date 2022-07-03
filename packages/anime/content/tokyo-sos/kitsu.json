@@ -1,0 +1,21 @@
+{
+  "slug": "tokyo-sos",
+  "synopsis": "G9+1 film.",
+  "title": {
+    "jp": "Tokyo SOS"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10840/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "10840",
+    "anilist/anime": "103326",
+    "aozora": "bVRmHeVRXc",
+    "myanimelist/anime": "30408"
+  }
+}

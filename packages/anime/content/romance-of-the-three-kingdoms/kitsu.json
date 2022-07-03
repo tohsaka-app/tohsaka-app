@@ -1,0 +1,42 @@
+{
+  "slug": "romance-of-the-three-kingdoms",
+  "synopsis": "Around 1800 years ago in China, the ruling power of the Han dynasty became weakened and the flames of war spread throughout the land. \nLiu Bei was a young, poor straw-mat seller from the countryside of Hebai Hsing. After pledging eternal brotherhood with the two heroes, Guan Yu and Zhang Fei, Liu began building his idea of a righteous kingdom that would aid citizens who suffered from persecution. \n(Source: AniDB)",
+  "title": {
+    "jp": "Yokoyama Mitsuteru Sangokushi"
+  },
+  "releasedAt": "1991-10-18T00:00:00.000Z",
+  "finishedAt": "1992-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/860/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative past",
+    "asia",
+    "china",
+    "disaster",
+    "earth",
+    "feudal warfare",
+    "historical",
+    "military",
+    "past",
+    "plot continuity",
+    "politics",
+    "swordplay",
+    "three kingdoms",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "860",
+    "anidb": "943",
+    "anilist/anime": "970",
+    "aozora": "eJ05pj8p9W",
+    "myanimelist/anime": "970",
+    "thetvdb": "256452/1",
+    "thetvdb/series": "256452",
+    "trakt": "43611"
+  }
+}

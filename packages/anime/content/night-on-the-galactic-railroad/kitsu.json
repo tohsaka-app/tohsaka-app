@@ -1,0 +1,40 @@
+{
+  "slug": "night-on-the-galactic-railroad",
+  "synopsis": "Based on a short story by the popular children's writer Kenji Miyazawa, Galactic Railroad offers viewers a slow-paced, dreamlike journey through space and time. When Giovanni, a lonely boy in a hill town, goes to get milk for his ailing mother, he finds himself crossing the Milky Way on a faster-than-light steam railroad. The stations he visits in various constellations, like the planets explored by St. Exupery's Little Prince, offer curious adventures and an assortment of human \"types.\" Reality and fantasy blur aboard the train, and its travels across the light-years sometimes suggests the journey through life. The characters are depicted as cats, presumably to avoid the problems of animating humans.\n(Source: AniDB)",
+  "title": {
+    "en": "Night on the Galactic Railroad",
+    "jp": "Ginga Tetsudou no Yoru"
+  },
+  "releasedAt": "1985-07-13T00:00:00.000Z",
+  "finishedAt": "1985-07-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1294/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1294/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "coming of age",
+    "drama",
+    "fantasy",
+    "historical",
+    "kids",
+    "mystery",
+    "parallel universe",
+    "past",
+    "plot continuity"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/night-on-the-galactic-railroad",
+    "https://www.amazon.com/Night-Galactic-Railroad-Mayumi-Tanaka/dp/B07MCW2BQ6/",
+    "https://www.contv.com/details-movie/1313-19788-000/night-on-the-galactic-railroad"
+  ],
+  "relations": {
+    "kitsu": "1294",
+    "anidb": "1250",
+    "anilist/anime": "1441",
+    "aozora": "FG5VNnac3t",
+    "myanimelist/anime": "1441"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mahoutsukai-no-yome-recap",
+  "synopsis": "Recap of the first 12 episodes of Mahoutsukai no Yome.",
+  "title": {
+    "en": "The Ancient Magus' Bride Recap",
+    "jp": "Mahoutsukai no Yome Recap"
+  },
+  "releasedAt": "2017-12-31T00:00:00.000Z",
+  "finishedAt": "2017-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14153/original.jpg",
+  "categories": [
+    "contemporary fantasy",
+    "earth",
+    "europe",
+    "fantasy",
+    "magic",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14153",
+    "myanimelist/anime": "37031"
+  }
+}

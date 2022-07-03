@@ -1,0 +1,36 @@
+{
+  "slug": "shinmai-maou-no-testament-burst-ova",
+  "synopsis": "An OVA that will be bundled with the seventh volume of the Shinmai Maou no Testament manga, to be released January 2016. ",
+  "title": {
+    "jp": "Shinmai Maou no Testament Burst OVA"
+  },
+  "releasedAt": "2016-01-26T00:00:00.000Z",
+  "finishedAt": "2016-01-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10779/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "demon",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "japan",
+    "parental abandonment",
+    "romance",
+    "stereotypes",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10779",
+    "anidb": "11890",
+    "anilist/anime": "21489",
+    "aozora": "K3V3NrybRm",
+    "myanimelist/anime": "30365",
+    "trakt": "81821"
+  }
+}

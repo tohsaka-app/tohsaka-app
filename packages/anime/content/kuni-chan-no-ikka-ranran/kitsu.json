@@ -1,0 +1,26 @@
+{
+  "slug": "kuni-chan-no-ikka-ranran",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Kuni-chan no Ikka Ranran"
+  },
+  "releasedAt": "1994-09-23T00:00:00.000Z",
+  "finishedAt": "1994-09-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12636/original.jpg",
+  "categories": [
+    "drama",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12636",
+    "anidb": "10823",
+    "anilist/anime": "129819",
+    "aozora": "5Nmp9uHvQL",
+    "myanimelist/anime": "34201"
+  }
+}

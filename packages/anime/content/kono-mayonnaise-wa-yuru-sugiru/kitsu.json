@@ -1,0 +1,24 @@
+{
+  "slug": "kono-mayonnaise-wa-yuru-sugiru",
+  "synopsis": "Everything is liquid in this world, like the mayonnaise.\n(Source: Official website)",
+  "title": {
+    "en": "This Mayonnaise is too Liquid.",
+    "jp": "Kono Mayonnaise wa Yuru Sugiru"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10723/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10723",
+    "anilist/anime": "102616",
+    "aozora": "mY4N6Nl3wF",
+    "myanimelist/anime": "30212"
+  }
+}

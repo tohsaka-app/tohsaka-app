@@ -1,0 +1,25 @@
+{
+  "slug": "omokage-tayuta",
+  "synopsis": "This is the first letter addressed to you. A voyage to trace the vague images of memories.\n\nGraduate Work 2016 by Hitomi Ohtakara, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation",
+  "title": {
+    "en": "Calling You",
+    "jp": "Omokage Tayuta"
+  },
+  "releasedAt": "2016-08-22T00:00:00.000Z",
+  "finishedAt": "2016-08-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45138/original.png",
+  "categories": [
+    "drama",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/iVkN8R7_8gc"
+  ],
+  "relations": {
+    "kitsu": "45138",
+    "anilist/anime": "104407"
+  }
+}

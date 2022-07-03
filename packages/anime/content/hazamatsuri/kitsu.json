@@ -1,0 +1,22 @@
+{
+  "slug": "hazamatsuri",
+  "synopsis": "Hazamatsuri is a student-produced independent animation about a festival on the threshold between the human world and the spirit world. It was directed by Yoshie Ezaki.",
+  "title": {
+    "en": "A Festival Between Worlds",
+    "jp": "Hazamatsuri"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45691/poster_image/9624ce0bd0a7f0a48638d555b5af13c3.png",
+  "categories": [
+    "demon",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45691"
+  }
+}

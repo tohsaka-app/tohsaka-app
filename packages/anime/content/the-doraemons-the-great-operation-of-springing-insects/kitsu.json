@@ -1,0 +1,25 @@
+{
+  "slug": "the-doraemons-the-great-operation-of-springing-insects",
+  "synopsis": "",
+  "title": {
+    "en": "The Doraemons: The Great Operation of Springing Insects",
+    "jp": "The☆Doraemons: Mushimushi Pyonpyon Daisakusen!"
+  },
+  "releasedAt": "1998-03-07T00:00:00.000Z",
+  "finishedAt": "1998-03-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2390/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2390",
+    "anidb": "7766",
+    "anilist/anime": "2626",
+    "aozora": "otmERz4AJq",
+    "myanimelist/anime": "2626"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "trip-trek-2010",
+  "synopsis": "More short stories featuring Zocco and Minime.\nThe series received the first airing starting November 10, 2010. On June 10, 2013 five episodes were released on YouTube.",
+  "title": {
+    "jp": "Trip Trek (2010)"
+  },
+  "releasedAt": "2010-11-10T00:00:00.000Z",
+  "finishedAt": "2011-01-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9682/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9682",
+    "anidb": "10333",
+    "anilist/anime": "102290",
+    "aozora": "r5Koj0RPcj",
+    "myanimelist/anime": "21509"
+  }
+}

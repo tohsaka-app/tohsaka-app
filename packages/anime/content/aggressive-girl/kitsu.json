@@ -1,0 +1,25 @@
+{
+  "slug": "aggressive-girl",
+  "synopsis": "Music video of OTMGirls feat. Aggretsuko performing the song 'Aggressive Girl'",
+  "title": {
+    "en": "Aggressive Girl",
+    "jp": "Aggressive Girl"
+  },
+  "releasedAt": "2020-09-01T00:00:00.000Z",
+  "finishedAt": "2020-09-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45771/poster_image/43ba8edb57532e5fe9bcd6ae4c2c2c95.png",
+  "categories": [
+    "anthropomorphism",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=8qTo0x4duKE"
+  ],
+  "relations": {
+    "kitsu": "45771",
+    "anilist/anime": "124963"
+  }
+}

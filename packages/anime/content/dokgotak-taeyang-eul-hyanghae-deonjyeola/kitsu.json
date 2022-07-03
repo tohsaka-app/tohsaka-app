@@ -1,0 +1,24 @@
+{
+  "slug": "dokgotak-taeyang-eul-hyanghae-deonjyeola",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Dokgotak: Taeyang-eul Hyanghae Deonjyeola"
+  },
+  "releasedAt": "1983-01-01T00:00:00.000Z",
+  "finishedAt": "1983-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7464/original.jpg",
+  "categories": [
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7464",
+    "anilist/anime": "16572",
+    "aozora": "3GOY0Hld2q",
+    "myanimelist/anime": "16572"
+  }
+}

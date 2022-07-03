@@ -1,0 +1,24 @@
+{
+  "slug": "yomigaeru-sora-rescue-wings-special",
+  "synopsis": "Episode 13 of Yomigaeru Sora: Rescue Wings, released as a DVD special. Takes place before the events in the series.",
+  "title": {
+    "jp": "Yomigaeru Sora: Rescue Wings - Saigo no Shigoto"
+  },
+  "releasedAt": "2006-06-17T00:00:00.000Z",
+  "finishedAt": "2006-06-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1660/original.jpg",
+  "categories": [
+    "drama",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1660",
+    "anilist/anime": "1843",
+    "aozora": "jiAFCke88f",
+    "myanimelist/anime": "1843"
+  }
+}

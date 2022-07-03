@@ -1,0 +1,22 @@
+{
+  "slug": "sekisou-tai",
+  "synopsis": "By changing the overlapping of sections in the time axis / space axis, the laminate based on the die cut of the hand transforms into various shapes.\nNOTE FOR MODS: please see Warau Tsuki submission for more information on the creator.",
+  "title": {
+    "en": "Laminated Structure",
+    "jp": "Sekisou-tai"
+  },
+  "releasedAt": "1982-01-01T00:00:00.000Z",
+  "finishedAt": "1982-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12886/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12886",
+    "myanimelist/anime": "34718"
+  }
+}

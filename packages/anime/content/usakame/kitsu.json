@@ -1,0 +1,31 @@
+{
+  "slug": "usakame",
+  "synopsis": "Spin-off of Teekyuu. ",
+  "title": {
+    "en": "Usakame",
+    "jp": "Usakame"
+  },
+  "releasedAt": "2016-04-12T00:00:00.000Z",
+  "finishedAt": "2016-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11685/original.png",
+  "categories": [
+    "absurdist humour",
+    "comedy",
+    "school clubs",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11685",
+    "anidb": "11865",
+    "anilist/anime": "21570",
+    "aozora": "kxMdlADvLH",
+    "myanimelist/anime": "32454",
+    "thetvdb": "307333/1",
+    "trakt": "105463"
+  }
+}

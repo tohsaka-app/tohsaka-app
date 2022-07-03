@@ -1,0 +1,28 @@
+{
+  "slug": "code-geass-hangyaku-no-lelouch-iii-oudou",
+  "synopsis": "Lelouch Lamperouge's dreams of destroying the Holy Britannian Empire are slowly crumbling. His sister, Nunnally, has been kidnapped by Schneizel el Britannia, and Suzaku Kururugi is ignoring his desperate please for assistance. The Black Knights are slowly losing faith in Lelouch as their leader, and the United Federation of Nations has declared global war on Britannia.\n\nHaving suffered numerous betrayals, a significant loss of power, and an ever growing resentment towards Emperor Charles zi Britannia, the crippled Lelouch makes a final decision: if he can't destroy the Empire from the outside, he will take it for himself from within.",
+  "title": {
+    "en": "Code Geass: Lelouch of the Rebellion - Emperor",
+    "jp": "Code Geass: Hangyaku no Lelouch III - Oudou"
+  },
+  "releasedAt": "2018-05-26T00:00:00.000Z",
+  "finishedAt": "2018-05-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13852/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13852/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "piloted robot",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13852",
+    "anilist/anime": "101813",
+    "myanimelist/anime": "34440"
+  }
+}

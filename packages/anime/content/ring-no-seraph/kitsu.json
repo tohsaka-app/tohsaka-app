@@ -1,0 +1,29 @@
+{
+  "slug": "ring-no-seraph",
+  "synopsis": "A song about pro wrestling match which Miku and Rin play against Meiko and Luka. The ringside commentator is KAITO. The referee is Len.\n\nThis song is included on Mitchie M's 2nd album \"Virtual Popstar.\" The album cover is illustrated by Haruhiko Mikimoto who is famous for character design of \"Macross\" series.",
+  "title": {
+    "en": "Seraphim on the Ring",
+    "jp": "Ring no Seraph"
+  },
+  "releasedAt": "2019-08-29T00:00:00.000Z",
+  "finishedAt": "2019-08-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43179/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43179/original.jpg",
+  "categories": [
+    "action",
+    "music",
+    "sports",
+    "wrestling"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=lWuJRRCTHrg"
+  ],
+  "relations": {
+    "kitsu": "43179",
+    "anilist/anime": "112022",
+    "myanimelist/anime": "40410"
+  }
+}

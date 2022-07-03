@@ -1,0 +1,23 @@
+{
+  "slug": "kiminari-dousuru-yuukai-itazura-sarenai-tame-ni",
+  "synopsis": "An educational film meant to teach children how to avoid being kidnapped.",
+  "title": {
+    "jp": "Kiminari Dousuru? Yuukai Itazura: Sarenai Tame ni"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11066/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11066",
+    "aozora": "uFUMCQPfKQ",
+    "myanimelist/anime": "30976"
+  }
+}

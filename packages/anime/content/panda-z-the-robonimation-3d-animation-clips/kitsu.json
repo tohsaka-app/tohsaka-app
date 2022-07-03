@@ -1,0 +1,27 @@
+{
+  "slug": "panda-z-the-robonimation-3d-animation-clips",
+  "synopsis": "Short 3D animation clips included with the DVDs.",
+  "title": {
+    "en": "Panda-Z: The Robonimation 3D Animation Clips",
+    "jp": "Panda-Z: The Robonimation 3D Animation Clips"
+  },
+  "releasedAt": "2004-08-27T00:00:00.000Z",
+  "finishedAt": "2005-01-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44615/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "kids",
+    "mecha",
+    "parody",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44615"
+  }
+}

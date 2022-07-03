@@ -1,0 +1,31 @@
+{
+  "slug": "kindaichi-shounen-no-jikenbo-satsuriku-no-deep-blue",
+  "synopsis": "The movie is an alternative version to the \"Satsuriku no Deep Blue\" arc of the 1997 Kindaichi TV series.\nKindaichi, Miyuki and Fumi are invited to the resort of the Deep Blue Island by their senpai Akane, the daughter of the president of the Aizawa Group. A group of criminals infiltrate the hotel diguised as waiters to kill the members of the Aizawa Group. The criminals don't know their boss in person, and they don't know either that he's in the hotel with the members of the Aizawa Group.",
+  "title": {
+    "en": "Young Kindaichi's Casebook: Deep Blue Massacre",
+    "jp": "Kindaichi Shounen no Jikenbo Movie 2: Satsuriku no Deep Blue"
+  },
+  "releasedAt": "1999-08-21T00:00:00.000Z",
+  "finishedAt": "1999-08-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5615/original.jpg",
+  "categories": [
+    "asia",
+    "detective",
+    "earth",
+    "horror",
+    "japan",
+    "mystery",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5615",
+    "anidb": "2126",
+    "anilist/anime": "9154",
+    "aozora": "wx7bjvJCLa",
+    "myanimelist/anime": "9154"
+  }
+}

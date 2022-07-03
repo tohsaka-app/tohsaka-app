@@ -1,0 +1,25 @@
+{
+  "slug": "cupid-s-chocolates-recap",
+  "synopsis": "Recap episode of the first season of Aishen Qiaokeli-ing posted on the official Tenecent biibili channel.\n",
+  "title": {
+    "en": "Cupid's Chocolates Recap"
+  },
+  "releasedAt": "2016-03-23T00:00:00.000Z",
+  "finishedAt": "2016-03-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42955/original.jpg",
+  "categories": [
+    "comedy",
+    "harem",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42955",
+    "anidb": "11894",
+    "myanimelist/anime": "40835"
+  }
+}

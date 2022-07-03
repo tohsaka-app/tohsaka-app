@@ -1,0 +1,28 @@
+{
+  "slug": "domain-of-murder",
+  "synopsis": "On the trail of a missing husband, private investigator Goro crosses paths with a deranged killer.\n(Source: ANN)",
+  "title": {
+    "en": "Domain of Murder",
+    "jp": "Hello Harinezumi: Satsui no Ryoubun"
+  },
+  "releasedAt": "1992-09-01T00:00:00.000Z",
+  "finishedAt": "1992-09-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3773/original.jpg",
+  "categories": [
+    "detective",
+    "japan",
+    "mystery",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3773",
+    "anidb": "4351",
+    "anilist/anime": "4756",
+    "aozora": "L3YukIuBtT",
+    "myanimelist/anime": "4756"
+  }
+}

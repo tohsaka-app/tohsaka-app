@@ -1,0 +1,23 @@
+{
+  "slug": "HuGoo-n-no-Hug-Hug-Song",
+  "synopsis": "A music video commissioned by Elleair, a household paper product company, for their disposable baby diapers. It's so safe that you can hug your baby and play around with it without worrying about spilling out from the action. In the music video it shows the mascot GOO.N (グ～ン) doing such with a baby.",
+  "title": {
+    "jp": "HuGoo.n no Hug Hug Song"
+  },
+  "releasedAt": "2018-08-09T00:00:00.000Z",
+  "finishedAt": "2018-08-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42841/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42841",
+    "anilist/anime": "103947",
+    "myanimelist/anime": "38158"
+  }
+}

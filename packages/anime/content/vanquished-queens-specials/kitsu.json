@@ -1,0 +1,23 @@
+{
+  "slug": "vanquished-queens-specials",
+  "synopsis": "Specials included on the Vanquished Queens Blu-rays/DVDs.",
+  "title": {
+    "jp": "Vanquished Queens Specials"
+  },
+  "releasedAt": "2013-03-29T00:00:00.000Z",
+  "finishedAt": "2014-09-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7847/original.jpg",
+  "categories": [
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7847",
+    "anilist/anime": "18231",
+    "aozora": "igXxaccSEL",
+    "myanimelist/anime": "18231"
+  }
+}

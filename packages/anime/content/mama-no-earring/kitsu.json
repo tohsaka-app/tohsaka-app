@@ -1,0 +1,23 @@
+{
+  "slug": "mama-no-earring",
+  "synopsis": "A little girl adores her mother's pearl earrings.",
+  "title": {
+    "jp": "Mama no Earring"
+  },
+  "releasedAt": "1990-10-01T00:00:00.000Z",
+  "finishedAt": "1990-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40924/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40924",
+    "anilist/anime": "106168",
+    "aozora": "5Mky755UEk",
+    "myanimelist/anime": "36383"
+  }
+}

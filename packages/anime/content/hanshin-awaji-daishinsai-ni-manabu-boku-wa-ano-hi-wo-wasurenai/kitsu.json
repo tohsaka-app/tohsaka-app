@@ -1,0 +1,24 @@
+{
+  "slug": "hanshin-awaji-daishinsai-ni-manabu-boku-wa-ano-hi-wo-wasurenai",
+  "synopsis": "An educational film about the Great Hanshin earthquake (aka Kobe earthquake).",
+  "title": {
+    "jp": "Hanshin Awaji Daishinsai ni Manabu: Boku wa, Ano Hi wo Wasurenai."
+  },
+  "releasedAt": "1995-01-01T00:00:00.000Z",
+  "finishedAt": "1995-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10106/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10106",
+    "aozora": "SAEnvOn6e9",
+    "myanimelist/anime": "28575"
+  }
+}

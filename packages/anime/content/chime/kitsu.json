@@ -1,0 +1,25 @@
+{
+  "slug": "chime",
+  "synopsis": "The 2nd music video from the same creators that did Downloader. The music video premiered on Nico Nico Douga on June 1st, 2011 the CD with the DVD bundled on June 24, 2011.\n\n(Source: AniDB)",
+  "title": {
+    "jp": "Chime"
+  },
+  "releasedAt": "2011-06-01T00:00:00.000Z",
+  "finishedAt": "2011-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6354/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6354/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6354",
+    "anidb": "8479",
+    "anilist/anime": "10799",
+    "aozora": "sUFe5MWTjU",
+    "myanimelist/anime": "10799"
+  }
+}

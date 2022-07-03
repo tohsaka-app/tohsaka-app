@@ -1,0 +1,20 @@
+{
+  "slug": "junjou-skirt",
+  "synopsis": "",
+  "title": {
+    "jp": "Junjou Skirt"
+  },
+  "releasedAt": "2013-02-19T00:00:00.000Z",
+  "finishedAt": "2013-02-19T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13348/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13348"
+  }
+}

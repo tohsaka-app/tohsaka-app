@@ -1,0 +1,22 @@
+{
+  "slug": "spacetv",
+  "synopsis": "The near future, the two distant\n\n(Source: Official Description)",
+  "title": {
+    "en": "spaceTV",
+    "jp": "spaceTV"
+  },
+  "releasedAt": "2009-12-28T00:00:00.000Z",
+  "finishedAt": "2009-12-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44407/original.png",
+  "categories": [
+    "music",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44407"
+  }
+}

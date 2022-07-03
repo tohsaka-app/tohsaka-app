@@ -1,0 +1,30 @@
+{
+  "slug": "natsu-ga-hajimaru",
+  "synopsis": "A CalorieMate promotional animation with contributions from different professional and indie animators.",
+  "title": {
+    "jp": "Natsu ga Hajimaru."
+  },
+  "releasedAt": "2021-07-15T00:00:00.000Z",
+  "finishedAt": "2021-07-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46167/poster_image/d820158111c676cd599681dd02eb57c6.png",
+  "categories": [
+    "baseball",
+    "basketball",
+    "music",
+    "soccer",
+    "sports",
+    "tennis",
+    "volleyball"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=wf8mZVmof2g"
+  ],
+  "relations": {
+    "kitsu": "46167",
+    "anilist/anime": "136795",
+    "myanimelist/anime": "49581"
+  }
+}

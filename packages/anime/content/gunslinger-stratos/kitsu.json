@@ -1,0 +1,23 @@
+{
+  "slug": "gunslinger-stratos",
+  "synopsis": "Animated movie of the popular online multi-player double gun action game Gunslinger Stratos 2 which was streamed on the official YouTube channel of Square Enix.",
+  "title": {
+    "jp": "Gunslinger Stratos"
+  },
+  "releasedAt": "2014-03-15T00:00:00.000Z",
+  "finishedAt": "2014-03-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10574/original.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10574",
+    "aozora": "nsDcRTGxJj",
+    "myanimelist/anime": "29975"
+  }
+}

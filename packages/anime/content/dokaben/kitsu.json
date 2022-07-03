@@ -1,0 +1,27 @@
+{
+  "slug": "dokaben",
+  "synopsis": "Tarou \"Dokaben\" Yamada, who was a judoist while at junior high, enters Meikun High School and is talked into joining the baseball club. He displays his superb athletic abilities in baseball and becomes well-known as a hard hitter. He and his unique teammates establish Meikun a solid position as No.1 in the High School Baseball Championship games.\n(Source: Nippon Animation)",
+  "title": {
+    "jp": "Dokaben"
+  },
+  "releasedAt": "1976-10-06T00:00:00.000Z",
+  "finishedAt": "1979-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3279/original.jpg",
+  "categories": [
+    "action",
+    "baseball",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3279",
+    "anidb": "3482",
+    "anilist/anime": "3825",
+    "aozora": "7lT3gUEDFx",
+    "myanimelist/anime": "3825"
+  }
+}

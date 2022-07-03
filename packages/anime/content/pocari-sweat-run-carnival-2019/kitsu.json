@@ -1,0 +1,23 @@
+{
+  "slug": "pocari-sweat-run-carnival-2019",
+  "synopsis": "TV commercial for Pocari Sweat Hong Kong's 2019 Run Carnival campaign.",
+  "title": {
+    "jp": "Pocari Sweat Run Carnival 2019"
+  },
+  "releasedAt": "2019-07-03T00:00:00.000Z",
+  "finishedAt": "2019-07-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44349/original.jpg",
+  "categories": [
+    "music",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44349",
+    "anilist/anime": "137265",
+    "myanimelist/anime": "43417"
+  }
+}

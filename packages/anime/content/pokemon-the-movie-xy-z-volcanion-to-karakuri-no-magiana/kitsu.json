@@ -1,0 +1,31 @@
+{
+  "slug": "pokemon-the-movie-xy-z-volcanion-to-karakuri-no-magiana",
+  "synopsis": "A mysterious force binds Ash to the Mythical Pokémon Volcanion when it falls from the sky. Volcanion can't get away, and Ash is dragged along as it continues on its mission. They arrive in a city of cogs and gears, where a corrupt minister has stolen the ultimate invention: the Artificial Pokémon Magearna, created 500 years ago. The minister plans to use Magearna's mysterious power to take control of the mechanical kingdom.\n\n(Source: ANN)",
+  "title": {
+    "en": "Pokemon the Movie: Volcanion and the Mechanical Marvel",
+    "jp": "Pokemon the Movie XY&Z: Volcanion to Karakuri no Magearna"
+  },
+  "releasedAt": "2016-07-16T00:00:00.000Z",
+  "finishedAt": "2016-07-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11202/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11202/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80166189"
+  ],
+  "relations": {
+    "kitsu": "11202",
+    "anidb": "11842",
+    "anilist/anime": "21651",
+    "aozora": "KX92Q2keTK",
+    "myanimelist/anime": "31231"
+  }
+}

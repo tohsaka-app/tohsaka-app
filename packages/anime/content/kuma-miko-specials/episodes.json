@@ -1,0 +1,22 @@
+[
+  {
+    "title": {
+      "jp": "Hatsuyuki no Hi"
+    },
+    "synopsis": "Episode 1",
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2016-06-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nacchan, Shougeki Debut!"
+    },
+    "synopsis": "Episode 2",
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2016-08-24T00:00:00.000Z",
+    "content": {}
+  }
+]

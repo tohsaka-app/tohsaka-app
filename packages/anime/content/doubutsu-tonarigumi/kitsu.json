@@ -1,0 +1,27 @@
+{
+  "slug": "doubutsu-tonarigumi",
+  "synopsis": "The Neighborhood Community (Tonari-gumi) was the smallest unit of population which was the national mobilization program established by the Japanese government during the World War II. This was to regulate rationing and thought control more efficiently.\nEach unit was consisted from 5-10 households, and organized to help one another, also to keep eye on any suspicious behavior.\nThe same title song was made to promote this program, became a big hit in Japan with its cheerful melody.\n(Source: ANIDO)",
+  "title": {
+    "en": "The Animal Neighborhood Community",
+    "jp": "Doubutsu Tonarigumi"
+  },
+  "releasedAt": "1941-01-01T00:00:00.000Z",
+  "finishedAt": "1941-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10167/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10167",
+    "anidb": "11105",
+    "anilist/anime": "104418",
+    "aozora": "fs65YlQR87",
+    "myanimelist/anime": "28827"
+  }
+}

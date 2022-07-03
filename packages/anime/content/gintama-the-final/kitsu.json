@@ -1,0 +1,28 @@
+{
+  "slug": "gintama-the-final",
+  "synopsis": "Gintama: The Final is the 3rd and final film adaptation of the remainder of the Silver Soul Arc.\n\n(Source: Anilist)",
+  "title": {
+    "jp": "Gintama: The Final"
+  },
+  "releasedAt": "2021-01-08T00:00:00.000Z",
+  "finishedAt": "2021-01-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43683/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/43683/cover_image/e49c07a805e44f967c30d8d0f5708497.png",
+  "categories": [
+    "action",
+    "comedy",
+    "parody",
+    "shounen",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43683",
+    "anidb": "14719",
+    "anilist/anime": "114129",
+    "myanimelist/anime": "39486"
+  }
+}

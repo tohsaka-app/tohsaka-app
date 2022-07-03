@@ -1,0 +1,26 @@
+{
+  "slug": "jinrui-wa-suitai-shimashita-specials",
+  "synopsis": "DVD/BD Extras.",
+  "title": {
+    "en": "Humanity Has Declined Specials",
+    "jp": "Jinrui wa Suitai Shimashita Specials"
+  },
+  "releasedAt": "2012-09-19T00:00:00.000Z",
+  "finishedAt": "2013-02-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7285/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7285/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7285",
+    "anilist/anime": "15617",
+    "aozora": "4StLL29KkV",
+    "myanimelist/anime": "15617"
+  }
+}

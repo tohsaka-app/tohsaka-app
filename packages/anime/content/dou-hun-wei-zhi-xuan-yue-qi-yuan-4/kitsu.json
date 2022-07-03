@@ -1,0 +1,22 @@
+{
+  "slug": "dou-hun-wei-zhi-xuan-yue-qi-yuan-4",
+  "synopsis": null,
+  "title": {
+    "en": "Spirit Guardians 4"
+  },
+  "releasedAt": "2021-05-19T00:00:00.000Z",
+  "finishedAt": "2021-08-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45048/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45048",
+    "anilist/anime": "119925"
+  }
+}

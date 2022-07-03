@@ -1,0 +1,24 @@
+{
+  "slug": "special",
+  "synopsis": "Before Captain became a TV series it was a one-shot TV special that garnered the highest ratings of any anime that month. For its re-run on August 20th, 30 minutes of new content was added in which brought in more ratings that trumped the previous statistic.",
+  "title": {
+    "jp": "Captain"
+  },
+  "releasedAt": "1980-04-02T00:00:00.000Z",
+  "finishedAt": "1980-04-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13187/original.jpg",
+  "categories": [
+    "baseball",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13187",
+    "anidb": "7165",
+    "aozora": "KiJ0r19UMl",
+    "myanimelist/anime": "27915"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "maido-urayasu-tekkin-kazoku",
+  "synopsis": "Sequel to the Urayasu Tekkin Kazoku anime and adaptation of the manga of the same name. The series follows an energetic grade-schooler and his friends as they get into mischief.",
+  "title": {
+    "jp": "Maido! Urayasu Tekkin Kazoku"
+  },
+  "releasedAt": "2014-07-06T00:00:00.000Z",
+  "finishedAt": "2014-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8556/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8556",
+    "anidb": "10428",
+    "anilist/anime": "20624",
+    "aozora": "RxxmCDh8bU",
+    "myanimelist/anime": "24417"
+  }
+}

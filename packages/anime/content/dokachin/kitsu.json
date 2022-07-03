@@ -1,0 +1,25 @@
+{
+  "slug": "dokachin",
+  "synopsis": "When a time machine explodes, the primitive Dokachin family appears, causing mischief in the neighborhood. Each episode contains 2 stories. \n(Source: AniDB)",
+  "title": {
+    "jp": "Dokachin"
+  },
+  "releasedAt": "1968-10-02T00:00:00.000Z",
+  "finishedAt": "1969-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7346/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7346",
+    "anidb": "5290",
+    "anilist/anime": "15957",
+    "aozora": "jN4kJY3eAd",
+    "myanimelist/anime": "15957"
+  }
+}

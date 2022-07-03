@@ -1,0 +1,26 @@
+{
+  "slug": "amanatsu",
+  "synopsis": "In the near future, a girl yearning for death and a robot who has been near her since she was a child continue moving in eternity.\n(Source: Annecy)",
+  "title": {
+    "jp": "Amanatsu"
+  },
+  "releasedAt": "2009-04-01T00:00:00.000Z",
+  "finishedAt": "2009-04-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5802/original.jpg",
+  "categories": [
+    "future",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5802",
+    "anidb": "7997",
+    "anilist/anime": "9595",
+    "aozora": "hM5ppCL9my",
+    "myanimelist/anime": "9595"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "souten-no-ken-regenesis-2",
+  "synopsis": "Second season of Souten no Ken: Regenesis.",
+  "title": {
+    "en": "Fist of the Blue Sky: Regenesis 2",
+    "jp": "Souten no Ken: Regenesis 2"
+  },
+  "releasedAt": "2018-10-02T00:00:00.000Z",
+  "finishedAt": "2018-12-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41953/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/fist-of-the-blue-sky-regenesis"
+  ],
+  "relations": {
+    "kitsu": "41953",
+    "anidb": "a13843",
+    "anilist/anime": "102860",
+    "myanimelist/anime": "37388"
+  }
+}

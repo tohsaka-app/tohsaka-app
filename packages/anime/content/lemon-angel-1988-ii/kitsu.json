@@ -1,0 +1,29 @@
+{
+  "slug": "lemon-angel-1988-ii",
+  "synopsis": "The sequel of Lemon Angel (1988).",
+  "title": {
+    "en": "Lemon Angel (1988/II)",
+    "jp": "Lemon Angel (1988/II)"
+  },
+  "releasedAt": "1988-07-07T00:00:00.000Z",
+  "finishedAt": "1988-09-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2890/original.jpg",
+  "categories": [
+    "ecchi",
+    "idol",
+    "music",
+    "musical band",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2890",
+    "anidb": "4212",
+    "anilist/anime": "3264",
+    "aozora": "Yi1b1ArHZY",
+    "myanimelist/anime": "3264"
+  }
+}

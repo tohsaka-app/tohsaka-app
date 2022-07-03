@@ -1,0 +1,30 @@
+{
+  "slug": "mahoutsukai-reimeiki",
+  "synopsis": "The war that raged between the Church and the Witches for five centuries finally ended in peace but a few short years ago. However, nestled in the shadowy places of the world, the embers of that age old conflict still smoulder.\n\nAttending the Royal Academy of Magic of the Kingdom of Wenias is a struggling student named Sable, who has no memories of his time before being enrolled. At the command of Headmaster Albus, he left the Kingdom to travel to the southern reaches of the continent, where anti-magic insurgents are still a force to be reckoned with, as part of a special training regimen. Accompanying him are a party of individuals strong in both ability and personality; there's the one known as the Witch of the Dawn, Roux Cristasse, who seeks the forbidden knowledge of primeval magic in the 'Grimoire of Zero', the genius girl Holtz, as well as the school's sole beast, Kudd.\n\nJust what truth shall they uncover in their journey to the south...?",
+  "title": {
+    "en": "The Dawn of the Witch",
+    "jp": "Mahoutsukai Reimeiki"
+  },
+  "releasedAt": "2022-04-07T00:00:00.000Z",
+  "finishedAt": "2022-07-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44511/poster_image/8f21162f25b8c93fb725f866391990ea.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/the-dawn-of-the-witch"
+  ],
+  "relations": {
+    "kitsu": "44511",
+    "anidb": "16280",
+    "anilist/anime": "133175",
+    "myanimelist/anime": "48842"
+  }
+}

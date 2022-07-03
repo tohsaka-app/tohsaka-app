@@ -1,0 +1,29 @@
+{
+  "slug": "slime-boukenki-umi-da-yeah",
+  "synopsis": "A short anime directed by Yuasa Masaaki with Production IG, distributed on VHS as a bonus to a video game magazine subscription.  The main character is a Slime from the Dragon Quest video games.",
+  "title": {
+    "jp": "Slime Boukenki: Umi da, Yeah!"
+  },
+  "releasedAt": "1999-07-30T00:00:00.000Z",
+  "finishedAt": "1999-07-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5427/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5427",
+    "anidb": "8982",
+    "anilist/anime": "8664",
+    "aozora": "BFku6luHPW",
+    "myanimelist/anime": "8664"
+  }
+}

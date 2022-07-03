@@ -1,0 +1,25 @@
+{
+  "slug": "turning-mecard-r",
+  "synopsis": "Turning Mecard R was announced as a CG-reboot of Turning Mecard. It features the same characters as Turning Mecard and Turning Mecard W.\n\n(Source: Wikia)",
+  "title": {
+    "en": "Turning Mecard R",
+    "jp": "Turning Mecard R"
+  },
+  "releasedAt": "2017-09-14T00:00:00.000Z",
+  "finishedAt": "2018-04-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41216/original.jpg",
+  "categories": [
+    "mecha",
+    "motorsport",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41216",
+    "anidb": "13828",
+    "myanimelist/anime": "37749"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "title": {
+      "jp": "Valkyria no Oukoku Zenpen"
+    },
+    "synopsis": "Episode 1",
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2015-11-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Valkyria no Oukoku Kouhen"
+    },
+    "synopsis": "Episode 2",
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2015-12-23T00:00:00.000Z",
+    "content": {}
+  }
+]

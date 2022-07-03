@@ -1,0 +1,26 @@
+{
+  "slug": "tiger-mask-fuku-men-league-sen",
+  "synopsis": "Summary of episode 23 to 26.",
+  "title": {
+    "en": "Tiger Mask: War against the League of Masked Wrestlers",
+    "jp": "Tiger Mask Fuku Men League Sen"
+  },
+  "releasedAt": "1970-07-19T00:00:00.000Z",
+  "finishedAt": "1970-07-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9056/original.jpg",
+  "categories": [
+    "sports",
+    "wrestling"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9056",
+    "anidb": "6971",
+    "anilist/anime": "18063",
+    "aozora": "UmNkUfhzfC",
+    "myanimelist/anime": "18063"
+  }
+}

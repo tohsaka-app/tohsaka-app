@@ -1,0 +1,24 @@
+{
+  "slug": "monogatari-wo-kimi-e-fukakai-ni-q1-ending-animation",
+  "synopsis": "An anime short that was shown at the end of virtual singer KAF’s 2nd ONE-MAN LIVE Fukakai ni Q1 live concert.",
+  "title": {
+    "jp": "Monogatari wo kimi e. - Fukakai ni Q1 Ending Animation"
+  },
+  "releasedAt": "2020-10-10T00:00:00.000Z",
+  "finishedAt": "2020-10-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44305/original.png",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=xwru2u-kyIE"
+  ],
+  "relations": {
+    "kitsu": "44305",
+    "anilist/anime": "127041"
+  }
+}

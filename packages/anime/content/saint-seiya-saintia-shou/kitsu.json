@@ -1,0 +1,36 @@
+{
+  "slug": "saint-seiya-saintia-shou",
+  "synopsis": "The whole Sanctuary was misled into danger due to the civil war instigated by the Gemini Gold Saint, Saga. Our story begins right after the end of those events... This is a story of the girls protecting Athena. These are the records of love and fierce fights they meet while opposing destiny on their way to maturity...\n\n(Source: MangaSeven)",
+  "title": {
+    "jp": "Saint Seiya: Saintia Shou"
+  },
+  "releasedAt": "2018-12-10T00:00:00.000Z",
+  "finishedAt": "2019-02-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40611/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/40611/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "deity",
+    "fantasy",
+    "henshin",
+    "martial arts",
+    "science fiction",
+    "seinen",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/saint-seiya-saintia-sho"
+  ],
+  "relations": {
+    "kitsu": "40611",
+    "anilist/anime": "97919",
+    "aozora": "sKoIa3AA0w",
+    "myanimelist/anime": "34539"
+  }
+}

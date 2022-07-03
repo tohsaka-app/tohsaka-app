@@ -1,0 +1,24 @@
+{
+  "slug": "yoru-ni-kakeru",
+  "synopsis": "Music video animated by Ai Niina for the song Racing into the Night by YOASOBI.",
+  "title": {
+    "en": "Racing Into The Night",
+    "jp": "Yoru Ni Kakeru"
+  },
+  "releasedAt": "2019-11-16T00:00:00.000Z",
+  "finishedAt": "2019-11-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44472/original.jpg",
+  "categories": [
+    "music",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44472",
+    "anilist/anime": "126914",
+    "myanimelist/anime": "48653"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "jormungand-perfect-order",
+  "synopsis": "A ruthless arms dealer on a quixotic quest for world peace. A child soldier born into chaotic conflict. Their lives will intertwine as they journey together through the seedy underbelly of the world's arms market. \n(Source: FUNimation) ",
+  "title": {
+    "en": "Jormungand Season 2: Perfect Order",
+    "jp": "Jormungand: Perfect Order"
+  },
+  "releasedAt": "2012-10-10T00:00:00.000Z",
+  "finishedAt": "2012-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6940/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6940/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "crime",
+    "earth",
+    "friendship",
+    "gunfights",
+    "mafia",
+    "military",
+    "present",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6940",
+    "anidb": "9076",
+    "anilist/anime": "13331",
+    "aozora": "kiVGDngucq",
+    "myanimelist/anime": "13331",
+    "thetvdb": "257756/1",
+    "thetvdb/season": "489105",
+    "thetvdb/series": "257756",
+    "trakt": "66167"
+  }
+}

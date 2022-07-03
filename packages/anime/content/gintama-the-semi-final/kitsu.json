@@ -1,0 +1,30 @@
+{
+  "slug": "gintama-the-semi-final",
+  "synopsis": "New special that will tie into the third new Gintama anime film.\n(Source: Anime News Network)",
+  "title": {
+    "jp": "Gintama: THE SEMI-FINAL"
+  },
+  "releasedAt": "2021-01-15T00:00:00.000Z",
+  "finishedAt": "2021-01-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43829/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43829/original.png",
+  "categories": [
+    "action",
+    "alien",
+    "comedy",
+    "historical",
+    "humanoid alien",
+    "parody",
+    "samurai",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43829",
+    "anilist/anime": "126819",
+    "myanimelist/anime": "44087"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "ziko-allergies",
+  "synopsis": "MV for the song Ziko Allergies by AZKi.",
+  "title": {
+    "jp": "Ziko Allergies"
+  },
+  "releasedAt": "2020-01-15T00:00:00.000Z",
+  "finishedAt": "2020-01-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43978/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=HJ6zQ3oQMCQ&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43978"
+  }
+}

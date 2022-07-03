@@ -1,0 +1,43 @@
+{
+  "slug": "ghost-hunt",
+  "synopsis": "While at school, Taniyama Mai and her friends like to exchange ghost stories. Apparently, there is an abandoned school building on their campus that is the center of many ghost stories. During the story, they are interrupted by a mysterious male figure. The person turns out to be Shibuya Kazuya, a 17-year-old who is president of the Shibuya Psychic Research Company. He was called by the principal to investigate the stories surrounding the abandoned school building.\nThe next day, on the way to school, Mai passes the school building in question. While examining a strange camera she spotted inside, she gets surprised by Kazuya's assistant. Unknowingly interfering with the investigation, Mai breaks the camera and Kazuya's assistant gets injured.\nKazuya forcefully hires Mai in order to pay for the camera and replace his injured assistant. From that point on, Mai begins to learn about the paranormal world and the profession of ghost hunting.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Ghost Hunt",
+    "jp": "Ghost Hunt"
+  },
+  "releasedAt": "2006-10-04T00:00:00.000Z",
+  "finishedAt": "2007-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1411/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1411/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "detective",
+    "earth",
+    "fantasy",
+    "ghost",
+    "horror",
+    "japan",
+    "mystery",
+    "present"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/ghost-hunt/videos/episodes",
+    "http://www.hulu.com/ghost-hunt"
+  ],
+  "relations": {
+    "kitsu": "1411",
+    "anidb": "4564",
+    "anilist/anime": "1571",
+    "aozora": "jUI5dae9H9",
+    "hulu": "11297",
+    "myanimelist/anime": "1571",
+    "thetvdb": "79527/1",
+    "thetvdb/series": "79527",
+    "trakt": "34660"
+  }
+}

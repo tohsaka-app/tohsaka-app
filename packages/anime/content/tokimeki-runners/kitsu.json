@@ -1,0 +1,25 @@
+{
+  "slug": "tokimeki-runners",
+  "synopsis": "",
+  "title": {
+    "jp": "TOKIMEKI Runners"
+  },
+  "releasedAt": "2018-11-21T00:00:00.000Z",
+  "finishedAt": "2018-11-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42981/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42981/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42981",
+    "anilist/anime": "106923",
+    "myanimelist/anime": "39944"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "dog-days",
+  "synopsis": "Dog Days takes place in the world of Flonyard, an alternate Earth inhabited by beings who resemble humans, but also have the ears and tails of specific animals. The Republic of Biscotti, a union of dog-like citizens, has come under attack by the feline forces of the Galette Leo Knights. In an effort to save Biscotti, Princess Millhiore summons a champion from another world in order to defend her people. That champion is Cinque Izumi, a normal junior high student from Earth.\nAgreeing to assist Biscotti, Cinque retrieves a sacred weapon called the Palladion and prepares for war. In Flonyard, wars are fought with no casualties and are more akin to sports competitions with the goal of raising money for the participating kingdoms. Cinque is successful in his role as Biscotti’s champion, but learns that a summoned champion cannot be returned to their home world. The scientists of Biscotti will endeavor to find a way for Cinque to return home, but until they figure something out, he must serve Princess Millhiore by continuing to fight as Biscotti’s hero.",
+  "title": {
+    "jp": "Dog Days"
+  },
+  "releasedAt": "2011-04-02T00:00:00.000Z",
+  "finishedAt": "2011-06-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6057/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6057/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "juujin",
+    "magic"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/dog-days"
+  ],
+  "relations": {
+    "kitsu": "6057",
+    "anidb": "8206",
+    "anilist/anime": "10155",
+    "aozora": "248w2lJCsi",
+    "myanimelist/anime": "10155",
+    "thetvdb": "247836/1",
+    "thetvdb/season": "463668",
+    "thetvdb/series": "247836",
+    "trakt": "44069"
+  }
+}

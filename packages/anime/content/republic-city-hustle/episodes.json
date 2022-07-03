@@ -1,0 +1,26 @@
+[
+  {
+    "title": {},
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/180668/original.png",
+    "releasedAt": "2013-08-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/180667/original.png",
+    "releasedAt": "2013-08-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/180666/original.png",
+    "releasedAt": "2013-08-23T00:00:00.000Z",
+    "content": {}
+  }
+]

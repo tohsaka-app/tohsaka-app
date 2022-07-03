@@ -1,0 +1,29 @@
+{
+  "slug": "lakewood-plaza-turbo",
+  "synopsis": "Pilot episode of OK KO.",
+  "title": {},
+  "releasedAt": "2013-05-21T00:00:00.000Z",
+  "finishedAt": "2013-05-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41472/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41472/original.png",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "friendship",
+    "kids",
+    "robot",
+    "super power",
+    "superhero",
+    "working life"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=SM6W8Oj-L3c"
+  ],
+  "relations": {
+    "kitsu": "41472"
+  }
+}

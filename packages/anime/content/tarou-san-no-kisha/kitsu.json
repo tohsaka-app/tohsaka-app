@@ -1,0 +1,26 @@
+{
+  "slug": "tarou-san-no-kisha",
+  "synopsis": "Short movie from 1929.",
+  "title": {
+    "en": null,
+    "jp": "Tarou-san no Kisha"
+  },
+  "releasedAt": "1929-01-01T00:00:00.000Z",
+  "finishedAt": "1929-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4314/original.jpg",
+  "categories": [
+    "action",
+    "anthropomorphism"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4314",
+    "anidb": "6703",
+    "anilist/anime": "5873",
+    "aozora": "8FCZx20CKf",
+    "myanimelist/anime": "5873"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "gyakusatsu-kikan",
+  "synopsis": "Based on the captivating sci-fi novel by Project Itoh, Genocidal Organ takes an introspective look at a post-9/11 future, exploring freedom, security, and a bizarre shift in terrorism throughout the world.\n\n\nAfter a homemade bomb decimates Sarajevo, developed countries rely on advanced surveillance to free them from the threat of terrorism. But while the United States enjoys heightened security, the nations it once considered threatening are mysteriously plagued by genocide within their own borders. Strangely, these massacres all link back to one American by the name of John Paul. Special agent Clavis Shepherd is sent to capture the elusive target, but even with combat meds to numb the pain and a life rooted in the bliss of ignorance, nothing can prepare this soldier—or the world—for the truth behind humanity’s darkness.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Genocidal Organ",
+    "jp": "Gyakusatsu Kikan"
+  },
+  "releasedAt": "2017-02-03T00:00:00.000Z",
+  "finishedAt": "2017-02-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8737/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8737/original.png",
+  "categories": [
+    "psychological",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8737",
+    "anidb": "10540",
+    "anilist/anime": "20919",
+    "aozora": "4SKeskwJam",
+    "myanimelist/anime": "23279"
+  }
+}

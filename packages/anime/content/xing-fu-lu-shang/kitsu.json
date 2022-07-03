@@ -1,0 +1,26 @@
+{
+  "slug": "xing-fu-lu-shang",
+  "synopsis": "Chi earned her American dream after persevering with her studies in Taiwan. Following her grandmothers’ death, Chi returns to her family on Happiness Road, where she begins to feel nostalgic about her childhood and starts to contemplate the meaning of “life” and “home”. What is happiness? Will Chi find her own happiness?\n\n(Source: Official Website)",
+  "title": {
+    "en": "On Happiness Road",
+    "jp": "Xing Fu Lu Shang"
+  },
+  "releasedAt": "2018-01-05T00:00:00.000Z",
+  "finishedAt": "2018-01-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41228/original.jpg",
+  "categories": [
+    "family",
+    "slice of life",
+    "united states"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41228",
+    "anidb": "13707",
+    "anilist/anime": "103785",
+    "myanimelist/anime": "37767"
+  }
+}

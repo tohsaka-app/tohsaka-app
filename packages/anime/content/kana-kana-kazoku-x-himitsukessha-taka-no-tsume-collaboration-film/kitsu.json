@@ -1,0 +1,24 @@
+{
+  "slug": "kana-kana-kazoku-x-himitsukessha-taka-no-tsume-collaboration-film",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Kana Kana Kazoku x Himitsukessha Taka no Tsume Collaboration Film"
+  },
+  "releasedAt": "2014-06-25T00:00:00.000Z",
+  "finishedAt": "2014-06-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10892/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10892",
+    "anilist/anime": "121081",
+    "aozora": "RcxBd0WAFr",
+    "myanimelist/anime": "30442"
+  }
+}

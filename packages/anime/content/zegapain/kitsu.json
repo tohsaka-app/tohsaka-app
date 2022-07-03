@@ -1,0 +1,42 @@
+{
+  "slug": "zegapain",
+  "synopsis": "Kyo, an avid swimmer tries his best to keep the high school swimming club going, which is pretty hard when he's the only member. Facing the prospect of the club being closed by the student council, he tries to enlist beautiful Misaki to act in a promo video, shot by his good friend Ryoko, in a bid to start a recruitment drive. She agrees but only if he pilots a mecha under the wing of Celebrum, a resistance organisation fighting to destroy Deutera Areas formed on Earth by the aliens Gards-orm. He agrees but finds it all strangely familiar as if he's done it before...\n(Source: ANN)",
+  "title": {
+    "en": "Zegapain",
+    "jp": "Zegapain"
+  },
+  "releasedAt": "2006-04-06T00:00:00.000Z",
+  "finishedAt": "2006-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/778/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/778/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "drama",
+    "earth",
+    "future",
+    "japan",
+    "mecha",
+    "piloted robot",
+    "plot continuity",
+    "post apocalypse",
+    "romance",
+    "science fiction",
+    "stereotypes",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "778",
+    "anidb": "4178",
+    "anilist/anime": "878",
+    "aozora": "jt9VJyNJzJ",
+    "myanimelist/anime": "878",
+    "thetvdb": "79797/1",
+    "thetvdb/series": "79797",
+    "trakt": "34586"
+  }
+}

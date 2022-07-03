@@ -1,0 +1,22 @@
+{
+  "slug": "fantasy-ona",
+  "synopsis": "Short animation, from oscar winner Kunio Katō (加藤久仁生) released on the web in 2003",
+  "title": {
+    "en": "Fantasy",
+    "jp": "Fantasy"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45058/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45058",
+    "anilist/anime": "126174"
+  }
+}

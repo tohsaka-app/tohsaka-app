@@ -1,0 +1,23 @@
+{
+  "slug": "tonari-no-onigiri-kun",
+  "synopsis": "The beverage company Ito En commissioned Studio Ghibli for a mascot and commercials.",
+  "title": {
+    "jp": "Tonari no Onigiri-kun"
+  },
+  "releasedAt": "2016-08-30T00:00:00.000Z",
+  "finishedAt": "2016-11-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12777/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12777",
+    "anilist/anime": "103944",
+    "aozora": "dGFaHKDAR3",
+    "myanimelist/anime": "34050"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "mr-shape-high-touch-taisou",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Mr. Shape: High Touch Taisou"
+  },
+  "releasedAt": "2015-05-11T00:00:00.000Z",
+  "finishedAt": "2015-05-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11801/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11801",
+    "anilist/anime": "103489",
+    "aozora": "Rq6v170nh3",
+    "myanimelist/anime": "31639"
+  }
+}

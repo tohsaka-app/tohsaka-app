@@ -1,0 +1,25 @@
+{
+  "slug": "kero-kero-keroppi-no-sanjuushi",
+  "synopsis": "Keroppi version of The Three Musketeers.",
+  "title": {
+    "jp": "Kero Kero Keroppi no Sanjuushi"
+  },
+  "releasedAt": "1991-07-20T00:00:00.000Z",
+  "finishedAt": "1991-07-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9879/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9879",
+    "anidb": "7799",
+    "aozora": "tzXicOJsDW",
+    "myanimelist/anime": "22649"
+  }
+}

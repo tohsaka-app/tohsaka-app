@@ -1,0 +1,27 @@
+{
+  "slug": "ling-long-incarnation-middle-chapter",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2019-11-17T00:00:00.000Z",
+  "finishedAt": "2019-11-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43616/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "drama",
+    "horror",
+    "science fiction",
+    "thriller"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=GCIw2JS6Udw&list=PLBakWosU0sfhf0ts0964miaEDNUl3esKK&ab_channel=%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9%E5%8A%A8%E7%94%BBAnimeMadeByBilibili"
+  ],
+  "relations": {
+    "kitsu": "43616",
+    "anilist/anime": "126832",
+    "myanimelist/anime": "42985"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "ganbare-goemon",
+  "synopsis": "The evil overlord Makuamuge is planning to take over both the game and real worlds, and it is up to the ninja Goemon, his friends, girlfriend, and giant robot to defeat Makuamuge's henchmen and save both worlds.",
+  "title": {
+    "en": "Legend of the Mystical Ninja",
+    "jp": "Ganbare Goemon"
+  },
+  "releasedAt": "1997-10-04T00:00:00.000Z",
+  "finishedAt": "1998-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2622/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "ninja",
+    "piloted robot",
+    "steampunk"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2622",
+    "anidb": "2423",
+    "anilist/anime": "2885",
+    "aozora": "2KiXLSDFWa",
+    "myanimelist/anime": "2885",
+    "thetvdb": "85268/1",
+    "thetvdb/series": "85268",
+    "trakt": "8613"
+  }
+}

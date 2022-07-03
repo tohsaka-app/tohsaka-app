@@ -1,0 +1,26 @@
+{
+  "slug": "stella-no-mahou-specials",
+  "synopsis": "Specials bundled with the third and fourth discs of the Stella no Mahou television series.",
+  "title": {
+    "en": "Magic of Stella Specials",
+    "jp": "Stella no Mahou Specials"
+  },
+  "releasedAt": "2017-02-24T00:00:00.000Z",
+  "finishedAt": "2017-03-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13509/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13509",
+    "anilist/anime": "98548",
+    "aozora": "0QhdECR1iF",
+    "myanimelist/anime": "35522"
+  }
+}

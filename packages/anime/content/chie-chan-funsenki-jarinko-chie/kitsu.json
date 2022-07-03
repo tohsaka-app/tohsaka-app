@@ -1,0 +1,25 @@
+{
+  "slug": "chie-chan-funsenki-jarinko-chie",
+  "synopsis": "An adaptation of the first series, with different characters and an alternate setting.",
+  "title": {
+    "jp": "Chie-chan Funsenki: Jarinko Chie"
+  },
+  "releasedAt": "1991-10-19T00:00:00.000Z",
+  "finishedAt": "1992-09-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5711/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5711",
+    "anidb": "4299",
+    "anilist/anime": "9383",
+    "aozora": "5hzQFRKQ3d",
+    "myanimelist/anime": "9383"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "detective-conan-movie-15-quarter-of-silence",
+  "synopsis": "The story begins with a threat against the Tokyo governor, but Conan's quick thinking prevents any fatalities when a subway tunnel is blown up. Conan learns there may be a connection to a village that was relocated for the construction of a dam, and he races to stop the criminal before the next attack.\n(Source: ANN)",
+  "title": {
+    "en": "Case Closed Movie 15: Quarter of Silence",
+    "jp": "Detective Conan Movie 15: Quarter of Silence"
+  },
+  "releasedAt": "2011-04-16T00:00:00.000Z",
+  "finishedAt": "2011-04-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5967/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "comedy",
+    "cops",
+    "detective",
+    "earth",
+    "japan",
+    "mystery",
+    "present",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5967",
+    "anidb": "8121",
+    "anilist/anime": "9963",
+    "aozora": "2MRgsKPfts",
+    "myanimelist/anime": "9963"
+  }
+}

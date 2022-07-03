@@ -1,0 +1,22 @@
+{
+  "slug": "neko-konogoro",
+  "synopsis": "Based on the characters created by Study.",
+  "title": {
+    "jp": "Neko Konogoro"
+  },
+  "releasedAt": "2016-06-08T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12288/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12288",
+    "aozora": "sdrF2PEc89",
+    "myanimelist/anime": "33398"
+  }
+}

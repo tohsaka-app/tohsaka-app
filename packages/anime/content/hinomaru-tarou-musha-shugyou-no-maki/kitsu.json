@@ -1,0 +1,27 @@
+{
+  "slug": "hinomaru-tarou-musha-shugyou-no-maki",
+  "synopsis": "The hero Taro attempts to rescue a kidnapped girl from a bandit.  Short film from 1936.",
+  "title": {
+    "en": "Taro's Early Training Days",
+    "jp": "Hinomaru Tarou: Musha Shugyou no Maki"
+  },
+  "releasedAt": "1936-01-01T00:00:00.000Z",
+  "finishedAt": "1936-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4741/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4741/original.png",
+  "categories": [
+    "action",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4741",
+    "anidb": "6723",
+    "anilist/anime": "6839",
+    "aozora": "SnAn2vNyMx",
+    "myanimelist/anime": "6839"
+  }
+}

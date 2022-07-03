@@ -1,0 +1,28 @@
+{
+  "slug": "log-horizon-recap",
+  "synopsis": "Recap of the first six episodes of Log Horizon, aired between episode 6-7.",
+  "title": {
+    "jp": "Log Horizon Recap"
+  },
+  "releasedAt": "2013-11-11T00:00:00.000Z",
+  "finishedAt": "2013-11-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8114/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8114/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "isekai",
+    "magic",
+    "politics"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8114",
+    "aozora": "KktyXrr67S",
+    "myanimelist/anime": "21235"
+  }
+}

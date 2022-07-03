@@ -1,0 +1,25 @@
+{
+  "slug": "tokyo-magnitude-8-0-recap",
+  "synopsis": "Recap special of Tokyo Magnitude 8.0.",
+  "title": {
+    "jp": "Tokyo Magnitude 8.0 Recap"
+  },
+  "releasedAt": "2009-12-11T00:00:00.000Z",
+  "finishedAt": "2009-12-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5069/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [
+    "http://www.hulu.com/tokyo-magnitude-80"
+  ],
+  "relations": {
+    "kitsu": "5069",
+    "anilist/anime": "7654",
+    "aozora": "Sk4VdTmsef",
+    "myanimelist/anime": "7654"
+  }
+}

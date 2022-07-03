@@ -1,0 +1,27 @@
+{
+  "slug": "hololive-ieru-ka-na-beyond-the-stage-ver",
+  "synopsis": "Updated version of Tsunomaki Watame's song featuring all current members of Hololive.",
+  "title": {
+    "en": "Can You Do the hololive? Beyond the Stage ver.",
+    "jp": "hololive Ieru ka na? Beyond the Stage ver."
+  },
+  "releasedAt": "2021-01-08T00:00:00.000Z",
+  "finishedAt": "2021-01-08T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43859/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43859/original.jpg",
+  "categories": [
+    "comedy",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=mZ0sJQC8qkE"
+  ],
+  "relations": {
+    "kitsu": "43859",
+    "anilist/anime": "129070"
+  }
+}

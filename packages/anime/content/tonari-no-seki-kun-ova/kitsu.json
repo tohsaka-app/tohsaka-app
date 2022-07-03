@@ -1,0 +1,26 @@
+{
+  "slug": "tonari-no-seki-kun-ova",
+  "synopsis": "OVA of Tonari no Seki-kun bundled with the fifth manga volume.",
+  "title": {
+    "jp": "Tonari no Seki-kun OVA"
+  },
+  "releasedAt": "2014-01-04T00:00:00.000Z",
+  "finishedAt": "2014-01-04T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8198/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8198/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8198",
+    "anidb": "10386",
+    "anilist/anime": "20600",
+    "aozora": "bthDpPsT4C",
+    "myanimelist/anime": "20977"
+  }
+}

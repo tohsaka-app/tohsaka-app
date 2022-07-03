@@ -1,0 +1,26 @@
+{
+  "slug": "hetalia-world-series-extra-episodes",
+  "synopsis": "Extra episodes of Hetalia World Series. \nIncludes:\n- Hetalia Extra 1: Chatty Nordics\n- Hetalia Extra 2: Celebrating Halloween\n- Hetalia Extra 3: Previously in Hetalia\n- Hetalia Extra 4: Hetalia Fantasia",
+  "title": {
+    "en": "Hetalia World Series Extra Episodes",
+    "jp": "Hetalia World Series Specials"
+  },
+  "releasedAt": "2011-03-25T00:00:00.000Z",
+  "finishedAt": "2012-09-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6206/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6206",
+    "anilist/anime": "10497",
+    "aozora": "QWgrjX9Ypg",
+    "myanimelist/anime": "10497"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "bara-bara-film",
+  "synopsis": "Furukawa Taku film.",
+  "title": {
+    "jp": "Bara Bara Film"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10806/original.gif",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10806",
+    "anidb": "11420",
+    "anilist/anime": "103700",
+    "aozora": "uG0fxvgBiK",
+    "myanimelist/anime": "30480"
+  }
+}

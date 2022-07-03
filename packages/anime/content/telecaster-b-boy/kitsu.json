@@ -1,0 +1,22 @@
+{
+  "slug": "telecaster-b-boy",
+  "synopsis": null,
+  "title": {
+    "jp": "Telecaster B-Boy"
+  },
+  "releasedAt": "2020-09-12T00:00:00.000Z",
+  "finishedAt": "2020-09-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43598/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43598/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43598"
+  }
+}

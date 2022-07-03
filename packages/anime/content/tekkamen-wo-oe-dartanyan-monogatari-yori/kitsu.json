@@ -1,0 +1,30 @@
+{
+  "slug": "tekkamen-wo-oe-dartanyan-monogatari-yori",
+  "synopsis": "Based on The Three Musketeers by Alexandre Dumas.",
+  "title": {
+    "jp": "Tekkamen wo Oe: \"d'Artagnan Monogatari\" yori"
+  },
+  "releasedAt": "1987-05-05T00:00:00.000Z",
+  "finishedAt": "1987-05-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5246/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "conspiracy",
+    "europe",
+    "france",
+    "historical",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5246",
+    "anidb": "3624",
+    "anilist/anime": "8214",
+    "aozora": "e2NiRuKqaG",
+    "myanimelist/anime": "8214"
+  }
+}

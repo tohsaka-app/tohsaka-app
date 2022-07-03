@@ -1,0 +1,31 @@
+{
+  "slug": "dt-eightron",
+  "synopsis": "Shu is from Datania, a country that makes young children work. He and his friends were trying to escape when they met the Returners. The Returners are some kind of rebels to Datania. Shu goes with the Returners to fight Zero, Nines, and his men who are after DT, a special substance inside humans.\n(Source: ANN)",
+  "title": {
+    "en": "DT Eightron",
+    "jp": "DT Eightron"
+  },
+  "releasedAt": "1998-04-18T00:00:00.000Z",
+  "finishedAt": "1998-11-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1179/original.jpg",
+  "categories": [
+    "action",
+    "dystopia",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1179",
+    "anidb": "3311",
+    "anilist/anime": "1314",
+    "aozora": "0hfdnkl9tE",
+    "myanimelist/anime": "1314",
+    "thetvdb": "244421/1",
+    "thetvdb/series": "244421",
+    "trakt": "64741"
+  }
+}

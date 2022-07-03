@@ -1,0 +1,25 @@
+{
+  "slug": "boku-no-hero-academia-the-movie-2-heroes-rising-epilogue-plus-yume-wo-genjitsu-ni",
+  "synopsis": "A picture drama epilogue to the film Boku no Hero Academia the Movie 2: Heroes:Rising, bundled with the BD/DVD release.",
+  "title": {
+    "en": "My Hero Academia Movie 2: Heroes Rising Epilogue Plus",
+    "jp": "Boku no Hero Academia the Movie 2: Heroes:Rising - Epilogue Plus - Yume wo Genjitsu ni"
+  },
+  "releasedAt": "2020-07-15T00:00:00.000Z",
+  "finishedAt": "2020-07-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43726/original.jpeg",
+  "categories": [
+    "comedy",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43726",
+    "anilist/anime": "126661",
+    "myanimelist/anime": "43683"
+  }
+}

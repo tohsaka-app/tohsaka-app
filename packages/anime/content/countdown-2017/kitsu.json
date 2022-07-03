@@ -1,0 +1,21 @@
+{
+  "slug": "countdown-2017",
+  "synopsis": "Third T.I.E special since the Toonami Relaunch.",
+  "title": {},
+  "releasedAt": "2017-11-04T00:00:00.000Z",
+  "finishedAt": "2017-11-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42014/original.jpg",
+  "categories": [
+    "anime influenced",
+    "mecha",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42014"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "hakuouki",
+  "synopsis": "In 1860's Edo, Japan, 16-year-old Chizuru Yukimura lives a simple life as the daughter of a doctor. When her father's work takes him away from home and into the capital of Kyoto, Chizuru is left alone with only the letters from her father as a means to stay in contact with him. After the letters stop coming though, Chizuru becomes gravely concerned. Disguising herself as a man for safety, she travels to Kyoto to find him, only to find herself being attacked by a group of samurai and a strange, almost inhuman man. Chizuru is saved by a mysterious member of a group known as the Shinsengumi, but because of what she witnessed, she's taken back to their base of operations to be interrogated and possibly silenced…forever.Hakuouki features the striking young men of the Shinsengumi and their secret clan of warriors, who decide to spare Chizuru upon finding out who her father is, revealing that they too are looking for him, but for different reasons. Now Chizuru must not only continue the search for her father among her new friends, but discover secrets bigger than she ever imagined, all the while forming bonds with the handsome young men that will forever change the course of their lives.",
+  "title": {
+    "en": "Hakuoki ~Demon of the Fleeting Blossom~",
+    "jp": "Hakuouki"
+  },
+  "releasedAt": "2010-04-04T00:00:00.000Z",
+  "finishedAt": "2010-06-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4775/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4775/original.jpg",
+  "categories": [
+    "action",
+    "bakumatsu   meiji period",
+    "bishounen",
+    "historical",
+    "josei",
+    "past",
+    "reverse harem",
+    "samurai",
+    "shinsengumi",
+    "swordplay",
+    "tokugawa period",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4775",
+    "anidb": "7405",
+    "anilist/anime": "6895",
+    "aozora": "f9ZopQxaxd",
+    "hulu": "50008610",
+    "myanimelist/anime": "6895",
+    "thetvdb": "151281/1",
+    "thetvdb/season": "217281",
+    "thetvdb/series": "151281",
+    "trakt": "44073"
+  }
+}

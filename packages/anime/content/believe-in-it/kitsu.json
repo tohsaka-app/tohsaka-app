@@ -1,0 +1,23 @@
+{
+  "slug": "believe-in-it",
+  "synopsis": "\"Your dream will come true if you believe in it.\"\n(Source: Maya Yonesho)",
+  "title": {
+    "jp": "Believe in It"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10374/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10374",
+    "anilist/anime": "138988",
+    "aozora": "F6JVPlgEFt",
+    "myanimelist/anime": "29710"
+  }
+}

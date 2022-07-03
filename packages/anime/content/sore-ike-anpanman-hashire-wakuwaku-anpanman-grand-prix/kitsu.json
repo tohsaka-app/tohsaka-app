@@ -1,0 +1,27 @@
+{
+  "slug": "sore-ike-anpanman-hashire-wakuwaku-anpanman-grand-prix",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Hashire! Wakuwaku Anpanman Grand Prix"
+  },
+  "releasedAt": "2010-07-10T00:00:00.000Z",
+  "finishedAt": "2010-07-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9612/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9612",
+    "anidb": "9792",
+    "anilist/anime": "121835",
+    "aozora": "Ldn1OSKW3K",
+    "myanimelist/anime": "27569"
+  }
+}

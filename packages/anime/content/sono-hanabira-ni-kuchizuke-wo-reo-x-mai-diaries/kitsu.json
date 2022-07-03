@@ -1,0 +1,26 @@
+{
+  "slug": "sono-hanabira-ni-kuchizuke-wo-reo-x-mai-diaries",
+  "synopsis": "Short picture episodes of Reo and Mai during their daily life as a couple.",
+  "title": {
+    "jp": "Sono Hanabira ni Kuchizuke wo: Reo x Mai Diaries"
+  },
+  "releasedAt": "2009-09-26T00:00:00.000Z",
+  "finishedAt": "2009-11-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6159/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life",
+    "shoujo ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6159",
+    "anilist/anime": "10384",
+    "aozora": "ahoyjuK3DD",
+    "myanimelist/anime": "10384"
+  }
+}

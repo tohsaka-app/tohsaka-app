@@ -1,0 +1,29 @@
+{
+  "slug": "bakuten",
+  "synopsis": "The anime is set in Miyagi prefecture's Iwanuma city, and centers on a high school rhythmic gymnastics team. The anime follows Shoutarou Futaba, who is fascinated by gymnastics after seeing it in his third year of middle school, and joins the rhythmic gymnastics team of his new high school Soushuukan High School, nicknamed \"Ao High.\" He makes a friend with his schoolmate Ryouya Misato, who earned fame for as a gymnast during middle school.\n\n(Source: ANN)",
+  "title": {
+    "en": "Backflip!!",
+    "jp": "Bakuten!!"
+  },
+  "releasedAt": "2021-04-09T00:00:00.000Z",
+  "finishedAt": "2021-06-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44123/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44123/original.png",
+  "categories": [
+    "comedy",
+    "drama",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/backflip"
+  ],
+  "relations": {
+    "kitsu": "44123",
+    "anidb": "15830",
+    "anilist/anime": "125839",
+    "myanimelist/anime": "43756"
+  }
+}

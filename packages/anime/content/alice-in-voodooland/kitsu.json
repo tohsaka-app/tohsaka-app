@@ -1,0 +1,27 @@
+{
+  "slug": "alice-in-voodooland",
+  "synopsis": "Music video by Kousuke Sugimoto for the title track Alice In Voodooland by RoughSketch and featuring Aikapin.",
+  "title": {
+    "en": "Alice in Voodooland",
+    "jp": "Alice in Voodooland"
+  },
+  "releasedAt": "2016-10-05T00:00:00.000Z",
+  "finishedAt": "2016-10-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42784/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "horror",
+    "music",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42784",
+    "anilist/anime": "107257",
+    "myanimelist/anime": "38906"
+  }
+}

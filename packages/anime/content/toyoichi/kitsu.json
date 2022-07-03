@@ -1,0 +1,23 @@
+{
+  "slug": "toyoichi",
+  "synopsis": "Official music video for Lai Lai Lai Team's song Toyoichi which was included on the album of the same name.\n",
+  "title": {
+    "en": "Toyoichi",
+    "jp": "Toyoichi"
+  },
+  "releasedAt": "2014-08-02T00:00:00.000Z",
+  "finishedAt": "2014-08-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14080/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14080",
+    "anilist/anime": "102579",
+    "myanimelist/anime": "36086"
+  }
+}

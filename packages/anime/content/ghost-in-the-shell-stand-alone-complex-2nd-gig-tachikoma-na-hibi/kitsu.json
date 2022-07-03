@@ -1,0 +1,27 @@
+{
+  "slug": "ghost-in-the-shell-stand-alone-complex-2nd-gig-tachikoma-na-hibi",
+  "synopsis": "Tachikomatic Days is a series of comedic shorts attached to the end of every episode of Ghost in the Shell: Stand Alone Complex 2nd GIG. The shorts feature the antics of the Tachikoma think tanks of Section 9 and usually involve plot points. The average short time is a little over a minute.",
+  "title": {
+    "en": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikomatic Days",
+    "jp": "Ghost in the Shell: Stand Alone Complex 2nd GIG - Tachikoma na Hibi"
+  },
+  "releasedAt": "2004-09-10T00:00:00.000Z",
+  "finishedAt": "2006-09-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3045/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3045/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3045",
+    "anilist/anime": "3485",
+    "aozora": "faf76d4hnP",
+    "myanimelist/anime": "3485"
+  }
+}

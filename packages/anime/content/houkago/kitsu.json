@@ -1,0 +1,22 @@
+{
+  "slug": "houkago",
+  "synopsis": "A film by Kei Oyama about junior high students.",
+  "title": {
+    "en": "Houkago",
+    "jp": "Houkago"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45293/poster_image/edd23604cf064594a10613560ee5a341.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45293",
+    "anilist/anime": "140038"
+  }
+}

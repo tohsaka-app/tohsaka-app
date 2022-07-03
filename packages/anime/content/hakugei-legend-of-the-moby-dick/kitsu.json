@@ -1,0 +1,39 @@
+{
+  "slug": "hakugei-legend-of-the-moby-dick",
+  "synopsis": "A courageous young man tries to find the only person who can save his planet from the most terrifying beast in the universe -- the great white whale Moby Dick -- in this futuristic anime adventure set in 4699. But locating the outlaw Captain Ahab and his elusory crew of whale hunters and persuading them to put an end to the leviathan's long reign of terror won't be easy. Will Ahab take up the challenge one more time? ",
+  "title": {
+    "en": "Hakugei: Legend of the Moby Dick",
+    "jp": "Hakugei Densetsu"
+  },
+  "releasedAt": "1997-04-09T00:00:00.000Z",
+  "finishedAt": "1999-05-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1313/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1313/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "android",
+    "future",
+    "gunfights",
+    "mecha",
+    "other planet",
+    "robot",
+    "science fiction",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1313",
+    "anidb": "3660",
+    "anilist/anime": "1466",
+    "aozora": "amX23WG96v",
+    "myanimelist/anime": "1466",
+    "thetvdb": "252853/1",
+    "thetvdb/series": "252853",
+    "trakt": "9603"
+  }
+}

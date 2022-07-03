@@ -1,0 +1,24 @@
+{
+  "slug": "hamster-sam",
+  "synopsis": "Stop-motion animation using a hamster puppet. The anime usually has Sam singing, sometimes strumming his guitar, or dancing.\n\nNote: It is unrelated to Hamster S.A.M. the US children's book series.",
+  "title": {
+    "en": null,
+    "jp": "Hamster Sam"
+  },
+  "releasedAt": "1998-12-07T00:00:00.000Z",
+  "finishedAt": "1999-07-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10259/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10259",
+    "aozora": "cSXu9aEY1u",
+    "myanimelist/anime": "29507"
+  }
+}

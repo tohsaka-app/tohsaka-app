@@ -1,0 +1,24 @@
+{
+  "slug": "walking-man",
+  "synopsis": "Film by Tanaami Keiichi.",
+  "title": {
+    "jp": "Walking Man"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10934/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10934",
+    "anidb": "11311",
+    "anilist/anime": "102388",
+    "aozora": "TDPwFVrxhd",
+    "myanimelist/anime": "30668"
+  }
+}

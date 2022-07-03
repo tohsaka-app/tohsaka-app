@@ -1,0 +1,24 @@
+{
+  "slug": "dr-stone-stone-wars-eve-of-the-battle-special-feature",
+  "synopsis": "Recap of Dr Stone season 1 originaly shown at Jump Festa 2020.",
+  "title": {
+    "en": "Dr. Stone: Stone Wars Eve of the Battle Special Feature",
+    "jp": "Dr. Stone: Stone Wars - Kaisen Zenya Special Eizou"
+  },
+  "releasedAt": "2020-10-11T00:00:00.000Z",
+  "finishedAt": "2020-10-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43682/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/43682/cover_image/d480dd0e7da6be0ef549f40add8c9446.jpg",
+  "categories": [],
+  "externals": [
+    "https://www.youtube.com/watch?v=vO_KhCqmP-8&feature=emb_title&ab_channel=CrunchyrollCollection"
+  ],
+  "relations": {
+    "kitsu": "43682",
+    "anidb": "14491",
+    "myanimelist/anime": "43555"
+  }
+}

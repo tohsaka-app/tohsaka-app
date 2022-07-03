@@ -1,0 +1,23 @@
+{
+  "slug": "boku-datte-kirei-ni-shitainda",
+  "synopsis": "An educational film about the bystander effect that happens with bullying.",
+  "title": {
+    "jp": "Boku datte, Kirei ni Shitainda"
+  },
+  "releasedAt": "1997-01-01T00:00:00.000Z",
+  "finishedAt": "1997-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9810/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9810",
+    "anidb": "10096",
+    "aozora": "qA6ogEzqGQ",
+    "myanimelist/anime": "23731"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "wan-sheng-jie-3",
+  "synopsis": "Third season of Wan Sheng Jie.",
+  "title": {
+    "en": "All Saints Street 3"
+  },
+  "releasedAt": "2022-01-26T00:00:00.000Z",
+  "finishedAt": "2022-04-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44980/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44980/cover_image/7d388222311e5e1128042e3ed5318023.jpeg",
+  "categories": [
+    "angel",
+    "comedy",
+    "contemporary fantasy",
+    "demon",
+    "juujin",
+    "slice of life",
+    "supernatural",
+    "vampire",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44980",
+    "anilist/anime": "137740",
+    "myanimelist/anime": "49587"
+  }
+}

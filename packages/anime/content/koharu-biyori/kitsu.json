@@ -1,0 +1,34 @@
+{
+  "slug": "koharu-biyori",
+  "synopsis": "Set in a near future, a time where robots are common workers for their owners. Takaya Murase has just purchased a maid robot from a robotic doll distriubutor, MaidWorks. Ready to live a normal cleaning, cooking, and serving life to her owner, Yui is purchased, by Takaya but he has other plans for her...like dressing her up in dress-costumes of his fantasies and more.\n(Source: ANN)",
+  "title": {
+    "en": "Indian Summer",
+    "jp": "Koharu Biyori"
+  },
+  "releasedAt": "2007-10-14T00:00:00.000Z",
+  "finishedAt": "2008-03-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2781/original.jpg",
+  "categories": [
+    "android",
+    "asia",
+    "comedy",
+    "ecchi",
+    "japan",
+    "maid",
+    "science fiction",
+    "super deformed"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/indian-summer"
+  ],
+  "relations": {
+    "kitsu": "2781",
+    "anidb": "5278",
+    "anilist/anime": "3085",
+    "aozora": "AAcom2MpDO",
+    "myanimelist/anime": "3085"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "tengoku",
+  "synopsis": "Official music video for Lai Lai Lai Team's song Tengoku which was included on the album of the same name.",
+  "title": {
+    "en": "Heaven",
+    "jp": "Tengoku"
+  },
+  "releasedAt": "2012-04-16T00:00:00.000Z",
+  "finishedAt": "2012-04-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13979/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13979",
+    "anilist/anime": "104478",
+    "myanimelist/anime": "36081"
+  }
+}

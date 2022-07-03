@@ -1,0 +1,732 @@
+[
+  {
+    "title": {
+      "jp": "Nice guy of wilderness"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65425/original.jpg",
+    "releasedAt": "1979-10-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Combat mission and hiding stronghold"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65426/original.jpg",
+    "releasedAt": "1979-10-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Scream, red desert"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65427/original.jpg",
+    "releasedAt": "1979-10-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Reviving life"
+    },
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65428/original.jpg",
+    "releasedAt": "1979-10-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dead fighting of death valley"
+    },
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65429/original.jpg",
+    "releasedAt": "1979-11-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Trap of Victor Town"
+    },
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65430/original.jpg",
+    "releasedAt": "1979-11-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kape Vuiretsuji of the evening sun"
+    },
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65431/original.jpg",
+    "releasedAt": "1979-11-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Breaking in enemy of anger"
+    },
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65432/original.jpg",
+    "releasedAt": "1979-11-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fearfully Dokuma president"
+    },
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65433/original.jpg",
+    "releasedAt": "1979-12-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chief of red nose"
+    },
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65434/original.jpg",
+    "releasedAt": "1979-12-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Bravery 7th regiment"
+    },
+    "season": 1,
+    "number": 11,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65435/original.jpg",
+    "releasedAt": "1979-12-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rose of sorrow"
+    },
+    "season": 1,
+    "number": 12,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65436/original.jpg",
+    "releasedAt": "1979-12-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gordian on search"
+    },
+    "season": 1,
+    "number": 13,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65437/original.jpg",
+    "releasedAt": "1979-12-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The giant star which burns"
+    },
+    "season": 1,
+    "number": 14,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65438/original.jpg",
+    "releasedAt": "1980-01-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Lullaby of wilderness"
+    },
+    "season": 1,
+    "number": 15,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65439/original.jpg",
+    "releasedAt": "1980-01-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Intense fighting professional"
+    },
+    "season": 1,
+    "number": 16,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65440/original.jpg",
+    "releasedAt": "1980-01-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The gunman who challenges to the darkness"
+    },
+    "season": 1,
+    "number": 17,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65441/original.jpg",
+    "releasedAt": "1980-01-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Crisis one hair hell lock"
+    },
+    "season": 1,
+    "number": 18,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65442/original.jpg",
+    "releasedAt": "1980-02-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Puzzle of Victor Town ground nadir"
+    },
+    "season": 1,
+    "number": 19,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65443/original.jpg",
+    "releasedAt": "1980-02-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Confrontation of starry sky"
+    },
+    "season": 1,
+    "number": 20,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65444/original.jpg",
+    "releasedAt": "1980-02-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Secret fighting Maunteihon"
+    },
+    "season": 1,
+    "number": 21,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65445/original.jpg",
+    "releasedAt": "1980-02-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rebellion of Victor Town"
+    },
+    "season": 1,
+    "number": 22,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65446/original.jpg",
+    "releasedAt": "1980-03-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Combat mission of dawn"
+    },
+    "season": 1,
+    "number": 23,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65447/original.jpg",
+    "releasedAt": "1980-03-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Under the flag of freedom and justice"
+    },
+    "season": 1,
+    "number": 24,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65448/original.jpg",
+    "releasedAt": "1980-03-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It is dangerous, it does! Victor Town"
+    },
+    "season": 1,
+    "number": 25,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65449/original.jpg",
+    "releasedAt": "1980-03-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Decisive battle and Victory"
+    },
+    "season": 1,
+    "number": 26,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65450/original.jpg",
+    "releasedAt": "1980-03-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Stronghold Santori of life"
+    },
+    "season": 1,
+    "number": 27,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65451/original.jpg",
+    "releasedAt": "1980-04-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The road to the victory which becomes far"
+    },
+    "season": 1,
+    "number": 28,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65452/original.jpg",
+    "releasedAt": "1980-04-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Girl who Bears the Cross"
+    },
+    "season": 1,
+    "number": 29,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65453/original.jpg",
+    "releasedAt": "1980-04-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Secret of Project X"
+    },
+    "season": 1,
+    "number": 30,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65454/original.jpg",
+    "releasedAt": "1980-04-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tomorrow it is not fight"
+    },
+    "season": 1,
+    "number": 31,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65455/original.jpg",
+    "releasedAt": "1980-05-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Obtain Clint"
+    },
+    "season": 1,
+    "number": 32,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65456/original.jpg",
+    "releasedAt": "1980-05-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Large escape of decision death"
+    },
+    "season": 1,
+    "number": 33,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65457/original.jpg",
+    "releasedAt": "1980-05-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Wilderness of betrayal"
+    },
+    "season": 1,
+    "number": 34,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65458/original.jpg",
+    "releasedAt": "1980-05-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Orphan base Santori"
+    },
+    "season": 1,
+    "number": 35,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65459/original.jpg",
+    "releasedAt": "1980-06-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Enduring the large rock squadron which depends"
+    },
+    "season": 1,
+    "number": 36,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65460/original.jpg",
+    "releasedAt": "1980-06-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Puzzle of Dokuma 6000 year"
+    },
+    "season": 1,
+    "number": 37,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65461/original.jpg",
+    "releasedAt": "1980-06-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Puzzle of fall satellite"
+    },
+    "season": 1,
+    "number": 38,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65462/original.jpg",
+    "releasedAt": "1980-06-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Attack of meteoric swarm"
+    },
+    "season": 1,
+    "number": 39,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65463/original.jpg",
+    "releasedAt": "1980-06-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hit the big gun and crush"
+    },
+    "season": 1,
+    "number": 40,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65464/original.jpg",
+    "releasedAt": "1980-07-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Feeling needless carefulness stick"
+    },
+    "season": 1,
+    "number": 41,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65465/original.jpg",
+    "releasedAt": "1980-07-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Madam Kuin of trace"
+    },
+    "season": 1,
+    "number": 42,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65466/original.jpg",
+    "releasedAt": "1980-07-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "In addition positive it climbs"
+    },
+    "season": 1,
+    "number": 43,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65467/original.jpg",
+    "releasedAt": "1980-07-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Birth cry in battle"
+    },
+    "season": 1,
+    "number": 44,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65468/original.jpg",
+    "releasedAt": "1980-08-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Power of ikusutoron puzzle"
+    },
+    "season": 1,
+    "number": 45,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65469/original.jpg",
+    "releasedAt": "1980-08-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Bride of Santori"
+    },
+    "season": 1,
+    "number": 46,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65470/original.jpg",
+    "releasedAt": "1980-08-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Breaking Santori encircling operation"
+    },
+    "season": 1,
+    "number": 47,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65471/original.jpg",
+    "releasedAt": "1980-08-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Approaching the large accident which comes"
+    },
+    "season": 1,
+    "number": 48,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65472/original.jpg",
+    "releasedAt": "1980-08-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The secret messenger who crosses the muddy stream"
+    },
+    "season": 1,
+    "number": 49,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65473/original.jpg",
+    "releasedAt": "1980-09-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Large flood secret (top secret) defeat maneuvers"
+    },
+    "season": 1,
+    "number": 50,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65474/original.jpg",
+    "releasedAt": "1980-09-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Approach mysterious tornado"
+    },
+    "season": 1,
+    "number": 51,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65475/original.jpg",
+    "releasedAt": "1980-09-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Acting cool of sun"
+    },
+    "season": 1,
+    "number": 52,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65476/original.jpg",
+    "releasedAt": "1980-09-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Destruction of enormous civilization town"
+    },
+    "season": 1,
+    "number": 53,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65477/original.jpg",
+    "releasedAt": "1980-10-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The poison demon interstellar war which is disclosed"
+    },
+    "season": 1,
+    "number": 54,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65478/original.jpg",
+    "releasedAt": "1980-10-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great heritage"
+    },
+    "season": 1,
+    "number": 55,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65479/original.jpg",
+    "releasedAt": "1980-10-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The journey which becomes far"
+    },
+    "season": 1,
+    "number": 56,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65480/original.jpg",
+    "releasedAt": "1980-10-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Space ship number of wonder"
+    },
+    "season": 1,
+    "number": 57,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65481/original.jpg",
+    "releasedAt": "1980-11-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Large ice field of slaughter"
+    },
+    "season": 1,
+    "number": 58,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65482/original.jpg",
+    "releasedAt": "1980-11-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Steed assassination"
+    },
+    "season": 1,
+    "number": 59,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65483/original.jpg",
+    "releasedAt": "1980-11-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Oath of dawn"
+    },
+    "season": 1,
+    "number": 60,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65484/original.jpg",
+    "releasedAt": "1980-11-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It recaptures the number"
+    },
+    "season": 1,
+    "number": 61,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65485/original.jpg",
+    "releasedAt": "1980-11-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Daigo assassination command"
+    },
+    "season": 1,
+    "number": 62,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65486/original.jpg",
+    "releasedAt": "1980-12-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Duel to the Death, Gordian"
+    },
+    "season": 1,
+    "number": 63,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65487/original.jpg",
+    "releasedAt": "1980-12-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Blizzard of love"
+    },
+    "season": 1,
+    "number": 64,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65488/original.jpg",
+    "releasedAt": "1980-12-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Decisive battle eve"
+    },
+    "season": 1,
+    "number": 65,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65489/original.jpg",
+    "releasedAt": "1980-12-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Starting which becomes new"
+    },
+    "season": 1,
+    "number": 66,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65490/original.jpg",
+    "releasedAt": "1981-01-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Counterattack of Dokuma disk"
+    },
+    "season": 1,
+    "number": 67,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65491/original.jpg",
+    "releasedAt": "1981-01-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Approach of abnormal life body"
+    },
+    "season": 1,
+    "number": 68,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65492/original.jpg",
+    "releasedAt": "1981-01-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Monster of dimensional valley"
+    },
+    "season": 1,
+    "number": 69,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65493/original.jpg",
+    "releasedAt": "1981-01-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The desired planet which is lost"
+    },
+    "season": 1,
+    "number": 70,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65494/original.jpg",
+    "releasedAt": "1981-02-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Pollution planet SOS"
+    },
+    "season": 1,
+    "number": 71,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65495/original.jpg",
+    "releasedAt": "1981-02-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Decisive battle zone 9999"
+    },
+    "season": 1,
+    "number": 72,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65496/original.jpg",
+    "releasedAt": "1981-02-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Super outer space of glory"
+    },
+    "season": 1,
+    "number": 73,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/65497/original.jpg",
+    "releasedAt": "1981-02-22T00:00:00.000Z",
+    "content": {}
+  }
+]

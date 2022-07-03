@@ -1,0 +1,32 @@
+{
+  "slug": "uchuu-no-senshi",
+  "synopsis": "Johnny Rico is a high school student living in Buenos Aires, who doesn't know what to do with his future life. When his friend Carl and his love Carmen, whom he grew up with, join the Federal Military, he does too enlist in the hope to chase after his love into space. However, a war is brewing on the outer planets with a strange bug-like alien enemy and Johnny is thrust into conflict.\n(Source: AniDB)",
+  "title": {
+    "en": "Starship Troopers",
+    "jp": "Uchuu no Senshi"
+  },
+  "releasedAt": "1988-10-25T00:00:00.000Z",
+  "finishedAt": "1988-12-17T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2282/original.jpg",
+  "categories": [
+    "alien",
+    "future",
+    "mecha",
+    "military",
+    "power suit",
+    "science fiction",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2282",
+    "anidb": "1535",
+    "anilist/anime": "2516",
+    "aozora": "dBtlAvInFb",
+    "myanimelist/anime": "2516"
+  }
+}

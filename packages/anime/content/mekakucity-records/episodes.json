@@ -1,0 +1,35 @@
+[
+  {
+    "title": {
+      "jp": "Yobanashi Deceive"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2013-02-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Lost Time Memory"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2013-03-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ayano no Koufuku Riron"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2013-04-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 4,
+    "content": {}
+  }
+]

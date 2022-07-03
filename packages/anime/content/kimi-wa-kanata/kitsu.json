@@ -1,0 +1,27 @@
+{
+  "slug": "kimi-wa-kanata",
+  "synopsis": "Mio has feelings for Shin, and always thinks about him, but has never been able to tell him how she feels. One day, they get into an argument over something trivial, and sometime afterward, Mio decides to make up with him. As she heads to Shin while being drenched by the rain, she gets into a traffic accident. When Mio regains consciousness, she finds herself in a new and unfamiliar world.\n\n(Source: ANN)",
+  "title": {
+    "en": "Over the Sky",
+    "jp": "Kimi wa Kanata"
+  },
+  "releasedAt": "2020-11-27T00:00:00.000Z",
+  "finishedAt": "2020-11-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43454/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/over-the-sky"
+  ],
+  "relations": {
+    "kitsu": "43454",
+    "anidb": "15414",
+    "anilist/anime": "116226",
+    "myanimelist/anime": "41379"
+  }
+}

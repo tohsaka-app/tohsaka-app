@@ -1,0 +1,26 @@
+{
+  "slug": "mairimashita-iruma-kun-3rd-season",
+  "synopsis": "The third season of Mairimashita! Iruma-kun.",
+  "title": {
+    "en": "Welcome to Demon School! Iruma-kun 3rd Season",
+    "jp": "Mairimashita! Iruma-kun 3rd Season"
+  },
+  "releasedAt": "2022-10-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45154/poster_image/8c408ef327dcf10696c16b9b767ae51f.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "fantasy",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45154",
+    "anilist/anime": "139092"
+  }
+}

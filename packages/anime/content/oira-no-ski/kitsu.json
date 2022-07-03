@@ -1,0 +1,25 @@
+{
+  "slug": "oira-no-ski",
+  "synopsis": "Animated short features bunnies and tanuki having wacky hijinks while going skiing. ",
+  "title": {
+    "jp": "Oira no Ski"
+  },
+  "releasedAt": "1930-03-07T00:00:00.000Z",
+  "finishedAt": "1930-03-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8615/original.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8615",
+    "anidb": "6842",
+    "anilist/anime": "104186",
+    "aozora": "1hqDZyZGKq",
+    "myanimelist/anime": "23759"
+  }
+}

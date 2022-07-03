@@ -1,0 +1,29 @@
+{
+  "slug": "piano-no-mori-tv",
+  "synopsis": "A tranquil tale about two boys from very different upbringings. On one hand you have Kai, born as the son of a prostitute, who's been playing the abandoned piano in the forest near his home ever since he was young. And on the other you have Syuhei, practically breast-fed by the piano as the son of a family of prestigious pianists. Yet it is their common bond with the piano that eventually intertwines their paths in life.\n\n(Source: KEFI)",
+  "title": {
+    "en": "Forest of Piano",
+    "jp": "Piano no Mori (TV)"
+  },
+  "releasedAt": "2018-04-09T00:00:00.000Z",
+  "finishedAt": "2018-07-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13984/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "music",
+    "school life",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13984",
+    "anidb": "13537",
+    "anilist/anime": "100401",
+    "myanimelist/anime": "36652",
+    "thetvdb": "342181/1"
+  }
+}

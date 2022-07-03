@@ -1,0 +1,27 @@
+{
+  "slug": "yama-no-susume-second-season-ova",
+  "synopsis": "Unaired episodes included in the Blu-ray/DVD releases of Volume 2 and Volume 7.",
+  "title": {
+    "en": "Encouragement of Climb 2nd Season Specials",
+    "jp": "Yama no Susume: Second Season Specials"
+  },
+  "releasedAt": "2014-10-24T00:00:00.000Z",
+  "finishedAt": "2015-03-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9783/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9783/original.jpg",
+  "categories": [
+    "comedy",
+    "friendship",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9783",
+    "anilist/anime": "21003",
+    "aozora": "q9m4Jj30gP",
+    "myanimelist/anime": "27887"
+  }
+}

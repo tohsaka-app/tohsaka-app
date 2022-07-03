@@ -1,0 +1,26 @@
+{
+  "slug": "cipher",
+  "synopsis": "Two brothers are in the spotlight: one a movie star making a football movie, the other a musician who occasionally goes to school (to cover for his sibling). What will destiny bring them? ",
+  "title": {
+    "en": "Cipher",
+    "jp": "Cipher"
+  },
+  "releasedAt": "1989-03-03T00:00:00.000Z",
+  "finishedAt": "1989-03-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6621/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6621",
+    "anidb": "6301",
+    "anilist/anime": "11867",
+    "aozora": "AEu0hv7gGs",
+    "myanimelist/anime": "11867"
+  }
+}

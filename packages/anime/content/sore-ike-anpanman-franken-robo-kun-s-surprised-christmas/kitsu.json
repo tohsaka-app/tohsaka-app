@@ -1,0 +1,26 @@
+{
+  "slug": "sore-ike-anpanman-franken-robo-kun-s-surprised-christmas",
+  "synopsis": "A special Christmas episode.",
+  "title": {
+    "jp": "Sore Ike! Anpanman: Franken-Robo-kun's Surprised Christmas"
+  },
+  "releasedAt": "2008-12-19T00:00:00.000Z",
+  "finishedAt": "2008-12-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7565/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7565",
+    "anilist/anime": "17004",
+    "aozora": "1pXKrGh0XF",
+    "myanimelist/anime": "17004"
+  }
+}

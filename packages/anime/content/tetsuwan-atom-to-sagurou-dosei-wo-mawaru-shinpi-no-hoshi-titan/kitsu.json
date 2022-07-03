@@ -1,0 +1,24 @@
+{
+  "slug": "tetsuwan-atom-to-sagurou-dosei-wo-mawaru-shinpi-no-hoshi-titan",
+  "synopsis": "Another Tetsuwan Atom planetarium film.\n",
+  "title": {
+    "jp": "Tetsuwan Atom to Sagurou! Dosei wo Mawaru Shinpi no Hoshi Titan"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42177/original.jpg",
+  "categories": [
+    "kids",
+    "mecha",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42177",
+    "myanimelist/anime": "39361"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "maiodore-maimai-time",
+  "synopsis": "Music video for the song Maiodore! Maimai Time by SoraMiko (Tokino Sora and Sakura Miko).",
+  "title": {
+    "en": "Let's Dance! Maimai Time",
+    "jp": "Maiodore! Maimai Time"
+  },
+  "releasedAt": "2020-09-07T00:00:00.000Z",
+  "finishedAt": "2020-09-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44030/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44030/original.jpg",
+  "categories": [
+    "comedy",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=ITPpK7GXoEc&feature=youtu.be&ab_channel=SoraCh.%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%9D%E3%82%89%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
+  ],
+  "relations": {
+    "kitsu": "44030",
+    "myanimelist/anime": "51429"
+  }
+}

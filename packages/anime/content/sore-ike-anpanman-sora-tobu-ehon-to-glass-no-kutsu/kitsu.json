@@ -1,0 +1,26 @@
+{
+  "slug": "sore-ike-anpanman-sora-tobu-ehon-to-glass-no-kutsu",
+  "synopsis": "8th Anpanman short movie.",
+  "title": {
+    "jp": "Sore Ike! Anpanman: Sora Tobu Ehon to Glass no Kutsu"
+  },
+  "releasedAt": "1996-07-13T00:00:00.000Z",
+  "finishedAt": "1996-07-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6017/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6017",
+    "anidb": "7557",
+    "anilist/anime": "10060",
+    "aozora": "FjiUGkkw8O",
+    "myanimelist/anime": "10060"
+  }
+}

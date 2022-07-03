@@ -1,0 +1,20 @@
+{
+  "slug": "hachigatsu-no-kaze",
+  "synopsis": "",
+  "title": {
+    "jp": "Hachigatsu no Kaze"
+  },
+  "releasedAt": "2012-09-17T00:00:00.000Z",
+  "finishedAt": "2012-09-17T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13346/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13346"
+  }
+}

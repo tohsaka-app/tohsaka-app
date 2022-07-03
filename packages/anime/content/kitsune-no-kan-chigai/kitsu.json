@@ -1,0 +1,23 @@
+{
+  "slug": "kitsune-no-kan-chigai",
+  "synopsis": "An educational film about how some religious beliefs and folklore and superstitions are in damaging in modern Japan. ",
+  "title": {
+    "jp": "Kitsune no Kan Chigai"
+  },
+  "releasedAt": "1993-01-01T00:00:00.000Z",
+  "finishedAt": "1993-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9390/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9390",
+    "aozora": "CcR2vKX6MQ",
+    "myanimelist/anime": "26233"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "sore-ike-anpanman-anpanman-to-okashi-na-nakama",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Anpanman to Okashi na Nakama"
+  },
+  "releasedAt": "1998-07-25T00:00:00.000Z",
+  "finishedAt": "1998-07-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9604/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9604",
+    "anidb": "7752",
+    "anilist/anime": "145479",
+    "aozora": "DABroM42Ev",
+    "myanimelist/anime": "21935"
+  }
+}

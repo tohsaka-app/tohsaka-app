@@ -1,0 +1,24 @@
+{
+  "slug": "okoru-yo",
+  "synopsis": "A music video for the song \"Okoru yo!\" by Tetsuo Miyoshi. Aired as part of NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Okoru yo!"
+  },
+  "releasedAt": "1983-04-01T00:00:00.000Z",
+  "finishedAt": "1983-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11924/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11924",
+    "anidb": "12634",
+    "aozora": "Wy6PncOWMP",
+    "myanimelist/anime": "32472"
+  }
+}

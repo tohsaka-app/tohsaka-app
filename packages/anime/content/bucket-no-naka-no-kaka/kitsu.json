@@ -1,0 +1,20 @@
+{
+  "slug": "bucket-no-naka-no-kaka",
+  "synopsis": "",
+  "title": {
+    "jp": "Bucket no Naka no Kaka"
+  },
+  "releasedAt": "2009-12-31T00:00:00.000Z",
+  "finishedAt": "2009-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41809/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41809",
+    "anilist/anime": "115818",
+    "myanimelist/anime": "37544"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "asura-online",
+  "synopsis": "Animated Trailer for ASURA Online.",
+  "title": {},
+  "releasedAt": "2013-04-14T00:00:00.000Z",
+  "finishedAt": "2013-04-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13920/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13920"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "blossom",
+  "synopsis": "Blossom is a short work of animation set to music. It is dedicated to memory of Japan's 3/11 Tohoku earthquake and tsunami disaster that \"reminds us not to forget those who were directly affected.\" \n(Source: Crunchyroll News) ",
+  "title": {
+    "jp": "Blossom"
+  },
+  "releasedAt": "2012-03-24T00:00:00.000Z",
+  "finishedAt": "2012-03-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6924/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6924/original.jpg",
+  "categories": [
+    "angel",
+    "asia",
+    "disaster",
+    "earth",
+    "japan",
+    "music",
+    "present"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/zapuni"
+  ],
+  "relations": {
+    "kitsu": "6924",
+    "anidb": "9044",
+    "anilist/anime": "13253",
+    "aozora": "n9Zr2ck6iI",
+    "myanimelist/anime": "13253"
+  }
+}

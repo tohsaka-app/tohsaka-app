@@ -1,0 +1,28 @@
+{
+  "slug": "washimo-4th-season",
+  "synopsis": "Fourth season of the Washimo series. ",
+  "title": {
+    "jp": "Washimo 4th Season"
+  },
+  "releasedAt": "2016-04-04T00:00:00.000Z",
+  "finishedAt": "2016-09-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12030/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "school life",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12030",
+    "anidb": "12061",
+    "anilist/anime": "98764",
+    "aozora": "PMrRDBl7CT",
+    "myanimelist/anime": "33099"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "uchuu-seibutsu-jirou",
+  "synopsis": "A mysterious cat from space called Uchuu Sebutsu Jirou has come to Earth. Jirou is often seen in places with music.\n\nJirou was created for promotional character goods purposes with toys, books, stickers, etc. This short promotional video will also be streamed at movie theaters starting on October 25, 2019.",
+  "title": {
+    "jp": "Uchuu Seibutsu Jirou"
+  },
+  "releasedAt": "2019-09-20T00:00:00.000Z",
+  "finishedAt": "2019-09-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42568/original.jpg",
+  "categories": [
+    "kids",
+    "music",
+    "space",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=I0rUjMa-zkU"
+  ],
+  "relations": {
+    "kitsu": "42568",
+    "myanimelist/anime": "40430"
+  }
+}

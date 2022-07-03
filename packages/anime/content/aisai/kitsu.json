@@ -1,0 +1,23 @@
+{
+  "slug": "aisai",
+  "synopsis": "Music video for Eve's latest single Aisai.",
+  "title": {
+    "jp": "Aisai"
+  },
+  "releasedAt": "2021-12-24T00:00:00.000Z",
+  "finishedAt": "2021-12-24T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45647/poster_image/32cb24ba6d2a3bdc5436a271d1b18b3a.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/lw51UR6Qoy8"
+  ],
+  "relations": {
+    "kitsu": "45647",
+    "anilist/anime": "143012"
+  }
+}

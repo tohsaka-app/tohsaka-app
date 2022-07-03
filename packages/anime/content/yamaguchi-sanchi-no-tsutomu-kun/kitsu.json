@@ -1,0 +1,26 @@
+{
+  "slug": "yamaguchi-sanchi-no-tsutomu-kun",
+  "synopsis": "A music video for the song by Keiji Kawahashi that was featured on NHK's Minna no Uta Program.",
+  "title": {
+    "jp": "Yamaguchi Sanchi no Tsutomu-kun"
+  },
+  "releasedAt": "1976-04-01T00:00:00.000Z",
+  "finishedAt": "1976-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10696/original.jpg",
+  "categories": [
+    "kids",
+    "music",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10696",
+    "anidb": "12597",
+    "anilist/anime": "103399",
+    "aozora": "U9FlbqUn1u",
+    "myanimelist/anime": "30165"
+  }
+}

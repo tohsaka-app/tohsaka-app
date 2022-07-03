@@ -1,0 +1,28 @@
+{
+  "slug": "voltron-legendary-defender-season-4",
+  "synopsis": "Season 4 of Voltron Legendary Defender.",
+  "title": {},
+  "releasedAt": "2017-10-13T00:00:00.000Z",
+  "finishedAt": "2017-10-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13663/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13663/original.png",
+  "categories": [
+    "action",
+    "alien",
+    "anime influenced",
+    "humanoid alien",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "space",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13663",
+    "thetvdb/series": "307899/4"
+  }
+}

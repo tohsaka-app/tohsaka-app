@@ -1,0 +1,23 @@
+{
+  "slug": "black-jack-tv-lost-episodes",
+  "synopsis": "This was originally from the Black Jack (2004), but weren't aired then, only later.\n\nThere are two episodes in this:\n- The Dog Thief\n- Kamaitachi in the Woodlands",
+  "title": {
+    "jp": "Black Jack (TV): Hizouban Specials"
+  },
+  "releasedAt": "2006-07-17T00:00:00.000Z",
+  "finishedAt": "2006-07-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3447/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3447",
+    "anilist/anime": "4071",
+    "aozora": "woq2t4gh5x",
+    "myanimelist/anime": "4071"
+  }
+}

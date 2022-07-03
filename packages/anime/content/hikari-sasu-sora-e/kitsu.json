@@ -1,0 +1,24 @@
+{
+  "slug": "hikari-sasu-sora-e",
+  "synopsis": "An educational film about LGBT human rights problems in Japan.",
+  "title": {
+    "jp": "Hikari Sasu Sora e"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13027/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13027",
+    "anilist/anime": "121660",
+    "aozora": "tdbhr2JpHf",
+    "myanimelist/anime": "34184"
+  }
+}

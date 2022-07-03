@@ -1,0 +1,52 @@
+[
+  {
+    "title": {
+      "jp": "Dungeon Baal Kouryaku-hen, Zenpen"
+    },
+    "synopsis": "Episode 1",
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2014-05-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dungeon Baal Kouryaku-hen, Kouhen"
+    },
+    "synopsis": "Episode 2",
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2014-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dungeon Valefor Kouryaku-hen, Zenpen"
+    },
+    "synopsis": "Episode 3",
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2014-12-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dungeon Valefor Kouryaku-hen, Chuuhen"
+    },
+    "synopsis": "Episode 4",
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2015-04-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dungeon Valefor Kouryaku-hen, Kouhen"
+    },
+    "synopsis": "Episode 5",
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2015-07-15T00:00:00.000Z",
+    "content": {}
+  }
+]

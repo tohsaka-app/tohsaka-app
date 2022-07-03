@@ -1,0 +1,27 @@
+{
+  "slug": "granblue-fantasy-the-animation-special",
+  "synopsis": "Unaired episode bundled with the seventh Blu-ray and DVD volume of Granblue Fantasy The Animation.",
+  "title": {
+    "jp": "Granblue Fantasy The Animation: Kabocha no Lantern"
+  },
+  "releasedAt": "2017-10-25T00:00:00.000Z",
+  "finishedAt": "2017-10-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13626/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13626",
+    "anilist/anime": "100469",
+    "aozora": "npVn6pjzdQ",
+    "myanimelist/anime": "35814"
+  }
+}

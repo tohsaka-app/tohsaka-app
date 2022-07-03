@@ -1,0 +1,25 @@
+{
+  "slug": "world-s-end-umbrella",
+  "synopsis": "Music video for Kenshi Yonezu's song World's End Umbrella animated by Minakata Laboratory. The song was also released on his 1st album titled \"Hanataba to Suisou\".",
+  "title": {
+    "en": "World's End Umbrella",
+    "jp": "World's End Umbrella"
+  },
+  "releasedAt": "2010-02-07T00:00:00.000Z",
+  "finishedAt": "2010-02-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13826/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13826",
+    "anilist/anime": "102653",
+    "aozora": "LN5M63oVan",
+    "myanimelist/anime": "36169"
+  }
+}

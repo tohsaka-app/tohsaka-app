@@ -1,0 +1,23 @@
+{
+  "slug": "senaka-de-twist",
+  "synopsis": "A Minna no Uta music video sung by George Tokoro and animated by Tameo Kohanawa.",
+  "title": {
+    "jp": "Senaka de Twist"
+  },
+  "releasedAt": "1989-12-02T00:00:00.000Z",
+  "finishedAt": "1989-12-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42809/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42809",
+    "anilist/anime": "116162",
+    "myanimelist/anime": "37198"
+  }
+}

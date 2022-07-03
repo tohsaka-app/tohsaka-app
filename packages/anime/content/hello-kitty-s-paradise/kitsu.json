@@ -1,0 +1,28 @@
+{
+  "slug": "hello-kitty-s-paradise",
+  "synopsis": "Hello Kitty and her twin sister Mimi (aka Mimmy) are in kindergarten and have regular adventures \"over the rainbow\" (in their imaginations) or around their home and neighborhood.",
+  "title": {
+    "en": "Hello Kitty's Paradise",
+    "jp": "Kitty's Paradise"
+  },
+  "releasedAt": "1994-04-06T00:00:00.000Z",
+  "finishedAt": "1994-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3416/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3416",
+    "anilist/anime": "4023",
+    "aozora": "O5NPFqBLak",
+    "myanimelist/anime": "4023",
+    "thetvdb": "250548/1",
+    "thetvdb/series": "250548",
+    "trakt": "27789"
+  }
+}

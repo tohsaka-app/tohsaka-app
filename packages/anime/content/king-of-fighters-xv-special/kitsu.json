@@ -1,0 +1,24 @@
+{
+  "slug": "king-of-fighters-xv-special",
+  "synopsis": "A trailer for the upcoming highly anticipated 2D fighter, The King of Fighters XV, showcasing a stellarly special animation by Masami Obari. This short movie depicts the playable cast in their respective elements and serves to hype up players for the game’s launch.\n\n(Source: NoisyPixel)",
+  "title": {
+    "en": "King of Fighters XV Special"
+  },
+  "releasedAt": "2022-02-08T00:00:00.000Z",
+  "finishedAt": "2022-02-08T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45905/poster_image/cdfd85526e27c7c1201944b4458b788c.png",
+  "coverUrl": "https://media.kitsu.io/anime/45905/cover_image/150ca28be349ef11b92c1bc4a245f766.png",
+  "categories": [
+    "action"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=_3rzUgD53h4"
+  ],
+  "relations": {
+    "kitsu": "45905",
+    "anilist/anime": "145895"
+  }
+}

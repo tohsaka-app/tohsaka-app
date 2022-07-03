@@ -1,0 +1,36 @@
+{
+  "slug": "dennou-boukenki-webdiver",
+  "synopsis": "Set in the year 2100 where the world is tied together by a computer network. The children of the world become Web Divers, adapting their consciousnesses into data, and love to play together in the cyber park called Magical Gate. However, a mysterious computer virus appears beginning to destroy Magical Gate from the inside out. In cyberspace, programs called Web Knights have been created to protect the children. But, the computer virus has turned all the Web Knights against the children. The only Web Knight to escape the \"brainwashing\" is Gladion. Gladion seeks the help of Kaito Yuki, a Web Diver who is in the fourth grade. \n(Source: ANN)",
+  "title": {
+    "en": "Brain Adventure Record Webdiver",
+    "jp": "Dennou Boukenki Webdiver"
+  },
+  "releasedAt": "2001-04-06T00:00:00.000Z",
+  "finishedAt": "2002-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3102/original.jpg",
+  "categories": [
+    "adventure",
+    "combat",
+    "cyberpunk",
+    "kids",
+    "mecha",
+    "robot",
+    "science fiction",
+    "shounen",
+    "super robot",
+    "transforming craft",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3102",
+    "anidb": "4285",
+    "anilist/anime": "3561",
+    "aozora": "JAtifmXgG7",
+    "myanimelist/anime": "3561",
+    "trakt": "98471"
+  }
+}

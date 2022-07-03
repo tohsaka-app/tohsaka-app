@@ -1,0 +1,24 @@
+{
+  "slug": "code-geass-hangyaku-no-lelouch-r2-flash-specials",
+  "synopsis": "9 flash anime specials included in the Code Geass R2 DVDs and BDs.",
+  "title": {
+    "en": "Code Geass: Lelouch of the Rebellion R2 Extra Flash - Baba Theater Redux",
+    "jp": "Code Geass: Hangyaku no Lelouch R2 Flash Specials"
+  },
+  "releasedAt": "2008-08-22T00:00:00.000Z",
+  "finishedAt": "2009-04-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5801/original.jpg",
+  "categories": [
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5801",
+    "anilist/anime": "9591",
+    "aozora": "7ArEVsNUN5",
+    "myanimelist/anime": "9591"
+  }
+}

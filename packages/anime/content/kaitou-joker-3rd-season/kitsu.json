@@ -1,0 +1,29 @@
+{
+  "slug": "kaitou-joker-3rd-season",
+  "synopsis": "Third season in the Kaitou Joker anime series.\nThe thief Mysterious Joker doesn't just steal things. An audacious and elusive miracle-maker, he travels the world searching for treasure with his partner and cook Hachi. As they circle the globe, they must avoid traps set by the police and compete in various competitions to reach their final goal, the Timeslip Treasure.\n(Source: ANN)",
+  "title": {
+    "en": "JOKER 3rd Season",
+    "jp": "Kaitou Joker 3rd Season"
+  },
+  "releasedAt": "2016-04-04T00:00:00.000Z",
+  "finishedAt": "2016-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11393/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11393/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11393",
+    "anidb": "11628",
+    "anilist/anime": "21427",
+    "aozora": "wWKT43DAhs",
+    "myanimelist/anime": "31670",
+    "trakt": "79304"
+  }
+}

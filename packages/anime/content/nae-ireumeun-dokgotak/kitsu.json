@@ -1,0 +1,24 @@
+{
+  "slug": "nae-ireumeun-dokgotak",
+  "synopsis": "",
+  "title": {
+    "en": "My name is Dokgo Tak",
+    "jp": "Nae Ireumeun Dokgotak"
+  },
+  "releasedAt": "1984-07-15T00:00:00.000Z",
+  "finishedAt": "1984-07-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7581/original.jpg",
+  "categories": [
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7581",
+    "anilist/anime": "17100",
+    "aozora": "u5JTd8gykU",
+    "myanimelist/anime": "17100"
+  }
+}

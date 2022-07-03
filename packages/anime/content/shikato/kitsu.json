@@ -1,0 +1,23 @@
+{
+  "slug": "shikato",
+  "synopsis": "Shikato can only walk in a straight line, which means that whether colliding into objects or falling off of things, something funny is always happening.\n\n(Source: UrumaDelvi Site)\n\nThe series aired within Fuji TV's Ugo Ugo Ruga variety program.",
+  "title": {
+    "en": "Shikato",
+    "jp": "Shikato"
+  },
+  "releasedAt": "1992-10-01T00:00:00.000Z",
+  "finishedAt": "1993-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45021/original.png",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45021",
+    "myanimelist/anime": "36736"
+  }
+}

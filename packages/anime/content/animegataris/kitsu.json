@@ -1,0 +1,32 @@
+{
+  "slug": "animegataris",
+  "synopsis": "The anime centers on Minoa Asagaya, a new high school student in Sakaneko Private High School. Despite being a novice to anime, Minoa's classmate Arisu Kamiigusa invites her to make an \"anime research club\" at school. Through conversations with her classmate Miko Kouenji, as well as various anime-loving upperclassmen, Minoa gradually gets hooked on anime. While they stand against the student council's continuous efforts to disband their club, and they ignore the impending end of the world, they talk about anime, whether in Akiba, or in real-life \"sacred place\" anime settings, or the hot springs. \n\n(Source: ANN)",
+  "title": {
+    "en": "Anime-Gataris",
+    "jp": "Animegataris"
+  },
+  "releasedAt": "2017-10-08T00:00:00.000Z",
+  "finishedAt": "2017-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13699/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13699/original.png",
+  "categories": [
+    "comedy",
+    "school clubs",
+    "school life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/anime-gataris",
+    "https://www.funimation.com/shows/anime-gataris/"
+  ],
+  "relations": {
+    "kitsu": "13699",
+    "anidb": "13114",
+    "anilist/anime": "98607",
+    "aozora": "7VlVfNVHTS",
+    "myanimelist/anime": "35427",
+    "thetvdb": "332987/1"
+  }
+}

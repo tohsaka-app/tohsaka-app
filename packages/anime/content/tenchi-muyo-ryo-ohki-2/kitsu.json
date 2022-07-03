@@ -1,0 +1,39 @@
+{
+  "slug": "tenchi-muyo-ryo-ohki-2",
+  "synopsis": "This OVA series gives the viewer more in-depth details on Sasami, Washu, and Ryo-ohki, as well as introducing members of the Juraian royal family.\n(Source: ANN) ",
+  "title": {
+    "en": "Tenchi Muyo! Ryo-Ohki 2",
+    "jp": "Tenchi Muyou! Ryououki 2"
+  },
+  "releasedAt": "1994-09-25T00:00:00.000Z",
+  "finishedAt": "1995-09-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/499/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/499/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "humanoid alien",
+    "japan",
+    "plot continuity",
+    "science fiction",
+    "shipboard",
+    "slapstick",
+    "space",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "499",
+    "anidb": "2509",
+    "anilist/anime": "540",
+    "aozora": "6t2sigYYz7",
+    "myanimelist/anime": "540"
+  }
+}

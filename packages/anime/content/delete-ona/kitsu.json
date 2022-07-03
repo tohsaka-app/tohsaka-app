@@ -1,0 +1,18 @@
+{
+  "slug": "delete-ona",
+  "synopsis": "Duplicate of: https://kitsu.io/anime/this-is-my-story",
+  "title": {
+    "en": "delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44991/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "44991"
+  }
+}

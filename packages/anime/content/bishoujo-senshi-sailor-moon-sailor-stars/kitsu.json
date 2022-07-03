@@ -1,0 +1,41 @@
+{
+  "slug": "bishoujo-senshi-sailor-moon-sailor-stars",
+  "synopsis": "Like the R Season, SailorStars is divided into two arcs:\nThe first arc (also filler) solves some conflicts from the SuperS season, and also sees the return of the Outer Senshi, Haruka, Michiru, Setsuna, and Hotaru (now reborn as a child).\nThe second arc is the actual plot from the manga. Usagi bids farewell to Mamoru, who is going to America to study abroad. In his place comes the Three Lights, an idol trio consisting of three boys, Seiya, Taiki, and Yaten. The new enemy is Galaxia, a woman who desires to rule the entire galaxy by collecting the Star Seeds of humans. Three new Senshi appear, the Sailor Starlights, who also intend to stop Galaxia without Sailormoon's help.",
+  "title": {
+    "en": "Sailor Moon Sailor Stars",
+    "jp": "Bishoujo Senshi Sailor Moon: Sailor Stars"
+  },
+  "releasedAt": "1996-03-09T00:00:00.000Z",
+  "finishedAt": "1997-02-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/886/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/886/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "demon",
+    "fantasy",
+    "henshin",
+    "magic",
+    "magical girl",
+    "romance",
+    "shoujo"
+  ],
+  "externals": [
+    "https://www.animelab.com/shows/sailor-moon",
+    "hulu.com/series/sailor-moon-4e1c9108-f973-48fb-8824-a69280ca0438"
+  ],
+  "relations": {
+    "kitsu": "886",
+    "anidb": "2542",
+    "anilist/anime": "996",
+    "aozora": "hDnjRjJEl5",
+    "myanimelist/anime": "996",
+    "thetvdb": "78500/5",
+    "thetvdb/season": "15148",
+    "thetvdb/series": "78500",
+    "trakt": "3548"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "shisei-sasshin",
+  "synopsis": "Classical animation created by Kouuchi Junichi.\n\n(Source: AniDB)",
+  "title": {
+    "en": null,
+    "jp": "Shisei Sasshin"
+  },
+  "releasedAt": "1925-01-01T00:00:00.000Z",
+  "finishedAt": "1925-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9589/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9589",
+    "anidb": "7172",
+    "aozora": "cUpyMYVtou",
+    "myanimelist/anime": "22995"
+  }
+}

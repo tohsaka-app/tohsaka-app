@@ -1,0 +1,23 @@
+{
+  "slug": "deniroo-s-circus",
+  "synopsis": "",
+  "title": {
+    "jp": "Deniroo's Circus"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11796/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11796",
+    "anilist/anime": "103942",
+    "aozora": "uRIHzap8TK",
+    "myanimelist/anime": "31644"
+  }
+}

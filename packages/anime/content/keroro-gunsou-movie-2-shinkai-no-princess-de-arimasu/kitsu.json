@@ -1,0 +1,29 @@
+{
+  "slug": "keroro-gunsou-movie-2-shinkai-no-princess-de-arimasu",
+  "synopsis": "During a vacation Natsumi is visited by a female alien and male alien who she later gains feelings for from the ocean that makes her the Deep Sea Princess who, along with the rest of the Keroro Platoon, encounter many dangers summoned by a mysterious creature. \n(Source: Wikipedia)",
+  "title": {
+    "en": "Sergeant Frog Movie 2",
+    "jp": "Keroro Gunsou Movie 2: Shinkai no Princess de Arimasu!"
+  },
+  "releasedAt": "2007-03-17T00:00:00.000Z",
+  "finishedAt": "2007-03-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2184/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2184",
+    "anidb": "4818",
+    "anilist/anime": "2408",
+    "aozora": "wXWPmYy1I1",
+    "myanimelist/anime": "2408"
+  }
+}

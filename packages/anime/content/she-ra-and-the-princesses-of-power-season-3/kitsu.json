@@ -1,0 +1,27 @@
+{
+  "slug": "she-ra-and-the-princesses-of-power-season-3",
+  "synopsis": "3rd season of She-Ra and the Princesses of Power.",
+  "title": {},
+  "releasedAt": "2019-08-03T00:00:00.000Z",
+  "finishedAt": "2019-08-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42417/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42417/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "magic",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42417",
+    "thetvdb": "350399/3"
+  }
+}

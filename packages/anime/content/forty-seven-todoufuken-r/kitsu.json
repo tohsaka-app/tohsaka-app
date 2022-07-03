@@ -1,0 +1,25 @@
+{
+  "slug": "forty-seven-todoufuken-r",
+  "synopsis": "47 Todoufuken R\" is based on the anime \"47 Todoufuken,\" which aired in 2011, but with new characters in 3D. The \"ken\" in \"Todoufuken\" is a play on the words \"prefecture\" and \"dog\" since it can mean both words.",
+  "title": {
+    "jp": "47 Todoufuken R"
+  },
+  "releasedAt": "2014-01-11T00:00:00.000Z",
+  "finishedAt": "2014-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8953/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8953",
+    "anidb": "10411",
+    "anilist/anime": "108743",
+    "aozora": "nL9UYFjokG",
+    "myanimelist/anime": "23149"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "mikan-enikki-specials",
+  "synopsis": "An extra episode and a special of the Mikan Enikki series included as a bonus on VHS/DVD's.",
+  "title": {
+    "jp": "Mikan Enikki Specials"
+  },
+  "releasedAt": "1993-08-24T00:00:00.000Z",
+  "finishedAt": "1993-08-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9446/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9446",
+    "aozora": "JkPOPiQ6uU",
+    "myanimelist/anime": "25661"
+  }
+}

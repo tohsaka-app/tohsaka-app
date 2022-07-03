@@ -1,0 +1,24 @@
+{
+  "slug": "koto-no-shidai",
+  "synopsis": "Official music video for Tamaki Roy's song Koto no Shidai, which was released on his album \"Nagi\" on June 21, 2017.",
+  "title": {
+    "en": "The State of Things",
+    "jp": "Koto no Shidai"
+  },
+  "releasedAt": "2017-07-13T00:00:00.000Z",
+  "finishedAt": "2017-07-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13840/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13840",
+    "anilist/anime": "102695",
+    "myanimelist/anime": "35935"
+  }
+}

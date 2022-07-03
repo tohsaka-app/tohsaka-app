@@ -1,0 +1,20 @@
+{
+  "slug": "tadaima",
+  "synopsis": "",
+  "title": {
+    "jp": "Tadaima."
+  },
+  "releasedAt": "2017-02-28T00:00:00.000Z",
+  "finishedAt": "2017-02-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41559/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41559",
+    "anilist/anime": "103587",
+    "myanimelist/anime": "35324"
+  }
+}

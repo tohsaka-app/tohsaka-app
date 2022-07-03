@@ -1,0 +1,27 @@
+{
+  "slug": "nurarihyon-no-mago-jump-super-anime-tour-special",
+  "synopsis": "A special shown at the Jump Super Anime Tour 2010. It was later released as an extra accompanying Nurarihyon no Mago Blu-ray Box 1. ",
+  "title": {
+    "jp": "Nurarihyon no Mago: Jump Super Anime Tour Special"
+  },
+  "releasedAt": "2010-10-23T00:00:00.000Z",
+  "finishedAt": "2010-10-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6393/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "fantasy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6393",
+    "anidb": "8910",
+    "anilist/anime": "10886",
+    "aozora": "1gv0FIyNjW",
+    "myanimelist/anime": "10886"
+  }
+}

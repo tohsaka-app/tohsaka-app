@@ -1,0 +1,28 @@
+{
+  "slug": "hakubo",
+  "synopsis": "Hakubo follows youths living in \"the now and present\" in Iwaki, Fukushima Prefecture after the Tohoku earthquake and tsunami of March 11, 2011.\n\n(Source: ANN)",
+  "title": {
+    "en": "Twilight",
+    "jp": "Hakubo"
+  },
+  "releasedAt": "2019-06-21T00:00:00.000Z",
+  "finishedAt": "2019-06-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13639/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13639/original.jpg",
+  "categories": [
+    "disaster",
+    "drama",
+    "japan"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13639",
+    "anidb": "12884",
+    "anilist/anime": "98784",
+    "aozora": "68VeRMz9IO",
+    "myanimelist/anime": "34972"
+  }
+}

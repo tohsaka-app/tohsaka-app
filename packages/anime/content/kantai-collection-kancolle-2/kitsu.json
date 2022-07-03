@@ -1,0 +1,31 @@
+{
+  "slug": "kantai-collection-kancolle-2",
+  "synopsis": "Second season of Kantai Collection.",
+  "title": {
+    "en": "KanColle 2nd Season",
+    "jp": "KanColle: Itsuka Ano Umi de"
+  },
+  "releasedAt": "2022-11-02T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/10780/poster_image/c06934d23d107f94014f00e597c84815.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10780/original.jpg",
+  "categories": [
+    "action",
+    "military",
+    "school life",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10780",
+    "anidb": "11161",
+    "anilist/anime": "21294",
+    "aozora": "3qUI12cU0N",
+    "myanimelist/anime": "30455",
+    "thetvdb": "279533/2"
+  }
+}

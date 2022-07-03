@@ -1,0 +1,26 @@
+{
+  "slug": "konpora-kid",
+  "synopsis": "The time is set in the Mechatronics Era in the future. In this era, schools actually float in the Tokyo sky at around 2000 - 3000 metres. At home, there is freedom in movement as everyone has a flight mechanism within them which allows them to fly. Transportation is made easy as a result.\n(Source: ANN)",
+  "title": {
+    "jp": "Konpora Kid"
+  },
+  "releasedAt": "1985-06-03T00:00:00.000Z",
+  "finishedAt": "1985-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9402/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9402",
+    "anidb": "1938",
+    "anilist/anime": "17599",
+    "aozora": "bgUomDEFIy",
+    "myanimelist/anime": "17599"
+  }
+}

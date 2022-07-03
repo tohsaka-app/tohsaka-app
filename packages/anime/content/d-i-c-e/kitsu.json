@@ -1,0 +1,33 @@
+{
+  "slug": "d-i-c-e",
+  "synopsis": "DICE (DNA Integrated Cybernetic Enterprises) is a large organization established to deal with problems in the Sarbylion galaxy. DICE F-99 is the only unit comprised entirely of children.\nWhen a problem arises, DICE is called to the rescue. And when their special training and skills aren`t enough, they rely on their Dinobreakers, which can transform from Vehicle Mode to Dino Mode, to help get the job done!\nAlways on call, always on alert - DICE is ready for action! \n(Source: AniDB)",
+  "title": {
+    "jp": "D.I.C.E."
+  },
+  "releasedAt": "2005-12-06T00:00:00.000Z",
+  "finishedAt": "2006-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2070/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "kids",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2070",
+    "anidb": "2433",
+    "anilist/anime": "2285",
+    "aozora": "pN0QkydQNs",
+    "myanimelist/anime": "2285",
+    "thetvdb": "265895/1",
+    "thetvdb/series": "265895",
+    "trakt": "71080"
+  }
+}

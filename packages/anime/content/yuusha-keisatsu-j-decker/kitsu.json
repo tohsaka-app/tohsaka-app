@@ -1,0 +1,38 @@
+{
+  "slug": "yuusha-keisatsu-j-decker",
+  "synopsis": "Grade schooler Yuuta Tominaga stumbles upon Deckerd, a humanoid robot under construction by the Japanese police, built to fight advanced forms of crime. Yuuta's constant contact with Deckerd gives the robot a \"heart\", or personality; when Yuuta is recruited as the \"boss\" of the \"Brave Police\" as a result, a true human/robot partnership occurs. \n(Source: Wikipedia)",
+  "title": {
+    "jp": "Yuusha Keisatsu J-Decker"
+  },
+  "releasedAt": "1994-02-05T00:00:00.000Z",
+  "finishedAt": "1995-01-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3916/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "cops",
+    "crime",
+    "earth",
+    "gunfights",
+    "law and order",
+    "mecha",
+    "science fiction",
+    "special squads",
+    "thievery",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3916",
+    "anidb": "2634",
+    "anilist/anime": "5075",
+    "aozora": "9YvrOzGfYo",
+    "myanimelist/anime": "5075",
+    "thetvdb": "234941/1",
+    "thetvdb/series": "234941",
+    "trakt": "17613"
+  }
+}

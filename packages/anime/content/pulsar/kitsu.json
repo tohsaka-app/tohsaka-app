@@ -1,0 +1,26 @@
+{
+  "slug": "pulsar",
+  "synopsis": "Clay (technically gypsum) animation set to a beat with robots, scifi motif, and alligators with human arms. It was broadcasted a year later (1991) by the Japanese TV program Miyake Yuuji no Ebizori Kyoshou Tengoku, \"Ebiten\" for short, which showed works of independent film makers.\nThis has the prototype character, Pulta, which was used for Bowda Katsuhi's Robot Pulta anime when he was hired by the NHK.",
+  "title": {
+    "en": "Pulsar",
+    "jp": "Pulsar"
+  },
+  "releasedAt": "1990-01-01T00:00:00.000Z",
+  "finishedAt": "1990-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10234/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10234",
+    "anidb": "11563",
+    "anilist/anime": "100533",
+    "aozora": "ssgyqvTnMB",
+    "myanimelist/anime": "29377"
+  }
+}

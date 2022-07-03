@@ -1,0 +1,26 @@
+{
+  "slug": "yokuwakaru-gendaimahou-00",
+  "synopsis": "An extra episode entitled \"cruncha cruncha cruncha\", which happens in the middle of the TV series. It's called an \"Advanced Broadcast\" and was aired prior to the actual series.",
+  "title": {
+    "jp": "Yoku Wakaru Gendai Mahou: Cruncha Cruncha Cruncha"
+  },
+  "releasedAt": "2009-06-29T00:00:00.000Z",
+  "finishedAt": "2009-06-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4698/original.jpg",
+  "categories": [
+    "comedy",
+    "magic"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/modern-magic-made-simple-ova"
+  ],
+  "relations": {
+    "kitsu": "4698",
+    "anilist/anime": "6748",
+    "aozora": "jjwsuuz9Lo",
+    "myanimelist/anime": "6748"
+  }
+}

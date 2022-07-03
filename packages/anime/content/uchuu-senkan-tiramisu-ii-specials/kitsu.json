@@ -1,0 +1,28 @@
+{
+  "slug": "uchuu-senkan-tiramisu-ii-specials",
+  "synopsis": "Unaired episodes included with the Blu-ray volume.",
+  "title": {
+    "en": "Space Battleship Tiramisu Zwei Specials",
+    "jp": "Uchuu Senkan Tiramisù II Specials"
+  },
+  "releasedAt": "2019-01-30T00:00:00.000Z",
+  "finishedAt": "2019-01-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42153/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha",
+    "science fiction",
+    "seinen",
+    "slice of life",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42153",
+    "anilist/anime": "107881",
+    "myanimelist/anime": "39115"
+  }
+}

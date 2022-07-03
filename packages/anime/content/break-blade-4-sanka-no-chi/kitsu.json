@@ -1,0 +1,27 @@
+{
+  "slug": "break-blade-4-sanka-no-chi",
+  "synopsis": "Fourth Break Blade Movie.",
+  "title": {
+    "en": "Broken Blade 4",
+    "jp": "Break Blade 4: Sanka no Chi"
+  },
+  "releasedAt": "2010-10-30T00:00:00.000Z",
+  "finishedAt": "2010-10-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5743/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "mecha",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5743",
+    "anilist/anime": "9465",
+    "aozora": "HyJoMgmysG",
+    "myanimelist/anime": "9465"
+  }
+}

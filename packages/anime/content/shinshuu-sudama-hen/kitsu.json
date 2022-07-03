@@ -1,0 +1,36 @@
+{
+  "slug": "shinshuu-sudama-hen",
+  "synopsis": "Based on a novel by Tani Kousei.\n(Source: AniDB)",
+  "title": {
+    "jp": "Shinshuu Sudama-hen"
+  },
+  "releasedAt": "1988-10-12T00:00:00.000Z",
+  "finishedAt": "1989-05-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4850/original.jpg",
+  "categories": [
+    "action",
+    "alternative past",
+    "asia",
+    "demon",
+    "drama",
+    "earth",
+    "historical",
+    "horror",
+    "japan",
+    "martial arts",
+    "samurai",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4850",
+    "anidb": "6542",
+    "anilist/anime": "7052",
+    "aozora": "FxTYBL4shr",
+    "myanimelist/anime": "7052"
+  }
+}

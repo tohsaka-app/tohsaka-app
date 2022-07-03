@@ -1,0 +1,25 @@
+{
+  "slug": "band-of-ninja",
+  "synopsis": "Also known as Manual of Ninja Martial Arts, the only animation from Japanese New Wave maestro Nagisa Oshima is as provocative as one would expect from such a remarkable filmmaker. The film follows Sanpei Shirato's classic comic story about the son of an assassinated feudal lord in the Muromachi period, who attempts to avenge his father's death and meets Kagemaru, a renegade ninja helping peasants and farmers rebel against Oda Nobunaga's regime.",
+  "title": {
+    "en": "Manual of Ninja Martial Arts",
+    "jp": "Ninja Bugei-chou"
+  },
+  "releasedAt": "1967-02-15T00:00:00.000Z",
+  "finishedAt": "1967-02-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4001/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4001/original.png",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4001",
+    "anilist/anime": "5232",
+    "aozora": "y8P8U4gAZR",
+    "myanimelist/anime": "5232"
+  }
+}

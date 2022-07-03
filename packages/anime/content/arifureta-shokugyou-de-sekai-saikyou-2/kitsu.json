@@ -1,0 +1,36 @@
+{
+  "slug": "arifureta-shokugyou-de-sekai-saikyou-2",
+  "synopsis": "Transported to another world and left behind by his former friends, Hajime had to make his rise from literal rock bottom. It was in the labyrinth where he strengthened his weak magic and found several beautiful allies. Now after saving his classmates, he ventures for Erisen to escort Myuu and her mother. He'll fight and defeat anyone he has to in order to find a way home—including a god!\n\n(Source: Funimation)",
+  "title": {
+    "en": "Arifureta: From Commonplace to World's Strongest Season 2",
+    "jp": "Arifureta Shokugyou de Sekai Saikyou 2"
+  },
+  "releasedAt": "2022-01-13T00:00:00.000Z",
+  "finishedAt": "2022-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/42611/poster_image/95d869f45d41c5e8155deb6dacac82e3.png",
+  "coverUrl": "https://media.kitsu.io/anime/42611/cover_image/e38400c862f7731073b8e779a5e28960.png",
+  "categories": [
+    "action",
+    "adventure",
+    "conspiracy",
+    "fantasy",
+    "harem",
+    "isekai",
+    "loli",
+    "magic",
+    "romance",
+    "vampire"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/arifureta-from-commonplace-to-worlds-strongest/",
+    "https://www.hulu.com/series/arifureta-from-commonplace-to-worlds-strongest-f3ebfa6a-c651-4e2b-b939-6c46dec8a66a"
+  ],
+  "relations": {
+    "kitsu": "42611",
+    "anilist/anime": "112323",
+    "myanimelist/anime": "40507"
+  }
+}

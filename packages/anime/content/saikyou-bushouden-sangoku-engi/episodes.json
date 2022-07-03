@@ -1,0 +1,455 @@
+[
+  {
+    "title": {
+      "jp": "The Peach Orchard's Oath"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1991-10-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fierce Fighting! A Volunteer Army"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1991-10-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fight to the Death! Tie Men Xia"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1991-11-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Imperial Trap"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1991-11-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Conspiracy of the 10 Attendants"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1991-11-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Famous Horse -- The Red Hare"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1991-11-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tyrant General Dong Zhuo"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1991-11-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Hero of Chaos"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1991-12-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Battle of Great Warriors"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1991-12-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Revived Ambition"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1991-12-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Evil Power of the Imperial Seal"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1991-12-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Warrior on the White Horse"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1992-01-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Agitated Lions"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1992-01-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Lady of Chaos - First Half"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1992-01-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Lady of Chaos - Second Half"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1992-01-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Feud Between Two Heroes"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1992-02-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Two-Pronged Strategy"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1992-02-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Drunken Tiger Laments"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1992-02-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "False Alliance"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1992-02-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Secret Scheme of the Chens"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1992-03-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Friendly Fire in a Moonlit Night"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1992-03-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Lu Bu -- Demise in a Snowfield"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1992-03-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Releasing Tiger"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1992-04-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Zhang Fei's Art of War"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1992-04-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Isolated Valiant General"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1992-04-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Troubled Times for Hidden Dragon Zhuge Liang"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1992-04-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Broken Relationship"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1992-05-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Fateful Thousand Mile Journey"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1992-05-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Liu Bei's Army -- A Great Reunion"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1992-05-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Battle of Guan Du"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1992-05-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Evil Horse -- Near Death at the River Current"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1992-05-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Wandering Scholar -- Shan Fu"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "1992-06-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Xu Shu's Mother"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "1992-06-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Three Visits"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "1992-06-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kong Ming's First Battle"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "1992-06-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kong Ming's Grand Scheme"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "1992-07-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cao Cao's Wrathful Counterattack"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "1992-07-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Amazing! Child-Protecting Swordsman"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "1992-07-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kong Ming's Great Debate"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "1992-07-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Handsome Warrior -- Zhou Yu"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "1992-08-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Zhou Yu's Murderous Intent"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "1992-08-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Secret Scheme: The Water Fort"
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "1992-08-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The 100,000 Arrows"
+    },
+    "season": 1,
+    "number": 43,
+    "releasedAt": "1992-08-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Huang Gai -- The Battered Body Trick"
+    },
+    "season": 1,
+    "number": 44,
+    "releasedAt": "1992-09-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Fledgling Phoenix -- The Chaining Trick"
+    },
+    "season": 1,
+    "number": 45,
+    "releasedAt": "1992-09-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Battle of Chi Bi -- First Half"
+    },
+    "season": 1,
+    "number": 46,
+    "releasedAt": "1992-09-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Battle of Chi Bi -- Second Half"
+    },
+    "season": 1,
+    "number": 47,
+    "releasedAt": "1992-09-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 48,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 49,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 50,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 51,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 52,
+    "content": {}
+  }
+]

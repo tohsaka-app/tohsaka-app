@@ -1,0 +1,26 @@
+{
+  "slug": "yakusoku-music",
+  "synopsis": "Music video for Eve's song Yakusoku. The two characters are voiced by Nobunaga Shimazaki and Souma Saitou.",
+  "title": {
+    "en": "Promise",
+    "jp": "Yakusoku"
+  },
+  "releasedAt": "2020-10-24T00:00:00.000Z",
+  "finishedAt": "2020-10-24T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44201/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=PTDYDxWvPHo"
+  ],
+  "relations": {
+    "kitsu": "44201",
+    "anilist/anime": "125321",
+    "myanimelist/anime": "43590"
+  }
+}

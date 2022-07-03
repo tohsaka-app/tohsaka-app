@@ -1,0 +1,25 @@
+{
+  "slug": "star-wars-visions-volume-two",
+  "synopsis": "The second volume of anthologies set within the Star Wars universe.",
+  "title": {
+    "en": "Star Wars: Visions Volume 2",
+    "jp": "Star Wars: Visions Volume 2"
+  },
+  "releasedAt": "2023-12-31T00:00:00.000Z",
+  "finishedAt": "2023-12-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "unreleased",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46145/poster_image/3c32854ed98a761ee300432cee7fac58.png",
+  "categories": [
+    "action",
+    "fantasy",
+    "robot",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46145"
+  }
+}

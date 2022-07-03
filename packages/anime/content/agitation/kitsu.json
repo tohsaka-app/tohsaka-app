@@ -1,0 +1,25 @@
+{
+  "slug": "agitation",
+  "synopsis": "Official music video for the song Agitation! by the fictional band Irodorimidori. It is the 44th song in the franchise and focuses Maigahara Koukou Keion-bu, an after school club band with Nanase Hagiwara, Nadeshiko Igarashi, and Minae as members.",
+  "title": {
+    "en": "Agitation!",
+    "jp": "Agitation!"
+  },
+  "releasedAt": "2019-08-06T00:00:00.000Z",
+  "finishedAt": "2019-08-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42489/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=n5MZnhCVuF4"
+  ],
+  "relations": {
+    "kitsu": "42489",
+    "anilist/anime": "111860",
+    "myanimelist/anime": "40222"
+  }
+}

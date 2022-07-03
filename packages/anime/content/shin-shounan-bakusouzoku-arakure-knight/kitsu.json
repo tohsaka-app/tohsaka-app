@@ -1,0 +1,28 @@
+{
+  "slug": "shin-shounan-bakusouzoku-arakure-knight",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Shin Shounan Bakusouzoku Arakure Knight"
+  },
+  "releasedAt": "1997-09-12T00:00:00.000Z",
+  "finishedAt": "1998-09-11T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7445/original.jpg",
+  "categories": [
+    "adventure",
+    "angst",
+    "delinquent",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7445",
+    "anidb": "5348",
+    "anilist/anime": "16510",
+    "aozora": "fivaPYj8Pp",
+    "myanimelist/anime": "16510"
+  }
+}

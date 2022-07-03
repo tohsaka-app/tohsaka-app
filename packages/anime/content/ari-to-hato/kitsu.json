@@ -1,0 +1,24 @@
+{
+  "slug": "ari-to-hato",
+  "synopsis": "In this tale an ant and a pigeon help each other.",
+  "title": {
+    "en": null,
+    "jp": "Ari to Hato"
+  },
+  "releasedAt": "1918-07-18T00:00:00.000Z",
+  "finishedAt": "1918-07-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8958/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8958",
+    "anidb": "6928",
+    "aozora": "L3JkScnshz",
+    "myanimelist/anime": "21761"
+  }
+}

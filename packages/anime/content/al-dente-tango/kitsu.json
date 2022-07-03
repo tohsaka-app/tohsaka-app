@@ -1,0 +1,24 @@
+{
+  "slug": "al-dente-tango",
+  "synopsis": "The stage is a fancy restaurant featuring live tango performances. Both the cuisine and the clientele are impeccable, and everyone is fully content. But one customer’s visit disrupts the tranquility.\n\n1st year work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "jp": "Al Dente Tango"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45123/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/zREf6BoSCeA"
+  ],
+  "relations": {
+    "kitsu": "45123",
+    "anilist/anime": "107178"
+  }
+}

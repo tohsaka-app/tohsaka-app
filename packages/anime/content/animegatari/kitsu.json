@@ -1,0 +1,24 @@
+{
+  "slug": "animegatari",
+  "synopsis": "Short animation series screened during intermission at TOHO Cinemas Shinjuku.",
+  "title": {
+    "jp": "Animegatari"
+  },
+  "releasedAt": "2015-04-17T00:00:00.000Z",
+  "finishedAt": "2015-04-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10884/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10884",
+    "anidb": "11195",
+    "anilist/anime": "105973",
+    "aozora": "vKcqV7oL2t",
+    "myanimelist/anime": "30617"
+  }
+}

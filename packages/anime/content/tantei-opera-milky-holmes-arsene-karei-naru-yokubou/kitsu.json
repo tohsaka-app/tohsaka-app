@@ -1,0 +1,25 @@
+{
+  "slug": "tantei-opera-milky-holmes-arsene-karei-naru-yokubou",
+  "synopsis": "",
+  "title": {
+    "jp": "Tantei Opera Milky Holmes: Arsene Karei naru Yokubou"
+  },
+  "releasedAt": "2017-12-31T00:00:00.000Z",
+  "finishedAt": "2017-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41104/original.jpg",
+  "categories": [
+    "detective",
+    "mystery",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41104",
+    "anidb": "13591",
+    "anilist/anime": "100570",
+    "myanimelist/anime": "36827"
+  }
+}

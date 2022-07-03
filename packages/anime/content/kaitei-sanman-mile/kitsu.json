@@ -1,0 +1,28 @@
+{
+  "slug": "kaitei-sanman-mile",
+  "synopsis": "Returning home from an ocean trip, young Isamu meets the beautiful sea-dweller Angel on a volcanic island. Attacked by a fiery dragon, Isamu and Angel escape on the observation boat See Through, and Angel invites Isamu to see her undersea kingdom of Atlas.\n(Source: AniDB)",
+  "title": {
+    "jp": "Kaitei Sanman Mile"
+  },
+  "releasedAt": "1970-07-19T00:00:00.000Z",
+  "finishedAt": "1970-07-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5623/original.jpg",
+  "categories": [
+    "adventure",
+    "earth",
+    "fantasy",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5623",
+    "anidb": "2213",
+    "anilist/anime": "9172",
+    "aozora": "907QbxhL2x",
+    "myanimelist/anime": "9172"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "shin-koihime-musou-otome-tairan-ova-omake",
+  "synopsis": "A special included in the DVD of Shin Koihime†Musou: Otome Tairan OVA and the BD-BOX of Shin Koihime†Musou: Otome Tairan.",
+  "title": {
+    "jp": "Shin Koihime†Musou: Otome Tairan OVA Omake"
+  },
+  "releasedAt": "2011-02-02T00:00:00.000Z",
+  "finishedAt": "2011-02-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7197/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7197",
+    "anilist/anime": "15015",
+    "aozora": "cNpmHrtELJ",
+    "myanimelist/anime": "15015"
+  }
+}

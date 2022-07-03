@@ -1,0 +1,29 @@
+{
+  "slug": "lupin-iii-italian-game",
+  "synopsis": "The special's story centers on the kidnapping of Rebecca Rossellini, a beautiful business owner who is a featured character in the new Lupin III TV anime series that is currently airing. Upon hearing of her kidnapping, Lupin rushes to her rescue. Additionally, Lupin receives a written challenge from a mysterious person named \"The Masked Count\" suggesting a contest: who can obtain the \"inheritance of Count Cagliostro\" first.\n(Source: ANN)",
+  "title": {
+    "en": "Lupin the Third: Italian Game",
+    "jp": "Lupin III (2015): Italian Game"
+  },
+  "releasedAt": "2016-01-08T00:00:00.000Z",
+  "finishedAt": "2016-01-08T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11667/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "crime",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11667",
+    "anidb": "11839",
+    "anilist/anime": "21821",
+    "aozora": "dsdOYTKCgF",
+    "myanimelist/anime": "32321"
+  }
+}

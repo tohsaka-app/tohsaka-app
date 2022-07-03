@@ -1,0 +1,23 @@
+{
+  "slug": "play-jazz",
+  "synopsis": "Furukawa Taku film.",
+  "title": {
+    "jp": "Play Jazz"
+  },
+  "releasedAt": "1987-01-01T00:00:00.000Z",
+  "finishedAt": "1987-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10833/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10833",
+    "anilist/anime": "102518",
+    "aozora": "0yX0jBIQ08",
+    "myanimelist/anime": "30339"
+  }
+}

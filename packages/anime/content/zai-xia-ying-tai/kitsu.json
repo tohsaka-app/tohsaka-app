@@ -1,0 +1,21 @@
+{
+  "slug": "zai-xia-ying-tai",
+  "synopsis": null,
+  "title": {
+    "en": "I'm Ying Tai"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45500/poster_image/bafa8729e0e3bd0a7b0af2ad862b5f90.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45500",
+    "anilist/anime": "137716"
+  }
+}

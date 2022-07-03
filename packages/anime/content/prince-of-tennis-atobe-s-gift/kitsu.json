@@ -1,0 +1,27 @@
+{
+  "slug": "prince-of-tennis-atobe-s-gift",
+  "synopsis": "Hyoutei Gakuen's strange (but impossibly wealthy) captain Atobe Keigo decides to throw a giant birthday party for his friend and teammate Kabaji. He invites the rest of the Prince of Tennis cast. Together they participate in many different sports and events: dancing, swimming, soccer, a relay race, and more. \n(Source: ANN)",
+  "title": {
+    "en": "Prince of Tennis: Atobe Kara no Okurimono",
+    "jp": "Prince of Tennis: Atobe's Gift"
+  },
+  "releasedAt": "2005-01-29T00:00:00.000Z",
+  "finishedAt": "2005-01-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/721/original.jpg",
+  "categories": [
+    "comedy",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "721",
+    "anidb": "8344",
+    "anilist/anime": "814",
+    "aozora": "dcv4lpLZpl",
+    "myanimelist/anime": "814"
+  }
+}

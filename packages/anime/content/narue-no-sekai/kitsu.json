@@ -1,0 +1,36 @@
+{
+  "slug": "narue-no-sekai",
+  "synopsis": "Meet Narue, an adorable schoolgirl with a secret. She's really an alien with powers right out of a sci-fi comic! But growing up is never easy, and sometimes it doesn't help when you're from outer space. Join our spunky heroine as she faces androids, alien invaders, and her first date with the boy next door. It's the sci-fi comedy that's a direct hit to your heart!\n(Source: Central Park Media)",
+  "title": {
+    "en": "The World of Narue",
+    "jp": "Narue no Sekai"
+  },
+  "releasedAt": "2003-04-05T00:00:00.000Z",
+  "finishedAt": "2003-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/745/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "humanoid alien",
+    "japan",
+    "present",
+    "romance",
+    "science fiction",
+    "sudden girlfriend appearance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "745",
+    "anidb": "586",
+    "anilist/anime": "840",
+    "aozora": "tSKYvThHnu",
+    "myanimelist/anime": "840",
+    "thetvdb": "111071/1",
+    "thetvdb/series": "111071",
+    "trakt": "33921"
+  }
+}

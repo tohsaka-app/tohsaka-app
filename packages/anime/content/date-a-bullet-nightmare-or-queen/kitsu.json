@@ -1,0 +1,24 @@
+{
+  "slug": "date-a-bullet-nightmare-or-queen",
+  "synopsis": "Second part of the Date A Bullet films.",
+  "title": {
+    "jp": "Date A Bullet: Nightmare or Queen"
+  },
+  "releasedAt": "2020-11-13T00:00:00.000Z",
+  "finishedAt": "2020-11-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43355/original.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/date-a-live/"
+  ],
+  "relations": {
+    "kitsu": "43355",
+    "anilist/anime": "121034",
+    "myanimelist/anime": "42423"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "futari-wa-80-sai",
+  "synopsis": "A music video for the song \"Futari wa 80-sai\" by Atomu Shimojou and Fusako Amachi. Aired as part of NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Futari wa 80-sai"
+  },
+  "releasedAt": "1986-08-01T00:00:00.000Z",
+  "finishedAt": "1986-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11650/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11650",
+    "anidb": "12677",
+    "anilist/anime": "115355",
+    "aozora": "MUUlKp1zLa",
+    "myanimelist/anime": "32322"
+  }
+}

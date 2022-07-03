@@ -1,0 +1,22 @@
+{
+  "slug": "gutchonpa-omoshiro-hanashi",
+  "synopsis": "A short anime that aired during the children's variety program Tondeke Gutchonpa. This one focused on telling funny stories.",
+  "title": {
+    "jp": "Gutchonpa Omoshiro Hanashi"
+  },
+  "releasedAt": "1987-11-05T00:00:00.000Z",
+  "finishedAt": "1988-11-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9292/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9292",
+    "aozora": "4JtgDEs9HH",
+    "myanimelist/anime": "26089"
+  }
+}

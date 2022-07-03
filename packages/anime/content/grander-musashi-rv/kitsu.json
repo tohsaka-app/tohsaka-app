@@ -1,0 +1,25 @@
+{
+  "slug": "grander-musashi-rv",
+  "synopsis": "Sequel to Grander Musashi. A young but experienced fisherman named Musashi Kazama and his two friends travel around the world in search of seven mysterious objects of fantastic power called \"Legenders\", each one in the form of a fish. Legenders are said to grant anyone who catches them the power to change the world. Unfortunately, Musashi ends up competing with several other fishermen who share his ambition of capturing a Legender. \n(Source: ANN)",
+  "title": {
+    "jp": "Grander Musashi RV"
+  },
+  "releasedAt": "1998-04-04T00:00:00.000Z",
+  "finishedAt": "1998-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2192/original.jpg",
+  "categories": [
+    "adventure",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2192",
+    "anidb": "2232",
+    "anilist/anime": "2416",
+    "aozora": "QFDrHCwjrW",
+    "myanimelist/anime": "2416"
+  }
+}

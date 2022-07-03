@@ -1,0 +1,26 @@
+{
+  "slug": "manga-hajimete-monogatari",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Manga Hajimete Monogatari"
+  },
+  "releasedAt": "1978-05-06T00:00:00.000Z",
+  "finishedAt": "1984-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6049/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6049",
+    "anidb": "6300",
+    "anilist/anime": "10135",
+    "aozora": "AkwavGQbJA",
+    "myanimelist/anime": "10135"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "touhou-project-side-story-hoshi-no-kioku",
+  "synopsis": "Touhou Project Side Story 〜 星の記憶 (Hoshi no Kioku, literally \"Memory of Stars\") is a 50-minute fan-made animated video created by SOUND HOLIC and released at Comiket 73 in December 2007. Its plot involves Kaguya Houraisan, Eirin Yagokoro, Reisen Udongein Inaba and Sakuya Izayoi traveling back to the Moon to confront Kaguya's father, Luna Marius. The character animation is fairly rudimentary, but it makes extensive use of analog video effects. \n\n(Source: Touhou Wiki)",
+  "title": {
+    "en": "Touhou Project Side Story 〜 Memory of Stars",
+    "jp": "Touhou Project Side Story 〜 Hoshi no Kioku"
+  },
+  "releasedAt": "2007-12-03T00:00:00.000Z",
+  "finishedAt": "2007-12-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11816/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11816/original.jpg",
+  "categories": [
+    "action",
+    "magic",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11816"
+  }
+}

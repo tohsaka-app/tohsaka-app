@@ -1,0 +1,28 @@
+{
+  "slug": "thundercats-2011",
+  "synopsis": "After his home kingdom is destroyed by the ancient devil priest Mumm-Ra, the young Thundercat Lord Lion-O leads a team of survivors as they fight evil on Third Earth.\n\n(Source: IMDB)",
+  "title": {
+    "en": "",
+    "jp": "ThunderCats (2011)"
+  },
+  "releasedAt": "2011-07-29T00:00:00.000Z",
+  "finishedAt": "2012-06-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7995/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7995/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "drama",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7995",
+    "thetvdb": "241431/1",
+    "thetvdb/series": "241431"
+  }
+}

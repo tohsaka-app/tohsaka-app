@@ -1,0 +1,24 @@
+{
+  "slug": "mini-sengoku-basara-two-tsukiyo-no-katakura-kun",
+  "synopsis": "Random side-stories focusing on Kojuurou \"Right Eye of the Dragon\" Katakura in chibi form.",
+  "title": {
+    "jp": "Mini Sengoku Basara Two: Tsukiyo no Katakura-kun"
+  },
+  "releasedAt": "2010-10-06T00:00:00.000Z",
+  "finishedAt": "2011-04-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5815/original.jpg",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5815",
+    "anilist/anime": "9630",
+    "aozora": "mYJ4Ru0QOZ",
+    "myanimelist/anime": "9630"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "the-everlasting-guilty-crown",
+  "synopsis": "\"The Everlasting Guilty Crown\" is the second single by the music group EGOIST and is used as the second opening theme song of Guilty Crown. The limited edition release includes a DVD with a music video of the song's TV edit, animated in 3D CGI.",
+  "title": {
+    "jp": "The Everlasting Guilty Crown"
+  },
+  "releasedAt": "2012-03-07T00:00:00.000Z",
+  "finishedAt": "2012-03-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7965/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7965",
+    "anilist/anime": "17949",
+    "aozora": "WCW1mISFbt",
+    "myanimelist/anime": "17949"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "sd-gundam-force",
+  "synopsis": "The land of Neotopia is attacked by the Dark Axis, evil invaders from another dimension who wish to conquer this land. Neotopia's answer: the secret Super Dimensional Guard and their defenders, the Gundam Force. Led by Captain Gundam, the Gundam Force and its team of Gundams with special abilities are aided by a boy named Shute as they stop at nothing to defend the land from the Dark Axis and to defeat them once and for all. \n(Source: ANN)",
+  "title": {
+    "jp": "SD Gundam Force"
+  },
+  "releasedAt": "2004-01-07T00:00:00.000Z",
+  "finishedAt": "2004-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2168/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2168/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "gunfights",
+    "mecha",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2168",
+    "anidb": "1703",
+    "anilist/anime": "2391",
+    "aozora": "bjT14A8Omk",
+    "myanimelist/anime": "2391",
+    "thetvdb": "157211/1",
+    "thetvdb/series": "157211",
+    "trakt": "9110"
+  }
+}

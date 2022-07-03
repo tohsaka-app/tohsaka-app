@@ -1,0 +1,30 @@
+{
+  "slug": "oshiri-kajiri-mushi-3",
+  "synopsis": "A gag comedy about Oshiri Kajiri Mushi XVIII, a 10-year-old insect who goes to Biting School to inherit his family's Biting Shop business. \n(Source: ANN)",
+  "title": {
+    "en": "Bottom Biting Bug 3",
+    "jp": "Oshiri Kajiri Mushi (TV) 3rd Season"
+  },
+  "releasedAt": "2014-10-06T00:00:00.000Z",
+  "finishedAt": "2014-12-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9520/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9520",
+    "anidb": "10848",
+    "anilist/anime": "20855",
+    "aozora": "hCKdBdRrQ2",
+    "myanimelist/anime": "27687",
+    "thetvdb": "265138/3",
+    "thetvdb/season": "598089",
+    "thetvdb/series": "265138",
+    "trakt": "70050"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "okori-jizou",
+  "synopsis": "Based on a book of the same name. \nA stop-motion anime about the atomic bombing of Hiroshima. A 6 year old girl named Hiro-chan gets burned by the bomb while playing with a local laughing Jizo statue. While crying out her mothers name she also begged for water. Suddenly the Jizo statue's face became that of an angry expression and tears started flowing from its eyes which Hiro-chan was able to drink. ",
+  "title": {
+    "jp": "Okori Jizou"
+  },
+  "releasedAt": "1983-06-15T00:00:00.000Z",
+  "finishedAt": "1983-06-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9509/original.jpg",
+  "categories": [
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9509",
+    "anilist/anime": "119456",
+    "aozora": "MrsP5Ebd3K",
+    "myanimelist/anime": "26143"
+  }
+}

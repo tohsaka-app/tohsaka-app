@@ -1,0 +1,29 @@
+{
+  "slug": "black-clover-movie",
+  "synopsis": "Shounen Jump's magical battle fantasy manga \"Black Clover\", whose anime has been ranked number one in viewership in 87 countries and regions, is finally getting its first movie adaptation!\n\nChallenge and victory. The boy's story will continue to expand!\n\n(Source: YouTube description, Translated)",
+  "title": {
+    "jp": "Black Clover Movie"
+  },
+  "releasedAt": "2023-01-31T00:00:00.000Z",
+  "finishedAt": "2023-12-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44242/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44242/cover_image/a77d8ca0d4fe96610bf92a9ec865648b.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44242",
+    "anidb": "16176",
+    "anilist/anime": "131680",
+    "myanimelist/anime": "48585"
+  }
+}

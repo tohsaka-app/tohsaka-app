@@ -1,0 +1,26 @@
+{
+  "slug": "mecha-robot-corps-3",
+  "synopsis": "A movie taking place in the same universe as Solar I.II.III. Once again, a group of teenagers save the world with their giant robot.",
+  "title": {
+    "jp": "Mecha Robot Corps 3"
+  },
+  "releasedAt": "1985-01-01T00:00:00.000Z",
+  "finishedAt": "1985-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7539/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7539",
+    "anidb": "9649",
+    "anilist/anime": "16834",
+    "aozora": "sH6wlOF9qJ",
+    "myanimelist/anime": "16834"
+  }
+}

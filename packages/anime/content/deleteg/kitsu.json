@@ -1,0 +1,18 @@
+{
+  "slug": "deleteg",
+  "synopsis": "Duplicate of https://kitsu.io/anime/mobile-suit-gundam-hathaways-flash",
+  "title": {
+    "jp": "DeleteG"
+  },
+  "releasedAt": "2019-01-01T00:00:00.000Z",
+  "finishedAt": "2019-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41845/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41845"
+  }
+}

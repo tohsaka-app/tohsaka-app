@@ -1,0 +1,23 @@
+{
+  "slug": "ahare-meisaku-kun-meiji-saite-oishii-mozarella",
+  "synopsis": "A collaboration between Ahare! Meisaku-kun and Meiji, promotion Meiji's new mozzarella string cheese.",
+  "title": {
+    "jp": "Aware! Meisaku-kun: Meiji Saite Oishii Mozzarella"
+  },
+  "releasedAt": "2017-03-01T00:00:00.000Z",
+  "finishedAt": "2017-03-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13580/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13580",
+    "aozora": "Dz5XECPt6h",
+    "myanimelist/anime": "35002"
+  }
+}

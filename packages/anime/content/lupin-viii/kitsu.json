@@ -1,0 +1,31 @@
+{
+  "slug": "lupin-viii",
+  "synopsis": "Pilot of Lupin sequel to be included with the Lupin 40th anniversary Bluray set.\n5 generations after Lupin the 3rd, Lupin the 8th plies his trade in an airship that flies above a futuristic Paris.\n(Source: ANN)",
+  "title": {
+    "jp": "Lupin VIII"
+  },
+  "releasedAt": "2012-03-28T00:00:00.000Z",
+  "finishedAt": "2012-03-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6922/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6922/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "crime",
+    "future",
+    "seinen",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6922",
+    "anidb": "9861",
+    "anilist/anime": "13249",
+    "aozora": "w5HVvFpAZe",
+    "myanimelist/anime": "13249"
+  }
+}

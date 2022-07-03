@@ -1,0 +1,33 @@
+{
+  "slug": "gekiganger-3-the-movie",
+  "synopsis": "Ken, Joe, and Akira, three high school students, must combine their three mecha into Gekiganger III to defeat the evil Prince Akara and Emperor Hyperion. The OAV is a compilation of the scenes from Nadesico, a new \"movie\", and is a parody of many mecha series from the 80s. \n(Source: ANN)",
+  "title": {
+    "en": "Gekiganger 3",
+    "jp": "Gekiganger 3: The Movie"
+  },
+  "releasedAt": "1998-02-21T00:00:00.000Z",
+  "finishedAt": "1998-02-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1866/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "mecha",
+    "parody",
+    "robot",
+    "science fiction",
+    "super robot"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/martian-successor-nadesico"
+  ],
+  "relations": {
+    "kitsu": "1866",
+    "anidb": "666",
+    "anilist/anime": "2067",
+    "aozora": "P6YZVBH1A5",
+    "myanimelist/anime": "2067"
+  }
+}

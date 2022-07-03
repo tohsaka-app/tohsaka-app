@@ -1,0 +1,28 @@
+{
+  "slug": "attack-on-titan-since-that-day",
+  "synopsis": "Recap of the events in Shingeki no Kyojin that happened prior to episode 14.",
+  "title": {
+    "en": "Attack on Titan: Since That Day",
+    "jp": "Shingeki no Kyojin: Ano Hi Kara"
+  },
+  "releasedAt": "2013-07-07T00:00:00.000Z",
+  "finishedAt": "2013-07-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7838/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7838/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7838",
+    "aozora": "7ycjhGpLz7",
+    "myanimelist/anime": "19285"
+  }
+}

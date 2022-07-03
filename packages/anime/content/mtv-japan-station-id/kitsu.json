@@ -1,0 +1,23 @@
+{
+  "slug": "mtv-japan-station-id",
+  "synopsis": "Short animations by Shunsuke Saito made for Japanese MTV channel.",
+  "title": {
+    "jp": "MTV Japan Station ID"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10415/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10415",
+    "anilist/anime": "103437",
+    "aozora": "VEbGTUGZfx",
+    "myanimelist/anime": "29933"
+  }
+}

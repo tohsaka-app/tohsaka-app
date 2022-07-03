@@ -1,0 +1,27 @@
+{
+  "slug": "robokko-beeton",
+  "synopsis": "When a boy's uncle sends him confusing plans for a robot from America, the boy makes a mistake in the assembly which leads to unexpected results.\n(Source: AniDB)",
+  "title": {
+    "jp": "Robokko Beeton"
+  },
+  "releasedAt": "1976-10-12T00:00:00.000Z",
+  "finishedAt": "1977-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9557/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9557",
+    "anidb": "2345",
+    "anilist/anime": "20147",
+    "aozora": "VSIE9tZzW3",
+    "myanimelist/anime": "20147"
+  }
+}

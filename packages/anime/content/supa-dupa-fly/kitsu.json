@@ -1,0 +1,20 @@
+{
+  "slug": "supa-dupa-fly",
+  "synopsis": "A music video by HAN-KUN.",
+  "title": {
+    "jp": "SUPA DUPA FLY"
+  },
+  "releasedAt": "2018-10-09T00:00:00.000Z",
+  "finishedAt": "2018-10-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42105/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42105"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "chikatetsu-ni-noru",
+  "synopsis": "A crowdfunded anime short animated by studio GYORAI EIZO, made for the Kyoto Municipal Transportation Bureau’s subway PR project, Get on! Kyoto City Subway campaign.\n\nIt’s about a group of three high school girls who explore Kyoto using the Kyoto City Subway system.",
+  "title": {
+    "jp": "Chikatetsu ni Noru"
+  },
+  "releasedAt": "2017-05-27T00:00:00.000Z",
+  "finishedAt": "2017-05-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41684/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41684",
+    "anilist/anime": "119872",
+    "myanimelist/anime": "36888"
+  }
+}

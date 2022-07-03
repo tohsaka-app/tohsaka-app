@@ -1,0 +1,23 @@
+{
+  "slug": "jiuzhou-piaomiao-lu",
+  "synopsis": "",
+  "title": {
+    "en": "Novoland Eagle Flag"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45696/poster_image/c6314687c97bf991fdedaf0356f08df6.png",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45696",
+    "anilist/anime": "137641"
+  }
+}

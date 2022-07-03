@@ -1,0 +1,22 @@
+{
+  "slug": "printer-rec-music",
+  "synopsis": "Short animation for \"PRINTER REC Music\" by etoUMBABO.",
+  "title": {
+    "en": "Printer Rec Music",
+    "jp": "Printer Rec Music"
+  },
+  "releasedAt": "2014-06-17T00:00:00.000Z",
+  "finishedAt": "2014-06-17T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44483/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44483",
+    "myanimelist/anime": "38764"
+  }
+}

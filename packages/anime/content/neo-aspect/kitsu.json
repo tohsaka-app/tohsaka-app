@@ -1,0 +1,22 @@
+{
+  "slug": "neo-aspect",
+  "synopsis": "",
+  "title": {
+    "jp": "Neo-Aspect"
+  },
+  "releasedAt": "2018-05-31T00:00:00.000Z",
+  "finishedAt": "2018-05-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41869/original.jpg",
+  "categories": [],
+  "externals": [
+    "https://www.youtube.com/watch?v=VQW6XmAPMcI"
+  ],
+  "relations": {
+    "kitsu": "41869",
+    "anilist/anime": "107741",
+    "myanimelist/anime": "37954"
+  }
+}

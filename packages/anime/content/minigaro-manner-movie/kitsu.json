@@ -1,0 +1,22 @@
+{
+  "slug": "minigaro-manner-movie",
+  "synopsis": "Manner movies released alongside the Garo Gaiden: Tougen no Fue and Zero: Black Blood films, respectively, explaining proper theater etiquette.",
+  "title": {
+    "jp": "MiniGARO Manner Movie"
+  },
+  "releasedAt": "2013-07-20T00:00:00.000Z",
+  "finishedAt": "2014-03-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13166/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13166",
+    "aozora": "yIOsOvy3tg",
+    "myanimelist/anime": "34630"
+  }
+}

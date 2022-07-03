@@ -1,0 +1,25 @@
+{
+  "slug": "tandemoon-rendezvous",
+  "synopsis": "Music video for the song Tandemoon Rendezvous by FAKE TYPE.",
+  "title": {
+    "en": "Tandemoon Rendezvous",
+    "jp": "Tandemoon Rendezvous"
+  },
+  "releasedAt": "2021-03-16T00:00:00.000Z",
+  "finishedAt": "2021-03-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44532/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/TWEBpH4XMwY"
+  ],
+  "relations": {
+    "kitsu": "44532",
+    "anilist/anime": "133103",
+    "myanimelist/anime": "49900"
+  }
+}

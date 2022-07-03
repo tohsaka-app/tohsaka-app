@@ -1,0 +1,25 @@
+{
+  "slug": "ao-no-exorcist-special",
+  "synopsis": "A collaboration between Blue Exorcist and Kakko Kawaii Sengen.",
+  "title": {
+    "jp": "Ao no Exorcist Movie Special"
+  },
+  "releasedAt": "2012-04-01T00:00:00.000Z",
+  "finishedAt": "2012-04-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7012/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7012",
+    "anilist/anime": "13677",
+    "aozora": "L43FsG59rU",
+    "myanimelist/anime": "13677"
+  }
+}

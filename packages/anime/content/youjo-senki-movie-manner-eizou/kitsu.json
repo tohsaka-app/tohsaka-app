@@ -1,0 +1,26 @@
+{
+  "slug": "youjo-senki-movie-manner-eizou",
+  "synopsis": "A manner movie aired before the Youjo Senki Movie. Done in the chibi art style of Youjo Shenki and Isekai Quartet, Tanya and her battalion tell the viewers to refrain from improper theater etiquette such as using phones during the film, talking, and smoking. The manner movie was later included on the DVD/BD release of the film.",
+  "title": {
+    "en": "Saga of Tanya the Evil Manner Movie",
+    "jp": "Youjo Senki: Manner Eizou"
+  },
+  "releasedAt": "2019-02-08T00:00:00.000Z",
+  "finishedAt": "2019-02-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43374/original.jpg",
+  "categories": [
+    "comedy",
+    "military",
+    "parody",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43374",
+    "anilist/anime": "115927",
+    "myanimelist/anime": "40298"
+  }
+}

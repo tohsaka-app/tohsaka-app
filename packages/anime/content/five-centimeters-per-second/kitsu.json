@@ -1,0 +1,37 @@
+{
+  "slug": "five-centimeters-per-second",
+  "synopsis": "Takaki Toono and Akari Shinohara, two very close friends and classmates, are torn apart when Akari's family is transferred to another region of Japan due to her family's job. Despite separation, they continue to keep in touch through mail. When Takaki finds out that his family is also moving, he decides to meet with Akari one last time.\nAs years pass by, they continue down their own paths, their distance slowly growing wider and their contact with one another fades. Yet, they keep remembering one another and the times they have shared together, wondering if they will have the chance to meet once again.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "5 Centimeters Per Second",
+    "jp": "Byousoku 5 Centimeter"
+  },
+  "releasedAt": "2007-02-16T00:00:00.000Z",
+  "finishedAt": "2007-03-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1517/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1517/original.png",
+  "categories": [
+    "asia",
+    "drama",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "school life",
+    "slice of life",
+    "slow when it comes to love"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/5-centimeters-per-second",
+    "https://www.animelab.com/shows/5-centimetres-per-second"
+  ],
+  "relations": {
+    "kitsu": "1517",
+    "anidb": "4568",
+    "anilist/anime": "1689",
+    "aozora": "f1lhg6EQvh",
+    "myanimelist/anime": "1689"
+  }
+}

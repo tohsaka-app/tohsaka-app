@@ -1,0 +1,23 @@
+{
+  "slug": "seven-kakan",
+  "synopsis": "A music video for phatmans after school song 7-kakan.",
+  "title": {
+    "jp": "7-kakan."
+  },
+  "releasedAt": "2015-07-09T00:00:00.000Z",
+  "finishedAt": "2015-07-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12157/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12157",
+    "anilist/anime": "102444",
+    "aozora": "HLbs1NlRnv",
+    "myanimelist/anime": "32853"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "akuei-to-gacchinpo-tenkomori",
+  "synopsis": "A sequel of Akuei to Gacchinpo series.",
+  "title": {
+    "jp": "Akuei to Gacchinpo: Tenkomori"
+  },
+  "releasedAt": "2005-01-07T00:00:00.000Z",
+  "finishedAt": "2005-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10524/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10524",
+    "anidb": "3426",
+    "anilist/anime": "108745",
+    "aozora": "2UbN886jKC",
+    "myanimelist/anime": "29843"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "transformers-headmasters",
+  "synopsis": "Headmasters starts with Galvatron leading a new batch of Destrons to wage war on Cybertron, the Destron Headmasters. The Cybertrons are rescued by the arrival of the Cybertron Headmasters, led by Fortress (Cerebros, the head of Fortress Maximus). It is revealed that Fortress Maximus left Cybertron millions of years ago in search of energy, and have finally managed to come home. He explains that the Headmasters are from a planet called Master; the human-sized robots who live there built themselves Transformers-sized bodies. They can then transform themselves into the heads of the robots, and have now joined the Cybertron-Destron war.\n(Source: ANN) ",
+  "title": {
+    "en": "Transformers The Headmasters",
+    "jp": "Transformers Headmasters"
+  },
+  "releasedAt": "1987-07-03T00:00:00.000Z",
+  "finishedAt": "1988-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/823/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "future",
+    "gunfights",
+    "mecha",
+    "other planet",
+    "science fiction",
+    "space",
+    "space travel",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "823",
+    "anidb": "2077",
+    "anilist/anime": "925",
+    "aozora": "SbjBYPzsLP",
+    "myanimelist/anime": "925",
+    "thetvdb": "71475/1",
+    "thetvdb/series": "71475",
+    "trakt": "19148"
+  }
+}

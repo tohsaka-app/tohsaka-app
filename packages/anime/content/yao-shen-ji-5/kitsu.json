@@ -1,0 +1,27 @@
+{
+  "slug": "yao-shen-ji-5",
+  "synopsis": "The fifth season of Yao Shen Ji.",
+  "title": {
+    "en": "Tales of Demons and Gods 5"
+  },
+  "releasedAt": "2021-10-30T00:00:00.000Z",
+  "finishedAt": "2022-10-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45518/poster_image/94c296ecced7a252102da95b1f69942d.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45518",
+    "anilist/anime": "139986",
+    "myanimelist/anime": "50274"
+  }
+}

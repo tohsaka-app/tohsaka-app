@@ -1,0 +1,20 @@
+{
+  "slug": "haha-wo-tazunete-sanzenri-special",
+  "synopsis": "A Gakken version of the <i>Haha wo Tazunete Sanzenri</i>.",
+  "title": {
+    "jp": "Haha wo Tazunete Sanzenri (Special)"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40773/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40773",
+    "aozora": "FJfurOJXeA",
+    "myanimelist/anime": "35494"
+  }
+}

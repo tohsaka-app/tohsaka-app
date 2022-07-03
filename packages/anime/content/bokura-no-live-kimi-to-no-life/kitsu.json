@@ -1,0 +1,27 @@
+{
+  "slug": "bokura-no-live-kimi-to-no-life",
+  "synopsis": "Love Live! School idol project. DVD bundled with the debut CD single of the fan-voted idol project.\n(Source: AniDB)",
+  "title": {
+    "jp": "Bokura no Live Kimi to no Life"
+  },
+  "releasedAt": "2010-08-13T00:00:00.000Z",
+  "finishedAt": "2010-08-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5935/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5935/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "performance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5935",
+    "anidb": "7956",
+    "anilist/anime": "9907",
+    "aozora": "tAwbh13ckq",
+    "myanimelist/anime": "9907"
+  }
+}

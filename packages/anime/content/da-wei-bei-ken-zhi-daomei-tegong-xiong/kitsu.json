@@ -1,0 +1,25 @@
+{
+  "slug": "da-wei-bei-ken-zhi-daomei-tegong-xiong",
+  "synopsis": "A Chinese adaptation of the international Backkom franchise.\n\nThe film tells of Backoom the immortal bear taking a chance to accept training to be a secret agent (like James Bond) which he goes on an adventure and saves the world.",
+  "title": {
+    "en": "Backkom Bear: Agent 008",
+    "jp": "Da Wei Bei Ken Zhi Daomei Tegong Xiong"
+  },
+  "releasedAt": "2017-01-13T00:00:00.000Z",
+  "finishedAt": "2017-01-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13842/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13842",
+    "anilist/anime": "103401",
+    "myanimelist/anime": "35921"
+  }
+}

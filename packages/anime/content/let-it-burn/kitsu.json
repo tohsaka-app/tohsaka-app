@@ -1,0 +1,25 @@
+{
+  "slug": "let-it-burn",
+  "synopsis": "MV for the ChroNoiR and  Kagami Hayato's single, LET IT BURN.",
+  "title": {
+    "en": "LET IT BURN",
+    "jp": "LET IT BURN"
+  },
+  "releasedAt": "2020-10-30T00:00:00.000Z",
+  "finishedAt": "2020-10-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43881/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43881/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=kkHLnRSCCec&ab_channel=ChroNoiR"
+  ],
+  "relations": {
+    "kitsu": "43881"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "space-black-knight",
+  "synopsis": "There exists the Cosmos Warriors, a team tasked with the duty of protecting freedom, justice, and peace of the universe. When the Master of the Cosmos Warriors was killed onboard a traveling spaceship and the rest of the passengers were kidnapped by the sinister Green People, Captain Leo soon uncovers a malicious plan that would put the fate of the people of Earth on the balance.",
+  "title": {
+    "en": "Captain of Cosmos"
+  },
+  "releasedAt": "1979-01-01T00:00:00.000Z",
+  "finishedAt": "1979-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7534/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7534/original.jpg",
+  "categories": [
+    "action",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7534",
+    "anidb": "11274",
+    "anilist/anime": "16822",
+    "aozora": "In4aZUWYQD",
+    "myanimelist/anime": "16822"
+  }
+}

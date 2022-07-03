@@ -1,0 +1,26 @@
+{
+  "slug": "quanzhi-fashi-4th-season",
+  "synopsis": "Fourth season of Quanzhi Fashi.",
+  "title": {
+    "en": "Full-Time Magister 4"
+  },
+  "releasedAt": "2020-05-27T00:00:00.000Z",
+  "finishedAt": "2020-06-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43232/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43232",
+    "anilist/anime": "115800",
+    "myanimelist/anime": "40005"
+  }
+}

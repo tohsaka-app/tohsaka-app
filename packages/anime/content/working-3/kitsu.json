@@ -1,0 +1,38 @@
+{
+  "slug": "working-3",
+  "synopsis": "Working!!! is never easy, especially when your co-workers are as wacky as the gang at Wagnaria, Hokkaido's most beloved family restaurant. Over three seasons, they've become a family, and just like with most families, they spend a lot of time driving each other crazy.\nEveryone who works at Wagnaria has their own story, even \"normal girl\" Matsumoto Maya. In Working!!!, all the stories that have been told at Wagnaria build towards their endings. Romance, sibling rivalry, disappearing spouses, terrifying parents―things are getting pretty complicated. Will Kirio finally meet Aoi? Will Satou finally let Yachiyo know how he feels? Will Otoo-san finally find his wife? Will Popura get any taller? And just what the heck is going on between Souta and Mahiru? There's only one way to find out!",
+  "title": {
+    "en": "Wagnaria!!3",
+    "jp": "Working!!!"
+  },
+  "releasedAt": "2015-07-05T00:00:00.000Z",
+  "finishedAt": "2015-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8712/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8712/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "slice of life",
+    "waitress",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8712",
+    "anidb": "10995",
+    "anilist/anime": "20819",
+    "aozora": "yqGpqfsAYt",
+    "myanimelist/anime": "25879",
+    "thetvdb": "145211/3",
+    "thetvdb/season": "593491",
+    "thetvdb/series": "145211",
+    "trakt": "61012"
+  }
+}

@@ -1,0 +1,470 @@
+[
+  {
+    "title": {
+      "jp": "Paris, Where The Elephant Is "
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1987-10-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Letter From London "
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1987-10-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Three Musketeers of Paris "
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1987-10-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "D`Artagnan the Bath Man "
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1987-10-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Trap of the Love Letter "
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1987-11-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Big Escape from Paris "
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1987-11-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "D`Artagnan Moving Out "
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1987-11-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Aramis Rescue Operation "
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1987-12-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I Am Jean`s Mother "
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1987-12-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hunting in Versailles "
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1987-12-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Broken Sword "
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1988-01-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Admired Musketeer "
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1988-01-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Who Is The Spy "
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1988-01-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Escape from Paris "
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1988-02-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dangerous Journey "
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1988-02-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hurry Up! D`Artagnan "
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1988-03-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "One For All "
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1988-03-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "D`Artagnan`s Funeral "
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1988-03-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Passing At The Harbour "
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1988-03-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "D`Artagnan Crossing The Sea "
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1988-04-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Queen`s Diamond "
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1988-04-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Crow of the London Tower "
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1988-04-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Escape from London Tower "
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1988-05-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Milady`s Counterattack "
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1988-05-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Storm at Dover "
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1988-05-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Grand Ball at Louvre "
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1988-05-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "First Date "
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1988-06-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Milady`s Revenge "
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1988-06-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great Mirror at Notre-Dame "
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1988-06-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Assassination of Buckingham "
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1988-07-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Execution of Milady "
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1988-07-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mysterious Iron Mask "
+    },
+    "season": 2,
+    "number": 32,
+    "releasedAt": "1988-07-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Jewel of Actress Nana "
+    },
+    "season": 2,
+    "number": 33,
+    "releasedAt": "1988-08-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Arrest Iron Mask "
+    },
+    "season": 2,
+    "number": 34,
+    "releasedAt": "1988-08-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "D`Artagnan`s Failure "
+    },
+    "season": 2,
+    "number": 35,
+    "releasedAt": "1988-09-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Iron Mask`s Challenge "
+    },
+    "season": 2,
+    "number": 36,
+    "releasedAt": "1988-09-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Famous Detective D`Artagnan "
+    },
+    "season": 2,
+    "number": 37,
+    "releasedAt": "1988-09-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mystery of the Disappeared Tailor "
+    },
+    "season": 2,
+    "number": 38,
+    "releasedAt": "1988-10-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Two Iron Masks "
+    },
+    "season": 2,
+    "number": 39,
+    "releasedAt": "1988-10-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Substituted King "
+    },
+    "season": 2,
+    "number": 40,
+    "releasedAt": "1988-10-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Milady`s Scheme "
+    },
+    "season": 2,
+    "number": 41,
+    "releasedAt": "1988-10-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Aramis` Betrayal "
+    },
+    "season": 2,
+    "number": 42,
+    "releasedAt": "1988-11-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Arrest Athos "
+    },
+    "season": 2,
+    "number": 43,
+    "releasedAt": "1988-11-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Who Is Iron Mask "
+    },
+    "season": 2,
+    "number": 44,
+    "releasedAt": "1988-12-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Aramis` Secret "
+    },
+    "season": 2,
+    "number": 45,
+    "releasedAt": "1988-12-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rescue Iron Mask "
+    },
+    "season": 2,
+    "number": 46,
+    "releasedAt": "1989-01-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Jean In The Middle of the Flame "
+    },
+    "season": 2,
+    "number": 47,
+    "releasedAt": "1989-01-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fortress in the Sea "
+    },
+    "season": 2,
+    "number": 48,
+    "releasedAt": "1989-01-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Captured Musketeers "
+    },
+    "season": 2,
+    "number": 49,
+    "releasedAt": "1989-01-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Elephant Crossing Sea "
+    },
+    "season": 2,
+    "number": 50,
+    "releasedAt": "1989-02-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Aramis` Cliffside Duel "
+    },
+    "season": 2,
+    "number": 51,
+    "releasedAt": "1989-02-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Farewell! D`Artagnan "
+    },
+    "season": 2,
+    "number": 52,
+    "releasedAt": "1989-02-17T00:00:00.000Z",
+    "content": {}
+  }
+]

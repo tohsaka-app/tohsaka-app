@@ -1,0 +1,21 @@
+{
+  "slug": "chiisai-aki-mitsuketa-1982",
+  "synopsis": "Another <i>Minna no Uta</i> adaptation of <i>Chiisai Aki Mitsuketa</i>.",
+  "title": {
+    "jp": "Chiisai Aki Mitsuketa (1982)"
+  },
+  "releasedAt": "1982-10-01T00:00:00.000Z",
+  "finishedAt": "1982-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40817/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40817",
+    "anilist/anime": "140214",
+    "aozora": "O1SHggwwyx",
+    "myanimelist/anime": "35671"
+  }
+}

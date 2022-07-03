@@ -1,0 +1,30 @@
+{
+  "slug": "nils-no-fushigi-na-tabi",
+  "synopsis": "Nils Holgersson is a young boy on a farm who is cruel to the animals. But when he catches the farm's little goblin it becomes one prank too many. He is magically shrunk and suddenly the farm animals are out for revenge. He flees on the back of the goose Morten and they join up with a flock of wild geese. Together they travel all over Sweden, with Nils hoping to find a way to become big again.\n(Source: ANN)",
+  "title": {
+    "en": "Wonderful Adventures of Nils",
+    "jp": "Nils no Fushigi na Tabi"
+  },
+  "releasedAt": "1980-01-08T00:00:00.000Z",
+  "finishedAt": "1981-03-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1947/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1947",
+    "anidb": "2654",
+    "anilist/anime": "2151",
+    "aozora": "IIVRDLn99M",
+    "myanimelist/anime": "2151",
+    "thetvdb": "90821/1",
+    "thetvdb/series": "90821",
+    "trakt": "19430"
+  }
+}

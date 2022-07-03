@@ -1,0 +1,33 @@
+{
+  "slug": "kemono-jihen",
+  "synopsis": "When a series of animal bodies that rot away after a single night begin appearing in a remote mountain village, Inugami, a detective from Tokyo who specializes in the occult, is called to investigate.\n\nWhile working the case, he befriends a strange boy who works in the field every day instead of going to school. Shunned by his peers and nicknamed \"Dorota-bou\" after a yokai that lives in the mud, he helps Inugami uncover the truth behind the killings—but supernatural forces are at work, and while Dorota-bou is just a nickname, it might not be the only thing about the boy that isn't human.\n\n(Source: MU)",
+  "title": {
+    "jp": "Kemono Jihen"
+  },
+  "releasedAt": "2021-01-10T00:00:00.000Z",
+  "finishedAt": "2021-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42922/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42922/original.png",
+  "categories": [
+    "action",
+    "dark fantasy",
+    "demon",
+    "detective",
+    "juujin",
+    "mystery",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/kemono-jihen/"
+  ],
+  "relations": {
+    "kitsu": "42922",
+    "anidb": "15323",
+    "anilist/anime": "114085",
+    "myanimelist/anime": "40908"
+  }
+}

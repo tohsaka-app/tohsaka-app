@@ -1,0 +1,38 @@
+{
+  "slug": "tokyo-ghoul",
+  "synopsis": "Tokyo has become a cruel and merciless city—a place where vicious creatures called “ghouls” exist alongside humans. The citizens of this once great metropolis live in constant fear of these bloodthirsty savages and their thirst for human flesh. However, the greatest threat these ghouls pose is their dangerous ability to masquerade as humans and blend in with society.\nBased on the best-selling supernatural horror manga by Sui Ishida, Tokyo Ghoul follows Ken Kaneki, a shy, bookish college student, who is instantly drawn to Rize Kamishiro, an avid reader like himself. However, Rize is not exactly who she seems, and this unfortunate meeting pushes Kaneki into the dark depths of the ghouls' inhuman world. In a twist of fate, Kaneki is saved by the enigmatic waitress Touka Kirishima, and thus begins his new, secret life as a half-ghoul/half-human who must find a way to integrate into both societies.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Tokyo Ghoul",
+    "jp": "Tokyo Ghoul"
+  },
+  "releasedAt": "2014-07-04T00:00:00.000Z",
+  "finishedAt": "2014-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8271/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8271/original.jpg",
+  "categories": [
+    "action",
+    "dark fantasy",
+    "horror",
+    "mystery",
+    "psychological",
+    "violence"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/tokyo-ghoul/videos/episodes",
+    "http://www.hulu.com/tokyo-ghoul"
+  ],
+  "relations": {
+    "kitsu": "8271",
+    "anidb": "10401",
+    "anilist/anime": "20605",
+    "aozora": "1RT5roNK8W",
+    "myanimelist/anime": "22319",
+    "thetvdb": "281249/1",
+    "thetvdb/season": "584426",
+    "thetvdb/series": "281249",
+    "trakt": "77558"
+  }
+}

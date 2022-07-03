@@ -1,0 +1,25 @@
+{
+  "slug": "otogi-no-kuni-no-birthday",
+  "synopsis": "Animated music video of a single released by Noriko Sakai in 1989.",
+  "title": {
+    "jp": "Otogi no Kuni no Birthday"
+  },
+  "releasedAt": "1989-02-15T00:00:00.000Z",
+  "finishedAt": "1989-02-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9524/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9524",
+    "anidb": "11823",
+    "anilist/anime": "14125",
+    "aozora": "q494n52emn",
+    "myanimelist/anime": "14125"
+  }
+}

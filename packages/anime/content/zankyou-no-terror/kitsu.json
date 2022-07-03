@@ -1,0 +1,39 @@
+{
+  "slug": "zankyou-no-terror",
+  "synopsis": "Painted in red, the word \"VON\" is all that is left behind after a terrorist attack on a nuclear facility in Japan. The government is shattered by their inability to act, and the police are left frantically searching for ways to crack down the perpetrators. The public are clueless—until, six months later, a strange video makes its way onto the internet. In it, two teenage boys who identify themselves only as \"Sphinx\" directly challenge the police, threatening to cause destruction and mayhem across Tokyo. Unable to stop the mass panic quickly spreading through the city and desperate for any leads in their investigation, the police struggle to act effectively against these terrorists, with Detective Kenjirou Shibazaki caught in the middle of it all.Zankyou no Terror tells the story of Nine and Twelve, the two boys behind the masked figures of Sphinx. They should not exist, yet they stand strong in a world of deception and secrets while they make the city fall around them, all in the hopes of burying their own tragic truth.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Terror in Resonance",
+    "jp": "Zankyou no Terror"
+  },
+  "releasedAt": "2014-07-11T00:00:00.000Z",
+  "finishedAt": "2014-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8342/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8342/original.jpg",
+  "categories": [
+    "cops",
+    "drama",
+    "law and order",
+    "mystery",
+    "plot continuity",
+    "psychological",
+    "thriller"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/terror-in-resonance/videos/episodes",
+    "http://www.hulu.com/terror-in-resonance"
+  ],
+  "relations": {
+    "kitsu": "8342",
+    "anidb": "10537",
+    "anilist/anime": "20661",
+    "aozora": "BFoWIgI4JB",
+    "hulu": "50017018",
+    "myanimelist/anime": "23283",
+    "thetvdb": "279986/1",
+    "thetvdb/series": "279986",
+    "trakt": "60899"
+  }
+}

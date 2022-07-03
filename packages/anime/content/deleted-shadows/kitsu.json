@@ -1,0 +1,18 @@
+{
+  "slug": "deleted-shadows",
+  "synopsis": "duplicate entry\nproper page at: \nhttps://kitsu.io/anime/kage-no-jitsuryokusha-ni-naritakute",
+  "title": {
+    "jp": "deleted"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45376/poster_image/c914090c6f41fadfd569a900653012cf.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "45376"
+  }
+}

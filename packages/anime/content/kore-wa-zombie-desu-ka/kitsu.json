@@ -1,0 +1,51 @@
+{
+  "slug": "kore-wa-zombie-desu-ka",
+  "synopsis": "Not every zombie is the monstrous, brain-eating type.\nOne night while walking home from the convenience store, regular high school boy Ayumu Aikawa is killed by a serial killer, and is just as suddenly brought back to life by a necromancer named Eucliwood Hellscythe. One small caveat: he's now a zombie. Things get even weirder for him when he accidentally steals a magical girl's uniform, and thus her powers! Haruna, the ex-magical girl, orders him to fight evil creatures known as Megalo in her place until they can figure out a way to get her powers back to her.\nIt seems that life is just going to get stranger and stranger for poor Ayumu from here on out in Kore wa Zombie desu ka?.",
+  "title": {
+    "en": "Is This a Zombie?",
+    "jp": "Kore wa Zombie Desu ka?"
+  },
+  "releasedAt": "2011-01-11T00:00:00.000Z",
+  "finishedAt": "2011-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5507/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5507/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "japan",
+    "loli",
+    "magic",
+    "magical girl",
+    "ninja",
+    "parody",
+    "vampire",
+    "violence",
+    "zombie"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/is-this-a-zombie",
+    "https://www.funimation.com/shows/is-this-a-zombie/",
+    "https://www.hulu.com/is-this-a-zombie"
+  ],
+  "relations": {
+    "kitsu": "5507",
+    "anidb": "7674",
+    "anilist/anime": "8841",
+    "aozora": "mtkAg22bhA",
+    "hulu": "50006129",
+    "myanimelist/anime": "8841",
+    "thetvdb": "220571/1",
+    "thetvdb/season": "393761",
+    "thetvdb/series": "220571",
+    "trakt": "38260"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "gintama-dai-hanseikai",
+  "synopsis": "Some of the characters get together and talk about \"regrets\" they have after 4 years of anime Gintama. Soon they fight over who gets more screen time. Special animation shown at the Gintama Haru Matsuri 2010 live event.",
+  "title": {
+    "jp": "Gintama: Dai Hanseikai"
+  },
+  "releasedAt": "2010-03-25T00:00:00.000Z",
+  "finishedAt": "2010-03-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6278/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6278/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "parody",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6278",
+    "anilist/anime": "10643",
+    "aozora": "nufSaeHWvw",
+    "myanimelist/anime": "10643"
+  }
+}

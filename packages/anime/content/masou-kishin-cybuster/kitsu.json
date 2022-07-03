@@ -1,0 +1,34 @@
+{
+  "slug": "masou-kishin-cybuster",
+  "synopsis": " In an enviromentally wrecked future Tokyo, a young man named Ken Ando joins an organization called DC. Little does he realize that his fate and that of Earth will be linked to a mysterious mecha from another world. \n(Source: ANN)",
+  "title": {
+    "en": "Cybuster",
+    "jp": "Masou Kishin Cybuster"
+  },
+  "releasedAt": "1999-05-03T00:00:00.000Z",
+  "finishedAt": "1999-10-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1709/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "disaster",
+    "mecha",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/psybuster"
+  ],
+  "relations": {
+    "kitsu": "1709",
+    "anidb": "2725",
+    "anilist/anime": "1899",
+    "aozora": "Aw5cJ6b2nG",
+    "myanimelist/anime": "1899",
+    "thetvdb": "83245",
+    "trakt": "44828"
+  }
+}

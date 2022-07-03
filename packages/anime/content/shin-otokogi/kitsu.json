@@ -1,0 +1,25 @@
+{
+  "slug": "shin-otokogi",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Shin Otokogi"
+  },
+  "releasedAt": "1998-05-16T00:00:00.000Z",
+  "finishedAt": "1998-09-04T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5849/original.jpg",
+  "categories": [
+    "mafia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5849",
+    "anidb": "7095",
+    "anilist/anime": "9749",
+    "aozora": "00DWZWR7Eg",
+    "myanimelist/anime": "9749"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "x-maiden",
+  "synopsis": "In 20XX C.E., a mysterious alien race named Firow suddenly appears on Earth. The Firow's dreadful attacks force humanity to engage in a difficult battle. But humanity's last hope, the X Maiden who wear weapons built to destroy the Firow, are about to set out.\n(Source: ANN)",
+  "title": {
+    "jp": "X Maiden"
+  },
+  "releasedAt": "2014-02-28T00:00:00.000Z",
+  "finishedAt": "2014-06-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8260/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8260/original.png",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8260",
+    "anidb": "10396",
+    "anilist/anime": "21884",
+    "aozora": "htcpVPaZaF",
+    "myanimelist/anime": "22757"
+  }
+}

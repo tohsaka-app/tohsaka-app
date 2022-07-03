@@ -1,0 +1,20 @@
+{
+  "slug": "robinson-crusoe-mujintou-no-bouken",
+  "synopsis": "A Gakken version of the <i>Robinson Crusoe</i>.",
+  "title": {
+    "jp": "Robinson Crusoe: Mujintou no Bouken"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40774/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40774",
+    "aozora": "gHQbhiSHfr",
+    "myanimelist/anime": "35495"
+  }
+}

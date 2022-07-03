@@ -1,0 +1,34 @@
+{
+  "slug": "oh-super-milk-chan",
+  "synopsis": "Milk-chan is a drooling, potty-mouthed baby who lives in an apartment with an obsolete robot named Tetsuko, a slug named Hanage, and an uncontrollable pet named Robodog. Whenever the President calls, Milk-chan and the gang rush to the scene to solve any type of problem - whether it's stopping a money counterfeiter hungry for Belgian waffles or counselling a school of drunk fish. At the same time, they have to avoid a nagging landlord, as they're six months behind their rent.\n(Source: ANN)",
+  "title": {
+    "en": "The Super Milk-Chan Show",
+    "jp": "Oh! Super Milk-chan"
+  },
+  "releasedAt": "2000-01-27T00:00:00.000Z",
+  "finishedAt": "2000-04-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1589/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "comedy",
+    "parody",
+    "plot continuity",
+    "present",
+    "science fiction",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1589",
+    "anidb": "544",
+    "anilist/anime": "1769",
+    "aozora": "6TS28vkuBT",
+    "myanimelist/anime": "1769",
+    "thetvdb": "91391",
+    "trakt": "33940"
+  }
+}

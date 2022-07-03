@@ -1,0 +1,28 @@
+{
+  "slug": "keitai-shoujo",
+  "synopsis": "This is about Hiro Aida and his friends. Their daily life at school and first romantic encounters with all the fun and confusion. All these people are connected to each other through cell phone messages.\nThe anime has 5 regular episodes and 1 Epilogue episode.",
+  "title": {
+    "jp": "Keitai Shoujo"
+  },
+  "releasedAt": "2007-03-20T00:00:00.000Z",
+  "finishedAt": "2007-04-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1546/original.jpg",
+  "categories": [
+    "comedy",
+    "japan",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1546",
+    "anidb": "4778",
+    "anilist/anime": "1725",
+    "aozora": "nbaKY6rPK5",
+    "myanimelist/anime": "1725"
+  }
+}

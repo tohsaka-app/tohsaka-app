@@ -1,0 +1,28 @@
+{
+  "slug": "houseki-no-kuni",
+  "synopsis": "In the distant future, a new life form called Houseki is born. The 28 Houseki must fight against the Tsukijin who want to attack them and turn them into decorations, thus each gem is assigned a role such as a fighter or a medic. Though they hope to fight the moon people, Phos is a gem who is given no assignment until the gems' manager Kongo asks them to edit a natural history magazine.\n\nNote: A promotional video that was released through YouTube in commemoration of the publication of the manga's first volume.\n\n(Source: AniDB)",
+  "title": {
+    "en": "Land of the Lustrous",
+    "jp": "Houseki no Kuni"
+  },
+  "releasedAt": "2013-07-19T00:00:00.000Z",
+  "finishedAt": "2013-07-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8774/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8774/original.png",
+  "categories": [
+    "fantasy",
+    "science fiction",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8774",
+    "anidb": "9983",
+    "anilist/anime": "19581",
+    "aozora": "pIvgaKTTDi",
+    "myanimelist/anime": "19581"
+  }
+}

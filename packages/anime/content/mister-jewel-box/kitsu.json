@@ -1,0 +1,26 @@
+{
+  "slug": "mister-jewel-box",
+  "synopsis": "Music video for the song Mister Jewel Box by TOPHAMHAT-KYO.\n\nThe story is taking TOPHAMHAT-KYO’s real experiences and exaggerating them. An ordinary man, who got a character to represent him, and becomes famous because of it. But, as time goes on, he realizes that the character is more popular than him. It’s a story about him facing that reality which makes him jealous, suffer, and distressed, leading to the end where the tables have turned completely.",
+  "title": {
+    "en": "Mister Jewel Box",
+    "jp": "Mister Jewel Box"
+  },
+  "releasedAt": "2020-08-22T00:00:00.000Z",
+  "finishedAt": "2020-08-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45330/poster_image/b748c6ef77bc8253efe867c786177902.png",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/aPSrw6ZYUA4"
+  ],
+  "relations": {
+    "kitsu": "45330",
+    "anilist/anime": "140362",
+    "myanimelist/anime": "49528"
+  }
+}

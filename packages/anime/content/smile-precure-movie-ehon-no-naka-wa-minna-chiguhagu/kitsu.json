@@ -1,0 +1,38 @@
+{
+  "slug": "smile-precure-movie-ehon-no-naka-wa-minna-chiguhagu",
+  "synopsis": "The movie transports the Precure into a world inside a picture book, where they are guided by Nico, a mysterious inhabitant of the picture book world.",
+  "title": {
+    "jp": "Smile Precure! Movie: Ehon no Naka wa Minna Chiguhagu!"
+  },
+  "releasedAt": "2012-10-27T00:00:00.000Z",
+  "finishedAt": "2012-10-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7237/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "henshin",
+    "japan",
+    "kids",
+    "magic",
+    "magical girl",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7237",
+    "anidb": "8939",
+    "anilist/anime": "15307",
+    "aozora": "LZjExQs9oP",
+    "myanimelist/anime": "15307"
+  }
+}

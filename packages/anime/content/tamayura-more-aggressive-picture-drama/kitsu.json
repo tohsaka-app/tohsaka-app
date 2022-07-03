@@ -1,0 +1,24 @@
+{
+  "slug": "tamayura-more-aggressive-picture-drama",
+  "synopsis": "Picture drama included in the 1st Blu-ray and DVD volumes.",
+  "title": {
+    "jp": "Tamayura: More Aggressive Picture Drama"
+  },
+  "releasedAt": "2013-10-30T00:00:00.000Z",
+  "finishedAt": "2013-10-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8769/original.jpg",
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8769",
+    "anilist/anime": "114679",
+    "aozora": "QTnX7L1svR",
+    "myanimelist/anime": "25169"
+  }
+}

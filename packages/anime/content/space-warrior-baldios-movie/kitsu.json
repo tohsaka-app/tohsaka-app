@@ -1,0 +1,30 @@
+{
+  "slug": "space-warrior-baldios-movie",
+  "synopsis": "This film supplied the ending to the cancelled Space Warrior Baldios television series.",
+  "title": {
+    "en": "Space Warrior Baldios",
+    "jp": "Uchuu Senshi Baldios (Movie)"
+  },
+  "releasedAt": "1981-12-29T00:00:00.000Z",
+  "finishedAt": "1981-12-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1557/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction",
+    "space"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/space-warrior-baldios"
+  ],
+  "relations": {
+    "kitsu": "1557",
+    "anidb": "4033",
+    "anilist/anime": "4371",
+    "aozora": "6XkHFA97AB",
+    "myanimelist/anime": "4371"
+  }
+}

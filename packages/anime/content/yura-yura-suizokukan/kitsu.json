@@ -1,0 +1,23 @@
+{
+  "slug": "yura-yura-suizokukan",
+  "synopsis": "",
+  "title": {
+    "jp": "Yura Yura Suizokukan"
+  },
+  "releasedAt": "2017-07-24T00:00:00.000Z",
+  "finishedAt": "2018-04-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14178/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14178",
+    "anilist/anime": "115191",
+    "myanimelist/anime": "35957"
+  }
+}

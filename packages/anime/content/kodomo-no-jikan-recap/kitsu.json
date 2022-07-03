@@ -1,0 +1,25 @@
+{
+  "slug": "kodomo-no-jikan-recap",
+  "synopsis": "A 86-minute DVD episode that includes an uncensored summary of the original TV series.",
+  "title": {
+    "jp": "Kodomo no Jikan Recap"
+  },
+  "releasedAt": "2008-07-11T00:00:00.000Z",
+  "finishedAt": "2008-07-11T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3783/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3783",
+    "anilist/anime": "4786",
+    "aozora": "KxU7PfmEJv",
+    "myanimelist/anime": "4786"
+  }
+}

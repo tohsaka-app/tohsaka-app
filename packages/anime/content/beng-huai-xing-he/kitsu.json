@@ -1,0 +1,25 @@
+{
+  "slug": "beng-huai-xing-he",
+  "synopsis": "",
+  "title": {
+    "en": "Galaxy Devastators"
+  },
+  "releasedAt": "2019-05-05T00:00:00.000Z",
+  "finishedAt": "2019-07-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43264/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43264",
+    "anilist/anime": "109483",
+    "myanimelist/anime": "42132"
+  }
+}

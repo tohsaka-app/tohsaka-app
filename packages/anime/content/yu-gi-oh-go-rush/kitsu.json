@@ -1,0 +1,26 @@
+{
+  "slug": "yu-gi-oh-go-rush",
+  "synopsis": "The eighth anime series in the Yu-Gi-Oh! franchise.",
+  "title": {
+    "en": "Yu-Gi-Oh! Go Rush!!",
+    "jp": "Yu☆Gi☆Oh! Go Rush!!"
+  },
+  "releasedAt": "2022-04-03T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45605/poster_image/a1108273d92167987ef82a54feaa7f43.jpg",
+  "categories": [
+    "action",
+    "card games",
+    "fantasy",
+    "proxy battles",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45605",
+    "anilist/anime": "142842"
+  }
+}

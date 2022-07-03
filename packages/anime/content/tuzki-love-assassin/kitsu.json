@@ -1,0 +1,25 @@
+{
+  "slug": "tuzki-love-assassin",
+  "synopsis": "A darkly cute tale of foiled romance and contract assassinations starring Tuzki (兔斯基).\n(Source: AniDB)",
+  "title": {
+    "jp": "Tuzki: Love Assassin"
+  },
+  "releasedAt": "2014-02-12T00:00:00.000Z",
+  "finishedAt": "2014-02-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8466/original.jpg",
+  "categories": [
+    "comedy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8466",
+    "anidb": "10605",
+    "anilist/anime": "102681",
+    "aozora": "sNpW1UXnAB",
+    "myanimelist/anime": "23903"
+  }
+}

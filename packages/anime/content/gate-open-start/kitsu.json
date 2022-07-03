@@ -1,0 +1,25 @@
+{
+  "slug": "gate-open-start",
+  "synopsis": "Short MV from Pavolia Reine's debut stream.",
+  "title": {
+    "en": "Gate Open: START!"
+  },
+  "releasedAt": "2020-12-06T00:00:00.000Z",
+  "finishedAt": "2020-12-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43809/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43809/original.jpg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=onhGlvuvl0U"
+  ],
+  "relations": {
+    "kitsu": "43809"
+  }
+}

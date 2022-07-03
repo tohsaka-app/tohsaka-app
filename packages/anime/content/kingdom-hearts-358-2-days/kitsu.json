@@ -1,0 +1,26 @@
+{
+  "slug": "kingdom-hearts-358-2-days",
+  "synopsis": "The movie covers the story of Roxas before the events of Kingdom Hearts II.",
+  "title": {
+    "en": "Kingdom Hearts: 358/2 Days",
+    "jp": "Kingdom Hearts: 358/2 Days"
+  },
+  "releasedAt": "2014-10-02T00:00:00.000Z",
+  "finishedAt": "2014-10-02T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43571/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43571/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43571"
+  }
+}

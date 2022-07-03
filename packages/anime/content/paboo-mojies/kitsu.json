@@ -1,0 +1,25 @@
+{
+  "slug": "paboo-mojies",
+  "synopsis": "Paboo is a fun loving and curious boy panda, and he and his group of larger-than-life friends explore and problem-solve in their quirky, imaginative and sometimes zany world! Each episode sees the Mojies (Japanese for letters of the alphabet) and Pappy (the Mojies book fairy of course!) help Paboo to discover the Magic Word and solve the problem of the day!\n(Source: Nelvana)",
+  "title": {
+    "en": "Paboo & Mojies",
+    "jp": "Paboo & Mojies"
+  },
+  "releasedAt": "2012-04-02T00:00:00.000Z",
+  "finishedAt": "2013-03-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6898/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6898",
+    "anidb": "8975",
+    "anilist/anime": "13165",
+    "aozora": "PyzDppwCGE",
+    "myanimelist/anime": "13165"
+  }
+}

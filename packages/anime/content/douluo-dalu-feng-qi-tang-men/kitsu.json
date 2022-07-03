@@ -1,0 +1,27 @@
+{
+  "slug": "douluo-dalu-feng-qi-tang-men",
+  "synopsis": "Twelfth part of Douluo Dalu.",
+  "title": {
+    "en": "Soul Land Part 12"
+  },
+  "releasedAt": "2022-02-19T00:00:00.000Z",
+  "finishedAt": "2022-05-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46149/poster_image/15a1b264b35a13c166075400316be1d5.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46149",
+    "anilist/anime": "145210",
+    "myanimelist/anime": "51083"
+  }
+}

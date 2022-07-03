@@ -1,0 +1,29 @@
+{
+  "slug": "glass-no-kamen-sen-no-kamen-wo-motsu-shoujo",
+  "synopsis": "An OVA depicting the early events of the Glass no Kamen series.\nKitajima Maya is a young girl from a poor background with no talents of use to school or her widowed mother. However, she is obsessed with movies, theatrical plays and TV dramas-to the point of remembering every line from a movie she's seen once, and dramatically acting out the stories, including every character, for anyone who will listen. One day, she encounters an old woman with a scarred face who claims that Maya is the girl she's been looking for-for the old woman has spent years protecting the rights to a 'legendary' play.",
+  "title": {
+    "en": "Glass Mask: The Girl of a Thousand Masks",
+    "jp": "Glass no Kamen: Sen no Kamen wo Motsu Shoujo"
+  },
+  "releasedAt": "1998-12-16T00:00:00.000Z",
+  "finishedAt": "1999-04-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3219/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3219/original.jpg",
+  "categories": [
+    "drama",
+    "performance",
+    "shoujo",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3219",
+    "anidb": "2735",
+    "anilist/anime": "3734",
+    "aozora": "l1MeUzSCqH",
+    "myanimelist/anime": "3734"
+  }
+}

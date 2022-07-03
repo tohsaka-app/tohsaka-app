@@ -1,0 +1,31 @@
+{
+  "slug": "hi-no-tori-uchuu-hen",
+  "synopsis": "It is an animation version of the original story by Tezuka Osamu that depicts the cruelty of love through the fate of spacemen destined to drift through the universe after losing their mother ship..\n(Source: AniDB)",
+  "title": {
+    "en": "The Phoenix -Space-",
+    "jp": "Hi no Tori: Uchuu-hen"
+  },
+  "releasedAt": "1987-12-21T00:00:00.000Z",
+  "finishedAt": "1987-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2709/original.jpg",
+  "categories": [
+    "contemporary fantasy",
+    "fantasy",
+    "future",
+    "science fiction",
+    "shipboard",
+    "space",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2709",
+    "anidb": "2878",
+    "anilist/anime": "2998",
+    "aozora": "xR2p7rZvJu",
+    "myanimelist/anime": "2998"
+  }
+}

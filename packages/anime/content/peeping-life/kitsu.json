@@ -1,0 +1,32 @@
+{
+  "slug": "peeping-life",
+  "synopsis": "Slice of life comedy about pitfalls of Japanese society.",
+  "title": {
+    "jp": "Peeping Life"
+  },
+  "releasedAt": "2009-05-14T00:00:00.000Z",
+  "finishedAt": "2009-08-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4597/original.jpg",
+  "categories": [
+    "comedy",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/peeping-life"
+  ],
+  "relations": {
+    "kitsu": "4597",
+    "anidb": "7302",
+    "anilist/anime": "6525",
+    "aozora": "f3V6bh1scC",
+    "myanimelist/anime": "6525",
+    "thetvdb": "278147/1",
+    "thetvdb/series": "278147",
+    "trakt": "78977"
+  }
+}

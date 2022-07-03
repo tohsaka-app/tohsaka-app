@@ -1,0 +1,25 @@
+{
+  "slug": "toufu-kozou",
+  "synopsis": "Based on Kyougoku Natsuhiko's Toufu Kozou Sugoroku-douchuu Furidashi novel.\n(Source: AniDB)",
+  "title": {
+    "en": "Little Ghostly Adventures Of The Tofu Boy",
+    "jp": "Toufu Kozou"
+  },
+  "releasedAt": "2011-04-29T00:00:00.000Z",
+  "finishedAt": "2011-04-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6105/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6105",
+    "anidb": "8022",
+    "anilist/anime": "10261",
+    "aozora": "xTc3VHyu0C",
+    "myanimelist/anime": "10261"
+  }
+}

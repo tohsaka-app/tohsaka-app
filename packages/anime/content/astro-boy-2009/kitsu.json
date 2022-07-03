@@ -1,0 +1,25 @@
+{
+  "slug": "astro-boy-2009",
+  "synopsis": "A CGI film loosely based on the manga series of the same name.\n\nSet in futuristic Metro City, Astro Boy is about a young robot with incredible powers created by a brilliant scientist in the image of the son he has lost. Unable to fulfill the grieving man's expectations, our hero embarks on a journey in search of acceptance, experiencing betrayal and a netherworld of robot gladiators, before he returns to save Metro City and reconcile with the father who had rejected him.\n\n(Source: TMDB)",
+  "title": {
+    "en": "",
+    "jp": "Astro Boy (2009)"
+  },
+  "releasedAt": "2009-10-23T00:00:00.000Z",
+  "finishedAt": "2009-10-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11943/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11943/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11943"
+  }
+}

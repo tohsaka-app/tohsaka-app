@@ -1,0 +1,25 @@
+{
+  "slug": "tama-gura-abayo-moki-yumokyu-superdeluxe",
+  "synopsis": "Music video by Sawako Kabuki for cover of \"Here, There and Everywhere\" by The Beatles.",
+  "title": {
+    "jp": "Tama Gura Abayo: Moki Yumokyu Superdeluxe"
+  },
+  "releasedAt": "2013-04-23T00:00:00.000Z",
+  "finishedAt": "2013-04-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11429/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11429",
+    "anidb": "11659",
+    "anilist/anime": "103368",
+    "aozora": "n88dkU4Ehp",
+    "myanimelist/anime": "31688"
+  }
+}

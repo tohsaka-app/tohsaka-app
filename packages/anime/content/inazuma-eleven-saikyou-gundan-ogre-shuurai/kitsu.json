@@ -1,0 +1,26 @@
+{
+  "slug": "inazuma-eleven-saikyou-gundan-ogre-shuurai",
+  "synopsis": "An organization in the future sends the specially trained Team Ogre to defeat Endou Mamoru and his team, to prevent him from influencing the world with his soccer.\n(Source: AniDB)",
+  "title": {
+    "jp": "Inazuma Eleven: Saikyou Gundan Ogre Shuurai"
+  },
+  "releasedAt": "2010-12-23T00:00:00.000Z",
+  "finishedAt": "2010-12-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5580/original.jpg",
+  "categories": [
+    "soccer",
+    "sports",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5580",
+    "anidb": "7703",
+    "anilist/anime": "9032",
+    "aozora": "68dey5Uetz",
+    "myanimelist/anime": "9032"
+  }
+}

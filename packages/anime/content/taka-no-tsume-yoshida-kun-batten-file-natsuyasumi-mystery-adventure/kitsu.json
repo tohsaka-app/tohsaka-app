@@ -1,0 +1,27 @@
+{
+  "slug": "taka-no-tsume-yoshida-kun-batten-file-natsuyasumi-mystery-adventure",
+  "synopsis": null,
+  "title": {
+    "jp": "Taka no Tsume Yoshida-kun Batten File: Natsuyasumi Mystery Adventure"
+  },
+  "releasedAt": "2019-07-20T00:00:00.000Z",
+  "finishedAt": "2019-08-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43919/original.jpg",
+  "categories": [
+    "comedy",
+    "mystery",
+    "parody",
+    "science fiction",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43919",
+    "anidb": "12271",
+    "animenewsnetwork": "19838",
+    "myanimelist/anime": "40142"
+  }
+}

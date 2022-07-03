@@ -1,0 +1,24 @@
+{
+  "slug": "manyuu-hikenchou-specials",
+  "synopsis": "Short extra anime from the DVDs and Blu-rays.",
+  "title": {
+    "jp": "Manyuu Hikenchou Specials"
+  },
+  "releasedAt": "2011-10-04T00:00:00.000Z",
+  "finishedAt": "2012-01-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6379/original.jpg",
+  "categories": [
+    "action",
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6379",
+    "anilist/anime": "10845",
+    "aozora": "7hM9rRKOZX",
+    "myanimelist/anime": "10845"
+  }
+}

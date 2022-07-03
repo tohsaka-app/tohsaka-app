@@ -1,0 +1,24 @@
+{
+  "slug": "ikkitousen-great-guardians-specials",
+  "synopsis": "Uncensored Ikkitousen: Great Guardians DVD Comedy Specials.",
+  "title": {
+    "jp": "Ikkitousen: Great Guardians Specials"
+  },
+  "releasedAt": "2008-09-30T00:00:00.000Z",
+  "finishedAt": "2009-02-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4061/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4061",
+    "anilist/anime": "5333",
+    "aozora": "VW5ozGJjT4",
+    "myanimelist/anime": "5333"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "itoshi-no-muco",
+  "synopsis": "Itoshi no Muco depicts the life of the pet dog Muco and her owner Komatsu, who lives in his glass-making workshop in the mountains.\n(Source: ANN)",
+  "title": {
+    "en": "Lovely Muuuuuuuco!",
+    "jp": "Itoshi no Muco"
+  },
+  "releasedAt": "2015-10-03T00:00:00.000Z",
+  "finishedAt": "2016-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10978/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10978/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10978",
+    "anidb": "11200",
+    "anilist/anime": "21228",
+    "aozora": "pvKvBW45jo",
+    "myanimelist/anime": "30651",
+    "thetvdb": "301424/3",
+    "trakt": "102532"
+  }
+}

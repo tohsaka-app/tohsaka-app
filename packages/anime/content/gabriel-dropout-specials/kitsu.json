@@ -1,0 +1,25 @@
+{
+  "slug": "gabriel-dropout-specials",
+  "synopsis": "Specials included with the Blu-ray/DVD release of Gabriel DropOut.",
+  "title": {
+    "jp": "Gabriel DropOut Specials"
+  },
+  "releasedAt": "2017-03-24T00:00:00.000Z",
+  "finishedAt": "2017-05-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13294/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13294",
+    "anilist/anime": "98524",
+    "aozora": "IfqgaZWq3H",
+    "myanimelist/anime": "34855"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "moshi-juexing-zhi-suyuan",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2020-12-22T00:00:00.000Z",
+  "finishedAt": "2021-07-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44650/original.png",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44650",
+    "anilist/anime": "122691",
+    "myanimelist/anime": "45447"
+  }
+}

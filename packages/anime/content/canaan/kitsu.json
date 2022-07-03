@@ -1,0 +1,38 @@
+{
+  "slug": "canaan",
+  "synopsis": "Oosawa Maria is a Japanese photographer currently working in Shanghai, China. Along with her partner Mino, she searches for potential newsworthy stories throughout the city. When strange events occur at a local festival, Maria and Mino immediately investigate.  Quickly, the two are immersed in a battle between unknown masked men and a strange, white-haired woman.  Just when Maria is about to be caught in the crossfire, an old friend by the name of Canaan appears and helps Maria escape.  But a sinister plot over a deadly virus soon develops, and Canaan learns she must confront her past if she wants any chance at stopping the perpetrator and saving her friends.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Canaan",
+    "jp": "Canaan"
+  },
+  "releasedAt": "2009-07-04T00:00:00.000Z",
+  "finishedAt": "2009-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4072/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4072/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "china",
+    "gunfights",
+    "seinen",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/canaan"
+  ],
+  "relations": {
+    "kitsu": "4072",
+    "anidb": "6275",
+    "anilist/anime": "5356",
+    "aozora": "GCfYQvHaEA",
+    "hulu": "50002572",
+    "myanimelist/anime": "5356",
+    "thetvdb": "102591/1",
+    "thetvdb/series": "102591",
+    "trakt": "43184"
+  }
+}

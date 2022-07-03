@@ -1,0 +1,31 @@
+{
+  "slug": "tsuki-no-uta",
+  "synopsis": "Music video for the song Tsuki no Uta by Gackt. The song was used as the Ending Theme for the anime Texhnolyze. It was certified gold by RIAJ. The music video was directed by Shinji Watanabe.\n\n(Source: AniList)",
+  "title": {
+    "jp": "Tsuki no Uta"
+  },
+  "releasedAt": "2003-06-11T00:00:00.000Z",
+  "finishedAt": "2003-06-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46039/poster_image/484c191f1518ddb27e79cd7b328ee700.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "cyberpunk",
+    "cyborg",
+    "drama",
+    "human enhancement",
+    "music",
+    "psychological",
+    "science fiction",
+    "tone changes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46039",
+    "anilist/anime": "109485",
+    "myanimelist/anime": "39284"
+  }
+}

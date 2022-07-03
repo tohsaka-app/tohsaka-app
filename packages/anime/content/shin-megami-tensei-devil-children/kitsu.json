@@ -1,0 +1,31 @@
+{
+  "slug": "shin-megami-tensei-devil-children",
+  "synopsis": "A series based off of the Shin Megami Tensei: Devil Children franchise. ",
+  "title": {
+    "jp": "Shin Megami Tensei Devil Children"
+  },
+  "releasedAt": "2000-10-07T00:00:00.000Z",
+  "finishedAt": "2001-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3443/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "friendship",
+    "kids",
+    "magic",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3443",
+    "anidb": "1967",
+    "anilist/anime": "4067",
+    "aozora": "2swEQkQzDp",
+    "myanimelist/anime": "4067"
+  }
+}

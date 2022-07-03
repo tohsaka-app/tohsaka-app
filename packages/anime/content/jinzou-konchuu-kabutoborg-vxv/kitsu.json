@@ -1,0 +1,27 @@
+{
+  "slug": "jinzou-konchuu-kabutoborg-vxv",
+  "synopsis": "BorgBattles between KabutoBorgs have become popular enough to hold world tournaments. The main character Ryuusei is an enthusiast of these battles. Along with his friends Katsuji and Ken, he continues fighting against new enemies day after day.",
+  "title": {
+    "jp": "Jinzou Konchuu Kabutoborg VxV"
+  },
+  "releasedAt": "2006-10-05T00:00:00.000Z",
+  "finishedAt": "2007-10-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7628/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7628",
+    "anidb": "4756",
+    "anilist/anime": "17291",
+    "aozora": "N7ZtqiDeDF",
+    "myanimelist/anime": "17291"
+  }
+}

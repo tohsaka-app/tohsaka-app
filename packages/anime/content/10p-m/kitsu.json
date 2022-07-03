@@ -1,0 +1,23 @@
+{
+  "slug": "10p-m",
+  "synopsis": "\"10p.m.\" is an original song featuring Yuezheng Longya. Mo Qingxian makes an appearance in the PV.\n\n(Source: Vocaloid Wiki)",
+  "title": {
+    "en": "10p.m."
+  },
+  "releasedAt": "2018-02-12T00:00:00.000Z",
+  "finishedAt": "2018-02-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44612/original.png",
+  "categories": [
+    "drama",
+    "music",
+    "romance",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44612"
+  }
+}

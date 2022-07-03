@@ -1,0 +1,22 @@
+{
+  "slug": "the-sun-moon-and-stars",
+  "synopsis": "Music video for Hoshimi Production's fourth digital single.",
+  "title": {
+    "en": "The Sun, Moon and Stars"
+  },
+  "releasedAt": "2021-01-18T00:00:00.000Z",
+  "finishedAt": "2021-01-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44414/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44414",
+    "myanimelist/anime": "48427"
+  }
+}

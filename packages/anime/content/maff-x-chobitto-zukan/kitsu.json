@@ -1,0 +1,21 @@
+{
+  "slug": "maff-x-chobitto-zukan",
+  "synopsis": "A series of collaboration episodes between <i>Chobitto Zukan</i> and JAS.",
+  "title": {
+    "jp": "MAFF x Chobitto Zukan"
+  },
+  "releasedAt": "2017-02-28T00:00:00.000Z",
+  "finishedAt": "2017-02-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40780/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40780",
+    "anilist/anime": "130244",
+    "aozora": "LeaNJGZaEH",
+    "myanimelist/anime": "35513"
+  }
+}

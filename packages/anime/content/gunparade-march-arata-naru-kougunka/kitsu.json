@@ -1,0 +1,47 @@
+{
+  "slug": "gunparade-march-arata-naru-kougunka",
+  "synopsis": "It began in 1945, at the end of the Pacific War. Alien invaders filled the earth's Skies, and mankind was forced to confront an unprecedented threat. For the first time in human history, people of all cultures came together under one banner.\nThis war has now been raging for over fifty years. Countless lives have been lost, and the Japanese military is now forced to rely on young people such as Atsushi Hayami and his high school class, also known as Unit 5121. This new generation fearlessly struggles on with the aid of the HWT humanoid combat machines and the devastating PBE bomb.\n(Source: Media Blasters)",
+  "title": {
+    "en": "Gunparade March: A New Song for the March",
+    "jp": "Gunparade March: Arata Naru Kougunka"
+  },
+  "releasedAt": "2003-02-06T00:00:00.000Z",
+  "finishedAt": "2003-04-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/241/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "alternative present",
+    "asia",
+    "drama",
+    "dystopia",
+    "earth",
+    "friendship",
+    "high school",
+    "japan",
+    "mecha",
+    "military",
+    "piloted robot",
+    "present",
+    "romance",
+    "school life",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/gunparade-march"
+  ],
+  "relations": {
+    "kitsu": "241",
+    "anidb": "518",
+    "anilist/anime": "266",
+    "aozora": "xjs9NSplUi",
+    "myanimelist/anime": "266",
+    "thetvdb": "79046/1",
+    "thetvdb/series": "79046",
+    "trakt": "62029"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "lu-s-time",
+  "synopsis": "Zhiquiang is a young boy who loves playing League of Legends with his friends. Follow his crazy adventures.",
+  "title": {
+    "jp": "Lu Shidai"
+  },
+  "releasedAt": "2013-10-11T00:00:00.000Z",
+  "finishedAt": "2014-09-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11282/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11282/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "parody",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11282",
+    "anilist/anime": "99660",
+    "aozora": "kujRHC1yap",
+    "myanimelist/anime": "31233"
+  }
+}

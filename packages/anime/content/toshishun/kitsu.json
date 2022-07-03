@@ -1,0 +1,27 @@
+{
+  "slug": "toshishun",
+  "synopsis": "The chinese tale of the poor young man. His mother married with cruel king of the state and he want to take his mother back. One old man come from the heaven and make his three wishes come true. \n(Source: ANN)",
+  "title": {
+    "jp": "Toshishun"
+  },
+  "releasedAt": "1981-12-04T00:00:00.000Z",
+  "finishedAt": "1981-12-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4437/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4437",
+    "anidb": "7471",
+    "anilist/anime": "6124",
+    "aozora": "NF2fvxQUwf",
+    "myanimelist/anime": "6124"
+  }
+}

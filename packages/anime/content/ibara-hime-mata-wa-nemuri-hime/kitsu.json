@@ -1,0 +1,27 @@
+{
+  "slug": "ibara-hime-mata-wa-nemuri-hime",
+  "synopsis": "An alternate retelling of the classic Sleeping Beauty fairy tale. The story begins in the same way as the original story but our young heroine instead of falling under the mystical spell begins to uncover the mystery of the man who cursed her and his relationship with her mother.  It is a realistic reminder that \"They lived happily ever after...\", may not be as happy as we once envisioned.",
+  "title": {
+    "en": "Briar-Rose or The Sleeping Beauty",
+    "jp": "Ibara-Hime matawa Nemuri-Hime"
+  },
+  "releasedAt": "1990-01-01T00:00:00.000Z",
+  "finishedAt": "1990-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4889/original.jpg",
+  "categories": [
+    "europe",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4889",
+    "anidb": "6998",
+    "anilist/anime": "7169",
+    "aozora": "sr8ynVpBDP",
+    "myanimelist/anime": "7169"
+  }
+}

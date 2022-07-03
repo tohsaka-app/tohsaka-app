@@ -1,0 +1,29 @@
+{
+  "slug": "barbapapa-sekai-wo-mawaru",
+  "synopsis": "\"Barbapapa around the world\", is a fun-filled collection of 5-minute animated cartoons for preschool children. Barbapapa and his family return to TV for the first time in 25 years with 50 completely new and original episodes.\nEach episode travels to far-off lands where the Barbapapa family learns about plants, birds, reptiles or mammals in their natural Habitat. The Barbapapa family not only has fun playing with and imitating rare animals but it also helps the creatures when they fall into life-threatening situations. Join the Barbapapa Family as it travels to New Guinea, The Amazon, Patagonia and all over the world discovering the humor, danger and excitement of life.\n(Source: barbapapa.fr)",
+  "title": {
+    "en": "Barbapapa Around the World",
+    "jp": "Barbapapa Sekai wo Mawaru"
+  },
+  "releasedAt": "1999-07-05T00:00:00.000Z",
+  "finishedAt": "1999-10-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2578/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2578",
+    "anidb": "4044",
+    "anilist/anime": "2824",
+    "aozora": "BN7hy9QzLn",
+    "myanimelist/anime": "2824",
+    "thetvdb": "120231/1",
+    "thetvdb/series": "120231",
+    "trakt": "54208"
+  }
+}

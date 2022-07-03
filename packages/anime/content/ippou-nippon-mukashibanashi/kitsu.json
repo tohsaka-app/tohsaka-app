@@ -1,0 +1,24 @@
+{
+  "slug": "ippou-nippon-mukashibanashi",
+  "synopsis": " ",
+  "title": {
+    "jp": "Ippou Nippon Mukashibanashi"
+  },
+  "releasedAt": "2016-06-01T00:00:00.000Z",
+  "finishedAt": "2016-06-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12285/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12285",
+    "anilist/anime": "126179",
+    "aozora": "BtvwvKBn4q",
+    "myanimelist/anime": "33387"
+  }
+}

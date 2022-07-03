@@ -1,0 +1,22 @@
+{
+  "slug": "fure-fure-daijoubu",
+  "synopsis": "A song encouraging people to keep fighting and that everything's okay even when things seem bad like a loss at a game or a getting rejected from a confession.",
+  "title": {
+    "jp": "Fure! Fure! Daijoubu!"
+  },
+  "releasedAt": "2010-10-01T00:00:00.000Z",
+  "finishedAt": "2010-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41188/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41188",
+    "anilist/anime": "103931",
+    "myanimelist/anime": "37690"
+  }
+}

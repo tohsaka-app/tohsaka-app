@@ -1,0 +1,23 @@
+{
+  "slug": "crayon-no-hoshi",
+  "synopsis": "An educational film about a teamwork. A group of crayons get a message that they can meet with the a king star if they have great values. Bickering ensues and they have to work together to prove their worth to meet the king.",
+  "title": {
+    "jp": "Crayon no Hoshi"
+  },
+  "releasedAt": "1991-01-01T00:00:00.000Z",
+  "finishedAt": "1991-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9240/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9240",
+    "aozora": "KH6tczySNB",
+    "myanimelist/anime": "26235"
+  }
+}

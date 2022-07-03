@@ -1,0 +1,32 @@
+{
+  "slug": "dragon-ball-z-atsumare-goku-s-world",
+  "synopsis": "Dragon Ball Z: Atsumare! Goku's World is a Terebikko's videogame. In this OVA, Goku and his friends pose questions for the viewers about the Dragon Ball series.",
+  "title": {
+    "jp": "Dragon Ball Z: Atsumare! Gokuu World"
+  },
+  "releasedAt": "1992-01-01T00:00:00.000Z",
+  "finishedAt": "1992-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4682/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4682/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "martial arts",
+    "shounen",
+    "super power",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4682",
+    "anidb": "6540",
+    "anilist/anime": "6714",
+    "aozora": "6XFiEC3q4d",
+    "myanimelist/anime": "6714"
+  }
+}

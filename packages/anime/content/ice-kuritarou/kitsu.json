@@ -1,0 +1,21 @@
+{
+  "slug": "ice-kuritarou",
+  "synopsis": "A short anime that airs within \"Enkame: That's Enka Tainment\" (and enka variety show) program on Asahi TV. It follows a cast of ice cream characters.",
+  "title": {
+    "jp": "Ice Kuritarou"
+  },
+  "releasedAt": "2017-10-12T00:00:00.000Z",
+  "finishedAt": "2018-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41497/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41497",
+    "myanimelist/anime": "37951"
+  }
+}

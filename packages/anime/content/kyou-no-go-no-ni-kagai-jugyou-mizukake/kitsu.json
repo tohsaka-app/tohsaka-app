@@ -1,0 +1,25 @@
+{
+  "slug": "kyou-no-go-no-ni-kagai-jugyou-mizukake",
+  "synopsis": "A short 5-minute special included in the \"「Kyou no Go no Ni」 Collectable BOX\" Limited Edition DVD released on January 30, 2008.",
+  "title": {
+    "jp": "Kyou no 5 no 2 Kagai Jugyou: Mizukake"
+  },
+  "releasedAt": "2008-01-30T00:00:00.000Z",
+  "finishedAt": "2008-01-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3451/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3451",
+    "anilist/anime": "4078",
+    "aozora": "8gr7Z9ie0X",
+    "myanimelist/anime": "4078"
+  }
+}

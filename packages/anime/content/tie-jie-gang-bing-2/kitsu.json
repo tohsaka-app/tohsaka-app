@@ -1,0 +1,22 @@
+{
+  "slug": "tie-jie-gang-bing-2",
+  "synopsis": "The second season of Tie Jie Gang Bing",
+  "title": {
+    "en": "Metal Goddess Soldier 2"
+  },
+  "releasedAt": "2021-06-07T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44819/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44819",
+    "anilist/anime": "135572"
+  }
+}

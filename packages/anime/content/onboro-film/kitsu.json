@@ -1,0 +1,27 @@
+{
+  "slug": "onboro-film",
+  "synopsis": "A scene from an American animated piece called \"Dudley Do Right\" shows a scene in which a queen is tied to a railroad track with ropes and shouting, \"Help!\" This image was often used in serial action films of the silent comedy period. In this short film, a western-style hero fights a villain and saves a beautiful woman in the same situation. This classical scene, however, is marred, blurred and smudged because the film itself is very old. Not only does the hero have to fight the villain, but he also has to struggle hard against the bad condition of the film.\n(Source: AniDB)",
+  "title": {
+    "en": "Broken Down Film",
+    "jp": "Onboro Film"
+  },
+  "releasedAt": "1985-08-17T00:00:00.000Z",
+  "finishedAt": "1985-08-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2315/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2315/original.png",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2315",
+    "anidb": "3478",
+    "anilist/anime": "2550",
+    "aozora": "9hTUZrpygK",
+    "myanimelist/anime": "2550"
+  }
+}

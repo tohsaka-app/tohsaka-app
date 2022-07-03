@@ -1,0 +1,22 @@
+{
+  "slug": "jigsaw-puzzle",
+  "synopsis": "Jigsaw Puzzle is an original song by Mafumafu and is one of his most notable songs. This song describes a person who is unfeeling, described to be \"heartless\" in some translations, and continuously looking for the \"missing piece\" that is their heart.\n\nNote: There exists two versions of this song; the first being a vocaloid version featuring Len Kagamine uploaded on Nov 23, 2018 and a self-cover version by Mafumafu himself, which was uploaded later on Nov 28, 2018.\n\n(Source: AniList)",
+  "title": {
+    "en": "Jigsaw Puzzle",
+    "jp": "Jigsaw Puzzle"
+  },
+  "releasedAt": "2018-11-23T00:00:00.000Z",
+  "finishedAt": "2018-11-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44534/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44534",
+    "anilist/anime": "132632"
+  }
+}

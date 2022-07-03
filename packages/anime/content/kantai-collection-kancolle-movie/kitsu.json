@@ -1,0 +1,30 @@
+{
+  "slug": "kantai-collection-kancolle-movie",
+  "synopsis": "",
+  "title": {
+    "en": "KanColle Movie",
+    "jp": "KanColle Movie"
+  },
+  "releasedAt": "2016-11-26T00:00:00.000Z",
+  "finishedAt": "2016-11-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11325/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11325/original.jpg",
+  "categories": [
+    "action",
+    "military",
+    "school life",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11325",
+    "anidb": "11489",
+    "anilist/anime": "21295",
+    "aozora": "h0dLoxcAMe",
+    "myanimelist/anime": "31418"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "ao-no-exorcist-kuro-no-iede",
+  "synopsis": "Feeling slighted by Rin, Kuro goes on the hunt for a new master, but can he find anyone who can truly replace Rin?",
+  "title": {
+    "en": "Blue Exorcist: Runaway Kuro",
+    "jp": "Ao no Exorcist: Kuro no Iede"
+  },
+  "releasedAt": "2011-10-26T00:00:00.000Z",
+  "finishedAt": "2011-10-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6484/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "fantasy",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6484",
+    "anilist/anime": "11266",
+    "aozora": "6EHbuiT9aT",
+    "myanimelist/anime": "11266"
+  }
+}

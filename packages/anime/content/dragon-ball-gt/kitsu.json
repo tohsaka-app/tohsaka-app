@@ -1,0 +1,42 @@
+{
+  "slug": "dragon-ball-gt",
+  "synopsis": "Dragon Ball GT takes place five years after Gokuu left to train his apprentice Uub, whose training is now complete. During the final stages of Uub's training, Gokuu's old foe Emperor Pilaf infiltrates the Lookout to make a wish on the Black Star Dragon Balls. Due to a slip of the tongue, Pilaf is once again denied world domination and Gokuu is instead turned back into a child. Who could have imagined the dangers that would soon follow this lighthearted event?\nMaking a wish on the Black Star Dragon Balls causes the planet they are used on to explode exactly one year after the wish has been granted. And the Black Star Dragon Balls do not simply scatter across the Earth, they scatter across the entire galaxy. It is up to Gokuu, Trunks, and Pan to retrieve the Balls and save the Earth, but they will find many enemies who are a far greater threat than Emperor Pilaf on their journey throughout the galaxy.",
+  "title": {
+    "en": "Dragon Ball GT",
+    "jp": "Dragon Ball GT"
+  },
+  "releasedAt": "1996-02-07T00:00:00.000Z",
+  "finishedAt": "1997-11-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/200/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/200/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "magic",
+    "martial arts",
+    "science fiction",
+    "shounen",
+    "space travel",
+    "super power"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/dragon-ball-gt/videos/episodes",
+    "https://www.animelab.com/shows/dragon-ball-gt",
+    "https://www.crunchyroll.com/dragon-ball-gt"
+  ],
+  "relations": {
+    "kitsu": "200",
+    "anidb": "233",
+    "anilist/anime": "225",
+    "aozora": "ey65wt75S7",
+    "myanimelist/anime": "225",
+    "thetvdb": "79275/1",
+    "thetvdb/series": "79275",
+    "trakt": "12641"
+  }
+}

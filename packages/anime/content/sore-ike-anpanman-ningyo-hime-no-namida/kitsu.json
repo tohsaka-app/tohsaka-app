@@ -1,0 +1,25 @@
+{
+  "slug": "sore-ike-anpanman-ningyo-hime-no-namida",
+  "synopsis": "12th Anpanman short movie.",
+  "title": {
+    "jp": "Sore Ike! Anpanman: Ningyohime no Namida"
+  },
+  "releasedAt": "2000-07-29T00:00:00.000Z",
+  "finishedAt": "2000-07-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5740/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5740",
+    "anidb": "7555",
+    "anilist/anime": "9451",
+    "aozora": "psoYG6Iruu",
+    "myanimelist/anime": "9451"
+  }
+}

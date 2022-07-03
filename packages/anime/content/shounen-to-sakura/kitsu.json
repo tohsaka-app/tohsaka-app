@@ -1,0 +1,27 @@
+{
+  "slug": "shounen-to-sakura",
+  "synopsis": "In postwar Tokyo, while his mum works, Taichi spends his days alone and misses his dad who was killed in the war. Through his friendship with an old man who tends a seemingly dead cherry tree, Taichi learns about the tree and gradually becomes more positive.\n(Source: Treasures of the Heart)",
+  "title": {
+    "en": "The Cherry Tree",
+    "jp": "Shounen to Sakura"
+  },
+  "releasedAt": "1983-07-01T00:00:00.000Z",
+  "finishedAt": "1983-07-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11235/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11235",
+    "anidb": "9065",
+    "anilist/anime": "103338",
+    "aozora": "Ox6J23be3c",
+    "myanimelist/anime": "31321"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "welcome-to-the-madness",
+  "synopsis": "A special included with the 6th DVD/BD volume of Yuri!!! on ICE. It focuses on an exhibition routine performed by Yuri Plisetsky.",
+  "title": {
+    "jp": "Yuri!!! on Ice: Yuri Plisetsky GPF in Barcelona EX - Welcome to The Madness"
+  },
+  "releasedAt": "2017-05-26T00:00:00.000Z",
+  "finishedAt": "2017-05-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13360/original.jpg",
+  "categories": [
+    "music",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13360",
+    "anilist/anime": "102167",
+    "aozora": "gecy5NZqyM",
+    "myanimelist/anime": "35382"
+  }
+}

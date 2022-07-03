@@ -1,0 +1,32 @@
+{
+  "slug": "kimagure-orange-road-ova",
+  "synopsis": "Kimagure Orange Road OVA is basically the extension from the TV series. The time frame is probably in the middle of the TV series.\nOrder to view with the TV series.\nWhite Lovers - among the episodes 35 and 45\nHawai Suspence - among the episodes 17 and 25\nI was a cat, I was a fish - among the episodes 17 and 30\nHurricane Akane, the shape-shifting girl - among the episodes 20 and 25\nSpring is for Idols - among the episodes 23 and 30\nBirth of a Star - Right after \"Spring is for Idols\"\nUnexpected Situation - after the OAV of Akane\nMessage in Rouge - after the episode 48 ",
+  "title": {
+    "jp": "Kimagure Orange☆Road OVA"
+  },
+  "releasedAt": "1989-03-01T00:00:00.000Z",
+  "finishedAt": "1991-04-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2232/original.jpg",
+  "categories": [
+    "comedy",
+    "idol",
+    "magic",
+    "music",
+    "musical band",
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/kimagure-orange-road"
+  ],
+  "relations": {
+    "kitsu": "2232",
+    "anidb": "283",
+    "anilist/anime": "2458",
+    "aozora": "MOiEQVhaqv",
+    "myanimelist/anime": "2458"
+  }
+}

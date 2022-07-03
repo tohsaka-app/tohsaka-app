@@ -1,0 +1,25 @@
+{
+  "slug": "duel-masters-2019",
+  "synopsis": "",
+  "title": {
+    "jp": "Duel Masters!!"
+  },
+  "releasedAt": "2019-04-07T00:00:00.000Z",
+  "finishedAt": "2020-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42406/original.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42406",
+    "anilist/anime": "113242",
+    "myanimelist/anime": "39039"
+  }
+}

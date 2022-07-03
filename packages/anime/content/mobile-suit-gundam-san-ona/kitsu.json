@@ -1,0 +1,26 @@
+{
+  "slug": "mobile-suit-gundam-san-ona",
+  "synopsis": "",
+  "title": {
+    "en": "Mobile Suit Gundam-san (ONA)",
+    "jp": "Mobile Suit Gundam-san (ONA)"
+  },
+  "releasedAt": "2014-09-17T00:00:00.000Z",
+  "finishedAt": "2014-12-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12100/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12100",
+    "anilist/anime": "112453",
+    "aozora": "ImV2NIXoOO",
+    "myanimelist/anime": "33225"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "cinderella-girls-gekijou-2nd-season",
+  "synopsis": "Second season of Cinderella Girls Gekijou.",
+  "title": {
+    "en": "The iDOLM@STER Cinderella Girls Theater 2nd Season",
+    "jp": "Cinderella Girls Gekijou 2nd Season"
+  },
+  "releasedAt": "2017-10-03T00:00:00.000Z",
+  "finishedAt": "2018-01-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13895/original.jpg",
+  "categories": [
+    "comedy",
+    "idol",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-idolmster-cinderella-girls-theater"
+  ],
+  "relations": {
+    "kitsu": "13895",
+    "anidb": "13274",
+    "anilist/anime": "99742",
+    "aozora": "JBIWaij8nh",
+    "myanimelist/anime": "35883"
+  }
+}

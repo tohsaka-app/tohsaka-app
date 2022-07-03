@@ -1,0 +1,23 @@
+{
+  "slug": "xue-ying-lingzhu-qiyu-pian",
+  "synopsis": null,
+  "title": {
+    "en": "Snow Eagle Lord: Adventures"
+  },
+  "releasedAt": "2020-01-02T00:00:00.000Z",
+  "finishedAt": "2020-01-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43706/original.png",
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43706",
+    "anilist/anime": "114562",
+    "myanimelist/anime": "40991"
+  }
+}

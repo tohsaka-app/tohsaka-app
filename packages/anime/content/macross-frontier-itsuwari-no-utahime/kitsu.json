@@ -1,0 +1,40 @@
+{
+  "slug": "macross-frontier-itsuwari-no-utahime",
+  "synopsis": "Half retelling of the original Frontier series, half new story. Conspiracies arise within the Frontier government when Sheryl Nome arrives to the colonial fleet for her concert and is soon marked as a spy for Galaxy while childhood friends, Alto Saotome and Ranka Lee both try to achieve their dreams as the battle between Frontier and the Vajra draws closer.\nThis movie serves as part one of the Frontier retelling and will conclude with the second, The Wings of Goodbye.",
+  "title": {
+    "en": "Macross Frontier: The False Songstress",
+    "jp": "Macross F Movie 1: Itsuwari no Utahime"
+  },
+  "releasedAt": "2009-11-21T00:00:00.000Z",
+  "finishedAt": "2009-11-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4051/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4051/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "future",
+    "humanoid alien",
+    "idol",
+    "love polygon",
+    "mecha",
+    "military",
+    "music",
+    "piloted robot",
+    "romance",
+    "science fiction",
+    "space",
+    "space opera",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4051",
+    "anidb": "6655",
+    "anilist/anime": "5310",
+    "aozora": "8ZtKd4BzWl",
+    "myanimelist/anime": "5310"
+  }
+}

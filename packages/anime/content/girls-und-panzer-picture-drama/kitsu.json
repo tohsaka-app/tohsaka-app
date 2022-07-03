@@ -1,0 +1,23 @@
+{
+  "slug": "girls-und-panzer-picture-drama",
+  "synopsis": "Picture drama episodes bundled with the Girls und Panzer \"Heartful Tank Disc\".",
+  "title": {
+    "jp": "Girls & Panzer Heartful Tank Disc Picture Drama"
+  },
+  "releasedAt": "2013-09-25T00:00:00.000Z",
+  "finishedAt": "2013-09-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8749/original.jpg",
+  "categories": [
+    "military",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8749",
+    "aozora": "42JS3XzOAz",
+    "myanimelist/anime": "23137"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "ghiblies",
+  "synopsis": "Two Ghibli created shorts about the happenings in a fictional animation studio, presumably based to some extent on their own.",
+  "title": {
+    "jp": "Ghiblies"
+  },
+  "releasedAt": "2000-04-08T00:00:00.000Z",
+  "finishedAt": "2002-07-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2381/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "parody",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2381",
+    "anidb": "845",
+    "anilist/anime": "2617",
+    "aozora": "FcIS3XHzhK",
+    "myanimelist/anime": "2617"
+  }
+}

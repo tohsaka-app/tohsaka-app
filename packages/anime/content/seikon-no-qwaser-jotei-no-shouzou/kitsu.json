@@ -1,0 +1,29 @@
+{
+  "slug": "seikon-no-qwaser-jotei-no-shouzou",
+  "synopsis": "Based on Ekaterina Kurae's chapter 16 from the manga, and episode 10.5 of the anime.",
+  "title": {
+    "en": "The Qwaser of Stigmata: Portrait of the Empress",
+    "jp": "Seikon no Qwaser: Jotei no Shouzou"
+  },
+  "releasedAt": "2010-10-20T00:00:00.000Z",
+  "finishedAt": "2010-10-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5629/original.jpg",
+  "categories": [
+    "action",
+    "ecchi",
+    "super power"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/the-qwaser-of-stigmata-portrait-of-the-empress"
+  ],
+  "relations": {
+    "kitsu": "5629",
+    "anidb": "7971",
+    "anilist/anime": "9202",
+    "aozora": "RFVQcMfAOq",
+    "myanimelist/anime": "9202"
+  }
+}

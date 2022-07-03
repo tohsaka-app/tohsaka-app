@@ -1,0 +1,25 @@
+{
+  "slug": "pokemon-omosakurabe-battle",
+  "synopsis": "It's a Pokemon Mosawo Battle that compares the weight of Pokemon such as Pichu, Pikachu, Zeraora, and Greninja! I wonder which Pokemon will do it ...! ??\n\n(Source: Official YouTube Channel)",
+  "title": {
+    "jp": "Pokemon Omosakurabe Battle"
+  },
+  "releasedAt": "2022-05-14T00:00:00.000Z",
+  "finishedAt": "2022-05-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46208/poster_image/83d7f713251e6d961d62f67d73745a0e.jpg",
+  "categories": [
+    "fantasy",
+    "kids",
+    "sports"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=QfPAlLwwW7s"
+  ],
+  "relations": {
+    "kitsu": "46208",
+    "myanimelist/anime": "51887"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "asobi-asobase-ova",
+  "synopsis": "Included with seventh volume of the Asobi Asobase manga. ",
+  "title": {
+    "jp": "Asobi Asobase OVA"
+  },
+  "releasedAt": "2018-12-26T00:00:00.000Z",
+  "finishedAt": "2018-12-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41877/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41877",
+    "anilist/anime": "104170",
+    "myanimelist/anime": "37996"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "tekkaman-blade",
+  "synopsis": "Tekkaman Blade takes place in the year 2300 AD. On a certain moment, the Radam attack earth. A few months after the beginning of the invasion, a tekkaman appears, he calls himself Blade and with the help of the Space Knights, Blade starts to fight the radam. But there are a few things that Blade isn't telling about his past. \n(Source: ANN)",
+  "title": {
+    "en": "Tekkaman Blade",
+    "jp": "Uchuu no Kishi Tekkaman Blade"
+  },
+  "releasedAt": "1992-02-18T00:00:00.000Z",
+  "finishedAt": "1993-02-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1309/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "angst",
+    "drama",
+    "earth",
+    "future",
+    "mecha",
+    "military",
+    "plot continuity",
+    "post apocalypse",
+    "power suit",
+    "romance",
+    "science fiction",
+    "shipboard",
+    "space",
+    "transforming craft",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1309",
+    "anidb": "1033",
+    "anilist/anime": "1459",
+    "aozora": "vwxFd21Fno",
+    "myanimelist/anime": "1459",
+    "thetvdb": "81723/1",
+    "thetvdb/series": "81723",
+    "trakt": "27113"
+  }
+}

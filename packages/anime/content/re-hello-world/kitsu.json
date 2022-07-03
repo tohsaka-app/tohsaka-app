@@ -1,0 +1,26 @@
+{
+  "slug": "re-hello-world",
+  "synopsis": "Music video produced by Cover Corporation for the song Re:Hello World by Rikka, featuring music arrangement by Bernis and guitar performance by Hiro Kanno.",
+  "title": {
+    "jp": "Re:Hello World"
+  },
+  "releasedAt": "2020-06-28T00:00:00.000Z",
+  "finishedAt": "2020-06-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43769/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43769/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/NK6Elz5MrqQ"
+  ],
+  "relations": {
+    "kitsu": "43769",
+    "anilist/anime": "126317",
+    "myanimelist/anime": "44257"
+  }
+}

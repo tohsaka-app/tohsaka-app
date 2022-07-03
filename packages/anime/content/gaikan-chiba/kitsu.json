@@ -1,0 +1,19 @@
+{
+  "slug": "gaikan-chiba",
+  "synopsis": "",
+  "title": {
+    "jp": "GAIKAN CHIBA"
+  },
+  "releasedAt": "2018-05-16T00:00:00.000Z",
+  "finishedAt": "2018-05-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41858/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41858",
+    "myanimelist/anime": "37906"
+  }
+}

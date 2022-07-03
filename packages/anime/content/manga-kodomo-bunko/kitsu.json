@@ -1,0 +1,26 @@
+{
+  "slug": "manga-kodomo-bunko",
+  "synopsis": "A collection of children's stories and tales from traditional Japanese folklore.\n(Source: AniDB)",
+  "title": {
+    "jp": "Manga Kodomo Bunko"
+  },
+  "releasedAt": "1978-10-06T00:00:00.000Z",
+  "finishedAt": "1979-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9434/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9434",
+    "anidb": "6334",
+    "anilist/anime": "20231",
+    "aozora": "sYy4ffiEkz",
+    "myanimelist/anime": "20231"
+  }
+}

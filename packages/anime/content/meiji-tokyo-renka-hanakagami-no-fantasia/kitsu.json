@@ -1,0 +1,26 @@
+{
+  "slug": "meiji-tokyo-renka-hanakagami-no-fantasia",
+  "synopsis": "Sequel to Meiji Tokyo Renka: Yumihari no Serenade, which follows Mei Ayazuki as she travels back in time and falls in love with historical figures.",
+  "title": {
+    "jp": "Meiji Tokyo Renka Movie: Hanakagami no Fantasia"
+  },
+  "releasedAt": "2016-05-06T00:00:00.000Z",
+  "finishedAt": "2016-05-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12090/original.jpg",
+  "categories": [
+    "fantasy",
+    "harem",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12090",
+    "anilist/anime": "21794",
+    "aozora": "tTL7tFlc8b",
+    "myanimelist/anime": "33087"
+  }
+}

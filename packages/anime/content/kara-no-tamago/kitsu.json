@@ -1,0 +1,23 @@
+{
+  "slug": "kara-no-tamago",
+  "synopsis": "The film is about a family, [that] runs a chicken farm. The boy hankers after birds and his little sister keeps an eye on him. The father loves eggs. The mother loves somebody else. In the family fixture, each member stays there with bias or secrets.\n\nGraduate Work 2012, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "A Wind Egg",
+    "jp": "Kara no Tamago"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45017/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45017",
+    "anilist/anime": "112129",
+    "myanimelist/anime": "38848"
+  }
+}

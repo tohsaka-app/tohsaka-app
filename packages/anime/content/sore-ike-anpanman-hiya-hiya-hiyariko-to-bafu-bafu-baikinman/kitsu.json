@@ -1,0 +1,27 @@
+{
+  "slug": "sore-ike-anpanman-hiya-hiya-hiyariko-to-bafu-bafu-baikinman",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Hiya Hiya Hiyariko to Bafu Bafu Baikinman"
+  },
+  "releasedAt": "2008-07-12T00:00:00.000Z",
+  "finishedAt": "2008-07-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9613/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9613",
+    "anidb": "6079",
+    "anilist/anime": "121840",
+    "aozora": "eupZXhEl8T",
+    "myanimelist/anime": "21951"
+  }
+}

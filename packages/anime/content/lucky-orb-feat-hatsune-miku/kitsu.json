@@ -1,0 +1,24 @@
+{
+  "slug": "lucky-orb-feat-hatsune-miku",
+  "synopsis": "In commemoration of Hatsune Miku's world concert tour series \"Hatsune Miku EXPO\" celebrating its 5th anniversary, a special music video for this year's theme song, \"Lucky☆Orb feat. Hatsune Miku\" by emon(Tes.), was produced. The video is a collaboration between Crypton, Fantasista Utamaro, and Kasoku Sato.\n\nThe single was available for purchase that same day online and was later included on the Hatsune Miku EXPO 5th Anniversary EP, along with previous theme songs and contest winners.\n\n(Source: YouTube)",
+  "title": {
+    "jp": "Lucky☆Orb feat. Hatsune Miku"
+  },
+  "releasedAt": "2019-05-06T00:00:00.000Z",
+  "finishedAt": "2019-05-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42477/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/AufydOsiD6M"
+  ],
+  "relations": {
+    "kitsu": "42477",
+    "anilist/anime": "111022",
+    "myanimelist/anime": "40172"
+  }
+}

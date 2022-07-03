@@ -1,0 +1,28 @@
+{
+  "slug": "nouryou-anime-denkyuu-ika-matsuri",
+  "synopsis": "Death is the gateway to birth. The deceased crosses the line to join the kingdom of the dead. He sees there the dance of the sperm and the egg. He is drawn towards the sky. This is the path to the afterlife.\n(Source: starandshadow.org.uk)",
+  "title": {
+    "en": "Squid Festival",
+    "jp": "Nouryou Anime: Denkyuu Ika Matsuri"
+  },
+  "releasedAt": "1993-01-01T00:00:00.000Z",
+  "finishedAt": "1993-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10931/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10931/original.png",
+  "categories": [
+    "dementia",
+    "horror",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10931",
+    "anidb": "11708",
+    "anilist/anime": "103926",
+    "aozora": "8OndctboJk",
+    "myanimelist/anime": "30659"
+  }
+}

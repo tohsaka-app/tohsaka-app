@@ -1,0 +1,26 @@
+{
+  "slug": "himitsukessha-taka-no-tsume-max",
+  "synopsis": "Sequel to the previous season.",
+  "title": {
+    "jp": "Himitsukessha Taka no Tsume MAX"
+  },
+  "releasedAt": "2013-04-05T00:00:00.000Z",
+  "finishedAt": "2014-02-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9862/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9862",
+    "anidb": "9775",
+    "anilist/anime": "18241",
+    "aozora": "wUZVXjMJvl",
+    "myanimelist/anime": "18241"
+  }
+}

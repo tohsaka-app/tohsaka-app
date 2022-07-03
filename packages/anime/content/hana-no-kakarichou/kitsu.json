@@ -1,0 +1,25 @@
+{
+  "slug": "hana-no-kakarichou",
+  "synopsis": "A wacky comedy about a man from a noble ancestry of long ago, but who in modern times is just a lowly salary man that is constantly being humiliated by his family and co-workers.\n(Source: AniDB)",
+  "title": {
+    "jp": "Hana no Kakarichou"
+  },
+  "releasedAt": "1976-10-03T00:00:00.000Z",
+  "finishedAt": "1977-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9297/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9297",
+    "anidb": "5515",
+    "anilist/anime": "20239",
+    "aozora": "xudDWPnxjz",
+    "myanimelist/anime": "20239"
+  }
+}

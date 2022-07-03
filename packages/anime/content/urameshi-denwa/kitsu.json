@@ -1,0 +1,23 @@
+{
+  "slug": "urameshi-denwa",
+  "synopsis": "A short film by Okamoto Tadanari.",
+  "title": {
+    "jp": "Urameshi Denwa"
+  },
+  "releasedAt": "1975-01-01T00:00:00.000Z",
+  "finishedAt": "1975-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10444/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10444",
+    "anilist/anime": "103166",
+    "aozora": "riPIUfq1y8",
+    "myanimelist/anime": "29800"
+  }
+}

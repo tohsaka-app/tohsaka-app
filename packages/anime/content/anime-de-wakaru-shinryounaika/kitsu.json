@@ -1,0 +1,28 @@
+{
+  "slug": "anime-de-wakaru-shinryounaika",
+  "synopsis": "The psychologist Ryou and his cheerful nurse Asuna explain many aspects of mental illness to the reader. They cover topics such as the validity, prevalence, and origins of mental disorders, in addition to addressing specific disorders. The information is imparted in a cheerful and comic manner, with various jokes, puns, and pop culture references.\n(Source: MU)",
+  "title": {
+    "en": "Comical Psychosomatic Medicine",
+    "jp": "Anime de Wakaru Shinryounaika"
+  },
+  "releasedAt": "2015-02-13T00:00:00.000Z",
+  "finishedAt": "2015-06-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9786/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9786/original.png",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/comical-psychosomatic-medicine"
+  ],
+  "relations": {
+    "kitsu": "9786",
+    "anidb": "10877",
+    "anilist/anime": "20901",
+    "aozora": "lQp2grbh08",
+    "myanimelist/anime": "27911"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "despair-hope",
+  "synopsis": "",
+  "title": {
+    "jp": "despair/hope"
+  },
+  "releasedAt": "2011-08-23T00:00:00.000Z",
+  "finishedAt": "2011-11-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41914/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41914",
+    "myanimelist/anime": "38077"
+  }
+}

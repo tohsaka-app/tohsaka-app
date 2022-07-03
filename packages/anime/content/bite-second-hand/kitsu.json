@@ -1,0 +1,22 @@
+{
+  "slug": "bite-second-hand",
+  "synopsis": "",
+  "title": {
+    "en": "Bite second hand",
+    "jp": "Bite second hand"
+  },
+  "releasedAt": "2018-06-04T00:00:00.000Z",
+  "finishedAt": "2018-06-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42288/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42288/original.jpg",
+  "categories": [],
+  "externals": [
+    "https://youtu.be/GJI4Gv7NbmE"
+  ],
+  "relations": {
+    "kitsu": "42288"
+  }
+}

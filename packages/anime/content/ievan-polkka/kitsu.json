@@ -1,0 +1,22 @@
+{
+  "slug": "ievan-polkka",
+  "synopsis": "Claymation music video featuring Hatsune Miku",
+  "title": {
+    "en": "Ievan Polkka",
+    "jp": "Ievan Polkka"
+  },
+  "releasedAt": "2010-08-18T00:00:00.000Z",
+  "finishedAt": "2010-08-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46131/poster_image/48559ca010d0df7127f576c784a082b0.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46131",
+    "myanimelist/anime": "41853"
+  }
+}

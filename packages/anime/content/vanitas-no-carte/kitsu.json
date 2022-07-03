@@ -1,0 +1,36 @@
+{
+  "slug": "vanitas-no-carte",
+  "synopsis": "It’s 19th-century Paris, and young vampire Noé hunts for the Book of Vanitas. Attacked by a vampire driven insane, a human intercedes, rescues Noé, and heals the sick creature. Commanding the book and calling himself Vanitas, this doctor tempts Noé with a mad crusade to “cure” the entire vampire race. Allying with one who wields arcane power so easily may be dangerous, but does he have a choice?\n\n(Source: Funimation)",
+  "title": {
+    "en": "The Case Study of Vanitas",
+    "jp": "Vanitas no Carte"
+  },
+  "releasedAt": "2021-07-02T00:00:00.000Z",
+  "finishedAt": "2021-09-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44241/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44241/original.png",
+  "categories": [
+    "adventure",
+    "bishounen",
+    "drama",
+    "france",
+    "historical",
+    "mystery",
+    "shounen",
+    "steampunk",
+    "supernatural",
+    "vampire"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GEXH3W8DG/the-case-study-of-vanitas",
+    "https://www.funimation.com/shows/the-case-study-of-vanitas/"
+  ],
+  "relations": {
+    "kitsu": "44241",
+    "anilist/anime": "131646",
+    "myanimelist/anime": "48580"
+  }
+}

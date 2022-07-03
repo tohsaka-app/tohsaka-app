@@ -1,0 +1,39 @@
+{
+  "slug": "hanyou-no-yashahime-sengoku-otogizoushi-2",
+  "synopsis": "Season 2 of Hanyou no Yashahime: Sengoku Otogizoushi.",
+  "title": {
+    "en": "Yashahime: Princess Half-Demon: The Second Act",
+    "jp": "Hanyou no Yashahime: Sengoku Otogizoushi - Ni no Shou"
+  },
+  "releasedAt": "2021-10-02T00:00:00.000Z",
+  "finishedAt": "2022-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44199/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44199/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative past",
+    "demon",
+    "fantasy",
+    "fantasy world",
+    "historical",
+    "isekai",
+    "shounen",
+    "super power",
+    "supernatural",
+    "time travel"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/yashahime-princess-half-demon",
+    "https://www.funimation.com/shows/yashahime-princess-half-demon/"
+  ],
+  "relations": {
+    "kitsu": "44199",
+    "anidb": "16141",
+    "anilist/anime": "131264",
+    "myanimelist/anime": "48505"
+  }
+}

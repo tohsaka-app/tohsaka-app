@@ -1,0 +1,29 @@
+{
+  "slug": "gintama-shinyaku-benizakura-hen-special",
+  "synopsis": "According to Tsutaya Online, the DVD of Gintama: Shinyaku Benizakura-hen will be released on December 15th. A new special will be bundled with the limited edition.\nIt's the running gag of Ben Johnson episode where animation staff reuse the New Years footage; Yorozuya would sit around the kotatsu eating a bowl of tangerines. They discuss elaborate subjects, Shinpachi complains about reusing animation footage, and then Gin-chan always ending the gag with a pointless announcement.",
+  "title": {
+    "jp": "Gintama: Shinyaku Benizakura-hen"
+  },
+  "releasedAt": "2010-12-15T00:00:00.000Z",
+  "finishedAt": "2010-12-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5842/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5842/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "historical",
+    "parody",
+    "samurai",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5842",
+    "anilist/anime": "9735",
+    "aozora": "xKBs002TP2",
+    "myanimelist/anime": "9735"
+  }
+}

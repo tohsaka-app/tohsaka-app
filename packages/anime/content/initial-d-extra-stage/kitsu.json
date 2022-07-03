@@ -1,0 +1,33 @@
+{
+  "slug": "initial-d-extra-stage",
+  "synopsis": "The Lancer EVO-driving group \"Emperor\" have defeated every racing team they've met in the Gunma region. Now they're out to challenge the duo of Mako and Sayuki and their SilEighty - the Impact Blue of Usui Mountain.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Initial D Extra Stage"
+  },
+  "releasedAt": "2001-03-22T00:00:00.000Z",
+  "finishedAt": "2001-03-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/729/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "drifting",
+    "earth",
+    "japan",
+    "motorsport",
+    "present",
+    "seinen",
+    "sports",
+    "street racing"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "729",
+    "anidb": "631",
+    "anilist/anime": "822",
+    "aozora": "ZI6W7CwAkH",
+    "myanimelist/anime": "822"
+  }
+}

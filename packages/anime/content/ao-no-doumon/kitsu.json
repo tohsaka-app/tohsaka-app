@@ -1,0 +1,27 @@
+{
+  "slug": "ao-no-doumon",
+  "synopsis": "Legend has it that before the tunnel (Ao no Doumon) was built, people had to climb over the cliffs through which the tunnel is built to reach an important local shrine. The path was very dangerous and people regularly fell to their deaths. During the Edo period, a Buddhist monk named Zenkai, who had committed a murder in his earlier life, decided to build a safe passage for worshipers in order to atone for his crime. Beginning at the age of 49, he dedicated 30 years of his life to digging the 185 metre tunnel by hand, using only a hammer and chisel.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Ao no Doumon"
+  },
+  "releasedAt": "1999-01-01T00:00:00.000Z",
+  "finishedAt": "1999-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9196/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "kids",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9196",
+    "anidb": "11333",
+    "anilist/anime": "140034",
+    "aozora": "gQnLAniBhN",
+    "myanimelist/anime": "26285"
+  }
+}

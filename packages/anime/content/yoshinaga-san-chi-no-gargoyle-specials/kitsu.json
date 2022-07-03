@@ -1,0 +1,26 @@
+{
+  "slug": "yoshinaga-san-chi-no-gargoyle-specials",
+  "synopsis": "A magic book places Kazumi in a Wonderland-like world.",
+  "title": {
+    "jp": "Yoshinaga-san'chi no Gargoyle Specials"
+  },
+  "releasedAt": "2006-07-28T00:00:00.000Z",
+  "finishedAt": "2006-11-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2238/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2238/original.jpeg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2238",
+    "anilist/anime": "2464",
+    "aozora": "Bi3LMaIc3r",
+    "myanimelist/anime": "2464"
+  }
+}

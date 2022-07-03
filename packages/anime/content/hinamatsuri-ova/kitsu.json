@@ -1,0 +1,20 @@
+{
+  "slug": "hinamatsuri-ova",
+  "synopsis": "An educational anime about the history and founding of the Hinamatsuri holiday in Japan.",
+  "title": {
+    "jp": "Hinamatsuri"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40690/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40690",
+    "aozora": "3qiwBYUdrk",
+    "myanimelist/anime": "35102"
+  }
+}

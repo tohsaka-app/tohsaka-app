@@ -1,0 +1,40 @@
+{
+  "slug": "space-adventure-cobra",
+  "synopsis": "Meek salaryman Johnson discovers that he is in fact the notorious (and reportedly dead) space pirate Cobra, with a new face and altered memories. Embedded in his left arm is Cobra's unique Psychogun, a famous weapon powered by his own will. Having recovered his past, his partner-in-crime Armaroid Lady, and his spaceship, he journeys across the galaxy seeking adventure. \nOn his travels he will hunt for the galaxy's ultimate weapon, rob museums, break into and out of maximum-security prison, infiltrate a drug ring in the brutal and deadly sport of Rugball, engineer a coup on an alien world, confront the Pirate Guild's most fearsome leaders, and do much else besides—smoking cigars, chasing women and cracking jokes all the while.\nThis, the 1982–83 Cobra TV anime, adapts the Cobra manga from the beginning, covering the first three major stories and building to a grand conclusion with some shorter one-off tales interspersed along the way. (The 1982 Cobra film has only a loose connection to the TV series—though it involved the same director and some of the same animators.)",
+  "title": {
+    "en": "Space Adventure Cobra",
+    "jp": "Space Cobra"
+  },
+  "releasedAt": "1982-10-07T00:00:00.000Z",
+  "finishedAt": "1983-05-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2225/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2225/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "other planet",
+    "science fiction",
+    "space",
+    "space travel",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/space-adventure-cobra",
+    "http://www.hulu.com/space-adventure-cobra-tv"
+  ],
+  "relations": {
+    "kitsu": "2225",
+    "anidb": "1091",
+    "anilist/anime": "2451",
+    "aozora": "rEojXYsO18",
+    "hulu": "50005916",
+    "myanimelist/anime": "2451",
+    "thetvdb": "82971/1",
+    "thetvdb/series": "82971",
+    "trakt": "8834"
+  }
+}

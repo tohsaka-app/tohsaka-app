@@ -1,0 +1,25 @@
+{
+  "slug": "kara-no-kyoukai-cinema-intros",
+  "synopsis": "Seven cinema intros that were shown with the seven movies of Kara no Kyoukai and included as a bonus with the Blu-ray/DVD release.",
+  "title": {
+    "en": "the Garden of sinners Pre-show Reminder",
+    "jp": "Kara no Kyoukai: Manner Movies"
+  },
+  "releasedAt": "2007-12-01T00:00:00.000Z",
+  "finishedAt": "2009-08-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8432/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8432",
+    "anilist/anime": "104411",
+    "aozora": "wroeAciYyH",
+    "myanimelist/anime": "23697"
+  }
+}

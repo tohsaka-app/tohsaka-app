@@ -1,0 +1,24 @@
+{
+  "slug": "digimon-the-movie",
+  "synopsis": "US Digimon Movie use footage from 3 separate Japanese OVA's.",
+  "title": {},
+  "releasedAt": "2000-10-06T00:00:00.000Z",
+  "finishedAt": "2000-10-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13736/original.jpg",
+  "categories": [
+    "anime influenced",
+    "asia",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "japan",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13736"
+  }
+}

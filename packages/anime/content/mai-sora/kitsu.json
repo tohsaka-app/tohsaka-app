@@ -1,0 +1,24 @@
+{
+  "slug": "mai-sora",
+  "synopsis": "Clouds flow by. Pictures evaporate. When the act of drawing is in tune with nature’s ways, an ancient poetry echoes through the sky and in due time brings rain.\n\nGraduate Work 2019, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Dissipate",
+    "jp": "Mai Sora"
+  },
+  "releasedAt": "2019-02-01T00:00:00.000Z",
+  "finishedAt": "2019-02-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45206/poster_image/a08e490e1634d16826eea900aa2b9777.png",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [
+    "https://youtu.be/_IkFaWms6TM"
+  ],
+  "relations": {
+    "kitsu": "45206",
+    "anilist/anime": "138995"
+  }
+}

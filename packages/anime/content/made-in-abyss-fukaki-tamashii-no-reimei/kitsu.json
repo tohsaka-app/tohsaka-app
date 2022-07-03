@@ -1,0 +1,33 @@
+{
+  "slug": "made-in-abyss-fukaki-tamashii-no-reimei",
+  "synopsis": "Dawn of the Deep Soul continues the epic adventure of plucky Riko and Reg who are joined by their new friend Nanachi. Together they descend into the Abyss' treacherous fifth layer, the Sea of Corpses, and encounter the mysterious Bondrewd, a legendary White Whistle whose shadow looms over Nanachi's troubled past. Bondrewd is ingratiatingly hospitable, but the brave adventurers know things are not always as they seem in the enigmatic Abyss...\n\n(Source: Sentai Filmworks)",
+  "title": {
+    "en": "Made in Abyss: Dawn of the Deep Soul",
+    "jp": "Made in Abyss: Fukaki Tamashii no Reimei"
+  },
+  "releasedAt": "2020-01-17T00:00:00.000Z",
+  "finishedAt": "2020-01-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/14027/poster_image/a8aa60b6101036e742e130091081830b.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14027/original.jpg",
+  "categories": [
+    "adventure",
+    "android",
+    "dark fantasy",
+    "drama",
+    "fantasy",
+    "human enhancement",
+    "psychological",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/made-in-abyss-dawn-of-the-deep-soul"
+  ],
+  "relations": {
+    "kitsu": "14027",
+    "anilist/anime": "100643",
+    "myanimelist/anime": "36862"
+  }
+}

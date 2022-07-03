@@ -1,0 +1,33 @@
+{
+  "slug": "mahou-shoujo-tai-arusu-the-adventure",
+  "synopsis": "\"Tweeny Witches\" The Adventure created by Studio 4C in collaboration with \"Garo\" creator Keita Amemiya. Includes the Alice chapters \"Sakana ni Natta Maho Shojotai\" and \"Fuin Sareta Kokoro,\" Sheila chapters \"Yosei Hakusho\" and \"Kori no Majo to Hien no Taki,\" and Eva chapters \"Dragon House no Himitsu\" and \"Shippu Doto no Maho Shojotai\" on three DVDs.\n\n(Source: AniDB)",
+  "title": {
+    "en": "Tweeny Witches: Alice Adventures",
+    "jp": "Mahou Shoujo-tai Arusu the Adventure"
+  },
+  "releasedAt": "2007-11-22T00:00:00.000Z",
+  "finishedAt": "2007-11-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3399/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3399/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "magical girl",
+    "plot continuity",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3399",
+    "anidb": "3308",
+    "anilist/anime": "3991",
+    "aozora": "BVluE8FKLG",
+    "myanimelist/anime": "3991"
+  }
+}

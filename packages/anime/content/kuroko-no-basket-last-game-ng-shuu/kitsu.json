@@ -1,0 +1,24 @@
+{
+  "slug": "kuroko-no-basket-last-game-ng-shuu",
+  "synopsis": "",
+  "title": {
+    "jp": "Kuroko no Basket: Last Game NG-shuu"
+  },
+  "releasedAt": "2017-09-27T00:00:00.000Z",
+  "finishedAt": "2017-09-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41585/original.jpg",
+  "categories": [
+    "basketball",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41585",
+    "anilist/anime": "101999",
+    "myanimelist/anime": "35658"
+  }
+}

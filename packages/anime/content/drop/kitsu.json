@@ -1,0 +1,24 @@
+{
+  "slug": "drop",
+  "synopsis": "Shungo Suzuki's Tama Art University 2011 graduate project.",
+  "title": {
+    "en": "Drop",
+    "jp": "DROP"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46157/poster_image/7dac927a496a380b18ddd35b4485752f.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/TXEyvOWY03Q"
+  ],
+  "relations": {
+    "kitsu": "46157",
+    "anilist/anime": "140581"
+  }
+}

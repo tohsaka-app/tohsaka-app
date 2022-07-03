@@ -1,0 +1,24 @@
+{
+  "slug": "devilman-crybaby-digest-eizou",
+  "synopsis": "A short web recap of the Devilman: Crybaby series, posted on Aniplex's official YouTube channel.",
+  "title": {
+    "jp": "Devilman: Crybaby - Digest Eizou"
+  },
+  "releasedAt": "2018-03-24T00:00:00.000Z",
+  "finishedAt": "2018-03-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41355/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "horror",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41355",
+    "myanimelist/anime": "37590"
+  }
+}

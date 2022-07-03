@@ -1,0 +1,24 @@
+{
+  "slug": "mu-di",
+  "synopsis": "The story is about a relationship between a cow herding boy with an extraordinary flute playing ability and his buffalo companion. The boy dreams that he loses the buffalo, and when the buffalo won't move from his hiding place, the boy uses a flute melody to bring him back.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Mu Di"
+  },
+  "releasedAt": "1963-01-01T00:00:00.000Z",
+  "finishedAt": "1963-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11244/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11244",
+    "anidb": "11949",
+    "anilist/anime": "98137",
+    "aozora": "LXA1D9Dg88",
+    "myanimelist/anime": "30886"
+  }
+}

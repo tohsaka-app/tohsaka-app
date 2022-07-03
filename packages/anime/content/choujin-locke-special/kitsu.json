@@ -1,0 +1,25 @@
+{
+  "slug": "choujin-locke-special",
+  "synopsis": "In 1979, before the movie Choujin Locke was produced, this short pilot was made.\nIt can be now found on the the extras of the official DVD release of the movie.",
+  "title": {
+    "jp": "Choujin Locke Special"
+  },
+  "releasedAt": "1979-01-01T00:00:00.000Z",
+  "finishedAt": "1979-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7570/original.jpg",
+  "categories": [
+    "action",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7570",
+    "anilist/anime": "17048",
+    "aozora": "jq7wTzlsLi",
+    "myanimelist/anime": "17048"
+  }
+}

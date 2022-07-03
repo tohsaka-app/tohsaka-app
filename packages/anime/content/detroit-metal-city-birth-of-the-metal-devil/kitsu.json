@@ -1,0 +1,28 @@
+{
+  "slug": "detroit-metal-city-birth-of-the-metal-devil",
+  "synopsis": "This is a special introductory episode of Detroit Metal City.",
+  "title": {
+    "en": "Detroit Metal City: Birth of the Metal Devil",
+    "jp": "Detroit Metal City: Birth of the Metal Devil"
+  },
+  "releasedAt": "2008-07-11T00:00:00.000Z",
+  "finishedAt": "2008-07-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3911/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3911/original.jpeg",
+  "categories": [
+    "comedy",
+    "music",
+    "parody",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3911",
+    "anilist/anime": "5065",
+    "aozora": "3fv3sVGNGv",
+    "myanimelist/anime": "5065"
+  }
+}

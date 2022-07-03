@@ -1,0 +1,28 @@
+{
+  "slug": "kareshi-wa-hammerhead-shark",
+  "synopsis": "A music video for the song Kareshi wa Hammerhead Shark with lyrics by Lisa Melody.",
+  "title": {
+    "en": "Boyfriend Hammerhead Shark",
+    "jp": "Kareshi wa Hammerhead Shark"
+  },
+  "releasedAt": "2015-01-03T00:00:00.000Z",
+  "finishedAt": "2015-01-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10336/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=IO_lesazByo"
+  ],
+  "relations": {
+    "kitsu": "10336",
+    "aozora": "gauzaHvbXY",
+    "myanimelist/anime": "29361"
+  }
+}

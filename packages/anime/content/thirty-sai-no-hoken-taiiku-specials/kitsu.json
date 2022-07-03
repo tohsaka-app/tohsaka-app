@@ -1,0 +1,25 @@
+{
+  "slug": "thirty-sai-no-hoken-taiiku-specials",
+  "synopsis": "DVD specials.\nEpisode 1 -  朗読少年 (Lecture Shounen): \nMacaron's special training by Kuu-chan.\nEpisode 2 - 朗読兄弟 (Lecture brothers): \nMacaron's special training by his brother Daigorou.\nEpisode 3 - もう一つのエンディング~囚われの安藤なつ~ (Another ending ~ Natsu Andou's imprisonment):",
+  "title": {
+    "jp": "30-sai no Hoken Taiiku Specials"
+  },
+  "releasedAt": "2011-07-22T00:00:00.000Z",
+  "finishedAt": "2011-09-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6670/original.jpg",
+  "categories": [
+    "ecchi",
+    "parody",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6670",
+    "anilist/anime": "12131",
+    "aozora": "GwW2NkLM7Y",
+    "myanimelist/anime": "12131"
+  }
+}

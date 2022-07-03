@@ -1,0 +1,22 @@
+{
+  "slug": "polka-dot",
+  "synopsis": "Official music video for the song Polka Dot by the fictional band Irodorimidori. It is the 25th song in the franchise and focuses on Nazuna Tennozu.\n\n(MAL News)",
+  "title": {
+    "jp": "Polka Dot"
+  },
+  "releasedAt": "2018-03-02T00:00:00.000Z",
+  "finishedAt": "2018-03-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41041/original.jpeg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41041",
+    "anilist/anime": "102851",
+    "myanimelist/anime": "37413"
+  }
+}

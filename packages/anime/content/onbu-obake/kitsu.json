@@ -1,0 +1,24 @@
+{
+  "slug": "onbu-obake",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Onbu Obake"
+  },
+  "releasedAt": "1955-12-26T00:00:00.000Z",
+  "finishedAt": "1955-12-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5021/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5021",
+    "anidb": "6868",
+    "anilist/anime": "7531",
+    "aozora": "tMdcnT1V3N",
+    "myanimelist/anime": "7531"
+  }
+}

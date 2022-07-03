@@ -1,0 +1,24 @@
+{
+  "slug": "follow",
+  "synopsis": "Graduation work of Zhang Lihong at Tama Art University.",
+  "title": {
+    "en": "Follow",
+    "jp": "Follow"
+  },
+  "releasedAt": "2020-01-01T00:00:00.000Z",
+  "finishedAt": "2020-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45565/poster_image/fed2f8babcde1c8b86838d9d7afef58d.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/FoXZjlvrSy8"
+  ],
+  "relations": {
+    "kitsu": "45565",
+    "anilist/anime": "140599"
+  }
+}

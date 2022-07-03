@@ -1,0 +1,25 @@
+{
+  "slug": "feng-shu-zhan-jing-2",
+  "synopsis": "Second season of Feng Shu Zhan Jing.",
+  "title": {
+    "jp": "Feng Shu Zhan Jing 2"
+  },
+  "releasedAt": "2012-02-01T00:00:00.000Z",
+  "finishedAt": "2012-12-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12805/original.jpg",
+  "categories": [
+    "adventure",
+    "kids",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12805",
+    "anilist/anime": "103723",
+    "aozora": "bsxWuEwvEB",
+    "myanimelist/anime": "33792"
+  }
+}

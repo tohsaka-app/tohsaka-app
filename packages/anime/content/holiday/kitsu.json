@@ -1,0 +1,21 @@
+{
+  "slug": "holiday",
+  "synopsis": "Short film by Hirano Ryou.",
+  "title": {
+    "jp": "Holiday"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12349/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "12349",
+    "anilist/anime": "103532",
+    "aozora": "71jqEKcfgG",
+    "myanimelist/anime": "31511"
+  }
+}

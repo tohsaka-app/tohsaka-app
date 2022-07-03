@@ -1,0 +1,22 @@
+{
+  "slug": "shunga",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Shunga"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9041/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "9041",
+    "anilist/anime": "102364",
+    "aozora": "Bt78SqwfFX",
+    "myanimelist/anime": "22181"
+  }
+}

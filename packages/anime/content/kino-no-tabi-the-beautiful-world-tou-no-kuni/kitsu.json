@@ -1,0 +1,28 @@
+{
+  "slug": "kino-no-tabi-the-beautiful-world-tou-no-kuni",
+  "synopsis": "Kino sets off to yet another country: Tower Country. Here all citizens work on the construction of a massive tower, without knowing what purpose it serves. The rather odd encounter with a young boy adds yet another twist to the story.",
+  "title": {
+    "en": "Kino's Journey: Tower Country",
+    "jp": "Kino no Tabi: The Beautiful World - Tou no Kuni"
+  },
+  "releasedAt": "2005-10-19T00:00:00.000Z",
+  "finishedAt": "2005-10-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3031/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3031/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3031",
+    "anilist/anime": "3466",
+    "aozora": "juxLGlri9g",
+    "hulu": "50002886",
+    "myanimelist/anime": "3466"
+  }
+}

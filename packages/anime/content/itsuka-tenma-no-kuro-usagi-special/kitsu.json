@@ -1,0 +1,25 @@
+{
+  "slug": "itsuka-tenma-no-kuro-usagi-special",
+  "synopsis": "\"Chibi-style\" special included in the last Blu-Ray.",
+  "title": {
+    "jp": "Itsuka Tenma no Kuro Usagi Special"
+  },
+  "releasedAt": "2012-02-24T00:00:00.000Z",
+  "finishedAt": "2012-02-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6889/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6889",
+    "anilist/anime": "13137",
+    "aozora": "eeXikeCw9o",
+    "myanimelist/anime": "13137"
+  }
+}

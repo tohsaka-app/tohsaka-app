@@ -1,0 +1,31 @@
+{
+  "slug": "ao-no-kanata-no-four-rhythm",
+  "synopsis": "Ao no Kanata no Four Rhythm is set in a world where people can take to the skies, soaring above land and sea. An area called the Four Islands Archipelago has a technology called Grav-Shoes, which allow the wearer to fly. Aside from simple transportation, people also use these shoes in a competition called FC (Flying Circus). To score points, they either touch buoys floating above the ocean, or their opponent's backs. \nThe energetic but ditzy Asuka Kurashina transfers to Kunahama Academy, a high school in the Four Islands Archipelago, from the outside world. She joins Misaki Tobisawa and Masaya Hinata's second year class. Her lack of experience and general clumsiness make her classmates worry if she can learn to fly properly, but she quickly develops an interest in FC, and she, Misaki, and Mashiro, a freshman, join the school's tiny FC club. But Masaya seems reluctant for some reason, even though he seems to know a lot about the sport. ",
+  "title": {
+    "en": "Aokana: Four Rhythm Across the Blue",
+    "jp": "Ao no Kanata no Four Rhythm"
+  },
+  "releasedAt": "2016-01-12T00:00:00.000Z",
+  "finishedAt": "2016-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10021/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10021/original.png",
+  "categories": [
+    "comedy",
+    "school life",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10021",
+    "anidb": "10934",
+    "anilist/anime": "21319",
+    "aozora": "kbwe1Ej2XM",
+    "myanimelist/anime": "28391",
+    "thetvdb": "299505/1",
+    "trakt": "101243"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "wo-de-shifu-jiangziya",
+  "synopsis": "A movie based on the classic Ming dynasty novel Fengshen Yangyi (The Investiture of the Gods).",
+  "title": {
+    "en": "Master Jiang and the Six Kingdoms",
+    "jp": "Wo de Shifu Jiangziya"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13088/original.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13088"
+  }
+}

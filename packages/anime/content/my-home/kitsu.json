@@ -1,0 +1,25 @@
+{
+  "slug": "my-home",
+  "synopsis": "Three men build their dream home from scraps for fun only to have it taken away.",
+  "title": {
+    "en": "My Home",
+    "jp": "My Home"
+  },
+  "releasedAt": "2009-02-17T00:00:00.000Z",
+  "finishedAt": "2009-02-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12714/original.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12714",
+    "anilist/anime": "102162",
+    "aozora": "kRlCwV5vWR",
+    "myanimelist/anime": "33537"
+  }
+}

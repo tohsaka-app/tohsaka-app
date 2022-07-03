@@ -1,0 +1,26 @@
+{
+  "slug": "shin-dokonjou-gaeru-dokonjou-yumemakura",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Shin Dokonjou Gaeru: Dokonjou Yumemakura"
+  },
+  "releasedAt": "1982-03-20T00:00:00.000Z",
+  "finishedAt": "1982-03-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9582/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9582",
+    "anidb": "4955",
+    "anilist/anime": "104392",
+    "aozora": "f2jSLNIgSG",
+    "myanimelist/anime": "21489"
+  }
+}

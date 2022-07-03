@@ -1,0 +1,25 @@
+{
+  "slug": "karo-piyobupt-imagination",
+  "synopsis": "A short film by Koji Yamamura.",
+  "title": {
+    "en": "Karo & Piyobupt: Imagination",
+    "jp": "Karo to Piyobupt: Ame no Hi"
+  },
+  "releasedAt": "1992-01-01T00:00:00.000Z",
+  "finishedAt": "1992-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4997/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4997",
+    "anidb": "8591",
+    "anilist/anime": "7488",
+    "aozora": "CuszMmXyLP",
+    "myanimelist/anime": "7488"
+  }
+}

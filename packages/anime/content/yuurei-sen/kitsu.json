@@ -1,0 +1,25 @@
+{
+  "slug": "yuurei-sen",
+  "synopsis": "Film about a ghost ship. There is no dialogue, just music and a choir. ",
+  "title": {
+    "en": "The Phantom Ship",
+    "jp": "Yuureisen"
+  },
+  "releasedAt": "1956-04-01T00:00:00.000Z",
+  "finishedAt": "1956-04-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6511/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6511",
+    "anidb": "6949",
+    "anilist/anime": "11447",
+    "aozora": "6zHdRKb6La",
+    "myanimelist/anime": "11447"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "tetsuwan-birdy-decode-02",
+  "synopsis": "Birdy and Tsutomu are still co-existing in the same body, as Birdy continues her duties as Federation Investigator and celebrity persona, and Tsutomu seeks to balance them with his normal everyday life. When a criminal group connected to the Ryunka incident escape from custody, hiding themselves and their alien identities on Earth, Birdy and Tsutomu are thrown back into action. It seems, however, that there are other forces involved, as well as old faces, which give Birdy time to reflect on the past, and the people that influenced her.\n(Source: ANN)",
+  "title": {
+    "en": "Birdy the Mighty: Decode 02",
+    "jp": "Tetsuwan Birdy Decode:02"
+  },
+  "releasedAt": "2009-01-10T00:00:00.000Z",
+  "finishedAt": "2009-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3915/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3915/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "android",
+    "comedy",
+    "human enhancement",
+    "humanoid alien",
+    "law and order",
+    "science fiction",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3915",
+    "anidb": "6120",
+    "anilist/anime": "5074",
+    "aozora": "KAplpeWay8",
+    "myanimelist/anime": "5074",
+    "thetvdb": "82884/2",
+    "thetvdb/season": "39505",
+    "thetvdb/series": "82884",
+    "trakt": "37107"
+  }
+}

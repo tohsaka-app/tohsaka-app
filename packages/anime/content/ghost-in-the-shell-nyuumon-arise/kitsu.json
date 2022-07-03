@@ -1,0 +1,26 @@
+{
+  "slug": "ghost-in-the-shell-nyuumon-arise",
+  "synopsis": "Information show featuring two female characters that separated from Logicoma (Logiko and Comako), voiced by Miyuki Sawashiro. A short anime called \"Kabushiki Gaisha: Kyuuka\" featuring Motoko (voiced by Maaya Sakamoto) as the employer of a company aired between episodes 4 to 14.",
+  "title": {
+    "en": "Ghost in the Shell: Nyuumon Arise",
+    "jp": "Ghost in the Shell: Nyuumon Arise"
+  },
+  "releasedAt": "2014-01-07T00:00:00.000Z",
+  "finishedAt": "2014-07-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8247/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/ghost-in-the-shell-arise/videos/episodes"
+  ],
+  "relations": {
+    "kitsu": "8247",
+    "anidb": "10382",
+    "aozora": "1AXMoqKxU6",
+    "myanimelist/anime": "22013"
+  }
+}

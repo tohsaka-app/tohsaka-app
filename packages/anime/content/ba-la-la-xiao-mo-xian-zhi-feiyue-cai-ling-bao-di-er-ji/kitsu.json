@@ -1,0 +1,25 @@
+{
+  "slug": "ba-la-la-xiao-mo-xian-zhi-feiyue-cai-ling-bao-di-er-ji",
+  "synopsis": "Second Season of Ba La La Xiao Mo Xian Zhi: Feiyue Cai Ling Bao.",
+  "title": {
+    "en": "Balala the Faries: Over the Rainbow",
+    "jp": "Ba La La Xiao Mo Xian Zhi: Feiyue Cai Ling Bao Di Er Ji"
+  },
+  "releasedAt": "2016-11-13T00:00:00.000Z",
+  "finishedAt": "2016-12-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12935/original.jpg",
+  "categories": [
+    "comedy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12935",
+    "anilist/anime": "104510",
+    "aozora": "6aRbzqppb7",
+    "myanimelist/anime": "34669"
+  }
+}

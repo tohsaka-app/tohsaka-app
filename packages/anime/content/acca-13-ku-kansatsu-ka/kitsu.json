@@ -1,0 +1,34 @@
+{
+  "slug": "acca-13-ku-kansatsu-ka",
+  "synopsis": "The kingdom of Dowa, which is subdivided into 13 states, is celebrating its monarch's 99th birthday. These 13 states have many agencies that are controlled by the giant organization known as ACCA. Within ACCA, Jean Otus is the second-in-command of the inspection agency. His agency has ten people placed in each of the 13 states, with a central office in the capital city. They keep track of all the activities of ACCA across the kingdom, and keep data on each state's ACCA office flowing toward the central office. Jean also often has business trips from the capital to the other districts to check on the situation and personnel there.\n\n(Source: MangaHelpers)",
+  "title": {
+    "en": "ACCA: 13-Territory Inspection Dept.",
+    "jp": "ACCA: 13-ku Kansatsu-ka"
+  },
+  "releasedAt": "2017-01-10T00:00:00.000Z",
+  "finishedAt": "2017-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12202/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12202/original.jpg",
+  "categories": [
+    "cops",
+    "drama",
+    "fantasy",
+    "politics"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/acca-13-territory-inspection-dept",
+    "https://www.funimation.com/shows/acca-13-territory-inspection-dept/"
+  ],
+  "relations": {
+    "kitsu": "12202",
+    "anidb": "12136",
+    "anilist/anime": "21823",
+    "aozora": "4D2fBCokQx",
+    "myanimelist/anime": "33337",
+    "thetvdb": "319983/1",
+    "trakt": "113256"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "tori",
+  "synopsis": "Furukawa Taku film.",
+  "title": {
+    "en": "The Bird",
+    "jp": "Tori"
+  },
+  "releasedAt": "1985-01-01T00:00:00.000Z",
+  "finishedAt": "1985-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10841/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10841",
+    "anilist/anime": "102520",
+    "aozora": "1kc1zJYqKS",
+    "myanimelist/anime": "30336"
+  }
+}

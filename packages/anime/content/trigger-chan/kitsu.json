@@ -1,0 +1,25 @@
+{
+  "slug": "trigger-chan",
+  "synopsis": "The fifth anniversary of Trigger has been marked with a Uchuu Patrol Luluco marathon on NND that ended with a special animated sequence featuring mascot Trigger-chan and her buddies Muzzle and Spring.\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Trigger-chan"
+  },
+  "releasedAt": "2016-08-22T00:00:00.000Z",
+  "finishedAt": "2016-08-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12546/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12546/original.png",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12546",
+    "anidb": "12508",
+    "anilist/anime": "99002",
+    "aozora": "EEfZM8F1Mi",
+    "myanimelist/anime": "33934"
+  }
+}

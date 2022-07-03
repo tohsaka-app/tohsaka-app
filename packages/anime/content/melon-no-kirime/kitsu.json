@@ -1,0 +1,25 @@
+{
+  "slug": "melon-no-kirime",
+  "synopsis": "Music video for the song Melon no Kirime by Fumie Hosokawa that was featured on NHK's Minna no Uta program. The video was animated by Yuuji Moriyama.",
+  "title": {
+    "en": "The Melon's End",
+    "jp": "Melon no Kirime"
+  },
+  "releasedAt": "1993-08-01T00:00:00.000Z",
+  "finishedAt": "1993-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45226/poster_image/bf731240683b93a4f392e09e07e5564a.jpg",
+  "categories": [
+    "kids",
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45226",
+    "anilist/anime": "140240",
+    "myanimelist/anime": "40655"
+  }
+}

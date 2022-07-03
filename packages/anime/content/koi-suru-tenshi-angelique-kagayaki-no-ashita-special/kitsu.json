@@ -1,0 +1,25 @@
+{
+  "slug": "koi-suru-tenshi-angelique-kagayaki-no-ashita-special",
+  "synopsis": "A DVD-only special episode which gives us a glimpse of what happens after Angelique completes her mission.",
+  "title": {
+    "en": "Loving Angel Angelique: Radiant Tomorrow Special",
+    "jp": "Koisuru Tenshi Angelique: Kagayaki no Ashita Special"
+  },
+  "releasedAt": "2007-04-08T00:00:00.000Z",
+  "finishedAt": "2007-04-08T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4943/original.jpg",
+  "categories": [
+    "fantasy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4943",
+    "anilist/anime": "7333",
+    "aozora": "OmRetvHYvR",
+    "myanimelist/anime": "7333"
+  }
+}

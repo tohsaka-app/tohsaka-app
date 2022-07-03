@@ -1,0 +1,27 @@
+{
+  "slug": "waanabi-jk",
+  "synopsis": "Promotion videos for Kenichi Kuroi's web manga \"Waanabi.jk\", commissioned by Studio DEEN.",
+  "title": {
+    "en": "I wanna be!",
+    "jp": "Waanabi.jk"
+  },
+  "releasedAt": "2013-07-29T00:00:00.000Z",
+  "finishedAt": "2015-09-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8238/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8238",
+    "anidb": "11541",
+    "anilist/anime": "19811",
+    "aozora": "AptPvUCIqS",
+    "myanimelist/anime": "19811"
+  }
+}

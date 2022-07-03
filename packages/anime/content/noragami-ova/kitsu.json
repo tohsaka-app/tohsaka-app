@@ -1,0 +1,28 @@
+{
+  "slug": "noragami-ova",
+  "synopsis": "Bundled with the limited editions of the 10th and 11th volumes of the manga.\n10th volume DVD adapts the 25th chapter of the manga.\n11th volume DVD adapts the popular cherry blossom-viewing arc.\n(Source: MAL News)",
+  "title": {
+    "jp": "Noragami OVA"
+  },
+  "releasedAt": "2014-02-17T00:00:00.000Z",
+  "finishedAt": "2014-07-17T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8152/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8152/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "contemporary fantasy",
+    "ghost"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8152",
+    "anidb": "10179",
+    "anilist/anime": "20494",
+    "aozora": "hNjBYtMPEF",
+    "myanimelist/anime": "20767"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "darker-than-black-kuro-no-keiyakusha-gaiden",
+  "synopsis": "Tells the story of what happened to Yin and Hei between the first and second series.",
+  "title": {
+    "jp": "Darker than Black: Kuro no Keiyakusha Gaiden"
+  },
+  "releasedAt": "2010-01-27T00:00:00.000Z",
+  "finishedAt": "2010-07-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4947/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4947/original.jpg",
+  "categories": [
+    "action",
+    "mystery",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4947",
+    "anilist/anime": "7338",
+    "aozora": "3iWObTVQCZ",
+    "myanimelist/anime": "7338",
+    "trakt": "31580"
+  }
+}

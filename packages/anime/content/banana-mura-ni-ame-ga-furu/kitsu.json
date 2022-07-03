@@ -1,0 +1,25 @@
+{
+  "slug": "banana-mura-ni-ame-ga-furu",
+  "synopsis": "Music video featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Banana Mura ni Ame ga Furu"
+  },
+  "releasedAt": "1987-08-01T00:00:00.000Z",
+  "finishedAt": "1987-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10238/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10238",
+    "anidb": "11506",
+    "anilist/anime": "103954",
+    "aozora": "lcps0TX9oK",
+    "myanimelist/anime": "29107"
+  }
+}

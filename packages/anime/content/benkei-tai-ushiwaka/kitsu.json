@@ -1,0 +1,25 @@
+{
+  "slug": "benkei-tai-ushiwaka",
+  "synopsis": "Benkei tai Ushiwaka is a short animated Japanese film made in 1939 by Kenzō Masaoka. It is based on the legendary encounter between Saitō Musashibō Benkei, who was collecting swords for the Buddha, and Minamoto no Yoshitsune, who was called Ushiwaka in his youth.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Benkei tai Ushiwaka"
+  },
+  "releasedAt": "1939-07-01T00:00:00.000Z",
+  "finishedAt": "1939-07-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6763/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6763",
+    "anidb": "6859",
+    "anilist/anime": "12561",
+    "aozora": "2TKEOIcX4f",
+    "myanimelist/anime": "12561"
+  }
+}

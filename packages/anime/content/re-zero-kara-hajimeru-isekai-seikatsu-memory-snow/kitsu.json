@@ -1,0 +1,32 @@
+{
+  "slug": "re-zero-kara-hajimeru-isekai-seikatsu-memory-snow",
+  "synopsis": "The Re:Zero kara Hajimeru Isekai Seikatsu stage event at the MF Bunko J Summer School Festival 2017 announced that the series will receive a new OVA.\n\n(Source: MAL News)",
+  "title": {
+    "en": "Re:ZERO -Starting Life in Another World- Memory Snow",
+    "jp": "Re:Zero kara Hajimeru Isekai Seikatsu: Memory Snow"
+  },
+  "releasedAt": "2018-10-06T00:00:00.000Z",
+  "finishedAt": "2018-10-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13882/original.jpg",
+  "categories": [
+    "fantasy",
+    "isekai",
+    "magic",
+    "parallel universe",
+    "psychological",
+    "thriller"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/rezero-starting-life-in-another-world-"
+  ],
+  "relations": {
+    "kitsu": "13882",
+    "anidb": "13430",
+    "anilist/anime": "100049",
+    "animenewsnetwork": "20773",
+    "myanimelist/anime": "36286"
+  }
+}

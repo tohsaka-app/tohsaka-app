@@ -1,0 +1,25 @@
+{
+  "slug": "hikaru-no-go-special",
+  "synopsis": "Alternate version of the story featured in episode 64 of Hikaru no Go.",
+  "title": {
+    "jp": "Hikaru no Go: Tokubetsu-hen - Sabaki no Ichikyoku! Inishie no Hana yo Sake!!"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6340/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6340",
+    "anilist/anime": "10765",
+    "aozora": "dslBP4GQ7M",
+    "myanimelist/anime": "10765"
+  }
+}

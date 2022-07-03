@@ -1,0 +1,25 @@
+{
+  "slug": "present-made-no-michinori",
+  "synopsis": "Short animation by Rapparu.",
+  "title": {
+    "jp": "Present made no Michinori"
+  },
+  "releasedAt": "2009-03-22T00:00:00.000Z",
+  "finishedAt": "2009-03-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12071/original.jpg",
+  "categories": [
+    "action",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12071",
+    "anidb": "12695",
+    "anilist/anime": "145913",
+    "aozora": "8ZHlWSXOdn",
+    "myanimelist/anime": "32296"
+  }
+}

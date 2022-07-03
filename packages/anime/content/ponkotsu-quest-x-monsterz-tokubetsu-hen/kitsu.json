@@ -1,0 +1,20 @@
+{
+  "slug": "ponkotsu-quest-x-monsterz-tokubetsu-hen",
+  "synopsis": "A collaboration promotion between the <i>Ponkotsu Quest</i> anime and the <i>Monsterz</i> live action horror film (which is a remake of a South Korean film titled  Haunters) airing in theaters.",
+  "title": {
+    "jp": "Ponkotsu Quest x Monsterz"
+  },
+  "releasedAt": "2014-05-25T00:00:00.000Z",
+  "finishedAt": "2014-05-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40623/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40623",
+    "aozora": "XpZoDNDUJT",
+    "myanimelist/anime": "34843"
+  }
+}

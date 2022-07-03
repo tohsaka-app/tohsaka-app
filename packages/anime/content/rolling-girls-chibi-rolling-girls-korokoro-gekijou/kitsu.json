@@ -1,0 +1,23 @@
+{
+  "slug": "rolling-girls-chibi-rolling-girls-korokoro-gekijou",
+  "synopsis": "Short specials included with the Blu-rays and DVDs.",
+  "title": {
+    "jp": "Rolling☆Girls: Chibi☆Rolling☆Girls Korokoro Gekijou"
+  },
+  "releasedAt": "2015-03-18T00:00:00.000Z",
+  "finishedAt": "2015-08-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10863/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10863",
+    "anilist/anime": "102077",
+    "aozora": "cjzodenb8a",
+    "myanimelist/anime": "30499"
+  }
+}

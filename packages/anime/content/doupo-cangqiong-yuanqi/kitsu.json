@@ -1,0 +1,24 @@
+{
+  "slug": "doupo-cangqiong-yuanqi",
+  "synopsis": "Remake of the first season of Doupo Cangqiong.",
+  "title": {},
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45949/poster_image/260ff406c2863da4257594df11bc08e7.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45949",
+    "anilist/anime": "137730",
+    "myanimelist/anime": "51038"
+  }
+}

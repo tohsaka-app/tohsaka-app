@@ -1,0 +1,31 @@
+{
+  "slug": "one-piece-film-gold-episode-0-711-ver",
+  "synopsis": "A short prequel to One Piece Film: Gold featuring the nine Straw hat crew members on the ship, planning what to do when they arrive the Casino.",
+  "title": {
+    "en": "ONE PIECE FILM GOLD 〜episode 0〜 711ver.",
+    "jp": "One Piece Film: Gold Episode 0 - 711 ver."
+  },
+  "releasedAt": "2016-07-02T00:00:00.000Z",
+  "finishedAt": "2016-07-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12306/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "pirate",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12306",
+    "anilist/anime": "21880",
+    "aozora": "g43SsRHeoO",
+    "myanimelist/anime": "33606"
+  }
+}

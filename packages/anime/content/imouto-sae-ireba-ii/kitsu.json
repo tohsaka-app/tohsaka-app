@@ -1,0 +1,30 @@
+{
+  "slug": "imouto-sae-ireba-ii",
+  "synopsis": "The story follows siscon novelist Itsuki Hashima, his perfect sibling Chihiro, obsessed genius illustrator Kani Nayuta, peer/friend Shirakawa Kyoto and other crazy figures from the publishing industry.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "A Sister's All You Need",
+    "jp": "Imouto sae Ireba Ii."
+  },
+  "releasedAt": "2017-10-08T00:00:00.000Z",
+  "finishedAt": "2017-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11207/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11207/original.jpg",
+  "categories": [
+    "comedy",
+    "romance"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/a-sisters-all-you-need"
+  ],
+  "relations": {
+    "kitsu": "11207",
+    "anidb": "11352",
+    "anilist/anime": "98596",
+    "aozora": "fw07WCVLiX",
+    "myanimelist/anime": "35413",
+    "thetvdb": "332994/1"
+  }
+}

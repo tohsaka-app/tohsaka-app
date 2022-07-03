@@ -1,0 +1,26 @@
+{
+  "slug": "ga-geijutsuka-art-design-class-ova",
+  "synopsis": "GA: Geijutsuka Art Design Class OVA. \"I Want to Draw the Blue Sky\"",
+  "title": {
+    "jp": "GA: Geijutsuka Art Design Class: Aozora ga Kakitai"
+  },
+  "releasedAt": "2010-04-02T00:00:00.000Z",
+  "finishedAt": "2010-04-02T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4808/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4808/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4808",
+    "anilist/anime": "6959",
+    "aozora": "VwUyt0myvt",
+    "myanimelist/anime": "6959"
+  }
+}

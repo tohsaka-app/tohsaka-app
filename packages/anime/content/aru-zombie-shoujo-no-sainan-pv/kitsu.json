@@ -1,0 +1,25 @@
+{
+  "slug": "aru-zombie-shoujo-no-sainan-pv",
+  "synopsis": "Promotional video for an anime adaptation of the Aru Zombie Shoujo novel series. Though uploaded in July 2012, the proposed adaptation never came to fruition.",
+  "title": {
+    "jp": "Aru Zombie Shoujo no Sainan"
+  },
+  "releasedAt": "2012-07-01T00:00:00.000Z",
+  "finishedAt": "2012-07-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11093/original.jpg",
+  "categories": [
+    "action",
+    "horror",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11093",
+    "anidb": "9285",
+    "aozora": "yPIEknAn3K",
+    "myanimelist/anime": "31014"
+  }
+}

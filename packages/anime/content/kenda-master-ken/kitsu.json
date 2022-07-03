@@ -1,0 +1,28 @@
+{
+  "slug": "kenda-master-ken",
+  "synopsis": "Ken Tamaki defeats corrupt organizations and even finds love through his favorite pastime, the Japanese skill toy \"kendama.\" But kendama is no mere toy. The stakes are high and Ken will have to fight for his right to play in KENDA MASTER KEN!\n\n(Source: HDIVE)",
+  "title": {
+    "en": "Kenda Master Ken",
+    "jp": "Kenda Master Ken"
+  },
+  "releasedAt": "2022-04-01T00:00:00.000Z",
+  "finishedAt": "2022-06-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/46161/poster_image/10c1bdf9005415e9411d82f5b1fdf9c9.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/46161/cover_image/bb0f0fb82e598ee8144c6c2dd91b3a65.png",
+  "categories": [
+    "absurdist humour",
+    "action",
+    "comedy",
+    "high school",
+    "parody",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46161",
+    "myanimelist/anime": "51636"
+  }
+}

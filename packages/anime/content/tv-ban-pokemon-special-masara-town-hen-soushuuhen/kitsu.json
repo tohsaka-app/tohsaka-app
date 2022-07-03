@@ -1,0 +1,30 @@
+{
+  "slug": "tv-ban-pokemon-special-masara-town-hen-soushuuhen",
+  "synopsis": "A summary compilation of the Kanto season of Pocket Monsters.\n(Source: AniDB)",
+  "title": {
+    "jp": "TV-ban Pokemon Special Masara Town-hen Recaps"
+  },
+  "releasedAt": "2000-09-29T00:00:00.000Z",
+  "finishedAt": "2000-09-29T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12149/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12149/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12149",
+    "anidb": "9871",
+    "aozora": "Qg8J5WWPSU",
+    "myanimelist/anime": "31750"
+  }
+}

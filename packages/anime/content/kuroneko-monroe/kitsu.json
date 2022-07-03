@@ -1,0 +1,23 @@
+{
+  "slug": "kuroneko-monroe",
+  "synopsis": "The series follows the black cat Monroe and the human Yoppy and their \"normal and special everyday lives.\"\n\n(Source: ANN)",
+  "title": {
+    "jp": "Kuroneko Monroe"
+  },
+  "releasedAt": "2018-04-17T00:00:00.000Z",
+  "finishedAt": "2018-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41144/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41144",
+    "anidb": "13809",
+    "anilist/anime": "101279",
+    "myanimelist/anime": "37325"
+  }
+}

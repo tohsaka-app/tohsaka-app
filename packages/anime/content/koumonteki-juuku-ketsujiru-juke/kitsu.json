@@ -1,0 +1,27 @@
+{
+  "slug": "koumonteki-juuku-ketsujiru-juke",
+  "synopsis": "Short film by Sawako Kabuki.",
+  "title": {
+    "en": "Anal Juke: Anal Juice",
+    "jp": "Koumon-teki Juuku Ketsujiru Juke"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11239/original.jpg",
+  "categories": [
+    "comedy",
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11239",
+    "anidb": "11648",
+    "anilist/anime": "103370",
+    "aozora": "7CvvNwCfou",
+    "myanimelist/anime": "30860"
+  }
+}

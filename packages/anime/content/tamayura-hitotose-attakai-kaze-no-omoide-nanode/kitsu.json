@@ -1,0 +1,26 @@
+{
+  "slug": "tamayura-hitotose-attakai-kaze-no-omoide-nanode",
+  "synopsis": "Extra episode in the 7th Blu-ray and DVD volumes.",
+  "title": {
+    "jp": "Tamayura: Hitotose - Attakai Kaze no Omoide, Nanode"
+  },
+  "releasedAt": "2012-06-27T00:00:00.000Z",
+  "finishedAt": "2012-06-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6603/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6603/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6603",
+    "anilist/anime": "11793",
+    "aozora": "R704uDl129",
+    "myanimelist/anime": "11793"
+  }
+}

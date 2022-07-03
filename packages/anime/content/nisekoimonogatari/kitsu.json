@@ -1,0 +1,25 @@
+{
+  "slug": "nisekoimonogatari",
+  "synopsis": "Trailer for a fake crossover anime created by Shaft as an April Fools' Day joke, celebrating their 40th anniversary.",
+  "title": {
+    "jp": "Nisekoimonogatari"
+  },
+  "releasedAt": "2015-04-01T00:00:00.000Z",
+  "finishedAt": "2015-04-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10802/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10802/original.jpg",
+  "categories": [
+    "music",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10802",
+    "anilist/anime": "106495",
+    "aozora": "tUhuaUaofX",
+    "myanimelist/anime": "30514"
+  }
+}

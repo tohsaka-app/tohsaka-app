@@ -1,0 +1,33 @@
+{
+  "slug": "akagami-no-shirayuki-hime-2",
+  "synopsis": "In the second season of Akagami no Shirayuki-hime, Shirayuki continues her adventures, this time returning to her home country of Tanbarun. What adventures and misfortunes will befall her and her crew? Life is dangerous for those with rare red hair!",
+  "title": {
+    "en": "Snow White with the Red Hair 2",
+    "jp": "Akagami no Shirayuki-hime 2nd Season"
+  },
+  "releasedAt": "2016-01-12T00:00:00.000Z",
+  "finishedAt": "2016-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11179/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11179/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "romance"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/37057/",
+    "https://www.hulu.com/snow-white-with-the-red-hair"
+  ],
+  "relations": {
+    "kitsu": "11179",
+    "anidb": "11348",
+    "anilist/anime": "21258",
+    "aozora": "oCuu6fcKer",
+    "myanimelist/anime": "31173",
+    "thetvdb": "295205/1",
+    "trakt": "98731"
+  }
+}

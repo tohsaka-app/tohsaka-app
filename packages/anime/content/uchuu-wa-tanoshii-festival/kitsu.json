@@ -1,0 +1,24 @@
+{
+  "slug": "uchuu-wa-tanoshii-festival",
+  "synopsis": "Music video for the song Uchuu wa Tanoshii Festival by singer duo Cherish that was featured on NHK's Minna no Uta program. The video was animated by Taku Furukawa.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Uchuu wa Tanoshii Festival"
+  },
+  "releasedAt": "1988-04-01T00:00:00.000Z",
+  "finishedAt": "1988-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44769/original.jpg",
+  "categories": [
+    "kids",
+    "music",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44769",
+    "anilist/anime": "125204",
+    "myanimelist/anime": "42895"
+  }
+}

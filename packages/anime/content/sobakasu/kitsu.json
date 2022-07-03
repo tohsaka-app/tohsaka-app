@@ -1,0 +1,23 @@
+{
+  "slug": "sobakasu",
+  "synopsis": "Music video for Lon's cover of Sobakasu by the band Judy and Mary. The original song was the 1st opening theme song to Rurouni Kenshin. Lon's cover was in honor of their \"Lon Kaba－J-POP ZOO－\" album going on sale the following day.\n",
+  "title": {
+    "jp": "Sobakasu"
+  },
+  "releasedAt": "2015-08-25T00:00:00.000Z",
+  "finishedAt": "2015-08-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41296/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41296",
+    "anilist/anime": "106569",
+    "myanimelist/anime": "37537"
+  }
+}

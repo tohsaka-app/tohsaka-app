@@ -1,0 +1,26 @@
+{
+  "slug": "strike-the-blood-kieta-seisou-hen",
+  "synopsis": "",
+  "title": {
+    "jp": "Strike the Blood: Kieta Seisou-hen"
+  },
+  "releasedAt": "2020-01-29T00:00:00.000Z",
+  "finishedAt": "2020-01-29T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42612/original.jpg",
+  "categories": [
+    "action",
+    "ecchi",
+    "fantasy",
+    "supernatural",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42612",
+    "anilist/anime": "112324",
+    "myanimelist/anime": "40486"
+  }
+}

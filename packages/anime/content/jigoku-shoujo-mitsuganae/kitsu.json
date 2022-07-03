@@ -1,0 +1,37 @@
+{
+  "slug": "jigoku-shoujo-mitsuganae",
+  "synopsis": "After the events of the second season, Ai's three helpers, Ichimoku Ren, Wanyuudou, and Hone-Onna live out their lives in relative peace. This is suddenly shattered when Kikuri returns to recruit them. Meanwhile, Ai mysteriously reappears from the dead and uses the body of a young schoolgirl, Yuzuki Mikage, to continue the Jigoku Tsuushin operation. Yuzuki is aware of Ai's presence, however, when she can see what Ai sees.",
+  "title": {
+    "en": "Hell Girl: Three Vessels",
+    "jp": "Jigoku Shoujo Mitsuganae"
+  },
+  "releasedAt": "2008-10-04T00:00:00.000Z",
+  "finishedAt": "2009-04-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3210/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3210/original.jpg",
+  "categories": [
+    "angst",
+    "asia",
+    "drama",
+    "earth",
+    "horror",
+    "japan",
+    "mystery",
+    "present",
+    "psychological",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3210",
+    "anidb": "5850",
+    "anilist/anime": "3713",
+    "aozora": "KHZvvCn6Ds",
+    "myanimelist/anime": "3713",
+    "thetvdb": "79106",
+    "trakt": "8927"
+  }
+}

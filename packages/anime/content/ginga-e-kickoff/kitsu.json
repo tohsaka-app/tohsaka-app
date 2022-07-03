@@ -1,0 +1,34 @@
+{
+  "slug": "ginga-e-kickoff",
+  "synopsis": "The story follows a boy who was in a soccer team, but it was disbanded due to not enough players. However, after the boy meets a female professional soccer player, he aims to bring his soccer team back.\n(Source: AniDB)",
+  "title": {
+    "jp": "Ginga e Kickoff!!"
+  },
+  "releasedAt": "2012-03-26T00:00:00.000Z",
+  "finishedAt": "2013-02-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6832/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "japan",
+    "plot continuity",
+    "present",
+    "school life",
+    "soccer",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6832",
+    "anidb": "8923",
+    "anilist/anime": "12875",
+    "aozora": "movgATlvE6",
+    "myanimelist/anime": "12875",
+    "thetvdb": "258125/1",
+    "thetvdb/series": "258125",
+    "trakt": "43796"
+  }
+}

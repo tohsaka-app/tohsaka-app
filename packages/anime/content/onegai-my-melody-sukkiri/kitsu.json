@@ -1,0 +1,26 @@
+{
+  "slug": "onegai-my-melody-sukkiri",
+  "synopsis": "The third series of Onegai My Melody.",
+  "title": {
+    "jp": "Onegai My Melody Sukkiri♪"
+  },
+  "releasedAt": "2007-04-01T00:00:00.000Z",
+  "finishedAt": "2008-03-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4132/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4132",
+    "anidb": "5158",
+    "anilist/anime": "5520",
+    "aozora": "qSc4No6yCM",
+    "myanimelist/anime": "5520"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "ginga-eiyuu-densetsu-die-neue-these-kaikou",
+  "synopsis": "In humanity's distant future, two interstellar states—the monarchic Galactic Empire and the democratic Free Planets Alliance—are embroiled in a never-ending war. The story focuses on the exploits of rivals Reinhard von Müsel and Yang Wen Li as they rise to power and fame in the Galactic Empire and the Free Planets Alliance.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "The Legend of the Galactic Heroes The New Thesis: Star-Crossed",
+    "jp": "Ginga Eiyuu Densetsu: Die Neue These - Kaikou"
+  },
+  "releasedAt": "2018-04-03T00:00:00.000Z",
+  "finishedAt": "2018-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11331/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11331/original.png",
+  "categories": [
+    "action",
+    "drama",
+    "military",
+    "politics",
+    "science fiction",
+    "space"
+  ],
+  "externals": [
+    "crunchyroll.com/legend-of-the-galactic-heroes-die-neue-these",
+    "funimation.com/shows/legend-of-the-galactic-heroes-die-neue-these/?qid=c70ea5fcab904d45",
+    "https://vrv.co/series/GRW4DXNEY/Legend-of-the-Galactic-Heroes-Die-Neue-These"
+  ],
+  "relations": {
+    "kitsu": "11331",
+    "anilist/anime": "20628",
+    "aozora": "xlhUQgoMtL",
+    "myanimelist/anime": "31433",
+    "thetvdb": "343237/1"
+  }
+}

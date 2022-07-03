@@ -1,0 +1,25 @@
+{
+  "slug": "myth-or-treat",
+  "synopsis": "Music video for the song Myth or Treat, performed by the members of Hololive Myth. Animated by Kanauru.",
+  "title": {
+    "en": "Myth or Treat"
+  },
+  "releasedAt": "2021-10-31T00:00:00.000Z",
+  "finishedAt": "2021-10-31T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45403/poster_image/651ef769c6bd1da662815ea48078e8ae.jpg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=VupT9JCJaOY"
+  ],
+  "relations": {
+    "kitsu": "45403"
+  }
+}

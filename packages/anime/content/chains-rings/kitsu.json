@@ -1,0 +1,26 @@
+{
+  "slug": "chains-rings",
+  "synopsis": "Music video for the song Chains &amp; Rings by Linda, created by Production I.G.",
+  "title": {
+    "en": "Chains & Rings",
+    "jp": "Chains & Rings"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5406/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5406",
+    "anidb": "12447",
+    "anilist/anime": "8628",
+    "aozora": "xrKeti0sV8",
+    "myanimelist/anime": "8628"
+  }
+}

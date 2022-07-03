@@ -1,0 +1,24 @@
+{
+  "slug": "hibike-wadaiko",
+  "synopsis": "An educational film about the Convention on the Rights of the Child in Japan. In the movie's example, a group of children are practicing taiko (drums) for a recital at the community center. Local adult residents force them to stop, saying that it's selfish for kids to disturb their peace. Their teacher tells them about the Convention on the Rights of the Child so they have the courage to stand up to the the adults to dispel the ideology of \"kids don't know anything. They need to shut up and do what we tell them.\"  ",
+  "title": {
+    "jp": "Hibike! Wadaiko"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9316/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9316",
+    "anidb": "10101",
+    "aozora": "OUXPfxa12d",
+    "myanimelist/anime": "26111"
+  }
+}

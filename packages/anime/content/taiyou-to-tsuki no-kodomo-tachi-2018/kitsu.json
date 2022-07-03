@@ -1,0 +1,23 @@
+{
+  "slug": "taiyou-to-tsuki no-kodomo-tachi-2018",
+  "synopsis": "A music video \"short version\" of V6's song Taiyou to Tsuki no Kodomo-tachi. Tokyo-based illustrator, Yu Nagaba, provided the animation.\n",
+  "title": {
+    "jp": "Taiyou to Tsuki no Kodomo-tachi (2018)"
+  },
+  "releasedAt": "2018-04-01T00:00:00.000Z",
+  "finishedAt": "2018-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41179/original.jpg",
+  "categories": [
+    "family",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41179",
+    "myanimelist/anime": "37670"
+  }
+}

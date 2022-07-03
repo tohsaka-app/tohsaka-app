@@ -1,0 +1,41 @@
+{
+  "slug": "selector-spread-wixoss",
+  "synopsis": "Get ready for the thrilling second season of the WIXOSS series! Immerse yourself in a game where special cards called LRIGs—cards that possess personalities and wills of their own—can change your life forever. Teenager Ruko holds one of these rare cards, and if she wins, her wish will be granted. But what happens if she loses?\n(Source: FUNimation)",
+  "title": {
+    "en": "Selector Spread WIXOSS",
+    "jp": "Selector Spread WIXOSS"
+  },
+  "releasedAt": "2014-10-04T00:00:00.000Z",
+  "finishedAt": "2014-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8468/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8468/original.jpg",
+  "categories": [
+    "angst",
+    "card games",
+    "coming of age",
+    "drama",
+    "friendship",
+    "magical girl",
+    "present",
+    "proxy battles",
+    "psychological"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/selector",
+    "http://www.funimation.com/shows/45470"
+  ],
+  "relations": {
+    "kitsu": "8468",
+    "anidb": "10698",
+    "anilist/anime": "20714",
+    "aozora": "sOuemL9jp0",
+    "myanimelist/anime": "24037",
+    "thetvdb": "278327/2",
+    "thetvdb/season": "588871",
+    "thetvdb/series": "278327",
+    "trakt": "60373"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "tobidashi-wa-abunaizo-mushi-mushi-mura-no-koutsuu-anzen",
+  "synopsis": "An educational film about traffic safety starring insects. This film talks about more advanced traffic safety rules.",
+  "title": {
+    "jp": "Tobidashi wa Abunaizo! Mushi Mushi Mura no Koutsuu Anzen"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11036/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11036",
+    "aozora": "vW0GzCtp99",
+    "myanimelist/anime": "30928"
+  }
+}

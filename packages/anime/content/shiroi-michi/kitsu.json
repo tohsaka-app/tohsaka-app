@@ -1,0 +1,24 @@
+{
+  "slug": "shiroi-michi",
+  "synopsis": "A 1983 song featured in NHK's Minna no Uta",
+  "title": {
+    "jp": "Shiroi Michi"
+  },
+  "releasedAt": "1983-12-01T00:00:00.000Z",
+  "finishedAt": "1983-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5445/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5445",
+    "anidb": "12639",
+    "anilist/anime": "8696",
+    "aozora": "fv4jadJEOp",
+    "myanimelist/anime": "8696"
+  }
+}

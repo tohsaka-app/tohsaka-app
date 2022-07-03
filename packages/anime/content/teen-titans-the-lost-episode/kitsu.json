@@ -1,0 +1,25 @@
+{
+  "slug": "teen-titans-the-lost-episode",
+  "synopsis": "The Lost Episode is a special episode only shown on Postopia as part of an online campaign to promote the Teen Titans series. It was later released on DVD as an extra feature on Trouble in Tokyo. ",
+  "title": {
+    "en": "",
+    "jp": "Teen Titans: The Lost Episode"
+  },
+  "releasedAt": "2005-01-11T00:00:00.000Z",
+  "finishedAt": "2005-01-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11483/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11483"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "atarashii-sekai",
+  "synopsis": "Official animated video to the Asian Kung-Fu Generation song \"Atarashii Sekai\" from their fourth album, World World World.",
+  "title": {
+    "en": "New World",
+    "jp": "Atarashii Sekai"
+  },
+  "releasedAt": "2008-03-05T00:00:00.000Z",
+  "finishedAt": "2008-03-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4601/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4601",
+    "anidb": "11417",
+    "anilist/anime": "6533",
+    "aozora": "okPA2dAxYY",
+    "myanimelist/anime": "6533"
+  }
+}

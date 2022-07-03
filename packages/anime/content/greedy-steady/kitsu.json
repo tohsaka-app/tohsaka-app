@@ -1,0 +1,21 @@
+{
+  "slug": "greedy-steady",
+  "synopsis": "Indie animation by HARUKA SUZUKI.",
+  "title": {
+    "jp": "Greedy Steady"
+  },
+  "releasedAt": "2010-04-21T00:00:00.000Z",
+  "finishedAt": "2010-04-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45152/original.png",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45152",
+    "anilist/anime": "127979"
+  }
+}

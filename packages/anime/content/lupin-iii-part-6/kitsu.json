@@ -1,0 +1,31 @@
+{
+  "slug": "lupin-iii-part-6",
+  "synopsis": "Gentleman thief Lupin III is back and ready for his next caper— unless legendary sleuth, Sherlock Holmes, has anything to say about it! When Holmes' longtime partner, Dr. Watson, is murdered, none other than Lupin tops the suspect's list. With Holmes fast closing in, Lupin must prove his innocence and bring a shadowy organization called The Raven to heel if he wants to live to steal another day.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Lupin the Third: Part 6",
+    "jp": "Lupin Sansei: Part 6"
+  },
+  "releasedAt": "2021-10-09T00:00:00.000Z",
+  "finishedAt": "2022-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44618/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44618/cover_image/e992cbe0c9a80a74faf90367831c1757.png",
+  "categories": [
+    "action",
+    "crime",
+    "europe",
+    "present",
+    "seinen",
+    "thievery"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/lupin-the-3rd-part-6"
+  ],
+  "relations": {
+    "kitsu": "44618",
+    "anilist/anime": "134623",
+    "myanimelist/anime": "49040"
+  }
+}

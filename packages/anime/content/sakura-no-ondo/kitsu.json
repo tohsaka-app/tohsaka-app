@@ -1,0 +1,24 @@
+{
+  "slug": "sakura-no-ondo",
+  "synopsis": "Original animated movie by ufotable. Screened at the studio's cinema and at the Sapporo short film festival. ",
+  "title": {
+    "jp": "Sakura no Ondo"
+  },
+  "releasedAt": "2011-10-29T00:00:00.000Z",
+  "finishedAt": "2011-10-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7248/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7248",
+    "anidb": "8404",
+    "anilist/anime": "15393",
+    "aozora": "smPj34BPsq",
+    "myanimelist/anime": "15393"
+  }
+}

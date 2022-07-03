@@ -1,0 +1,27 @@
+{
+  "slug": "duel-masters-2018",
+  "synopsis": "",
+  "title": {
+    "jp": "Duel Masters!"
+  },
+  "releasedAt": "2018-04-01T00:00:00.000Z",
+  "finishedAt": "2019-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41078/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "card games",
+    "comedy",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41078",
+    "anidb": "13914",
+    "anilist/anime": "101425",
+    "myanimelist/anime": "37484"
+  }
+}

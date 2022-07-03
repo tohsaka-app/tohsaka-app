@@ -1,0 +1,24 @@
+{
+  "slug": "gyokou-no-nikuko-chan",
+  "synopsis": "The story centers on the growth and paths in life of Nikuko and Kikuko, a mother and daughter who lives on a boat.\n\n(Source: MAL News)",
+  "title": {
+    "en": "Fortune Favors Lady Nikuko",
+    "jp": "Gyokou no Nikuko-chan"
+  },
+  "releasedAt": "2021-06-11T00:00:00.000Z",
+  "finishedAt": "2021-06-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44395/original.png",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44395",
+    "anidb": "15963",
+    "anilist/anime": "127958",
+    "myanimelist/anime": "45620"
+  }
+}

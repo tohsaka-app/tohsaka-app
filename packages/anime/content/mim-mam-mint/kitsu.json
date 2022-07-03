@@ -1,0 +1,23 @@
+{
+  "slug": "mim-mam-mint",
+  "synopsis": "Two girls, based on the real-life models Mim and Mam, received a strange creature that is 70% rabbit and 30% bear.",
+  "title": {
+    "jp": "Mim Mam Mint"
+  },
+  "releasedAt": "2015-12-24T00:00:00.000Z",
+  "finishedAt": "2016-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11663/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11663",
+    "anilist/anime": "21571",
+    "aozora": "EJIHMsNn0Y",
+    "myanimelist/anime": "32402"
+  }
+}

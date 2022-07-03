@@ -1,0 +1,27 @@
+{
+  "slug": "heisei-tensai-bakabon",
+  "synopsis": "A comedy about a former genius who has now become very eccentric and senile. His family deals with all the crazy problems he and his old friends cause around the neighborhood.\n(Source: AniDB)",
+  "title": {
+    "jp": "Heisei Tensai Bakabon"
+  },
+  "releasedAt": "1990-01-06T00:00:00.000Z",
+  "finishedAt": "1990-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8996/original.jpg",
+  "categories": [
+    "comedy",
+    "family",
+    "japan",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8996",
+    "anidb": "3422",
+    "anilist/anime": "19961",
+    "aozora": "kirb6mLGj4",
+    "myanimelist/anime": "19961"
+  }
+}

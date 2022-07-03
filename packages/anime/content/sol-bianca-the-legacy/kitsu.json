@@ -1,0 +1,31 @@
+{
+  "slug": "sol-bianca-the-legacy",
+  "synopsis": "Thousands of years into the future, mankind has colonized other planets across the galaxy and completely forgotten about Earth. On one part of the galaxy, the female space pirates and their colossal starship Sol Bianca get a surprise when a young girl named Mayo stows away on board the ship. The crew then embarks on a journey to Earth to find the whereabouts of Mayo's parents and discover the secrets of the lost planet. \n(Source: ANN)",
+  "title": {
+    "en": "Sol Bianca: The Legacy",
+    "jp": "Sol Bianca: Taiyou no Fune"
+  },
+  "releasedAt": "1999-09-24T00:00:00.000Z",
+  "finishedAt": "2000-10-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1297/original.jpg",
+  "categories": [
+    "adventure",
+    "future",
+    "mecha",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1297",
+    "anidb": "97",
+    "anilist/anime": "1444",
+    "aozora": "2HPq7bTzJS",
+    "myanimelist/anime": "1444"
+  }
+}

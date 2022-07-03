@@ -1,0 +1,28 @@
+{
+  "slug": "ginga-kikoutai-majestic-prince-movie",
+  "synopsis": "A new film was announced at AnimeJapan 2016 and is scheduled to premiere this fall with a completely new story.\n\n(Source: ANN)",
+  "title": {
+    "en": "Majestic Prince The Movie: Awakened Genes",
+    "jp": "Ginga Kikoutai Majestic Prince Movie: Kakusei no Idenshi"
+  },
+  "releasedAt": "2016-11-04T00:00:00.000Z",
+  "finishedAt": "2016-11-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12003/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "school life",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12003",
+    "anilist/anime": "21750",
+    "aozora": "DuUL9SqMIG",
+    "myanimelist/anime": "33025"
+  }
+}

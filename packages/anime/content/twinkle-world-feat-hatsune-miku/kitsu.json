@@ -1,0 +1,24 @@
+{
+  "slug": "twinkle-world-feat-hatsune-miku",
+  "synopsis": "MMD music video for the song Twinkle World feat. Hatsune Miku by Hachioji-P. It was included on DVD with the release of his third studio album \"Twinkle World\" on August 27, 2014.",
+  "title": {
+    "jp": "Twinkle World feat. Hatsune Miku"
+  },
+  "releasedAt": "2014-08-11T00:00:00.000Z",
+  "finishedAt": "2014-08-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43478/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=NiIVTXTuQug"
+  ],
+  "relations": {
+    "kitsu": "43478",
+    "anilist/anime": "127164",
+    "myanimelist/anime": "40684"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hangyakusei-million-arthur-special",
+  "synopsis": "Unaired episode bundled with the sixth Blu-ray volume of the Hangyakusei Million Arthur anime series.\n",
+  "title": {
+    "jp": "Hangyakusei Million Arthur Special"
+  },
+  "releasedAt": "2019-10-02T00:00:00.000Z",
+  "finishedAt": "2019-10-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42634/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42634",
+    "anilist/anime": "111306",
+    "myanimelist/anime": "38601"
+  }
+}

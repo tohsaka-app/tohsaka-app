@@ -1,0 +1,20 @@
+{
+  "slug": "momotarou-no-kotsuu-anzen-kyoushitsu",
+  "synopsis": "A Momotarou themed traffic safety video.",
+  "title": {
+    "jp": "Momotarou no Koutsuu Anzen Kyoushitsu"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40711/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40711",
+    "aozora": "bqydnjCLZM",
+    "myanimelist/anime": "35153"
+  }
+}

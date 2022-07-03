@@ -1,0 +1,24 @@
+{
+  "slug": "wake-up",
+  "synopsis": "Music video for ClariS' single \"Wake Up.\" The song was used as the opening theme for Moyashimon Returns.",
+  "title": {
+    "jp": "Wake Up"
+  },
+  "releasedAt": "2012-08-15T00:00:00.000Z",
+  "finishedAt": "2012-08-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11616/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11616",
+    "anidb": "11619",
+    "anilist/anime": "104480",
+    "aozora": "a2yr8vdASZ",
+    "myanimelist/anime": "31568"
+  }
+}

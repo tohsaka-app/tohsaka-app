@@ -1,0 +1,23 @@
+{
+  "slug": "orbital-era ",
+  "synopsis": "The space science-fiction story follows the coming of age of youths on a space colony over the course of four seasons of the year.\n\n(Source: ANN)",
+  "title": {
+    "en": "Orbital Era",
+    "jp": "Orbital Era"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42437/original.jpg",
+  "categories": [
+    "coming of age",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42437"
+  }
+}

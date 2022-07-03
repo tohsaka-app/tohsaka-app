@@ -1,0 +1,27 @@
+{
+  "slug": "shiawasette-naani",
+  "synopsis": "Based on a series of books authored by Ryuho Ookawa. Alto is going home from school, when he finds a girl who calls herself an angel. ",
+  "title": {
+    "jp": "Shiawasette Naani"
+  },
+  "releasedAt": "1991-07-09T00:00:00.000Z",
+  "finishedAt": "1991-07-09T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6967/original.jpg",
+  "categories": [
+    "angel",
+    "fantasy",
+    "japan",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6967",
+    "anidb": "8503",
+    "anilist/anime": "13441",
+    "aozora": "FwWiJBcBmc",
+    "myanimelist/anime": "13441"
+  }
+}

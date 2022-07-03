@@ -1,0 +1,33 @@
+{
+  "slug": "kick-heart",
+  "synopsis": "Kick-Heart is a love story between Romeo, a successful pro-wrestler, and Juliet, a nun who lives a secret double-life as a female pro-wrestler. Romeo's secret is that he enjoys taking a beating in the ring, while Juliet feels invigorated when facing her opponents as a wrestler. When the two meet in the ring, the fireworks fly. Their story is set in the colorful backdrop of the professional wrestling world. Will Juliet reveal her true identity to the one she loves? Will Romeo be able to share his secret to the world?\n(Source: Kickstarter)",
+  "title": {
+    "jp": "Kick-Heart"
+  },
+  "releasedAt": "2013-05-26T00:00:00.000Z",
+  "finishedAt": "2013-05-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7378/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "sports",
+    "violence",
+    "wrestling"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7378",
+    "anidb": "9493",
+    "anilist/anime": "16149",
+    "aozora": "qdTO2jeWUw",
+    "myanimelist/anime": "16149"
+  }
+}

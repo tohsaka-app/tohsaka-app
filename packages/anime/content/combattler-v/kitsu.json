@@ -1,0 +1,36 @@
+{
+  "slug": "combattler-v",
+  "synopsis": "The first of Tadao Nagahama's Romance Super Robot Trilogy. (#2: Chou Denji Machine Voltes V, #3: Toushou Daimos)\nThousands of years ago, the people of the planet Campbell decided to leave their planet and seek out new worlds to inhabit. One group, lead by the scientist Oreana, landed on Earth, but was delayed from their mission. In the early 21st century, Oreana's group reawakens and begins their plan to conquer the Earth. The only effective defense against the Campbellians' giant biomechanical slave beasts is the super-electromagnetic robot, Combattler V and its pilots.\n(Source: AniDB)",
+  "title": {
+    "jp": "Chou Denji Robo Combattler V"
+  },
+  "releasedAt": "1976-04-17T00:00:00.000Z",
+  "finishedAt": "1977-05-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/955/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "android",
+    "earth",
+    "mecha",
+    "piloted robot",
+    "robot",
+    "robot helper",
+    "science fiction",
+    "super robot",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "955",
+    "anidb": "1814",
+    "anilist/anime": "1068",
+    "aozora": "146D6RbCVk",
+    "myanimelist/anime": "1068",
+    "thetvdb": "146511/1",
+    "thetvdb/series": "146511"
+  }
+}

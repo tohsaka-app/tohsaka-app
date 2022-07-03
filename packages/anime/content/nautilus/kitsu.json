@@ -1,0 +1,25 @@
+{
+  "slug": "nautilus",
+  "synopsis": "A music video for the song Nautilus by Yorushika.",
+  "title": {
+    "jp": "Nautilus"
+  },
+  "releasedAt": "2019-08-27T00:00:00.000Z",
+  "finishedAt": "2019-08-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43418/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=j83OVgv6woA"
+  ],
+  "relations": {
+    "kitsu": "43418",
+    "anilist/anime": "144449",
+    "myanimelist/anime": "41769"
+  }
+}

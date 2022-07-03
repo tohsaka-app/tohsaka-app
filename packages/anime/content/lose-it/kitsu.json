@@ -1,0 +1,24 @@
+{
+  "slug": "lose-it",
+  "synopsis": "Stop-motion concept movies for Super Junior-D&amp;E's Lose It song which received its digital release the same day. The music video series is streamed on Avex's official YouTube channel. ",
+  "title": {
+    "en": "LOSE IT",
+    "jp": "Lose It"
+  },
+  "releasedAt": "2018-03-28T00:00:00.000Z",
+  "finishedAt": "2018-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41172/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41172",
+    "anilist/anime": "102945",
+    "myanimelist/anime": "37639"
+  }
+}

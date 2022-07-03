@@ -1,0 +1,41 @@
+{
+  "slug": "little-busters-refrain",
+  "synopsis": "Riki and his friends have been managing to form a complete team for the Little Busters baseball team and after overcoming some of its new members' internal conflicts, Riki and Rin slowly approach the \"secret of this world.\"\nWill they be ready for the truth? In this world devoid of logic, something has started to move and soon will come the time when the lives of the Little Busters will change forever.\n(Source: Koi-nya, edited)",
+  "title": {
+    "en": "Little Busters! ~Refrain~",
+    "jp": "Little Busters!: Refrain"
+  },
+  "releasedAt": "2013-10-05T00:00:00.000Z",
+  "finishedAt": "2013-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7704/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7704/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "friendship",
+    "high school",
+    "present",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/little-busters",
+    "https://www.hidive.com/tv/little-busters-refrain"
+  ],
+  "relations": {
+    "kitsu": "7704",
+    "anidb": "9822",
+    "anilist/anime": "18195",
+    "aozora": "ar9Rc3B36H",
+    "hulu": "50013832",
+    "myanimelist/anime": "18195",
+    "thetvdb": "259638/2",
+    "thetvdb/season": "516215",
+    "thetvdb/series": "259638",
+    "trakt": "67795"
+  }
+}

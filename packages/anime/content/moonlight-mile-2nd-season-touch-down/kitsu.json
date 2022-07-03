@@ -1,0 +1,33 @@
+{
+  "slug": "moonlight-mile-2nd-season-touch-down",
+  "synopsis": "The second season of Moonlight Mile.",
+  "title": {
+    "jp": "Moonlight Mile 2nd Season: Touch Down"
+  },
+  "releasedAt": "2007-09-13T00:00:00.000Z",
+  "finishedAt": "2007-12-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2653/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "military",
+    "science fiction",
+    "shipboard",
+    "slice of life",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2653",
+    "anidb": "5020",
+    "anilist/anime": "2929",
+    "aozora": "41V0oEI6pf",
+    "myanimelist/anime": "2929",
+    "thetvdb": "80003",
+    "trakt": "26675"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hello-kitty-no-alps-no-shoujo-heidi-ii-klara-to-no-deai",
+  "synopsis": "Hello Kitty version of Heidi, a novel by Johanna Spyri.",
+  "title": {
+    "jp": "Hello Kitty no Alps no Shoujo Heidi II: Klara to no Deai"
+  },
+  "releasedAt": "1994-03-21T00:00:00.000Z",
+  "finishedAt": "1994-03-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9304/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9304",
+    "anidb": "7781",
+    "anilist/anime": "18587",
+    "aozora": "hu8zxFjvik",
+    "myanimelist/anime": "18587"
+  }
+}

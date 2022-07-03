@@ -1,0 +1,25 @@
+{
+  "slug": "hello-kitty-no-shoukoujo",
+  "synopsis": "A Hello Kitty telling of the classic A Little Princess novel.",
+  "title": {
+    "jp": "Hello Kitty no Shoukoujo"
+  },
+  "releasedAt": "1994-07-21T00:00:00.000Z",
+  "finishedAt": "1994-07-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9854/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9854",
+    "anidb": "7786",
+    "aozora": "XcxEK9Fp4e",
+    "myanimelist/anime": "22459"
+  }
+}

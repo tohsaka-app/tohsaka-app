@@ -1,0 +1,22 @@
+{
+  "slug": "detective-conan-let-s-experience-the-jomon-period",
+  "synopsis": "Let's Experience the Jomon Period!",
+  "title": {
+    "en": "Case Closed - Let's Experience the Jomon Period!",
+    "jp": "Detective Conan: Let's Experience the Jomon Period!"
+  },
+  "releasedAt": "1999-06-25T00:00:00.000Z",
+  "finishedAt": "1999-06-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13150/original.jpg",
+  "categories": [
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13150",
+    "myanimelist/anime": "33148"
+  }
+}

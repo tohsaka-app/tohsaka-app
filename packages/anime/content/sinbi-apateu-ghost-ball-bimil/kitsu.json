@@ -1,0 +1,29 @@
+{
+  "slug": "sinbi-apateu-ghost-ball-bimil",
+  "synopsis": "With help from a 102-year-old goblin dwelling beneath their haunted apartment building, two siblings deal with ghosts and take on spooky mysteries.\n\n(Source: Netflix)",
+  "title": {
+    "en": "The Haunted House: The Secret of the Ghost Ball"
+  },
+  "releasedAt": "2016-07-20T00:00:00.000Z",
+  "finishedAt": "2017-01-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43158/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "kids",
+    "mystery",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81028939"
+  ],
+  "relations": {
+    "kitsu": "43158",
+    "anilist/anime": "130226",
+    "myanimelist/anime": "38923"
+  }
+}

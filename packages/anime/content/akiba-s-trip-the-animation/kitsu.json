@@ -1,0 +1,32 @@
+{
+  "slug": "akiba-s-trip-the-animation",
+  "synopsis": "Set in Akihabara, the shopping area has been invaded by creatures known as \"Synthisters\" who prey on the patrons of Akihabara, feasting on their social energy and will to live. These enemies can only be stopped by direct exposure to the air, meaning to defeat these synthisters their clothes need to be ripped off exposing their skin.",
+  "title": {
+    "en": "Akiba's Trip The Animation",
+    "jp": "Akiba's Trip The Animation"
+  },
+  "releasedAt": "2017-01-04T00:00:00.000Z",
+  "finishedAt": "2017-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12532/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "earth",
+    "ecchi",
+    "japan",
+    "tokyo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12532",
+    "anidb": "12411",
+    "anilist/anime": "97636",
+    "aozora": "9zWnyMqBVl",
+    "myanimelist/anime": "34051",
+    "thetvdb": "319456/1",
+    "trakt": "112977"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "monster-high-kowa-ike-girls",
+  "synopsis": "An anime adaptation of the popular Mattel fashion doll line 'Monster High'.",
+  "title": {
+    "jp": "Monster High: Kowa-ike Girls"
+  },
+  "releasedAt": "2014-10-22T00:00:00.000Z",
+  "finishedAt": "2014-12-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10202/original.jpg",
+  "categories": [
+    "comedy",
+    "friendship",
+    "kids",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10202",
+    "anidb": "11849",
+    "anilist/anime": "99480",
+    "aozora": "tvq6FKkIz3",
+    "myanimelist/anime": "28381"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "grasshopper-monogatari",
+  "synopsis": "Music video featured on NHK's Minna no Uta program. It predominately used claymation and superimposed the real singer in a grasshopper costume onto the scenes.",
+  "title": {
+    "jp": "Grasshopper Monogatari"
+  },
+  "releasedAt": "2005-12-01T00:00:00.000Z",
+  "finishedAt": "2005-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10258/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10258",
+    "anilist/anime": "103491",
+    "aozora": "SWHMvYCkFX",
+    "myanimelist/anime": "29355"
+  }
+}

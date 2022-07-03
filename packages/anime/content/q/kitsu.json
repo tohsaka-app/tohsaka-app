@@ -1,0 +1,28 @@
+{
+  "slug": "q",
+  "synopsis": "Music Video for the Song Q by Calliope Mori, Gawr Gura and DECO*27.",
+  "title": {
+    "en": "Q"
+  },
+  "releasedAt": "2022-02-03T00:00:00.000Z",
+  "finishedAt": "2022-02-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45832/poster_image/98b17cd6c2d57d195417fb4941820f33.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45832/cover_image/f920851fa55f034660799f74aadf226f.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "fantasy",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=aetXqd9B8WE"
+  ],
+  "relations": {
+    "kitsu": "45832",
+    "myanimelist/anime": "51608"
+  }
+}

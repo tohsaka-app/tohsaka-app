@@ -1,0 +1,23 @@
+{
+  "slug": "cheer-danshi-recap",
+  "synopsis": "Recap of first 5 episodes of Cheer Danshi!!",
+  "title": {
+    "jp": "Cheer Danshi!! Recap"
+  },
+  "releasedAt": "2016-08-09T00:00:00.000Z",
+  "finishedAt": "2016-08-09T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12472/original.jpg",
+  "categories": [
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12472",
+    "aozora": "lmb8fMrFgT",
+    "myanimelist/anime": "33798"
+  }
+}

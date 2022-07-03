@@ -1,0 +1,32 @@
+{
+  "slug": "ao-haru-ride-ova",
+  "synopsis": "\"Unwritten\" - An episode about Futaba and Kou in middle school. Based on the chapter called \"Unwritten.\" also known as chapter 0 or Prologue.\n\"Page.13\" - An episode that continues the story after the television series's 12th and final episode.\n(Source: sakisaka10)",
+  "title": {
+    "jp": "Ao Haru Ride OVA"
+  },
+  "releasedAt": "2014-08-25T00:00:00.000Z",
+  "finishedAt": "2014-12-12T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8488/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8488/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "japan",
+    "middle school",
+    "present",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8488",
+    "anidb": "10626",
+    "anilist/anime": "20837",
+    "aozora": "juuVWWMrMr",
+    "myanimelist/anime": "24151"
+  }
+}

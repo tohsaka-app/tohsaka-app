@@ -1,0 +1,28 @@
+{
+  "slug": "tales-of-zestiria-doushi-no-yoake",
+  "synopsis": "TV anime special of Bandai Namco Games' Tales of Zestiria role-playing game.",
+  "title": {
+    "en": "Tales of Zestiria: Dawn of the Shepherd",
+    "jp": "Tales of Zestiria: Doushi no Yoake"
+  },
+  "releasedAt": "2014-12-30T00:00:00.000Z",
+  "finishedAt": "2014-12-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8703/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8703/original.jpg",
+  "categories": [
+    "fantasy",
+    "fantasy world",
+    "high fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8703",
+    "anidb": "10666",
+    "anilist/anime": "20730",
+    "aozora": "Yz4UhyP1s5",
+    "myanimelist/anime": "24459"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "yellow-fish",
+  "synopsis": "A chaotic psychedelic animation is collocated with images of the sea of ​​clouds seen from the mountaintop and the candles of a Tibetan temple.",
+  "title": {
+    "jp": "Yellow Fish"
+  },
+  "releasedAt": "1998-04-01T00:00:00.000Z",
+  "finishedAt": "1998-04-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44964/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44964",
+    "anilist/anime": "121044",
+    "myanimelist/anime": "42277"
+  }
+}

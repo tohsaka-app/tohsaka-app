@@ -1,0 +1,26 @@
+{
+  "slug": "the-house",
+  "synopsis": "The House, which echoes of the wildly surreal worlds seen in Spirited Away, focuses on Ga-young, a young woman who moves to an old town where she meets Zipsin, the spirit of a house that is soon to be demolished. Whisked away on an enchanted adventure, Ga-young and Zipsin seek out a new spirit who may be able to help them—and together, they hatch a scheme to save the house from those who don't believe in its magic.",
+  "title": {
+    "en": "The House"
+  },
+  "releasedAt": "2011-03-17T00:00:00.000Z",
+  "finishedAt": "2011-03-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7613/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7613/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7613",
+    "anilist/anime": "17233",
+    "aozora": "nFlrEJ5grE",
+    "myanimelist/anime": "17233"
+  }
+}

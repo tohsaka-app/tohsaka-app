@@ -1,0 +1,23 @@
+{
+  "slug": "usagi-no-matthew",
+  "synopsis": "The story centers on Matthew, a daydreaming worrywart of a rabbit. Matthew also has two friends: Keron, a pessimistic frog who is fond of good-luck charms; and Ham, a hamster of few words and who moves through life at his own pace. The story follows the three animals' everyday lives within a mysterious forest. \n\n(Source: ANN)",
+  "title": {
+    "en": "Matthew the Rabbit",
+    "jp": "Usagi no Matthew"
+  },
+  "releasedAt": "2018-04-05T00:00:00.000Z",
+  "finishedAt": "2019-04-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41063/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41063",
+    "anilist/anime": "101354",
+    "myanimelist/anime": "37467"
+  }
+}

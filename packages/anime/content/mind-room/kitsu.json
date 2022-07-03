@@ -1,0 +1,24 @@
+{
+  "slug": "mind-room",
+  "synopsis": "Little by little, something has gone wrong with a career woman's personal life. But these little things are what fill the big hole in her heart.\n\nGraduate Work 2017, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Mind Room",
+    "jp": "Mind Room"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44994/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/KL7pJVQZy6Q"
+  ],
+  "relations": {
+    "kitsu": "44994",
+    "anilist/anime": "115997"
+  }
+}

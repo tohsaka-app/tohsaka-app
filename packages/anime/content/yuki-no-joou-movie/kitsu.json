@@ -1,0 +1,24 @@
+{
+  "slug": "yuki-no-joou-movie",
+  "synopsis": "A stop-motion adaptation of Hans Christian Andersen's The Snow Queen.",
+  "title": {
+    "en": "The Snow Queen",
+    "jp": "Yuki no Joou"
+  },
+  "releasedAt": "1978-01-01T00:00:00.000Z",
+  "finishedAt": "1978-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13336/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13336",
+    "anilist/anime": "117930",
+    "aozora": "58wccuRBMb",
+    "myanimelist/anime": "34946"
+  }
+}

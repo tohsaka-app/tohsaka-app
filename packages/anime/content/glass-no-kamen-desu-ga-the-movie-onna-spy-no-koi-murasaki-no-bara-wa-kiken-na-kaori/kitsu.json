@@ -1,0 +1,29 @@
+{
+  "slug": "glass-no-kamen-desu-ga-the-movie-onna-spy-no-koi-murasaki-no-bara-wa-kiken-na-kaori",
+  "synopsis": "New Glass no Kamen movie. ",
+  "title": {
+    "jp": "Glass no Kamen Desu ga the Movie: Onna Spy no Koi! Murasaki no Bara wa Kiken na Kaori!?"
+  },
+  "releasedAt": "2013-06-22T00:00:00.000Z",
+  "finishedAt": "2013-06-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7683/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7683/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "performance",
+    "shoujo",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7683",
+    "anidb": "9793",
+    "anilist/anime": "18109",
+    "aozora": "TRm2wojmw2",
+    "myanimelist/anime": "18109"
+  }
+}

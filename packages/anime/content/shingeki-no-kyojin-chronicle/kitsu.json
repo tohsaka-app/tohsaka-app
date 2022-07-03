@@ -1,0 +1,33 @@
+{
+  "slug": "shingeki-no-kyojin-chronicle",
+  "synopsis": "The compilation film will recap the anime's 59 episodes from seasons one to three.",
+  "title": {
+    "en": "Attack on Titan: Chronicle",
+    "jp": "Shingeki no Kyojin: Chronicle"
+  },
+  "releasedAt": "2020-07-17T00:00:00.000Z",
+  "finishedAt": "2020-07-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/43212/poster_image/cab949c58f54bc0bfcb4f4548403c81c.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "angst",
+    "fantasy",
+    "horror",
+    "military",
+    "post apocalypse",
+    "shounen",
+    "super power",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43212",
+    "anidb": "15582",
+    "anilist/anime": "119113",
+    "myanimelist/anime": "42091"
+  }
+}

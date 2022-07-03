@@ -1,0 +1,33 @@
+{
+  "slug": "digimon-adventure-tri-4",
+  "synopsis": "Following Meicoomon's rampage and the Reboot, Taichi and the others leave behind a distressed Meiko and head to the Digital World. But the partner Digimon that they've reunited with have lost their memories. While Sora normally thinks of others even before herself, she now has distrust in her heart. A tearful Meicoomon appears and disappears again. For some reason, she has retained past memories, and is searching for Meiko. Upon seeing Meicoomon, the kids resolve to journey through the Digital World to save her, but a man with the Dark Masters at his command stands in their way. Meanwhile, in the real world, Nishijima receives a notice that Himekawa has disappeared. When he investigates, he learns that she has had a hidden goal behind all her actions thus far. \n\n(Source: ANN)",
+  "title": {
+    "en": "Digimon Adventure tri. 4: Loss",
+    "jp": "Digimon Adventure tri. 4: Soushitsu"
+  },
+  "releasedAt": "2017-02-25T00:00:00.000Z",
+  "finishedAt": "2017-02-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11548/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11548/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "friendship",
+    "proxy battles"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/digimon-adventure-tri",
+    "https://vrv.co/series/G6NQX5GZ6/Digimon-Adventure-tri"
+  ],
+  "relations": {
+    "kitsu": "11548",
+    "anilist/anime": "97734",
+    "aozora": "jb8nKQ5MiY",
+    "myanimelist/anime": "34299"
+  }
+}

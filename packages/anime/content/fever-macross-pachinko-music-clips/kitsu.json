@@ -1,0 +1,24 @@
+{
+  "slug": "fever-macross-pachinko-music-clips",
+  "synopsis": "Music video collection edited from Macross pachinko game footage, containing  some remastered scenes from Macross.\n\nThese clips were also included on the deluxe limited edition 30th Anniversary Blu-ray Box Set of \"Super Dimension Fortress Macross.\"",
+  "title": {
+    "en": null,
+    "jp": "Fever Macross Pachinko Music Clips"
+  },
+  "releasedAt": "2012-05-25T00:00:00.000Z",
+  "finishedAt": "2012-05-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8781/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "music",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8781"
+  }
+}

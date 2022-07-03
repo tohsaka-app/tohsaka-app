@@ -1,0 +1,25 @@
+{
+  "slug": "warera-salaryman-tou",
+  "synopsis": "Fuji TV's  series of short four-minute animation based on the four panel comic by  Suzuki Yoshiji. ",
+  "title": {
+    "en": null,
+    "jp": "Warera Salaryman Tou"
+  },
+  "releasedAt": "1970-10-07T00:00:00.000Z",
+  "finishedAt": "1971-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9060/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9060",
+    "anidb": "7646",
+    "aozora": "nwd8sBvU5s",
+    "myanimelist/anime": "22219"
+  }
+}

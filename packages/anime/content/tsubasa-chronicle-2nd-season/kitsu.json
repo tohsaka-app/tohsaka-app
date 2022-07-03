@@ -1,0 +1,39 @@
+{
+  "slug": "tsubasa-chronicle-2nd-season",
+  "synopsis": "Syaoran, Sakura, Kurogane, Fai and Mokona's journey through to different world's continue as they search for Sakura's feathers. The fated journey slowly becomes more complicated for our travelers, as they find themselves diving deeper into more dangerous worlds. Takes place immediately after the first season. Based on the manga by CLAMP.",
+  "title": {
+    "en": "Tsubasa RESERVoir CHRoNiCLE Season Two",
+    "jp": "Tsubasa Chronicle 2nd Season"
+  },
+  "releasedAt": "2006-04-29T00:00:00.000Z",
+  "finishedAt": "2006-11-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/859/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "bishounen",
+    "fantasy",
+    "fantasy world",
+    "martial arts",
+    "mystery",
+    "parallel universe",
+    "plot continuity",
+    "romance",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "859",
+    "anidb": "4046",
+    "anilist/anime": "969",
+    "aozora": "93mJu2my18",
+    "myanimelist/anime": "969",
+    "thetvdb": "76023/2",
+    "thetvdb/season": "16493",
+    "thetvdb/series": "76023",
+    "trakt": "37407"
+  }
+}

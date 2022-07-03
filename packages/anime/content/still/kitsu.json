@@ -1,0 +1,24 @@
+{
+  "slug": "still",
+  "synopsis": "A music video for the song \"Still\" by the fictional band Irodorimidori.",
+  "title": {
+    "jp": "Still"
+  },
+  "releasedAt": "2017-07-03T00:00:00.000Z",
+  "finishedAt": "2017-07-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13877/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13877",
+    "anilist/anime": "102677",
+    "aozora": "8i3tikobFw",
+    "myanimelist/anime": "36451"
+  }
+}

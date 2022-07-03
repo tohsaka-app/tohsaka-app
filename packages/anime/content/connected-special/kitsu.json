@@ -1,0 +1,26 @@
+{
+  "slug": "connected-special",
+  "synopsis": "Mamoru Oshii x Koji Morimoto x KENWOOD Smart Headsets collaborative animation.\n\nThis short animation is inspired by KENWOOD \"Smart Headsets\" (earphones with AI assistant) that depicts future life with a unique interpretation, set in a fictitious city where devices have become commonplace.",
+  "title": {
+    "en": "CONNECTED",
+    "jp": "CONNECTED"
+  },
+  "releasedAt": "2020-12-06T00:00:00.000Z",
+  "finishedAt": "2020-12-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44188/original.png",
+  "categories": [
+    "alien",
+    "music",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=XruNnYg2JK0"
+  ],
+  "relations": {
+    "kitsu": "44188",
+    "anilist/anime": "126896"
+  }
+}

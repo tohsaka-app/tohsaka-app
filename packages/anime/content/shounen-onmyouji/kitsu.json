@@ -1,0 +1,37 @@
+{
+  "slug": "shounen-onmyouji",
+  "synopsis": "Masahiro is the grandson of the great onmyouji, Abe no Seimei. However, he lost his sixth sense that enables him to see supernatural beings, which is very important for an onmyouji. Thus, he is left with no choice but to try and pick a different career. But one day, a strange mononoke appears, which he names Mokkun, who shows him his true potential powers after fighting a demon. With the assistance of Mokkun, his quest to become the greatest onmyouji begins.",
+  "title": {
+    "en": "Shonen Onmyoji",
+    "jp": "Shounen Onmyouji"
+  },
+  "releasedAt": "2006-10-03T00:00:00.000Z",
+  "finishedAt": "2007-03-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1397/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1397/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "earth",
+    "fantasy",
+    "heian period",
+    "historical",
+    "japan",
+    "magic",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1397",
+    "anidb": "4214",
+    "anilist/anime": "1557",
+    "aozora": "bpNweorymE",
+    "myanimelist/anime": "1557",
+    "thetvdb": "79588/1",
+    "thetvdb/series": "79588",
+    "trakt": "61433"
+  }
+}

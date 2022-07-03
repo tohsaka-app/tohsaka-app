@@ -1,0 +1,20 @@
+{
+  "slug": "hanma-baki-son-of-ogre-2",
+  "synopsis": "The second season of Baki Hanma: Son of Ogre.",
+  "title": {
+    "en": "Baki Hanma: Son of Ogre Season 2",
+    "jp": "Hanma Baki: Son of Ogre 2"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45984/poster_image/5f444008f07b1efd8ff20b05119f1f15.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "45984",
+    "anilist/anime": "146646"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "cardcaptor-sakura-specials",
+  "synopsis": "These are 3 episodes of about 6 minutes of pure CCS fun! Refer to any point during the series.",
+  "title": {
+    "jp": "Suteki desu wa, Sakura-chan! Tomoyo no Cardcaptor Sakura Katsuyaku Video Nikki!"
+  },
+  "releasedAt": "1998-09-25T00:00:00.000Z",
+  "finishedAt": "1999-09-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2200/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2200/original.jpg",
+  "categories": [
+    "comedy",
+    "magical girl",
+    "shoujo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2200",
+    "anilist/anime": "2424",
+    "aozora": "gYR0RwbLvW",
+    "myanimelist/anime": "2424"
+  }
+}

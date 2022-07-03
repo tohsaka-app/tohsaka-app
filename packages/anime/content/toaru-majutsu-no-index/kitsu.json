@@ -1,0 +1,45 @@
+{
+  "slug": "toaru-majutsu-no-index",
+  "synopsis": "Academy City, Japan, is at the forefront of science. Besides being 30 years ahead of the world technologically, more than three-fourths of this peculiar city's population consists of students developing their psychic abilities as espers in various institutions. Among these students is Touma Kamijou, a high school boy with the lowest psychic rank of zero, but with a mysterious power no scientist can understand: \"Imagine Breaker,\" which allows him to negate other supernatural abilities.\nThis, however, doesn't affect Kamijou's life in the least as he plays his role as a regular teenager; that is, until he meets the strange Index Librorum Prohibitorum, a young girl who has memorized the entire forbidden grimoires, and now a dangerous organization is hunting Index down. With several magicians looking to harm the girl, Kamijou will defend his new companion at all costs as he discovers a strange new realm of the supernatural.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "A Certain Magical Index",
+    "jp": "Toaru Majutsu no Index"
+  },
+  "releasedAt": "2008-10-05T00:00:00.000Z",
+  "finishedAt": "2009-03-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3725/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3725/original.png",
+  "categories": [
+    "action",
+    "alternative present",
+    "fantasy",
+    "japan",
+    "magic",
+    "plot continuity",
+    "science fiction",
+    "sudden girlfriend appearance",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/a-certain-magical-index",
+    "http://www.funimation.com/shows/a-certain-magical-index/videos/episodes",
+    "http://www.hulu.com/a-certain-magical-index",
+    "https://tubitv.com/series/2313"
+  ],
+  "relations": {
+    "kitsu": "3725",
+    "anidb": "5975",
+    "anilist/anime": "4654",
+    "aozora": "R1mAKmyMit",
+    "hulu": "50007245",
+    "myanimelist/anime": "4654",
+    "thetvdb": "83322/1",
+    "thetvdb/season": "35910",
+    "thetvdb/series": "83322",
+    "trakt": "61091"
+  }
+}

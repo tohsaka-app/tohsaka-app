@@ -1,0 +1,39 @@
+{
+  "slug": "sonic-x",
+  "synopsis": "Back on Sonic's home planet, Eggman has collected all 7 of the Chaos Emeralds, and is about to have absolute power when Sonic interferes, causing an explosion that sends everyone from their world to Earth. Sonic and his friends team up with 12 year old Christopher Thorndyke to collect all the Chaos Emeralds and defeat the evil Dr. Eggman.\n(Source: ANN)",
+  "title": {
+    "en": "Sonic X",
+    "jp": "Sonic X"
+  },
+  "releasedAt": "2003-04-06T00:00:00.000Z",
+  "finishedAt": "2004-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1633/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "kids",
+    "mecha",
+    "science fiction",
+    "time travel"
+  ],
+  "externals": [
+    "http://www.hulu.com/sonic-x",
+    "https://tubitv.com/series/2100",
+    "https://www.amazon.com/Adventures-Knuckles-Hawk/dp/B07HKSP31Y",
+    "https://www.youtube.com/channel/UCzGf0DdUJVrsbcWL3e_tK1Q/playlists?view=50&sort=dd&shelf_id=21"
+  ],
+  "relations": {
+    "kitsu": "1633",
+    "anidb": "662",
+    "anilist/anime": "1816",
+    "aozora": "xmF3iqHxf6",
+    "myanimelist/anime": "1816",
+    "thetvdb": "72459/1",
+    "thetvdb/series": "72459",
+    "trakt": "10875"
+  }
+}

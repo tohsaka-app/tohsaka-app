@@ -1,0 +1,22 @@
+{
+  "slug": "wego-graphics",
+  "synopsis": "Commercials for the WEGO GRAPHICS brand.",
+  "title": {
+    "en": "WEGO GRAPHICS",
+    "jp": "Wego Graphics"
+  },
+  "releasedAt": "2017-10-07T00:00:00.000Z",
+  "finishedAt": "2018-07-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42817/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42817",
+    "myanimelist/anime": "38771"
+  }
+}

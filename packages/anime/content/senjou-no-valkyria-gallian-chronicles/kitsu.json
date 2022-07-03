@@ -1,0 +1,38 @@
+{
+  "slug": "senjou-no-valkyria-gallian-chronicles",
+  "synopsis": "Valkyria Chronicles is set in a fictitious continent reminiscent of 1930s Europe. The continent, called Europa, is divided into two main powers: The Imperial Empire, a monarchy in the east, and the alliance of democracies called the Federation in the west. In this world, there is a very important resource called ragnite; its uses range from fueling weapons of war to use in medical treatments. Since ragnite is such an important resource, the Federation and the Empire are constantly at war with each other for it.\nThe story takes place in the neutral country of Gallia, known for its bountiful reserves of ragnite, when the Empire decides to invade and seize the ragnite for themselves. The story follows Welkin, the son of a former war hero; Isara, Welkin's Darcsen adoptive sister; and Alicia, a member of the Bruhl town watch, as they fight the Imperials in the ragtag Gallian militia group, Squad 7.\nSquad 7 fights to regain their homes and livelihoods with Welkin as the squad leader and commander of the Edelweiss tank; Alicia as a scout; Isara as the pilot of the Edelweiss, and a variety of colorful individuals.",
+  "title": {
+    "en": "Valkyria Chronicles",
+    "jp": "Senjou no Valkyria"
+  },
+  "releasedAt": "2009-04-05T00:00:00.000Z",
+  "finishedAt": "2009-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4130/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4130/original.jpg",
+  "categories": [
+    "action",
+    "contemporary fantasy",
+    "disaster",
+    "fantasy world",
+    "military",
+    "past",
+    "plot continuity",
+    "romance",
+    "violence",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4130",
+    "anidb": "6244",
+    "anilist/anime": "5507",
+    "aozora": "UrorK2nKVx",
+    "myanimelist/anime": "5507",
+    "thetvdb": "87851/1",
+    "thetvdb/series": "87851",
+    "trakt": "62053"
+  }
+}

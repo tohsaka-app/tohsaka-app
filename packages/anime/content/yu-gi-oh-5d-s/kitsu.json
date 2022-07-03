@@ -1,0 +1,39 @@
+{
+  "slug": "yu-gi-oh-5d-s",
+  "synopsis": "Yu☆Gi☆Oh! 5D's, set in the not too distant future, is the sequel to Yu☆Gi☆Oh!: Duel Monsters GX. Following on from its predecessors, the show is centered on the Duel Monsters Card Game.\nNeo Domino City, a newer, evolved city is the largest in the world, watched over by its Director, Rex Godwin. Satellite, the renamed old Domino City, is now the city's main waste disposal area and the inhabitants who live there, Satellites, live in poor conditions and are forbidden from Duelling.\nFudou Yuusei, the shows main protagonist, has built a D-Wheel (used for the new form of duelling, Riding Duels) in the hope that he can escape to Neo Domino City. Spurred on by revenge towards Jack Atlus, the King of Riding Duels, he manages to escape and duel Jack for his precious card, Stardust Dragon. However when it is summoned along with Jack's ace monster, Red Demons Dragon, a wondrous Crimson Dragon appears, along with a mysterious Birthmark on Yuusei's arm.\nFrom here on, Yuusei and his friends are thrown into a world of Darkness, from which they must duel their way out and attempt to save the world from the destructive forces that soon appear.",
+  "title": {
+    "en": "Yu-Gi-Oh! 5D's",
+    "jp": "Yu☆Gi☆Oh! 5D's"
+  },
+  "releasedAt": "2008-04-02T00:00:00.000Z",
+  "finishedAt": "2011-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3387/original.jpg",
+  "categories": [
+    "action",
+    "card games",
+    "friendship",
+    "plot continuity",
+    "proxy battles",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/yu-gi-oh-5ds",
+    "http://www.hulu.com/yu-gi-oh-5ds",
+    "https://www.contv.com/details-movie/CEG10015785/yu-gi-oh!-5ds"
+  ],
+  "relations": {
+    "kitsu": "3387",
+    "anidb": "5739",
+    "anilist/anime": "3972",
+    "aozora": "nvDOsjlJWE",
+    "hulu": "50001623",
+    "myanimelist/anime": "3972",
+    "thetvdb": "84911/1",
+    "thetvdb/series": "84911",
+    "trakt": "20599"
+  }
+}

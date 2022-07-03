@@ -1,0 +1,26 @@
+{
+  "slug": "great-rabbit",
+  "synopsis": "Once we called the noble, profound and mysterious existence The Great. We have moved with the time, our thought and consciousness has changed. And yet what makes us still keep calling it The Great?\n(Source: kankaku.jp)",
+  "title": {
+    "en": "The Great Rabbit",
+    "jp": "Great Rabbit"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10175/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10175/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10175",
+    "anidb": "11362",
+    "anilist/anime": "103451",
+    "aozora": "oJtkRZy6Yc",
+    "myanimelist/anime": "28641"
+  }
+}

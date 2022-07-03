@@ -1,0 +1,21 @@
+{
+  "slug": "koisuru-shirokuma",
+  "synopsis": "A polar bear falls in love with an earless seal, and he wants nothing else except to protect him, even though the seal constantly thinks the bear will eat him.  \n(Source: ANN)",
+  "title": {
+    "jp": "Koisuru Shirokuma"
+  },
+  "releasedAt": "2017-03-04T00:00:00.000Z",
+  "finishedAt": "2018-06-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40610/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40610",
+    "anilist/anime": "97920",
+    "aozora": "1J2h4apUFO",
+    "myanimelist/anime": "34535"
+  }
+}

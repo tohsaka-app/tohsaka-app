@@ -1,0 +1,27 @@
+{
+  "slug": "astro-boy-tetsuwan-atom-tokubetsu-hen-ivan-no-wakusei-robot-to-ningen-no-yuujou",
+  "synopsis": "Another Tetsuwan Atom Movie that was shown in the Tezuka Osamu World Cinema in Tokyo until it was closed in 2011.\n(Source: AniDB)",
+  "title": {
+    "jp": "Tetsuwan Atom: Ivan no Wakusei - Robot to Ningen no Yuujou"
+  },
+  "releasedAt": "2003-09-13T00:00:00.000Z",
+  "finishedAt": "2003-09-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9109/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9109",
+    "anidb": "9451",
+    "anilist/anime": "18637",
+    "aozora": "y2XNiT43I2",
+    "myanimelist/anime": "18637"
+  }
+}

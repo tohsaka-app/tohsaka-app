@@ -1,0 +1,24 @@
+{
+  "slug": "ijimekko-bully",
+  "synopsis": "Music video for the song IJIMEKKO Bully by Mori Calliope.",
+  "title": {
+    "jp": "IJIMEKKO Bully"
+  },
+  "releasedAt": "2021-08-26T00:00:00.000Z",
+  "finishedAt": "2021-08-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45019/original.jpg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=PluDFsVo3z0"
+  ],
+  "relations": {
+    "kitsu": "45019"
+  }
+}

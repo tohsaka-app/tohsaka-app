@@ -1,0 +1,33 @@
+{
+  "slug": "saki-zenkoku-hen",
+  "synopsis": "Sequel to the Saki series covering the Inter High School Mahjong Championships.",
+  "title": {
+    "en": "Saki: The Nationals",
+    "jp": "Saki Zenkoku-hen"
+  },
+  "releasedAt": "2014-01-06T00:00:00.000Z",
+  "finishedAt": "2014-04-07T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7375/original.jpg",
+  "categories": [
+    "school life",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/saki"
+  ],
+  "relations": {
+    "kitsu": "7375",
+    "anidb": "9490",
+    "anilist/anime": "16123",
+    "aozora": "IZoOBFl1se",
+    "myanimelist/anime": "16123",
+    "thetvdb": "87841/3",
+    "thetvdb/season": "568463",
+    "thetvdb/series": "87841",
+    "trakt": "61994"
+  }
+}

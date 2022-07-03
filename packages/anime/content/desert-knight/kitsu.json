@@ -1,0 +1,23 @@
+{
+  "slug": "desert-knight",
+  "synopsis": "A movie featuring the Japanese anime style that takes place in the Arabian Peninsula and concerns an ambitious young man who decides to challenge the tyranny and the rule of the law of the jungle and bandits to build a world filled with peace and love.\n\n(Source: ARiNAT)",
+  "title": {
+    "en": "Desert Knight",
+    "jp": "Desert Knight"
+  },
+  "releasedAt": "2016-11-01T00:00:00.000Z",
+  "finishedAt": "2016-11-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41374/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "middle east"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41374"
+  }
+}

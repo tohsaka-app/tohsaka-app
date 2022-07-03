@@ -1,0 +1,31 @@
+{
+  "slug": "space-three-musketeers",
+  "synopsis": "Three Earth boys aid a space princess to protect her giggly planet of happiness from evil, grim space pirates. They travel to her planet, storm the enemy base and then get chased in space.",
+  "title": {
+    "jp": "Byeolnala Samchongsa"
+  },
+  "releasedAt": "1979-07-21T00:00:00.000Z",
+  "finishedAt": "1979-07-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4656/original.jpg",
+  "categories": [
+    "adventure",
+    "alien",
+    "future",
+    "other planet",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4656",
+    "anidb": "5321",
+    "anilist/anime": "6671",
+    "aozora": "5phMQTojAB",
+    "myanimelist/anime": "6671"
+  }
+}

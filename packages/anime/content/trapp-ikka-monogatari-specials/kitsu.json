@@ -1,0 +1,25 @@
+{
+  "slug": "trapp-ikka-monogatari-specials",
+  "synopsis": "A summary of the Trapp Ikka Monogatari full series aired as a TV specials. ",
+  "title": {
+    "jp": "Trapp Ikka Monogatari Specials"
+  },
+  "releasedAt": "2001-06-01T00:00:00.000Z",
+  "finishedAt": "2001-06-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9681/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "music",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9681",
+    "aozora": "iKOIG5Hofu",
+    "myanimelist/anime": "25079"
+  }
+}

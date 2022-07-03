@@ -1,0 +1,25 @@
+{
+  "slug": "scary",
+  "synopsis": "A music video for The Mad Capsule Markets' song \"Scary.\"",
+  "title": {
+    "en": "Scary",
+    "jp": "Scary"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14035/original.jpg",
+  "categories": [
+    "music",
+    "science fiction",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14035",
+    "anilist/manga": "66765",
+    "myanimelist/manga": "36765"
+  }
+}

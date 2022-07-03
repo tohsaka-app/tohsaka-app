@@ -1,0 +1,25 @@
+{
+  "slug": "brand-new-story",
+  "synopsis": "Music video for the song Brand New Story by GENERATIONS from Exile Tribe.",
+  "title": {
+    "en": "Brand New Story",
+    "jp": "Brand New Story"
+  },
+  "releasedAt": "2019-06-20T00:00:00.000Z",
+  "finishedAt": "2019-06-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42670/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/tuPc0A2NpZk"
+  ],
+  "relations": {
+    "kitsu": "42670",
+    "anilist/anime": "119593",
+    "myanimelist/anime": "39962"
+  }
+}

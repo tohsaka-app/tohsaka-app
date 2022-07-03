@@ -1,0 +1,43 @@
+{
+  "slug": "aa-megami-sama-sorezore-no-tsubasa",
+  "synopsis": "One year after goddess Belldandy emerged from Keiichi Morisato's mirror and promised to stay with him forever, a new threat to their happiness emerges, one that could end the contract between Belldandy and Keiichi. ",
+  "title": {
+    "en": "Ah! My Goddess: Flights of Fancy",
+    "jp": "Aa! Megami-sama!: Sorezore no Tsubasa"
+  },
+  "releasedAt": "2006-04-07T00:00:00.000Z",
+  "finishedAt": "2006-09-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7775/original.jpg",
+  "categories": [
+    "angel",
+    "asia",
+    "comedy",
+    "deity",
+    "earth",
+    "fantasy",
+    "harem",
+    "japan",
+    "magic",
+    "motorsport",
+    "present",
+    "romance"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/103113/"
+  ],
+  "relations": {
+    "kitsu": "7775",
+    "anidb": "4153",
+    "anilist/anime": "880",
+    "aozora": "VxwRiBZM2C",
+    "hulu": "50000776",
+    "myanimelist/anime": "880",
+    "thetvdb": "78920/2",
+    "thetvdb/season": "15853",
+    "thetvdb/series": "78920",
+    "trakt": "907"
+  }
+}

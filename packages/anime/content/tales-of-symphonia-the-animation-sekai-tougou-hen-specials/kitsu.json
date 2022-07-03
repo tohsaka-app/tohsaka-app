@@ -1,0 +1,23 @@
+{
+  "slug": "tales-of-symphonia-the-animation-sekai-tougou-hen-specials",
+  "synopsis": "Specials that came with the DVDs of Sekai Tougou Hen.",
+  "title": {
+    "jp": "Tales of Symphonia The Animation: Sekai Tougou-hen Specials"
+  },
+  "releasedAt": "2011-11-23T00:00:00.000Z",
+  "finishedAt": "2012-10-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6795/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6795",
+    "anilist/anime": "12709",
+    "aozora": "0MWDsoHbMb",
+    "myanimelist/anime": "12709"
+  }
+}

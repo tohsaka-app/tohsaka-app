@@ -1,0 +1,26 @@
+{
+  "slug": "gun-dou-musashi-recap",
+  "synopsis": "Recap of episodes 1-9.",
+  "title": {
+    "en": "Gun Samurai Recap",
+    "jp": "Gun-dou Musashi Recap"
+  },
+  "releasedAt": "2006-06-25T00:00:00.000Z",
+  "finishedAt": "2006-06-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6108/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6108",
+    "anilist/anime": "10270",
+    "aozora": "i0xNNygPqY",
+    "myanimelist/anime": "10270"
+  }
+}

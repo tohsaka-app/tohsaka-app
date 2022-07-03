@@ -1,0 +1,24 @@
+{
+  "slug": "jikkyou-chuukei",
+  "synopsis": "Official music video for Radwimps' Jikkyou Chuukei song.",
+  "title": {
+    "jp": "Jikkyou Chuukei"
+  },
+  "releasedAt": "2014-02-04T00:00:00.000Z",
+  "finishedAt": "2014-02-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12582/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12582",
+    "anilist/anime": "103750",
+    "aozora": "XtwW5dKQeM",
+    "myanimelist/anime": "33886"
+  }
+}

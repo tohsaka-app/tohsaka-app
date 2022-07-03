@@ -1,0 +1,24 @@
+{
+  "slug": "keshiki",
+  "synopsis": "Animated music video for Kaf’s song Keshiki. This tune is also used as the ending song for the anime Japan Sinks 2020‘s final episode.",
+  "title": {
+    "jp": "Keshiki"
+  },
+  "releasedAt": "2020-07-22T00:00:00.000Z",
+  "finishedAt": "2020-07-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44306/original.png",
+  "categories": [
+    "disaster",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=46HgoDkRCns"
+  ],
+  "relations": {
+    "kitsu": "44306",
+    "anilist/anime": "130249"
+  }
+}

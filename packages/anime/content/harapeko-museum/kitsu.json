@@ -1,0 +1,23 @@
+{
+  "slug": "harapeko-museum",
+  "synopsis": "There is a strange museum somewhere in the world. The museum is called HARAPEKO MUSEUM, or Hungry Museum. There are many kinds of colorful foods exhibited. At night they wake up in their frames and start to move freely. Welcome to the HARAPEKO MUSEUM!\n\n1st year Work 2012, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "jp": "HARAPEKO MUSEUM"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45776/poster_image/d8e4ef6eb1129a31f897ceec59c13ff7.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/WMksOFwLKcg"
+  ],
+  "relations": {
+    "kitsu": "45776",
+    "anilist/anime": "116622"
+  }
+}

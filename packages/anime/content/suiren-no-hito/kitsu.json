@@ -1,0 +1,25 @@
+{
+  "slug": "suiren-no-hito",
+  "synopsis": "An elderly man walks along his house and sees a turtle munching on a turnip. He does not disturb the creature but lets it eat in peace. Later that night, he has a dream of his late wife...",
+  "title": {
+    "en": "Nostalgia",
+    "jp": "Suiren no Hito"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5081/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5081",
+    "anidb": "10501",
+    "anilist/anime": "7683",
+    "aozora": "DRKpxfAp7s",
+    "myanimelist/anime": "7683"
+  }
+}

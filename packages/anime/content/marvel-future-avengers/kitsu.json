@@ -1,0 +1,24 @@
+{
+  "slug": "marvel-future-avengers",
+  "synopsis": "The anime follows Makoto, a young boy who gains superpowers due to an evil gene manipulation experiment. Makoto and other youths join the Avengers as apprentices named \"Future Avengers.\" The anime will show Makoto and others as they train, fight villains and grow, under Avengers members Iron Man, Captain America, Hulk, Thor, and Wasp.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Marvel Future Avengers"
+  },
+  "releasedAt": "2017-07-22T00:00:00.000Z",
+  "finishedAt": "2017-10-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13624/original.jpg",
+  "categories": [
+    "action",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13624",
+    "anilist/anime": "98872",
+    "aozora": "SJjmqL47Uw",
+    "myanimelist/anime": "34975"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "karasu-no-puuta",
+  "synopsis": "An anime aimed at kindergarteners for the sole purpose of teaching how eating different things make you poop differently and how to maintain a regular digestive schedule (so as to avoid constipation or diarrhea).",
+  "title": {
+    "jp": "Karasu no Puuta"
+  },
+  "releasedAt": "1995-01-01T00:00:00.000Z",
+  "finishedAt": "1995-10-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10279/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10279",
+    "aozora": "CkhSivAezX",
+    "myanimelist/anime": "29489"
+  }
+}

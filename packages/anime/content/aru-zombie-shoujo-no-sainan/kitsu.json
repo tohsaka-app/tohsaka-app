@@ -1,0 +1,32 @@
+{
+  "slug": "aru-zombie-shoujo-no-sainan",
+  "synopsis": "The story revolves around a beautiful girl named Euphrosyne (Yūfurojiinu) who is regretfully a zombie. Yūfurojiinu wakes up in an underground archive of a university, where a maid named Aruma tells her, \"Madam, kill the students and retrieve the 'Secret Stone.'\"",
+  "title": {
+    "en": "Calamity of a Zombie Girl",
+    "jp": "Aru Zombie Shoujo no Sainan (ONA)"
+  },
+  "releasedAt": "2018-07-04T00:00:00.000Z",
+  "finishedAt": "2018-07-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8018/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8018/original.jpeg",
+  "categories": [
+    "action",
+    "combat",
+    "contemporary fantasy",
+    "horror",
+    "supernatural",
+    "violence",
+    "zombie"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/calamity-of-a-zombie-girl"
+  ],
+  "relations": {
+    "kitsu": "8018",
+    "anilist/anime": "101525",
+    "myanimelist/anime": "37735"
+  }
+}

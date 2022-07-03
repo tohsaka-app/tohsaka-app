@@ -1,0 +1,44 @@
+{
+  "slug": "is-infinite-stratos-2",
+  "synopsis": "Second season of Infinite Stratos.",
+  "title": {
+    "en": "Infinite Stratos 2",
+    "jp": "IS: Infinite Stratos 2"
+  },
+  "releasedAt": "2013-10-04T00:00:00.000Z",
+  "finishedAt": "2013-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7733/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7733/original.jpg",
+  "categories": [
+    "action",
+    "all girls school",
+    "asia",
+    "comedy",
+    "earth",
+    "future",
+    "harem",
+    "japan",
+    "mecha",
+    "power suit",
+    "school life",
+    "science fiction",
+    "stereotypes"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/infinite-stratos-2"
+  ],
+  "relations": {
+    "kitsu": "7733",
+    "anidb": "9849",
+    "anilist/anime": "18247",
+    "aozora": "yE7gJHONI6",
+    "myanimelist/anime": "18247",
+    "thetvdb": "219131/2",
+    "thetvdb/season": "524679",
+    "thetvdb/series": "219131",
+    "trakt": "61097"
+  }
+}

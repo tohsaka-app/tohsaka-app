@@ -1,0 +1,24 @@
+{
+  "slug": "ningyo-no-hanashi",
+  "synopsis": "Music video for Frederic's song \"Ningyo no Hanashi\".",
+  "title": {
+    "jp": "Ningyo no Hanashi"
+  },
+  "releasedAt": "2014-10-14T00:00:00.000Z",
+  "finishedAt": "2014-10-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12384/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12384",
+    "anilist/anime": "103484",
+    "aozora": "nzwwYXuSVW",
+    "myanimelist/anime": "32788"
+  }
+}

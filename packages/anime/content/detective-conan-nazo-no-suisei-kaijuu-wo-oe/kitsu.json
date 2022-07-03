@@ -1,0 +1,24 @@
+{
+  "slug": "detective-conan-nazo-no-suisei-kaijuu-wo-oe",
+  "synopsis": "A short story about Conan and the Detective Boys.",
+  "title": {
+    "en": "Case Closed: Chase the Mysterious Comet Monster!",
+    "jp": "Detective Conan: Chase the Mysterious Comet Monster!"
+  },
+  "releasedAt": "2001-11-09T00:00:00.000Z",
+  "finishedAt": "2001-11-09T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12562/original.jpg",
+  "categories": [
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12562",
+    "anidb": "12537",
+    "aozora": "RRC1BY5uiH",
+    "myanimelist/anime": "33145"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pacific-rim-the-black",
+  "synopsis": "After Kaiju ravage Australia, two siblings pilot a Jaeger to search for their parents, encountering new creatures, seedy characters and chance allies.\n\n(Source: Netflix)",
+  "title": {
+    "en": "Pacific Rim: The Black",
+    "jp": "Pacific Rim: Ankoku no Tairiki"
+  },
+  "releasedAt": "2021-03-04T00:00:00.000Z",
+  "finishedAt": "2021-03-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42107/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42107/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42107"
+  }
+}

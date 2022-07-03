@@ -1,0 +1,25 @@
+{
+  "slug": "doubutsu-mura-no-sports-day",
+  "synopsis": "Short movie from 1932.",
+  "title": {
+    "en": "Sports Day at Animal Village",
+    "jp": "Doubutsu Mura no Sports Day"
+  },
+  "releasedAt": "1932-01-01T00:00:00.000Z",
+  "finishedAt": "1932-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4313/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4313",
+    "anidb": "6691",
+    "anilist/anime": "5872",
+    "aozora": "Dh58HouxDm",
+    "myanimelist/anime": "5872"
+  }
+}

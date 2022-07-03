@@ -1,0 +1,27 @@
+{
+  "slug": "nine-3-kanketsuhen",
+  "synopsis": "Last part of the Nine TV movies.",
+  "title": {
+    "jp": "Nine 3: Kanketsu-hen"
+  },
+  "releasedAt": "1984-09-05T00:00:00.000Z",
+  "finishedAt": "1984-09-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5644/original.jpg",
+  "categories": [
+    "action",
+    "baseball",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5644",
+    "anidb": "3149",
+    "anilist/anime": "9244",
+    "aozora": "l6vgkmoIW7",
+    "myanimelist/anime": "9244"
+  }
+}

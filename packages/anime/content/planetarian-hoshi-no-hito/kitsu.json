@@ -1,0 +1,25 @@
+{
+  "slug": "planetarian-hoshi-no-hito",
+  "synopsis": "An adaptation of the visual-novel by Key, Planetarian: Hoshi no Hito combines the story of the original work with an expansion that extends the narrative with content from the Hoshi no Hito light-novel sequel. \n\nIn the future after much of the world has been devastated by nuclear and biological warfare, a young scavenger or \"Junker\" exploring a quarantined and abandoned city comes across a service robot still faithfully awaiting customers in the rooftop planetarium of a department store. Against his pragmatic instincts he helps the robot repair the planetarium's projector: a decision which will change both their fates.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Planetarian: Hoshi no Hito"
+  },
+  "releasedAt": "2016-09-03T00:00:00.000Z",
+  "finishedAt": "2016-09-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12053/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12053/original.jpg",
+  "categories": [
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12053",
+    "anidb": "12058",
+    "anilist/anime": "21771",
+    "aozora": "nwHj9nkkcW",
+    "myanimelist/anime": "33190"
+  }
+}

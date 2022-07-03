@@ -1,0 +1,24 @@
+{
+  "slug": "hayabusa-back-to-the-earth",
+  "synopsis": "CG anime about a satellite's journey back to Earth.",
+  "title": {
+    "jp": "Hayabusa: Back to the Earth"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6262/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6262",
+    "anidb": "8359",
+    "anilist/anime": "10603",
+    "aozora": "nXCE0SGqza",
+    "myanimelist/anime": "10603"
+  }
+}

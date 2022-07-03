@@ -1,0 +1,26 @@
+{
+  "slug": "rinkaku",
+  "synopsis": "Following the release of their 8th album \"DUM SPIRO SPERO,\" Japanese rock band Dir en Grey went into hiatus following a vigorous touring schedule in Japan and abroad, a year and a half later returning with their single \"RINKAKU\" released on December 19th, 2012.  Once again animator Keita Kurosaka was enlisted to create a hand drawn music video, that in many regards is much less shocking and grotesque than the band's previous collaboration with Kurosaka, the infamous \"Agitated Screams of Maggots\" music video. ",
+  "title": {
+    "jp": "Rinkaku"
+  },
+  "releasedAt": "2012-10-16T00:00:00.000Z",
+  "finishedAt": "2012-10-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8593/original.jpg",
+  "categories": [
+    "dementia",
+    "horror",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8593",
+    "anidb": "10122",
+    "anilist/anime": "18831",
+    "aozora": "af6myYN1l7",
+    "myanimelist/anime": "18831"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "hen-zemi",
+  "synopsis": "Matsutaka Nanako is a normal university student, who happened to enroll in an Abnormal Physiology seminar. She tries to keep her mental state sound, but other abnormal classmates start to influence her personality...\n(Source: MU)",
+  "title": {
+    "jp": "HenSemi"
+  },
+  "releasedAt": "2010-07-23T00:00:00.000Z",
+  "finishedAt": "2011-03-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5196/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5196/original.png",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "university"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5196",
+    "anidb": "7431",
+    "anilist/anime": "8101",
+    "aozora": "hcV2ZYC0Bt",
+    "myanimelist/anime": "8101"
+  }
+}

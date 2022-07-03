@@ -1,0 +1,23 @@
+{
+  "slug": "mobile-suit-gakuen-g-reco-koushien",
+  "synopsis": "Short specials bundled with the Blu-ray volumes.",
+  "title": {
+    "jp": "Mobile Suit Gakuen: G-Reco Koushien"
+  },
+  "releasedAt": "2014-12-25T00:00:00.000Z",
+  "finishedAt": "2015-08-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13177/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13177",
+    "anilist/anime": "112449",
+    "aozora": "SAG8yCFTSX",
+    "myanimelist/anime": "34519"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "mini-hama-movie",
+  "synopsis": "Two special episodes of Mini Hama promoting the Fw:Hamatora movie.",
+  "title": {
+    "jp": "Mini Hama: Minimum Hamatora Movies"
+  },
+  "releasedAt": "2015-11-14T00:00:00.000Z",
+  "finishedAt": "2015-11-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11508/original.jpg",
+  "categories": [
+    "comedy",
+    "mystery",
+    "school life",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11508",
+    "anilist/anime": "21447",
+    "aozora": "2YOIREUu1r",
+    "myanimelist/anime": "31923"
+  }
+}

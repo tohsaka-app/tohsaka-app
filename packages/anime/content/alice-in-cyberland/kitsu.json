@@ -1,0 +1,26 @@
+{
+  "slug": "alice-in-cyberland",
+  "synopsis": "When criminal Cybernackists appear in the Cyberland, the vast 21st century computer networks, Alice, Miss Catnick, Leina, and Julie are drawn in by the mysterious Lucia to become a fighting force of young girl soldiers in the Cyberland to combat the criminal element.",
+  "title": {
+    "jp": "Alice in Cyberland"
+  },
+  "releasedAt": "1996-12-21T00:00:00.000Z",
+  "finishedAt": "1996-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4059/original.jpg",
+  "categories": [
+    "action",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4059",
+    "anidb": "2175",
+    "anilist/anime": "5330",
+    "aozora": "w0frvUm75T",
+    "myanimelist/anime": "5330"
+  }
+}

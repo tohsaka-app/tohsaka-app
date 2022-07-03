@@ -1,0 +1,27 @@
+{
+  "slug": "sora-wo-kakeru-shoujo-picture-drama",
+  "synopsis": "Short specials added to DVDs and Blu-rays.",
+  "title": {
+    "en": "Girl Who Leapt Through Space Picture Drama",
+    "jp": "Sora wo Kakeru Shoujo Picture Drama"
+  },
+  "releasedAt": "2009-04-24T00:00:00.000Z",
+  "finishedAt": "2009-11-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4561/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4561",
+    "anilist/anime": "6437",
+    "aozora": "wqjAxef2ZZ",
+    "myanimelist/anime": "6437"
+  }
+}

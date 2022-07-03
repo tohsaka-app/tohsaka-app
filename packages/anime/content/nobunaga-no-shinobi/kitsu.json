@@ -1,0 +1,33 @@
+{
+  "slug": "nobunaga-no-shinobi",
+  "synopsis": "Chidori is a little ninja girl living in Japan's Warring States Period. One day, Oda Nobunaga rescued her from drowning in a river. Since that day, Chidori knew she wanted to serve Nobunaga. Five years later, she and Sukezou (who likes her) head out from their ninja village, determined to serve Oda Nobunaga!\n(Source: MangaHelpers)",
+  "title": {
+    "en": "Ninja Girl & Samurai Master",
+    "jp": "Nobunaga no Shinobi"
+  },
+  "releasedAt": "2016-10-04T00:00:00.000Z",
+  "finishedAt": "2017-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11871/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11871/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "ninja",
+    "sengoku period"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/ninja-girl-samurai-master"
+  ],
+  "relations": {
+    "kitsu": "11871",
+    "anidb": "11951",
+    "anilist/anime": "21666",
+    "aozora": "SvENRIQIL1",
+    "myanimelist/anime": "32829",
+    "thetvdb": "315092",
+    "trakt": "110240"
+  }
+}

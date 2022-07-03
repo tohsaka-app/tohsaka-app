@@ -1,0 +1,49 @@
+{
+  "slug": "coppelion",
+  "synopsis": "In 2016, a meltdown of a nuclear power plant creates a big catastrophe in Tokyo. 20 years later, the city has become a ghost town due to the high levels of radiation. From that area a distress signal is received. The Self Defense forces dispatch three girls from the special unit Coppelion to search for survivors. But why aren't they wearing any protection against radiation?\n(Source: MU, edited)",
+  "title": {
+    "en": "Coppelion",
+    "jp": "Coppelion"
+  },
+  "releasedAt": "2013-10-02T00:00:00.000Z",
+  "finishedAt": "2013-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5746/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5746/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "disaster",
+    "dystopia",
+    "earth",
+    "future",
+    "genetic modification",
+    "human enhancement",
+    "japan",
+    "plot continuity",
+    "post apocalypse",
+    "psychological",
+    "science fiction",
+    "seinen",
+    "special squads",
+    "tokyo",
+    "violence"
+  ],
+  "externals": [
+    "http://www.hulu.com/coppelion"
+  ],
+  "relations": {
+    "kitsu": "5746",
+    "anidb": "7933",
+    "anilist/anime": "9479",
+    "aozora": "YLLO2uFHYx",
+    "hulu": "50013216",
+    "myanimelist/anime": "9479",
+    "thetvdb": "272132/1",
+    "thetvdb/series": "272132",
+    "trakt": "72043"
+  }
+}

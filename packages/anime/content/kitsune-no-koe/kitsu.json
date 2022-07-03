@@ -1,0 +1,26 @@
+{
+  "slug": "kitsune-no-koe",
+  "synopsis": "Hu Li is a poor but talented high school boy. He is a \"ghost\" singer/songwriter for the popular and narcissistic boy idol Kong Que, who is very handsome but can barely sing. Hu always wears a fox mask to hide his large facial scar caused by a traffic accident. He also uses a screen name \"Mr. Fox\" to publish his music online.\n\n(Source: ANN)",
+  "title": {
+    "en": "Voice of Fox",
+    "jp": "Kitsune no Koe"
+  },
+  "releasedAt": "2018-10-05T00:00:00.000Z",
+  "finishedAt": "2018-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41942/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/voice-of-fox"
+  ],
+  "relations": {
+    "kitsu": "41942",
+    "anidb": "a13735",
+    "anilist/anime": "102385",
+    "myanimelist/anime": "37106"
+  }
+}

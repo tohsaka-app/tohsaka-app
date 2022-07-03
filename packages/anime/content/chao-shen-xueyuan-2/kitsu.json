@@ -1,0 +1,23 @@
+{
+  "slug": "chao-shen-xueyuan-2",
+  "synopsis": null,
+  "title": {
+    "en": "Chao Shen Xueyuan 2"
+  },
+  "releasedAt": "2014-06-06T00:00:00.000Z",
+  "finishedAt": "2014-10-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45911/poster_image/087ac878c5c657713a6f1c89af2b0f77.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45911",
+    "anilist/anime": "130759",
+    "myanimelist/anime": "48750"
+  }
+}

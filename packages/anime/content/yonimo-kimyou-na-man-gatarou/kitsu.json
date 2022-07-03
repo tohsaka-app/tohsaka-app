@@ -1,0 +1,24 @@
+{
+  "slug": "yonimo-kimyou-na-man-gatarou",
+  "synopsis": " ",
+  "title": {
+    "en": null,
+    "jp": "Yonimo Kimyou na Man☆Gatarou"
+  },
+  "releasedAt": "2009-03-06T00:00:00.000Z",
+  "finishedAt": "2009-04-10T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11308/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11308",
+    "anidb": "10084",
+    "aozora": "zNXXgxtirx",
+    "myanimelist/anime": "31317"
+  }
+}

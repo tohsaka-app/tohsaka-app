@@ -1,0 +1,31 @@
+{
+  "slug": "digital-juice",
+  "synopsis": "A series of short animations that show different worlds and different characters. These episodes are designed to take the viewer into a psychological world of fantasy and mystery.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Digital Juice"
+  },
+  "releasedAt": "2002-01-25T00:00:00.000Z",
+  "finishedAt": "2002-01-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/990/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/990/original.png",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "psychological",
+    "romance",
+    "samurai",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "990",
+    "anidb": "2714",
+    "anilist/anime": "1105",
+    "aozora": "vqDkPdASxi",
+    "myanimelist/anime": "1105"
+  }
+}

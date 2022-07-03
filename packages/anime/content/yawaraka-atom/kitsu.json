@@ -1,0 +1,25 @@
+{
+  "slug": "yawaraka-atom",
+  "synopsis": "Yawaraka Atom, a parody of Astro Boy (Atom) as a squishy tank, went to stop catastrophe and evil.",
+  "title": {
+    "jp": "Yawaraka Atom"
+  },
+  "releasedAt": "2007-10-01T00:00:00.000Z",
+  "finishedAt": "2008-10-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9062/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9062",
+    "anidb": "10269",
+    "anilist/anime": "126871",
+    "aozora": "IySyPrWtOl",
+    "myanimelist/anime": "21277"
+  }
+}

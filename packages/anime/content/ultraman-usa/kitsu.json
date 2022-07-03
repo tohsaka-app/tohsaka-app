@@ -1,0 +1,26 @@
+{
+  "slug": "ultraman-usa",
+  "synopsis": "The lives of three stunt pilots (Scott, Chuck, and Beth) are changed when they gain the ability to transform into three new Ultra-beings, and form the Ultra Force, to battle four giant Sorkin Monsters. \n(Source: AniDB) ",
+  "title": {
+    "jp": "Ultraman USA"
+  },
+  "releasedAt": "1989-04-15T00:00:00.000Z",
+  "finishedAt": "1989-04-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6825/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6825",
+    "anidb": "6749",
+    "anilist/anime": "12851",
+    "aozora": "WlVkeasGVC",
+    "myanimelist/anime": "12851"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "yume-wo-kanaeru-zou",
+  "synopsis": "It's about an ordinary office worker Fumiyama Fumio, who gains self-confidence by the advices of an Indian god, Ganesha.",
+  "title": {
+    "jp": "Yume wo Kanaeru Zou"
+  },
+  "releasedAt": "2009-01-13T00:00:00.000Z",
+  "finishedAt": "2009-12-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4299/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4299",
+    "anidb": "6543",
+    "anilist/anime": "5841",
+    "aozora": "e1TaKqzSrk",
+    "myanimelist/anime": "5841",
+    "thetvdb": "105031",
+    "trakt": "68841"
+  }
+}

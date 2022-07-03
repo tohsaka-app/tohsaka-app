@@ -1,0 +1,25 @@
+{
+  "slug": "osomatsu-kun-suika-no-hoshi-kara-konnichiwa-zansu",
+  "synopsis": "Osomatsu-kun Movie.",
+  "title": {
+    "en": null,
+    "jp": "Osomatsu-kun: Suika no Hoshi kara Konnichiwa zansu!"
+  },
+  "releasedAt": "1989-03-18T00:00:00.000Z",
+  "finishedAt": "1989-03-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9521/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9521",
+    "anidb": "9461",
+    "anilist/anime": "19879",
+    "aozora": "NOyuDsfsyl",
+    "myanimelist/anime": "19879"
+  }
+}

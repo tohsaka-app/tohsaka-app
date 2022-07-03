@@ -1,0 +1,30 @@
+{
+  "slug": "doraemon-the-day-when-i-was-born",
+  "synopsis": "",
+  "title": {
+    "en": "Doraemon the Short Movie: The Day When I Was Born",
+    "jp": "Doraemon: The Day When I Was Born"
+  },
+  "releasedAt": "2002-03-09T00:00:00.000Z",
+  "finishedAt": "2002-03-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2416/original.jpg",
+  "categories": [
+    "earth",
+    "fantasy",
+    "japan",
+    "past",
+    "science fiction",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2416",
+    "anidb": "7014",
+    "anilist/anime": "2652",
+    "aozora": "w0pX4YmydV",
+    "myanimelist/anime": "2652"
+  }
+}

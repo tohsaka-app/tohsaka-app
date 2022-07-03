@@ -1,0 +1,24 @@
+{
+  "slug": "blue-seed-omake",
+  "synopsis": "Extra bits meant to add to the Blue Seed story.\nEpisodes 1-13 are extras shown on the video releases of Blue Seed in Japan. They take place after every other episode, such as Omake 1 follows episode 2.\nEpisode 14 is an extra featured with OVA Blue Seed 1.5.",
+  "title": {
+    "jp": "Blue Seed Omake"
+  },
+  "releasedAt": "1995-01-21T00:00:00.000Z",
+  "finishedAt": "1996-06-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3146/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3146",
+    "anilist/anime": "3620",
+    "aozora": "8N5BZI5QpA",
+    "myanimelist/anime": "3620"
+  }
+}

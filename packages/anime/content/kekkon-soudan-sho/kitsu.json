@@ -1,0 +1,23 @@
+{
+  "slug": "kekkon-soudan-sho",
+  "synopsis": "Official music video for Kojima Mayumi's Kekkon Soudan Sho single.",
+  "title": {
+    "jp": "Kekkon Soudan Sho"
+  },
+  "releasedAt": "1995-07-21T00:00:00.000Z",
+  "finishedAt": "1995-07-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13020/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13020",
+    "anilist/anime": "104942",
+    "aozora": "baU278W9eR",
+    "myanimelist/anime": "34685"
+  }
+}

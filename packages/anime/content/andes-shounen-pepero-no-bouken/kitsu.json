@@ -1,0 +1,25 @@
+{
+  "slug": "andes-shounen-pepero-no-bouken",
+  "synopsis": "This is the quest of Pepero and his friends in search of the Golden Condor or el Dorado. \n(Source: ANN)",
+  "title": {
+    "en": "Adventures of Pepero the Andes Boy",
+    "jp": "Andes Shounen Pepero no Bouken"
+  },
+  "releasedAt": "1975-10-06T00:00:00.000Z",
+  "finishedAt": "1976-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3931/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3931",
+    "anidb": "3085",
+    "anilist/anime": "5104",
+    "aozora": "84f9FFlqvi",
+    "myanimelist/anime": "5104"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "mobile-suit-gundam-the-08th-ms-team-a-battle-with-the-third-dimension",
+  "synopsis": "Mobile Suit Gundam: The 08th MS Team - Battle in Three Dimensions is a short film bundled with Mobile Suit Gundam: The 08th MS Team Blu-ray Memorial Box-set.\nThe 08th M.S. Team travels through the jungle while on a mission, Shiro Amada checks his map and stops when he spots a long bridge up ahead that spans a wide river, when they are attacked by a group of Zeon..\n(Source: Gundam Wiki)",
+  "title": {
+    "en": "Mobile Suit Gundam: The 08th MS Team - A Battle with the Third Dimension",
+    "jp": "Mobile Suit Gundam: The 08th MS Team - A Battle with the Third Dimension"
+  },
+  "releasedAt": "2013-02-22T00:00:00.000Z",
+  "finishedAt": "2013-02-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8345/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8345/original.png",
+  "categories": [
+    "action",
+    "mecha",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8345",
+    "anilist/anime": "17717",
+    "aozora": "Qp1R08TICK",
+    "myanimelist/anime": "17717"
+  }
+}

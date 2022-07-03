@@ -1,0 +1,26 @@
+{
+  "slug": "okubyou-na-venus",
+  "synopsis": "Story about a singer/dancer. There is music and singing throughout almost the entire OVA. ",
+  "title": {
+    "jp": "Okubyou na Venus"
+  },
+  "releasedAt": "1986-03-21T00:00:00.000Z",
+  "finishedAt": "1986-03-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5892/original.jpg",
+  "categories": [
+    "music",
+    "performance",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5892",
+    "anidb": "4830",
+    "anilist/anime": "9826",
+    "aozora": "WJohDQ56px",
+    "myanimelist/anime": "9826"
+  }
+}

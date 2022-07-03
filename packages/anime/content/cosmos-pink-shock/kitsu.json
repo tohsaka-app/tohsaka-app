@@ -1,0 +1,31 @@
+{
+  "slug": "cosmos-pink-shock",
+  "synopsis": "Based on a 1984 serial on the \"Animevision\" video magazine. The original material was compiled into this one-shot video. \n(Source: AniDB) ",
+  "title": {
+    "jp": "Cosmos Pink Shock"
+  },
+  "releasedAt": "1986-07-21T00:00:00.000Z",
+  "finishedAt": "1986-07-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3489/original.jpg",
+  "categories": [
+    "comedy",
+    "future",
+    "other planet",
+    "parody",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3489",
+    "anidb": "3967",
+    "anilist/anime": "4150",
+    "aozora": "zU8BHKBhN2",
+    "myanimelist/anime": "4150"
+  }
+}

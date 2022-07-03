@@ -1,0 +1,24 @@
+{
+  "slug": "zetsubou-no-kaibutsu",
+  "synopsis": "A story about fourteen-year-old alien girl Aoi Hoshino. Her family uses a certain medicine to disguise themselves as humans. For some reason the medicine slowly stops working, but only on Aoi...\n\n(Source: Official Website, edited)",
+  "title": {
+    "en": "DESPAIR OF THE MONSTER",
+    "jp": "Zetsubou no Kaibutsu"
+  },
+  "releasedAt": "2019-06-10T00:00:00.000Z",
+  "finishedAt": "2019-06-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44896/original.jpg",
+  "categories": [
+    "drama",
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44896",
+    "anilist/anime": "136665",
+    "myanimelist/anime": "42906"
+  }
+}

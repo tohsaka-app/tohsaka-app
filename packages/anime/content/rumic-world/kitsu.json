@@ -1,0 +1,25 @@
+{
+  "slug": "rumic-world",
+  "synopsis": "The characters from Ranma 1/2, Urusei Yatsura, and Inuyasha all gather together in a short crossover to introduce the 50th Anniversary Weekly Shonen Sunday \"Rumic World\" Museum opening, celebrating Rumiko Takahashi's manga work.",
+  "title": {
+    "jp": "It's a Rumic World: 50th Anniversary Weekly★Shonen Sunday"
+  },
+  "releasedAt": "2008-07-30T00:00:00.000Z",
+  "finishedAt": "2008-08-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4612/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4612",
+    "anilist/anime": "6566",
+    "aozora": "b1uFNu6XHx",
+    "myanimelist/anime": "6566"
+  }
+}

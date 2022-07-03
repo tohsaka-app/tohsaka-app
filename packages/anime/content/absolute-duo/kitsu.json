@@ -1,0 +1,40 @@
+{
+  "slug": "absolute-duo",
+  "synopsis": "Individuals who can materialize weapons from their soul are called \"Blazers,\" and they attend Kouryou Academy High School in order to harness their abilities. Each student is required to partner with another, in the hopes that one day, the pair can attain the power of Absolute Duo.\nTooru Kokonoe hopes to attend this academy in order to gain power after his sister and friends were slain by a mysterious man. However, at the opening ceremony, he is forced to duel against the person sitting next to him, with the loser being expelled. As Tooru prepares to give the match his all, it is not a weapon that manifests from his soul, but a shield, an irregularity which catches the attention of a foreign student named Julie Sigtuna.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Absolute Duo",
+    "jp": "Absolute Duo"
+  },
+  "releasedAt": "2015-01-04T00:00:00.000Z",
+  "finishedAt": "2015-03-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8641/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8641/original.jpg",
+  "categories": [
+    "action",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "romance",
+    "school life",
+    "violence"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/absolute-duo/videos/episodes",
+    "http://www.hulu.com/absolute-duo",
+    "https://tubitv.com/series/2238"
+  ],
+  "relations": {
+    "kitsu": "8641",
+    "anidb": "10745",
+    "anilist/anime": "20785",
+    "aozora": "gviaRL2uak",
+    "hulu": "50019829",
+    "myanimelist/anime": "25397",
+    "thetvdb": "283963/1",
+    "thetvdb/series": "283963",
+    "trakt": "79363"
+  }
+}

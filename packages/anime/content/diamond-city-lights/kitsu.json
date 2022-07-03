@@ -1,0 +1,25 @@
+{
+  "slug": "diamond-city-lights",
+  "synopsis": "MV for the song Diamond City Lights by LazuLight. Posted for the debut of NIJISANJI EN.",
+  "title": {
+    "en": "Diamond City Lights"
+  },
+  "releasedAt": "2021-05-16T00:00:00.000Z",
+  "finishedAt": "2021-05-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44576/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44576/original.jpg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=ZnP0cKNPE04"
+  ],
+  "relations": {
+    "kitsu": "44576"
+  }
+}

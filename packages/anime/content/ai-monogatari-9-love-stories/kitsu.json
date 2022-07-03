@@ -1,0 +1,27 @@
+{
+  "slug": "ai-monogatari-9-love-stories",
+  "synopsis": "An OVA based on the work of Kawaguchi Kaiji consisting of nine independent stories, each animated by a different director. With Beatles music involved, somewhere.\n(Source: AniDB)",
+  "title": {
+    "jp": "Ai Monogatari: 9 Love Stories"
+  },
+  "releasedAt": "1993-04-02T00:00:00.000Z",
+  "finishedAt": "1993-04-02T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2164/original.jpg",
+  "categories": [
+    "japan",
+    "present",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2164",
+    "anidb": "3354",
+    "anilist/anime": "2387",
+    "aozora": "XCKEJhhiOx",
+    "myanimelist/anime": "2387"
+  }
+}

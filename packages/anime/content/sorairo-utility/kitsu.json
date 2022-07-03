@@ -1,0 +1,30 @@
+{
+  "slug": "sorairo-utility",
+  "synopsis": "Three high schoolers, Minami, Ayaka, and Haruka, head out for a sunny day of relaxation at the golf course. Beginner Minami slowly gains confidence on the grass as she learns and laughs with the help and encouragement of her more experienced senpai.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Sky Blue Utility",
+    "jp": "Sorairo Utility"
+  },
+  "releasedAt": "2021-12-31T00:00:00.000Z",
+  "finishedAt": "2021-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45365/poster_image/78ce8e953036e9c9dc0ef916857ab653.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45365/cover_image/5644def67845e0de95ca9dfb9cb44b26.jpg",
+  "categories": [
+    "slice of life",
+    "sports"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GG5H5XDJM/sorairo-utility",
+    "https://vrv.co/series/GG5H5XDJM/Sorairo-Utility",
+    "https://www.funimation.com/shows/sorairo-utility/",
+    "https://www.youtube.com/watch?v=YupGxYxonn0"
+  ],
+  "relations": {
+    "kitsu": "45365",
+    "anilist/anime": "140700",
+    "myanimelist/anime": "50209"
+  }
+}

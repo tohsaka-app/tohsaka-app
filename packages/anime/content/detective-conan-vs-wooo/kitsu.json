@@ -1,0 +1,29 @@
+{
+  "slug": "detective-conan-vs-wooo",
+  "synopsis": "A web series \"Detective Conan vs. Wooo.\" This web short is an advertisement for the Wooo line of televisions in Japan.",
+  "title": {
+    "en": "Detective Conan vs. Wooo",
+    "jp": "Detective Conan vs. Wooo"
+  },
+  "releasedAt": "2011-04-22T00:00:00.000Z",
+  "finishedAt": "2011-06-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6341/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "cops",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6341",
+    "anidb": "8534",
+    "anilist/anime": "10766",
+    "aozora": "7KkoxB575e",
+    "myanimelist/anime": "10766",
+    "trakt": "30849"
+  }
+}

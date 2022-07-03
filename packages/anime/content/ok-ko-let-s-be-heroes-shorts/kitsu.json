@@ -1,0 +1,25 @@
+{
+  "slug": "ok-ko-let-s-be-heroes-shorts",
+  "synopsis": "Short episodes uploaded to Cartoon Networks YouTube or the Cartoon Network App.",
+  "title": {},
+  "releasedAt": "2016-02-04T00:00:00.000Z",
+  "finishedAt": "2017-11-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41473/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41473/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "robot",
+    "super power",
+    "superhero",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41473"
+  }
+}

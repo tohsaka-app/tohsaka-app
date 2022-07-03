@@ -1,0 +1,23 @@
+{
+  "slug": "akai-hoshi-aoi-hoshi-tenmon-carat-no-hoshi-kara",
+  "synopsis": "Music video for the song Akai Hoshi Aoi Hoshi: Tenmon Carat no Hoshi kara by Saori Yuki that was featured on NHK's Minna no Uta program. The video was animated by Toshio Nishiuchi.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Akai Hoshi Aoi Hoshi: Tenmon Carat no Hoshi kara"
+  },
+  "releasedAt": "1995-06-02T00:00:00.000Z",
+  "finishedAt": "1995-06-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44805/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44805",
+    "anilist/anime": "139775",
+    "myanimelist/anime": "42888"
+  }
+}

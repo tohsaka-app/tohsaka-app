@@ -1,0 +1,25 @@
+{
+  "slug": "furiten-kun",
+  "synopsis": "Based on the yonkoma manga by Ueda Masashi.",
+  "title": {
+    "jp": "Furiten-kun"
+  },
+  "releasedAt": "1981-04-11T00:00:00.000Z",
+  "finishedAt": "1981-04-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9266/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9266",
+    "anidb": "7708",
+    "anilist/anime": "20093",
+    "aozora": "V3KnqA52K3",
+    "myanimelist/anime": "20093"
+  }
+}

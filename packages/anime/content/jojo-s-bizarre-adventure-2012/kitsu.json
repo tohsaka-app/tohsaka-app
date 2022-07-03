@@ -1,0 +1,46 @@
+{
+  "slug": "jojo-s-bizarre-adventure-2012",
+  "synopsis": "In 1868, Dario Brando saves the life of an English nobleman, George Joestar. By taking in Dario's son Dio when the boy becomes fatherless, George hopes to repay the debt he owes to his savior. However Dio, unsatisfied with his station in life, aspires to seize the Joestar house for his own. Wielding an Aztec stone mask with supernatural properties, he sets out to destroy George and his son, Jonathan \"JoJo\" Joestar, and triggers a chain of events that will continue to echo through the years to come.\n\nHalf a century later, in New York City, Jonathan's grandson Joseph Joestar discovers the legacy his grandfather left for him. When an archeological dig unearths the truth behind the stone mask, he realizes that he is the only one who can defeat the Pillar Men, mystical beings of immeasurable power who inadvertently began everything.\n\nAdapted from the first two arcs of Hirohiko Araki's outlandish manga series, JoJo no Kimyou na Bouken follows the many thrilling expeditions of JoJo and his descendants. Whether it's facing off with the evil Dio, or combatting the sinister Pillar Men, there's always plenty of bizarre adventures in store.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "JoJo's Bizarre Adventure (2012)",
+    "jp": "JoJo no Kimyou na Bouken (TV)"
+  },
+  "releasedAt": "2012-10-06T00:00:00.000Z",
+  "finishedAt": "2013-04-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/7158/poster_image/86c1aa856e619b058a9dd008f83440ce.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7158/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "earth",
+    "europe",
+    "historical",
+    "horror",
+    "past",
+    "shounen",
+    "super power",
+    "vampire",
+    "violence",
+    "world war ii"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/jojos-bizarre-adventure",
+    "https://www.netflix.com/title/80179831",
+    "vrv.co/series/GYP8DP1MY/JoJos-Bizarre-Adventure"
+  ],
+  "relations": {
+    "kitsu": "7158",
+    "anidb": "9304",
+    "anilist/anime": "14719",
+    "aozora": "fdt53KyY5n",
+    "hulu": "50025778",
+    "myanimelist/anime": "14719",
+    "thetvdb": "262954/1",
+    "thetvdb/season": "502370",
+    "thetvdb/series": "262954",
+    "trakt": "45537"
+  }
+}

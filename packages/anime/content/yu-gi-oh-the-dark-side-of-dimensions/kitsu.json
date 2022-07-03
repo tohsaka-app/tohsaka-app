@@ -1,0 +1,32 @@
+{
+  "slug": "yu-gi-oh-the-dark-side-of-dimensions",
+  "synopsis": "In the past, Yuugi Yami and Kaiba have clashed many times!! Yuugi Yami, who resides in Yuugi Mutou's body, and Kaiba will have a duel that bets their prides and accepts each other's mutual experience.\n(Source: ANN)",
+  "title": {
+    "jp": "Yu☆Gi☆Oh! The Dark Side of Dimensions"
+  },
+  "releasedAt": "2016-04-23T00:00:00.000Z",
+  "finishedAt": "2016-04-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10092/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10092/original.png",
+  "categories": [
+    "adventure",
+    "card games",
+    "contemporary fantasy",
+    "fantasy",
+    "friendship",
+    "proxy battles",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10092",
+    "anidb": "10963",
+    "anilist/anime": "21265",
+    "aozora": "UJnIgHQGxW",
+    "myanimelist/anime": "28771"
+  }
+}

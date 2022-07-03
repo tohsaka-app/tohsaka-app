@@ -1,0 +1,39 @@
+{
+  "slug": "mobile-suit-gundam-unicorn",
+  "synopsis": "U.C. 0096...\nThe manufacturing colony Industrial 7, which is still under construction, floats at Lagrange point 1.\nA youth named Banagher Links, who grew up without knowing his father, meets a mysterious girl who has stowed away on a ship bound for Industrial 7. As the white mobile suit Unicorn undergoes repeated tests and becomes the subject of diverse speculations, the hands of time begin to move.\nBanagher does not yet know that he has been caught up in the conflict surrounding Laplace's Box.\nWhat is Laplace's Box?\nWhat secret does it contain?\nThe hundred-year curse of the Universal Century is about to be resolved.\n(Source: Official website)",
+  "title": {
+    "en": "Mobile Suit Gundam Unicorn",
+    "jp": "Mobile Suit Gundam Unicorn"
+  },
+  "releasedAt": "2010-03-12T00:00:00.000Z",
+  "finishedAt": "2014-06-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4525/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4525/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "mecha",
+    "military",
+    "navy",
+    "piloted robot",
+    "science fiction",
+    "space",
+    "space opera",
+    "space travel",
+    "war"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/mobile-suit-gundam-uc-unicorn/",
+    "https://www.netflix.com/title/80189183"
+  ],
+  "relations": {
+    "kitsu": "4525",
+    "anidb": "6517",
+    "anilist/anime": "6336",
+    "aozora": "pqK8qRwl0U",
+    "myanimelist/anime": "6336"
+  }
+}

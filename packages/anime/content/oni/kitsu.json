@@ -1,0 +1,26 @@
+{
+  "slug": "oni",
+  "synopsis": "One morning, two brothers living in a hut with their mother set out for the mountains to set traps for deer. They move silently through the forest undergrowth until suddenly a demon's arm reaches out from the treetops and grabs the younger brother. The older brother aims carefully, calms the shaking of his hands and lets an arrow fly, thus saving his brother's life. The demon's arm is left behind and somehow it looks familiar. After returning home a horrible truth is revealed.... Drawing on an early medieval Japanese legend, the film is reminiscent of the horror psychodrama Kwaidan. The Demon (1972) took awards at many animation festivals. \n(Source: kviff.com)",
+  "title": {
+    "jp": "Oni"
+  },
+  "releasedAt": "1972-01-01T00:00:00.000Z",
+  "finishedAt": "1972-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4891/original.jpg",
+  "categories": [
+    "demon",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4891",
+    "anidb": "4398",
+    "anilist/anime": "7171",
+    "aozora": "BmraOVlzrE",
+    "myanimelist/anime": "7171"
+  }
+}

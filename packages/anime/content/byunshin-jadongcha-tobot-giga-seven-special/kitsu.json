@@ -1,0 +1,24 @@
+{
+  "slug": "byunshin-jadongcha-tobot-giga-seven-special",
+  "synopsis": "Final arc of Tobot.",
+  "title": {
+    "en": "Tobot - Giga Seven Special"
+  },
+  "releasedAt": "2015-12-01T00:00:00.000Z",
+  "finishedAt": "2015-12-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44266/original.jpg",
+  "categories": [
+    "kids",
+    "korea",
+    "mecha",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44266"
+  }
+}

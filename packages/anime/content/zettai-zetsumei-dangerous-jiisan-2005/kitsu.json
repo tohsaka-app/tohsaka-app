@@ -1,0 +1,23 @@
+{
+  "slug": "zettai-zetsumei-dangerous-jiisan-2005",
+  "synopsis": "The third series of Zettai Zetsumei Dangerous Jiisan with the gags continuing on.",
+  "title": {
+    "jp": "Zettai Zetsumei Dangerous Jiisan (2005)"
+  },
+  "releasedAt": "2005-04-01T00:00:00.000Z",
+  "finishedAt": "2006-03-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9128/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9128",
+    "aozora": "J2PlbaBV58",
+    "myanimelist/anime": "22709"
+  }
+}

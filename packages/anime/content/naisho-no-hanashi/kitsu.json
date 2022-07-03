@@ -1,0 +1,22 @@
+{
+  "slug": "naisho-no-hanashi",
+  "synopsis": "Naisho no Hanashi is a pop song by the Japanese duo and idol unit ClariS, written by Ryo. It was released as the unit's fourth single on February 1, 2012, by SME Records. The song was used as the ending theme to the 2012 anime series Nisemonogatari. A music video was produced for the song, directed by Kazuaki Nakamura.\n\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Naisho no Hanashi"
+  },
+  "releasedAt": "2012-02-01T00:00:00.000Z",
+  "finishedAt": "2012-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14101/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14101",
+    "anilist/anime": "102859",
+    "myanimelist/anime": "36725"
+  }
+}

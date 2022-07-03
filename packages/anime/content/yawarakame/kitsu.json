@@ -1,0 +1,25 @@
+{
+  "slug": "yawarakame",
+  "synopsis": "A mobile phone TV show broadcasted on Bee TV.  \nThe anime is most notable for its entire cast being voiced by seiyuu Sawashiro Miyuki, who plays every single character, from male to female and from human to non-human.",
+  "title": {
+    "jp": "Yawarakame♥"
+  },
+  "releasedAt": "2009-12-01T00:00:00.000Z",
+  "finishedAt": "2010-05-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5066/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5066",
+    "anidb": "7241",
+    "anilist/anime": "7646",
+    "aozora": "QyHHI1tkPT",
+    "myanimelist/anime": "7646"
+  }
+}

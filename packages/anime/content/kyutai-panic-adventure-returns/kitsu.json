@@ -1,0 +1,24 @@
+{
+  "slug": "kyutai-panic-adventure-returns",
+  "synopsis": "A special screened at an event named Odaiba Boken-Oh, featuring characters from Dragon Ball Z, One Piece and Kochira Katsushikaku Kameari Kouenmae Hashutsujo.",
+  "title": {
+    "jp": "Kyutai Panic Adventure Returns!"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8476/original.jpg",
+  "categories": [
+    "action",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8476",
+    "anilist/anime": "107256",
+    "aozora": "yweMhNeLE1",
+    "myanimelist/anime": "23935"
+  }
+}

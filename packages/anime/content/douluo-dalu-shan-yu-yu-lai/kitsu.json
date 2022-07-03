@@ -1,0 +1,25 @@
+{
+  "slug": "douluo-dalu-shan-yu-yu-lai",
+  "synopsis": "The ninth part of Douluo Dalu.",
+  "title": {},
+  "releasedAt": "2021-05-22T00:00:00.000Z",
+  "finishedAt": "2021-08-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44625/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "romance",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44625",
+    "anilist/anime": "134168"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "gunslinger-girl",
+  "synopsis": "In the heart of Italy, the Social Welfare Agency rescues young girls from hospital beds and gives them a second chance at life using the latest in cybernetic advancements. With their artificially enhanced bodies, the girls are brainwashed and trained as assassins to carry out the dirty work of the Italian Government. Despite all the modifications, they are still just children at heart, struggling for recognition from those they love, even knowing the love they feel is manufactured. This tragic tale unfolds as these girls grapple with their emotions in an agency that treats them as nothing but ruthless killers.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Gunslinger Girl",
+    "jp": "Gunslinger Girl"
+  },
+  "releasedAt": "2003-10-09T00:00:00.000Z",
+  "finishedAt": "2004-02-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/113/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/113/original.jpg",
+  "categories": [
+    "action",
+    "crime",
+    "cyborg",
+    "drama",
+    "earth",
+    "europe",
+    "gunfights",
+    "human enhancement",
+    "italy",
+    "military",
+    "plot continuity",
+    "present",
+    "psychological",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/gunslinger-girl/videos/episodes",
+    "http://www.hulu.com/gunslinger-girl"
+  ],
+  "relations": {
+    "kitsu": "113",
+    "anidb": "1002",
+    "anilist/anime": "134",
+    "aozora": "ResygY5Zvc",
+    "hulu": "50001284",
+    "myanimelist/anime": "134",
+    "thetvdb": "78812/1",
+    "thetvdb/season": "15702",
+    "thetvdb/series": "78812",
+    "trakt": "31593"
+  }
+}

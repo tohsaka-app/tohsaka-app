@@ -1,0 +1,33 @@
+{
+  "slug": "wooser-no-sono-higurashi",
+  "synopsis": "Lovely, but with a dark heart. The hand-to-mouth life of a strange yellow and black creature named \"Wooser\". Lovely but with a dark heart, the new hero (?) from the depths of the internet is appearing on TV and Nico Nico Video! \"My favorite things are meat and money and girls,\" he says, but what are his cute, round eyes staring at? (* Probably meat, money, or girls) The strange hand-to-mouth life of this strange creature is now being animated by Sanzigen, famous for their 3D CG animations! Do note that the dot in the middle is supposedly a mouth, not a nose.\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Wooser's Hand-to-Mouth Life",
+    "jp": "Wooser no Sono Higurashi"
+  },
+  "releasedAt": "2012-10-03T00:00:00.000Z",
+  "finishedAt": "2012-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7238/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/woosers-hand-to-mouth-life"
+  ],
+  "relations": {
+    "kitsu": "7238",
+    "anidb": "9386",
+    "anilist/anime": "15313",
+    "aozora": "AABZHZHvG5",
+    "myanimelist/anime": "15313",
+    "thetvdb": "263851/1",
+    "thetvdb/season": "504687",
+    "thetvdb/series": "263851",
+    "trakt": "68498"
+  }
+}

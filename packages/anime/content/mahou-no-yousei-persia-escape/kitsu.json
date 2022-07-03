@@ -1,0 +1,23 @@
+{
+  "slug": "mahou-no-yousei-persia-escape",
+  "synopsis": "An animated music video included as a bonus feature on the LD Lovely Dream Box Part-1 of Mahou no Yousei Persia.",
+  "title": {
+    "jp": "Mahou no Yousei Persia: Escape!"
+  },
+  "releasedAt": "1999-03-25T00:00:00.000Z",
+  "finishedAt": "1999-03-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9120/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9120",
+    "anilist/anime": "109340",
+    "aozora": "tjCwUQl7e1",
+    "myanimelist/anime": "22293"
+  }
+}

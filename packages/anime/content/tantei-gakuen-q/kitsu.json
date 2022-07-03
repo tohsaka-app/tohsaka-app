@@ -1,0 +1,38 @@
+{
+  "slug": "tantei-gakuen-q",
+  "synopsis": "Kyuu is your average boy with a knack for logic and reasoning. Desiring to become a detective, he finds out about the existence of the Dan Detective School (DDS); a famed school where students are allowed to bear arms. Together with Megu, a girl with photographic memory, the martial arts master Kinta, the genius programmer Kazuma and the mysterious Ryuu, Kyuu tackles many well planned out crimes, always seeking the truth.",
+  "title": {
+    "en": "Detective School Q",
+    "jp": "Tantei Gakuen Q"
+  },
+  "releasedAt": "2003-04-15T00:00:00.000Z",
+  "finishedAt": "2004-03-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/374/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/374/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "cops",
+    "detective",
+    "earth",
+    "japan",
+    "mystery",
+    "present",
+    "school life",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "374",
+    "anidb": "642",
+    "anilist/anime": "407",
+    "aozora": "gim4og8998",
+    "myanimelist/anime": "407",
+    "thetvdb": "230211",
+    "thetvdb/series": "79134",
+    "trakt": "65069"
+  }
+}

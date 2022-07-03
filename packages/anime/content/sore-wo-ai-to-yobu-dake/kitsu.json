@@ -1,0 +1,27 @@
+{
+  "slug": "sore-wo-ai-to-yobu-dake",
+  "synopsis": "Official music video for mafumafu's song Sore wo Ai to Yobu dake.",
+  "title": {
+    "jp": "Sore wo Ai to Yobu dake"
+  },
+  "releasedAt": "2020-08-15T00:00:00.000Z",
+  "finishedAt": "2020-08-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43650/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43650/original.jpg",
+  "categories": [
+    "fantasy",
+    "music",
+    "romance"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=bMwLJHWP1UE"
+  ],
+  "relations": {
+    "kitsu": "43650",
+    "anilist/anime": "122875",
+    "myanimelist/anime": "42703"
+  }
+}

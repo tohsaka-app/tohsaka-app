@@ -1,0 +1,32 @@
+{
+  "slug": "honoo-no-labyrinth",
+  "synopsis": "Meet Galan, a Russian spastic geek who`d do anything to be a real, live samurai. But that`s just an impossible dream... or is it? When his friend Natsu, who is a successor of Japanese emigrants family, gives him the gift of an ancient sword, strange events unfold, and even stranger people drop out of the sky to attack. Now Galan must overcome his ineptitude and join a bunch of beautiful women in a wacky romp through a kingdom that time forgot. Hey, what could be better?\n(Source: AniDB, edited)",
+  "title": {
+    "en": "Labyrinth Of Flames",
+    "jp": "Honoo no Labyrinth"
+  },
+  "releasedAt": "2000-09-25T00:00:00.000Z",
+  "finishedAt": "2000-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/537/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "comedy",
+    "ecchi",
+    "russia",
+    "samurai",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "537",
+    "anidb": "515",
+    "anilist/anime": "581",
+    "aozora": "46AyGq67EP",
+    "myanimelist/anime": "581"
+  }
+}

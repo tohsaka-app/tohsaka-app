@@ -1,0 +1,26 @@
+{
+  "slug": "saboten-ga-nikui",
+  "synopsis": "A dung beetle and a scorpion among others are taunted and teased by some cacti. A stop motion animation with song by Yamada Kuniko for NHK's Minna no Uta segment.",
+  "title": {
+    "jp": "Saboten ga Nikui"
+  },
+  "releasedAt": "1988-06-01T00:00:00.000Z",
+  "finishedAt": "1988-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5438/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5438",
+    "anidb": "12711",
+    "anilist/anime": "8679",
+    "aozora": "SESpM1Cl6T",
+    "myanimelist/anime": "8679"
+  }
+}

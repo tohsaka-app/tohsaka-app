@@ -1,0 +1,27 @@
+{
+  "slug": "sonic-x-pilot",
+  "synopsis": "The original pilot videos for Sonic X.\nAn English promotional without humans, and a Japanese closer to the final.",
+  "title": {
+    "jp": "Sonic X Pilot"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6107/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6107",
+    "anilist/anime": "10263",
+    "aozora": "XypdJDV47D",
+    "myanimelist/anime": "10263"
+  }
+}

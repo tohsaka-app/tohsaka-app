@@ -1,0 +1,30 @@
+{
+  "slug": "gintama-shirogane-no-tamashii-hen-2",
+  "synopsis": "Second season of the final arc of Gintama.",
+  "title": {
+    "en": "Gintama.: Silver Soul Arc 2",
+    "jp": "Gintama.: Shirogane no Tamashii-hen 2"
+  },
+  "releasedAt": "2018-07-09T00:00:00.000Z",
+  "finishedAt": "2018-10-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41079/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/41079/cover_image/62e675421c7a03199b4615b08fc28b02.png",
+  "categories": [
+    "action",
+    "comedy",
+    "historical",
+    "parody",
+    "science fiction",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41079",
+    "anidb": "13917",
+    "anilist/anime": "101925",
+    "myanimelist/anime": "37491"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "kidou-senshi-gundam-the-origin-zenya-akai-suisei",
+  "synopsis": "A re-edited TV version of the six theatrical events that took place from 2014 through 2018.\n\n(Source: AniDB)",
+  "title": {
+    "en": "Mobile Suit Gundam: The Origin - Advent of the Red Comet",
+    "jp": "Kidou Senshi Gundam: The Origin - Zenya Akai Suisei"
+  },
+  "releasedAt": "2019-04-29T00:00:00.000Z",
+  "finishedAt": "2019-08-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42242/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42242/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "mecha",
+    "military",
+    "other planet",
+    "piloted robot",
+    "robot",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space battles",
+    "super robot",
+    "war"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/mobile-suit-gundam-the-origin-advent-of-the-red-comet",
+    "https://www.funimation.com/shows/mobile-suit-gundam-the-origin-advent-of-the-red-comet"
+  ],
+  "relations": {
+    "kitsu": "42242",
+    "anidb": "14496",
+    "anilist/anime": "108039",
+    "animenewsnetwork": "21826",
+    "myanimelist/anime": "39592"
+  }
+}

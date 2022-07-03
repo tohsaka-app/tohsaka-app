@@ -1,0 +1,24 @@
+{
+  "slug": "fuuma-no-kojirou-fuuma-hanran-hen",
+  "synopsis": "After the Chaos war, Kojiro and Ryuma return to earth only to find their clan members killing off each other.",
+  "title": {
+    "jp": "Fuuma no Kojirou: Fuuma Hanran-hen"
+  },
+  "releasedAt": "1991-11-21T00:00:00.000Z",
+  "finishedAt": "1991-11-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3828/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3828",
+    "anidb": "3096",
+    "anilist/anime": "4856",
+    "aozora": "zPEKeu72uu",
+    "myanimelist/anime": "4856"
+  }
+}

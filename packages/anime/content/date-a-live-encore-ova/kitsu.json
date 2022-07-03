@@ -1,0 +1,29 @@
+{
+  "slug": "date-a-live-encore-ova",
+  "synopsis": "The third volume of the Date A Live: Encore short story collection will bundle an unaired episode in a limited edition.\nThe story is set on July 7th. \"In the midst of the Tanabata festival celebrations, Shidou meets Kurumi, the worst Spirit. And the couple's destination is ...a wedding ceremony hall?!\"\n(Source: ANN)",
+  "title": {
+    "jp": "Date A Live: Encore"
+  },
+  "releasedAt": "2014-12-08T00:00:00.000Z",
+  "finishedAt": "2014-12-08T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8511/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8511/original.png",
+  "categories": [
+    "contemporary fantasy",
+    "harem",
+    "japan",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8511",
+    "anidb": "10568",
+    "anilist/anime": "20767",
+    "aozora": "qUNfHMiIQo",
+    "myanimelist/anime": "22961"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "tono-to-issho",
+  "synopsis": "Comedy parodying famous samurai generals and historical events.",
+  "title": {
+    "jp": "Tono to Issho"
+  },
+  "releasedAt": "2010-03-25T00:00:00.000Z",
+  "finishedAt": "2010-03-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5043/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "japan",
+    "parody",
+    "samurai",
+    "sengoku period"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/tono-to-issho"
+  ],
+  "relations": {
+    "kitsu": "5043",
+    "anidb": "7230",
+    "anilist/anime": "7591",
+    "aozora": "Vgi30ZU6yK",
+    "myanimelist/anime": "7591"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "crash",
+  "synopsis": "Three episodes aired on TV as part of the Ribon x Oha Suta specials. ",
+  "title": {
+    "jp": "Crash!"
+  },
+  "releasedAt": "2012-11-13T00:00:00.000Z",
+  "finishedAt": "2012-11-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7334/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7334",
+    "anilist/anime": "15893",
+    "aozora": "MvkFD3m1oD",
+    "myanimelist/anime": "15893"
+  }
+}

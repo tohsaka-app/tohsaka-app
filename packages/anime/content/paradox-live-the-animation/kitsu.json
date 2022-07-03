@@ -1,0 +1,21 @@
+{
+  "slug": "paradox-live-the-animation",
+  "synopsis": null,
+  "title": {
+    "jp": "Paradox Live THE ANIMATION"
+  },
+  "releasedAt": "2023-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46141/poster_image/df926b90e8c284aa271cdc57f12c6694.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46141",
+    "anilist/anime": "150077"
+  }
+}

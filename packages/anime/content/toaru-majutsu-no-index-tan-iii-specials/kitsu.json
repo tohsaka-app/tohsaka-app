@@ -1,0 +1,26 @@
+{
+  "slug": "toaru-majutsu-no-index-tan-iii-specials",
+  "synopsis": "New series of shorts featuring Index-tan.",
+  "title": {
+    "en": "A Certain Magical Index III: Specials",
+    "jp": "Toaru Majutsu no Index-tan III"
+  },
+  "releasedAt": "2018-12-26T00:00:00.000Z",
+  "finishedAt": "2019-04-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43131/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43131",
+    "anidb": "13481",
+    "anilist/anime": "107692",
+    "animenewsnetwork": "21108",
+    "myanimelist/anime": "39094"
+  }
+}

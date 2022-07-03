@@ -1,0 +1,22 @@
+{
+  "slug": "channel-5-5-3rd-season-prologue",
+  "synopsis": "Prologue episode of Channel 5.5 3rd Season.",
+  "title": {
+    "jp": "Channel 5.5 3rd Season Prologue"
+  },
+  "releasedAt": "2014-07-01T00:00:00.000Z",
+  "finishedAt": "2014-07-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10527/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10527",
+    "aozora": "CSG8fB4cIp",
+    "myanimelist/anime": "29861"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "ushio-to-tora-tv-2",
+  "synopsis": "Continuation of Ushio to Tora TV series.",
+  "title": {
+    "en": "Ushio & Tora Season 2",
+    "jp": "Ushio to Tora (TV) 2nd Season"
+  },
+  "releasedAt": "2016-04-01T00:00:00.000Z",
+  "finishedAt": "2016-06-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11126/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11126/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "demon",
+    "fantasy",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/ushio-and-tora",
+    "http://www.hulu.com/ushio-and-tora"
+  ],
+  "relations": {
+    "kitsu": "11126",
+    "anidb": "11318",
+    "anilist/anime": "21241",
+    "aozora": "EOR9atzOpR",
+    "hulu": "50022405",
+    "myanimelist/anime": "31098",
+    "trakt": "97793"
+  }
+}

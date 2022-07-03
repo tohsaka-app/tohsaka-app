@@ -1,0 +1,27 @@
+{
+  "slug": "bad-end-night",
+  "synopsis": "Hitoshizuku-P x Yama△'s Music video for the song Bad ∞ End ∞ Night.",
+  "title": {
+    "en": "Bad ∞ End ∞ Night",
+    "jp": "Bad ∞ End ∞ Night"
+  },
+  "releasedAt": "2014-12-19T00:00:00.000Z",
+  "finishedAt": "2014-12-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44327/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44327/original.jpg",
+  "categories": [
+    "horror",
+    "music",
+    "mystery",
+    "psychological"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=WDUA7z3703"
+  ],
+  "relations": {
+    "kitsu": "44327"
+  }
+}

@@ -1,0 +1,92 @@
+[
+  {
+    "title": {
+      "jp": "Uzuki"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2017-07-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Satsuki"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2017-07-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Minazuki"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2017-07-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fumizuki"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2017-07-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hazuki"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2017-08-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nagatsuki"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2017-08-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 7,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 8,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 9,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 10,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 11,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 12,
+    "content": {}
+  }
+]

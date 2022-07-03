@@ -1,0 +1,27 @@
+{
+  "slug": "nido-to-mezamenu-komori-uta",
+  "synopsis": "An animated film describing the bullying of a Japanese child.",
+  "title": {
+    "en": "The Death Lullaby",
+    "jp": "Nido to Mezamenu Komori Uta"
+  },
+  "releasedAt": "1985-01-01T00:00:00.000Z",
+  "finishedAt": "1985-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4925/original.jpg",
+  "categories": [
+    "dementia",
+    "japan",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4925",
+    "anidb": "8301",
+    "anilist/anime": "7273",
+    "aozora": "k1ecWUqJLM",
+    "myanimelist/anime": "7273"
+  }
+}

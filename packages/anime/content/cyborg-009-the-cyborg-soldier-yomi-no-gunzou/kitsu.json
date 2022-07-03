@@ -1,0 +1,25 @@
+{
+  "slug": "cyborg-009-the-cyborg-soldier-yomi-no-gunzou",
+  "synopsis": "A recap episode of Cyborg 009: The Cyborg Soldier that aired between episode 47 and 48.",
+  "title": {
+    "jp": "Cyborg 009: The Cyborg Soldier - Yomi no Gunzou"
+  },
+  "releasedAt": "2002-09-22T00:00:00.000Z",
+  "finishedAt": "2002-09-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44555/original.jpg",
+  "categories": [
+    "action",
+    "cyborg",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44555",
+    "anidb": "1214",
+    "myanimelist/anime": "40250"
+  }
+}

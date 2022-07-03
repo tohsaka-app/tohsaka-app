@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-pikachu-tanken-club",
+  "synopsis": "The fourth short premiered on ANA flights on August 1, 2007.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Pikachu's Exploration Club",
+    "jp": "Pokemon: Pikachu Tanken Club"
+  },
+  "releasedAt": "2007-08-01T00:00:00.000Z",
+  "finishedAt": "2007-08-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5026/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5026",
+    "anidb": "6792",
+    "anilist/anime": "7550",
+    "aozora": "RRWoVkPZE6",
+    "myanimelist/anime": "7550"
+  }
+}

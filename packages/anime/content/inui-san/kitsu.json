@@ -1,0 +1,23 @@
+{
+  "slug": "inui-san",
+  "synopsis": "Included in the Ciao Ciao TV bonus DVD that bundled with the August issue of the Ciao magazine.\n(Source: AniDB)",
+  "title": {
+    "jp": "Inui-san!"
+  },
+  "releasedAt": "2014-07-03T00:00:00.000Z",
+  "finishedAt": "2014-07-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8551/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8551",
+    "anidb": "10656",
+    "aozora": "lNfFm0jrnH",
+    "myanimelist/anime": "24501"
+  }
+}

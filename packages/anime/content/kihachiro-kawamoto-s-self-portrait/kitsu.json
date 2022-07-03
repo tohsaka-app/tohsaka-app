@@ -1,0 +1,26 @@
+{
+  "slug": "kihachiro-kawamoto-s-self-portrait",
+  "synopsis": "A stop motion short film by Kihachiro Kawamoto. This short film humorously shows what happens when the artist creates a being that insists on 'creating' the artist.",
+  "title": {
+    "en": "Animated Self Portraits A Portrait of Kawamoto",
+    "jp": "Self-Portrait"
+  },
+  "releasedAt": "1988-01-01T00:00:00.000Z",
+  "finishedAt": "1988-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5416/original.jpg",
+  "categories": [
+    "comedy",
+    "demon"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5416",
+    "anidb": "7045",
+    "anilist/anime": "8647",
+    "aozora": "Jjoc9q3Z4Q",
+    "myanimelist/anime": "8647"
+  }
+}

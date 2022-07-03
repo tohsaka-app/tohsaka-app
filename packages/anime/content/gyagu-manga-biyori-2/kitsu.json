@@ -1,0 +1,29 @@
+{
+  "slug": "gyagu-manga-biyori-2",
+  "synopsis": "Gyagu Manga Biyori is hyperactive, random, and nonsensical, revolving around various plots and characters throughout the series. It makes absolutely no sense. The 1st episode is about stickers included in snacks\n(Source: ANN)",
+  "title": {
+    "jp": "Masuda Kousuke Gekijou Gag Manga Biyori 2"
+  },
+  "releasedAt": "2006-08-05T00:00:00.000Z",
+  "finishedAt": "2006-10-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2284/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2284",
+    "anidb": "4558",
+    "anilist/anime": "2518",
+    "aozora": "PbzJuLtJbh",
+    "myanimelist/anime": "2518",
+    "thetvdb": "83807/1",
+    "thetvdb/season": "37359",
+    "thetvdb/series": "83807",
+    "trakt": "65392"
+  }
+}

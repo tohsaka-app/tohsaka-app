@@ -1,0 +1,25 @@
+{
+  "slug": "makiba-no-shoujo-katori-specials",
+  "synopsis": "A summary of the Makiba no Shoujo Katori full series aired as a TV specials. ",
+  "title": {
+    "jp": "Makiba no Shoujo Katri Specials"
+  },
+  "releasedAt": "2001-04-14T00:00:00.000Z",
+  "finishedAt": "2001-04-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9427/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "historical",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9427",
+    "aozora": "npsxgxfJaV",
+    "myanimelist/anime": "25073"
+  }
+}

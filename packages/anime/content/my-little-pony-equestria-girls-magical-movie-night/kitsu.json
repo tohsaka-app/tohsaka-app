@@ -1,0 +1,27 @@
+{
+  "slug": "my-little-pony-equestria-girls-magical-movie-night",
+  "synopsis": "Grab some popcorn and enjoy three magical adventures starring everybody's favorite characters from Canterlot High as they enter a music video contest, go behind the scenes of a movie and encounter an enchanted mirror!\n\n(Source: MLP Wiki)",
+  "title": {
+    "en": "My Little Pony: Equestria Girls - Magical Movie Night"
+  },
+  "releasedAt": "2017-06-24T00:00:00.000Z",
+  "finishedAt": "2017-07-08T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44363/original.jpg",
+  "categories": [
+    "anime influenced",
+    "fantasy",
+    "friendship",
+    "high school",
+    "kids",
+    "magic",
+    "magical girl",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44363"
+  }
+}

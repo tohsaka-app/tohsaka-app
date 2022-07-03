@@ -1,0 +1,44 @@
+{
+  "slug": "fairy-tail",
+  "synopsis": "A superficial but kind-hearted celestial mage, Lucy Heartfilia, joins a famous wizarding guild in Magnolia Town called Fairy Tail, where the members use their powers to earn rewards in exchange for fulfilling quests. Here she befriends an impetuous but faithful dragon-slayer wizard, Natsu Dragneel, who is scouring the land for his missing father. The two form a bond with fellow mages Erza Scarlet and Gray Fullbuster, and together they tackle daunting challenges, taking on several powerful allies and foes along the way. \nCreated by Hiro Mashima, Fairy Tail is an action-packed adventure that follows Lucy and her friends as they learn the value of friendship, forgiveness and family.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Fairy Tail",
+    "jp": "Fairy Tail"
+  },
+  "releasedAt": "2009-10-12T00:00:00.000Z",
+  "finishedAt": "2013-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4676/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4676/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "magic",
+    "plot continuity",
+    "shounen"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/fairy-tail",
+    "https://tubitv.com/series/2316",
+    "https://www.animelab.com/shows/fairy-tail",
+    "https://www.funimation.com/shows/24351/",
+    "https://www.hulu.com/fairy-tail"
+  ],
+  "relations": {
+    "kitsu": "4676",
+    "anidb": "6662",
+    "anilist/anime": "6702",
+    "aozora": "59WPTaa5Uo",
+    "hulu": "50003897",
+    "myanimelist/anime": "6702",
+    "thetvdb": "114801",
+    "trakt": "46004"
+  }
+}

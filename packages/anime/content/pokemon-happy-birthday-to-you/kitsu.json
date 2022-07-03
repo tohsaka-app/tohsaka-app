@@ -1,0 +1,23 @@
+{
+  "slug": "pokemon-happy-birthday-to-you",
+  "synopsis": "Pokémon: Happy Birthday to You! is a 1-minute anime music video released on Netflix in the west. It features the anime cast singing a rendition of Happy Birthday to You, accompanied by clips from the XY series.\n\n(Source: Bulbipedia)",
+  "title": {},
+  "releasedAt": "2017-12-01T00:00:00.000Z",
+  "finishedAt": "2017-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42901/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42901/original.jpg",
+  "categories": [
+    "fantasy",
+    "fantasy world",
+    "music"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80191361"
+  ],
+  "relations": {
+    "kitsu": "42901"
+  }
+}

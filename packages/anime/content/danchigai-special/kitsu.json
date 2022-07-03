@@ -1,0 +1,26 @@
+{
+  "slug": "danchigai-special",
+  "synopsis": "Unaired episode of Danchigai included on the Blu-ray/DVD volume.",
+  "title": {
+    "jp": "Danchigai Special"
+  },
+  "releasedAt": "2015-09-18T00:00:00.000Z",
+  "finishedAt": "2015-09-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11408/original.png",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11408",
+    "anilist/anime": "21381",
+    "aozora": "sfAi6M3x5T",
+    "myanimelist/anime": "31683",
+    "thetvdb": "297317",
+    "trakt": "100200"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "uks-uks",
+  "synopsis": "Opening one's inner doors of conflict is the key to finding harmony.\nAn independent film by Yonesho Maya, which won the Yuri Norstein Award music prize at the Laputa Animation Festival.",
+  "title": {
+    "jp": "Üks Uks"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10372/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10372",
+    "aozora": "aDvV0JamXv",
+    "myanimelist/anime": "29708"
+  }
+}

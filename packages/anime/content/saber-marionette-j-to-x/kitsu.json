@@ -1,0 +1,41 @@
+{
+  "slug": "saber-marionette-j-to-x",
+  "synopsis": "Taking place mere months after the Saber Marionette J OVA series, this newest installment in the Saber Marionette line follows the continuing adventures of Otaru and his clan of selfless, obsessive marionette girls. This time, the evil Faust is back, and again toying with Marionette technology that was never meant to be explored. The Saber Dolls are back, and torn between their newfound love for Otaru and their undying loyalty to Faust; Will Otaru, Lime, Cherry and Bloodberry be able to stop Faust again, or are they all headed for the scrap heap?\n(Source: AniDB)",
+  "title": {
+    "jp": "Saber Marionette J to X"
+  },
+  "releasedAt": "1998-10-06T00:00:00.000Z",
+  "finishedAt": "1999-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1107/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "android",
+    "angst",
+    "comedy",
+    "future",
+    "harem",
+    "martial arts",
+    "mecha",
+    "other planet",
+    "post apocalypse",
+    "robot helper",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1107",
+    "anidb": "394",
+    "anilist/anime": "1231",
+    "aozora": "ieX5eJeCSd",
+    "myanimelist/anime": "1231",
+    "thetvdb": "81694/2",
+    "thetvdb/season": "492326",
+    "thetvdb/series": "81694",
+    "trakt": "25735"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "fluximation",
+  "synopsis": "14 short music videos for Utada Hikaru's album \"Exodus\".\n\nDirected by Koji Morimoto, Kazuto Nakazawa, Hideki Himura, Hiroyuki Kitakubo, Jiro Kanai, Yoshiharu Ashino, Yasuhiro Aoki, Atsuko Fukushima, Tatsuyuki Tanaka, Daisuke Nakayama.\n\n(Source: AniDB)",
+  "title": {
+    "jp": "Fluximation"
+  },
+  "releasedAt": "2005-09-20T00:00:00.000Z",
+  "finishedAt": "2005-09-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3882/original.jpg",
+  "categories": [
+    "fantasy",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3882",
+    "anidb": "6064",
+    "anilist/anime": "5016",
+    "aozora": "m6wloo6PCk",
+    "myanimelist/anime": "5016"
+  }
+}

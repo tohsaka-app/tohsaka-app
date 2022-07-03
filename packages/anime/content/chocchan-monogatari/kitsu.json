@@ -1,0 +1,32 @@
+{
+  "slug": "chocchan-monogatari",
+  "synopsis": "This feature length film is based on autobiography of Cho \"Chocchan\" Kuroyanagi, who is better known as the mother of an actress Tetsuko Kuroyanagi.\nThe story starts in pre-World War 2 Japan when Chocchan marries violinist despite the objection of both of their families. They live in poverty, have three children and are happy together. Any misfortune they face with a smile. But new obstacle for their happiness comes when the war breaks out and Chocchan's husband must leave for the front...",
+  "title": {
+    "jp": "Chocchan Monogatari"
+  },
+  "releasedAt": "1996-03-20T00:00:00.000Z",
+  "finishedAt": "1996-03-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3521/original.jpg",
+  "categories": [
+    "asia",
+    "coming of age",
+    "disaster",
+    "drama",
+    "earth",
+    "historical",
+    "japan",
+    "slice of life",
+    "world war ii"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3521",
+    "anidb": "4002",
+    "anilist/anime": "4201",
+    "aozora": "jloDJ8I9Dv",
+    "myanimelist/anime": "4201"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "marin-to-yamato-fushigi-na-nichiyoubi",
+  "synopsis": "Two children, Marin and Yamato, found a mysterious fairy in a park.",
+  "title": {
+    "jp": "Marin to Yamato: Fushigi na Nichiyoubi"
+  },
+  "releasedAt": "2000-12-02T00:00:00.000Z",
+  "finishedAt": "2000-12-02T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4373/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4373",
+    "anidb": "8452",
+    "anilist/anime": "5987",
+    "aozora": "kCWieGzDdp",
+    "myanimelist/anime": "5987"
+  }
+}

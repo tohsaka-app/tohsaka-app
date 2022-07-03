@@ -1,0 +1,24 @@
+{
+  "slug": "neko-no-dayan-fushigi-gekijou",
+  "synopsis": "Third season of Dayan the Cat. The shorts will be \"theatrical-style,\" with a curtain opening on the everyday adventures of Dayan and his friends.",
+  "title": {
+    "jp": "Neko no Dayan: Fushigi Gekijou"
+  },
+  "releasedAt": "2016-10-01T00:00:00.000Z",
+  "finishedAt": "2017-04-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12652/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12652",
+    "anidb": "12289",
+    "anilist/anime": "87477",
+    "aozora": "Qa21HNeMPG",
+    "myanimelist/anime": "33727"
+  }
+}

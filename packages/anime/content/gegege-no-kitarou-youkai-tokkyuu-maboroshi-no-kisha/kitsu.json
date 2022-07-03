@@ -1,0 +1,32 @@
+{
+  "slug": "gegege-no-kitarou-youkai-tokkyuu-maboroshi-no-kisha",
+  "synopsis": "Movie based on the 1996 TV anime with an original plot.",
+  "title": {
+    "jp": "Gegege no Kitarou: Youkai Tokkyuu! Maboroshi no Kisha"
+  },
+  "releasedAt": "1997-07-12T00:00:00.000Z",
+  "finishedAt": "1997-07-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5222/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "horror",
+    "japan",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5222",
+    "anidb": "7358",
+    "anilist/anime": "8157",
+    "aozora": "8lW55u5RC8",
+    "myanimelist/anime": "8157"
+  }
+}

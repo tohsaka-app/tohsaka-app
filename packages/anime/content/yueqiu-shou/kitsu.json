@@ -1,0 +1,26 @@
+{
+  "slug": "yueqiu-shou",
+  "synopsis": "Honor the past, protect the future.\n\nEvery year, a beast of legend arrives to threaten the Lunar New Year, and every year, a team of heroes is chosen to stand as guardians over the celebration.\n\n(Souce: A-L)",
+  "title": {
+    "en": "Lunar Beast"
+  },
+  "releasedAt": "2021-02-02T00:00:00.000Z",
+  "finishedAt": "2021-02-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44073/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44073/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "high fantasy"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=6Pxzjk7dFJI"
+  ],
+  "relations": {
+    "kitsu": "44073",
+    "anilist/anime": "129628"
+  }
+}

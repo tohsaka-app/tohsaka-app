@@ -1,0 +1,25 @@
+{
+  "slug": "lao-fu-zi-zhi-xiao-shui-hu-chuan-qi",
+  "synopsis": "Fifth Old Master Q animated movie.",
+  "title": {
+    "en": "Old Master Q and Little Ocean Tiger",
+    "jp": "Lao Fu Zi Zhi Xiao Shui Hu Chuan Qi"
+  },
+  "releasedAt": "2011-01-27T00:00:00.000Z",
+  "finishedAt": "2011-01-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10649/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10649",
+    "anidb": "11298",
+    "anilist/anime": "102297",
+    "aozora": "sscYRrm6Uj",
+    "myanimelist/anime": "30099"
+  }
+}

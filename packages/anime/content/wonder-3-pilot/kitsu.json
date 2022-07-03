@@ -1,0 +1,25 @@
+{
+  "slug": "wonder-3-pilot",
+  "synopsis": "Wonder Three pilot episode.",
+  "title": {
+    "jp": "Wonder 3 Pilot"
+  },
+  "releasedAt": "1965-01-01T00:00:00.000Z",
+  "finishedAt": "1965-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10937/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10937",
+    "aozora": "mI0PXMLuPp",
+    "myanimelist/anime": "30767"
+  }
+}

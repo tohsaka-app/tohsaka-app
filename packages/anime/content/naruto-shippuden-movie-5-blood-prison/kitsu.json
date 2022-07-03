@@ -1,0 +1,35 @@
+{
+  "slug": "naruto-shippuden-movie-5-blood-prison",
+  "synopsis": "After being captured for attempting to assassinate the leader of Kumogakure, the Raikage, and killing Jounin from Kirigakure and Iwagakure, Naruto is imprisoned in Houzukijou, a criminal containment facility also known as the Blood Prison. \nThe master of the castle, Mui, uses the ultimate imprisonment jutsu to steal power from the prisoners. In this place, something is aiming for Naruto's life. The battle to prove his innocence and uncover the truth has begun for Naruto and his friends.\n(Source: AnimeAvenue)",
+  "title": {
+    "jp": "Naruto: Shippuuden Movie 5 - Blood Prison"
+  },
+  "releasedAt": "2011-07-30T00:00:00.000Z",
+  "finishedAt": "2011-07-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/6256/poster_image/963df64eed9de74de83bfb3bea0b8d60.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6256/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy world",
+    "martial arts",
+    "mystery",
+    "ninja",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/naruto-shippuden-the-movie-blood-prison",
+    "vrv.co/series/GREXG840Y/Naruto-Shippuden-the-Movie-Blood-Prison"
+  ],
+  "relations": {
+    "kitsu": "6256",
+    "anidb": "8312",
+    "anilist/anime": "10589",
+    "aozora": "vW43rFGLWh",
+    "myanimelist/anime": "10589"
+  }
+}

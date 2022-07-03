@@ -1,0 +1,22 @@
+{
+  "slug": "heart-beat",
+  "synopsis": "Official music video for the song Heart Beat by the fictional band Irodorimidori. It is the 6th song in the franchise and focuses on Serina Akesaka.\n",
+  "title": {
+    "jp": "Heart Beat"
+  },
+  "releasedAt": "2016-11-01T00:00:00.000Z",
+  "finishedAt": "2016-11-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14073/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14073",
+    "anilist/anime": "102737",
+    "myanimelist/anime": "36598"
+  }
+}

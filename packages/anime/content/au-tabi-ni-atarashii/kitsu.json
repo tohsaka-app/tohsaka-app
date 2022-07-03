@@ -1,0 +1,23 @@
+{
+  "slug": "au-tabi-ni-atarashii",
+  "synopsis": "A commercial made for the Handmade Animation Grand-Prix.",
+  "title": {
+    "en": "Find your Yokohama",
+    "jp": "Au Tabi ni, Atarashii"
+  },
+  "releasedAt": "2015-05-27T00:00:00.000Z",
+  "finishedAt": "2015-05-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45660/poster_image/028a56154d30d36d54563139a23b0ec2.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45660",
+    "anilist/anime": "137892",
+    "myanimelist/anime": "41844"
+  }
+}

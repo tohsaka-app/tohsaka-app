@@ -1,0 +1,31 @@
+{
+  "slug": "slam-dunk-movie-1",
+  "synopsis": "Sakuragi and the Shohoko team takes on Oda and Takezono High School. This is Sakuragi's second match as he faces Oda, a basketball player who went to the same junior high.\n(Source: ANN)",
+  "title": {
+    "jp": "Slam Dunk (Movie)"
+  },
+  "releasedAt": "1994-03-12T00:00:00.000Z",
+  "finishedAt": "1994-03-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1584/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1584/original.jpg",
+  "categories": [
+    "action",
+    "basketball",
+    "comedy",
+    "school life",
+    "shounen",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1584",
+    "anidb": "695",
+    "anilist/anime": "1764",
+    "aozora": "5UypFQad2h",
+    "myanimelist/anime": "1764"
+  }
+}

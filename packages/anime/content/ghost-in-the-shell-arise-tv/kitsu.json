@@ -1,0 +1,38 @@
+{
+  "slug": "ghost-in-the-shell-arise-tv",
+  "synopsis": "A TV anime version of Ghost in the Shell: Arise. The first eight episodes are an edited version of the four movies while the last two features a new arc called \"Pyrophoric Cult.\"\nThe plot involves the \"Fire Starter\" virus explored previously, and introduces the new character Pyromania. The episode will have ties to the upcoming film.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Ghost in the Shell: Arise - Alternative Architecture",
+    "jp": "Ghost in the Shell: Arise - Alternative Architecture"
+  },
+  "releasedAt": "2015-04-05T00:00:00.000Z",
+  "finishedAt": "2015-06-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10229/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10229/original.jpg",
+  "categories": [
+    "android",
+    "cops",
+    "cyberpunk",
+    "cyborg",
+    "human enhancement",
+    "law and order",
+    "mecha",
+    "psychological",
+    "robot",
+    "science fiction",
+    "special squads"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10229",
+    "anidb": "11023",
+    "anilist/anime": "21056",
+    "aozora": "o7AqYxzahx",
+    "myanimelist/anime": "29325",
+    "thetvdb": "293491",
+    "trakt": "97286"
+  }
+}

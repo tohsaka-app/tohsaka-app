@@ -1,0 +1,22 @@
+{
+  "slug": "moonrise",
+  "synopsis": null,
+  "title": {
+    "en": "MOONRISE",
+    "jp": "Moonrise"
+  },
+  "releasedAt": "2023-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46176/poster_image/4e487041cebe9c91ebf94a096bfad646.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46176",
+    "anilist/anime": "150654"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "sensou-no-tsukurikata",
+  "synopsis": "Short anti-war animation adapting the picture book Sensou no Tsukurikata. It was created by the group NOddIN.",
+  "title": {
+    "en": "What Happens Before War?",
+    "jp": "Sensou no Tsukurikata"
+  },
+  "releasedAt": "2016-02-10T00:00:00.000Z",
+  "finishedAt": "2016-02-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12254/original.jpg",
+  "categories": [
+    "anti war",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12254",
+    "anidb": "11936",
+    "anilist/anime": "103402",
+    "aozora": "5kAPXVD0tL",
+    "myanimelist/anime": "32728"
+  }
+}

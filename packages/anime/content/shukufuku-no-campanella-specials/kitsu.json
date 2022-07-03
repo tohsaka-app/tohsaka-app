@@ -1,0 +1,23 @@
+{
+  "slug": "shukufuku-no-campanella-specials",
+  "synopsis": "Short extra anime \"Isshoni Bath Time\". The main characters taking a bath will be displayed three dimensionally on 3D TV. Normal 2D versions are also available.",
+  "title": {
+    "jp": "Shukufuku no Campanella Specials"
+  },
+  "releasedAt": "2010-09-22T00:00:00.000Z",
+  "finishedAt": "2011-02-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5621/original.jpg",
+  "categories": [
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5621",
+    "anilist/anime": "9167",
+    "aozora": "eG0vCdu1z4",
+    "myanimelist/anime": "9167"
+  }
+}

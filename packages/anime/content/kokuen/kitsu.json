@@ -1,0 +1,24 @@
+{
+  "slug": "kokuen",
+  "synopsis": "Music video for the song \"Kokuen\" by Lyu:Lyu.",
+  "title": {
+    "jp": "Kokuen"
+  },
+  "releasedAt": "2013-02-28T00:00:00.000Z",
+  "finishedAt": "2013-02-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12217/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12217",
+    "anilist/anime": "103507",
+    "aozora": "Kqyfke7BlF",
+    "myanimelist/anime": "32759"
+  }
+}

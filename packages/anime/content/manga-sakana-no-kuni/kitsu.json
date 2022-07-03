@@ -1,0 +1,21 @@
+{
+  "slug": "manga-sakana-no-kuni",
+  "synopsis": "Short movie with Fish.",
+  "title": {
+    "jp": "Sakana no Kuni"
+  },
+  "releasedAt": "1928-01-01T00:00:00.000Z",
+  "finishedAt": "1928-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40640/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40640",
+    "anilist/anime": "104546",
+    "aozora": "tlxcntdpHi",
+    "myanimelist/anime": "34958"
+  }
+}

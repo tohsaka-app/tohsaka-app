@@ -1,0 +1,24 @@
+{
+  "slug": "color-of-drops",
+  "synopsis": "The music video for the Vocaloid version of the Song Color of Drops, by 40meterP.",
+  "title": {
+    "en": "Color of Drops",
+    "jp": "Color of Drops"
+  },
+  "releasedAt": "2021-01-29T00:00:00.000Z",
+  "finishedAt": "2021-01-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45498/poster_image/59e209680b9937f5fd6336c3549eff85.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=i5rl-NGSYoo"
+  ],
+  "relations": {
+    "kitsu": "45498"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "toaru-kagaku-no-accelerator-tobidase-ippou-san-hachamecha",
+  "synopsis": "Special included on the first Blu-ray/DVD volume of Toaru Kagaku no Accelerator.",
+  "title": {
+    "en": "A Certain Scientific Accelerator Special",
+    "jp": "Toaru Kagaku no Accelerator: Tobidase Ippou-san Hachamecha Kaishingeki"
+  },
+  "releasedAt": "2019-10-30T00:00:00.000Z",
+  "finishedAt": "2019-10-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42511/original.jpg",
+  "categories": [
+    "super power",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42511",
+    "anilist/anime": "112031",
+    "myanimelist/anime": "40280"
+  }
+}

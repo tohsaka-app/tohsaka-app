@@ -1,0 +1,28 @@
+{
+  "slug": "mugen-kouro",
+  "synopsis": "The software developers Platinum Games and Sega have scheduled their Mugen Kōro - Infinite Space science-fiction roleplaying game for the Nintendo DS portable console next spring and announced the October launch of animated short films for the project. The game centers around Yūrī, a young man who journeys across lawless space and becomes a spaceship captain. The animation studios GONZO and Production I.G are producing short movies to promote the game and develop its world and storyline. The first of the movies will premiere at the Tokyo Game Show on October 9 and then will run on the game's official website on October 17.\n(Source: ANN)",
+  "title": {
+    "jp": "Mugen Kouro"
+  },
+  "releasedAt": "2008-10-09T00:00:00.000Z",
+  "finishedAt": "2009-05-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4057/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "science fiction",
+    "shipboard",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4057",
+    "anidb": "10758",
+    "anilist/anime": "5322",
+    "aozora": "dTgxLGxtT4",
+    "myanimelist/anime": "5322"
+  }
+}

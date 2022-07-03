@@ -1,0 +1,40 @@
+{
+  "slug": "ginga-eiyuu-densetsu-waga-yuku-wa-hoshi-no-taikai",
+  "synopsis": "This movie, based on an anecdote of \"Ginga Eiyuu Densetsu\" written by novelist Tanaka Yoshiki, preludes the 110-episodes TV series by describing the first encounter between the ambitious young man Reinhard von Müsel under the imperial flag and the passive Yang Wenli who serves a corrupting democracy. Set in an imaginative future, the story describes the first encounter between Yang and Reinhard and discusses how heroes are born.\n(Source: ANN)",
+  "title": {
+    "en": "Legend of the Galactic Heroes: My Conquest Is the Sea of Stars",
+    "jp": "Ginga Eiyuu Densetsu: Waga Yuku wa Hoshi no Taikai"
+  },
+  "releasedAt": "1988-02-06T00:00:00.000Z",
+  "finishedAt": "1988-02-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2724/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2724/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "historical",
+    "military",
+    "plot continuity",
+    "politics",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space battles",
+    "space opera"
+  ],
+  "externals": [
+    "https://vrv.co/watch/GYEX7PPP6/Legend-of-the-Galactic-Heroes-My-Conquest-is-the-Sea-of-Stars-Subtitled-Broadcast",
+    "https://www.hidive.com/movies/legend-of-the-galactic-heroes-my-conquest-is-the-sea-of-stars"
+  ],
+  "relations": {
+    "kitsu": "2724",
+    "anidb": "1307",
+    "anilist/anime": "3014",
+    "aozora": "OkF2XLjsU2",
+    "hulu": "50010492",
+    "myanimelist/anime": "3014"
+  }
+}

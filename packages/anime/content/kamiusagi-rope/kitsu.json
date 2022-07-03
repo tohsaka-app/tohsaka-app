@@ -1,0 +1,26 @@
+{
+  "slug": "kamiusagi-rope",
+  "synopsis": "The first series from the GiftMovie Project, which was aired in between theater commercials at all 57 TOHO Cinemas theaters. It features a rabbit called Rope and his senpai squirrel Akira, and their long, disrupted way to the movie theater.",
+  "title": {
+    "en": "Paper Rabbit Rope",
+    "jp": "Kamiusagi Rope"
+  },
+  "releasedAt": "2009-06-01T00:00:00.000Z",
+  "finishedAt": "2010-12-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7034/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7034",
+    "anidb": "9036",
+    "anilist/anime": "13817",
+    "aozora": "jXIUdvsvsE",
+    "myanimelist/anime": "13817"
+  }
+}

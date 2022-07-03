@@ -1,0 +1,21 @@
+{
+  "slug": "who-am-i",
+  "synopsis": "MMD music video for the song who am I? by Yuyoyuppe, featuring Kagamine Rin.\n",
+  "title": {
+    "jp": "Who Am I?"
+  },
+  "releasedAt": "2012-12-01T00:00:00.000Z",
+  "finishedAt": "2012-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43316/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43316",
+    "myanimelist/anime": "42314"
+  }
+}

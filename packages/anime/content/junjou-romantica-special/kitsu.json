@@ -1,0 +1,24 @@
+{
+  "slug": "junjou-romantica-special",
+  "synopsis": "Voice actors comment various scenes from the anime.",
+  "title": {
+    "jp": "Junjou Romantica Special"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4606/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "shounen ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4606",
+    "aozora": "Epwkop6P8s",
+    "myanimelist/anime": "6553"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "hopiwa-chadolbawi",
+  "synopsis": "A 1967 Korean historical movie.",
+  "title": {
+    "jp": "Hopiwa Chadolbawi"
+  },
+  "releasedAt": "1967-08-15T00:00:00.000Z",
+  "finishedAt": "1967-08-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9746/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9746",
+    "anidb": "9637",
+    "anilist/anime": "18309",
+    "aozora": "O7HMeJnCT4",
+    "myanimelist/anime": "18309"
+  }
+}

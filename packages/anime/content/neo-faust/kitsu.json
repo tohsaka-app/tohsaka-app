@@ -1,0 +1,23 @@
+{
+  "slug": "neo-faust",
+  "synopsis": "Tezuka Osamu planned to make an animated version, but the project was always called off. This work was to make his dream come true at last, but he was unfortunately struck by an illness and died when he was working on the synopsis. This was one of his unfinished works. It was aired during NHK's \"Tezuka Osamu, Seikimatsu e no Message\" (手塚治虫・世紀末へのメッセージ) program.\n(Source: AniDB)",
+  "title": {
+    "jp": "Neo Faust"
+  },
+  "releasedAt": "1999-01-15T00:00:00.000Z",
+  "finishedAt": "1999-01-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10727/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10727",
+    "anilist/anime": "104345",
+    "aozora": "Z2rm5B6kh4",
+    "myanimelist/anime": "30217"
+  }
+}

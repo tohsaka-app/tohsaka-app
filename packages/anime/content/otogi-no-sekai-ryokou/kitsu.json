@@ -1,0 +1,24 @@
+{
+  "slug": "otogi-no-sekai-ryokou",
+  "synopsis": "Seven short films combined in one theatrical movie telling the story of Otogi's Studio voyage around the world.",
+  "title": {
+    "jp": "Otogi no Sekai Ryokou"
+  },
+  "releasedAt": "1962-08-25T00:00:00.000Z",
+  "finishedAt": "1962-08-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9525/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9525",
+    "anidb": "3680",
+    "anilist/anime": "17675",
+    "aozora": "2XuQ2hXAqj",
+    "myanimelist/anime": "17675"
+  }
+}

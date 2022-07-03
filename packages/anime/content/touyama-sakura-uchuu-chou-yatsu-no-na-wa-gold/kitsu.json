@@ -1,0 +1,29 @@
+{
+  "slug": "touyama-sakura-uchuu-chou-yatsu-no-na-wa-gold",
+  "synopsis": "This science-fiction anime was inspired somewhat by the life of Kinshiro Toyama (1793-1855), who was first popularized in the 1893 kabuki play \"Toyama no Kinsan.\"",
+  "title": {
+    "jp": "Touyama Sakura Uchuu Chou: Yatsu no Na wa Gold"
+  },
+  "releasedAt": "1988-07-25T00:00:00.000Z",
+  "finishedAt": "1988-07-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6722/original.jpg",
+  "categories": [
+    "action",
+    "android",
+    "conspiracy",
+    "future",
+    "science fiction",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6722",
+    "anidb": "2411",
+    "anilist/anime": "12399",
+    "aozora": "uyK8Ml9Q8A",
+    "myanimelist/anime": "12399"
+  }
+}

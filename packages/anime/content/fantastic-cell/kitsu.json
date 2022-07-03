@@ -1,0 +1,24 @@
+{
+  "slug": "fantastic-cell",
+  "synopsis": "Mirai Mizue's debut animation short film.",
+  "title": {
+    "jp": "Fantastic Cell"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10386/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10386",
+    "anidb": "12207",
+    "anilist/anime": "103384",
+    "aozora": "NWyR8yvrqd",
+    "myanimelist/anime": "29768"
+  }
+}

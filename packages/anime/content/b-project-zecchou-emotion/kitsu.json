@@ -1,0 +1,25 @@
+{
+  "slug": "b-project-zecchou-emotion",
+  "synopsis": "Second season of B-Project: Kodou*Ambitious.",
+  "title": {
+    "jp": "B-Project: Zecchou*Emotion"
+  },
+  "releasedAt": "2019-01-12T00:00:00.000Z",
+  "finishedAt": "2019-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41992/original.jpg",
+  "categories": [
+    "music",
+    "shoujo"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/b-project"
+  ],
+  "relations": {
+    "kitsu": "41992",
+    "anilist/anime": "100186",
+    "myanimelist/anime": "36483"
+  }
+}

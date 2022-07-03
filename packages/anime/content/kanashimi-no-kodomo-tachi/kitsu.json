@@ -1,0 +1,22 @@
+{
+  "slug": "kanashimi-no-kodomo-tachi",
+  "synopsis": "Music video directed and animated by Mirai Mizue for the song Kanashimi no Kodomo-tachi by Japanese idol group Maison book girl.\n",
+  "title": {
+    "jp": "Kanashimi no Kodomo-tachi"
+  },
+  "releasedAt": "2020-02-15T00:00:00.000Z",
+  "finishedAt": "2020-02-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43344/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43344",
+    "anilist/anime": "125355",
+    "myanimelist/anime": "42121"
+  }
+}

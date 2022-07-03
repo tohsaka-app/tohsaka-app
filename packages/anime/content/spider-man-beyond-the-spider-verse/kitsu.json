@@ -1,0 +1,25 @@
+{
+  "slug": "spider-man-beyond-the-spider-verse",
+  "synopsis": "The continuation to Spider-Man: Across the Spider-Verse",
+  "title": {},
+  "releasedAt": "2024-03-29T00:00:00.000Z",
+  "finishedAt": "2024-03-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "unreleased",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45554/poster_image/770c70d3cab58bb9a1e3b9824c0cf857.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45554/cover_image/4fcf2726074bec4d41f1f0a8d04ad53a.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "new york",
+    "parallel universe",
+    "science fiction",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45554"
+  }
+}

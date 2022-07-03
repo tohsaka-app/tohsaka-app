@@ -1,0 +1,33 @@
+{
+  "slug": "digimon-adventure-02-digimon-hurricane-jouriku-chouzetsu-shinka-ougon-no-digimental",
+  "synopsis": "Years after a young boy in America loses one of his Digimon friends, an evil viral Digimon successfully kidnaps the original Chosen Children. Their younger friends must race against time with their Digimon partners to discover the source of this new menace, and perhaps solve a years-old mystery.\n(Source: ANN)",
+  "title": {
+    "jp": "Digimon Adventure 02 Movies"
+  },
+  "releasedAt": "2000-07-08T00:00:00.000Z",
+  "finishedAt": "2000-07-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2174/original.jpg",
+  "categories": [
+    "adventure",
+    "americas",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "isekai",
+    "kids",
+    "present",
+    "proxy battles",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2174",
+    "anidb": "1150",
+    "anilist/anime": "2962",
+    "aozora": "pZilkcf4zO",
+    "myanimelist/anime": "2962"
+  }
+}

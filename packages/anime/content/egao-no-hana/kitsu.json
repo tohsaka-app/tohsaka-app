@@ -1,0 +1,24 @@
+{
+  "slug": "egao-no-hana",
+  "synopsis": "Song by Ueno Juri used as a featured song for the NHK daily music segment program Minna no Uta in June and July 2010.\n(Source: AniDB)",
+  "title": {
+    "jp": "Egao no Hana"
+  },
+  "releasedAt": "2010-06-01T00:00:00.000Z",
+  "finishedAt": "2010-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5759/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5759",
+    "anidb": "7892",
+    "anilist/anime": "9502",
+    "aozora": "qW90vqpJj3",
+    "myanimelist/anime": "9502"
+  }
+}

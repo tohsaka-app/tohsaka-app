@@ -1,0 +1,31 @@
+{
+  "slug": "nanatsu-no-taizai-fundo-no-shinpan",
+  "synopsis": "Time is running out. The curse imposed on Elizabeth will kill her in few days. To lift the curse Meliodas and Ban have travelled to the Demon Realm to challenge Meliodas' father, the Demon King.\n\nMeanwhile, Merlin, Escanor, and Archangel Ludociel are set to slay Meliodas' brother Zeldris. Elsewhere, Meliodas' other brother Estarossa has kidnapped Elizabeth, and it falls to King, Diane, Gowther, and Hawk to rescue her.\n\n(Source: Anilist)",
+  "title": {
+    "en": "The Seven Deadly Sins: Judgement of Fury",
+    "jp": "Nanatsu no Taizai: Fundo no Shinpan"
+  },
+  "releasedAt": "2021-01-13T00:00:00.000Z",
+  "finishedAt": "2021-06-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/43458/poster_image/619047b3fd529aa57e56a775e02051d4.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/43458/cover_image/84b348bf07aeb901cab7ac8e6dc5ce29.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80050063"
+  ],
+  "relations": {
+    "kitsu": "43458",
+    "anilist/anime": "116752",
+    "myanimelist/anime": "41491"
+  }
+}

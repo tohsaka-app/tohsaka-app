@@ -1,0 +1,46 @@
+{
+  "slug": "bamboo-blade",
+  "synopsis": "Kojirou is the kendo instructor for Muroe High School and he's totally broke. But then an unexpected chance is given to him: his team must win against his senpai's team and the prize is: free meals for a whole year! Now, the only problem left... where to find girls skilled enough and willing to join the kendo team?",
+  "title": {
+    "en": "Bamboo Blade",
+    "jp": "Bamboo Blade"
+  },
+  "releasedAt": "2007-10-02T00:00:00.000Z",
+  "finishedAt": "2008-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2700/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2700/original.jpg",
+  "categories": [
+    "asia",
+    "combat",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "martial arts",
+    "plot continuity",
+    "present",
+    "school clubs",
+    "school life",
+    "slapstick",
+    "sports",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/bamboo-blade/videos/episodes",
+    "http://www.hulu.com/bamboo-blade"
+  ],
+  "relations": {
+    "kitsu": "2700",
+    "anidb": "5356",
+    "anilist/anime": "2986",
+    "aozora": "2ZXYeT8Tef",
+    "hulu": "50000709",
+    "myanimelist/anime": "2986",
+    "thetvdb": "80673/1",
+    "thetvdb/series": "80673",
+    "trakt": "24351"
+  }
+}

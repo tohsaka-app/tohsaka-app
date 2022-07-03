@@ -1,0 +1,21 @@
+{
+  "slug": "alice-to-therese-no-maboroshi-koujou",
+  "synopsis": "The film will tell the story of boys and girls struggling in an ambiguous world, as they fight their destiny with \"love\" as the weapon.",
+  "title": {
+    "en": "Alice and Therese's Illusion Factory",
+    "jp": "Alice to Therese no Maboroshi Koujou"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44823/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "44823",
+    "anilist/anime": "136149",
+    "myanimelist/anime": "49303"
+  }
+}

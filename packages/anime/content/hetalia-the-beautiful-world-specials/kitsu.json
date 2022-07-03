@@ -1,0 +1,25 @@
+{
+  "slug": "hetalia-the-beautiful-world-specials",
+  "synopsis": "Special episodes released with the Hetalia: The Beautiful World BD/DVDs.\nInclude 4 episodes:\nExtra 1: Buon San Valentino - First Part\nExtra 2: Buon San Valentino - Last Part\nExtra 3: The Centennial Gift\nExtra 4: Liechtenstein and the Hedgehog Country",
+  "title": {
+    "jp": "Hetalia: The Beautiful World Specials"
+  },
+  "releasedAt": "2013-04-24T00:00:00.000Z",
+  "finishedAt": "2013-10-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7626/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7626",
+    "anilist/anime": "17273",
+    "aozora": "07yk1WEeyM",
+    "myanimelist/anime": "17273"
+  }
+}

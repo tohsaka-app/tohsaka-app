@@ -1,0 +1,33 @@
+{
+  "slug": "r-15-ova",
+  "synopsis": "According to Kadokawa, an OVA of R-15 will be bundled with the tenth volume of the novel.",
+  "title": {
+    "jp": "R-15 OVA"
+  },
+  "releasedAt": "2011-12-13T00:00:00.000Z",
+  "finishedAt": "2011-12-13T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6411/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "harem",
+    "japan",
+    "parody",
+    "present",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6411",
+    "anidb": "8515",
+    "anilist/anime": "10933",
+    "aozora": "Uu6cumGrzX",
+    "myanimelist/anime": "10933"
+  }
+}

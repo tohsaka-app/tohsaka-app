@@ -1,0 +1,20 @@
+{
+  "slug": "off-stage",
+  "synopsis": "A song about birds who delivers dreams to those sleeping under the light of a shooting star.",
+  "title": {
+    "jp": "Off Stage"
+  },
+  "releasedAt": "2001-08-01T00:00:00.000Z",
+  "finishedAt": "2001-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40840/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40840",
+    "aozora": "VkK1w5EprG",
+    "myanimelist/anime": "35783"
+  }
+}

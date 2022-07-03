@@ -1,0 +1,24 @@
+{
+  "slug": "children-record",
+  "synopsis": "Music videos of \"Children Record\" and \"Kisaragi Attention\" included in the Children Record album.",
+  "title": {
+    "en": "Children Record",
+    "jp": "Children Record"
+  },
+  "releasedAt": "2012-08-15T00:00:00.000Z",
+  "finishedAt": "2012-08-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11245/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11245",
+    "anilist/anime": "100717",
+    "aozora": "RJtSo8GHAi",
+    "myanimelist/anime": "30903"
+  }
+}

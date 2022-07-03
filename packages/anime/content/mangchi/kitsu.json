@@ -1,0 +1,33 @@
+{
+  "slug": "mangchi",
+  "synopsis": "The story is about a boy named Mangchi. He is small, but he possesses a magical hammer that helps him get around all his problems. Mangchi lives on a small distant island called Candlestick because everywhere else has turned into a wasteland because of some big catastrophe. When Princess Poplar from the kingdom of Jemius is being pursued by henchmen of the conspirator Moonk, Hammerboy sides with her, ready to unleash all his latent powers in order to save humankind. \nThe movie premiered at the Big Apple Anime Fest on August 30 2003, and went into wide release in South Korea on August 6, 2004. \n(Source: Wikipedia) ",
+  "title": {
+    "en": "Hammerboy",
+    "jp": "Mangchi"
+  },
+  "releasedAt": "2004-08-06T00:00:00.000Z",
+  "finishedAt": "2004-08-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4674/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "disaster",
+    "dystopia",
+    "earth",
+    "fantasy",
+    "future",
+    "post apocalypse"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4674",
+    "anidb": "3411",
+    "anilist/anime": "6695",
+    "aozora": "awBuC6yoeE",
+    "myanimelist/anime": "6695"
+  }
+}

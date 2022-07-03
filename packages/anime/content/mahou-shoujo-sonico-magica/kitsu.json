@@ -1,0 +1,29 @@
+{
+  "slug": "mahou-shoujo-sonico-magica",
+  "synopsis": "Parody opening for a spin-off of Mahou Shoujo Madoka Magica, starring the characters from the upcoming visual novel game SoniComi by Nitro+.\nThis was released by Nitro+ as an April fools' prank, complete with an official website announcing a full TV series. ",
+  "title": {
+    "en": "Puella Magi Sonico Magica",
+    "jp": "Mahou Shoujo Sonico★Magica"
+  },
+  "releasedAt": "2011-04-01T00:00:00.000Z",
+  "finishedAt": "2011-04-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6218/original.jpg",
+  "categories": [
+    "comedy",
+    "magical girl",
+    "music",
+    "parody",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6218",
+    "anidb": "8362",
+    "anilist/anime": "10519",
+    "aozora": "zDtqD4V7nm",
+    "myanimelist/anime": "10519"
+  }
+}

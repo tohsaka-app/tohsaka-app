@@ -1,0 +1,24 @@
+{
+  "slug": "sarasoujuu-no-hana-no-iro",
+  "synopsis": "Independent animation by Tsukioka Sadao.",
+  "title": {
+    "en": "Spotlight",
+    "jp": "Sarasoujuu no Hana no Iro"
+  },
+  "releasedAt": "1971-01-01T00:00:00.000Z",
+  "finishedAt": "1971-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10503/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10503",
+    "anilist/anime": "103490",
+    "aozora": "lx7tRJgC36",
+    "myanimelist/anime": "29675"
+  }
+}

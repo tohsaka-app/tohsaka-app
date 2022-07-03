@@ -1,0 +1,26 @@
+{
+  "slug": "ahiru-no-pekkle-no-aladdin-to-mahou-no-lamp",
+  "synopsis": "Pekkle re-creates the story of Aladdin and His Magic Lamp",
+  "title": {
+    "en": "Pekkle in Aladdin and His Magic Lamp",
+    "jp": "Ahiru no Pekkle no Aladdin to Mahou no Lamp"
+  },
+  "releasedAt": "1993-09-21T00:00:00.000Z",
+  "finishedAt": "1993-09-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9799/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9799",
+    "anidb": "7803",
+    "aozora": "I9Oc1FUPmx",
+    "myanimelist/anime": "22611"
+  }
+}

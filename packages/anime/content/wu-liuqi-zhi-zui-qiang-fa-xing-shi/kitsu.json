@@ -1,0 +1,31 @@
+{
+  "slug": "wu-liuqi-zhi-zui-qiang-fa-xing-shi",
+  "synopsis": "Seeking to recover his memories, a scissor-wielding hairdresser, bungling quasi-assassin stumbles into a struggle for power among two feuding factions.\n\n(Source: IMDb)",
+  "title": {
+    "en": "Scissor Seven Season 2"
+  },
+  "releasedAt": "2019-10-23T00:00:00.000Z",
+  "finishedAt": "2020-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42969/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/42969/cover_image/540d62673a7a76f6a7213ae27267014a.jpg",
+  "categories": [
+    "action",
+    "assassin",
+    "comedy",
+    "drama",
+    "martial arts",
+    "mystery",
+    "super power"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81156880"
+  ],
+  "relations": {
+    "kitsu": "42969",
+    "anilist/anime": "113290",
+    "myanimelist/anime": "40784"
+  }
+}

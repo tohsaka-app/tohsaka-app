@@ -1,0 +1,34 @@
+{
+  "slug": "ayane-chan-high-kick",
+  "synopsis": "Ayane is a high school student focused on one thing, becoming a pro wrestler. A trainer tricks her into becoming a Kick Boxer, the sport she hates. She keeps with it though once she finds out.\n(Source: ANN)",
+  "title": {
+    "en": "Ayane's High Kick",
+    "jp": "Ayane-chan High Kick!"
+  },
+  "releasedAt": "1997-01-21T00:00:00.000Z",
+  "finishedAt": "1997-04-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1977/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "combat",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "slapstick",
+    "sports",
+    "wrestling"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1977",
+    "anidb": "997",
+    "anilist/anime": "2183",
+    "aozora": "19R3ix9hPc",
+    "myanimelist/anime": "2183"
+  }
+}

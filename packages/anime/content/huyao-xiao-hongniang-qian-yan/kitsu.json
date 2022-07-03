@@ -1,0 +1,26 @@
+{
+  "slug": "huyao-xiao-hongniang-qian-yan",
+  "synopsis": "",
+  "title": {
+    "en": "Fox Spirit Matchmaker 5th Season",
+    "jp": "Huyao Xiao Hongniang: Qian Yan"
+  },
+  "releasedAt": "2017-02-24T00:00:00.000Z",
+  "finishedAt": "2017-06-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13644/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13644",
+    "anilist/anime": "102602",
+    "myanimelist/anime": "36545"
+  }
+}

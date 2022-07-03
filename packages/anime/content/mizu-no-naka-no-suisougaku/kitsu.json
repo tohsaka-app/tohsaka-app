@@ -1,0 +1,22 @@
+{
+  "slug": "mizu-no-naka-no-suisougaku",
+  "synopsis": "Official music videos for Nishinakajima Kinako's 1st album \"Mizu no Naka no Suisougaku.\" This includes the song Instant and QB House, the music videos aired on Space Shower TV.",
+  "title": {
+    "jp": "Mizu no Naka no Suisougaku"
+  },
+  "releasedAt": "2016-11-02T00:00:00.000Z",
+  "finishedAt": "2016-11-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42814/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42814",
+    "myanimelist/anime": "38502"
+  }
+}

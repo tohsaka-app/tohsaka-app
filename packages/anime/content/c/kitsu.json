@@ -1,0 +1,50 @@
+{
+  "slug": "c",
+  "synopsis": "From the light novel series written by Minase Hazuki, comes a story of love, action, and comedy. Yachi Haruaki is a high school boy who is naturally resistant to curses. After his father sends him a mysterious black cube, Haruaki awakes to find a nude girl named Fear standing in his kitchen. She’s the human form of the cursed black cube – and an instrument of torture! Utilizing her special abilities, Fear fights alongside Haruaki to defeat other cursed instruments and their owners.\n(Source: FUNimation)",
+  "title": {
+    "en": "C³ - CubexCursedxCurious",
+    "jp": "C³"
+  },
+  "releasedAt": "2011-10-01T00:00:00.000Z",
+  "finishedAt": "2011-12-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6249/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6249/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "anthropomorphism",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "high school",
+    "japan",
+    "magic",
+    "parental abandonment",
+    "school life",
+    "stereotypes",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/c3-anime/videos/episodes",
+    "http://www.hulu.com/c3"
+  ],
+  "relations": {
+    "kitsu": "6249",
+    "anidb": "8376",
+    "anilist/anime": "10578",
+    "aozora": "5oml6fOwQg",
+    "hulu": "50006162",
+    "myanimelist/anime": "10578",
+    "thetvdb": "251984/1",
+    "thetvdb/series": "251984",
+    "trakt": "64456"
+  }
+}

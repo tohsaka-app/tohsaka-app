@@ -1,0 +1,25 @@
+{
+  "slug": "dotanba-no-manners",
+  "synopsis": "An introduction to etiquette through the hapless antics of Mr. Dotanba, who manages to put his foot in it in innumerable social situations.\n(Source: ANN)",
+  "title": {
+    "jp": "Dotanba no Manners"
+  },
+  "releasedAt": "1984-10-03T00:00:00.000Z",
+  "finishedAt": "1987-04-09T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9252/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9252",
+    "anidb": "7510",
+    "anilist/anime": "20077",
+    "aozora": "DJbsF9K60D",
+    "myanimelist/anime": "20077"
+  }
+}

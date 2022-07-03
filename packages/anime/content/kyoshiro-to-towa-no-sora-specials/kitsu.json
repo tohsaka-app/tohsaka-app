@@ -1,0 +1,25 @@
+{
+  "slug": "kyoshiro-to-towa-no-sora-specials",
+  "synopsis": "Special shorts focusing on character relationships.",
+  "title": {
+    "jp": "Kyoushirou to Towa no Sora Specials"
+  },
+  "releasedAt": "2007-07-03T00:00:00.000Z",
+  "finishedAt": "2007-08-13T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2639/original.jpg",
+  "categories": [
+    "drama",
+    "magic",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2639",
+    "anilist/anime": "2911",
+    "aozora": "kkFtiD9qCK",
+    "myanimelist/anime": "2911"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "violet-evergarden-special",
+  "synopsis": "The Blu-ray/DVD 4th volume to the “Violet Evergarden” anime series will include an unaired episode. It is said to take place between episodes 4 and 5.",
+  "title": {
+    "jp": "Violet Evergarden Special"
+  },
+  "releasedAt": "2018-07-04T00:00:00.000Z",
+  "finishedAt": "2018-07-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41155/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41155/original.jpg",
+  "categories": [
+    "android",
+    "drama",
+    "fantasy",
+    "science fiction",
+    "steampunk"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41155",
+    "anilist/anime": "101432",
+    "myanimelist/anime": "37095"
+  }
+}

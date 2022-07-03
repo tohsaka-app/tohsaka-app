@@ -1,0 +1,31 @@
+{
+  "slug": "tales-of-zestiria-the-x",
+  "synopsis": "Sorey is a human youth who grew up among the seraphim, spiritual beings not visible to humans. Sorey believes in the folklore that says \"long ago, every human was able to see the seraphim\" and dreams of unraveling the ancient mystery to make the world a place where people and seraphim can live together in peace.\nOne day, Sorey visits the human capital for the very first time. He becomes embroiled in an incident during which he pulls out a holy sword embedded in a rock and ends up becoming a Shepherd, one who casts away calamity from the world. He begins to realize the gravity of his mission, and his dream of coexistence between mankind and the seraphim becomes more intense—\nAnd thus, the Shepherd embarks on an amazing journey with his companions.\n(Source: Official site)",
+  "title": {
+    "en": "Tales of Zestiria the X",
+    "jp": "Tales of Zestiria the X"
+  },
+  "releasedAt": "2016-07-10T00:00:00.000Z",
+  "finishedAt": "2016-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11023/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11023/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "high fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11023",
+    "anidb": "11273",
+    "anilist/anime": "21221",
+    "aozora": "JvDrsjrQwY",
+    "myanimelist/anime": "30911",
+    "thetvdb": "311014/1",
+    "trakt": "107411"
+  }
+}

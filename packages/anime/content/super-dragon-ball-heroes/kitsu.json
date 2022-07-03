@@ -1,0 +1,28 @@
+{
+  "slug": "super-dragon-ball-heroes",
+  "synopsis": "In May 2018, a promotional anime for Dragon Ball Heroes was announced. It will adapt from the Universe Survival and Prison Planet arcs. A pre-screening for the first episode will take place July 1, 2018 at Aeon Lake Town.\n\nDragon Ball Heroes is a Japanese trading arcade card game based on the Dragon Ball franchise.\n\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Super Dragon Ball Heroes"
+  },
+  "releasedAt": "2018-07-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41319/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "comedy",
+    "humanoid alien",
+    "martial arts",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41319",
+    "anilist/anime": "102352",
+    "myanimelist/anime": "37885"
+  }
+}

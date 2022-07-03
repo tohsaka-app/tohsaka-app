@@ -1,0 +1,24 @@
+{
+  "slug": "neko-nanka-yondemo-konai",
+  "synopsis": "The series focuses on a professional boxer who chooses to become a manga artist after sustaining an injury. The man takes in two cats: Kuro, who is very timid, and her younger sister Chin. \n(Source: Livechart)",
+  "title": {
+    "jp": "Neko nanka Yondemo Konai."
+  },
+  "releasedAt": "2015-10-03T00:00:00.000Z",
+  "finishedAt": "2015-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11589/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11589",
+    "anidb": "11677",
+    "anilist/anime": "97968",
+    "aozora": "RUeEj0jDmM",
+    "myanimelist/anime": "31777"
+  }
+}

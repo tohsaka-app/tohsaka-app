@@ -1,0 +1,26 @@
+{
+  "slug": "koguma-no-koro-chan",
+  "synopsis": "Japanese fairy tale about a bear cub who would rather play than help his parents with house chores. ",
+  "title": {
+    "en": "Korochan",
+    "jp": "Koguma no Koro-chan"
+  },
+  "releasedAt": "1958-03-01T00:00:00.000Z",
+  "finishedAt": "1958-03-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5900/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5900",
+    "anidb": "8080",
+    "anilist/anime": "9850",
+    "aozora": "k6JEwgEFuv",
+    "myanimelist/anime": "9850"
+  }
+}

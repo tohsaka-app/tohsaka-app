@@ -1,0 +1,26 @@
+{
+  "slug": "doudou",
+  "synopsis": "Independent animation by Hotchi Kazuhiro.",
+  "title": {
+    "jp": "Doudou"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6956/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6956",
+    "anidb": "8035",
+    "anilist/anime": "13407",
+    "aozora": "WwXiCm4lxR",
+    "myanimelist/anime": "13407"
+  }
+}

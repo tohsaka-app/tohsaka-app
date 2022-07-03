@@ -1,0 +1,26 @@
+{
+  "slug": "ashita-e-free-kick",
+  "synopsis": "Shun Godai is a young boy who likes soccer. But his grandfather, a successful businessman, want his grandson to follow his path...",
+  "title": {
+    "jp": "Ashita e Free Kick"
+  },
+  "releasedAt": "1992-04-14T00:00:00.000Z",
+  "finishedAt": "1993-04-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3314/original.jpg",
+  "categories": [
+    "action",
+    "soccer",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3314",
+    "anidb": "3077",
+    "anilist/anime": "3874",
+    "aozora": "EYFWYgIvBv",
+    "myanimelist/anime": "3874"
+  }
+}

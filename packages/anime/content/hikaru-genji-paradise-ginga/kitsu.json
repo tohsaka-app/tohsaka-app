@@ -1,0 +1,24 @@
+{
+  "slug": "hikaru-genji-paradise-ginga",
+  "synopsis": "The official music video for Hikaru Genji's single \"Paradise Ginga.\"",
+  "title": {
+    "jp": "Hikaru Genji: Paradise Ginga"
+  },
+  "releasedAt": "1989-03-09T00:00:00.000Z",
+  "finishedAt": "1989-03-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12159/original.jpg",
+  "categories": [
+    "music",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12159",
+    "anilist/anime": "103542",
+    "aozora": "ONLjUXKDgd",
+    "myanimelist/anime": "33217"
+  }
+}

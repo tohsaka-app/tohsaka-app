@@ -1,0 +1,25 @@
+{
+  "slug": "hello-kitty-no-minna-no-mori-wo-mamore",
+  "synopsis": "One day, Kitty notices a part of the forest she plays in almost every day has died. Insects come and ask Kitty to help fight a witch who is causing it.",
+  "title": {
+    "jp": "Hello Kitty no Minna no Mori wo Mamore!"
+  },
+  "releasedAt": "1996-01-13T00:00:00.000Z",
+  "finishedAt": "1996-01-13T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9851/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9851",
+    "anidb": "7776",
+    "anilist/anime": "18589",
+    "aozora": "nGoJYaj4vz",
+    "myanimelist/anime": "18589"
+  }
+}

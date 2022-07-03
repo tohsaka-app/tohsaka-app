@@ -1,0 +1,22 @@
+{
+  "slug": "eiga-no-osomatsu-san-1",
+  "synopsis": "To commemorate the 6th anniversary of Osomatsu-san, two new animation projects that will have a theatrical release were announced at the \"Fes Matsu-san '21\" event. The first film will release sometime in 2022.",
+  "title": {
+    "jp": "Eiga no Osomatsu-san 1"
+  },
+  "releasedAt": "2022-01-01T00:00:00.000Z",
+  "finishedAt": "2022-12-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44676/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44676",
+    "anilist/anime": "135177"
+  }
+}

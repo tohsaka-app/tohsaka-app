@@ -1,0 +1,23 @@
+{
+  "slug": "swimming",
+  "synopsis": "The short animation evokes all the awkwardness of a school swimming class. A chubby young boy, steps up reluctantly for his turn, after watching the sporty prowess of his peers.\n(source: Official website)",
+  "title": {
+    "jp": "Swimming"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10565/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10565",
+    "anilist/anime": "102357",
+    "aozora": "rTcNlEAnug",
+    "myanimelist/anime": "29956"
+  }
+}

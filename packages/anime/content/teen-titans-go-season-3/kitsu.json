@@ -1,0 +1,31 @@
+{
+  "slug": "teen-titans-go-season-3",
+  "synopsis": "Teen Titans Go! is an animated series that follows the adventures of the young Titans: Beast Boy, Cyborg, Raven, Starfire and Robin. They reside in Jump City when they are not saving the world while living together as teenagers without adults who intrude. (Source: Wikipedia)",
+  "title": {
+    "en": "Teen Titans Go! Season 3"
+  },
+  "releasedAt": "2015-07-31T00:00:00.000Z",
+  "finishedAt": "2016-10-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43695/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43695/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "kids",
+    "parody",
+    "super deformed",
+    "super power",
+    "superhero"
+  ],
+  "externals": [
+    "https://www.hulu.com/series/teen-titans-go-4677c039-314f-4dfc-8dc1-c533a76e8a07"
+  ],
+  "relations": {
+    "kitsu": "43695",
+    "thetvdb": "266775/3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "harukanaru-toki-no-naka-de-kokoro-no-yukue",
+  "synopsis": "A funny side side story of the series.",
+  "title": {
+    "jp": "Harukanaru Toki no Naka de: Hachiyou Shou OVA"
+  },
+  "releasedAt": "2005-12-23T00:00:00.000Z",
+  "finishedAt": "2006-01-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1717/original.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1717",
+    "anilist/anime": "1907",
+    "aozora": "BL1xcvkxP6",
+    "myanimelist/anime": "1907"
+  }
+}

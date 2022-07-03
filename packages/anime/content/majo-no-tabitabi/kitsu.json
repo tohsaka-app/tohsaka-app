@@ -1,0 +1,32 @@
+{
+  "slug": "majo-no-tabitabi",
+  "synopsis": "In a certain place, there was a traveler witch. Her name was Elaina. Being a traveler, she came across many people and countries while continuing her long, long journey. A country that only accepted magicians, a muscle loving giant, a youth wanting to return a lover from the grasp of death, a Princess left alone in the ruined country, and the story of the witch herself up until now and from now on. While meeting unbelievably odd people and experiencing beautiful moments of some, then, even now, the witch keeps spinning the tale of meeting and parting.\n\n(Source: NU)",
+  "title": {
+    "en": "The Journey of Elaina",
+    "jp": "Majo no Tabitabi"
+  },
+  "releasedAt": "2020-10-02T00:00:00.000Z",
+  "finishedAt": "2020-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42627/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42627/original.jpg",
+  "categories": [
+    "adventure",
+    "dark fantasy",
+    "fantasy",
+    "magic",
+    "stereotypes",
+    "tone changes",
+    "violence"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/wandering-witch-the-journey-of-elaina/"
+  ],
+  "relations": {
+    "kitsu": "42627",
+    "anilist/anime": "112609",
+    "myanimelist/anime": "40571"
+  }
+}

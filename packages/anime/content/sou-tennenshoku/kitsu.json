@@ -1,0 +1,24 @@
+{
+  "slug": "sou-tennenshoku",
+  "synopsis": "2019 Graduation work of Yutaro Sasaki at Tama Art University.",
+  "title": {
+    "en": "Kinemacolor",
+    "jp": "Sou Tennenshoku"
+  },
+  "releasedAt": "2019-01-01T00:00:00.000Z",
+  "finishedAt": "2019-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45381/poster_image/0e2970641c9d1657306f81ad587c455a.png",
+  "categories": [
+    "action"
+  ],
+  "externals": [
+    "https://youtu.be/acKfvfsAKok"
+  ],
+  "relations": {
+    "kitsu": "45381",
+    "anilist/anime": "140598"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "hinomaruzumou",
+  "synopsis": "The intense fight for the dream of yokozuna has begun. \n\nA new student has joined Odachi High School's weak sumo club, the small boy Ushio Hinomaru! Although his physique seems ill-suited to a fighting sport where size and weight rule, Hinomaru has an incredible dream. \n\nHe and the weak sumo club will fight their way to the top! The intense battle of high school sumo has begun!\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Hinomaru Sumo",
+    "jp": "Hinomaruzumou"
+  },
+  "releasedAt": "2018-10-05T00:00:00.000Z",
+  "finishedAt": "2019-03-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41148/original.jpg",
+  "categories": [
+    "martial arts",
+    "shounen",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/hinomaru-sumo",
+    "https://www.funimation.com/shows/hinomaru-sumo/"
+  ],
+  "relations": {
+    "kitsu": "41148",
+    "anidb": "a13695",
+    "anilist/anime": "100990",
+    "myanimelist/anime": "37007"
+  }
+}

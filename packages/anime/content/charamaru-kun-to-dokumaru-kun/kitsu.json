@@ -1,0 +1,24 @@
+{
+  "slug": "charamaru-kun-to-dokumaru-kun",
+  "synopsis": "An anime created from a grant from the Agency for Cultural Affairs. The aim is to enlighten children towards social contribution. They bring to light the goodness of picking up litter, donating blood, and the disasters that will happen in the future of nothing changes like floods from global warming. The OVA contains 3 stories.",
+  "title": {
+    "en": null,
+    "jp": "Charamaru-kun to Dokumaru-kun"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11256/original.jpg",
+  "categories": [
+    "kids",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11256",
+    "aozora": "iHw5uvR5LP",
+    "myanimelist/anime": "30959"
+  }
+}

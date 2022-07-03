@@ -1,0 +1,26 @@
+{
+  "slug": "cosprayers-specials",
+  "synopsis": "These three specials came with the DVD release. They mostly depict stories that take place in-between episodes from the main series.\nSpecial #1 takes place in-between episodes 2 and 3.\nSpecial #2 takes place in-between episodes 3 and 4.\nSpecial #3 doesn't fit very well in-between any of the main series, and is more of a side-story.",
+  "title": {
+    "jp": "Chou Henshin Cosprayers Specials"
+  },
+  "releasedAt": "2004-07-16T00:00:00.000Z",
+  "finishedAt": "2004-07-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/687/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "magic",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "687",
+    "anilist/anime": "765",
+    "aozora": "d2uKo9KQje",
+    "myanimelist/anime": "765"
+  }
+}

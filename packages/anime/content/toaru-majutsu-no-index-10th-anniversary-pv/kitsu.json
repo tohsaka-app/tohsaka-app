@@ -1,0 +1,29 @@
+{
+  "slug": "toaru-majutsu-no-index-10th-anniversary-pv",
+  "synopsis": "To celebrate the ten years of Kazuma Kamachi's professional career as a writer, Dengeki released a video showing the main cast of Kamachi's works as they gather for the 10th anniversary event.\n\n(Source: Toaru Majutsu no Index Wiki)",
+  "title": {
+    "jp": "Toaru Majutsu no Index 10th Anniversary PV"
+  },
+  "releasedAt": "2014-09-10T00:00:00.000Z",
+  "finishedAt": "2014-09-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9104/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9104/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "magic",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [
+    "https://youtu.be/Y8ZCp7FnD3w"
+  ],
+  "relations": {
+    "kitsu": "9104",
+    "aozora": "grxBToJJJa",
+    "myanimelist/anime": "27509"
+  }
+}

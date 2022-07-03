@@ -1,0 +1,23 @@
+{
+  "slug": "endless-summer",
+  "synopsis": "A music video for Vampillia's song \"Endless Summer.\"",
+  "title": {
+    "jp": "Endless Summer"
+  },
+  "releasedAt": "2013-09-02T00:00:00.000Z",
+  "finishedAt": "2013-09-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13705/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13705",
+    "anilist/anime": "102382",
+    "aozora": "vS5zZRdL59",
+    "myanimelist/anime": "36074"
+  }
+}

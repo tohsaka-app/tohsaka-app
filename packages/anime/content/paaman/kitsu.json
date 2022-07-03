@@ -1,0 +1,32 @@
+{
+  "slug": "paaman",
+  "synopsis": "After Mitsuo receives a mask from a retiring superhero, he becomes Paaman.\n(Source: AniDB)",
+  "title": {
+    "jp": "Perman"
+  },
+  "releasedAt": "1967-04-02T00:00:00.000Z",
+  "finishedAt": "1968-04-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4513/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "elementary school",
+    "japan",
+    "power suit",
+    "present",
+    "science fiction",
+    "slice of life",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4513",
+    "anidb": "3205",
+    "anilist/anime": "6303",
+    "aozora": "rwJM1xHhT4",
+    "myanimelist/anime": "6303"
+  }
+}

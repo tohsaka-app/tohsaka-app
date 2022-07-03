@@ -1,0 +1,24 @@
+{
+  "slug": "rwby-v-character-shorts",
+  "synopsis": "Character shorts aired up leading up to Volume 5.",
+  "title": {},
+  "releasedAt": "2017-07-10T00:00:00.000Z",
+  "finishedAt": "2017-10-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13649/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "fantasy",
+    "fantasy world"
+  ],
+  "externals": [
+    "https://vrv.co/series/G609MWD26/RWBY"
+  ],
+  "relations": {
+    "kitsu": "13649"
+  }
+}

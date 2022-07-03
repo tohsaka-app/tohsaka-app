@@ -1,0 +1,27 @@
+{
+  "slug": "ling-long-incarnation-final-chapter",
+  "synopsis": "Final installment of Ling Long: Incarnation.",
+  "title": {
+    "en": "Spirit Cage: Incarnation Final Chapter"
+  },
+  "releasedAt": "2021-05-01T00:00:00.000Z",
+  "finishedAt": "2021-05-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43743/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "drama",
+    "horror",
+    "science fiction",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43743",
+    "anilist/anime": "126833",
+    "myanimelist/anime": "44090"
+  }
+}

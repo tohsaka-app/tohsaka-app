@@ -1,0 +1,26 @@
+{
+  "slug": "mini-yon-soldier-rin",
+  "synopsis": "A 1989 OVA about a boy saving the world from the evil scientist.",
+  "title": {
+    "jp": "Mini Yon Soldier Rin!"
+  },
+  "releasedAt": "1989-11-16T00:00:00.000Z",
+  "finishedAt": "1989-11-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9901/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9901",
+    "anidb": "11871",
+    "anilist/anime": "18275",
+    "aozora": "dNQ13HKebP",
+    "myanimelist/anime": "18275"
+  }
+}

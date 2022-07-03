@@ -1,0 +1,27 @@
+{
+  "slug": "licca-chan-no-nichiyoubi",
+  "synopsis": "One relaxing Sunday, Licca tags along with a friend to babysit two rather grumpy little boys.",
+  "title": {
+    "jp": "Licca-chan no Nichiyoubi"
+  },
+  "releasedAt": "1992-07-21T00:00:00.000Z",
+  "finishedAt": "1992-07-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5533/original.jpg",
+  "categories": [
+    "adventure",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5533",
+    "anidb": "5961",
+    "anilist/anime": "8919",
+    "aozora": "woEUY5wCTU",
+    "myanimelist/anime": "8919"
+  }
+}

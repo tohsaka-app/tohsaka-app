@@ -1,0 +1,27 @@
+{
+  "slug": "kemurikusa",
+  "synopsis": "A story about three sisters struggling to survive in a desolate world surrounded by decaying buildings and red fog. The story revolves around Rin, a girl with an updo. There's also Ritsu, the big sister who has cat ears and is always calm, and Rina, the innocent, cheerful one dressed in a maid's costume. Just what is it that these sisters are after in this mysterious world?\n\n(Source: Amazon Prime Video)",
+  "title": {
+    "en": "kemurikusa.",
+    "jp": "Kemurikusa"
+  },
+  "releasedAt": "2019-01-09T00:00:00.000Z",
+  "finishedAt": "2019-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41408/original.jpg",
+  "categories": [
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.amazon.com/dp/B07MLWW254"
+  ],
+  "relations": {
+    "kitsu": "41408",
+    "anidb": "13795",
+    "anilist/anime": "101123",
+    "myanimelist/anime": "37302"
+  }
+}

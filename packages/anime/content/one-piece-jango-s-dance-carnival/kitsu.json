@@ -1,0 +1,27 @@
+{
+  "slug": "one-piece-jango-s-dance-carnival",
+  "synopsis": "Luffy and his crew are on Mirror Ball Island during a dance carnival. They are spotted by Marines just as Jango the hypnotist is running from them. Luffy and the others are caught up in the dance carnival as Jango, in his desperate attempt to escape, hypnotizes the entire island to dance the night away.\n(Source: ANN)",
+  "title": {
+    "en": "One Piece: Django's Dance Carnival",
+    "jp": "One Piece: Jango no Dance Carnival"
+  },
+  "releasedAt": "2001-03-03T00:00:00.000Z",
+  "finishedAt": "2001-03-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2162/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2162/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "friendship"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2162",
+    "anilist/anime": "2385",
+    "aozora": "0Vs0jqojoL",
+    "myanimelist/anime": "2385"
+  }
+}

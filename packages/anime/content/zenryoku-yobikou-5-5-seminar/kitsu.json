@@ -1,0 +1,24 @@
+{
+  "slug": "zenryoku-yobikou-5-5-seminar",
+  "synopsis": "A CalorieMate x FROGMAN collaboration in a school setting.",
+  "title": {
+    "jp": "Zenryoku Yobikou 5.5 Seminar"
+  },
+  "releasedAt": "2015-07-20T00:00:00.000Z",
+  "finishedAt": "2015-11-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12701/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12701",
+    "aozora": "Lxm85DVVrR",
+    "myanimelist/anime": "33571"
+  }
+}

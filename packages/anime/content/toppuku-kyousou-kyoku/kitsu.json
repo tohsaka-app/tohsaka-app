@@ -1,0 +1,24 @@
+{
+  "slug": "toppuku-kyousou-kyoku",
+  "synopsis": "Based on the shounen manga by Yuu Furusawa.",
+  "title": {
+    "jp": "Toppuku Kyousou Kyoku"
+  },
+  "releasedAt": "1996-06-28T00:00:00.000Z",
+  "finishedAt": "1996-07-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9680/original.jpg",
+  "categories": [
+    "comedy",
+    "delinquent"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9680",
+    "anidb": "4718",
+    "aozora": "mu7Ly38tT4",
+    "myanimelist/anime": "23769"
+  }
+}

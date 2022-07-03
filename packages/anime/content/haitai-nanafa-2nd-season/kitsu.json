@@ -1,0 +1,34 @@
+{
+  "slug": "haitai-nanafa-2nd-season",
+  "synopsis": "Continuation of the first season.",
+  "title": {
+    "jp": "Haitai Nanafa 2nd Season"
+  },
+  "releasedAt": "2013-04-06T00:00:00.000Z",
+  "finishedAt": "2013-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7721/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "japan",
+    "present",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7721",
+    "anidb": "9747",
+    "anilist/anime": "17727",
+    "aozora": "qV6FvXzhgt",
+    "myanimelist/anime": "17727",
+    "thetvdb": "262110/2",
+    "thetvdb/season": "515658",
+    "thetvdb/series": "262110",
+    "trakt": "67794"
+  }
+}

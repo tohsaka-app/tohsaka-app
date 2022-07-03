@@ -1,0 +1,31 @@
+{
+  "slug": "aria-the-avvenire",
+  "synopsis": "New Aria work produced for the \"Ao no Curtain Call\" project to celebrate the 10th anniversary of the broadcast of the first Aria TV series.",
+  "title": {
+    "jp": "Aria The Avvenire"
+  },
+  "releasedAt": "2015-09-26T00:00:00.000Z",
+  "finishedAt": "2015-09-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10360/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10360/original.jpg",
+  "categories": [
+    "fantasy",
+    "future",
+    "mars",
+    "other planet",
+    "science fiction",
+    "slice of life",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10360",
+    "anidb": "11059",
+    "anilist/anime": "21043",
+    "aozora": "sFu36n1c1w",
+    "myanimelist/anime": "29893"
+  }
+}

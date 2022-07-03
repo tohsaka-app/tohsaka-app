@@ -1,0 +1,29 @@
+{
+  "slug": "catman-series-iii",
+  "synopsis": "In a city filled with anthropomorphic cat-people, Catman lives free of rules and boundaries, doing everything he wants, which often collides with the other iinhabitants of the city. Created entirely in flash, with no spoken dialog, Catman instead speaks in English and Japanese subtitles. The series is spread across three so-called 'seasons', with only the third having been aired.",
+  "title": {
+    "jp": "Catman Series III"
+  },
+  "releasedAt": "2008-03-01T00:00:00.000Z",
+  "finishedAt": "2008-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3580/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3580/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "fantasy",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3580",
+    "anidb": "5754",
+    "anilist/anime": "4383",
+    "aozora": "g5QCzwAXWH",
+    "myanimelist/anime": "4383"
+  }
+}

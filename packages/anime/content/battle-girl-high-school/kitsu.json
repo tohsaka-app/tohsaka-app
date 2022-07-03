@@ -1,0 +1,31 @@
+{
+  "slug": "battle-girl-high-school",
+  "synopsis": "Based on COLOPL's school action role-playing game. Set in the year 2045. The world has been contaminated by Irousu (mysterious invaders who suddenly appeared), and humans find themselves restricted and contained. Standing boldly against these invaders are ordinary girls everywhere, without a powerful army or even weapons.\n\nThe Shinjugammine Girls Academy is a school for these \"Hoshimori\" (Star Guardians) destined to fight the Irousu. The player is assigned to this academy to train the girls and take back the contaminated Earth. And so, once again, the chimes echo through the sun-strewn schoolyard to mark the beginning of classes today…\n\n(Source: ANN)",
+  "title": {
+    "jp": "Battle Girl High School"
+  },
+  "releasedAt": "2017-07-03T00:00:00.000Z",
+  "finishedAt": "2017-09-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13115/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13115/original.jpg",
+  "categories": [
+    "action",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/battle-girl-high-school",
+    "https://www.hidive.com/tv/battle-girl-high-school"
+  ],
+  "relations": {
+    "kitsu": "13115",
+    "anidb": "12080",
+    "anilist/anime": "21787",
+    "aozora": "iqZSw8iKkV",
+    "myanimelist/anime": "33184",
+    "thetvdb": "329825/1"
+  }
+}

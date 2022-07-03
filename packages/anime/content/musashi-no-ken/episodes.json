@@ -1,0 +1,540 @@
+[
+  {
+    "title": {
+      "jp": "I am MUSASHI !"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1985-04-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Me and my Dad and Mt. IWATE"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1985-04-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I will be the best one in Japan"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1985-05-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fight at Morioka Castle"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1985-05-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Above of the above of the way of Sword"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1985-05-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kid’s Kendo tournament"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1985-05-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The tough opponent, Pretty girl Kenshi"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1985-05-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I am the best ! KYU Shinsa"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1985-06-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I am undefeated , beat the  magnificent 4"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1985-06-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Thanks Ohishi, the training from the hell"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1985-06-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rival, Shyura"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1985-06-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Musashi VS Shyura"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1985-07-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Our Tears"
+    },
+    "season": 1,
+    "number": 13,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tthe way of sword "
+    },
+    "season": 1,
+    "number": 14,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "If my Dad does it, I will do it too"
+    },
+    "season": 1,
+    "number": 15,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Musashi training in the mountains"
+    },
+    "season": 1,
+    "number": 16,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Opponent is TODO! "
+    },
+    "season": 1,
+    "number": 17,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A New opponent!"
+    },
+    "season": 1,
+    "number": 18,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Go Daddy, you are the best!"
+    },
+    "season": 1,
+    "number": 19,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tough match! Calling hurricane to BUDOKAN"
+    },
+    "season": 1,
+    "number": 20,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Crash! Tiger from Iwate and Oni from Yagyu"
+    },
+    "season": 1,
+    "number": 21,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 22,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Get over the sadness, 1000 Suburi"
+    },
+    "season": 1,
+    "number": 23,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Musashi throw away Shinai"
+    },
+    "season": 1,
+    "number": 24,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Musashi  ‘s  deadly Tsuki"
+    },
+    "season": 1,
+    "number": 25,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shyoubu, Todo! "
+    },
+    "season": 1,
+    "number": 26,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Come back Musashi ! Great way of the sword"
+    },
+    "season": 1,
+    "number": 27,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Pretty Girl Kenshi, Ranko Todoroki"
+    },
+    "season": 1,
+    "number": 28,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "My pride, Ranko’s pride"
+    },
+    "season": 1,
+    "number": 29,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Semifinal match"
+    },
+    "season": 1,
+    "number": 30,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Did you see my JODAN, Rank of The fire"
+    },
+    "season": 1,
+    "number": 31,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fight 1 VS 4"
+    },
+    "season": 1,
+    "number": 32,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "My opponent, SHYURA! "
+    },
+    "season": 1,
+    "number": 33,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Promise among the 5, night before the tournament"
+    },
+    "season": 1,
+    "number": 34,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Budokan is on Fire!"
+    },
+    "season": 1,
+    "number": 35,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Budokan , exciting match"
+    },
+    "season": 1,
+    "number": 36,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 37,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Crash! Musashi VS Shyura"
+    },
+    "season": 1,
+    "number": 38,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Target is BUDOKAN again!"
+    },
+    "season": 1,
+    "number": 39,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tougher! Harder!"
+    },
+    "season": 1,
+    "number": 40,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tearing up Dojo by Musashi"
+    },
+    "season": 1,
+    "number": 41,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Undefeated Jodan! My sword"
+    },
+    "season": 1,
+    "number": 42,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Asyura’s sword"
+    },
+    "season": 1,
+    "number": 43,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I will be the tiger from Iwate"
+    },
+    "season": 1,
+    "number": 44,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kendo and friendship, Musashi and Ranko"
+    },
+    "season": 1,
+    "number": 45,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Beat Syura ! Match with rival again"
+    },
+    "season": 1,
+    "number": 46,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Opponent is JODAN too! Musashi is in danger"
+    },
+    "season": 1,
+    "number": 47,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Exciting match, Musashi VS Syura"
+    },
+    "season": 1,
+    "number": 48,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Way to go! Won the champion"
+    },
+    "season": 1,
+    "number": 49,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 50,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 51,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 52,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 53,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 54,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 55,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 56,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 57,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 58,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 59,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 60,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 61,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 62,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 63,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 64,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 65,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 66,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 67,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 68,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 69,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 70,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 71,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 72,
+    "content": {}
+  }
+]

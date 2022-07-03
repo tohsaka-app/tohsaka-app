@@ -1,0 +1,33 @@
+{
+  "slug": "natsume-yuujinchou-itsuka-yuki-no-hi-ni",
+  "synopsis": "During a winter walk, Natsume meets a snowman youkai who is searching for something she's lost and can't seem to recall and decides to help her despite not knowing what exactly she's looking for.",
+  "title": {
+    "en": "Natsume's Book of Friends: Sometime on a Snowy Day",
+    "jp": "Natsume Yuujinchou: Itsuka Yuki no Hi ni"
+  },
+  "releasedAt": "2014-02-01T00:00:00.000Z",
+  "finishedAt": "2014-02-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8054/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8054/original.jpg",
+  "categories": [
+    "asia",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "japan",
+    "present",
+    "shoujo",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8054",
+    "anidb": "10447",
+    "anilist/anime": "20478",
+    "aozora": "Km4TUwaezb",
+    "myanimelist/anime": "20651"
+  }
+}

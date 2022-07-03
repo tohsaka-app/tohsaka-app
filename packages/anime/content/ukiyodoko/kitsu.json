@@ -1,0 +1,23 @@
+{
+  "slug": "ukiyodoko",
+  "synopsis": "The film is based on Ukiyodoko, a rakugo storytelling piece. Hanzo, the hero, brags to his friends to make a party go. Human nature remains unchanged once and now, as the time goes. We love meaningless conversations among boon companions. Different communication methods are visually tangled in the different times, Edo and today. The theme is an “interchange between the transient and the immutable.”\n\nGraduate Work 2012 from Kazuya Karasawa, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation)",
+  "title": {
+    "jp": "Ukiyodoko"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45766/poster_image/cb3838d5095efa6a86afea3197a191be.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/dDXvwK3OdpA"
+  ],
+  "relations": {
+    "kitsu": "45766",
+    "anilist/anime": "113269"
+  }
+}

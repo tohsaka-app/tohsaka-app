@@ -1,0 +1,26 @@
+{
+  "slug": "yanyan-machiko",
+  "synopsis": "A comedy anime about the life of Machiko, a sheep girl who lives in the Champs-Élysées shopping district.Note: Eleven episodes released as of August 20, 2015.",
+  "title": {
+    "jp": "YanYan Machiko"
+  },
+  "releasedAt": "2009-12-25T00:00:00.000Z",
+  "finishedAt": "2015-08-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5408/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5408",
+    "anidb": "8368",
+    "anilist/anime": "8631",
+    "aozora": "kCBTmzFtCE",
+    "myanimelist/anime": "8631"
+  }
+}

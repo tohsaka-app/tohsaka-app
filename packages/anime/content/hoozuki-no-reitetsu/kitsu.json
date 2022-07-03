@@ -1,0 +1,36 @@
+{
+  "slug": "hoozuki-no-reitetsu",
+  "synopsis": "Hell is a bureaucracy, and business is running smoother than ever thanks to the demonic efficiency of Hoozuki, chief deputy to Lord Enma, the King of Hell. Whether offering counsel to the Momotarou of Japanese folklore or receiving diplomatic missions from the Judeo-Christian Hell, the demon who runs the show from behind the king's imposing shadow is ready to beat down any challenges coming his way into a bloody pulp. Metaphorically, of course...\n\nThe poster boy for micromanagement and armed with negotiation skills worthy of Wall Street, Hoozuki no Reitetsu follows the sadistic and level-headed Hoozuki as he spends his days troubleshooting hell. With an abundance of familiar faces from popular Japanese legends and East Asian mythology working middle management positions, this referential and anachronistic dark comedy brings new meaning to the phrase \"employer liability.\" Just how hard could it be to manage employees from hell, anyway?\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Hozuki's Coolheadedness",
+    "jp": "Hoozuki no Reitetsu"
+  },
+  "releasedAt": "2014-01-10T00:00:00.000Z",
+  "finishedAt": "2014-04-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8009/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8009/original.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "fantasy",
+    "religion"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/hozuki-no-reitetsu",
+    "http://www.hulu.com/hozukis-coolheadedness"
+  ],
+  "relations": {
+    "kitsu": "8009",
+    "anidb": "9955",
+    "anilist/anime": "20431",
+    "aozora": "7xescZT1S2",
+    "hulu": "50014914",
+    "myanimelist/anime": "20431",
+    "thetvdb": "275613/1",
+    "thetvdb/series": "275613",
+    "trakt": "74199"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "baka-to-test-to-shoukanjuu-matsuri-special",
+  "synopsis": " A promotional video that was shown to the public at Comiket 78, and uploaded to YouTube and posted on the official website. It was also included with the first Blu-ray/DVD volume of the Matsuri OVA.\nIt is done in the style of a visual novel game played on a Nintendo DS screen.\n(Source: AniDB)",
+  "title": {
+    "jp": "Baka to Test to Shoukanjuu: Matsuri - Sentaku ni Yotte Tenkai ga Kawaru \"LIPS Eizou\""
+  },
+  "releasedAt": "2010-08-29T00:00:00.000Z",
+  "finishedAt": "2010-08-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6178/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6178",
+    "anilist/anime": "10431",
+    "aozora": "mltyTjoXFW",
+    "myanimelist/anime": "10431"
+  }
+}

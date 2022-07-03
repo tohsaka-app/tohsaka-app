@@ -1,0 +1,25 @@
+{
+  "slug": "cj7-the-cartoon",
+  "synopsis": "CJ7: The Cartoon loosely adopts the original plot of how a father and a son accidentally pick up an alien named CJ7.\nBased on Stephen Chow's 2008 hit comedy CJ7, the film has a newly developed storyline in which CJ7 protects the environment and saves the earth.",
+  "title": {
+    "en": "CJ7: The Cartoon",
+    "jp": "Changjiang Qi Hao Ai Diqiu"
+  },
+  "releasedAt": "2010-07-09T00:00:00.000Z",
+  "finishedAt": "2010-07-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5790/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5790",
+    "anidb": "8785",
+    "anilist/anime": "9558",
+    "aozora": "09WG4X0sZh",
+    "myanimelist/anime": "9558"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "ozmafia-special",
+  "synopsis": "Ozmafia!! special included with the 1st volume of the DVD/BD.",
+  "title": {
+    "jp": "Ozmafia!! Special"
+  },
+  "releasedAt": "2016-10-28T00:00:00.000Z",
+  "finishedAt": "2016-10-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12929/original.jpg",
+  "categories": [
+    "historical",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12929",
+    "anilist/anime": "87485",
+    "aozora": "hstV9me7ro",
+    "myanimelist/anime": "33618"
+  }
+}

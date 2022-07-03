@@ -1,0 +1,25 @@
+{
+  "slug": "ze-tian-ji-3rd-season",
+  "synopsis": "The third season of Ze Tian Ji.\n",
+  "title": {
+    "jp": "Ze Tian Ji 3rd Season"
+  },
+  "releasedAt": "2017-07-26T00:00:00.000Z",
+  "finishedAt": "2017-10-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41197/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41197",
+    "anidb": "13468",
+    "anilist/anime": "102166",
+    "myanimelist/anime": "37185"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "nanocore-2016-new-year-special",
+  "synopsis": "A special Nanocore video celebrating the new year.",
+  "title": {
+    "jp": "Nanocore 2016 Xinnian Tebie Ban"
+  },
+  "releasedAt": "2016-02-04T00:00:00.000Z",
+  "finishedAt": "2016-02-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12162/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12162",
+    "anilist/anime": "102780",
+    "aozora": "xtxSr3aQ8W",
+    "myanimelist/anime": "33272"
+  }
+}

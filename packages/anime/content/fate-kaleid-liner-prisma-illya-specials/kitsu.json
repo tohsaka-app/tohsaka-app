@@ -1,0 +1,28 @@
+{
+  "slug": "fate-kaleid-liner-prisma-illya-specials",
+  "synopsis": "Specials bundled with each of all five Blu-ray/DVD volumes.",
+  "title": {
+    "jp": "Fate/kaleid liner Prisma☆Illya Specials"
+  },
+  "releasedAt": "2013-09-27T00:00:00.000Z",
+  "finishedAt": "2014-01-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7858/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7858/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7858",
+    "anilist/anime": "19109",
+    "aozora": "pjDm0ncNPa",
+    "myanimelist/anime": "19109"
+  }
+}

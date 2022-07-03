@@ -1,0 +1,24 @@
+{
+  "slug": "donyatsu-specials",
+  "synopsis": "DVD specials of the Donyatsu series.",
+  "title": {
+    "jp": "Donyatsu Specials"
+  },
+  "releasedAt": "2013-12-20T00:00:00.000Z",
+  "finishedAt": "2013-12-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9249/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9249",
+    "anilist/anime": "126647",
+    "aozora": "gI18GFuvDY",
+    "myanimelist/anime": "26079"
+  }
+}

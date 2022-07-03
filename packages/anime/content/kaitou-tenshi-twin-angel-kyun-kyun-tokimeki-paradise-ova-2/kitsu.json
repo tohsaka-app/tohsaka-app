@@ -1,0 +1,25 @@
+{
+  "slug": "kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise-ova-2",
+  "synopsis": "The OVA will be pre-sold during the Comiket 87 starting on December 28, 2014, regular retail distribution of the limited edition package will start on January 30, 2015.",
+  "title": {
+    "jp": "Kaitou Tenshi Twin Angel: Kyun Kyun☆Tokimeki Paradise!! OVA"
+  },
+  "releasedAt": "2014-12-28T00:00:00.000Z",
+  "finishedAt": "2014-12-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9985/original.jpg",
+  "categories": [
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9985",
+    "anidb": "10890",
+    "anilist/anime": "21834",
+    "aozora": "9QgMTrk9mt",
+    "myanimelist/anime": "27997"
+  }
+}

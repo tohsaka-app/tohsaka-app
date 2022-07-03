@@ -1,0 +1,25 @@
+{
+  "slug": "nonbiri-to-music",
+  "synopsis": "Music video animated by Bafako for the song Nonbiri to, by AZKi.\n\nThis is the Second MV for this song.",
+  "title": {
+    "jp": "Nonbiri to,"
+  },
+  "releasedAt": "2021-12-01T00:00:00.000Z",
+  "finishedAt": "2021-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45546/poster_image/d60226ecf0d33b227ece6d2f3041b952.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=TlSzfEM5NcQ"
+  ],
+  "relations": {
+    "kitsu": "45546",
+    "anilist/anime": "142261",
+    "myanimelist/anime": "51443"
+  }
+}

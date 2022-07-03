@@ -1,0 +1,41 @@
+{
+  "slug": "nurarihyon-no-mago",
+  "synopsis": "Rikuo Nura doesn't want anything to do with evil youkai, and just wants a normal life. Too bad he's a quarter youkai, and Nurarihyon, his grandfather, is insistent that he takes over as head of the Nura Clan. He's able to keep his supernatural secret life hidden from his classmates, as he can only transform into a youkai at night, for six hours at a time. \nUnfortunately for him, various youkai factions are out to target both his youkai and human friends, and like it or not, he needs to embrace his youkai side. Life is not easy when you're Nurarihyon's grandson.",
+  "title": {
+    "en": "Nura: Rise of the Yokai Clan",
+    "jp": "Nurarihyon no Mago"
+  },
+  "releasedAt": "2010-07-06T00:00:00.000Z",
+  "finishedAt": "2010-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5044/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5044/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "contemporary fantasy",
+    "demon",
+    "earth",
+    "fantasy",
+    "japan",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.hulu.com/nura-rise-of-the-yokai-clan"
+  ],
+  "relations": {
+    "kitsu": "5044",
+    "anidb": "7404",
+    "anilist/anime": "7592",
+    "aozora": "DfCsCeHeSq",
+    "hulu": "50001560",
+    "myanimelist/anime": "7592",
+    "thetvdb": "171731/1",
+    "thetvdb/season": "268081",
+    "thetvdb/series": "171731",
+    "trakt": "37313"
+  }
+}

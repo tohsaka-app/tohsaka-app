@@ -1,0 +1,30 @@
+{
+  "slug": "time-bokan-24",
+  "synopsis": "A new TV series in the Time Bokan franchise.",
+  "title": {
+    "en": "Time Bokan 24",
+    "jp": "Time Bokan 24"
+  },
+  "releasedAt": "2016-10-01T00:00:00.000Z",
+  "finishedAt": "2017-03-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12204/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "mecha"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/time-bokan-24"
+  ],
+  "relations": {
+    "kitsu": "12204",
+    "anidb": "12032",
+    "anilist/anime": "21755",
+    "aozora": "zaBu7stcLf",
+    "myanimelist/anime": "33026",
+    "thetvdb": "317820/1"
+  }
+}

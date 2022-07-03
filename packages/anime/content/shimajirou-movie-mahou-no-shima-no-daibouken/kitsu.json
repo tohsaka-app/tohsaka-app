@@ -1,0 +1,20 @@
+{
+  "slug": "shimajirou-movie-mahou-no-shima-no-daibouken",
+  "synopsis": "",
+  "title": {
+    "jp": "Shimajirou Movie: Mahou no Shima no Daibouken"
+  },
+  "releasedAt": "2018-03-09T00:00:00.000Z",
+  "finishedAt": "2018-03-09T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41652/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41652",
+    "anilist/anime": "131925",
+    "myanimelist/anime": "36727"
+  }
+}

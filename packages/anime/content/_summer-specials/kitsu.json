@@ -1,0 +1,24 @@
+{
+  "slug": "_summer-specials",
+  "synopsis": "Short specials involving the characters from the main series.",
+  "title": {
+    "jp": "_Summer Specials"
+  },
+  "releasedAt": "2006-10-27T00:00:00.000Z",
+  "finishedAt": "2007-01-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3813/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3813/original.jpg",
+  "categories": [
+    "harem"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3813",
+    "anilist/anime": "4827",
+    "aozora": "qEZAzkU6OY",
+    "myanimelist/anime": "4827"
+  }
+}

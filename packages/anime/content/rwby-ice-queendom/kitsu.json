@@ -1,0 +1,27 @@
+{
+  "slug": "rwby-ice-queendom",
+  "synopsis": "RWBY: Ice Queendom presents RWBY in beautiful 2D anime visuals. RWBY imagines a world filled with horrific monsters bent on death and destruction, and humanity's only hope is dependent upon powerful Huntsmen and Huntresses. Ruby Rose, Weiss Schnee, Blake Belladonna, and Yang Xiao Long are four such Huntresses in training whose journeys will take them far past the grounds of their school, Beacon Academy. Though each may be powerful on their own, these four girls must overcome dark forces and work as a team if they truly hope to become the next generation of Remnant's protectors.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "RWBY: Ice Queendom",
+    "jp": "RWBY: Hyousetsu Teikoku"
+  },
+  "releasedAt": "2022-07-03T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45997/poster_image/072c40f33775894369392de2c8ca5f59.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/rwby-ice-queendom"
+  ],
+  "relations": {
+    "kitsu": "45997",
+    "anilist/anime": "146668",
+    "myanimelist/anime": "51381"
+  }
+}

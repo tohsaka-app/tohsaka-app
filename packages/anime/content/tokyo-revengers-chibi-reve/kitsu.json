@@ -1,0 +1,23 @@
+{
+  "slug": "tokyo-revengers-chibi-reve",
+  "synopsis": "Chib Reve depicts the daily lives of the five Mizo middle schoolers and the Tokyo Manji gang members, which are not depicted in the main anime.\n\n(Source: Tokyo Revengers official website, translated)",
+  "title": {
+    "en": "Tokyo Revengers Mini Anime Chiberibe",
+    "jp": "Tokyo Revengers: Chibi Reve"
+  },
+  "releasedAt": "2021-04-12T00:00:00.000Z",
+  "finishedAt": "2021-09-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44526/original.png",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44526",
+    "anilist/anime": "132467",
+    "myanimelist/anime": "48735"
+  }
+}

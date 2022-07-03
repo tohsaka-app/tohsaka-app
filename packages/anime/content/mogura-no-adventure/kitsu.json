@@ -1,0 +1,25 @@
+{
+  "slug": "mogura-no-adventure",
+  "synopsis": "A humorous story of a mole named Kuro-chan who embarks on a space voyage in his dreams.\n(Source: ANN) ",
+  "title": {
+    "jp": "Mogura no Adventure"
+  },
+  "releasedAt": "1958-10-15T00:00:00.000Z",
+  "finishedAt": "1958-10-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7803/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7803",
+    "anidb": "9928",
+    "anilist/anime": "19125",
+    "aozora": "44UkE7C5yP",
+    "myanimelist/anime": "19125"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "himawari-2",
+  "synopsis": "Himawari is back in all her comical ninja mischief. The sequel to Himawari continues with the many odd and hilarious adventures of Himawari, Hayato and her ninja classmates. Season two delves into Himawari and Hayato's past. Will new secrets be revealed? Will Himawari finally find out about her past and the mysterious ninja that saved her when she was little?\n(Source: ANN)",
+  "title": {
+    "en": "Himawari Too!!",
+    "jp": "Himawari!!"
+  },
+  "releasedAt": "2007-01-07T00:00:00.000Z",
+  "finishedAt": "2007-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1789/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "juujin",
+    "ninja",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1789",
+    "anidb": "4572",
+    "anilist/anime": "1988",
+    "aozora": "H4g3WQBOLy",
+    "hulu": "50008489",
+    "myanimelist/anime": "1988",
+    "thetvdb": "79671/2",
+    "thetvdb/season": "40993",
+    "thetvdb/series": "79671",
+    "trakt": "42760"
+  }
+}

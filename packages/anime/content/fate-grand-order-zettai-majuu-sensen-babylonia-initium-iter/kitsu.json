@@ -1,0 +1,31 @@
+{
+  "slug": "fate-grand-order-zettai-majuu-sensen-babylonia-initium-iter",
+  "synopsis": "The year 2010 AD. Romani Archaman has been posted to Chaldea. There, he becomes the primary doctor for a young girl. Mash Kyrielight, Chaldea's second successful summoning experiment, is interested in the word \"Senpai.\" The interaction between the two gives Mash a reason to hope. That hope becomes a wave and starts to spread. That is your story, the story of a normal \"somebody.\" The story at the beginning of a journey that weaves the future.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Fate/Grand Order: Absolute Demonic Front Babylonia - Initium Iter",
+    "jp": "Fate/Grand Order: Zettai Majuu Sensen Babylonia - Initium Iter"
+  },
+  "releasedAt": "2019-08-04T00:00:00.000Z",
+  "finishedAt": "2019-08-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42475/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42475/original.jpg",
+  "categories": [
+    "action",
+    "contemporary fantasy",
+    "fantasy",
+    "magic",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/fategrand-order-absolute-demonic-front-babylonia",
+    "https://www.funimation.com/shows/fategrand-order-absolute-demonic-front-babylonia/"
+  ],
+  "relations": {
+    "kitsu": "42475",
+    "anilist/anime": "110851",
+    "myanimelist/anime": "40206"
+  }
+}

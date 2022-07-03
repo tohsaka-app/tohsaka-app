@@ -1,0 +1,28 @@
+{
+  "slug": "cap-kakumei-bottleman",
+  "synopsis": "The anime centers around a boy named Kouta Kouka (Kouka Kouta in Japanese name order, an apparent wordplay on Coca-Cola). Kouta strives to be the world's best Bottle King at the Bottle Battles in the virtual Drink World. He comes across his Bottleman partner Colamaru and then wages battles with various rivals.(Source: ANN)",
+  "title": {
+    "jp": "Cap Kakumei Bottleman"
+  },
+  "releasedAt": "2020-10-09T00:00:00.000Z",
+  "finishedAt": "2021-02-05T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43651/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43651",
+    "anidb": "15729",
+    "anilist/anime": "126650",
+    "myanimelist/anime": "42890"
+  }
+}

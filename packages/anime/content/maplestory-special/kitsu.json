@@ -1,0 +1,25 @@
+{
+  "slug": "maplestory-special",
+  "synopsis": "Unaired episode of the MapleStory series included on the 9th DVD Volume.",
+  "title": {
+    "jp": "MapleStory Special"
+  },
+  "releasedAt": "2008-09-26T00:00:00.000Z",
+  "finishedAt": "2008-09-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9993/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9993",
+    "aozora": "9bdFQWWqY8",
+    "myanimelist/anime": "28237"
+  }
+}

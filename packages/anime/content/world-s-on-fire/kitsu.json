@@ -1,0 +1,21 @@
+{
+  "slug": "world-s-on-fire",
+  "synopsis": "Music Video from Mike Shinoda of Linkin Park.",
+  "title": {},
+  "releasedAt": "2019-09-05T00:00:00.000Z",
+  "finishedAt": "2019-09-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42542/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42542/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42542"
+  }
+}

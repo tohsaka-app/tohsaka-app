@@ -1,0 +1,26 @@
+{
+  "slug": "visions-of-frank",
+  "synopsis": "A series of 9 animated shorts based on the Frank comics by Jim Woodring, featuring computer/CGI, traditional cel, stop-motion, and even sand painting techniques.  Contributing animators and musicians include COCOA, Eri Yoshimura, Naomi Nagata, TAMAPRO/DROP, Taruto Fuyama, Masaki Maito, Kanako Kawagushi, Masaya Sakaue, Bill Frisell, Dame Darcy, and Woodring himself.",
+  "title": {
+    "en": "Visions of Frank",
+    "jp": "Visions of Frank: Short Films by Japan's Most Audacious Animators"
+  },
+  "releasedAt": "2005-11-25T00:00:00.000Z",
+  "finishedAt": "2005-11-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5537/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5537",
+    "anidb": "8045",
+    "anilist/anime": "8928",
+    "aozora": "CR3fnQuiL9",
+    "myanimelist/anime": "8928"
+  }
+}

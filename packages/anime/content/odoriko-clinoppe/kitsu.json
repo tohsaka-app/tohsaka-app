@@ -1,0 +1,25 @@
+{
+  "slug": "odoriko-clinoppe",
+  "synopsis": "The surreal, comical television anime follow the daily life of Clinoppe and an office lady named Onei-san.\n(Source: ANN)\nBased on GREE's Odoriko Clinoppe Creature-Raising Game. ",
+  "title": {
+    "jp": "Odoriko Clinoppe"
+  },
+  "releasedAt": "2013-05-09T00:00:00.000Z",
+  "finishedAt": "2013-11-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9915/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9915",
+    "anidb": "9721",
+    "anilist/anime": "18469",
+    "aozora": "UPJAKbAbOz",
+    "myanimelist/anime": "18469"
+  }
+}

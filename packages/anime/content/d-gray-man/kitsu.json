@@ -1,0 +1,51 @@
+{
+  "slug": "d-gray-man",
+  "synopsis": "Losing a loved one is so painful that one may sometimes wish to be able to resurrect them—a weakness that the enigmatic Millennium Earl exploits. To make his mechanical weapons known as \"Akuma,\" he uses the souls of the dead that are called back. Once a soul is placed in an Akuma, it is trapped forever, and the only way to save them is to exorcise them from their vessel using the Anti-Akuma weapon, \"Innocence.\"\nAfter spending three years as the disciple of General Cross, Allen Walker is sent to the Black Order—an organization comprised of those willing to fight Akuma and the Millennium Earl—to become an official Exorcist. With an arm as his Innocence and a cursed eye that can see the suffering souls within an Akuma, it's up to Allen and his fellow Exorcists to stop the Millennium Earl's ultimate plot: one that can lead to the destruction of the world.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "D.Gray-man",
+    "jp": "D.Gray-man"
+  },
+  "releasedAt": "2006-10-03T00:00:00.000Z",
+  "finishedAt": "2008-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1328/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/1328/cover_image/58dc623dd0bd1b2104d42c76c3aa1559.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative past",
+    "comedy",
+    "dark fantasy",
+    "demon",
+    "drama",
+    "earth",
+    "fantasy",
+    "magic",
+    "past",
+    "plot continuity",
+    "shounen",
+    "special squads",
+    "super power",
+    "victorian period",
+    "violence",
+    "war"
+  ],
+  "externals": [
+    "https://tubitv.com/series/2322",
+    "https://www.funimation.com/shows/dgray-man/",
+    "https://www.hulu.com/d-gray-man"
+  ],
+  "relations": {
+    "kitsu": "1328",
+    "anidb": "4549",
+    "anilist/anime": "1482",
+    "aozora": "zHeeVbxhKF",
+    "hulu": "50001062",
+    "myanimelist/anime": "1482",
+    "thetvdb": "79635/1",
+    "thetvdb/series": "79635",
+    "trakt": "33994"
+  }
+}

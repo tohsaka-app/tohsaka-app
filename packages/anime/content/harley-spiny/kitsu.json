@@ -1,0 +1,24 @@
+{
+  "slug": "harley-spiny",
+  "synopsis": "Story of Harley and his animal friends going to a school.",
+  "title": {
+    "jp": "Harley Spiny"
+  },
+  "releasedAt": "1996-08-05T00:00:00.000Z",
+  "finishedAt": "1997-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5880/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5880",
+    "anidb": "2241",
+    "anilist/anime": "9807",
+    "aozora": "VOQzJzIR3A",
+    "myanimelist/anime": "9807"
+  }
+}

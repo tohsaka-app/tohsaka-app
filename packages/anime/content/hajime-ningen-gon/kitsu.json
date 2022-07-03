@@ -1,0 +1,25 @@
+{
+  "slug": "hajime-ningen-gon",
+  "synopsis": "A remake of Hajime Ningen Gyatoruz. Each episode contains three stories.",
+  "title": {
+    "jp": "Hajime Ningen Gon"
+  },
+  "releasedAt": "1996-04-03T00:00:00.000Z",
+  "finishedAt": "1997-01-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5483/original.jpg",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5483",
+    "anidb": "4683",
+    "anilist/anime": "8764",
+    "aozora": "CczRp7E6xa",
+    "myanimelist/anime": "8764"
+  }
+}

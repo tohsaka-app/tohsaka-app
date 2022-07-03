@@ -1,0 +1,40 @@
+{
+  "slug": "hidamari-sketch-x-hoshimittsu",
+  "synopsis": "The continuing stories of the daily life of the students of the Hidamari Apartments at Yamabuki High School. This time, a year has passed since the first season. Yuno and Miyako are second years, Sae and Hiro are third years, and two new students, Nori and Nazuna, move into the Hidamari Apartments.\n\n(Source: ANN)",
+  "title": {
+    "en": "Hidamari Sketch Hoshimittsu",
+    "jp": "Hidamari Sketch x ☆☆☆"
+  },
+  "releasedAt": "2010-01-08T00:00:00.000Z",
+  "finishedAt": "2010-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4856/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "present",
+    "school life",
+    "slice of life",
+    "super deformed",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/hidamari-sketch-hoshimittsu"
+  ],
+  "relations": {
+    "kitsu": "4856",
+    "anidb": "7128",
+    "anilist/anime": "7062",
+    "aozora": "V06TqS9nZb",
+    "myanimelist/anime": "7062",
+    "thetvdb": "82154/3",
+    "thetvdb/season": "175511",
+    "thetvdb/series": "82154",
+    "trakt": "45640"
+  }
+}

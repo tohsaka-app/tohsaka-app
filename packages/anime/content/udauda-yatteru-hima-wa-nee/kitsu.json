@@ -1,0 +1,27 @@
+{
+  "slug": "udauda-yatteru-hima-wa-nee",
+  "synopsis": "Anime adaptation of the manga \"Udauda Yatteru Hima wa Nee!\" by Hideyuki Yonehara, serialized in Weekly Shounen Champion.",
+  "title": {
+    "jp": "Udauda Yatteru Hima wa Nee!"
+  },
+  "releasedAt": "1995-04-07T00:00:00.000Z",
+  "finishedAt": "1995-08-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9685/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "delinquent",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9685",
+    "anidb": "4720",
+    "anilist/anime": "17649",
+    "aozora": "HCt8nPNVCa",
+    "myanimelist/anime": "17649"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hana-yori-dango-movie",
+  "synopsis": "Set in an alternative timeline to the TV series and manga, the movie features a classic Cinderella story told through the medium of 80's dance. Tsukushi Makino is a trainee dancer in a New York Performance group, struggling to become the star of the show with the help of Rui Hanazawa and Tsukasa Doumyouji.\n(Source: ANN)",
+  "title": {
+    "en": "Hana Yori Dango The Movie",
+    "jp": "Hana yori Dango (Movie)"
+  },
+  "releasedAt": "1997-03-08T00:00:00.000Z",
+  "finishedAt": "1997-03-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1870/original.jpg",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1870",
+    "anidb": "1249",
+    "anilist/anime": "2071",
+    "aozora": "sY6nc3BE0p",
+    "myanimelist/anime": "2071"
+  }
+}

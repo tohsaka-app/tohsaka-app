@@ -1,0 +1,24 @@
+{
+  "slug": "code-geass-boukoku-no-akito-3-kagayaku-mono-ten-yori-otsu-picture-drama",
+  "synopsis": "Picture drama included in the Code Geass: Boukoku no Akito 3 Blu-ray/DVD release.",
+  "title": {
+    "jp": "Code Geass: Boukoku no Akito 3 - Kagayaku Mono Ten yori Otsu Picture Drama"
+  },
+  "releasedAt": "2015-06-26T00:00:00.000Z",
+  "finishedAt": "2015-06-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11201/original.jpg",
+  "categories": [
+    "comedy",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11201",
+    "anilist/anime": "109003",
+    "aozora": "ABdfwgt47b",
+    "myanimelist/anime": "31145"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "shounen-jack-to-mahou-tsukai",
+  "synopsis": "Jack is a boy who lives with his animal friends Barnaby Bear, Dinah Dog, Squeeker Mouse and Phineas Fox. He's challenged to a race with Allegra, who turns out to be a witch. She takes Jack to the queen witch, Auriana. She plans on turning all her slaves into evil harpies.",
+  "title": {
+    "en": "Young Jack and the Witch",
+    "jp": "Shounen Jack to Mahoutsukai"
+  },
+  "releasedAt": "1967-03-19T00:00:00.000Z",
+  "finishedAt": "1967-03-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5718/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "fantasy world"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5718",
+    "anidb": "2206",
+    "anilist/anime": "9392",
+    "aozora": "0yMOhxeiSq",
+    "myanimelist/anime": "9392"
+  }
+}

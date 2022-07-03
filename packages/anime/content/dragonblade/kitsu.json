@@ -1,0 +1,26 @@
+{
+  "slug": "dragonblade",
+  "synopsis": "A town is attacked by a deadly creature, it can only be stopped with the Dragon Blade. The one person who knows where the blade is won't tell Lang, and even if he did, untold peril will fall on anyone who dares to find this legendary weapon.\n(Source: AniDB)",
+  "title": {
+    "en": "DragonBlade: The Legend of Lang",
+    "jp": "DragonBlade"
+  },
+  "releasedAt": "2005-01-06T00:00:00.000Z",
+  "finishedAt": "2005-01-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4323/original.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4323",
+    "anidb": "1528",
+    "anilist/anime": "5889",
+    "aozora": "FOeYqlDd9B",
+    "myanimelist/anime": "5889"
+  }
+}

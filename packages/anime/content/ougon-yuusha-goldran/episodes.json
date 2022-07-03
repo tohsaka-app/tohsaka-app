@@ -1,0 +1,434 @@
+[
+  {
+    "title": {
+      "jp": "Awaken! Golden Hero"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1995-02-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "That name is Advenger"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1995-02-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Big Adventure on the Southern Island"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1995-02-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Guru Guru Jungle Adventure!"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1995-02-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Love is an Extreme Fireball Race!"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1995-03-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Flower of Edo Capture Note"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1995-03-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Super First Love Great Union"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1995-03-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Stolen Power Stone"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1995-03-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I Thought Today's Holiday was Pirates!?"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1995-04-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Burn Up, Chibi Dragon!"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1995-04-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Super Dreadnought Class Robot Appears!"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1995-04-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Melting Flow Havoc"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1995-04-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kindergarten is Fun!?"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1995-04-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Call Forth the Golden Ninja!"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1995-05-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sky Union! Sky Goldran"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1995-05-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Loving Maiden is 1,000,000 Megaton"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1995-05-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ms. Michiru's Close Call!?"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1995-05-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The President of a Different Dimension's World"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1995-06-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Catch the Phoenix"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1995-06-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Walter's Great Adventure"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1995-06-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Name Reasoning the Panic Train"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1995-06-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Super Silver Union! God Silvarion"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1995-07-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Survival on a Deserted Island!"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1995-07-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Friendship's Reversal Shot"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1995-07-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Strange Summer Series: The Cat Island Story"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1995-07-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Brave Investigation Order"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1995-07-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gorgon Extortion Tactics"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1995-08-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Golden General Leon Makes an Unannounced Visit!"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1995-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Firece Fighting! Leon Kaiser"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1995-08-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The 8 Braves Have Gathered!"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1995-08-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Golden Beat Union! Great Goldran"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1995-09-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Green Star's Holy Warriors"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "1995-09-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Birth of the Lone Brave & Child"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "1995-09-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Phantom Blue Sky"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "1995-09-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Lawless New Brave"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "1995-10-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Captain Shark is Strong!"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "1995-10-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Farewell, Brave of Gold -Be Forever, Legendora-"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "1995-10-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Brave Corps Sing!"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "1995-11-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Miraculous New Union Technique"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "1995-11-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Child Land"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "1995-11-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Planet of Dreams"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "1995-11-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Braves Who Fell From Heaven"
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "1995-12-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Miraculous Super Special Attack"
+    },
+    "season": 1,
+    "number": 43,
+    "releasedAt": "1995-12-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Gate of Betrayal"
+    },
+    "season": 1,
+    "number": 44,
+    "releasedAt": "1995-12-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Everlasting Defeat"
+    },
+    "season": 1,
+    "number": 45,
+    "releasedAt": "1995-12-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Absolute Solitude"
+    },
+    "season": 1,
+    "number": 46,
+    "releasedAt": "1996-01-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Real Energy"
+    },
+    "season": 1,
+    "number": 47,
+    "releasedAt": "1996-01-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Adventure Begins!"
+    },
+    "season": 1,
+    "number": 48,
+    "releasedAt": "1996-01-27T00:00:00.000Z",
+    "content": {}
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "slug": "first-rabbit",
+  "synopsis": "",
+  "title": {
+    "jp": "First Rabbit"
+  },
+  "releasedAt": "2013-05-22T00:00:00.000Z",
+  "finishedAt": "2013-05-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41822/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41822",
+    "anilist/anime": "102791",
+    "myanimelist/anime": "37606"
+  }
+}

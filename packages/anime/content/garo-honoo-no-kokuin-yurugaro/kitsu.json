@@ -1,0 +1,23 @@
+{
+  "slug": "garo-honoo-no-kokuin-yurugaro",
+  "synopsis": "Comedic omake specials that aired after Garo: Honoo no Kokuin.",
+  "title": {
+    "jp": "Garo: Honoo no Kokuin - Yurugaro"
+  },
+  "releasedAt": "2014-10-17T00:00:00.000Z",
+  "finishedAt": "2015-04-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13200/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13200",
+    "aozora": "YBDXqHwRYT",
+    "myanimelist/anime": "34613"
+  }
+}

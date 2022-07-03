@@ -1,0 +1,30 @@
+{
+  "slug": "kyoto-teramachi-sanjou-no-holmes",
+  "synopsis": "The \"light, antique mystery\" series revolves around a \"spiteful,\" handsome Kyoto boy and a high school girl. The story is set at an antique shop in Kyoto's Teramachi Sanjou shopping district. High school girl Aoi Mashiro unexpectedly runs into Kiyotaka Yagashira, the son of the shop's owner, and ends up working part-time at the shop. Kiyotaka is called the \"Holmes at Teramachi Sanjou,\" and he and Aoi solve odd cases brought to them by various clients.\n\n(Source: ANN)",
+  "title": {
+    "en": "Holmes of Kyoto",
+    "jp": "Kyoto Teramachi Sanjou no Holmes"
+  },
+  "releasedAt": "2018-07-10T00:00:00.000Z",
+  "finishedAt": "2018-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41381/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41381/original.png",
+  "categories": [
+    "detective",
+    "drama",
+    "mystery",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/holmes-of-kyoto"
+  ],
+  "relations": {
+    "kitsu": "41381",
+    "anilist/anime": "101292",
+    "myanimelist/anime": "37458"
+  }
+}

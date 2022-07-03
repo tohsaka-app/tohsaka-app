@@ -1,0 +1,39 @@
+{
+  "slug": "majutsushi-orphen",
+  "synopsis": "Six years ago at the magic school known as the Tower of Fang, a grave accident happened involving the magical sword Baltanders and the magic user Azali. Unable to control the sword's power, Azali was transformed into the shape of a great dragon who since that day became known as Bloody August. Krilancelo, a young magician at the Tower who cared greatly for Azali found much to his disgust that the elders of the Tower of Fang were less than willing to save Azali and wanted rather to pretend the accident never happened. Angered by their stand, Krilanceloa swore that he would find a way to return Azali to her former self. Thus he forsook the name Krilancelo and declared himself Orphen, leaving the Tower and his magical studies behind to wander the world... \n\n(Source: ANN) ",
+  "title": {
+    "en": "Orphen",
+    "jp": "Majutsushi Orphen"
+  },
+  "releasedAt": "1998-10-03T00:00:00.000Z",
+  "finishedAt": "1999-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/907/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/907/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "dark fantasy",
+    "demon",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "plot continuity",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "907",
+    "anidb": "538",
+    "anilist/anime": "1017",
+    "aozora": "bmdwO5z20V",
+    "myanimelist/anime": "1017",
+    "thetvdb": "72901/1",
+    "thetvdb/season": "4980",
+    "thetvdb/series": "72901",
+    "trakt": "62549"
+  }
+}

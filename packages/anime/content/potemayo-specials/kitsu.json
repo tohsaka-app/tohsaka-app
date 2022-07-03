@@ -1,0 +1,25 @@
+{
+  "slug": "potemayo-specials",
+  "synopsis": "Potemayo DVD specials.",
+  "title": {
+    "jp": "Potemayo Specials"
+  },
+  "releasedAt": "2007-09-25T00:00:00.000Z",
+  "finishedAt": "2008-02-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2913/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2913/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2913",
+    "anilist/anime": "3292",
+    "aozora": "4WXF8kEP82",
+    "myanimelist/anime": "3292"
+  }
+}

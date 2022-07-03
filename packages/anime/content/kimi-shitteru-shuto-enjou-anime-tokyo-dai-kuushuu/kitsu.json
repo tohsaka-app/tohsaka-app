@@ -1,0 +1,22 @@
+{
+  "slug": "kimi-shitteru-shuto-enjou-anime-tokyo-dai-kuushuu",
+  "synopsis": "An anime based on the testimony of three survivors of the devastation from the Operation Meetinghouse air raid on Tokyo which caused over 100,000 deaths. ",
+  "title": {
+    "jp": "Kimi Shitteru? Shuto Enjou Anime Tokyo Dai Kuushuu"
+  },
+  "releasedAt": "1988-01-01T00:00:00.000Z",
+  "finishedAt": "1988-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12921/original.jpg",
+  "categories": [
+    "drama",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12921",
+    "myanimelist/anime": "33895"
+  }
+}

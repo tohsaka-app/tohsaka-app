@@ -1,0 +1,25 @@
+{
+  "slug": "doubutsu-kankyou-kaigi",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Doubutsu Kankyou Kaigi"
+  },
+  "releasedAt": "2010-03-20T00:00:00.000Z",
+  "finishedAt": "2010-08-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5350/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5350",
+    "anidb": "7447",
+    "anilist/anime": "8478",
+    "aozora": "4EIYnFjYrs",
+    "myanimelist/anime": "8478"
+  }
+}

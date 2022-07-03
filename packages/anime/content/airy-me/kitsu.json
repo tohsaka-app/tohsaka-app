@@ -1,0 +1,27 @@
+{
+  "slug": "airy-me",
+  "synopsis": "A test subject is administered daily medication by a nurse in a ward where mysterious medical experiments take place. One day, when the nurse presses the switch of the test subject, it successfully transforms into a chimera. When the test subject continues to hold human desires to take on non-human forms, what spectacle will arise as a result? And what effect will this have on the subject's relationship with the nurse?\n(Source: Japan Media Arts Festival)",
+  "title": {
+    "jp": "Airy Me"
+  },
+  "releasedAt": "2013-07-17T00:00:00.000Z",
+  "finishedAt": "2013-07-17T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8713/original.jpg",
+  "categories": [
+    "dementia",
+    "drama",
+    "horror",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8713",
+    "anidb": "10141",
+    "anilist/anime": "102581",
+    "aozora": "yZ8whT3l7K",
+    "myanimelist/anime": "21861"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "gensei-shugoshin-p-hyoro-ikka-ova",
+  "synopsis": "Based on Kaori Kimeki's fantasy manga serialized in \"Princess\" magazine.",
+  "title": {
+    "jp": "Gensei Shugoshin P-hyoro Ikka OVA"
+  },
+  "releasedAt": "1988-09-01T00:00:00.000Z",
+  "finishedAt": "1988-09-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9828/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9828",
+    "anidb": "8680",
+    "anilist/anime": "118075",
+    "aozora": "vIwbuJ1rmg",
+    "myanimelist/anime": "25363"
+  }
+}

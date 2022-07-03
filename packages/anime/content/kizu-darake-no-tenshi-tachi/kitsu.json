@@ -1,0 +1,26 @@
+{
+  "slug": "kizu-darake-no-tenshi-tachi",
+  "synopsis": "Thirty-one stories based on the fourpanel manga strips drawn by Masahiko Kikuni for Young Sunday magazine make up this anime that mixes animation and live action (18 animated stories, 13 live-action stories).\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "en": "Heartbroken Angels",
+    "jp": "Kizu darake no Tenshi-tachi"
+  },
+  "releasedAt": "1990-01-22T00:00:00.000Z",
+  "finishedAt": "1990-01-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9393/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9393",
+    "anilist/anime": "103377",
+    "aozora": "EUwsdhSgT5",
+    "myanimelist/anime": "25061"
+  }
+}

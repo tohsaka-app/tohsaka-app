@@ -1,0 +1,25 @@
+{
+  "slug": "dramaturgy",
+  "synopsis": "An original song by Eve, sung by Hatsune Miku, animated by Mah. Eve's self-cover uses the same animated footage and was released on October 11, 2017. Eve included his self-cover MV on his own self-made record label harapeco records's CD+DVD release on December 13, 2017 as a part of his \"Bunka\" album.",
+  "title": {
+    "en": "Dramaturgy",
+    "jp": "Dramaturgy"
+  },
+  "releasedAt": "2017-10-11T00:00:00.000Z",
+  "finishedAt": "2017-10-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42284/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/jJzw1h5CR-I"
+  ],
+  "relations": {
+    "kitsu": "42284",
+    "anilist/anime": "107179",
+    "myanimelist/anime": "39164"
+  }
+}

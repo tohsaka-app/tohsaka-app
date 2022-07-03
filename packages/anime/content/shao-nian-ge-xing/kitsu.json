@@ -1,0 +1,24 @@
+{
+  "slug": "shao-nian-ge-xing",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "2018-12-26T00:00:00.000Z",
+  "finishedAt": "2019-06-05T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42931/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "historical",
+    "martial arts",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42931",
+    "anilist/anime": "108715",
+    "myanimelist/anime": "38918"
+  }
+}

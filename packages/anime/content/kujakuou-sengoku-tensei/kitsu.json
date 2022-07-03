@@ -1,0 +1,27 @@
+{
+  "slug": "kujakuou-sengoku-tensei",
+  "synopsis": "A promotional anime for the 2nd volume release of Makoto Ogino's Kujakuou: Sengoku Tensei manga.",
+  "title": {
+    "en": "Kujakuou Sengokutensei",
+    "jp": "Kujakuou: Sengoku Tensei"
+  },
+  "releasedAt": "2014-10-21T00:00:00.000Z",
+  "finishedAt": "2014-10-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9986/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "fantasy",
+    "historical",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9986",
+    "aozora": "5gNt4oQnqx",
+    "myanimelist/anime": "28151"
+  }
+}

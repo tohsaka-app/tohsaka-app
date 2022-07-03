@@ -1,0 +1,25 @@
+{
+  "slug": "don-t-cry-movie",
+  "synopsis": "In the future, artificial intelligence (AI) rules over mankind. The AI has put limits on the birth rate in order to control the population. However, many continue to give birth illegally...\n\n(Source: Amazon)",
+  "title": {
+    "en": "Don't Cry",
+    "jp": "Don't Cry"
+  },
+  "releasedAt": "2017-07-01T00:00:00.000Z",
+  "finishedAt": "2017-07-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43931/original.jpg",
+  "categories": [
+    "action",
+    "dystopia",
+    "science fiction",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43931",
+    "myanimelist/anime": "45584"
+  }
+}

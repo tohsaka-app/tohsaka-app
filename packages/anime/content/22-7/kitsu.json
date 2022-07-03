@@ -1,0 +1,28 @@
+{
+  "slug": "22-7",
+  "synopsis": "A TV anime based on 22/7 multimedia idol project by Akimoto Yasushi.\n\nShy Miu Takigawa receives a letter notifying her that she’s been chosen as a member of a brand-new, mysterious project. Summoned to a giant, top-secret facility, she finds seven other girls just as confused as she is. Once there, a major record label tells them the craziest thing – they’ve all been selected to form a new idol group. What’s more, it’ll be unlike any that the world has seen before!\n\n(Source: Funimation)",
+  "title": {
+    "jp": "22/7"
+  },
+  "releasedAt": "2020-01-11T00:00:00.000Z",
+  "finishedAt": "2020-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42456/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.animelab.com/shows/227"
+  ],
+  "relations": {
+    "kitsu": "42456",
+    "anidb": "13299",
+    "anilist/anime": "99807",
+    "animenewsnetwork": "22353",
+    "myanimelist/anime": "40148"
+  }
+}

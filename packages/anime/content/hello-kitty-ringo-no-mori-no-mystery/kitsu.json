@@ -1,0 +1,27 @@
+{
+  "slug": "hello-kitty-ringo-no-mori-no-mystery",
+  "synopsis": "Mysterious incidents are occurring in the Apple Forrest. Precious items disappearing, others getting lost, and the prince is missing. It's up to Kitty and Mimmy to solve the cases by becoming detectives!",
+  "title": {
+    "jp": "Hello Kitty: Ringo no Mori no Mystery"
+  },
+  "releasedAt": "2007-01-02T00:00:00.000Z",
+  "finishedAt": "2007-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9002/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9002",
+    "anidb": "7175",
+    "anilist/anime": "124434",
+    "aozora": "PsA0CpGWt4",
+    "myanimelist/anime": "22439",
+    "trakt": "75888"
+  }
+}

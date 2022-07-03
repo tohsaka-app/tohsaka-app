@@ -1,0 +1,28 @@
+{
+  "slug": "hero-mask-2019",
+  "synopsis": "Second part of Hero Mask.",
+  "title": {
+    "en": "Hero Mask (2019)",
+    "jp": "Hero Mask  (2019)"
+  },
+  "releasedAt": "2019-08-23T00:00:00.000Z",
+  "finishedAt": "2019-08-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42510/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "mystery",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.netflix.com/de/title/80200027"
+  ],
+  "relations": {
+    "kitsu": "42510",
+    "anilist/anime": "110686",
+    "myanimelist/anime": "40154"
+  }
+}

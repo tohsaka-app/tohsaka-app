@@ -1,0 +1,26 @@
+{
+  "slug": "urvan",
+  "synopsis": null,
+  "title": {
+    "en": "URVAN",
+    "jp": "URVAN"
+  },
+  "releasedAt": "2021-02-12T00:00:00.000Z",
+  "finishedAt": "2021-02-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44079/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44079/original.jpg",
+  "categories": [
+    "cyberpunk",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=V4xzPH3NZuo&feature=emb_title&ab_channel=%E6%9D%B1%E6%98%A0%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%85%AC%E5%BC%8FYouTube%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
+  ],
+  "relations": {
+    "kitsu": "44079",
+    "anilist/anime": "129872"
+  }
+}

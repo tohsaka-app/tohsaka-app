@@ -1,0 +1,23 @@
+{
+  "slug": "akichi-asobi-playground",
+  "synopsis": "A boy is always alone, at school, or at home.  One day, he finds a sandlot on the way home and thinks of making a ‘town’ of his own.  Another boy was watching his play and starts to imitate him.",
+  "title": {
+    "jp": "Akichi Asobi: Playground"
+  },
+  "releasedAt": "2013-12-13T00:00:00.000Z",
+  "finishedAt": "2013-12-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40829/original.jpg",
+  "categories": [],
+  "externals": [
+    "https://youtu.be/LAiWqn10XPY"
+  ],
+  "relations": {
+    "kitsu": "40829",
+    "anilist/anime": "102574",
+    "aozora": "QFglmg3SDV",
+    "myanimelist/anime": "35706"
+  }
+}

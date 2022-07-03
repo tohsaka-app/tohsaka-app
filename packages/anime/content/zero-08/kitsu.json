@@ -1,0 +1,24 @@
+{
+  "slug": "zero-08",
+  "synopsis": "An 8-second animation that keeps looping... or does it?",
+  "title": {
+    "jp": "00:08"
+  },
+  "releasedAt": "2014-06-08T00:00:00.000Z",
+  "finishedAt": "2014-06-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10157/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10157",
+    "anidb": "11391",
+    "anilist/anime": "99948",
+    "aozora": "sN6M8PS3Z2",
+    "myanimelist/anime": "28761"
+  }
+}

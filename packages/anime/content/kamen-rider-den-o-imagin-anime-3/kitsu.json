@@ -1,0 +1,28 @@
+{
+  "slug": "kamen-rider-den-o-imagin-anime-3",
+  "synopsis": "A third set of animated shorts featuring the popular Imagin characters from the Japanese live-action series \"Kamen Rider Den-O\".",
+  "title": {
+    "jp": "Kamen Rider Den-O: Imagin Anime 3"
+  },
+  "releasedAt": "2010-10-21T00:00:00.000Z",
+  "finishedAt": "2010-10-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6076/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "kids",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6076",
+    "anidb": "12531",
+    "anilist/anime": "10202",
+    "aozora": "a36Erc3pG4",
+    "myanimelist/anime": "10202"
+  }
+}

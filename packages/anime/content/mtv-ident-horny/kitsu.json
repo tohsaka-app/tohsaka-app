@@ -1,0 +1,23 @@
+{
+  "slug": "mtv-ident-horny",
+  "synopsis": "",
+  "title": {
+    "jp": "MTV Ident: Horny"
+  },
+  "releasedAt": "2017-10-11T00:00:00.000Z",
+  "finishedAt": "2017-10-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14247/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14247/original.jpg",
+  "categories": [
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14247",
+    "anilist/anime": "103391",
+    "myanimelist/anime": "36750"
+  }
+}

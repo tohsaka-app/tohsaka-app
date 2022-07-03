@@ -1,0 +1,25 @@
+{
+  "slug": "xing-you-ji-fengbao-familia",
+  "synopsis": "The second season of rainbow sea.",
+  "title": {
+    "en": "Rainbow Sea 2nd Season"
+  },
+  "releasedAt": "2017-08-11T00:00:00.000Z",
+  "finishedAt": "2017-08-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41000/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41000",
+    "anilist/anime": "102679",
+    "myanimelist/anime": "37149"
+  }
+}

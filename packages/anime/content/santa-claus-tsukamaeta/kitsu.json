@@ -1,0 +1,25 @@
+{
+  "slug": "santa-claus-tsukamaeta",
+  "synopsis": "A simple story about a young boy who stays up on Christmas in order to catch Santa and show the proof to his older friends.",
+  "title": {
+    "jp": "Santa Claus Tsukamaeta!"
+  },
+  "releasedAt": "1989-12-06T00:00:00.000Z",
+  "finishedAt": "1989-12-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10311/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10311",
+    "anidb": "5809",
+    "anilist/anime": "131382",
+    "aozora": "B1cZe5rCNK",
+    "myanimelist/anime": "29545"
+  }
+}

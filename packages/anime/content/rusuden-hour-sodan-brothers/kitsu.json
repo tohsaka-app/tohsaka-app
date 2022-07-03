@@ -1,0 +1,24 @@
+{
+  "slug": "rusuden-hour-sodan-brothers",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Rusuden Hour: Sodan Brothers"
+  },
+  "releasedAt": "2005-03-13T00:00:00.000Z",
+  "finishedAt": "2005-08-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10673/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10673",
+    "anidb": "2965",
+    "aozora": "RNm4QNw3co",
+    "myanimelist/anime": "30138"
+  }
+}

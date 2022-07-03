@@ -1,0 +1,922 @@
+[
+  {
+    "title": {
+      "jp": "Sigla Iniziale"
+    },
+    "synopsis": "The villainous Dr. Hell has amassed an army of mechanical beasts in his secret hideaway, the island of Bardos located in the Aegean Sea. He is capable of controlling mechanized beasts with his cane, and instructs them to unleash devastating attacks. However, Dr. Hell doesn't do all the dirty work by himself; he has his loyal henchman Baron Ashura to carry out his devilish plans.\n\nThere are also those that will see to it that evil does not prevail. Kouji Kabuto is the young and feisty teenager with a score to settle: his goal is avenging the murder of his grandfather by Dr. Hell. And he might just be able to pull it off, as he is the pilot of Mazinger Z, a mighty giant robot made out of an indestructible metal known as Super-Alloy Z.\n\nMazinger Z boasts several powerful special attacks. By channeling Photonic Energy through its eyes, and unleashing the Koushiryoku Beam, it can cause great destruction. But things get really cool when Mazinger Z launches its Rocket Punch attack. Dr. Hell and his minions might have just found their match!\n\nاخترع البروفيسور Juzo Kabuto مازنجر Z بعد أن اكتشف خطة Dr.Hell للسيطره على العالم، لكن رجال Dr.Hell قتلوا البروفيسور بعد أن أكمل صنع مازنجر زد ، بعد أن عاد كوجي وأخوه الصغير Shiro وجدوا جدهم البروفيسور على حافة الموت فطلب البروفيسور من كوجي أن يرى ما في القبو، وبعد تلك الكلمات الأخيرة توفى البرفيسور فذهب كوجي لينفذ ما أمره جده فوجد هناك مازنجر Z بانتظاره.",
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1972-12-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Birth Of a Wonderous Robot"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34705/original.jpg",
+    "releasedAt": "1972-12-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Stop The Ashura Army"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34706/original.jpg",
+    "releasedAt": "1972-12-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Operation Annihilate Mazinger Z"
+    },
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34707/original.jpg",
+    "releasedAt": "1972-12-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mazinger Z driven into a corner"
+    },
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34708/original.jpg",
+    "releasedAt": "1972-12-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ghost Mazinger appearance"
+    },
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34709/original.jpg",
+    "releasedAt": "1972-12-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Doctor Hell's pair of great mechanical beasts"
+    },
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34710/original.jpg",
+    "releasedAt": "1973-01-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Baron Ashura's great strategy"
+    },
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34711/original.jpg",
+    "releasedAt": "1973-01-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great devil Abdora's true form"
+    },
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34712/original.jpg",
+    "releasedAt": "1973-01-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Deimos F3 is the demon's bastard son"
+    },
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34713/original.jpg",
+    "releasedAt": "1973-01-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Strong arm flying in the sky Daian"
+    },
+    "season": 1,
+    "number": 11,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34714/original.jpg",
+    "releasedAt": "1973-02-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Blast phantom's gun Garen!!"
+    },
+    "season": 1,
+    "number": 12,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34715/original.jpg",
+    "releasedAt": "1973-02-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Traitor! Great transformation robot Bicong"
+    },
+    "season": 1,
+    "number": 13,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34716/original.jpg",
+    "releasedAt": "1973-02-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Demon's great slalom attack!!"
+    },
+    "season": 1,
+    "number": 14,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34717/original.jpg",
+    "releasedAt": "1973-02-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Infuriate! Sleeping giant Spartan"
+    },
+    "season": 1,
+    "number": 15,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34718/original.jpg",
+    "releasedAt": "1973-03-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Operation great tsunami mechanical beast"
+    },
+    "season": 1,
+    "number": 16,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34719/original.jpg",
+    "releasedAt": "1973-03-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kouji Kabuto's assassination order!!"
+    },
+    "season": 1,
+    "number": 17,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34720/original.jpg",
+    "releasedAt": "1973-03-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Abyss mechanical beast Holzon V3"
+    },
+    "season": 1,
+    "number": 18,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34721/original.jpg",
+    "releasedAt": "1973-03-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Pirate gang of blood Glossam!"
+    },
+    "season": 1,
+    "number": 19,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34722/original.jpg",
+    "releasedAt": "1973-04-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Flying devil beast Devira X1"
+    },
+    "season": 1,
+    "number": 20,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34723/original.jpg",
+    "releasedAt": "1973-04-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Flying mechanical beast Stronger"
+    },
+    "season": 1,
+    "number": 21,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34724/original.jpg",
+    "releasedAt": "1973-04-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ghost Town's Duel"
+    },
+    "season": 1,
+    "number": 22,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34725/original.jpg",
+    "releasedAt": "1973-04-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ambush attack!! Sea floor stronghold Salude"
+    },
+    "season": 1,
+    "number": 23,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34726/original.jpg",
+    "releasedAt": "1973-04-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mechanical beast Dan Dan operation big wheel"
+    },
+    "season": 1,
+    "number": 24,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34727/original.jpg",
+    "releasedAt": "1973-05-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mach mechanical beast Jinrai"
+    },
+    "season": 1,
+    "number": 25,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34728/original.jpg",
+    "releasedAt": "1973-05-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Third brother Aeros operation big eruption"
+    },
+    "season": 1,
+    "number": 26,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34729/original.jpg",
+    "releasedAt": "1973-05-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Clash! Samurai Kouji vs Ashura Mechanical Beast"
+    },
+    "season": 1,
+    "number": 27,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34730/original.jpg",
+    "releasedAt": "1973-05-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Aphrodite A operation take lives"
+    },
+    "season": 1,
+    "number": 28,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34731/original.jpg",
+    "releasedAt": "1973-06-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dark command, operation steal super-alloy"
+    },
+    "season": 1,
+    "number": 29,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34732/original.jpg",
+    "releasedAt": "1973-06-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great reversal Mazin Power!!"
+    },
+    "season": 1,
+    "number": 30,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34733/original.jpg",
+    "releasedAt": "1973-06-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Watch out Shiro, launch Mazinger Z!!"
+    },
+    "season": 1,
+    "number": 31,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34734/original.jpg",
+    "releasedAt": "1973-06-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Prisoner beast machine operation electromagnetic waves"
+    },
+    "season": 1,
+    "number": 32,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34735/original.jpg",
+    "releasedAt": "1973-07-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Three headed beast machine of terror"
+    },
+    "season": 1,
+    "number": 33,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34736/original.jpg",
+    "releasedAt": "1973-07-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Big air-raid! Baras K is the sky's outlaw"
+    },
+    "season": 1,
+    "number": 34,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34737/original.jpg",
+    "releasedAt": "1973-07-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Deep red flash of lightning, sky flying Mazinger"
+    },
+    "season": 1,
+    "number": 35,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34738/original.jpg",
+    "releasedAt": "1973-07-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "God of death mechanical beast, Desma's fierce attack"
+    },
+    "season": 1,
+    "number": 36,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34739/original.jpg",
+    "releasedAt": "1973-07-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Metamorphosis mechanical beast living in the Great Lakes"
+    },
+    "season": 1,
+    "number": 37,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34740/original.jpg",
+    "releasedAt": "1973-08-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Messenger from the darkness, scrander certain kill"
+    },
+    "season": 1,
+    "number": 38,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34741/original.jpg",
+    "releasedAt": "1973-08-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Enigmatic robot Minerva X"
+    },
+    "season": 1,
+    "number": 39,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34742/original.jpg",
+    "releasedAt": "1973-08-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Challenge risking the life! Crimson sea Salude"
+    },
+    "season": 1,
+    "number": 40,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34743/original.jpg",
+    "releasedAt": "1973-08-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Devil governor count Brocken"
+    },
+    "season": 1,
+    "number": 41,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34744/original.jpg",
+    "releasedAt": "1973-09-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Broken wings sky's struggle to the death"
+    },
+    "season": 1,
+    "number": 42,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34745/original.jpg",
+    "releasedAt": "1973-09-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Devil's command!! Concentrated attack on air and land"
+    },
+    "season": 1,
+    "number": 43,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34746/original.jpg",
+    "releasedAt": "1973-09-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Assault!! Parachute surprise attack force"
+    },
+    "season": 1,
+    "number": 44,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34747/original.jpg",
+    "releasedAt": "1973-09-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Big charge!! Bottom of new sea stronghold Rood"
+    },
+    "season": 1,
+    "number": 45,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34748/original.jpg",
+    "releasedAt": "1973-09-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Photonic Energy Research Lab devil's target!"
+    },
+    "season": 1,
+    "number": 46,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34749/original.jpg",
+    "releasedAt": "1973-10-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ninja twin mechanical beasts appear"
+    },
+    "season": 1,
+    "number": 47,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34750/original.jpg",
+    "releasedAt": "1973-10-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Heroic! Operation Hell's W"
+    },
+    "season": 1,
+    "number": 48,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34751/original.jpg",
+    "releasedAt": "1973-10-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Boss Robot combat initiation!!"
+    },
+    "season": 1,
+    "number": 49,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34752/original.jpg",
+    "releasedAt": "1973-10-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great fight of the robot of madness"
+    },
+    "season": 1,
+    "number": 50,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34753/original.jpg",
+    "releasedAt": "1973-11-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shooting down!! Jet Scrander"
+    },
+    "season": 1,
+    "number": 51,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34754/original.jpg",
+    "releasedAt": "1973-11-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Assassins from hell Skull's Army!"
+    },
+    "season": 1,
+    "number": 52,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34755/original.jpg",
+    "releasedAt": "1973-11-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kouji's crisis, Sayaka mobilizes Mazinger!"
+    },
+    "season": 1,
+    "number": 53,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34756/original.jpg",
+    "releasedAt": "1973-11-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Second step metamorphosis!! Eye deceiving mechanical beast"
+    },
+    "season": 1,
+    "number": 54,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34757/original.jpg",
+    "releasedAt": "1973-12-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Explosion!! Powerful Rocket Punch!!"
+    },
+    "season": 1,
+    "number": 55,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34758/original.jpg",
+    "releasedAt": "1973-12-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mt. Fuji great straight descent operation"
+    },
+    "season": 1,
+    "number": 56,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34759/original.jpg",
+    "releasedAt": "1973-12-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Stolen super-alloy Z!"
+    },
+    "season": 1,
+    "number": 57,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34760/original.jpg",
+    "releasedAt": "1973-12-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dr. Hell's Japan occupation!!"
+    },
+    "season": 1,
+    "number": 58,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34761/original.jpg",
+    "releasedAt": "1973-12-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Front base hell's castle!!"
+    },
+    "season": 1,
+    "number": 59,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34762/original.jpg",
+    "releasedAt": "1974-01-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hell's castle, the devil's battle proclamation!!"
+    },
+    "season": 1,
+    "number": 60,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34763/original.jpg",
+    "releasedAt": "1974-01-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mazinger Z secret weapon shooting!!"
+    },
+    "season": 1,
+    "number": 61,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34764/original.jpg",
+    "releasedAt": "1974-01-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Song of the robot of fate Ryne X"
+    },
+    "season": 1,
+    "number": 62,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34765/original.jpg",
+    "releasedAt": "1974-01-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Unexpected?! Boss Robot mid-air flight"
+    },
+    "season": 1,
+    "number": 63,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34766/original.jpg",
+    "releasedAt": "1974-02-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The beautiful girl carrying a bomb"
+    },
+    "season": 1,
+    "number": 64,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34767/original.jpg",
+    "releasedAt": "1974-02-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Woman 007 VS Brocken devilish homicide"
+    },
+    "season": 1,
+    "number": 65,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34768/original.jpg",
+    "releasedAt": "1974-02-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The ballon bomb carried by the wind"
+    },
+    "season": 1,
+    "number": 66,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34769/original.jpg",
+    "releasedAt": "1974-02-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shapeless hitman Jenova M9"
+    },
+    "season": 1,
+    "number": 67,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34770/original.jpg",
+    "releasedAt": "1974-03-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Don't cry Kouji! The life placed in the Cross"
+    },
+    "season": 1,
+    "number": 68,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34771/original.jpg",
+    "releasedAt": "1974-03-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The bodyguard from hell Archduke Gorgon"
+    },
+    "season": 1,
+    "number": 69,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34772/original.jpg",
+    "releasedAt": "1974-03-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Air solution! Hover Pilder"
+    },
+    "season": 1,
+    "number": 70,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34773/original.jpg",
+    "releasedAt": "1974-03-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Invulnerable commander Kouji Kabuto!!"
+    },
+    "season": 1,
+    "number": 71,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34774/original.jpg",
+    "releasedAt": "1974-03-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Crisis relief!! New Pilder GO!!"
+    },
+    "season": 1,
+    "number": 72,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34775/original.jpg",
+    "releasedAt": "1974-04-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Certain kill!! Giant swing Rocket Punch"
+    },
+    "season": 1,
+    "number": 73,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34776/original.jpg",
+    "releasedAt": "1974-04-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Abducted Mazinger Z"
+    },
+    "season": 1,
+    "number": 74,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34777/original.jpg",
+    "releasedAt": "1974-04-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Heroic!! End of Aphrodite A"
+    },
+    "season": 1,
+    "number": 75,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34778/original.jpg",
+    "releasedAt": "1974-04-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Suicidal attack! Gorgon's mechanical beast"
+    },
+    "season": 1,
+    "number": 76,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34779/original.jpg",
+    "releasedAt": "1974-05-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Lover of the era Diana A!"
+    },
+    "season": 1,
+    "number": 77,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34780/original.jpg",
+    "releasedAt": "1974-05-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dying officer Count Brocken"
+    },
+    "season": 1,
+    "number": 78,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34781/original.jpg",
+    "releasedAt": "1974-05-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Baron Ashura's falls in the Pacific Ocean!!"
+    },
+    "season": 1,
+    "number": 79,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34782/original.jpg",
+    "releasedAt": "1974-05-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "One second before Mazinger's explosion!!"
+    },
+    "season": 1,
+    "number": 80,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34783/original.jpg",
+    "releasedAt": "1974-06-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fall in Birds Island's trap!!"
+    },
+    "season": 1,
+    "number": 81,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34784/original.jpg",
+    "releasedAt": "1974-06-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sleep in hell!! Kouji Kabuto!!"
+    },
+    "season": 1,
+    "number": 82,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34785/original.jpg",
+    "releasedAt": "1974-06-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The one who crossed the Devil's hand, Mazinger Z"
+    },
+    "season": 1,
+    "number": 83,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34786/original.jpg",
+    "releasedAt": "1974-06-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "First meeting!! Demon Officer Viscount Pigman!!"
+    },
+    "season": 1,
+    "number": 84,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34787/original.jpg",
+    "releasedAt": "1974-06-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The deep sea is the graveyard of Mazinger Z!!"
+    },
+    "season": 1,
+    "number": 85,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34788/original.jpg",
+    "releasedAt": "1974-07-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Bizarre!! The black shadow's attack!!"
+    },
+    "season": 1,
+    "number": 86,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34789/original.jpg",
+    "releasedAt": "1974-07-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "General attack! Triple great operation of death"
+    },
+    "season": 1,
+    "number": 87,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34790/original.jpg",
+    "releasedAt": "1974-07-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Bomb victim!! The terrorific Pigman Viscount!!"
+    },
+    "season": 1,
+    "number": 88,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34791/original.jpg",
+    "releasedAt": "1974-07-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Life or death? Hell's Island's battle to an inevitable death!!"
+    },
+    "season": 1,
+    "number": 89,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34792/original.jpg",
+    "releasedAt": "1974-08-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Now or never!! The 4,000m under earth wonder!!"
+    },
+    "season": 1,
+    "number": 90,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34793/original.jpg",
+    "releasedAt": "1974-08-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Enrage Shiro!! Defeat your mother's vestige"
+    },
+    "season": 1,
+    "number": 91,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34794/original.jpg",
+    "releasedAt": "1974-08-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Last Chance!! Dr. Hell's decisive battle to the death"
+    },
+    "season": 1,
+    "number": 92,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/34795/original.jpg",
+    "releasedAt": "1974-08-25T00:00:00.000Z",
+    "content": {}
+  }
+]

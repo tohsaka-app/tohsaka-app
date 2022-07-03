@@ -1,0 +1,20 @@
+{
+  "slug": "tian-shu-qi-tan",
+  "synopsis": "",
+  "title": {
+    "jp": "Tian shu qi tan"
+  },
+  "releasedAt": "1983-01-01T00:00:00.000Z",
+  "finishedAt": "1983-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41754/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41754",
+    "anilist/anime": "123147",
+    "myanimelist/anime": "37228"
+  }
+}

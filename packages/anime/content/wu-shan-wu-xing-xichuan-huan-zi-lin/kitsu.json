@@ -1,0 +1,26 @@
+{
+  "slug": "wu-shan-wu-xing-xichuan-huan-zi-lin",
+  "synopsis": "Second season of Wu Shan Wu Xing.",
+  "title": {
+    "en": "Fog Hill of Five Elements"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45557/poster_image/876945957d27e6a2c8fea365529ed84e.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45557",
+    "anilist/anime": "122585",
+    "myanimelist/anime": "50407"
+  }
+}

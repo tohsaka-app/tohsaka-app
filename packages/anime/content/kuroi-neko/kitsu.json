@@ -1,0 +1,26 @@
+{
+  "slug": "kuroi-neko",
+  "synopsis": "It consists of only woman who keeps caressing a resisting cat.\n\n1st year work 2015, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "A Black Cat",
+    "jp": "Kuroi Neko"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43182/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/X2AagERZh_0"
+  ],
+  "relations": {
+    "kitsu": "43182",
+    "anilist/anime": "116714",
+    "myanimelist/anime": "40811"
+  }
+}

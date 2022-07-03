@@ -1,0 +1,25 @@
+{
+  "slug": "pikotarou-no-lullaby-lullaby-tv",
+  "synopsis": "Pikotarou will improvise the story of each three-minute episode using an illustration by the anime's director Takashi Taniguchi. He will tell each story in the style of a fairy tale and voice every character, including himself. \n\n(Source: ANN)",
+  "title": {
+    "en": "Pikotaro's Lullaby La La By",
+    "jp": "Pikotarou no Lullaby Lullaby (TV)"
+  },
+  "releasedAt": "2017-08-02T00:00:00.000Z",
+  "finishedAt": "2017-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13572/original.png",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13572",
+    "anidb": "13227",
+    "anilist/anime": "99083",
+    "aozora": "LpSqm0lXD7",
+    "myanimelist/anime": "35739"
+  }
+}

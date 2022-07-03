@@ -1,0 +1,26 @@
+{
+  "slug": "hello-kiniro-mosaic-special",
+  "synopsis": "The episode is set during a school festival where Shinobu is assigned to write a script and make outfits for her class play. Youko and Alice notice that Shinobu is sleepy every morning and are worried that she might be getting tired of all the work. Will Shinobu be able to successfully complete all her tasks in time?\n(Source: MAL News)",
+  "title": {
+    "jp": "Kiniro Mosaic: Pretty Days"
+  },
+  "releasedAt": "2016-11-12T00:00:00.000Z",
+  "finishedAt": "2016-11-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12140/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12140",
+    "anidb": "12037",
+    "anilist/anime": "21753",
+    "aozora": "QTLGCTpLu4",
+    "myanimelist/anime": "33034"
+  }
+}

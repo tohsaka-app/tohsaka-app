@@ -1,0 +1,25 @@
+{
+  "slug": "catman-specials",
+  "synopsis": "DVD Specials of Catman.",
+  "title": {
+    "jp": "Catman Specials"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2008-10-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4888/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4888",
+    "anilist/anime": "7164",
+    "aozora": "U9thYkj6jO",
+    "myanimelist/anime": "7164"
+  }
+}

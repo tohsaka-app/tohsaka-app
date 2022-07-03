@@ -1,0 +1,29 @@
+{
+  "slug": "engage-kiss",
+  "synopsis": "The anime is set in Baylong City, an artificial island city established in the Pacific Ocean to exploit local natural resources. The anime centers on three characters. The first is Shuu, who runs a small company, though his spending habits have left him constantly penniless. A girl named Kisara frequents Shuu’s office and is constantly worried for him. Kisara attends a high school in Baylong City, and does everything from clerical work to household chores with confidence. Meanwhile, Ayano is Shuu’s ex-girlfriend and former work colleague in a company that Shuu used to work for.",
+  "title": {
+    "en": "Engage Kiss",
+    "jp": "Engage Kiss"
+  },
+  "releasedAt": "2022-07-03T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46013/poster_image/1c8bb90e7f19617174ad76aae3d847c8.png",
+  "coverUrl": "https://media.kitsu.io/anime/46013/cover_image/09cb0eadc9177a71ad2e0481c94be0b6.png",
+  "categories": [
+    "action",
+    "comedy",
+    "demon",
+    "harem",
+    "romance",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46013",
+    "anilist/anime": "146625",
+    "myanimelist/anime": "51417"
+  }
+}

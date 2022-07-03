@@ -1,0 +1,25 @@
+{
+  "slug": "zettai-karen-children-gentei-kaikin-ova-chou-sakidori-special",
+  "synopsis": "Summary of the Zettai Karen Children TV series.",
+  "title": {
+    "jp": "Zettai Karen Children Gentei Kaikin!! OVA Chou Sakidori Special!!"
+  },
+  "releasedAt": "2010-04-16T00:00:00.000Z",
+  "finishedAt": "2010-04-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5611/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5611",
+    "anilist/anime": "9127",
+    "aozora": "QkDi8aQpDJ",
+    "myanimelist/anime": "9127"
+  }
+}

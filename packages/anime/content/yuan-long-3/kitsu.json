@@ -1,0 +1,24 @@
+{
+  "slug": "yuan-long-3",
+  "synopsis": "The third season of Yuan Long.",
+  "title": {
+    "en": "Carp Reborn 3"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45531/poster_image/24fc753ef6547966dba46ec02a61202f.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45531",
+    "anilist/anime": "141893",
+    "myanimelist/anime": "50406"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "ni-no-kuni",
+  "synopsis": "An original story in which through a certain incident, the three friends are able to travel back and forth between reality and \"another world\" Ni no Kuni. When the life of the Kotona in both worlds is simultaneously put in danger, the three friends must make \"the ultimate choice.\"\n\n(Source: ANN)",
+  "title": {
+    "jp": "Ni no Kuni"
+  },
+  "releasedAt": "2019-07-01T00:00:00.000Z",
+  "finishedAt": "2019-07-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42274/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42274/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42274",
+    "anilist/anime": "107727",
+    "myanimelist/anime": "39235"
+  }
+}

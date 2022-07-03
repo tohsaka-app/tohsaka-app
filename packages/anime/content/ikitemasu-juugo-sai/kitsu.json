@@ -1,0 +1,24 @@
+{
+  "slug": "ikitemasu-juugo-sai",
+  "synopsis": "An educational film about blindness and being independent while blind in Japan.",
+  "title": {
+    "jp": "Ikitemasu, 15-sai."
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9340/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9340",
+    "anidb": "10107",
+    "aozora": "3q7GWcxNvP",
+    "myanimelist/anime": "26227"
+  }
+}

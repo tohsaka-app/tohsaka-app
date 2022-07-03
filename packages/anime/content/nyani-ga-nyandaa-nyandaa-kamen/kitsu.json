@@ -1,0 +1,24 @@
+{
+  "slug": "nyani-ga-nyandaa-nyandaa-kamen",
+  "synopsis": "One day a normal cat boy got a power to transform into a super \"kamen cat\". Whenever he heard people saying \"help\" he would dash right over there and help them fight against enemies.",
+  "title": {
+    "jp": "Nyani ga Nyandaa Nyandaa Kamen"
+  },
+  "releasedAt": "2000-02-06T00:00:00.000Z",
+  "finishedAt": "2001-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5881/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5881",
+    "anidb": "2341",
+    "anilist/anime": "9810",
+    "aozora": "D9iZ1j1neF",
+    "myanimelist/anime": "9810"
+  }
+}

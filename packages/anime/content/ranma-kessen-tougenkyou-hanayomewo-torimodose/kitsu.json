@@ -1,0 +1,33 @@
+{
+  "slug": "ranma-kessen-tougenkyou-hanayomewo-torimodose",
+  "synopsis": "Ranma and the gang are invited to a boating trip with Kuno. Unfortunately, a storm destroys the yacht and everyone is stranded on a remote island. The whole situation goes even more awry when one by one, the girls disappear without a trace. Ranma then finds out that the girls are abducted by Toma, ruler of the island, as part of his personal harem.\n(Source: ANN)",
+  "title": {
+    "en": "Ranma ½: Nihao My Concubine",
+    "jp": "Ranma ½: Kessen Tougenkyou! Hanayome wo Torimodose!"
+  },
+  "releasedAt": "1992-08-01T00:00:00.000Z",
+  "finishedAt": "1992-08-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/707/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/707/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "ecchi",
+    "gender bender",
+    "harem",
+    "martial arts",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "707",
+    "anidb": "368",
+    "anilist/anime": "792",
+    "aozora": "p2eZuQZmAm",
+    "myanimelist/anime": "792"
+  }
+}

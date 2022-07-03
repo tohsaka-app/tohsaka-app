@@ -1,0 +1,24 @@
+{
+  "slug": "karakuri-pierrot",
+  "synopsis": "Music video for 40mP Vocaloid song \"Clockwork Clown\" featuring Hatsune Miku.\n\nThis song reflects on depression after a breakup or rejection.",
+  "title": {
+    "en": "Clockwork Clown",
+    "jp": "Karakuri Pierrot"
+  },
+  "releasedAt": "2011-12-02T00:00:00.000Z",
+  "finishedAt": "2011-12-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45397/poster_image/94dc21bbad5ba89a439eb8f3d72006f9.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/xxFkW3PCT5M"
+  ],
+  "relations": {
+    "kitsu": "45397",
+    "anilist/anime": "112020"
+  }
+}

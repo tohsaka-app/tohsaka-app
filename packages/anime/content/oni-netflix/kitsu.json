@@ -1,0 +1,22 @@
+{
+  "slug": "oni-netflix",
+  "synopsis": "In a world filled with the oddball gods and monsters of Japanese mythology, one of the creatures' free-spirited daughters, Onari, is determined to follow in the footsteps of the mighty heroes of lore, but her unique powers are yet to be revealed. Does she have what it takes to protect her peaceful village from the encroaching presence of the mysterious ‘Oni’ who threaten the gods? \n\n(Source: Netflix)",
+  "title": {
+    "jp": "Oni"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42742/original.jpg",
+  "categories": [
+    "anime influenced",
+    "kids",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42742"
+  }
+}

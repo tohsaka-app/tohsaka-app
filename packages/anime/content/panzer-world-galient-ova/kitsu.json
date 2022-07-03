@@ -1,0 +1,28 @@
+{
+  "slug": "panzer-world-galient-ova",
+  "synopsis": "The first two episodes are summaries of the TV series, the third one (Crest of Iron) takes place in an alternate universe.",
+  "title": {
+    "jp": "Kikou Kai Galient OVA"
+  },
+  "releasedAt": "1986-01-26T00:00:00.000Z",
+  "finishedAt": "1986-08-05T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6331/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "mecha",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6331",
+    "anidb": "5972",
+    "anilist/anime": "10751",
+    "aozora": "GSnWlsrLUe",
+    "myanimelist/anime": "10751"
+  }
+}

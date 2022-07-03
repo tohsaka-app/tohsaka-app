@@ -1,0 +1,35 @@
+{
+  "slug": "dragon-quest-your-story",
+  "synopsis": "Based on Dragon Quest V: Hand of the Heavenly Bride. It tells the story of Luca, a beast-tamer, that sets out to find the hero that can wield the Zenistian sword and save the world from destruction.",
+  "title": {
+    "en": "Dragon Quest: Your Story",
+    "jp": "Dragon Quest: Your Story"
+  },
+  "releasedAt": "2019-08-02T00:00:00.000Z",
+  "finishedAt": "2019-08-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42248/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42248/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "demon",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "magic",
+    "martial arts"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81170086"
+  ],
+  "relations": {
+    "kitsu": "42248",
+    "anidb": "14685",
+    "anilist/anime": "107905",
+    "myanimelist/anime": "39274"
+  }
+}

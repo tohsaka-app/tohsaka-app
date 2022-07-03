@@ -1,0 +1,23 @@
+{
+  "slug": "uchuusen-sagittarius-pilot",
+  "synopsis": "The pilot episode made for Uchuusen Sagittarius. Features the original comic book art and no voice acting.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Uchuusen Sagittarius Pilot"
+  },
+  "releasedAt": "1982-01-01T00:00:00.000Z",
+  "finishedAt": "1982-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9103/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9103",
+    "aozora": "ACLIQDL4X3",
+    "myanimelist/anime": "26447"
+  }
+}

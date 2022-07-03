@@ -1,0 +1,25 @@
+{
+  "slug": "kiss-dum-special",
+  "synopsis": "Special included with the Blu-ray Box Set. ",
+  "title": {
+    "jp": "Kiss Dum: Omokage"
+  },
+  "releasedAt": "2011-09-29T00:00:00.000Z",
+  "finishedAt": "2011-09-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6523/original.jpg",
+  "categories": [
+    "mecha",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6523",
+    "anilist/anime": "11505",
+    "aozora": "KSIb65ceXI",
+    "myanimelist/anime": "11505"
+  }
+}

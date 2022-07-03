@@ -1,0 +1,32 @@
+{
+  "slug": "saihate-no-paladin",
+  "synopsis": "In a city of the dead, long since ruined and far from human civilization, lives a single human child. His name is Will, and he's being raised by three undead: the hearty skeletal warrior, Blood; the graceful mummified priestess, Mary; and the crotchety spectral sorcerer, Gus. The three pour love into the boy, and teach him all they know.\n\nBut one day, Will starts to wonder: \"Who am I?\" Will must unravel the mysteries of this faraway dead man's land, and unearth the secret pasts of the undead. He must learn the love and mercy of the good gods, and the bigotry and madness of the bad. And when he knows it all, the boy will take his first step on the path to becoming a Paladin.\n\n(Source: J-Novel Club)",
+  "title": {
+    "en": "The Faraway Paladin",
+    "jp": "Saihate no Paladin"
+  },
+  "releasedAt": "2021-10-09T00:00:00.000Z",
+  "finishedAt": "2022-01-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44432/poster_image/29ca67a836df84e9e5ac23dd56e19466.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44432/cover_image/a5034d55e1d5dde6396fe99914e604de.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "isekai",
+    "mystery",
+    "psychological"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/the-faraway-paladin"
+  ],
+  "relations": {
+    "kitsu": "44432",
+    "anidb": "16261",
+    "anilist/anime": "132473",
+    "myanimelist/anime": "48761"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "afro-samurai-movie",
+  "synopsis": "A movie adaptation of the TV series.",
+  "title": {
+    "en": "Afro Samurai the Movie",
+    "jp": "Afro Samurai Movie"
+  },
+  "releasedAt": "2007-10-27T00:00:00.000Z",
+  "finishedAt": "2007-10-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7017/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7017/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "samurai"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/afro-samurai/videos/episodes",
+    "http://www.hulu.com/afro-samurai"
+  ],
+  "relations": {
+    "kitsu": "7017",
+    "anidb": "11542",
+    "anilist/anime": "13709",
+    "aozora": "VsBtOGjsDH",
+    "myanimelist/anime": "13709"
+  }
+}

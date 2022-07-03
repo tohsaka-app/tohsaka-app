@@ -1,0 +1,35 @@
+{
+  "slug": "wonder-egg-priority",
+  "synopsis": "This is the story of Ai, an introverted girl whose fate is forever changed when she acquires a mysterious “Wonder Egg” from a deserted arcade. That night, her dreams blend into reality, and as other girls obtain their own Wonder Eggs, Ai discovers new friends—and the magic within herself.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Wonder Egg Priority",
+    "jp": "Wonder Egg Priority"
+  },
+  "releasedAt": "2021-01-13T00:00:00.000Z",
+  "finishedAt": "2021-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43620/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43620/original.jpeg",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "friendship",
+    "japan",
+    "mystery",
+    "parental abandonment",
+    "psychological",
+    "slice of life",
+    "thriller"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/wonder-egg-priority/"
+  ],
+  "relations": {
+    "kitsu": "43620",
+    "anilist/anime": "124845",
+    "myanimelist/anime": "43299"
+  }
+}

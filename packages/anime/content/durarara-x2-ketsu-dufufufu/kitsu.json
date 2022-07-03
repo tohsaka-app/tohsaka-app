@@ -1,0 +1,26 @@
+{
+  "slug": "durarara-x2-ketsu-dufufufu",
+  "synopsis": "A fake Shizuo from Numabukuro is causing chaos in Ikebukuro.This special will be previewed at screenings in several theaters on May 21, 2016. It will be released with the sixth Blu-ray and DVD volume of Durarara!!x2 Ketsu on July 27, 2016.",
+  "title": {
+    "jp": "Durarara!!x2 Ketsu: Dufufufu!!"
+  },
+  "releasedAt": "2016-07-27T00:00:00.000Z",
+  "finishedAt": "2016-07-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11933/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11933",
+    "anilist/anime": "21695",
+    "aozora": "hpVJkhSBeC",
+    "myanimelist/anime": "32915",
+    "trakt": "42187"
+  }
+}

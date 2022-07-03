@@ -1,0 +1,24 @@
+{
+  "slug": "musaigen-no-phantom-world-limitless-phantom-world",
+  "synopsis": "Picture drama specials bundled with the main series' Blu-ray/DVD volumes.",
+  "title": {
+    "jp": "Musaigen no Phantom World: Limitless Phantom World"
+  },
+  "releasedAt": "2016-04-06T00:00:00.000Z",
+  "finishedAt": "2016-10-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12128/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12128",
+    "anilist/anime": "97951",
+    "aozora": "Q6NhRYxhD6",
+    "myanimelist/anime": "33164"
+  }
+}

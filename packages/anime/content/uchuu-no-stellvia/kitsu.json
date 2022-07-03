@@ -1,0 +1,35 @@
+{
+  "slug": "uchuu-no-stellvia",
+  "synopsis": "The year is 2356 A.D. - 189 years after a distant supernova caused a global catastrophe that wiped out 99% of the world population. To keep track on all space activities, mankind has built colossal space stations called \"foundations\" all over the Solar System. After passing the Space Academy entrance exams, Shima Katase embarks to the Earth-based foundation Stellvia to fulfill her dream of seeing the galaxy and to prevent another interstellar catastrophe from destroying Earth.\n(Source: ANN)",
+  "title": {
+    "en": "Stellvia of the Universe",
+    "jp": "Uchuu no Stellvia"
+  },
+  "releasedAt": "2003-04-03T00:00:00.000Z",
+  "finishedAt": "2003-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/92/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/92/original.jpg",
+  "categories": [
+    "action",
+    "disaster",
+    "future",
+    "romance",
+    "science fiction",
+    "shipboard",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "92",
+    "anidb": "630",
+    "anilist/anime": "113",
+    "aozora": "iAPOZWcB3s",
+    "myanimelist/anime": "113",
+    "thetvdb": "79782/1",
+    "thetvdb/series": "79782",
+    "trakt": "34618"
+  }
+}

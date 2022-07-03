@@ -1,0 +1,24 @@
+{
+  "slug": "nanocore-sp-lianxi-pian-2015-xinnian-tebie-ban",
+  "synopsis": "A special Nanocore video celebrating the new year.",
+  "title": {
+    "jp": "Nanocore SP Lianxi Pian 2015 Xinnian Tebie Ban"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13137/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13137",
+    "anilist/anime": "102778",
+    "aozora": "ffFNgFKKs5",
+    "myanimelist/anime": "34500"
+  }
+}

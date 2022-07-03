@@ -1,0 +1,25 @@
+{
+  "slug": "captain",
+  "synopsis": "The original is an impressive sports manga featuring not heroes, but common boys, and the story depicts the growth of Sumiya 2 junior high school baseball team (the successive captains and players) in downtown Tokyo. Takao Taniguchi, who was a substitute player of the second team of Aoba Gakuin, a prestigious junior high school in the baseball world, but he transferred to Sumiya 2 and he became the captain of the baseball club. After steady training, the team try to do a final game in the regional preliminaries, against Aoba Gakuin.",
+  "title": {
+    "jp": "Captain (TV)"
+  },
+  "releasedAt": "1983-01-10T00:00:00.000Z",
+  "finishedAt": "1983-07-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5933/original.jpg",
+  "categories": [
+    "baseball",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5933",
+    "anidb": "7085",
+    "anilist/anime": "9905",
+    "aozora": "cgFNiDpWIm",
+    "myanimelist/anime": "9905"
+  }
+}

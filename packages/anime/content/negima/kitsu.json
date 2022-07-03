@@ -1,0 +1,48 @@
+{
+  "slug": "negima",
+  "synopsis": "A remake of the Negima anime with its own original story.\nWizard Negi Springfield may be a boy, but he has a man-sized job to do! Fresh from the Academy of Magic, Negi continues his training as an instructor at Mahora Academy in Japan. But before he can get his Masters in magic, the 31 schoolgirls of Class 3-A are gonna keep him up all night cramming for a final exam in will power. Temptation aside, Negi has more on his syllabus than flirting and spells. Darkness is closing in, and Negi is gonna need help from his lovely student bodies to drive the ghouls from their school. These girls want to prove that they're the best in class, and extra credit is available to the cuties that aren't afraid of after-hours phantom fighting!\n(Source: DVD case)",
+  "title": {
+    "en": "Negima!? Magister Negi Magi",
+    "jp": "Negima!?"
+  },
+  "releasedAt": "2006-10-04T00:00:00.000Z",
+  "finishedAt": "2007-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1387/original.jpg",
+  "categories": [
+    "adventure",
+    "all girls school",
+    "alternative present",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "fantasy world",
+    "harem",
+    "magic",
+    "middle school",
+    "romance",
+    "school life",
+    "shounen",
+    "slapstick",
+    "stereotypes"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/negima-magister-negi-magi/videos/episodes",
+    "http://www.hulu.com/negima-magister-negi-magi",
+    "https://www.hidive.com/tv/negima-2006"
+  ],
+  "relations": {
+    "kitsu": "1387",
+    "anidb": "4565",
+    "anilist/anime": "1546",
+    "aozora": "rp2TzZEbFA",
+    "hulu": "11963",
+    "myanimelist/anime": "1546",
+    "thetvdb": "75869/1",
+    "thetvdb/season": "80281",
+    "thetvdb/series": "75869",
+    "trakt": "71922"
+  }
+}

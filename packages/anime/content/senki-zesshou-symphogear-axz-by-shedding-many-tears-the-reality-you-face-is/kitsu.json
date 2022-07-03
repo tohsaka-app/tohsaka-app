@@ -1,0 +1,29 @@
+{
+  "slug": "senki-zesshou-symphogear-axz-by-shedding-many-tears-the-reality-you-face-is",
+  "synopsis": "Fourth series of Senki Zesshou Symphogear.",
+  "title": {
+    "jp": "Senki Zesshou Symphogear AXZ"
+  },
+  "releasedAt": "2017-07-02T00:00:00.000Z",
+  "finishedAt": "2017-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11883/original.jpg",
+  "categories": [
+    "action",
+    "music",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/symphogear"
+  ],
+  "relations": {
+    "kitsu": "11883",
+    "anidb": "11955",
+    "anilist/anime": "21672",
+    "aozora": "BKapF2JenN",
+    "myanimelist/anime": "32836",
+    "thetvdb": "254667/4"
+  }
+}

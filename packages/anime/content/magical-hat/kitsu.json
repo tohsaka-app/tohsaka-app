@@ -1,0 +1,27 @@
+{
+  "slug": "magical-hat",
+  "synopsis": "The series stars Hat, the descendant of a hero who fought an evil king and sealed Devildom. Hat falls into Devildom and finds he has to defeat the evil king.\n(Source: AniDB)",
+  "title": {
+    "jp": "Magical Hat"
+  },
+  "releasedAt": "1989-10-18T00:00:00.000Z",
+  "finishedAt": "1990-07-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7340/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7340",
+    "anidb": "5711",
+    "anilist/anime": "15915",
+    "aozora": "jEZIsfwyw5",
+    "myanimelist/anime": "15915"
+  }
+}

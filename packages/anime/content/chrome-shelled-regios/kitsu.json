@@ -1,0 +1,43 @@
+{
+  "slug": "chrome-shelled-regios",
+  "synopsis": "In a post-apocalyptic world overrun with mutated beasts called Limbeekoon or Filth Monsters, humanity is forced to live in large mobile cities called Regios and learn to use special weapons called Dite, by harnessing the power of Kei to defend themselves. In the Academy City of Zuellni, Layfon Alseif is hoping to start a new life and forget his past. However, his past has caught the attention of Karian Loss, the manipulative Student Council President and Nina Antalk, a Military Arts student and Captain of the 17th Military Arts Platoon, who instantly recognizes his abilities and decides he’s the perfect candidate to join her group. However, with a secret past that won’t leave him alone and unknown powers beyond normal, Layfon just might not take it. ",
+  "title": {
+    "en": "Chrome Shelled Regios",
+    "jp": "Chrome Shelled Regios"
+  },
+  "releasedAt": "2009-01-11T00:00:00.000Z",
+  "finishedAt": "2009-06-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3508/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3508/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "harem",
+    "high school",
+    "magic",
+    "parasite",
+    "school life",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/chrome-shelled-regios/videos/episodes",
+    "http://www.hulu.com/chrome-shelled-regios"
+  ],
+  "relations": {
+    "kitsu": "3508",
+    "anidb": "5911",
+    "anilist/anime": "4186",
+    "aozora": "05LhrPjnY4",
+    "hulu": "50002335",
+    "myanimelist/anime": "4186",
+    "thetvdb": "84677/1",
+    "thetvdb/series": "84677",
+    "trakt": "43087"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "uzaki-chan-wa-asobitai-2nd-season",
+  "synopsis": "Second season of Uzaki-chan wa Asobitai!",
+  "title": {
+    "en": "Uzaki-chan Wants to Hang Out! ω",
+    "jp": "Uzaki-chan wa Asobitai! ω"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/43581/poster_image/96d68069b990c921ec7d0a0a17b7a28a.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "slice of life",
+    "university"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43581",
+    "anidb": "15742",
+    "anilist/anime": "124395",
+    "myanimelist/anime": "42962"
+  }
+}

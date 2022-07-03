@@ -1,0 +1,20 @@
+{
+  "slug": "mozaid-role",
+  "synopsis": "",
+  "title": {
+    "jp": "Mozaik Role"
+  },
+  "releasedAt": "2010-01-19T00:00:00.000Z",
+  "finishedAt": "2010-01-19T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13363/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13363"
+  }
+}

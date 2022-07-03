@@ -1,0 +1,23 @@
+{
+  "slug": "mushi-no-tameiki",
+  "synopsis": "Kousuke Sugimoto animates Handsome Kenya's song \"Mushi no Tameiki\" (Insect's Sigh).",
+  "title": {
+    "jp": "Mushi no Tameiki"
+  },
+  "releasedAt": "2011-07-10T00:00:00.000Z",
+  "finishedAt": "2011-07-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6417/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6417",
+    "anilist/anime": "10941",
+    "aozora": "Y8aOLM3sC9",
+    "myanimelist/anime": "10941"
+  }
+}

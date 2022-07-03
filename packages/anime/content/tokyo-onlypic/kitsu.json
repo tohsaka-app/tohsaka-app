@@ -1,0 +1,25 @@
+{
+  "slug": "tokyo-onlypic",
+  "synopsis": "An omnibus film depicting 15 fictional sports events created by different directors. Onlypic stands for only + pictures (video).",
+  "title": {
+    "en": "Tokyo Onlypic Pictures 2008",
+    "jp": "Tokyo Onlypic"
+  },
+  "releasedAt": "2008-08-08T00:00:00.000Z",
+  "finishedAt": "2008-08-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12850/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12850",
+    "aozora": "es8ja1QYcN",
+    "myanimelist/anime": "33533"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "mahou-sensei-negima",
+  "synopsis": "10-year-old Negi Springfield is a wizard-in-training, and needs only to pass one more test in order to become a Master Wizard. Unfortunately, his final task is a bizarre one—to become a English teacher at an all-females boarding school. As soon as he arrives, he completely embarrasses one of his students, Asuna Kagurazaka, and replaces the teacher she loves, which garners her hatred. To make matters worse, Asuna learns that Negi is a wizard, and promises to tell unless he helps her out. But unfortunately, circumstances force them to work together to do many things, from fighting evil wizards to helping the class pass their final exam, with a lot of humor, magic, and romances thrown in.\n(Source: ANN, edited)",
+  "title": {
+    "en": "Negima!",
+    "jp": "Mahou Sensei Negima!"
+  },
+  "releasedAt": "2005-01-06T00:00:00.000Z",
+  "finishedAt": "2005-06-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/135/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/135/original.jpg",
+  "categories": [
+    "all girls school",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "japan",
+    "magic",
+    "middle school",
+    "present",
+    "romance",
+    "school life",
+    "shounen",
+    "slapstick",
+    "stereotypes",
+    "super power"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/negima/videos/episodes",
+    "http://www.hulu.com/negima",
+    "https://www.hidive.com/tv/negima"
+  ],
+  "relations": {
+    "kitsu": "135",
+    "anidb": "2605",
+    "anilist/anime": "157",
+    "aozora": "ihFc0CmSu3",
+    "hulu": "50001314",
+    "myanimelist/anime": "157",
+    "thetvdb": "75869/1",
+    "thetvdb/season": "9388",
+    "thetvdb/series": "75869",
+    "trakt": "8813"
+  }
+}

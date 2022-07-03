@@ -1,0 +1,29 @@
+{
+  "slug": "ebiten-kouritsu-ebisugawa-koukou-tenmonbu-ova",
+  "synopsis": "Blu-ray disc bundled with the fourth volume of the manga.",
+  "title": {
+    "jp": "Ebiten: Kouritsu Ebisugawa Koukou Tenmonbu OVA"
+  },
+  "releasedAt": "2013-01-26T00:00:00.000Z",
+  "finishedAt": "2013-01-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7179/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "friendship",
+    "parody",
+    "school clubs",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7179",
+    "anidb": "9245",
+    "anilist/anime": "14889",
+    "aozora": "jQAmQDpXoa",
+    "myanimelist/anime": "14889"
+  }
+}

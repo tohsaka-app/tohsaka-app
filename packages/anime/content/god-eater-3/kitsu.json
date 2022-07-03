@@ -1,0 +1,23 @@
+{
+  "slug": "god-eater-3",
+  "synopsis": "The opening promotional animation to Bandai Namco's God Eater 3. The game is slated to be released next month for PS4 and the following year for PC. The story is a sequel to God Eater 2 Rage Burst, just like Resonant Ops. There was a disaster of tremendous proportions, referred to as \"Ash Area\" that devoured Fenrir, and is apparently still ongoing.",
+  "title": {
+    "en": "God Eater 3",
+    "jp": "God Eater 3"
+  },
+  "releasedAt": "2018-11-13T00:00:00.000Z",
+  "finishedAt": "2018-11-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42045/original.jpg",
+  "categories": [
+    "action",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42045",
+    "myanimelist/anime": "38681"
+  }
+}

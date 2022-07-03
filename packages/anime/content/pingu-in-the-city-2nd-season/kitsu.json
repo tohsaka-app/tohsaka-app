@@ -1,0 +1,25 @@
+{
+  "slug": "pingu-in-the-city-2nd-season",
+  "synopsis": "",
+  "title": {
+    "jp": "Pingu in the City 2nd Season"
+  },
+  "releasedAt": "2018-10-06T00:00:00.000Z",
+  "finishedAt": "2019-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41981/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41981",
+    "anidb": "14371",
+    "anilist/anime": "99995",
+    "myanimelist/anime": "38262"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "tokyo-ghoul-pinto",
+  "synopsis": "The OVA adapts the third story in the Tokyo Ghoul: Hibi novel when Shuu Tsukiyama and Chie Hori met.",
+  "title": {
+    "jp": "Tokyo Ghoul: \"Pinto\""
+  },
+  "releasedAt": "2015-12-25T00:00:00.000Z",
+  "finishedAt": "2015-12-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11294/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11294/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "horror",
+    "mystery",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11294",
+    "anilist/anime": "21326",
+    "aozora": "0xSAdBFWcD",
+    "myanimelist/anime": "31297",
+    "trakt": "77558"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "samurai-gun-special",
+  "synopsis": "Unaired episode 8.5 of Samurai Gun. Ichimatsu goes on a mission to replace the enemy's keybook with a fake one, while Ohana gets kidnapped.",
+  "title": {
+    "jp": "Samurai Gun Special"
+  },
+  "releasedAt": "2005-06-29T00:00:00.000Z",
+  "finishedAt": "2005-06-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9564/original.jpg",
+  "categories": [
+    "action",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9564",
+    "aozora": "jDaSABRmTG",
+    "myanimelist/anime": "22031"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "lolirock-season-2",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "2017-01-05T00:00:00.000Z",
+  "finishedAt": "2017-01-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13455/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "europe",
+    "fantasy",
+    "henshin",
+    "idol",
+    "kids",
+    "magic",
+    "magical girl",
+    "music"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80101826"
+  ],
+  "relations": {
+    "kitsu": "13455"
+  }
+}

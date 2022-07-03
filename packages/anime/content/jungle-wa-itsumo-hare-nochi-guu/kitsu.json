@@ -1,0 +1,34 @@
+{
+  "slug": "jungle-wa-itsumo-hare-nochi-guu",
+  "synopsis": "Haré was a happy boy living out his days in the jungle with his mother, but then one day Guu showed up and became a member of their household. Throughout the series he faces many hardships as he tries to keep Guu out of trouble in the jungle.\n(Source: ANN)",
+  "title": {
+    "en": "Haré+Guu",
+    "jp": "Jungle wa Itsumo Hare nochi Guu"
+  },
+  "releasedAt": "2001-04-03T00:00:00.000Z",
+  "finishedAt": "2001-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/228/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/228/original.jpg",
+  "categories": [
+    "comedy",
+    "earth",
+    "present",
+    "school life",
+    "slapstick",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "228",
+    "anidb": "228",
+    "anilist/anime": "253",
+    "aozora": "5eDHzBhE5g",
+    "myanimelist/anime": "253",
+    "thetvdb": "79050/1",
+    "thetvdb/series": "79050",
+    "trakt": "34663"
+  }
+}

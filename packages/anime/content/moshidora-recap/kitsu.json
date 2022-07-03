@@ -1,0 +1,23 @@
+{
+  "slug": "moshidora-recap",
+  "synopsis": "Recap episode of Moshidora that aired between the rebroadcasts of the series.",
+  "title": {
+    "jp": "Moshidora Recap"
+  },
+  "releasedAt": "2011-08-16T00:00:00.000Z",
+  "finishedAt": "2011-08-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10414/original.jpg",
+  "categories": [
+    "drama",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10414",
+    "aozora": "uaOKwkiLof",
+    "myanimelist/anime": "29834"
+  }
+}

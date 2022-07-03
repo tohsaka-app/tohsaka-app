@@ -1,0 +1,28 @@
+{
+  "slug": "hashire-melos",
+  "synopsis": "Melos, a Greek country man gets arrested accused of conspiracy against the king. The king gives him three days to travel to his sister's wedding while Selinentius the sculptor and friend of Melos stays as a hostage. Will he get back in time before the king executes Selinentius instead of him?",
+  "title": {
+    "en": "Run Melos",
+    "jp": "Hashire Melos (1981)"
+  },
+  "releasedAt": "1981-02-07T00:00:00.000Z",
+  "finishedAt": "1981-02-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5388/original.jpg",
+  "categories": [
+    "earth",
+    "europe",
+    "historical",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5388",
+    "anidb": "2385",
+    "anilist/anime": "8554",
+    "aozora": "roTcU87dRl",
+    "myanimelist/anime": "8554"
+  }
+}

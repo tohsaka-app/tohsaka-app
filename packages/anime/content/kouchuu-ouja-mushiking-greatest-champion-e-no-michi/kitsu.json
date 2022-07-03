@@ -1,0 +1,25 @@
+{
+  "slug": "kouchuu-ouja-mushiking-greatest-champion-e-no-michi",
+  "synopsis": "Mushiking movie.",
+  "title": {
+    "jp": "Kouchuu Ouja Mushiking: Greatest Champion e no Michi"
+  },
+  "releasedAt": "2005-12-17T00:00:00.000Z",
+  "finishedAt": "2005-12-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8927/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8927",
+    "anidb": "4131",
+    "anilist/anime": "17469",
+    "aozora": "TX14EzTY3w",
+    "myanimelist/anime": "17469"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "fate-kaleid-liner-prisma-illya-movie-sekka-no-chikai-kuro-sakura-no-heya",
+  "synopsis": "Included with the limited edition BD of Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai.",
+  "title": {
+    "jp": "Fate/kaleid liner Prisma☆Illya Movie: Sekka no Chikai - Kuro Sakura no Heya"
+  },
+  "releasedAt": "2018-01-31T00:00:00.000Z",
+  "finishedAt": "2018-01-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41391/original.jpg",
+  "categories": [
+    "parody",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41391",
+    "anilist/anime": "101100",
+    "myanimelist/anime": "36833"
+  }
+}

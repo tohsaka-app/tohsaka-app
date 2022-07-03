@@ -1,0 +1,27 @@
+{
+  "slug": "tono-to-issho-1-5",
+  "synopsis": "Tono to Issho OVA.",
+  "title": {
+    "jp": "Tono to Issho 1.5"
+  },
+  "releasedAt": "2010-08-23T00:00:00.000Z",
+  "finishedAt": "2010-08-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5872/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "parody",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5872",
+    "anidb": "8222",
+    "anilist/anime": "9794",
+    "aozora": "1XAzcjPQOo",
+    "myanimelist/anime": "9794"
+  }
+}

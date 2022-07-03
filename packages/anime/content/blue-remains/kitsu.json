@@ -1,0 +1,25 @@
+{
+  "slug": "blue-remains",
+  "synopsis": "Post-nuclear Earth is barren, and life can't survive on the surface, so the few remaining people have lived under-water waiting for their time to be able to go to the surface. Amamiku and her faithful computer guardians, Pyron and Mayzamik, guard the seeds that contain the DNA for life and re-growth on the surface when the air is breathable again, but not everyone wants that to happen. ",
+  "title": {
+    "jp": "Blue Remains"
+  },
+  "releasedAt": "2001-08-22T00:00:00.000Z",
+  "finishedAt": "2001-08-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3769/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3769",
+    "anidb": "2627",
+    "anilist/anime": "4733",
+    "aozora": "Z0FW1MiuNU",
+    "myanimelist/anime": "4733"
+  }
+}

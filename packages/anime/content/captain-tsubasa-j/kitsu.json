@@ -1,0 +1,32 @@
+{
+  "slug": "captain-tsubasa-j",
+  "synopsis": "The first 33 episodes are a summary of the previous series. In the first new episodes a new character, Shingo Aoi, (playing in Italy) is introduced. After that the world cup begins, this time with extraordinary, new countries like Sweden, Thailand or Uzbekistan. Unfortunately the Anime ends in the middle of the world cup after the match Japan-Uzbekistan.\n(Source: ANN)",
+  "title": {
+    "jp": "Captain Tsubasa J"
+  },
+  "releasedAt": "1994-10-21T00:00:00.000Z",
+  "finishedAt": "1995-12-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1504/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "earth",
+    "present",
+    "soccer",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1504",
+    "anidb": "507",
+    "anilist/anime": "1674",
+    "aozora": "qVWuWyP7mf",
+    "myanimelist/anime": "1674",
+    "thetvdb": "270225/1",
+    "thetvdb/series": "270225",
+    "trakt": "25592"
+  }
+}

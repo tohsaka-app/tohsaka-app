@@ -1,0 +1,24 @@
+{
+  "slug": "Show-By-Rock-Mashumairesh",
+  "synopsis": "New Show by Rock!! TV Series featuring the new band Mashumairesh!!.",
+  "title": {
+    "jp": "Show By Rock!! Mashumairesh!!"
+  },
+  "releasedAt": "2020-01-09T00:00:00.000Z",
+  "finishedAt": "2020-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42885/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42885",
+    "anidb": "15281",
+    "anilist/anime": "113470",
+    "myanimelist/anime": "40763"
+  }
+}

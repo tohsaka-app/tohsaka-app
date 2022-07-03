@@ -1,0 +1,36 @@
+{
+  "slug": "time-bokan",
+  "synopsis": "Dr. Kieta, the inventor of a time-travel machine, is lost on a test run of his machine to the prehistoric past. When the time-space craft returns to the present, his young assistants are surprised to find only a parrot in the cockpit. In their hurry to find the missing scientist before it is too late, the youngsters set out on a time-space hunt without any clear destination.\n(Source: Official Site)",
+  "title": {
+    "jp": "Time Bokan"
+  },
+  "releasedAt": "1975-10-04T00:00:00.000Z",
+  "finishedAt": "1976-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3346/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "mecha",
+    "piloted robot",
+    "robot helper",
+    "science fiction",
+    "slapstick",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3346",
+    "anidb": "2546",
+    "anilist/anime": "3915",
+    "aozora": "VaatNd8qaw",
+    "myanimelist/anime": "3915",
+    "thetvdb": "161881/1",
+    "thetvdb/series": "161881",
+    "trakt": "64323"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "dounika-naru-hibi",
+  "synopsis": "A collection of short stories that take a refreshing and humorous look at the sexual relationships between young people in Japan.(Source: Kotonoha)",
+  "title": {
+    "jp": "Dounika Naru Hibi"
+  },
+  "releasedAt": "2020-09-15T00:00:00.000Z",
+  "finishedAt": "2020-09-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42733/original.jpg",
+  "categories": [
+    "drama",
+    "romance",
+    "slice of life",
+    "yaoi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42733",
+    "anidb": "15273",
+    "anilist/anime": "113416",
+    "myanimelist/anime": "40747"
+  }
+}

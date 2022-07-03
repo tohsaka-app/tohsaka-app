@@ -1,0 +1,28 @@
+{
+  "slug": "masters-of-the-universe-revelation-part-2",
+  "synopsis": "Season 2 of Masters of the Universe: Revelation.",
+  "title": {
+    "en": "Masters of the Universe: Revelation Part 2"
+  },
+  "releasedAt": "2021-11-23T00:00:00.000Z",
+  "finishedAt": "2021-11-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44940/poster_image/260c7228e4b3f3bb7445a5d67b551388.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44940/original.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "fantasy",
+    "fantasy world",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81154670"
+  ],
+  "relations": {
+    "kitsu": "44940"
+  }
+}

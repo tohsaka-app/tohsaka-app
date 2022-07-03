@@ -1,0 +1,22 @@
+{
+  "slug": "hello-kitty-to-miyou-nihon-mukashibanashi",
+  "synopsis": "Hello Kitty themed Japanese fables.",
+  "title": {
+    "jp": "Hello Kitty to Miyou: Nihon Mukashibanashi"
+  },
+  "releasedAt": "1993-12-21T00:00:00.000Z",
+  "finishedAt": "1994-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40666/original.jpg",
+  "categories": [
+    "anthropomorphism"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40666",
+    "aozora": "GRzdwGOUOc",
+    "myanimelist/anime": "35039"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "hana-to-larva",
+  "synopsis": "There's a pet caterpillar named Larva in my class. I don't like bugs but Larva is sweet and we become friends. But one day, I am faced with a horrible choice.\n\nGraduate Work 2018, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Live or Let Live",
+    "jp": "Hana to Larva"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2018-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45671/poster_image/d87f554ca16da0e476adc50dc8bc3021.png",
+  "categories": [
+    "coming of age"
+  ],
+  "externals": [
+    "https://youtu.be/fR1xVIdhzkg"
+  ],
+  "relations": {
+    "kitsu": "45671",
+    "anilist/anime": "140634"
+  }
+}

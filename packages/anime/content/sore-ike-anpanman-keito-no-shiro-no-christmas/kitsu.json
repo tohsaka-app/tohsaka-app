@@ -1,0 +1,25 @@
+{
+  "slug": "sore-ike-anpanman-keito-no-shiro-no-christmas",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Keito no Shiro no Christmas"
+  },
+  "releasedAt": "1995-12-25T00:00:00.000Z",
+  "finishedAt": "1995-12-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9617/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9617",
+    "aozora": "XpqF1QM3TI",
+    "myanimelist/anime": "27571"
+  }
+}

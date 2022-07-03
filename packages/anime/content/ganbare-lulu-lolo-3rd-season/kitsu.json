@@ -1,0 +1,26 @@
+{
+  "slug": "ganbare-lulu-lolo-3rd-season",
+  "synopsis": "The anime centers around the daily life of two twin bear sisters: the orange-colored Lulu and the yellow-colored Lolo. The two take on new jobs and, despite the occasional failure and tears, give their best efforts.\n(Source: ANN)",
+  "title": {
+    "en": "TINY★TWIN★BEARS 3rd Season",
+    "jp": "Ganbare! Lulu Lolo 3rd Season"
+  },
+  "releasedAt": "2016-01-21T00:00:00.000Z",
+  "finishedAt": "2016-03-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11561/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11561",
+    "anidb": "11678",
+    "anilist/anime": "21418",
+    "aozora": "kUS6TvAq4b",
+    "myanimelist/anime": "31753"
+  }
+}

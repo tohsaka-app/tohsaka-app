@@ -1,0 +1,25 @@
+{
+  "slug": "hello-kitty-no-shiawase-no-aoi-hotaru",
+  "synopsis": "A trip to camping with Kitty and her class.",
+  "title": {
+    "jp": "Hello Kitty no Shiawase no Aoi Hotaru"
+  },
+  "releasedAt": "1993-04-21T00:00:00.000Z",
+  "finishedAt": "1993-04-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9853/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9853",
+    "anidb": "7814",
+    "anilist/anime": "18829",
+    "aozora": "A0IlcLsl7x",
+    "myanimelist/anime": "18829"
+  }
+}

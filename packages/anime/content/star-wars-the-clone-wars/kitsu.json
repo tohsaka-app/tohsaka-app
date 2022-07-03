@@ -1,0 +1,27 @@
+{
+  "slug": "star-wars-the-clone-wars",
+  "synopsis": "The series begins shortly after Attack of the Clones, as the failing Galactic Republic and the Jedi are under siege from the Separatist Confederacy of Independent Systems and the Sith. As the war rages, more and more planets slip from Republic control.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "Star Wars: Clone Wars",
+    "jp": "Star Wars: Clone Wars"
+  },
+  "releasedAt": "2003-11-07T00:00:00.000Z",
+  "finishedAt": "2005-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45239/poster_image/432836676f1dccb02d2d80286e1e0f00.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45239/cover_image/046265f75aabe8803f611ca4b7aede41.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "fantasy",
+    "robot",
+    "science fiction",
+    "space opera"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45239"
+  }
+}

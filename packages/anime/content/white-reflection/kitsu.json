@@ -1,0 +1,33 @@
+{
+  "slug": "white-reflection",
+  "synopsis": "A music video to Two-Mix's \"White Reflection\"; the group, in animated form, notices a strange light and follows it to various locations.",
+  "title": {
+    "jp": "TWO-MIX: White Reflection"
+  },
+  "releasedAt": "1997-03-13T00:00:00.000Z",
+  "finishedAt": "1997-03-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2488/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "japan",
+    "music",
+    "musical band",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2488",
+    "anidb": "3949",
+    "anilist/anime": "2728",
+    "aozora": "XIEF9ebYzg",
+    "myanimelist/anime": "2728"
+  }
+}

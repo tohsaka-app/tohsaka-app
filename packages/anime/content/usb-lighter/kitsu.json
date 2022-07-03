@@ -1,0 +1,20 @@
+{
+  "slug": "usb-lighter",
+  "synopsis": "A series of commercials for Jii USB Lighters.",
+  "title": {
+    "en": "USB Lighter"
+  },
+  "releasedAt": "2019-12-26T00:00:00.000Z",
+  "finishedAt": "2019-12-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44442/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44442"
+  }
+}

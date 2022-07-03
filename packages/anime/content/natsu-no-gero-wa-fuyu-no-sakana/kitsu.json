@@ -1,0 +1,25 @@
+{
+  "slug": "natsu-no-gero-wa-fuyu-no-sakana",
+  "synopsis": "Music video by Sawako Kabuki.",
+  "title": {
+    "en": "Summer's Puke is Winter's Delight",
+    "jp": "Natsu no Gero wa Fuyu no Sakana"
+  },
+  "releasedAt": "2016-04-12T00:00:00.000Z",
+  "finishedAt": "2016-04-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12177/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12177",
+    "anilist/anime": "103365",
+    "aozora": "gknxvgpttR",
+    "myanimelist/anime": "33220"
+  }
+}

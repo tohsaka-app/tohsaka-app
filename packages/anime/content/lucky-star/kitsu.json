@@ -1,0 +1,41 @@
+{
+  "slug": "lucky-star",
+  "synopsis": "Lucky☆Star follows the daily lives of four cute high school girls—Konata Izumi, the lazy otaku; the Hiiragi twins, Tsukasa and Kagami (sugar and spice, respectively); and the smart and well-mannered Miyuki Takara.\nAs they go about their lives at school and beyond, they develop their eccentric and lively friendship and making humorous observations about the world around them. Be it Japanese tradition, the intricacies of otaku culture, academics, or the correct way of preparing and eating various foods—no subject is safe from their musings.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Lucky☆Star",
+    "jp": "Lucky☆Star"
+  },
+  "releasedAt": "2007-04-08T00:00:00.000Z",
+  "finishedAt": "2007-09-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1697/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1697/original.png",
+  "categories": [
+    "absurdist humour",
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "parody",
+    "present",
+    "school life",
+    "slice of life",
+    "stereotypes"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/lucky-star/"
+  ],
+  "relations": {
+    "kitsu": "1697",
+    "anidb": "4777",
+    "anilist/anime": "1887",
+    "aozora": "YOCywu5y6X",
+    "myanimelist/anime": "1887",
+    "thetvdb": "80177/1",
+    "thetvdb/series": "80177",
+    "trakt": "42276"
+  }
+}

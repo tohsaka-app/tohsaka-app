@@ -1,0 +1,41 @@
+{
+  "slug": "sakigake-cromartie-koukou",
+  "synopsis": "Takashi Kamiyama is your typical mild-mannered high school student—polite, aloof, and pacifistic, with a slightly above-average IQ. But would your average high school student really enroll himself at the infamous Cromartie High School, known as a breeding ground for the toughest delinquents out there?\n\nApparently so, as that is exactly what Takashi does, though for reasons he'd rather leave unmentioned. However, one thing is for sure: the \"hard-boiled rabbit in a den full of hungry lions\" is never going to have another dull day. And how could he, now that he's surrounded by mohawked punks, obnoxious robots, and... gorillas? And was that Freddie Mercury riding a horse down the corridor? Follow Takashi as he earnestly dedicates his new high school life to better his school's reputation while his classmates are hellbent on wreaking havoc.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Cromartie High School",
+    "jp": "Sakigake!! Cromartie Koukou"
+  },
+  "releasedAt": "2003-10-03T00:00:00.000Z",
+  "finishedAt": "2004-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/93/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/93/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "action",
+    "asia",
+    "comedy",
+    "delinquent",
+    "earth",
+    "high school",
+    "japan",
+    "parody",
+    "present",
+    "school life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/cromartie-high-school"
+  ],
+  "relations": {
+    "kitsu": "93",
+    "anidb": "1099",
+    "anilist/anime": "114",
+    "aozora": "EPiQ0O2fIW",
+    "myanimelist/anime": "114",
+    "thetvdb": "76057/1",
+    "thetvdb/series": "76057",
+    "trakt": "12207"
+  }
+}

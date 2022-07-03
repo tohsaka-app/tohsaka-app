@@ -39,10 +39,30 @@ export async function generate(slug: string) {
 	return [serialize(data[0]), data[0].episodes.data.map(serializeEpisode)];
 }
 
-export async function generateAvailable () {
-	kitsu.get("anime", {
-		
-	})
+export async function generateAvailable() {
+	let idx = 0;
+	let count = Infinity;
+
+	while (!(idx >= count / 20)) {
+		const { data, meta } = await kitsu.get("anime", {
+			params: {
+				page: {
+					limit: 20,
+					offset: idx * 20
+				},
+				fields: {
+					anime: "slug"
+				}
+			}
+		});
+
+		await generateFiles(data.map((value: any) => value.slug));
+
+		count = meta.count;
+		idx++;
+
+		console.log(idx * 20, count, `${(((idx * 20) / count) * 100).toFixed(2)}% done`);
+	}
 }
 
 export async function generateFiles(slugs: Array<string>) {

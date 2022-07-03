@@ -1,0 +1,25 @@
+{
+  "slug": "hakyuu-houshin-engi-recap",
+  "synopsis": "Recap episode of Hakyuu Houshin Engi.\n",
+  "title": {
+    "jp": "Hakyuu Houshin Engi Recap"
+  },
+  "releasedAt": "2018-04-27T00:00:00.000Z",
+  "finishedAt": "2018-04-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41281/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "fantasy",
+    "fantasy world"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41281",
+    "anidb": "13336",
+    "myanimelist/anime": "37856"
+  }
+}

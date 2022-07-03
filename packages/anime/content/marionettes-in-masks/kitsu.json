@@ -1,0 +1,24 @@
+{
+  "slug": "marionettes-in-masks",
+  "synopsis": "One of the first animation works by Keiichi Tanaami.",
+  "title": {
+    "en": null,
+    "jp": "Kamen no Marionette-tachi"
+  },
+  "releasedAt": "1965-01-01T00:00:00.000Z",
+  "finishedAt": "1965-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10576/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10576",
+    "anilist/anime": "126863",
+    "aozora": "QZGGBtJm41",
+    "myanimelist/anime": "29985"
+  }
+}

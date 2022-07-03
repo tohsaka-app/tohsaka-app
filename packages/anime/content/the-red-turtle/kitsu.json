@@ -1,0 +1,22 @@
+{
+  "slug": "the-red-turtle",
+  "synopsis": "The film is a co-production between French studio Wild Bunch and Studio Ghibli, and tells the story of a man who tries to escape from a desert island and battles a giant turtle. The film has no dialogue.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "The Red Turtle"
+  },
+  "releasedAt": "2016-09-01T00:00:00.000Z",
+  "finishedAt": "2016-09-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11621/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11621/original.jpeg",
+  "categories": [
+    "adventure",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11621"
+  }
+}

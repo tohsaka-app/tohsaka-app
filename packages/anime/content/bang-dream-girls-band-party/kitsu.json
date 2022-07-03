@@ -1,0 +1,24 @@
+{
+  "slug": "bang-dream-girls-band-party",
+  "synopsis": "BanG Dream! 3rd Anniversary Opening.",
+  "title": {
+    "jp": "BanG Dream! Girls Band Party!"
+  },
+  "releasedAt": "2020-03-15T00:00:00.000Z",
+  "finishedAt": "2020-03-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43976/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=SLzWOD6_dbU"
+  ],
+  "relations": {
+    "kitsu": "43976",
+    "anilist/anime": "118116"
+  }
+}

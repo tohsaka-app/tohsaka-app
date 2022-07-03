@@ -1,0 +1,26 @@
+{
+  "slug": "mr-deniroo-in-henteko-mushi",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Mr. Deniroo in Henteko Mushi"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11799/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11799",
+    "anilist/anime": "103943",
+    "aozora": "LGhdTpxuPm",
+    "myanimelist/anime": "31643"
+  }
+}

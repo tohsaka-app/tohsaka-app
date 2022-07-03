@@ -1,0 +1,25 @@
+{
+  "slug": "master-blaster",
+  "synopsis": "Short film by Kabuki Sawako with music by Sugahara Shinsuke.",
+  "title": {
+    "jp": "Master Blaster"
+  },
+  "releasedAt": "2014-09-30T00:00:00.000Z",
+  "finishedAt": "2014-09-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11427/original.png",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11427",
+    "anidb": "11661",
+    "anilist/anime": "103374",
+    "aozora": "VpQi5oJhES",
+    "myanimelist/anime": "31501"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "sore-ike-anpanman-minna-de-teasobi-anpanman-to-itazura-obake",
+  "synopsis": "This short movie that was screened simultaneously with a Anpanman movie - Sore Ike! Anpanman: Tobase! Kibou no Handkerchief.",
+  "title": {
+    "jp": "Sore Ike! Anpanman: Minna de Teasobi - Anpanman to Itazura Obake"
+  },
+  "releasedAt": "2013-07-06T00:00:00.000Z",
+  "finishedAt": "2013-07-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9050/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9050",
+    "anidb": "9769",
+    "anilist/anime": "18355",
+    "aozora": "wYtpEyD6KE",
+    "myanimelist/anime": "18355"
+  }
+}

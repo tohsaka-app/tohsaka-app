@@ -1,0 +1,24 @@
+{
+  "slug": "warau-salesman-dai-sp-banashi",
+  "synopsis": "Specials of Warau Salesman broadcasted intermittently during the main show not included in the episode count of the main show. They are 3 times the length of a normal episode and fill a half hour time-slot.",
+  "title": {
+    "jp": "Warau Salesman Dai SP-banashi"
+  },
+  "releasedAt": "1990-01-23T00:00:00.000Z",
+  "finishedAt": "1992-07-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40695/original.jpg",
+  "categories": [
+    "psychological",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40695",
+    "anilist/anime": "119345",
+    "aozora": "I9sIS5sMMv",
+    "myanimelist/anime": "35116"
+  }
+}

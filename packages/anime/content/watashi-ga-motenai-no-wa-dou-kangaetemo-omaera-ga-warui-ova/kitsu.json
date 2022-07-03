@@ -1,0 +1,35 @@
+{
+  "slug": "watashi-ga-motenai-no-wa-dou-kangaetemo-omaera-ga-warui-ova",
+  "synopsis": "The 13th episode of the TV anime bundled with the special limited first edition of the 7th manga volume.",
+  "title": {
+    "jp": "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!: Motenaishi, Nazomeite Miru"
+  },
+  "releasedAt": "2014-10-22T00:00:00.000Z",
+  "finishedAt": "2014-10-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7991/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7991/original.png",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "middle school",
+    "present",
+    "satire",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.hulu.com/watamote"
+  ],
+  "relations": {
+    "kitsu": "7991",
+    "anidb": "10064",
+    "anilist/anime": "20453",
+    "aozora": "JSbYUFXacx",
+    "myanimelist/anime": "20449"
+  }
+}

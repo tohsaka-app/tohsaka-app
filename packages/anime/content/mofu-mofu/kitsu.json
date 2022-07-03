@@ -1,0 +1,24 @@
+{
+  "slug": "mofu-mofu",
+  "synopsis": "Short episodes about Mofu☆Mofu, a little, soft, white alien, and its two friends, Meru and Miru. ",
+  "title": {
+    "jp": "Mofu☆Mofu"
+  },
+  "releasedAt": "2008-08-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4008/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4008",
+    "anidb": "8450",
+    "anilist/anime": "5241",
+    "aozora": "NoxookbywV",
+    "myanimelist/anime": "5241"
+  }
+}

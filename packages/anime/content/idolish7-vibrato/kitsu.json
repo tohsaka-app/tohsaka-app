@@ -1,0 +1,23 @@
+{
+  "slug": "idolish7-vibrato",
+  "synopsis": "A spin-off series of the IDOLiSH7 TV series, streamed exclusively on YouTube.\n",
+  "title": {
+    "jp": "IDOLiSH7 Vibrato"
+  },
+  "releasedAt": "2018-02-17T00:00:00.000Z",
+  "finishedAt": "2019-03-07T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42455/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42455",
+    "anilist/anime": "101169",
+    "myanimelist/anime": "36963"
+  }
+}

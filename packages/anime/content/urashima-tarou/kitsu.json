@@ -1,0 +1,24 @@
+{
+  "slug": "urashima-tarou",
+  "synopsis": "Urashima Taro is based on a well-known Japanese folk tale about an honest fisherman who is invited to an underwater castle after saving a sea turtle on a beach from bullies.\n(Source: forum.bcdb.com)",
+  "title": {
+    "jp": "Urashima Tarou"
+  },
+  "releasedAt": "1918-02-01T00:00:00.000Z",
+  "finishedAt": "1918-02-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4996/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4996",
+    "anidb": "5863",
+    "anilist/anime": "7485",
+    "aozora": "s7tRWiDZhR",
+    "myanimelist/anime": "7485"
+  }
+}

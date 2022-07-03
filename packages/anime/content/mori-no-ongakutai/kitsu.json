@@ -1,0 +1,24 @@
+{
+  "slug": "mori-no-ongakutai",
+  "synopsis": "A puppet animation adaptation of the Grimm fairy-tale \"Town Musicians of Bremen\".",
+  "title": {
+    "jp": "Mori no Ongakutai"
+  },
+  "releasedAt": "1960-01-01T00:00:00.000Z",
+  "finishedAt": "1960-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12034/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12034",
+    "anilist/anime": "104215",
+    "aozora": "c5JOa1kSPh",
+    "myanimelist/anime": "33116"
+  }
+}

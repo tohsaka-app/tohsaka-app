@@ -1,0 +1,39 @@
+{
+  "slug": "tentai-senshi-sunred-2",
+  "synopsis": "The second season of Tentai Senshi Sunred.",
+  "title": {
+    "jp": "Tentai Senshi Sunred 2nd Season"
+  },
+  "releasedAt": "2009-10-03T00:00:00.000Z",
+  "finishedAt": "2010-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4622/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4622/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "cooking",
+    "earth",
+    "japan",
+    "parody",
+    "present",
+    "satire",
+    "slapstick",
+    "slice of life",
+    "stereotypes",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4622",
+    "anidb": "6777",
+    "anilist/anime": "6582",
+    "aozora": "tYVtmvoC94",
+    "myanimelist/anime": "6582",
+    "thetvdb": "93281",
+    "trakt": "34606"
+  }
+}

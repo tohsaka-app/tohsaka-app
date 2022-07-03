@@ -1,0 +1,23 @@
+{
+  "slug": "around-the-world",
+  "synopsis": "Naoki Yoshibe's graduation work from 2007 at Tokyo Polytechnic University",
+  "title": {
+    "en": "Around the World!",
+    "jp": "Around the World!"
+  },
+  "releasedAt": "2008-01-30T00:00:00.000Z",
+  "finishedAt": "2008-01-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44406/original.jpg",
+  "categories": [
+    "action",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44406",
+    "anilist/anime": "118128"
+  }
+}

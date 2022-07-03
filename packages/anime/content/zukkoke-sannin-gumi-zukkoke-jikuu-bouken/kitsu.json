@@ -1,0 +1,26 @@
+{
+  "slug": "zukkoke-sannin-gumi-zukkoke-jikuu-bouken",
+  "synopsis": "Three reporters from the school paper get transported back to the Edo period.",
+  "title": {
+    "jp": "Zukkoke Sannin-gumi: Zukkoke Jikuu Bouken"
+  },
+  "releasedAt": "1988-04-01T00:00:00.000Z",
+  "finishedAt": "1988-04-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9717/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9717",
+    "anidb": "9946",
+    "anilist/anime": "18967",
+    "aozora": "SgD4WNT5Xy",
+    "myanimelist/anime": "18967"
+  }
+}

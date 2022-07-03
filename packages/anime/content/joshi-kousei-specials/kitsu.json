@@ -1,0 +1,25 @@
+{
+  "slug": "joshi-kousei-specials",
+  "synopsis": "Bonus episodes on the DVDs featuring the girls on a field trip to Chichibu.",
+  "title": {
+    "en": "High School Girls Specials",
+    "jp": "Joshikousei: Girl's High Specials"
+  },
+  "releasedAt": "2006-05-25T00:00:00.000Z",
+  "finishedAt": "2006-09-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4651/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4651",
+    "anilist/anime": "6657",
+    "aozora": "aaGG45SDI2",
+    "myanimelist/anime": "6657"
+  }
+}

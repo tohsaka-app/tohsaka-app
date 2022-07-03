@@ -1,0 +1,23 @@
+{
+  "slug": "nankorobiyaoki-nana-shumoku",
+  "synopsis": "1st year work 2018, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\nBloopers in sports are different from the blunders we make in everyday life but they tend to share similar physical movements. The title comes from an old Japanese saying about recovering from bad happenings.\n\n(Source: Geidai Animation)",
+  "title": {
+    "jp": "Nankorobiyaoki Nana Shumoku"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2018-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45141/original.png",
+  "categories": [
+    "sports"
+  ],
+  "externals": [
+    "https://youtu.be/HPz66RJTYkk"
+  ],
+  "relations": {
+    "kitsu": "45141",
+    "anilist/anime": "127305"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "mahoutsukai-precure-movie",
+  "synopsis": "Toei Animation has announced that a movie for Mahoutsukai! Precure will premiere in October 2016. ",
+  "title": {
+    "jp": "Mahoutsukai Precure! Movie: Kiseki no Henshin! Cure Mofurun!"
+  },
+  "releasedAt": "2016-10-29T00:00:00.000Z",
+  "finishedAt": "2016-10-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12080/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "magical girl",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12080",
+    "anidb": "12269",
+    "anilist/anime": "98746",
+    "aozora": "HMlARt3UbQ",
+    "myanimelist/anime": "33183"
+  }
+}

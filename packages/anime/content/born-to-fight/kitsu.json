@@ -1,0 +1,26 @@
+{
+  "slug": "born-to-fight",
+  "synopsis": "Ever feel like you were BORN TO FIGHT? That might just be what Baki Hanma, Ohma Tokita, and everyone else from the worlds of BAKI and Kengan Ashura were born to do! (Source: Netflix)",
+  "title": {
+    "en": "Born to Fight",
+    "jp": "Born to Fight"
+  },
+  "releasedAt": "2020-11-09T00:00:00.000Z",
+  "finishedAt": "2020-11-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43725/original.jpg",
+  "categories": [
+    "action",
+    "combat",
+    "martial arts",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=h3pWIv6B2cw&ab_channel=NetflixAnime"
+  ],
+  "relations": {
+    "kitsu": "43725"
+  }
+}

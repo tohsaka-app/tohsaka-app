@@ -1,0 +1,27 @@
+{
+  "slug": "domo-kun",
+  "synopsis": "A strange monster hatches from a mysterious egg. He befriends various animals, and takes residence in Osajii's burrow. He discovers new and exciting things about everyday life.\nAs of 2008, there are at least 37 regular TV spot episodes of Domo-kun. These 37 episodes were released on DVD in Japan in July of 2009.",
+  "title": {
+    "jp": "Domo-kun"
+  },
+  "releasedAt": "1998-12-22T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5064/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5064",
+    "anilist/anime": "7643",
+    "aozora": "RhLeGxuQUb",
+    "myanimelist/anime": "7643",
+    "thetvdb": "248576",
+    "trakt": "65822"
+  }
+}

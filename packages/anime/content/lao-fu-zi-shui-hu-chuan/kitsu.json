@@ -1,0 +1,25 @@
+{
+  "slug": "lao-fu-zi-shui-hu-chuan",
+  "synopsis": "Old Master Q and gang travels to the past.",
+  "title": {
+    "jp": "Lao Fu Zi Shui Hu Chuan"
+  },
+  "releasedAt": "1982-07-10T00:00:00.000Z",
+  "finishedAt": "1982-07-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10646/original.jpg",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10646",
+    "anidb": "11230",
+    "anilist/anime": "102294",
+    "aozora": "fn2NWmgskT",
+    "myanimelist/anime": "30096"
+  }
+}

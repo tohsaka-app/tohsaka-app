@@ -1,0 +1,27 @@
+{
+  "slug": "cyborg-009-movie",
+  "synopsis": "Original Cyborg 009 1966 movie based on the manga. Features 009's origin and an epic battle against Black Ghost and their evil robot forces.",
+  "title": {
+    "en": "Cyborg 009",
+    "jp": "Cyborg 009"
+  },
+  "releasedAt": "1966-07-21T00:00:00.000Z",
+  "finishedAt": "1966-07-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7869/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7869",
+    "anidb": "2204",
+    "anilist/anime": "6872",
+    "aozora": "OKJpc6vrji",
+    "myanimelist/anime": "6872"
+  }
+}

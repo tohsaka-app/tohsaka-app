@@ -1,0 +1,31 @@
+{
+  "slug": "dragon-collection",
+  "synopsis": "Through an unexpected turn of events, an ordinary elementary school student, Hiro Enryuu, finds himself in the world of the \"Dragon Collection\" game. This is a world called Dragon Earth, where gods, humans, and monsters exist side by side. Those who roam this world using a magic book, called a Grimoire, and cards to summon monsters and search for treasures that bear the powers of dragons are called Dracolle Battlers. Despite his bewilderment, Hiro becomes a Dracolle Battler and, together with the friends he meets there, begins his adventure to become a legendary Dragon Master!\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Dragon Collection"
+  },
+  "releasedAt": "2014-04-07T00:00:00.000Z",
+  "finishedAt": "2015-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8352/original.jpg",
+  "categories": [
+    "fantasy",
+    "proxy battles"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/dragon-collection",
+    "https://vrv.co/series/GYMGD32GY/DRAGON-COLLECTION"
+  ],
+  "relations": {
+    "kitsu": "8352",
+    "anidb": "10443",
+    "anilist/anime": "20700",
+    "aozora": "nc3WAZBfpk",
+    "myanimelist/anime": "22733",
+    "thetvdb": "280469/1",
+    "thetvdb/series": "280469",
+    "trakt": "77090"
+  }
+}

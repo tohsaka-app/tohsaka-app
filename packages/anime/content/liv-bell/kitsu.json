@@ -1,0 +1,24 @@
+{
+  "slug": "liv-bell",
+  "synopsis": "A stop-motion animation about Liv, a curious little girl and Bell, a gluttonous hedgehog. Together they go on an adventure in a picture book. ",
+  "title": {
+    "en": "Liv & Bell",
+    "jp": "Liv & Bell"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10288/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10288",
+    "aozora": "29RQiqtl8h",
+    "myanimelist/anime": "29421"
+  }
+}

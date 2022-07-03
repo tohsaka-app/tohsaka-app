@@ -1,0 +1,24 @@
+{
+  "slug": "usagi-to-kame",
+  "synopsis": "A retelling of the classic Aesop Fable, The Tortoise and the Hare.\n(Source: AniDB)",
+  "title": {
+    "jp": "Usagi to Kame"
+  },
+  "releasedAt": "1924-01-01T00:00:00.000Z",
+  "finishedAt": "1924-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4999/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4999",
+    "anidb": "6844",
+    "anilist/anime": "7494",
+    "aozora": "rrsGPT612b",
+    "myanimelist/anime": "7494"
+  }
+}

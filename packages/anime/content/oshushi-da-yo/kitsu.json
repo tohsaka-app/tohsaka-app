@@ -1,0 +1,20 @@
+{
+  "slug": "oshushi-da-yo",
+  "synopsis": "There is currently no synopsis for this title.",
+  "title": {
+    "jp": "Oshushi Da yo"
+  },
+  "releasedAt": "2017-10-20T00:00:00.000Z",
+  "finishedAt": "2017-12-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40953/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40953",
+    "aozora": "OGQd8G9fJN",
+    "myanimelist/anime": "36464"
+  }
+}

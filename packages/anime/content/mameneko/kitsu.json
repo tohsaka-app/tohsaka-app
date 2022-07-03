@@ -1,0 +1,23 @@
+{
+  "slug": "mameneko",
+  "synopsis": "The series follows the daily lives of a naughty female cat named Azuki and a quiet male cat named Daizu who live with their owner, a 30 year old office lady, and her extended family, including an otaku elder brother and an adopted shiba inu dog who thinks he's a cat.\n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Mameneko"
+  },
+  "releasedAt": "2018-01-09T00:00:00.000Z",
+  "finishedAt": "2018-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40587/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40587",
+    "anidb": "13559",
+    "anilist/anime": "100871",
+    "myanimelist/anime": "36728"
+  }
+}

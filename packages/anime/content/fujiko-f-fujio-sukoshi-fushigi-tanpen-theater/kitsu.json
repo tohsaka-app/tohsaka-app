@@ -1,0 +1,26 @@
+{
+  "slug": "fujiko-f-fujio-sukoshi-fushigi-tanpen-theater",
+  "synopsis": "Based on a story by Fujiko F. Fujio.",
+  "title": {
+    "jp": "Fujiko F. Fujio: Sukoshi Fushigi Tanpen Theater"
+  },
+  "releasedAt": "1990-03-01T00:00:00.000Z",
+  "finishedAt": "1991-10-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9742/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9742",
+    "anidb": "7071",
+    "anilist/anime": "19899",
+    "aozora": "dYtS7oO6yt",
+    "myanimelist/anime": "19899"
+  }
+}

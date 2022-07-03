@@ -1,0 +1,26 @@
+{
+  "slug": "yuru-yuri-doushite-tomaranai-tokimeki-doki-doki-paradox-eternal",
+  "synopsis": "Yuru Yuri DVD/BD special.\nChinatsu's horrendous and atrocious drawings come to life in a tale about a handsome prince, a hideous girl and true love!\n(Source: Anime-Planet)",
+  "title": {
+    "en": "YuruYuri: For Whatever Reason",
+    "jp": "Yuru Yuri: Doushite, Tomaranai, Tokimeki, Dokidoki, Paradox, Eternal"
+  },
+  "releasedAt": "2011-11-16T00:00:00.000Z",
+  "finishedAt": "2011-11-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6784/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6784/original.jpeg",
+  "categories": [
+    "comedy",
+    "friendship"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6784",
+    "anilist/anime": "12665",
+    "aozora": "kIZVScFuG3",
+    "myanimelist/anime": "12665"
+  }
+}

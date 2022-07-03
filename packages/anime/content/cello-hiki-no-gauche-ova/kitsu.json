@@ -1,0 +1,26 @@
+{
+  "slug": "cello-hiki-no-gauche-ova",
+  "synopsis": "Gauche is having trouble perfecting his piece for his performance in 10 days when he hears a knock on his door...",
+  "title": {
+    "jp": "Cello Hiki no Gauche (OVA)"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8968/original.jpg",
+  "categories": [
+    "fantasy",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8968",
+    "anidb": "11335",
+    "anilist/anime": "119824",
+    "aozora": "QTQn6aaPac",
+    "myanimelist/anime": "26303"
+  }
+}

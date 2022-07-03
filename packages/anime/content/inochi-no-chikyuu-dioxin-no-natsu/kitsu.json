@@ -1,0 +1,27 @@
+{
+  "slug": "inochi-no-chikyuu-dioxin-no-natsu",
+  "synopsis": "This film was based on a real-life 1976 accident in Italy, when deadly dioxins threatened the area surrounding a biological research laboratory where an explosion took place.",
+  "title": {
+    "en": "The Summer of Dioxin",
+    "jp": "Inochi no Chikyuu: Dioxin no Natsu"
+  },
+  "releasedAt": "2001-08-18T00:00:00.000Z",
+  "finishedAt": "2001-08-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5753/original.jpg",
+  "categories": [
+    "europe",
+    "italy",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5753",
+    "anidb": "6633",
+    "anilist/anime": "9495",
+    "aozora": "9LCemgfuGI",
+    "myanimelist/anime": "9495"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "mister-ajikko-special",
+  "synopsis": "Youichi vs Ajizukin.",
+  "title": {
+    "jp": "Mister Ajikko Special"
+  },
+  "releasedAt": "1989-02-09T00:00:00.000Z",
+  "finishedAt": "1989-02-09T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8683/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8683",
+    "aozora": "Q51dxzdr7d",
+    "myanimelist/anime": "25053"
+  }
+}

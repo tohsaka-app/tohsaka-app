@@ -1,0 +1,31 @@
+{
+  "slug": "hoozuki-no-reitetsu-2nd-season",
+  "synopsis": "Second season of Hoozuki no Reitetsu.",
+  "title": {
+    "en": "Hozuki's Coolheadedness 2",
+    "jp": "Hoozuki no Reitetsu 2nd Season"
+  },
+  "releasedAt": "2017-10-08T00:00:00.000Z",
+  "finishedAt": "2017-12-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13226/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13226/original.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "fantasy"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GY5VK2XDY/hozukis-coolheadedness",
+    "https://www.hidive.com/tv/hozukis-coolheadedness-2"
+  ],
+  "relations": {
+    "kitsu": "13226",
+    "anilist/anime": "98438",
+    "aozora": "YVRTfWK4lv",
+    "myanimelist/anime": "35075",
+    "thetvdb": "275613/2"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "seiyuu-sentai-voicetorm-7",
+  "synopsis": "Motion comic anime Voice Actor Force Voicetorm 7 about a group of seven warriors out to protect Japan with their voices from the forces of evil threatening to destroy moe.",
+  "title": {
+    "en": "Voicetorm 7",
+    "jp": "Seiyuu Sentai Voicetorm 7 "
+  },
+  "releasedAt": "2013-10-05T00:00:00.000Z",
+  "finishedAt": "2013-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7992/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7992"
+  }
+}

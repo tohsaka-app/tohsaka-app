@@ -1,0 +1,22 @@
+{
+  "slug": "Synchro-Noise",
+  "synopsis": "Abstract short animation by Densuke28.",
+  "title": {
+    "en": "Synchro Noise",
+    "jp": "Synchro Noise"
+  },
+  "releasedAt": "2013-09-03T00:00:00.000Z",
+  "finishedAt": "2013-09-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42726/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42726",
+    "myanimelist/anime": "38763"
+  }
+}

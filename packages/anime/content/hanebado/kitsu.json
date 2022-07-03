@@ -1,0 +1,35 @@
+{
+  "slug": "hanebado",
+  "synopsis": "Despite her great potential, Ayano Hanesaki would rather avoid badminton than play it. But, when she meets Nagisa Aragaki, a third year who spends every waking moment perfecting her game, she’s inspired. Encouraged by their coach, Tachibana Kentarou, Ayano and Nagisa will hit the court and rally against opponents and rivals with amazing skills!\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Hanebado!",
+    "jp": "Hanebado!"
+  },
+  "releasedAt": "2018-07-02T00:00:00.000Z",
+  "finishedAt": "2018-10-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40576/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/40576/original.jpg",
+  "categories": [
+    "family",
+    "friendship",
+    "high school",
+    "school clubs",
+    "school life",
+    "seinen",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/hanebado"
+  ],
+  "relations": {
+    "kitsu": "40576",
+    "anidb": "13783",
+    "anilist/anime": "101045",
+    "animenewsnetwork": "20613",
+    "myanimelist/anime": "37259",
+    "thetvdb": "348294/1"
+  }
+}

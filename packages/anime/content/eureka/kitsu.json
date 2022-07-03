@@ -1,0 +1,24 @@
+{
+  "slug": "eureka",
+  "synopsis": "Animated music video for the song Eureka by Kirai Hiiragi featuring flower. Directed by Tokichiaki.",
+  "title": {
+    "en": "Eureka",
+    "jp": "Eureka"
+  },
+  "releasedAt": "2021-04-23T00:00:00.000Z",
+  "finishedAt": "2021-04-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44697/original.jpg",
+  "categories": [
+    "music",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44697",
+    "anilist/anime": "139120",
+    "myanimelist/anime": "49054"
+  }
+}

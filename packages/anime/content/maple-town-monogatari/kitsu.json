@@ -1,0 +1,29 @@
+{
+  "slug": "maple-town-monogatari",
+  "synopsis": "Maple Town Stories is about friendship, adventure and the troubles the children (Patty Rabbit, Bobby Bear and Fanny Fox) who are the main characters of the show, fall into. Wild Wolfe is a homeless thief who lives in the forest and usually steals from the town and does other mischief, but the kids are always there to stop him and set things right slowly making him understand the wrongs of his ways.\n(Source: ANN)",
+  "title": {
+    "en": "Maple Town",
+    "jp": "Maple Town Monogatari"
+  },
+  "releasedAt": "1986-01-19T00:00:00.000Z",
+  "finishedAt": "1987-01-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2014/original.jpg",
+  "categories": [
+    "fantasy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2014",
+    "anidb": "2078",
+    "anilist/anime": "2223",
+    "aozora": "Qjue2YTN1o",
+    "myanimelist/anime": "2223",
+    "thetvdb": "260280",
+    "thetvdb/series": "260280",
+    "trakt": "77248"
+  }
+}

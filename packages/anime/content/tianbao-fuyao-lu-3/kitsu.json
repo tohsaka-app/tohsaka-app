@@ -1,0 +1,26 @@
+{
+  "slug": "tianbao-fuyao-lu-3",
+  "synopsis": "Third season of Tian Bao Fuyao Lu.",
+  "title": {
+    "en": "Legend of Exorcism 3"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45536/poster_image/2938e5ea3afd2fb841bf5dd4d49e7f54.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45536",
+    "anilist/anime": "137296",
+    "myanimelist/anime": "50405"
+  }
+}

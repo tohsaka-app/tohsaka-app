@@ -1,0 +1,23 @@
+{
+  "slug": "yot-chan-no-fushigina-crayon",
+  "synopsis": "A little girl receives magic crayons from her Grandma that brings to life anything she draws.",
+  "title": {
+    "jp": "Yot-chan no Fushigina Crayon"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13021/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13021",
+    "aozora": "HnE9MeRglY",
+    "myanimelist/anime": "34192"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "mahou-shoujo-taisen",
+  "synopsis": "\"Mahou Shoujo Taisen\" is a project created from a variety show for the Otaku \"2.5 Chigen TV\" (2.5 Dimension TV). The characters are the mahou shoujo that represent each local town in Japan. The characters that won from the second illustration competitions that were held on pixiv will appear in the anime.\n(Source: MAL News)",
+  "title": {
+    "en": "Magica Wars",
+    "jp": "Mahou Shoujo Taisen"
+  },
+  "releasedAt": "2014-04-08T00:00:00.000Z",
+  "finishedAt": "2014-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8380/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8380/original.png",
+  "categories": [
+    "anthropomorphism",
+    "asia",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "magical girl",
+    "plot continuity",
+    "present"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/magica-wars"
+  ],
+  "relations": {
+    "kitsu": "8380",
+    "anidb": "10286",
+    "anilist/anime": "20530",
+    "aozora": "37izVChv52",
+    "myanimelist/anime": "21421",
+    "thetvdb": "278156/1",
+    "thetvdb/series": "278156",
+    "trakt": "75829"
+  }
+}

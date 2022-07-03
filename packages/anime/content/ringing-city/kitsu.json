@@ -1,0 +1,24 @@
+{
+  "slug": "Ringing-City",
+  "synopsis": "Big cities are glutted with information. Unconscious curiosity, hidden under apparent indifference, invites us into a noisy loop.",
+  "title": {
+    "jp": "Ringing City"
+  },
+  "releasedAt": "2017-03-03T00:00:00.000Z",
+  "finishedAt": "2017-03-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42856/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=DX952DiItp4"
+  ],
+  "relations": {
+    "kitsu": "42856",
+    "myanimelist/anime": "40475"
+  }
+}

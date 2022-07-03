@@ -1,0 +1,25 @@
+{
+  "slug": "chogattai-majutsu-robot-ginguiser-specials",
+  "synopsis": "Additional episodes from the DVD-BOX.",
+  "title": {
+    "jp": "Chogattai Majutsu Robot Ginguiser Specials"
+  },
+  "releasedAt": "2009-03-27T00:00:00.000Z",
+  "finishedAt": "2009-03-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7365/original.jpg",
+  "categories": [
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7365",
+    "anilist/anime": "16041",
+    "aozora": "dg6saEAYNC",
+    "myanimelist/anime": "16041"
+  }
+}

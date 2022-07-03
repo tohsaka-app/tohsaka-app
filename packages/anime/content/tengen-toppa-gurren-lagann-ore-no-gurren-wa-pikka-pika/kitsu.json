@@ -1,0 +1,33 @@
+{
+  "slug": "tengen-toppa-gurren-lagann-ore-no-gurren-wa-pikka-pika",
+  "synopsis": "A special episode bundled with the Nintendo DS game based on the series. Envious of seeing how Simon keeps his Lagann clean and neat, Kamina asks the mysterious Chitori to clean up his Gurren for him, unaware of her true intentions.\n(Source: Wikipedia) ",
+  "title": {
+    "jp": "Tengen Toppa Gurren Lagann: Ore no Gurren wa Pikka-Pika!!"
+  },
+  "releasedAt": "2007-10-25T00:00:00.000Z",
+  "finishedAt": "2007-10-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6267/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "earth",
+    "future",
+    "mecha",
+    "piloted robot",
+    "post apocalypse",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6267",
+    "anidb": "8918",
+    "anilist/anime": "10622",
+    "aozora": "zQeZEr12KT",
+    "myanimelist/anime": "10622"
+  }
+}

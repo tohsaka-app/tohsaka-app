@@ -1,0 +1,31 @@
+{
+  "slug": "horimiya",
+  "synopsis": "Do opposites attract? At school, Hori is a social butterfly but her life at home is anything but perfect. Left to raise her brother, she’s facing responsibilities that she’s not ready for.\n\nMeanwhile, under a brooding façade, Miyamura hides a gentle heart, along with piercings and tattoos. In a chance meeting, they both reveal a side they’ve never shown. Could this blossom into something new?\n\n(Source: Funimation)",
+  "title": {
+    "jp": "Horimiya"
+  },
+  "releasedAt": "2021-01-10T00:00:00.000Z",
+  "finishedAt": "2021-04-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43545/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43545/original.jpg",
+  "categories": [
+    "comedy",
+    "high school",
+    "romance",
+    "school life",
+    "shounen",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/horimiya/"
+  ],
+  "relations": {
+    "kitsu": "43545",
+    "anidb": "15733",
+    "anilist/anime": "124080",
+    "myanimelist/anime": "42897"
+  }
+}

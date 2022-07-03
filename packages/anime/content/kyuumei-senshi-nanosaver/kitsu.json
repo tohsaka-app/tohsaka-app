@@ -1,0 +1,24 @@
+{
+  "slug": "kyuumei-senshi-nanosaver",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Kyuumei Senshi Nanosaver"
+  },
+  "releasedAt": "1997-04-09T00:00:00.000Z",
+  "finishedAt": "1998-01-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9420/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9420",
+    "anidb": "4664",
+    "aozora": "mOtdrjXGoS",
+    "myanimelist/anime": "27393"
+  }
+}

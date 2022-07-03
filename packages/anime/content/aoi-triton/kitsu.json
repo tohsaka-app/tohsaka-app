@@ -1,0 +1,20 @@
+{
+  "slug": "aoi-triton",
+  "synopsis": "Pilot movie of <i>Umi no Triton</i>.",
+  "title": {
+    "jp": "Aoi Triton"
+  },
+  "releasedAt": "1971-10-01T00:00:00.000Z",
+  "finishedAt": "1971-10-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40867/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40867",
+    "aozora": "RLDg8QeTPz",
+    "myanimelist/anime": "36163"
+  }
+}

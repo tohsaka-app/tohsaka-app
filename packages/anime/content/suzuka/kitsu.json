@@ -1,0 +1,44 @@
+{
+  "slug": "suzuka",
+  "synopsis": "Yamato Akitsuki travels to Tokyo alone to study in one of the high schools located within the area. He lives in with his aunt who operates a public bath solely for the ladies in the local district and begins his normal high-school life. One day, he chances upon a girl in school and is immediately mesmerized by her beauty. He is shocked when he realizes later that the girl, Suzuka, is actually living next door to him. From then on, Yamato's ordinary life begins to change little by little.\n(Source: ANN)",
+  "title": {
+    "en": "Suzuka",
+    "jp": "Suzuka"
+  },
+  "releasedAt": "2005-07-07T00:00:00.000Z",
+  "finishedAt": "2005-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/357/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/357/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "high school",
+    "japan",
+    "love polygon",
+    "present",
+    "romance",
+    "school clubs",
+    "school life",
+    "sports",
+    "sudden girlfriend appearance",
+    "tokyo"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/suzuka/videos/episodes",
+    "http://www.hulu.com/suzuka"
+  ],
+  "relations": {
+    "kitsu": "357",
+    "anidb": "3203",
+    "anilist/anime": "390",
+    "aozora": "fZ4hvsYDeJ",
+    "hulu": "10372",
+    "myanimelist/anime": "390",
+    "thetvdb": "79111/1",
+    "thetvdb/series": "79111",
+    "trakt": "61402"
+  }
+}

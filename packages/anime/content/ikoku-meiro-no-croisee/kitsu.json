@@ -1,0 +1,38 @@
+{
+  "slug": "ikoku-meiro-no-croisee",
+  "synopsis": "The story takes place in the second half of the 19th century, as Japanese culture gains popularity in the West. A young Japanese girl, Yune, accompanies a French traveler, Oscar, on his journey back to France, and offers to help at the family's ironwork shop in Paris. Oscar's nephew and shop-owner Claude reluctantly accepts to take care of Yune, and we learn how those two, who have so little in common, get to understand each other and live together in the Paris of the 1800s.",
+  "title": {
+    "en": "Croisée in a Foreign Labyrinth The Animation",
+    "jp": "Ikoku Meiro no Croisée The Animation"
+  },
+  "releasedAt": "2011-07-04T00:00:00.000Z",
+  "finishedAt": "2011-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5950/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5950/original.jpg",
+  "categories": [
+    "earth",
+    "europe",
+    "france",
+    "historical",
+    "past",
+    "slice of life",
+    "stereotypes"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/croisee-in-a-foreign-labyrinth"
+  ],
+  "relations": {
+    "kitsu": "5950",
+    "anidb": "8180",
+    "anilist/anime": "9938",
+    "aozora": "0VQeAqVe5n",
+    "hulu": "50007568",
+    "myanimelist/anime": "9938",
+    "thetvdb": "249870/1",
+    "thetvdb/series": "249870",
+    "trakt": "63439"
+  }
+}

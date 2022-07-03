@@ -1,0 +1,28 @@
+{
+  "slug": "uchuu-senkan-yamato-2199-tsuioku-no-koukai",
+  "synopsis": "Recap of Uchuu Senkan Yamato 2199.",
+  "title": {
+    "jp": "Uchuu Senkan Yamato 2199: Tsuioku no Koukai"
+  },
+  "releasedAt": "2014-10-11T00:00:00.000Z",
+  "finishedAt": "2014-10-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8604/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "military",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8604",
+    "anidb": "10607",
+    "anilist/anime": "110732",
+    "aozora": "rINbj2BYJo",
+    "myanimelist/anime": "23931"
+  }
+}

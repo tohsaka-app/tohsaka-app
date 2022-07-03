@@ -1,0 +1,28 @@
+{
+  "slug": "shimajirou-no-wow",
+  "synopsis": "Fourth season of the Shimajirou children's television series.",
+  "title": {
+    "jp": "Shimajirou no Wow!"
+  },
+  "releasedAt": "2012-04-02T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9039/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9039",
+    "anidb": "9131",
+    "anilist/anime": "18941",
+    "aozora": "ZaPxi3lq6k",
+    "myanimelist/anime": "18941"
+  }
+}

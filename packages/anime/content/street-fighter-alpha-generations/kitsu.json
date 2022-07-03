@@ -1,0 +1,32 @@
+{
+  "slug": "street-fighter-alpha-generations",
+  "synopsis": "When Ryu returns to pay homage to his deceased mentor, Gouken, he is tormented by disturbing memories of his master's killer. In a quest to become a true martial arts master, Ryu sets out to hone his street fighting skills and to deliver himself from the haunting legacy of the Dark Hadou. But the ultimate test of his new power can only be accomplished through one last fateful confrontation with his arch-nemesis, Gouki (Akuma). \n(Source: AniDB)",
+  "title": {
+    "en": "Street Fighter Alpha: Generations",
+    "jp": "Street Fighter Alpha: Generations"
+  },
+  "releasedAt": "2005-10-25T00:00:00.000Z",
+  "finishedAt": "2005-10-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/842/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/842/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "martial arts",
+    "shounen"
+  ],
+  "externals": [
+    "https://tubitv.com/movies/404622/street_fighter_alpha_generations",
+    "https://www.youtube.com/watch?v=QfkjVttkFJ4"
+  ],
+  "relations": {
+    "kitsu": "842",
+    "anidb": "3658",
+    "anilist/anime": "950",
+    "aozora": "Thek3SFFgd",
+    "myanimelist/anime": "950"
+  }
+}

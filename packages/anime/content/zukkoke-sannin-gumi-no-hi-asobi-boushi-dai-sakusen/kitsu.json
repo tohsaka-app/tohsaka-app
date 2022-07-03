@@ -1,0 +1,23 @@
+{
+  "slug": "zukkoke-sannin-gumi-no-hi-asobi-boushi-dai-sakusen",
+  "synopsis": "An educational fire prevention video for kids featuring the Zukkoke Sannin-gumi cast.",
+  "title": {
+    "jp": "Zukkoke Sannin-gumi no Hi Asobi Boushi Daisakusen"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10142/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10142",
+    "aozora": "bpJWPvS4tP",
+    "myanimelist/anime": "28543"
+  }
+}

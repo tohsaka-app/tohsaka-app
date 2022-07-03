@@ -1,0 +1,24 @@
+{
+  "slug": "future-card-buddyfight-x-all-star-fight",
+  "synopsis": "The fifth season of Future Card Buddyfight.\n",
+  "title": {
+    "en": "Future Card Buddyfight X: All Star Fight",
+    "jp": "Future Card Buddyfight Battsu: All-Star Fight"
+  },
+  "releasedAt": "2018-04-07T00:00:00.000Z",
+  "finishedAt": "2018-05-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41031/original.jpg",
+  "categories": [
+    "card games",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41031",
+    "anilist/anime": "101385",
+    "myanimelist/anime": "37611"
+  }
+}

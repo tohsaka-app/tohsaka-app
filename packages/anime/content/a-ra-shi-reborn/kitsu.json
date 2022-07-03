@@ -1,0 +1,25 @@
+{
+  "slug": "a-ra-shi-reborn",
+  "synopsis": "Music Video Featuring the characters from One Piece.",
+  "title": {
+    "jp": "A-ra-shi: Reborn"
+  },
+  "releasedAt": "2020-01-03T00:00:00.000Z",
+  "finishedAt": "2020-01-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43425/original.png",
+  "categories": [
+    "fantasy",
+    "fantasy world",
+    "music",
+    "pirate"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43425",
+    "anilist/anime": "114761",
+    "myanimelist/anime": "40970"
+  }
+}

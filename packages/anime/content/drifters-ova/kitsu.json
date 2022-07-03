@@ -1,0 +1,26 @@
+{
+  "slug": "drifters-ova",
+  "synopsis": "Short anime bundled with the 10th and final volume of the Hellsing Ultimate OVAs.",
+  "title": {
+    "en": "",
+    "jp": "Drifters (OVA)"
+  },
+  "releasedAt": "2012-12-26T00:00:00.000Z",
+  "finishedAt": "2012-12-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7555/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7555/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "isekai",
+    "samurai",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7555"
+  }
+}

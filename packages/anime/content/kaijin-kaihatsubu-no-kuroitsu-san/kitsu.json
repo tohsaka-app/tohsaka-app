@@ -1,0 +1,32 @@
+{
+  "slug": "kaijin-kaihatsubu-no-kuroitsu-san",
+  "synopsis": "The story centers on the Kuroitsu, an assistant researcher in the superhuman research &amp; development department of Agastya, a villainous secret organization that battles with heroes who try to save the world. Kuroitsu lives a busy life in Agastya, caught between the absurd requests of her bosses; making presentations; implementing new features into superhumans; and getting results within the allotted time, budget, and spec requests; all without vacation.\n(Source: Anime News Network)",
+  "title": {
+    "en": "Kuroitsu-san in the Superhuman Research & Development Department",
+    "jp": "Kaijin Kaihatsubu no Kuroitsu-san"
+  },
+  "releasedAt": "2022-01-09T00:00:00.000Z",
+  "finishedAt": "2022-04-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44876/poster_image/e112020c0ff1554c618de7986fcd40d5.png",
+  "coverUrl": "https://media.kitsu.io/anime/44876/cover_image/6c47de683fcfde57e825abbe18be2a31.png",
+  "categories": [
+    "action",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "science fiction",
+    "seinen",
+    "working life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/miss-kuroitsu-from-the-monster-development-department"
+  ],
+  "relations": {
+    "kitsu": "44876",
+    "anilist/anime": "136428",
+    "myanimelist/anime": "49385"
+  }
+}

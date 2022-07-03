@@ -1,0 +1,24 @@
+{
+  "slug": "sin-nanatsu-no-taizai-specials",
+  "synopsis": "Episodes 13 - 19",
+  "title": {
+    "en": "Seven Mortal Sins Specials",
+    "jp": "Sin: Nanatsu no Taizai Zange-roku Specials"
+  },
+  "releasedAt": "2017-06-28T00:00:00.000Z",
+  "finishedAt": "2017-12-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13436/original.jpg",
+  "categories": [
+    "ecchi",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13436",
+    "anilist/anime": "98621",
+    "myanimelist/anime": "35418"
+  }
+}

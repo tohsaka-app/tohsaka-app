@@ -1,0 +1,27 @@
+{
+  "slug": "menghuan-xiyou-2",
+  "synopsis": "A continuation of Menghuan Xiyou.",
+  "title": {
+    "jp": "Menghuan Xiyou 2"
+  },
+  "releasedAt": "2015-04-10T00:00:00.000Z",
+  "finishedAt": "2015-05-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13176/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13176",
+    "anilist/anime": "103472",
+    "aozora": "nLGxRJADbt",
+    "myanimelist/anime": "33601"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "eto-wa-merry-go-round",
+  "synopsis": "A <i>Minna no Uta</i> song about the signs of the zodiac and the types of personalities attributed to each animal.",
+  "title": {
+    "jp": "Eto wa Merry-Go-Round"
+  },
+  "releasedAt": "1992-12-01T00:00:00.000Z",
+  "finishedAt": "1992-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40860/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40860",
+    "aozora": "KaGVcX7hBb",
+    "myanimelist/anime": "36057"
+  }
+}

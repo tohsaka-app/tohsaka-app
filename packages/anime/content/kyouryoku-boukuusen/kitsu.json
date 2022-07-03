@@ -1,0 +1,25 @@
+{
+  "slug": "kyouryoku-boukuusen",
+  "synopsis": "Animal troops fight against the enemy in a World War II setting.",
+  "title": {
+    "jp": "Kyouryoku Boukuusen"
+  },
+  "releasedAt": "1942-01-01T00:00:00.000Z",
+  "finishedAt": "1942-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10409/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10409",
+    "anilist/anime": "104360",
+    "aozora": "PFxti9dtrY",
+    "myanimelist/anime": "28067"
+  }
+}

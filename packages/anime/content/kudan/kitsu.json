@@ -1,0 +1,24 @@
+{
+  "slug": "kudan",
+  "synopsis": "As oppose to the mythological creature Minotaur, a monsters of western culture, a Japanese monster Kudan has a human head and the body of cow. Kudan is born from female cow. It speaks human language, predicts significant incidents such as war or disaster and dies in three days. This story is about a man who is accidentally transformed into a Kudan.\n(Source: Official website)",
+  "title": {
+    "jp": "Kudan"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5295/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5295",
+    "anidb": "7419",
+    "anilist/anime": "8332",
+    "aozora": "MGKf8kYiBX",
+    "myanimelist/anime": "8332"
+  }
+}

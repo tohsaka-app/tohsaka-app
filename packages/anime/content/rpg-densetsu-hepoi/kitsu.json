@@ -1,0 +1,28 @@
+{
+  "slug": "rpg-densetsu-hepoi",
+  "synopsis": "The adventure of Hepoi, a hero of heporis, Ryuuto, the prince of Dragonia, Miiya Miiya a fairy looks like a cat, and Bunzaemon, a merchant, to defeat Dracunes, the King of dark side castles.",
+  "title": {
+    "jp": "RPG Densetsu Hepoi"
+  },
+  "releasedAt": "1990-10-06T00:00:00.000Z",
+  "finishedAt": "1991-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5590/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "juujin"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5590",
+    "anidb": "6518",
+    "anilist/anime": "9061",
+    "aozora": "zbf5VkDaG5",
+    "myanimelist/anime": "9061"
+  }
+}

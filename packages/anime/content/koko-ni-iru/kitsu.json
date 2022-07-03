@@ -1,0 +1,24 @@
+{
+  "slug": "koko-ni-iru",
+  "synopsis": "A short directed by Yasuo Muroi.",
+  "title": {
+    "jp": "Koko ni Iru"
+  },
+  "releasedAt": "2010-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5728/original.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5728",
+    "anilist/anime": "9423",
+    "aozora": "w7sEFffYmb",
+    "myanimelist/anime": "9423"
+  }
+}

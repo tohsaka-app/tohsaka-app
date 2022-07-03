@@ -1,0 +1,29 @@
+{
+  "slug": "the-devil-is-a-part-timer-2",
+  "synopsis": "Second season of Hataraku Maou-sama!",
+  "title": {
+    "en": "The Devil is a Part-Timer! 2",
+    "jp": "Hataraku Maou-sama! 2"
+  },
+  "releasedAt": "2022-07-14T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "upcoming",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44113/poster_image/dc6e3be3ae4feb3ec499cc3bcaa06793.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44113/cover_image/19b9ca0168dd75e849ecb5610a127dc2.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "fantasy",
+    "romance",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44113",
+    "anilist/anime": "130592",
+    "myanimelist/anime": "48413"
+  }
+}

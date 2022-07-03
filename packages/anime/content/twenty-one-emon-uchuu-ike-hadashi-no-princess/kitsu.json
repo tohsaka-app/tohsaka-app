@@ -1,0 +1,27 @@
+{
+  "slug": "twenty-one-emon-uchuu-ike-hadashi-no-princess",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "en": "21-Emon: To Space! The Barefoot Princess",
+    "jp": "21 Emon Uchuu ike! Hadashi no Princess"
+  },
+  "releasedAt": "1992-03-07T00:00:00.000Z",
+  "finishedAt": "1992-03-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4414/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4414",
+    "anidb": "4943",
+    "anilist/anime": "6074",
+    "aozora": "40SE3pKyrX",
+    "myanimelist/anime": "6074"
+  }
+}

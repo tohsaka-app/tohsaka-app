@@ -1,0 +1,43 @@
+{
+  "slug": "mobile-police-patlabor",
+  "synopsis": "In the future, advanced robotics has created heavy robots (\"labors\") for use in a variety of functions: construction, fire-fighting, military, and more. However, though the robots are only machines, their operators are also only human—and humans sometimes turn to crime. Since a heavy labor unit can be a dangerous weapon, the police of the future are set to fight fire with fire, using advanced patrol labor units, \"patlabors.\" This is the story of the Second Special Vehicles Division, a motley crew of patlabor policemen and women doing their best to fight crime and live a normal life.\n(Source: ANN)",
+  "title": {
+    "en": "Mobile Police Patlabor",
+    "jp": "Kidou Keisatsu Patlabor: On Television"
+  },
+  "releasedAt": "1989-10-11T00:00:00.000Z",
+  "finishedAt": "1990-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/291/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/291/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "cops",
+    "crime",
+    "earth",
+    "future",
+    "japan",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "tokyo",
+    "working life"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/patlabor-the-mobile-police-tv"
+  ],
+  "relations": {
+    "kitsu": "291",
+    "anidb": "778",
+    "anilist/anime": "324",
+    "aozora": "nf5Isda1EK",
+    "myanimelist/anime": "324",
+    "thetvdb": "80789/1",
+    "thetvdb/series": "80789",
+    "trakt": "62292"
+  }
+}

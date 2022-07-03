@@ -1,0 +1,36 @@
+{
+  "slug": "mushishi-zoku-shou-2",
+  "synopsis": "Second season of Mushishi Zoku Shou.",
+  "title": {
+    "jp": "Mushishi Zoku Shou 2nd Season"
+  },
+  "releasedAt": "2014-10-19T00:00:00.000Z",
+  "finishedAt": "2014-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8581/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8581/original.jpg",
+  "categories": [
+    "adventure",
+    "countryside",
+    "fantasy",
+    "historical",
+    "mystery",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/mushi-shi",
+    "https://www.amazon.com/Hidden-Cove/dp/B01N0Z7HHL",
+    "https://www.hulu.com/mushi-shi--next-passage-"
+  ],
+  "relations": {
+    "kitsu": "8581",
+    "anidb": "10571",
+    "anilist/anime": "20751",
+    "aozora": "xbdf5FaBOc",
+    "myanimelist/anime": "24701",
+    "thetvdb": "79214",
+    "trakt": "26750"
+  }
+}

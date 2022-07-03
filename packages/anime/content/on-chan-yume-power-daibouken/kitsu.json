@@ -1,0 +1,25 @@
+{
+  "slug": "on-chan-yume-power-daibouken",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "en": "On-chan",
+    "jp": "on-chan, Yume Power Daibouken!"
+  },
+  "releasedAt": "2003-08-05T00:00:00.000Z",
+  "finishedAt": "2003-08-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5254/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5254",
+    "anidb": "999",
+    "anilist/anime": "8229",
+    "aozora": "FhmFj48KfO",
+    "myanimelist/anime": "8229"
+  }
+}

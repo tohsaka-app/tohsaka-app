@@ -1,0 +1,28 @@
+{
+  "slug": "gundam-g-no-reconguista-movie-ii-bellri-gekishin",
+  "synopsis": "The second film compiling the Gundam: G no Reconguista TV series.",
+  "title": {
+    "jp": "Gundam: G no Reconguista Movie II - Bellri Gekishin"
+  },
+  "releasedAt": "2020-02-21T00:00:00.000Z",
+  "finishedAt": "2020-02-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43580/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43580/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43580",
+    "anidb": "13108",
+    "anilist/anime": "114334",
+    "myanimelist/anime": "40890"
+  }
+}

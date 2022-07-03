@@ -1,0 +1,25 @@
+{
+  "slug": "romeo-no-aoi-sora-specials",
+  "synopsis": "A summary of the Romeo no Aoi Sora full series aired as a TV specials.",
+  "title": {
+    "jp": "Romeo no Aoi Sora Specials"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2001-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9035/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "historical",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9035",
+    "aozora": "dAN8uVdS0j",
+    "myanimelist/anime": "23581"
+  }
+}

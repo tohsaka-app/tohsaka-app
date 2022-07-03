@@ -1,0 +1,26 @@
+{
+  "slug": "suna-no-wakusei",
+  "synopsis": "Music video for \"Suna no Wakusei,\" the theme song for Magical Mirai 2017.",
+  "title": {
+    "en": "Sand Planet",
+    "jp": "Suna no Wakusei feat. Hatsune Miku"
+  },
+  "releasedAt": "2017-07-20T00:00:00.000Z",
+  "finishedAt": "2017-07-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13678/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13678/original.png",
+  "categories": [
+    "desert",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13678",
+    "anilist/anime": "102452",
+    "aozora": "i3KtWEvjrH",
+    "myanimelist/anime": "36173"
+  }
+}

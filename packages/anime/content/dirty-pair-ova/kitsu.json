@@ -1,0 +1,43 @@
+{
+  "slug": "dirty-pair-ova",
+  "synopsis": "Set in the future Kei and Yuri are Trouble Consultants for The 3WA. Code Named \"Lovely Angels\", but, they are known throughout the galaxy as The Dirty Pair. They always solve their case, but, not without causing collateral damage and mayhem.\n(Source: ANN)",
+  "title": {
+    "jp": "Dirty Pair OVA"
+  },
+  "releasedAt": "1987-12-21T00:00:00.000Z",
+  "finishedAt": "1988-04-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3520/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3520/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "cops",
+    "crime",
+    "detective",
+    "ecchi",
+    "future",
+    "gunfights",
+    "law and order",
+    "other planet",
+    "science fiction",
+    "shipboard",
+    "space",
+    "special squads",
+    "stereotypes",
+    "violence"
+  ],
+  "externals": [
+    "http://www.hulu.com/dirty-pair-ova"
+  ],
+  "relations": {
+    "kitsu": "3520",
+    "anidb": "882",
+    "anilist/anime": "4200",
+    "aozora": "l2EXIraNJw",
+    "myanimelist/anime": "4200"
+  }
+}

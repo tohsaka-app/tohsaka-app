@@ -1,0 +1,20 @@
+{
+  "slug": "shimajirou-to-tanjoubi-no-ohoshi-sama",
+  "synopsis": "",
+  "title": {
+    "jp": "Shimajirou to Tanjoubi no Ohoshi-sama"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41665/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41665",
+    "anilist/anime": "131953",
+    "myanimelist/anime": "36759"
+  }
+}

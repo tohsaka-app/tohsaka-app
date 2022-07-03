@@ -1,0 +1,23 @@
+{
+  "slug": "trapxtrap-feat-hatsune-miku",
+  "synopsis": "Music video for TRAPxTRAP feat. Hatsune Miku by Hachioji-P.",
+  "title": {
+    "jp": "TRAPxTRAP feat. Hatsune Miku"
+  },
+  "releasedAt": "2013-01-25T00:00:00.000Z",
+  "finishedAt": "2013-01-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43512/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=c2fqMoTq_tQ"
+  ],
+  "relations": {
+    "kitsu": "43512",
+    "myanimelist/anime": "40559"
+  }
+}

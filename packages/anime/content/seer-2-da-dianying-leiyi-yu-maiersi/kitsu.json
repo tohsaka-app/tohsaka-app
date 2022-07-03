@@ -1,0 +1,22 @@
+{
+  "slug": "seer-2-da-dianying-leiyi-yu-maiersi",
+  "synopsis": "赛尔号大电影2之雷伊与迈尔斯\nSeer: Ray yu Miles\nSai Er Hao 2: Leiyi Yu Maiersi",
+  "title": {},
+  "releasedAt": "2012-06-28T00:00:00.000Z",
+  "finishedAt": "2012-06-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44046/original.png",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44046",
+    "anilist/anime": "129551"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "greek-roman-sinhwa-olympus-guardian-movie",
+  "synopsis": "A Korean animated full-feature film about the gods in ancient Greece. It was created to teach young people about ancient Greece and its myths. ",
+  "title": {
+    "jp": "Greek Roman Sinhwa: Olympus Guardian (Movie)"
+  },
+  "releasedAt": "2005-07-28T00:00:00.000Z",
+  "finishedAt": "2005-07-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5758/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5758",
+    "anidb": "1853",
+    "anilist/anime": "9501",
+    "aozora": "e7etQnoMQm",
+    "myanimelist/anime": "9501"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "haikyuu-movie-3-sainou-to-sense",
+  "synopsis": "Recap film that will cover the match against Aobajosai High School that took place in the second season.\n\n(Source: MAL News)",
+  "title": {
+    "jp": "Haikyuu!! Movie 3: Sainou to Sense"
+  },
+  "releasedAt": "2017-09-15T00:00:00.000Z",
+  "finishedAt": "2017-09-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13655/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13655/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/haikyu"
+  ],
+  "relations": {
+    "kitsu": "13655",
+    "anidb": "12982",
+    "anilist/anime": "98884",
+    "myanimelist/anime": "35110"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "konchuu-monogatari-tentoumu-chu-to-mitsubachi-hatsu-chu",
+  "synopsis": "An animated program featuring members of AKB48, SKE48, NMB48, and HKT48.",
+  "title": {
+    "jp": "Konchuu Monogatari Tentoumu Chu! to Mitsubachi Hatsu Chu!"
+  },
+  "releasedAt": "2014-04-29T00:00:00.000Z",
+  "finishedAt": "2014-07-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10405/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10405",
+    "aozora": "j2zb8SBRSh",
+    "myanimelist/anime": "29738"
+  }
+}

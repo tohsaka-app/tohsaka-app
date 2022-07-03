@@ -1,0 +1,35 @@
+{
+  "slug": "happy-seven-the-tv-manga",
+  "synopsis": "Amano Sakogami is a girl who has an unnatural amount of bad luck. One day, she stumbles into the clubroom of the Better Fortune Research Organization, which consists of a boy and seven other girls who secretly use the power of the luck deities to fight against the Magatsugami, monsters who can affect a person's luck &amp; well-being. Amano soon becomes the club's manager, and joins the club in their fight against the Magatsugami and their controller, Kukitomoe.\n(Source: ANN) ",
+  "title": {
+    "jp": "Happy Seven: The TV Manga"
+  },
+  "releasedAt": "2005-10-02T00:00:00.000Z",
+  "finishedAt": "2005-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1073/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "japan",
+    "middle school",
+    "present",
+    "school clubs",
+    "school life",
+    "slapstick",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1073",
+    "anidb": "3301",
+    "anilist/anime": "1193",
+    "aozora": "mfYtVJRHHc",
+    "myanimelist/anime": "1193",
+    "thetvdb": "107431/1",
+    "thetvdb/series": "107431",
+    "trakt": "37416"
+  }
+}

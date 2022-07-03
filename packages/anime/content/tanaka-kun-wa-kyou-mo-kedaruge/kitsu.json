@@ -1,0 +1,25 @@
+{
+  "slug": "tanaka-kun-wa-kyou-mo-kedaruge",
+  "synopsis": "A series of shorts featuring super-deformed characters from the the show Tanaka-kun wa Itsumo Kedaruge.",
+  "title": {
+    "jp": "Tanaka-kun wa Kyou mo Kedaruge"
+  },
+  "releasedAt": "2016-04-07T00:00:00.000Z",
+  "finishedAt": "2016-07-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12056/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12056/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12056",
+    "anilist/anime": "21800",
+    "aozora": "bYBseXwxHH",
+    "myanimelist/anime": "33004"
+  }
+}

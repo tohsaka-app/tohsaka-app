@@ -1,0 +1,25 @@
+{
+  "slug": "pokemon-xy-sora-no-hahen",
+  "synopsis": "Pocket Monsters XY: Sora no Hahen, is an anime movie tied to Pokémon XY television anime, that screened in two Tokyo planetariums. Like previous Pokémon planetarium anime, this one was projected onto 360-degree panoramic domes.\nThe story follows Satoshi and his friends when they visit the Pokémon Aerospace eXploration Agency (a nod to the real-life Japan Aerospace Exploration Agency).\nThey are thrilled by stories from PAXA's astronauts about the wonders of space and the possibility of Pokémon living in space. Then, just as they hear about the dangers posed by space debris, sirens suddenly ring out. Team Rocket have plotted to seize control of PAXA and have apparently infiltrated the facility.\nAt that critical moment, trouble develops in a control system for artificial satellites. Large pieces of space debris have collided, causing fears of even more debris.\n(Source: ANN)",
+  "title": {
+    "jp": "Pokemon XY: Sora no Hahen"
+  },
+  "releasedAt": "2014-07-12T00:00:00.000Z",
+  "finishedAt": "2014-07-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8561/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8561",
+    "aozora": "4DS7LvO9n4",
+    "myanimelist/anime": "23849"
+  }
+}

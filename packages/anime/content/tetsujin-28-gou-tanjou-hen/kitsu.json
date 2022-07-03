@@ -1,0 +1,24 @@
+{
+  "slug": "tetsujin-28-gou-tanjou-hen",
+  "synopsis": "Recap of episodes 1-11 of Tetsujin 28-gou, originally broadcasted between episodes 11 and 12 as a New Year special.",
+  "title": {
+    "jp": "Tetsujin 28-gou: Tanjou-hen"
+  },
+  "releasedAt": "1964-01-01T00:00:00.000Z",
+  "finishedAt": "1964-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10216/original.jpg",
+  "categories": [
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10216",
+    "aozora": "S2eirI44i1",
+    "myanimelist/anime": "27993"
+  }
+}

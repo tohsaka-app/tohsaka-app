@@ -1,0 +1,25 @@
+{
+  "slug": "chingou-muchabee",
+  "synopsis": "A goofy comedy series with various stories featuring the same set of characters.\n(Source: AniDB)",
+  "title": {
+    "jp": "Chingou Muchabee"
+  },
+  "releasedAt": "1971-02-15T00:00:00.000Z",
+  "finishedAt": "1971-03-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9230/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9230",
+    "anidb": "6973",
+    "anilist/anime": "17457",
+    "aozora": "PVejje7rWA",
+    "myanimelist/anime": "17457"
+  }
+}

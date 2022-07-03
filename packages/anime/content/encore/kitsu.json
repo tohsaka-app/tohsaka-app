@@ -1,0 +1,25 @@
+{
+  "slug": "encore",
+  "synopsis": "Music video for the song Encore by YOASOBI.",
+  "title": {
+    "en": "Encore",
+    "jp": "Encore"
+  },
+  "releasedAt": "2021-01-18T00:00:00.000Z",
+  "finishedAt": "2021-01-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44698/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/vcGbefQBvJ4"
+  ],
+  "relations": {
+    "kitsu": "44698",
+    "anilist/anime": "130257",
+    "myanimelist/anime": "49103"
+  }
+}

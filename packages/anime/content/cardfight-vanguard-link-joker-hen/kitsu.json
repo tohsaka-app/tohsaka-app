@@ -1,0 +1,42 @@
+{
+  "slug": "cardfight-vanguard-link-joker-hen",
+  "synopsis": "A few months have passed since the VF Circuit, and Aichi is now in High School. However Aichi is in a different high school than most of his friends, a high school where the instructors focus on looking towards the future. One day Aichi admits he thinks Cardfight can be a future people can believe in, but in order to prove it Aichi must use his new deck, a deck in which Royal Paladins and Gold Paladins are combined as one force. Slowly but surely Aichi must gain friends through Cardfighting and help his new team win the newly formed high school cardfighting championships.\n(Source: ANN)",
+  "title": {
+    "en": "Cardfight!! Vanguard Link Joker",
+    "jp": "Cardfight!! Vanguard: Link Joker-hen"
+  },
+  "releasedAt": "2013-01-13T00:00:00.000Z",
+  "finishedAt": "2014-03-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7283/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7283/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "card games",
+    "demon",
+    "earth",
+    "high school",
+    "japan",
+    "proxy battles",
+    "school clubs",
+    "school life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/cardfight-vanguard-link-joker-season-3"
+  ],
+  "relations": {
+    "kitsu": "7283",
+    "anidb": "9437",
+    "anilist/anime": "15611",
+    "aozora": "FalqVIcCO6",
+    "myanimelist/anime": "15611",
+    "thetvdb": "245821/3",
+    "thetvdb/season": "509978",
+    "thetvdb/series": "245821",
+    "trakt": "35290"
+  }
+}

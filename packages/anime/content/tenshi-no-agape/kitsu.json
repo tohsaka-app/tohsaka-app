@@ -1,0 +1,28 @@
+{
+  "slug": "tenshi-no-agape",
+  "synopsis": "Music video for the song Tenshi no agape performed by Amane Kanata.",
+  "title": {
+    "en": "Angel Agape",
+    "jp": "Tenshi no Agape"
+  },
+  "releasedAt": "2021-12-27T00:00:00.000Z",
+  "finishedAt": "2021-12-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45672/poster_image/272ae0b7ea55813c3b0c40f8c9acab66.png",
+  "coverUrl": "https://media.kitsu.io/anime/45672/cover_image/ce4cb3d8f55c3ba8e03ee2a22ae4bd48.jpg",
+  "categories": [
+    "angel",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=zREufEpj0zM"
+  ],
+  "relations": {
+    "kitsu": "45672",
+    "anilist/anime": "143133",
+    "myanimelist/anime": "51564"
+  }
+}

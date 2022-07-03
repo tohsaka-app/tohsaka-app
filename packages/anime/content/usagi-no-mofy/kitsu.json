@@ -1,0 +1,25 @@
+{
+  "slug": "usagi-no-mofy",
+  "synopsis": "The story of a white rabbit and her friends.",
+  "title": {
+    "en": "",
+    "jp": "Usagi no Mofy"
+  },
+  "releasedAt": "2012-10-01T00:00:00.000Z",
+  "finishedAt": "2012-12-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9950/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9950",
+    "anidb": "9297",
+    "anilist/anime": "112145",
+    "aozora": "iuQDAlhcmT",
+    "myanimelist/anime": "21713"
+  }
+}

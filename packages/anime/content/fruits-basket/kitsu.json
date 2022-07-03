@@ -1,0 +1,50 @@
+{
+  "slug": "fruits-basket",
+  "synopsis": "The Sohma family has been cursed for generations. When a member of the clan is embraced by a person of the opposite sex, they transform into an animal from the Chinese Zodiac! After keeping their secret hidden for years, their unusual household is turned upside down when young Tohru stumbles into their life. She must promise to keep their secret as one of her own—or face the consequences!\n\n(Source: FUNimation)",
+  "title": {
+    "en": "Fruits Basket",
+    "jp": "Fruits Basket"
+  },
+  "releasedAt": "2001-07-05T00:00:00.000Z",
+  "finishedAt": "2001-12-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/99/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/99/original.jpg",
+  "categories": [
+    "angst",
+    "asia",
+    "bishounen",
+    "comedy",
+    "contemporary fantasy",
+    "drama",
+    "earth",
+    "fantasy",
+    "high school",
+    "japan",
+    "magic",
+    "present",
+    "reverse harem",
+    "romance",
+    "school life",
+    "shoujo",
+    "slapstick",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.hulu.com/fruits-basket",
+    "https://www.funimation.com/shows/59272/"
+  ],
+  "relations": {
+    "kitsu": "99",
+    "anidb": "34",
+    "anilist/anime": "120",
+    "aozora": "h51ToXMFNe",
+    "hulu": "50000421",
+    "myanimelist/anime": "120",
+    "thetvdb": "78900/1",
+    "thetvdb/series": "78900",
+    "trakt": "36784"
+  }
+}

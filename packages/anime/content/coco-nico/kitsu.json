@@ -1,0 +1,25 @@
+{
+  "slug": "coco-nico",
+  "synopsis": "CoCO and her sister NiCO are under training to become graceful and elegant cat princesses. They are watched over and trained by the strict but caring Lady Oppenheimer. CoCO and NiCO keeps Lady Oppenheimer quite busy as they try their best to learn the ways of a princess, and have fun with a little mischief along the way.\n(Source: Japan International Broadcasting)",
+  "title": {
+    "jp": "CoCO & NiCO"
+  },
+  "releasedAt": "2016-04-08T00:00:00.000Z",
+  "finishedAt": "2017-02-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12114/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12114",
+    "anidb": "11993",
+    "anilist/anime": "21706",
+    "aozora": "CAo2smu2V4",
+    "myanimelist/anime": "32944"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "sono-ie-no-namae",
+  "synopsis": "This place is where my grand parents, my parents, and I once lived. Even though I lose my memories and feelings of it, it does exist there and keeps to be in existence.\n\nGraduate Work 2015 by Ataru Sakagami, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "A Place to Name",
+    "jp": "Sono Ie no Namae"
+  },
+  "releasedAt": "2015-03-07T00:00:00.000Z",
+  "finishedAt": "2015-03-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44675/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/xldjKKqTM04"
+  ],
+  "relations": {
+    "kitsu": "44675",
+    "anilist/anime": "106557"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "guilty-gear",
+  "synopsis": "An animated promotional trailer for Guilty Gear X, a game for PlayStation 2 and PC. Included in Guilty Gear X2's extras.",
+  "title": {
+    "jp": "Guilty Gear"
+  },
+  "releasedAt": "2003-04-02T00:00:00.000Z",
+  "finishedAt": "2003-04-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41854/original.jpg",
+  "categories": [
+    "action",
+    "martial arts",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41854",
+    "myanimelist/anime": "37857"
+  }
+}

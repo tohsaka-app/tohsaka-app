@@ -1,0 +1,33 @@
+{
+  "slug": "pokemon-best-wishes-season-2-kyurem-vs-seikenshi",
+  "synopsis": "The 15th Pokemon movie and the 2nd 'Best Wishes!' movie. It will feature the legendary Pokemon Kyurem (appearing also in its new Black Kyurem and White Kyurem formes.) The Legendary Musketeer Pokemon-Cobalion, Terrakion and Virizion-will appear alongside their newly revealed 4th member, Keldeo.",
+  "title": {
+    "en": "Pokemon the Movie: Kyurem VS. The Sword of Justice",
+    "jp": "Pokemon Best Wishes! Season 2: Kyurem vs. Seikenshi"
+  },
+  "releasedAt": "2012-07-14T00:00:00.000Z",
+  "finishedAt": "2012-07-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6786/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [
+    "https://www.hulu.com/movie/pokemon-the-movie-kyurem-vs-the-sword-of-justice-481806a0-b55f-41fc-b346-7be44b869b71"
+  ],
+  "relations": {
+    "kitsu": "6786",
+    "anidb": "8826",
+    "anilist/anime": "12671",
+    "aozora": "ETdb9YyQnz",
+    "myanimelist/anime": "12671"
+  }
+}

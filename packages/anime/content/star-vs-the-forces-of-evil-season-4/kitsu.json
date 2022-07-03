@@ -1,0 +1,26 @@
+{
+  "slug": "star-vs-the-forces-of-evil-season-4",
+  "synopsis": "Season 4 of Star vs. the Forces of Evil.",
+  "title": {},
+  "releasedAt": "2019-03-10T00:00:00.000Z",
+  "finishedAt": "2019-05-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41159/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41159/original.png",
+  "categories": [
+    "anime influenced",
+    "comedy",
+    "demon",
+    "drama",
+    "fantasy",
+    "friendship",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41159"
+  }
+}

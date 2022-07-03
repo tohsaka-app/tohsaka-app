@@ -1,0 +1,23 @@
+{
+  "slug": "ringo-to-shoujo",
+  "synopsis": "A short film by Nobuhiro Aihara where he projects abstract animation onto various surfaces of an old building.\n",
+  "title": {
+    "en": "The Apple and the Girl",
+    "jp": "Ringo to Shoujo"
+  },
+  "releasedAt": "1982-12-01T00:00:00.000Z",
+  "finishedAt": "1982-12-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43326/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43326",
+    "anilist/anime": "121045",
+    "myanimelist/anime": "42234"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "appleseed",
+  "synopsis": "Appleseed takes place in the aftermath of World War III, where the General Management Control Office has constructed the experimental city known as Olympus. Built to be a paradise on Earth, Olympus is inhabited by humans, cyborgs, and bioroids (genetically engineered humans designed for increased physical capabilities and decreased emotional capabilities). Bioroids run and control all of the administrative functions of Olympus, ensuring that the city remains the utopian society it was meant to be for all of its citizens. But for some people living in Utopia, the city has become less of a home and more of a cage.\nPolice officer Calon Mautholos has grown to despise Olympus following his wife's suicide, blaming her death on the lack of creative freedom caused by the rules binding the citizens of the city. As his hatred for the city grows, Calon conspires with the terrorist A.J. Sebastian to destroy the Legislature of the Central Management Bureau to send the rules of Olympus that killed his wife tumbling down. But when Calon discovers it is not political malcontent, but rather hatred for bioroids that motives Sebastian, Calon turns renegade and gains the attention of city officials. Deunan Knute and her partner Briareos of the ESWAT counter-terrorism unit are dispatched to hunt down and stop Calon and Sebastian... by any means necessary!",
+  "title": {
+    "jp": "Appleseed"
+  },
+  "releasedAt": "1988-04-21T00:00:00.000Z",
+  "finishedAt": "1988-04-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/834/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/834/original.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "cops",
+    "cyborg",
+    "earth",
+    "future",
+    "gunfights",
+    "human enhancement",
+    "law and order",
+    "mecha",
+    "power suit",
+    "science fiction",
+    "special squads"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "834",
+    "anidb": "166",
+    "anilist/anime": "937",
+    "aozora": "72aPWZit1Y",
+    "hulu": "50008144",
+    "myanimelist/anime": "937"
+  }
+}

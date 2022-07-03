@@ -1,0 +1,23 @@
+{
+  "slug": "mainichi-jk-kikaku",
+  "synopsis": "",
+  "title": {
+    "jp": "Mainichi JK Kikaku"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41435/original.jpg",
+  "categories": [
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41435",
+    "anidb": "13316",
+    "anilist/anime": "102929",
+    "myanimelist/anime": "36006"
+  }
+}

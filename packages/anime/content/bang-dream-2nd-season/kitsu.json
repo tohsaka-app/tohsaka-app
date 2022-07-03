@@ -1,0 +1,36 @@
+{
+  "slug": "bang-dream-2nd-season",
+  "synopsis": "Second season of BanG Dream! series.\n",
+  "title": {
+    "en": "BanG Dream! S2",
+    "jp": "BanG Dream! 2nd Season"
+  },
+  "releasedAt": "2019-01-03T00:00:00.000Z",
+  "finishedAt": "2019-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41289/original.jpg",
+  "categories": [
+    "all girls school",
+    "comedy",
+    "high school",
+    "japan",
+    "music",
+    "musical band",
+    "plot continuity",
+    "school clubs",
+    "school life",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/bang-dream",
+    "https://www.hidive.com/tv/bang-dream-s2"
+  ],
+  "relations": {
+    "kitsu": "41289",
+    "anidb": "14075",
+    "anilist/anime": "101633",
+    "myanimelist/anime": "37869"
+  }
+}

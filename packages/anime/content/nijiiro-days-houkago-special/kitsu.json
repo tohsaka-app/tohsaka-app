@@ -1,0 +1,25 @@
+{
+  "slug": "nijiiro-days-houkago-special",
+  "synopsis": "Recap of the first 12 episodes of Nijiiro Days.",
+  "title": {
+    "jp": "Nijiiro Days: Houkago Special"
+  },
+  "releasedAt": "2016-04-03T00:00:00.000Z",
+  "finishedAt": "2016-04-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12029/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12029",
+    "aozora": "E5U3hjinfE",
+    "myanimelist/anime": "33102"
+  }
+}

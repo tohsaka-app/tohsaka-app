@@ -1,0 +1,32 @@
+{
+  "slug": "dragon-ball-z-movie-03-chikyuu-marugoto-chou-kessen",
+  "synopsis": "The Saiyajin named Turlus has come to Earth in order to plant a tree that will both destroy the planet and give him infinite strength. Son Goku and the Z Warriors cannot let this happen and duke it out with the invaders for the sake of the planet.\n(Source: ANN) ",
+  "title": {
+    "en": "Dragon Ball Z Movie 03: The Tree of Might",
+    "jp": "Dragon Ball Z Movie 03: Chikyuu Marugoto Choukessen"
+  },
+  "releasedAt": "1990-07-07T00:00:00.000Z",
+  "finishedAt": "1990-07-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/796/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/796/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "martial arts",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "796",
+    "anidb": "762",
+    "anilist/anime": "896",
+    "aozora": "nIEGHu0NaI",
+    "myanimelist/anime": "896"
+  }
+}

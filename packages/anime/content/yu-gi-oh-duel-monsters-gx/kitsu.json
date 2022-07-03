@@ -1,0 +1,40 @@
+{
+  "slug": "yu-gi-oh-duel-monsters-gx",
+  "synopsis": "Duel Academy, one of the most prestigious schools in Duel Monster's history. There students learn the fundamentals of becoming not just duelists, but large business owners.\nYuki Judai is a new student with only one thing on his mind, to become the next King Of Games. Judai meets several friends, teachers, and even enemies at the large Dueling school. There he'll have to face off against several different Dorms to become number one duelist. Slifer Red, Ra Yellow, and Obelisk Blue are the three dorms. Will Judai be able to pass all of them?\nBased on Kazuki Takahashi's world famous anime and manga Yu-Gi-Oh!.\n(Source: Otakufreakmk2)",
+  "title": {
+    "en": "Yu-Gi-Oh! GX",
+    "jp": "Yu☆Gi☆Oh!: Duel Monsters GX"
+  },
+  "releasedAt": "2004-10-06T00:00:00.000Z",
+  "finishedAt": "2008-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/443/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/443/original.jpg",
+  "categories": [
+    "action",
+    "card games",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "proxy battles",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/yu-gi-oh-gx",
+    "http://www.hulu.com/yu-gi-oh-gx"
+  ],
+  "relations": {
+    "kitsu": "443",
+    "anidb": "2766",
+    "anilist/anime": "482",
+    "aozora": "WI4EiPYtZQ",
+    "hulu": "50002163",
+    "myanimelist/anime": "482",
+    "thetvdb": "76113/1",
+    "thetvdb/series": "76113",
+    "trakt": "12481"
+  }
+}

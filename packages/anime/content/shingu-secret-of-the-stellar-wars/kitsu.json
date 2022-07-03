@@ -1,0 +1,41 @@
+{
+  "slug": "shingu-secret-of-the-stellar-wars",
+  "synopsis": "The world is about to be turned upside down for Hajime Murata. First, a strange alien ship appears over Tokyo, and then a mysterious new transfer student arrives at his school wearing an ancient school uniform. His name is Muryou, and with his arrival, everything begins to change. Students suddenly begin to display amazing psychic powers, a giant white guardian keeps appearing in the skies over the city to fight off gigantic alien creatures, and men with threatening weapons are haunting the shadows of the school grounds.\nWith all these strange events taking place around him, Hajime is determined to figure out the truth about a world he thought he already knew. This is his story: a tale of aliens and humans, starships and spies, and friends who are often more than they appear. Join Hajime as he uncovers the mystery of Shingu: Secret of the Stellar Wars!\n(Source: RightStuf)",
+  "title": {
+    "en": "Shingu: Secret of the Stellar Wars",
+    "jp": "Gakuen Senki Muryou"
+  },
+  "releasedAt": "2001-05-08T00:00:00.000Z",
+  "finishedAt": "2001-12-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1059/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "earth",
+    "future",
+    "japan",
+    "mecha",
+    "plot continuity",
+    "science fiction",
+    "slice of life",
+    "space",
+    "super power"
+  ],
+  "externals": [
+    "http://www.hulu.com/shingu-secret-of-the-stellar-wars"
+  ],
+  "relations": {
+    "kitsu": "1059",
+    "anidb": "482",
+    "anilist/anime": "1179",
+    "aozora": "jKu782L1Am",
+    "myanimelist/anime": "1179",
+    "thetvdb": "83295/1",
+    "thetvdb/series": "83295",
+    "trakt": "63631"
+  }
+}

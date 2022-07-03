@@ -1,0 +1,26 @@
+{
+  "slug": "parasite-piano",
+  "synopsis": "Music video animated by Azarasi for the song Parasite Piano by Yuu Miyashita.",
+  "title": {
+    "en": "Parasite Piano",
+    "jp": "Parasite Piano"
+  },
+  "releasedAt": "2022-02-12T00:00:00.000Z",
+  "finishedAt": "2022-02-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46051/poster_image/eb4c627c3d352326bbad282254737ec8.png",
+  "categories": [
+    "music",
+    "psychological"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=DtByL8Spvs4"
+  ],
+  "relations": {
+    "kitsu": "46051",
+    "anilist/anime": "147190",
+    "myanimelist/anime": "51342"
+  }
+}

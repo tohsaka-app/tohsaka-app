@@ -1,0 +1,20 @@
+{
+  "slug": "mushinin",
+  "synopsis": "Bandai's new toy line for boys: <i>Mushinin</i>. It combines bugs (mushi) and ninja (nin). The anime follows the various characters as they train in their ninja arts at a local playground.",
+  "title": {
+    "jp": "Mushinin"
+  },
+  "releasedAt": "2017-09-22T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40946/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40946",
+    "aozora": "d4f1kCbkNi",
+    "myanimelist/anime": "36411"
+  }
+}

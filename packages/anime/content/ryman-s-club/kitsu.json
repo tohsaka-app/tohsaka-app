@@ -1,0 +1,24 @@
+{
+  "slug": "ryman-s-club",
+  "synopsis": "The story centers on Mikoto Shiratori, a childhood prodigy at badminton, but who never recovered from a major loss during a high school competition. Now, he works in the sales department of the Sunlight Beverage company, playing badminton on the side.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Salaryman's Club",
+    "jp": "Ryman's Club"
+  },
+  "releasedAt": "2022-01-29T00:00:00.000Z",
+  "finishedAt": "2022-04-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45388/poster_image/6f61f02e1ba3b8fc1dfd56e50c2bb8ea.png",
+  "coverUrl": "https://media.kitsu.io/anime/45388/cover_image/1c278621cd3789ed4e7eaab3d2c00478.png",
+  "categories": [
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45388",
+    "anilist/anime": "140502",
+    "myanimelist/anime": "50185"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "bungou-stray-dogs-wan",
+  "synopsis": "The peaceful days of the very popular work Bungo Stray Dogs are here. The characters of the Armed Detective Agency and the Mafia are in miniature form?!\n\n(Source: Bungo Stray Dogs Wiki)",
+  "title": {
+    "jp": "Bungou Stray Dogs Wan!"
+  },
+  "releasedAt": "2021-01-13T00:00:00.000Z",
+  "finishedAt": "2021-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43305/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life",
+    "super deformed",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43305",
+    "anidb": "15602",
+    "anilist/anime": "120150",
+    "myanimelist/anime": "42250"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "new-yoku-feat-chan-mika",
+  "synopsis": "Official music video for Evisbeats' song New Yoku featuring Chan-Mika. The song was included on their \"Musuhi\" album.",
+  "title": {
+    "en": "New Yoku feat Chan-Mika",
+    "jp": "New Yoku feat. Chan-Mika"
+  },
+  "releasedAt": "2018-05-21T00:00:00.000Z",
+  "finishedAt": "2018-05-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43475/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43475",
+    "anilist/anime": "105929",
+    "myanimelist/anime": "38500"
+  }
+}

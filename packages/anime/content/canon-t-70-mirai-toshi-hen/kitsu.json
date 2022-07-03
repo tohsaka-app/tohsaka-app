@@ -1,0 +1,22 @@
+{
+  "slug": "canon-t-70-mirai-toshi-hen",
+  "synopsis": "Four years before the cult classic anime 'Akira' was released, legendary artist Katsuhiro Otomo created two commercials for the debut of the Canon T-70.\n\n(Source: Thirdculture)",
+  "title": {
+    "en": "Canon T-70: Future City-hen",
+    "jp": "Canon T-70: Mirai Toshi-hen"
+  },
+  "releasedAt": "1984-01-01T00:00:00.000Z",
+  "finishedAt": "1984-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45595/poster_image/f219dd8a7b90a611c51f0abc7bf3f4c9.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45595",
+    "myanimelist/anime": "41902"
+  }
+}

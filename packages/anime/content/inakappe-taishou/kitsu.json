@@ -1,0 +1,28 @@
+{
+  "slug": "inakappe-taishou",
+  "synopsis": "A comedy about a country boy that travels to the city to study judo. He ends up meeting the daughter of a prominent dojo and her judo skilled cat. Each episode features 2 stories. \n(Source: AniDB)",
+  "title": {
+    "en": "General Inakappe",
+    "jp": "Inakappe Taishou"
+  },
+  "releasedAt": "1970-10-04T00:00:00.000Z",
+  "finishedAt": "1972-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5495/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "martial arts",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5495",
+    "anidb": "3095",
+    "anilist/anime": "8786",
+    "aozora": "GvkHe8dpny",
+    "myanimelist/anime": "8786"
+  }
+}

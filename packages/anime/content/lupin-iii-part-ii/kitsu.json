@@ -1,0 +1,40 @@
+{
+  "slug": "lupin-iii-part-ii",
+  "synopsis": "Stealthy, smug, sharp, and silly. These words only begin to describe the greatest thief in the world, Lupin the Third. Ever at his side are the quick-draw sharpshooter Daisuke Jigen and the deadly, honor-bound swordsman Goemon Ishikawa\n\nBesides the countless fabulous treasures and priceless gems he pursues across the world, Lupin’s target is the heart of one Fujiko Mine, a buxom beauty who’s just as often Lupin’s rival as she is his girlfriend. But getting away with the gold and the girl is rarely as simple as it first seems. The clever Fujiko is eager to run off with the treasure for herself. And the dogged Tokyo Police Inspector Zenigata has transferred to Interpol just to chase Lupin and his globe-trotting gang across any and all borders! What’s an international master criminal to do?\n\n(Source: Discotek Media)",
+  "title": {
+    "en": "Lupin the Third: Part II",
+    "jp": "Shin Lupin Sansei"
+  },
+  "releasedAt": "1977-10-03T00:00:00.000Z",
+  "finishedAt": "1980-10-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1278/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1278/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "cops",
+    "crime",
+    "earth",
+    "gunfights",
+    "present",
+    "swordplay",
+    "thievery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1278",
+    "anidb": "1484",
+    "anilist/anime": "1425",
+    "aozora": "mxgCmi3Sbb",
+    "hulu": "50008393",
+    "myanimelist/anime": "1425",
+    "thetvdb": "71863/2",
+    "thetvdb/season": "489473",
+    "thetvdb/series": "71863",
+    "trakt": "94420"
+  }
+}

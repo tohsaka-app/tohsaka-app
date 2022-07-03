@@ -1,0 +1,36 @@
+{
+  "slug": "dr-slump-arale-chan",
+  "synopsis": "Dr. Slump creates a little android girl, Arale, who is very stong, happy, and totally common senseless. They live in Penguin Village where the strangest things happen (e.g., the dawn is announced by a little pig wearing a basquee). \n(Source: ANN)",
+  "title": {
+    "jp": "Dr. Slump: Arale-chan"
+  },
+  "releasedAt": "1981-04-08T00:00:00.000Z",
+  "finishedAt": "1986-02-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2013/original.jpg",
+  "categories": [
+    "alien",
+    "android",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "humanoid alien",
+    "parody",
+    "school life",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2013",
+    "anidb": "1925",
+    "anilist/anime": "2222",
+    "aozora": "LyRZGxhD0Y",
+    "myanimelist/anime": "2222",
+    "thetvdb": "75112/1",
+    "thetvdb/series": "75112",
+    "trakt": "37409"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "himitsukessha-taka-no-tsume-the-movie-4-kaspersky-wo-motsu-otoko",
+  "synopsis": "Fourth film in the Secret Society Eagle Talon film series. Initially released directly to DVD, but was later screened at TOHO Cinemas Roppongi Hills.",
+  "title": {
+    "jp": "Himitsukessha Taka no Tsume The Movie 4: Kaspersky wo Motsu Otoko"
+  },
+  "releasedAt": "2010-06-10T00:00:00.000Z",
+  "finishedAt": "2010-06-10T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10987/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10987",
+    "anilist/anime": "120831",
+    "aozora": "Jszh1pUpCW",
+    "myanimelist/anime": "30753"
+  }
+}

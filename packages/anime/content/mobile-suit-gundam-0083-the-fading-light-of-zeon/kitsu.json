@@ -1,0 +1,30 @@
+{
+  "slug": "mobile-suit-gundam-0083-the-fading-light-of-zeon",
+  "synopsis": "U.C. 0083 - Three years after the end of the catastrophic One Year War, peace on Earth and the colonies is shattered by the presence of the Delaz Fleet, a rogue Zeon military group loyal to the ideals of the late dictator Gihren Zabi. Delaz Fleet`s ace pilot Anavel Gato, once hailed as \"The Nightmare of Solomon\", infiltrates the Federation`s Torrington base in Australia and steals the nuclear-armed Gundam GP02A \"Physalis\" prototype. Rookie pilot Kou Uraki - with the aid of Anaheim Electronics engineer Nina Purpleton and the crew of the carrier Albion - pilots the Gundam GP01 \"Zephyranthes\" prototype in an attempt to recover the stolen Gundam unit and prevent another war from breaking out. \n(Source: AniDB)",
+  "title": {
+    "en": "Mobile Suit Gundam 0083: The Fading Light of Zeon",
+    "jp": "Kidou Senshi Gundam 0083: Zeon no Zankou"
+  },
+  "releasedAt": "1992-08-29T00:00:00.000Z",
+  "finishedAt": "1992-08-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2457/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2457",
+    "anidb": "2009",
+    "anilist/anime": "2695",
+    "aozora": "AQTQO5nc81",
+    "myanimelist/anime": "2695"
+  }
+}

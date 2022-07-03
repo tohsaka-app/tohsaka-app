@@ -1,0 +1,44 @@
+{
+  "slug": "hyakka-ryouran-samurai-girls",
+  "synopsis": "Jubei Yagyu, Hanzo Hattori, Yukimura Sanada, Sen Tokugawa, Kanetsugu Naoe, and Matabei Goto. In the alternate world of Hyakka Ryouran: Samurai Girls these are not the legendary samurai of history. They are scantily clad young ladies living in an age where the Tokugawa shogunate remained in power, and all of them have been sent to Buou Academic School in order to hone their battle skills.\nMuneakira Yagyu, master of the Yagyu dojo, is the only one who has the ability to take these warriors to the next level, making them into master samurai. Once he unlocks the hidden powers of Jubei with a kiss, the rest of the girls will set their sights on attaining that power for themselves.\nTogether with his new group of master samurai, Muneakira will rebel against the school's student council, who have tasked themselves with oppressing students in this hectic world.",
+  "title": {
+    "en": "Samurai Girls",
+    "jp": "Hyakka Ryouran: Samurai Girls"
+  },
+  "releasedAt": "2010-09-04T00:00:00.000Z",
+  "finishedAt": "2010-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5274/original.png",
+  "categories": [
+    "action",
+    "alternative present",
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "harem",
+    "japan",
+    "martial arts",
+    "present",
+    "samurai",
+    "school life",
+    "sudden girlfriend appearance",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.hulu.com/samurai-girls"
+  ],
+  "relations": {
+    "kitsu": "5274",
+    "anidb": "7440",
+    "anilist/anime": "8277",
+    "aozora": "DU10etolZi",
+    "myanimelist/anime": "8277",
+    "thetvdb": "186911/1",
+    "thetvdb/season": "307781",
+    "thetvdb/series": "186911",
+    "trakt": "60994"
+  }
+}

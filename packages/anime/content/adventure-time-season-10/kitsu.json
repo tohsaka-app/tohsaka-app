@@ -1,0 +1,24 @@
+{
+  "slug": "adventure-time-season-10",
+  "synopsis": "Final season of Adventure Time",
+  "title": {},
+  "releasedAt": "2017-09-17T00:00:00.000Z",
+  "finishedAt": "2018-09-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41118/original.jpg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "anthropomorphism",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "post apocalypse"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41118"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "haikyuu-ova",
+  "synopsis": "A stop-motion anime that will bundle with the 42nd compiled book volume of Haruichi Furudate's Haikyu!! manga. Anime will have 10 short episodes featuring the Karasuno team as puppets.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Haikyuu!! (OVA)"
+  },
+  "releasedAt": "2020-03-04T00:00:00.000Z",
+  "finishedAt": "2020-03-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42574/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42574/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "shounen",
+    "sports",
+    "volleyball"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42574",
+    "anilist/anime": "115217",
+    "myanimelist/anime": "40372"
+  }
+}

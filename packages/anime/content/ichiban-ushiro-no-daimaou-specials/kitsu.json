@@ -1,0 +1,26 @@
+{
+  "slug": "ichiban-ushiro-no-daimaou-specials",
+  "synopsis": "DVD/BD specials of Ichiban Ushiro no Daimaou.",
+  "title": {
+    "jp": "Ichiban Ushiro no Daimaou Specials"
+  },
+  "releasedAt": "2010-06-25T00:00:00.000Z",
+  "finishedAt": "2010-11-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5346/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5346",
+    "anilist/anime": "8465",
+    "aozora": "tUH7HMrnGW",
+    "myanimelist/anime": "8465"
+  }
+}

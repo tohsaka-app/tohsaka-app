@@ -1,0 +1,22 @@
+{
+  "slug": "neko-no-nyagh-nya-miserables",
+  "synopsis": "TV adaptation of Cocone Corporation's mobile puzzle game app.\n\nDiscover the adventures of the cat painter, Vincent van Meowogh who lives in a mansion in Paris surrounded by his quirky friends. Let's give him a spark of inspiration for his painting by completing puzzle stages, buy back the furniture and restore his home to its former glory!\n\n(Source: ANN)",
+  "title": {
+    "jp": "Neko no Nyagh: Nya Misérables"
+  },
+  "releasedAt": "2019-04-03T00:00:00.000Z",
+  "finishedAt": "2019-09-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42993/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42993",
+    "anilist/anime": "114338",
+    "myanimelist/anime": "38857"
+  }
+}

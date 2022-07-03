@@ -1,0 +1,28 @@
+{
+  "slug": "castlevania-season-2",
+  "synopsis": "Season 2 of Castlevania.",
+  "title": {
+    "jp": "Akumajou Dracula: Castlevania 2"
+  },
+  "releasedAt": "2018-10-26T00:00:00.000Z",
+  "finishedAt": "2018-10-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13627/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13627/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "dark fantasy",
+    "horror",
+    "vampire",
+    "violence"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80095241"
+  ],
+  "relations": {
+    "kitsu": "13627"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "spunky-afro-tiger-jet",
+  "synopsis": "Music video for the song Spunky Afro Tiger Jet by Tigarah E Laura (TIGARAH) from her album \"This World is My Playground.\"",
+  "title": {
+    "en": "Spunky Afro Tiger Jet"
+  },
+  "releasedAt": "2014-10-03T00:00:00.000Z",
+  "finishedAt": "2014-10-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43508/original.jpg",
+  "categories": [
+    "ecchi",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=UVkW70TJ--o"
+  ],
+  "relations": {
+    "kitsu": "43508",
+    "anilist/anime": "144450",
+    "myanimelist/anime": "39252"
+  }
+}

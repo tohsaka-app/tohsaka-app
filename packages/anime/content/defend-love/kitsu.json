@@ -1,0 +1,34 @@
+{
+  "slug": "defend-love",
+  "synopsis": "The mysterious alter ego of Amuro gets sent to the first Gundam verse. There she meets Mobile Suit Gundam protagonist Amuro Ray and a battle ensues. ",
+  "title": {
+    "jp": "Defend Love"
+  },
+  "releasedAt": "2009-12-15T00:00:00.000Z",
+  "finishedAt": "2009-12-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5160/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "magic",
+    "mecha",
+    "music",
+    "piloted robot",
+    "robot",
+    "romance",
+    "science fiction",
+    "super power",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5160",
+    "anidb": "8423",
+    "anilist/anime": "7953",
+    "aozora": "RNEPTZGZ0M",
+    "myanimelist/anime": "7953"
+  }
+}

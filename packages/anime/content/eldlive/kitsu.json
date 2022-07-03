@@ -1,0 +1,29 @@
+{
+  "slug": "eldlive",
+  "synopsis": "Chuuta Kokonose is an orphan who lives with his aunt. For as long as he can remember, he's had a voice in his head, but other than that he's a normal boy—right until the day when a strange-looking thing follows him home and teleports him to a place filled with more fantastic creatures. It's a space police station, and Rein Brickke, the Chief of Solar System Department, tells him that he's been chosen by the computer as a possible candidate to join the police force. Misuzu Sonokata, a girl from Chuuta's school with an angelic face and ill temper who turns out to be one of Rein Brickke's subordinates, doesn't think him suitable for such a job. Chuuta, who was shocked at first, decides to take the aptitude test after being urged by the voice in his head and to prove Misuzu wrong.",
+  "title": {
+    "en": "elDLIVE",
+    "jp": "ēlDLIVE"
+  },
+  "releasedAt": "2017-01-08T00:00:00.000Z",
+  "finishedAt": "2017-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11894/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11894/original.jpg",
+  "categories": [
+    "action",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11894",
+    "anidb": "11970",
+    "anilist/anime": "21677",
+    "aozora": "hsiOpWsurx",
+    "myanimelist/anime": "32878",
+    "thetvdb": "319455/1"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "sengoku-majin-goushougun",
+  "synopsis": "A meteor strikes the Earth and is found to emanate a powerful new energy called Beamler, which is used to power a battle robot, GoShogun, and a teleporting fortress, Good Thunder. The Docougar Crime Syndicate, lead by crime lord Neo Neros, try to steal the secret of the energy from the inventor of GoShogun, but he kills himself rather than let them acquire it. His son is targeted by Neo Neros next, but he is taken in by the crew aboard Good Thunder, who travel the world fighting NeoNeros's forces with GoShogun. \n(Source: Wikipedia) ",
+  "title": {
+    "en": "Macron 1",
+    "jp": "Sengoku Majin Goushougun"
+  },
+  "releasedAt": "1981-07-03T00:00:00.000Z",
+  "finishedAt": "1981-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2276/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "mecha",
+    "parody",
+    "piloted robot",
+    "science fiction",
+    "super robot",
+    "transforming craft"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/goshogun"
+  ],
+  "relations": {
+    "kitsu": "2276",
+    "anidb": "1481",
+    "anilist/anime": "2510",
+    "aozora": "cRfptidny3",
+    "myanimelist/anime": "2510",
+    "thetvdb": "251582",
+    "trakt": "9426"
+  }
+}

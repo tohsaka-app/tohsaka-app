@@ -1,0 +1,26 @@
+{
+  "slug": "grimm-douwa-kin-no-tori",
+  "synopsis": "\"Kin No Tori\" is an adaptation of the homonymous fairy tale \"The Golden Bird\" by Brothers Grimm.\nA golden apple is stolen from the King's garden. The King orders his three sons to guard the apples in turn and to find out who is the thief. When the youngest son, Hansu, presents a feather that he got from the golden bird that stole the apple the king sends his three sons to bring this bird to him and so Hansu journey begins. \nCompleted in 1984, this film was shelved for three years before being theatrically released.",
+  "title": {
+    "en": "The Golden Bird",
+    "jp": "Grimm Douwa: Kin no Tori"
+  },
+  "releasedAt": "1987-03-14T00:00:00.000Z",
+  "finishedAt": "1987-03-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3236/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3236",
+    "anidb": "2316",
+    "anilist/anime": "3760",
+    "aozora": "EsUUtTmjJT",
+    "myanimelist/anime": "3760"
+  }
+}

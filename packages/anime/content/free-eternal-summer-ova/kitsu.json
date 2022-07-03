@@ -1,0 +1,27 @@
+{
+  "slug": "free-eternal-summer-ova",
+  "synopsis": "Unaired episode included with volume 7 of the Blu-ray/DVD.",
+  "title": {
+    "jp": "Free!: Eternal Summer – Kindan no All Hard!"
+  },
+  "releasedAt": "2015-03-18T00:00:00.000Z",
+  "finishedAt": "2015-03-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8762/original.jpg",
+  "categories": [
+    "bishounen",
+    "comedy",
+    "school life",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8762",
+    "anilist/anime": "21091",
+    "aozora": "jgVtPq542t",
+    "myanimelist/anime": "26213"
+  }
+}

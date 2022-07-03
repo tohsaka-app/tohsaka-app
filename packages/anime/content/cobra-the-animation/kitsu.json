@@ -1,0 +1,41 @@
+{
+  "slug": "cobra-the-animation",
+  "synopsis": "This Cobra adaptation features short arcs of Cobra saving the world, his friends or himself.",
+  "title": {
+    "jp": "Cobra The Animation"
+  },
+  "releasedAt": "2010-01-02T00:00:00.000Z",
+  "finishedAt": "2010-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3895/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3895/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "crime",
+    "cyborg",
+    "future",
+    "gunfights",
+    "humanoid alien",
+    "other planet",
+    "science fiction",
+    "space",
+    "space travel"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/cobra-the-animation"
+  ],
+  "relations": {
+    "kitsu": "3895",
+    "anidb": "6494",
+    "anilist/anime": "5032",
+    "aozora": "X26qbgI0D8",
+    "myanimelist/anime": "5032",
+    "thetvdb": "137151/1",
+    "thetvdb/series": "137151",
+    "trakt": "61576"
+  }
+}

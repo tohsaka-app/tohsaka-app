@@ -1,0 +1,24 @@
+{
+  "slug": "nejimaki-gekijo-to-nezumi",
+  "synopsis": "A rat happens to find a small theater and falls in love with a small wind-up doll girl there.\n\nGraduate Work 2013, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Of mice and clockworks",
+    "jp": "Nejimaki Gekijo to Nezumi"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45809/poster_image/947786bd2d9d3d57f4f5956871e44131.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [
+    "https://youtu.be/vIc39o4VY-U"
+  ],
+  "relations": {
+    "kitsu": "45809",
+    "anilist/anime": "118058"
+  }
+}

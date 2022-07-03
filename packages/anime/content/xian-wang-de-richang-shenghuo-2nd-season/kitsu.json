@@ -1,0 +1,28 @@
+{
+  "slug": "xian-wang-de-richang-shenghuo-2nd-season",
+  "synopsis": "Second season of Xian Wang de Richang Shenghuo",
+  "title": {
+    "en": "The Daily Life of the Immortal King 2nd Season"
+  },
+  "releasedAt": "2021-10-30T00:00:00.000Z",
+  "finishedAt": "2022-01-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43795/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/43795/cover_image/15faa611176af800c9e6ab756825a983.jpeg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "demon",
+    "fantasy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43795",
+    "anilist/anime": "126357",
+    "myanimelist/anime": "44069"
+  }
+}

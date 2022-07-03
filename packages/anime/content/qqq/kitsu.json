@@ -1,0 +1,24 @@
+{
+  "slug": "qqq",
+  "synopsis": "Graduate Work 2012 from YungSung SONG, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n\"Three Qs and more make QQQ. QQQ spin and roll. And QQQ transform themselves, spinning. QQQ transform, spinning, rolling, swinging, turning and traveling.\"\n\n(Source: Geidai Animation",
+  "title": {
+    "en": "QQQ",
+    "jp": "QQQ"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45587/poster_image/131b301a7ae7df0facd42110697a73dc.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/NzkXMT4_Ay8"
+  ],
+  "relations": {
+    "kitsu": "45587",
+    "anilist/anime": "113272"
+  }
+}

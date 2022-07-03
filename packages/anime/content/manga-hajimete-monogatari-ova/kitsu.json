@@ -1,0 +1,24 @@
+{
+  "slug": "manga-hajimete-monogatari-ova",
+  "synopsis": "OVA of Manga Hajimete Monogatari.",
+  "title": {
+    "jp": "Manga Hajimete Monogatari OVA"
+  },
+  "releasedAt": "1978-01-01T00:00:00.000Z",
+  "finishedAt": "1978-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10655/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10655",
+    "aozora": "Jf3y2qLQ16",
+    "myanimelist/anime": "30107"
+  }
+}

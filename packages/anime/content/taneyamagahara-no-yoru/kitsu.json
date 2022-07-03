@@ -1,0 +1,30 @@
+{
+  "slug": "taneyamagahara-no-yoru",
+  "synopsis": "Four workers wait out the night around a campfire. Three of them are talking about different things when they start hearing strange noises. Their discussion wakes up a sleeping companion who promptly goes back to sleep only to start having dreams...",
+  "title": {
+    "jp": "Taneyamagahara no Yoru"
+  },
+  "releasedAt": "2006-07-07T00:00:00.000Z",
+  "finishedAt": "2006-07-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2525/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "japan",
+    "kids",
+    "past",
+    "psychological",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2525",
+    "anidb": "4378",
+    "anilist/anime": "2767",
+    "aozora": "U4sOEjh2PQ",
+    "myanimelist/anime": "2767"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "capsule-boy",
+  "synopsis": "6.5-centimeter tall Degirdians fall to Earth in their spacecraft while chasing fugitives. Their spaceship transforms into a capsule toy stand near a toy store and a human boy accidentally takes home one of the aliens thinking it's a capsule toy. They befriend a human boy and try to figure out a way to get home all while fighting off the evil alien.",
+  "title": {
+    "en": "Capsule Boy",
+    "jp": "Capsule Boy"
+  },
+  "releasedAt": "2016-05-15T00:00:00.000Z",
+  "finishedAt": "2016-12-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13008/original.jpg",
+  "categories": [
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13008",
+    "anilist/anime": "108996",
+    "aozora": "HFFlG9PS3a",
+    "myanimelist/anime": "34664"
+  }
+}

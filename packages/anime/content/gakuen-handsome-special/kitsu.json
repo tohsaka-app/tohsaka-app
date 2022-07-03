@@ -1,0 +1,25 @@
+{
+  "slug": "gakuen-handsome-special",
+  "synopsis": "Unaired episode 12.5 included with the Blu-ray Disc/DVD release. ",
+  "title": {
+    "jp": "Gakuen Handsome Special"
+  },
+  "releasedAt": "2016-12-20T00:00:00.000Z",
+  "finishedAt": "2016-12-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12751/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "school life",
+    "shounen ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12751",
+    "aozora": "6SEYlWlDyp",
+    "myanimelist/anime": "33457"
+  }
+}

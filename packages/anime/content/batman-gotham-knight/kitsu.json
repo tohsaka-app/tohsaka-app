@@ -1,0 +1,39 @@
+{
+  "slug": "batman-gotham-knight",
+  "synopsis": "Anime-inspired direct-to-DVD anthology film. Comprised of six short stories, from diverse creators, including Academy Award-nominated Josh Olsen (A History of Violence), Batman Begins writer David S. Goyer, and comics scribe Brian Azzarello. It's planned for a release window of two to four weeks prior to the release of The Dark Knight, and would bridge the gap between Batman Begins and The Dark Knight.\n(Source: IMDB)",
+  "title": {
+    "en": "Batman: Gotham Knight",
+    "jp": "Batman: Gotham Knight"
+  },
+  "releasedAt": "2008-07-08T00:00:00.000Z",
+  "finishedAt": "2008-07-08T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3461/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3461/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "americas",
+    "earth",
+    "gunfights",
+    "law and order",
+    "martial arts",
+    "present",
+    "superhero",
+    "united states",
+    "violence"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=gP4bxXZ3rXc&list=PL_AYqxzHii9iAHeOVo8AR_7gWmxRoRYfB"
+  ],
+  "relations": {
+    "kitsu": "3461",
+    "anidb": "5611",
+    "anilist/anime": "4094",
+    "aozora": "JQTPOfN3eP",
+    "myanimelist/anime": "4094"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "softenni",
+  "synopsis": "The tennis comedy centers around the members of a female middle school soft tennis team and the twists and turns that their lives take as they aim for the nationals.\n(Source: MU)",
+  "title": {
+    "en": "Softenni! the Animation",
+    "jp": "Softenni"
+  },
+  "releasedAt": "2011-04-08T00:00:00.000Z",
+  "finishedAt": "2011-06-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6038/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "countryside",
+    "earth",
+    "ecchi",
+    "japan",
+    "middle school",
+    "present",
+    "school clubs",
+    "school life",
+    "sports",
+    "stereotypes",
+    "tennis"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/softenni"
+  ],
+  "relations": {
+    "kitsu": "6038",
+    "anidb": "8266",
+    "anilist/anime": "10109",
+    "aozora": "YEGcWKzQY8",
+    "myanimelist/anime": "10109",
+    "thetvdb": "248018/1",
+    "thetvdb/series": "248018",
+    "trakt": "63980"
+  }
+}

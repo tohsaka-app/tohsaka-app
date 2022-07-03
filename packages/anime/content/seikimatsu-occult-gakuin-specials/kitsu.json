@@ -1,0 +1,26 @@
+{
+  "slug": "seikimatsu-occult-gakuin-specials",
+  "synopsis": "Short spin-off episodes included in Blu-ray/DVD volumes of the main series.",
+  "title": {
+    "en": "Occult Academy Specials",
+    "jp": "Seikimatsu Occult Gakuin Specials"
+  },
+  "releasedAt": "2010-10-27T00:00:00.000Z",
+  "finishedAt": "2011-01-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5636/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5636",
+    "anilist/anime": "9220",
+    "aozora": "v0EwWIkzqP",
+    "myanimelist/anime": "9220"
+  }
+}

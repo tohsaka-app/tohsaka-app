@@ -1,0 +1,30 @@
+{
+  "slug": "mt-head",
+  "synopsis": "After a stingy man eats some cherry seeds, a cherry tree grows on his head and he gets into a lot of trouble. ",
+  "title": {
+    "en": "Mt. Head",
+    "jp": "Atama Yama"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1224/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1224/original.jpg",
+  "categories": [
+    "comedy",
+    "dementia",
+    "fantasy",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1224",
+    "anidb": "1210",
+    "anilist/anime": "1370",
+    "aozora": "o6LW9eECzm",
+    "myanimelist/anime": "1370"
+  }
+}

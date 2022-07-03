@@ -1,0 +1,22 @@
+{
+  "slug": "saru-kani-gassen-yokoku",
+  "synopsis": "An adaptation of the classic Japanese folktale albeit a teaser.",
+  "title": {
+    "jp": "Saru Kani Gassen (Yokoku)"
+  },
+  "releasedAt": "2012-07-31T00:00:00.000Z",
+  "finishedAt": "2012-07-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12836/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12836",
+    "aozora": "Ng3vn5YeIo",
+    "myanimelist/anime": "33860"
+  }
+}

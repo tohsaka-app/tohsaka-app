@@ -1,0 +1,25 @@
+{
+  "slug": "kumo-to-tulip",
+  "synopsis": "A spider attempts to lure a ladybug into his web. When she manages to escape and hide in a tulip, a storm comes that batters the spider, while the ladybug remains safe.",
+  "title": {
+    "en": "The Spider and the Tulip",
+    "jp": "Kumo to Tulip"
+  },
+  "releasedAt": "1943-04-15T00:00:00.000Z",
+  "finishedAt": "1943-04-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3398/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3398",
+    "anidb": "4993",
+    "anilist/anime": "3990",
+    "aozora": "RmWa9bN2Sk",
+    "myanimelist/anime": "3990"
+  }
+}

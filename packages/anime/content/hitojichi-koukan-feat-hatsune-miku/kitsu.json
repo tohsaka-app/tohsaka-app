@@ -1,0 +1,23 @@
+{
+  "slug": "hitojichi-koukan-feat-hatsune-miku",
+  "synopsis": "Music video for the song Hitojichi Koukan feat. Hatsune Miku by Deco*27.",
+  "title": {
+    "jp": "Hitojichi Koukan feat. Hatsune Miku"
+  },
+  "releasedAt": "2019-07-05T00:00:00.000Z",
+  "finishedAt": "2019-07-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43513/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=d_svmw65Mgk"
+  ],
+  "relations": {
+    "kitsu": "43513",
+    "myanimelist/anime": "40414"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "mado-wo-akete",
+  "synopsis": "Music video directed by Takayuki Hirao for the song Mado wo Akete by CIEL. This track is also used as the ending song for the Eiga Daisuki Pompo-san film.",
+  "title": {
+    "jp": "Mado wo Akete"
+  },
+  "releasedAt": "2021-06-28T00:00:00.000Z",
+  "finishedAt": "2021-06-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44857/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44857/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=KD14CW-j2sA"
+  ],
+  "relations": {
+    "kitsu": "44857",
+    "anilist/anime": "136297"
+  }
+}

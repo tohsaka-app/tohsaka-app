@@ -1,0 +1,38 @@
+{
+  "slug": "fantasista-doll",
+  "synopsis": "Uzume Uno is a young student and former champion of a trading card game competition. She is trusted with a special device containing five powerful Fantasista Dolls. These dolls are sentient virtual beings who reside in cards which are now controlled by their new master, Uzume.\n\n(Source: ANN)",
+  "title": {
+    "en": "Fantasista Doll",
+    "jp": "Fantasista Doll"
+  },
+  "releasedAt": "2013-07-07T00:00:00.000Z",
+  "finishedAt": "2013-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7332/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7332/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "magical girl",
+    "proxy battles",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/fantasista-doll",
+    "http://www.hulu.com/fantasista-doll"
+  ],
+  "relations": {
+    "kitsu": "7332",
+    "anidb": "9365",
+    "anilist/anime": "15883",
+    "aozora": "pCLWIojwq3",
+    "hulu": "50012644",
+    "myanimelist/anime": "15883",
+    "thetvdb": "269874/1",
+    "thetvdb/series": "269874",
+    "trakt": "70753"
+  }
+}

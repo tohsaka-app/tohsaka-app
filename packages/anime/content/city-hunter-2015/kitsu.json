@@ -1,0 +1,27 @@
+{
+  "slug": "city-hunter-2015",
+  "synopsis": "A scan of the upcoming issue of Monthly Comic Zenon magazine, revealed that City Hunter will be receiving a new OVA adaptation. It will be bundled with the release of the new version of the manga, City Hunter XYZ Edition, on July 18. This announcement was made to commemorate the 30th anniversary of City Hunter. The OVA will promote the new animation and cast members.\n(Source: MAL News)",
+  "title": {
+    "jp": "City Hunter: Ryou no Propose"
+  },
+  "releasedAt": "2016-05-01T00:00:00.000Z",
+  "finishedAt": "2016-05-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10944/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "cops",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10944",
+    "anidb": "11259",
+    "anilist/anime": "21203",
+    "aozora": "UcyNeyvioc",
+    "myanimelist/anime": "30818"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "touch",
+  "synopsis": "The story centers around three characters—Uesugi Kazuya, his twin older brother Tatsuya, and Asakura Minami. Kazuya is the darling of his town as he's talented, hardworking, and the ace pitcher for his middle school baseball team. Tatsuya is a hopeless slacker who's been living the life of giving up the spotlight to Kazuya, despite the fact that he may be more gifted than him. Minami is the beautiful childhood girlfriend and for all intents, sister from next door who treats both of them as equals. Society largely assumes Kazuya and Minami will become the perfect couple, including Tatsuya. Yet as time progresses, Tatsuya grows to realize that he's willing to sacrifice anything for the sake of his brother, except at the expense of giving up Minami to Kazuya. And thus the story is told of Tatsuya trying to prove himself over his established younger brother, how it affects the relationship between the three, and both brothers' attempts to make Minami's lifelong dreams come true.",
+  "title": {
+    "jp": "Touch"
+  },
+  "releasedAt": "1985-03-24T00:00:00.000Z",
+  "finishedAt": "1987-03-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/952/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/952/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "baseball",
+    "comedy",
+    "coming of age",
+    "earth",
+    "high school",
+    "japan",
+    "love polygon",
+    "plot continuity",
+    "present",
+    "romance",
+    "school clubs",
+    "school life",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "952",
+    "anidb": "241",
+    "anilist/anime": "1065",
+    "aozora": "UHYbCHvzx7",
+    "myanimelist/anime": "1065",
+    "thetvdb": "83105/1",
+    "thetvdb/series": "83105",
+    "trakt": "22003"
+  }
+}

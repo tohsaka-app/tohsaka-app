@@ -1,0 +1,28 @@
+{
+  "slug": "sensou-ga-owatta-natsu-ni-1945-karafuto",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sensou ga Owatta Natsu ni 1945 Karafuto"
+  },
+  "releasedAt": "1990-12-08T00:00:00.000Z",
+  "finishedAt": "1990-12-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9574/original.jpg",
+  "categories": [
+    "anti war",
+    "drama",
+    "historical",
+    "past",
+    "world war ii"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9574",
+    "anidb": "8639",
+    "aozora": "eoQAot5ftN",
+    "myanimelist/anime": "25035"
+  }
+}

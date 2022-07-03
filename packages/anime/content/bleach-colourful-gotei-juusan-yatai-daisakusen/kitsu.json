@@ -1,0 +1,24 @@
+{
+  "slug": "bleach-colourful-gotei-juusan-yatai-daisakusen",
+  "synopsis": "An animated adaptation of several chapters of Colourful Bleach.",
+  "title": {
+    "jp": "Bleach Colorful!: Gotei Juusan Yatai Daisakusen!"
+  },
+  "releasedAt": "2008-09-12T00:00:00.000Z",
+  "finishedAt": "2008-09-12T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13264/original.jpg",
+  "categories": [
+    "comedy",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13264",
+    "anilist/anime": "100719",
+    "aozora": "zJRU3sF2gx",
+    "myanimelist/anime": "35118"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "tensei-shitara-slime-datta-ken-ova",
+  "synopsis": "Unaired episodes bundled with the 12th, 13th, 14th, 15th and 16th volumes of the manga.",
+  "title": {
+    "en": "That Time I Got Reincarnated as a Slime OVA",
+    "jp": "Tensei shitara Slime Datta Ken OVA"
+  },
+  "releasedAt": "2019-07-09T00:00:00.000Z",
+  "finishedAt": "2020-11-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42022/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42022/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "isekai",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime"
+  ],
+  "relations": {
+    "kitsu": "42022",
+    "anidb": "14526",
+    "anilist/anime": "106509",
+    "myanimelist/anime": "38793"
+  }
+}

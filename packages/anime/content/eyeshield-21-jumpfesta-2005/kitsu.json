@@ -1,0 +1,25 @@
+{
+  "slug": "eyeshield-21-jumpfesta-2005",
+  "synopsis": "A brief OVA about the Devil Bats training on an island. ",
+  "title": {
+    "jp": "Eyeshield 21: Jump Festa 2005 Special"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4553/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4553",
+    "anilist/anime": "6418",
+    "aozora": "iShPV2X0aL",
+    "myanimelist/anime": "6418"
+  }
+}

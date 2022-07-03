@@ -1,0 +1,22 @@
+{
+  "slug": "pika-pika-2007",
+  "synopsis": "Short movie by Tochka made with light drawing technique.",
+  "title": {
+    "en": null,
+    "jp": "PiKA PiKA (2007)"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10726/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10726",
+    "myanimelist/anime": "30216"
+  }
+}

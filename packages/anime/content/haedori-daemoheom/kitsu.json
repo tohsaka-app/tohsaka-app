@@ -1,0 +1,26 @@
+{
+  "slug": "haedori-daemoheom",
+  "synopsis": "A Korean anti-communist animated movie.",
+  "title": {
+    "jp": "Haedori Daemoheom"
+  },
+  "releasedAt": "1982-01-01T00:00:00.000Z",
+  "finishedAt": "1982-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7507/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7507",
+    "anidb": "9594",
+    "anilist/anime": "16752",
+    "aozora": "VC514y5CtY",
+    "myanimelist/anime": "16752"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "tsurune-kazemai-koko-kyudo-bu",
+  "synopsis": "When Narumiya Minato joins Prefectural Kazemai High School, he is quickly invited to join the archery club by the club's advisor, Tommy-sensei. His childhood friends Takehaya Seiya and Yamanouchi Ryohei swiftly agree to join, but Minato is hesitant at first. \n\nBecause Minato is the rare student with experience in archery, Tommy-sensei orders him to give a demonstration, which Minato does... except his arrow doesn't hit the target. It is revealed that Minato has developed a terrible dysfunction regarding archery.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Tsurune",
+    "jp": "Tsurune: Kazemai Koukou Kyuudoubu"
+  },
+  "releasedAt": "2018-10-22T00:00:00.000Z",
+  "finishedAt": "2019-01-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13990/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13990/original.jpg",
+  "categories": [
+    "high school",
+    "school life",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/tsurune",
+    "https://www.hidive.com/tv/tsurune"
+  ],
+  "relations": {
+    "kitsu": "13990",
+    "anilist/anime": "100402",
+    "myanimelist/anime": "36653"
+  }
+}

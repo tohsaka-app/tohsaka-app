@@ -1,0 +1,26 @@
+{
+  "slug": "sabagebu-soshite-dareka-inakunatta",
+  "synopsis": "Short OVA bundled with the volumes 1 to 6 of the Blu-ray releases of Sabagebu!",
+  "title": {
+    "jp": "Sabage-bu! Specials"
+  },
+  "releasedAt": "2014-09-24T00:00:00.000Z",
+  "finishedAt": "2015-02-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8633/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8633/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8633",
+    "anilist/anime": "20863",
+    "aozora": "WlPoUuIeXy",
+    "myanimelist/anime": "25647"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "catman",
+  "synopsis": "In a city filled with anthropomorphic cat-people, Catman lives free of rules and boundaries, doing everything he wants, which often collides with the other inhabitants of the city. Catman dares to be bold: it’s made in Flash, which is rarely seen nowadays; there are no spoken dialogue but instead is subbed in Japanese and English and has a original soundtrack made in purpose for the series.",
+  "title": {
+    "en": "Catman",
+    "jp": "Catman"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3603/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3603/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "fantasy",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3603",
+    "anidb": "6789",
+    "anilist/anime": "4419",
+    "aozora": "DFqibUXAcZ",
+    "myanimelist/anime": "4419"
+  }
+}

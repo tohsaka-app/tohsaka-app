@@ -1,0 +1,26 @@
+{
+  "slug": "the-monkey-king-and-the-fruit-of-immortality",
+  "synopsis": "The second part of the trilogy about adventures of the King of monkeys.",
+  "title": {
+    "jp": "Renshenguo"
+  },
+  "releasedAt": "1981-01-01T00:00:00.000Z",
+  "finishedAt": "1981-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5725/original.jpg",
+  "categories": [
+    "adventure",
+    "buddhism",
+    "religion"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5725",
+    "anidb": "7386",
+    "anilist/anime": "9416",
+    "aozora": "E3Z7GgySmC",
+    "myanimelist/anime": "9416"
+  }
+}

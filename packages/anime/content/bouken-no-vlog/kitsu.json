@@ -1,0 +1,25 @@
+{
+  "slug": "bouken-no-vlog",
+  "synopsis": "The vocaloid version of the Edens Zero ending theme Bouken no VLOG, by HoneyWorks.",
+  "title": {
+    "jp": "Bouken no VLOG"
+  },
+  "releasedAt": "2021-04-28T00:00:00.000Z",
+  "finishedAt": "2021-04-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44641/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44641/original.jpg",
+  "categories": [
+    "music",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=VNJuhYsHefg"
+  ],
+  "relations": {
+    "kitsu": "44641"
+  }
+}

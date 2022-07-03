@@ -1,0 +1,25 @@
+{
+  "slug": "twinkle-nora-rock-me",
+  "synopsis": "Based on a 1980 manga by Mikuriya Satomi, this adaptation differs considerably from the original. The story started in its prequel was completed with this second OVA. ",
+  "title": {
+    "jp": "Twinkle Nora Rock Me!"
+  },
+  "releasedAt": "1985-11-21T00:00:00.000Z",
+  "finishedAt": "1985-11-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5689/original.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5689",
+    "anidb": "7600",
+    "anilist/anime": "9342",
+    "aozora": "736GQis7aQ",
+    "myanimelist/anime": "9342"
+  }
+}

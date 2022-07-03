@@ -1,0 +1,28 @@
+{
+  "slug": "ufo-senshi-dai-apolon-2",
+  "synopsis": "Second season of UFO Senshi Dai Apolon.",
+  "title": {
+    "jp": "UFO Senshi Dai Apolon 2"
+  },
+  "releasedAt": "1976-10-07T00:00:00.000Z",
+  "finishedAt": "1977-02-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6365/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "robot",
+    "science fiction",
+    "super robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6365",
+    "anidb": "5079",
+    "anilist/anime": "10815",
+    "aozora": "FwA2mbK1iy",
+    "myanimelist/anime": "10815"
+  }
+}

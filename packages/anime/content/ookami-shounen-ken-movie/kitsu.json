@@ -1,0 +1,25 @@
+{
+  "slug": "ookami-shounen-ken-movie",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Ookami Shounen Ken (Movie)"
+  },
+  "releasedAt": "1963-12-21T00:00:00.000Z",
+  "finishedAt": "1963-12-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9917/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9917",
+    "anidb": "5477",
+    "aozora": "9oi3nde5EZ",
+    "myanimelist/anime": "23007"
+  }
+}

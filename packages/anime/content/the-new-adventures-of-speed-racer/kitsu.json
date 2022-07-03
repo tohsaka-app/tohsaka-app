@@ -1,0 +1,26 @@
+{
+  "slug": "the-new-adventures-of-speed-racer",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "The New Adventures of Speed Racer"
+  },
+  "releasedAt": "1993-01-01T00:00:00.000Z",
+  "finishedAt": "1994-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8022/original.png",
+  "categories": [
+    "action",
+    "anime influenced",
+    "motorsport",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8022",
+    "thetvdb": "267501/1",
+    "thetvdb/series": "267501"
+  }
+}

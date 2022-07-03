@@ -1,0 +1,37 @@
+{
+  "slug": "fukumenkei-noise",
+  "synopsis": "Nino, a girl who likes to sing, experienced two farewells in the past. First, with her first love, Momo, and second, with Yuzu, a boy who composes music. But upon those two farewells, she made a promise with each of them: to continue singing until they find her voice again. Time has passed, and now these three are in high school...?!\n\n(Source: Amazon)",
+  "title": {
+    "en": "Anonymous Noise",
+    "jp": "Fukumenkei Noise"
+  },
+  "releasedAt": "2017-04-11T00:00:00.000Z",
+  "finishedAt": "2017-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12117/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12117/original.jpg",
+  "categories": [
+    "drama",
+    "high school",
+    "music",
+    "romance",
+    "school clubs",
+    "school life",
+    "shoujo",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.amazon.com/No-Matter-What-Right-Now/dp/B06Y5SCYK4",
+    "https://www.hidive.com/tv/anonymous-noise/"
+  ],
+  "relations": {
+    "kitsu": "12117",
+    "anidb": "12088",
+    "anilist/anime": "21773",
+    "aozora": "c40yilMf7A",
+    "myanimelist/anime": "33203",
+    "thetvdb": "321672/1"
+  }
+}

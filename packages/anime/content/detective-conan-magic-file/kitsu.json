@@ -1,0 +1,24 @@
+{
+  "slug": "detective-conan-magic-file",
+  "synopsis": "First Magic File that was ever sold for Detective Conan series.\nNo new material in this Magic File, which only contained episodes 132-134, 196, 266-268, and 291-293.",
+  "title": {
+    "en": "Case Closed Magic File",
+    "jp": "Meitantei Conan Magic File"
+  },
+  "releasedAt": "2007-04-11T00:00:00.000Z",
+  "finishedAt": "2007-04-11T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6374/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "cops",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6374"
+  }
+}

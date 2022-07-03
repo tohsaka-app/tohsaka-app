@@ -1,0 +1,25 @@
+{
+  "slug": "rio-rainbow-gate-special",
+  "synopsis": "An extra episode of Rio: Rainbow Gate! which will be bundled with the seventh volume of the Blu-ray and the DVD. ",
+  "title": {
+    "jp": "Rio: Rainbow Gate! Special"
+  },
+  "releasedAt": "2011-10-19T00:00:00.000Z",
+  "finishedAt": "2011-10-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6119/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6119",
+    "anilist/anime": "10301",
+    "aozora": "ztAAWqEjJj",
+    "myanimelist/anime": "10301"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "baki-the-grappler",
+  "synopsis": "Baki Hanma is a young fighter who yearns to follow in the footsteps of his father, Yujiro, and become the strongest fighter in the world. Through that he trains tirelessly and fights constantly to hone his skills and develop his body to achieve these goals. Many intense battles lay ahead of Baki as he goes about his quest to be the best and ultimately take the title of \"King\" from his father.",
+  "title": {
+    "jp": "Grappler Baki (TV)"
+  },
+  "releasedAt": "2001-01-09T00:00:00.000Z",
+  "finishedAt": "2001-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/262/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "combat",
+    "earth",
+    "japan",
+    "martial arts",
+    "plot continuity",
+    "present",
+    "sports",
+    "stereotypes",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "262",
+    "anidb": "453",
+    "anilist/anime": "287",
+    "aozora": "jWgmhy6H7j",
+    "myanimelist/anime": "287",
+    "thetvdb": "79237/1",
+    "thetvdb/season": "42971",
+    "thetvdb/series": "79237",
+    "trakt": "56069"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "bokutachi-no-kidzuki-hen",
+  "synopsis": "A special short to promote the web app of JRA-VAN TRY for horse races.",
+  "title": {
+    "jp": "Bokutachi no Kidzuki-hen"
+  },
+  "releasedAt": "2019-09-11T00:00:00.000Z",
+  "finishedAt": "2019-09-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44466/original.jpg",
+  "categories": [
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44466",
+    "myanimelist/anime": "40793"
+  }
+}

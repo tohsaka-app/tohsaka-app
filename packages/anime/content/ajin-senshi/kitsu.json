@@ -1,0 +1,25 @@
+{
+  "slug": "ajin-senshi",
+  "synopsis": "In the year 2200 an interstellar war is held where the weapons most frequently used are the psychic capacities. The hero, Zero, son of an earthling and an extraterrestrial, the prince and last survivor of a clan of magicians. He will fight against the army of the Manjidara empire, whose forces are such as its head ambition to control the whole universe.\n(Source: AniDB)",
+  "title": {
+    "jp": "Ajin Senshi"
+  },
+  "releasedAt": "1990-11-17T00:00:00.000Z",
+  "finishedAt": "1990-11-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8677/original.jpg",
+  "categories": [
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8677",
+    "anidb": "4182",
+    "anilist/anime": "17325",
+    "aozora": "W5aWjbDwji",
+    "myanimelist/anime": "17325"
+  }
+}

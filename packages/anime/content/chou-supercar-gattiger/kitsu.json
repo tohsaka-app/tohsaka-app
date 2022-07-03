@@ -1,0 +1,26 @@
+{
+  "slug": "chou-supercar-gattiger",
+  "synopsis": "A scientist invents 5 special solar powered cars that can be joined into one supercar. The cars are given to the scientists son and his friends to compete in the racing circuit, but they are pursued by an evil organization that wants the secret of solar power. \n(Source: AniDB)",
+  "title": {
+    "jp": "Chou Supercar Gattiger"
+  },
+  "releasedAt": "1977-10-04T00:00:00.000Z",
+  "finishedAt": "1978-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5918/original.jpg",
+  "categories": [
+    "action",
+    "motorsport",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5918",
+    "anidb": "5248",
+    "anilist/anime": "9881",
+    "aozora": "iJ3kVCvprV",
+    "myanimelist/anime": "9881"
+  }
+}

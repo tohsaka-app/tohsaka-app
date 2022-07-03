@@ -1,0 +1,23 @@
+{
+  "slug": "imouto-sae-ireba-ii-ona-specials",
+  "synopsis": "",
+  "title": {
+    "jp": "Imouto sae Ireba Ii. (ONA) Specials"
+  },
+  "releasedAt": "2018-01-26T00:00:00.000Z",
+  "finishedAt": "2018-03-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41715/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41715/original.jpg",
+  "categories": [
+    "comedy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41715",
+    "myanimelist/anime": "37047"
+  }
+}

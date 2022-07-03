@@ -1,0 +1,33 @@
+{
+  "slug": "giant-killing",
+  "synopsis": "East Tokyo United, ETU, has been struggling in Japan's top football league for a few years.  It has taken everything they have just to avoid relegation. To make matters even worse, the fans are starting to abandon the team.\nIn an effort to improve their performance, ETU has hired a new coach, the slightly eccentric Tatsumi Takeshi.  Tatsumi, who was considered a great football player when he was younger, abandoned the team years before but has proven himself as the manager of one of England's lower division amateur teams.  The task won't be easy, the teams East Tokyo United is pitted against have bigger budgets and better players.  However, Tatsumi is an expert at Giant Killing.",
+  "title": {
+    "en": "Giant Killing",
+    "jp": "Giant Killing"
+  },
+  "releasedAt": "2010-04-04T00:00:00.000Z",
+  "finishedAt": "2010-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5072/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5072/original.jpg",
+  "categories": [
+    "japan",
+    "plot continuity",
+    "present",
+    "soccer",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5072",
+    "anidb": "7234",
+    "anilist/anime": "7661",
+    "aozora": "V3eIdi6xmJ",
+    "myanimelist/anime": "7661",
+    "thetvdb": "139631/1",
+    "thetvdb/series": "139631",
+    "trakt": "46394"
+  }
+}

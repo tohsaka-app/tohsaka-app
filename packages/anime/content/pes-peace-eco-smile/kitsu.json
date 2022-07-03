@@ -1,0 +1,34 @@
+{
+  "slug": "pes-peace-eco-smile",
+  "synopsis": "A collaborative effort between the Japanese automaker and Japanese anime company Studio 4°C, PES: Peace Eco Smile is a new web promotional anime series that centers around PES, a traveller from space, and NaSuBi, a mysterious life-form who is enamored by the charm of Earth. The car of choice for these strangers in a new world? The Prius, particularly the Prius Liftback and Prius C hatchback. These two hybrids seem to be as much a part of this series as the two main characters are. A Lexus LFA (likely the ride of the antagonist) and the Toyota Camry hybrid also have a role to play.\nEach anime short in the campaign will be three to four minutes long and will be posted on Toyota's specially-dedicated website.\n(Source: Auto Tribute)",
+  "title": {
+    "en": "PES: Peace Eco Smiles",
+    "jp": "PES: Peace Eco Smile"
+  },
+  "releasedAt": "2012-05-25T00:00:00.000Z",
+  "finishedAt": "2012-08-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6961/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6961/original.jpg",
+  "categories": [
+    "alien",
+    "japan",
+    "motorsport",
+    "plot continuity",
+    "present",
+    "slice of life",
+    "space"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/pes-peace-eco-smile"
+  ],
+  "relations": {
+    "kitsu": "6961",
+    "anidb": "9121",
+    "anilist/anime": "13427",
+    "aozora": "7GFcDPD5nw",
+    "myanimelist/anime": "13427"
+  }
+}

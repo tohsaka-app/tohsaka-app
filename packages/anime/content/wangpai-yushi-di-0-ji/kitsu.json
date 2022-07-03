@@ -1,0 +1,24 @@
+{
+  "slug": "wangpai-yushi-di-0-ji",
+  "synopsis": "Episode 0 of Wangpai Yushi.",
+  "title": {
+    "jp": "Wangpai Yushi Di 0 Ji"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10697/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10697",
+    "aozora": "6UVtAOYrWB",
+    "myanimelist/anime": "30166"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "c-the-money-of-soul-and-possibility-control",
+  "synopsis": "Description: Kimimaro works two jobs to make ends meet. He could go from pauper to prince in a parallel world called the Financial District—if he’ll invest his future as collateral in a dangerous game. Winning gets you more wealth, but losing could erase you from existence. When the destructive forces at play compel Kimimaro to confront the most powerful player, can he save the real world from total collapse?",
+  "title": {
+    "en": "C - Control",
+    "jp": "C: The Money of Soul and Possibility Control"
+  },
+  "releasedAt": "2011-04-15T00:00:00.000Z",
+  "finishedAt": "2011-06-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6061/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6061/original.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "asia",
+    "conspiracy",
+    "dystopia",
+    "earth",
+    "future",
+    "japan",
+    "mystery",
+    "super power",
+    "thriller"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/c-control",
+    "http://www.funimation.com/shows/38924",
+    "https://tubitv.com/series/2268/c_control"
+  ],
+  "relations": {
+    "kitsu": "6061",
+    "anidb": "8149",
+    "anilist/anime": "10163",
+    "aozora": "7xi1WyELus",
+    "hulu": "50003464",
+    "myanimelist/anime": "10163",
+    "thetvdb": "239951/1",
+    "thetvdb/series": "239951",
+    "trakt": "39268"
+  }
+}

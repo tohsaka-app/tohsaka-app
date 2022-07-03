@@ -1,0 +1,20 @@
+{
+  "slug": "tejina-shi",
+  "synopsis": "An educational film meant to teach morals, to elementary through high school children.",
+  "title": {
+    "jp": "Tejina Shi"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40614/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40614",
+    "aozora": "jDIAJqTl0E",
+    "myanimelist/anime": "34705"
+  }
+}

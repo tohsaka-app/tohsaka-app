@@ -1,0 +1,33 @@
+{
+  "slug": "strange-love",
+  "synopsis": "Yoshida Chizuru is the sexiest co-ed in her class. Secretly, she's been appearing in TV commercials—despite the fact that students are forbidden from working. But one of her professors has uncovered her secret and hopes to use this information to his advantage. Yoshida's got plans of her own, and has no intention of giving up her acting career...",
+  "title": {
+    "en": "Strange Love",
+    "jp": "Hen"
+  },
+  "releasedAt": "1997-03-21T00:00:00.000Z",
+  "finishedAt": "1997-05-09T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2099/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "high school",
+    "japan",
+    "present",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2099",
+    "anidb": "885",
+    "anilist/anime": "2317",
+    "aozora": "8LSOlyFt3U",
+    "myanimelist/anime": "2317"
+  }
+}

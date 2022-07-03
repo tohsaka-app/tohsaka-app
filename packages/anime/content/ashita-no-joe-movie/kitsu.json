@@ -1,0 +1,28 @@
+{
+  "slug": "ashita-no-joe-movie",
+  "synopsis": "An abridged remake of the first Ashita no Joe TV series, released in 1980 to provide back-story for the second TV series to new fans who were not familiar with the first TV series or the manga.\n(Source: ANN)",
+  "title": {
+    "jp": "Ashita no Joe (Movie)"
+  },
+  "releasedAt": "1980-03-08T00:00:00.000Z",
+  "finishedAt": "1980-03-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2645/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2645/original.jpg",
+  "categories": [
+    "action",
+    "boxing",
+    "combat",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2645",
+    "anidb": "1631",
+    "anilist/anime": "2920",
+    "aozora": "oXoXsltuja",
+    "myanimelist/anime": "2920"
+  }
+}

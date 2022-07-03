@@ -1,0 +1,33 @@
+{
+  "slug": "marine-express",
+  "synopsis": "The year is 2002, and the Marine Express, the first underwater train between America and Japan, is ready for its maiden voyage. The chief engineer suspects that the train's test run will be used for illicit purposes and hires private detective Ban Shunsaku. He arrives to his client's mansion only to find that he has just been murdered. Armed with just a glimpse of the murderer's face, Shunsaku boards the Marine Express to get to the bottom of this mystery. This job, however, is much more than what he bargained for, as the train holds secrets beyond anyone's imagination.\n(Source: ANN)",
+  "title": {
+    "en": "Undersea Super Train: Marine Express",
+    "jp": "Kaitei Choutokkyuu: Marine Express"
+  },
+  "releasedAt": "1979-08-26T00:00:00.000Z",
+  "finishedAt": "1979-08-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2839/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "android",
+    "comedy",
+    "detective",
+    "earth",
+    "future",
+    "science fiction",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2839",
+    "anidb": "756",
+    "anilist/anime": "3175",
+    "aozora": "OAwymsmsuo",
+    "myanimelist/anime": "3175"
+  }
+}

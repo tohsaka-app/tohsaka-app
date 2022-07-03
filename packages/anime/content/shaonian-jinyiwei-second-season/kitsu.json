@@ -1,0 +1,27 @@
+{
+  "slug": "shaonian-jinyiwei-second-season",
+  "synopsis": "The second season of The Young Imperial Guards.",
+  "title": {
+    "en": "The Young Imperial Guards 2nd Season",
+    "jp": "Shaonian Jinyiwei 2nd Season"
+  },
+  "releasedAt": "2017-09-18T00:00:00.000Z",
+  "finishedAt": "2018-01-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40996/original.jpg",
+  "categories": [
+    "adventure",
+    "historical",
+    "martial arts",
+    "mystery",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40996",
+    "anilist/anime": "102432",
+    "myanimelist/anime": "37152"
+  }
+}

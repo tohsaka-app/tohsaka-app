@@ -1,0 +1,26 @@
+{
+  "slug": "baki",
+  "synopsis": "Bundled with the limited edition of 14th Baki-Dou manga volume. Despite being dumdled with Baki-Dou, it will adapt part of the  the \"Most Evil Death Row Convicts\" arc from Baki: New Grappler Baki. The arc features underground ring fighters in the no-rules combat environment of death row convicts. The OAD will highlight five individuals from prisons around the world who \"long to know defeat.\" The five individuals break out of their respective prisons and head to Japan. ",
+  "title": {
+    "jp": "Baki: Most Evil Death Row Convicts Special Anime"
+  },
+  "releasedAt": "2016-12-06T00:00:00.000Z",
+  "finishedAt": "2016-12-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12315/original.jpg",
+  "categories": [
+    "action",
+    "martial arts",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12315",
+    "anidb": "12258",
+    "anilist/anime": "87501",
+    "aozora": "cYvtucDZzB",
+    "myanimelist/anime": "33566"
+  }
+}

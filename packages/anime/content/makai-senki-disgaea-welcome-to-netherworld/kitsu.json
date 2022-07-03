@@ -1,0 +1,27 @@
+{
+  "slug": "makai-senki-disgaea-welcome-to-netherworld",
+  "synopsis": "A unique trailer found on both the DVDs and on the Disgaea 2 game advertising the anime. The animation for it is completely new, none is recycled from the show itself. Does a decent job of introducing the major characters and general plot, with new battle scenes and an altered plot so as to not give everything away. There's even a boom in shot at one point!",
+  "title": {
+    "jp": "Makai Senki Disgaea: Welcome to Netherworld"
+  },
+  "releasedAt": "2006-02-23T00:00:00.000Z",
+  "finishedAt": "2006-02-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4694/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "demon",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4694",
+    "anilist/anime": "6741",
+    "aozora": "2bY8MEupDV",
+    "myanimelist/anime": "6741"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "slug": "princess-tutu",
+  "synopsis": "In a fairy tale come to life, the clumsy, sweet, and gentle Ahiru (Japanese for \"duck\") seems like an unlikely protagonist. In reality, Ahiru is just as magical as the talking cats and crocodiles that inhabit her town—for Ahiru really is a duck! Transformed by the mysterious Drosselmeyer into a human girl, Ahiru soon learns the reason for her existence. Using her magical egg-shaped pendant, Ahiru can transform into Princess Tutu—a beautiful and talented ballet dancer whose dances relieve people of the turmoil in their hearts. With her newfound ability, Ahiru accepts the challenge of collecting the lost shards of her prince's heart, for long ago he had shattered it in order to seal an evil raven away for all eternity.\nPrincess Tutu is a tale of heroes and their struggle against fate. Their beliefs, their feelings, and ultimately their actions will determine whether this fairy tale can reach its \"happily ever after.\"\n\nNote: Princess Tutu aired in two parts. The first part included 13 25-minute episodes, while the second part consisted of 24 12-minute episodes with a 25-minute final episode.",
+  "title": {
+    "en": "Princess Tutu",
+    "jp": "Princess Tutu"
+  },
+  "releasedAt": "2002-08-16T00:00:00.000Z",
+  "finishedAt": "2003-05-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/650/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/650/original.jpg",
+  "categories": [
+    "alternative past",
+    "anthropomorphism",
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "fantasy world",
+    "love polygon",
+    "magic",
+    "magical girl",
+    "middle school",
+    "music",
+    "past",
+    "performance",
+    "plot continuity",
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "HI: https://www.hidive.com/tv/princess-tutu",
+    "http://www.hulu.com/princess-tutu",
+    "https://www.amazon.com/dp/B00C1376K6/"
+  ],
+  "relations": {
+    "kitsu": "650",
+    "anidb": "516",
+    "anilist/anime": "721",
+    "aozora": "eIg705yERn",
+    "hulu": "50001831",
+    "myanimelist/anime": "721",
+    "thetvdb": "76045/1",
+    "thetvdb/series": "76045",
+    "trakt": "33985"
+  }
+}

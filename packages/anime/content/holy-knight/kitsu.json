@@ -1,0 +1,36 @@
+{
+  "slug": "holy-knight",
+  "synopsis": "The story centers around a timid orphan named Mizumura Shinta who goes to a missionary school in Tokyo. His seemingly normal life changes when a beautiful half-human Romanian girl named Lilith suddenly transfers into his school. Mizumura discovers that he is actually a vampire hunter and the successor of the Romuald lineage.\n(Source: ANN)",
+  "title": {
+    "en": "Holy Knight",
+    "jp": "Holy Knight"
+  },
+  "releasedAt": "2012-03-21T00:00:00.000Z",
+  "finishedAt": "2012-05-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6437/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6437/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "japan",
+    "parental abandonment",
+    "present",
+    "school life",
+    "vampire"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/holy-knight"
+  ],
+  "relations": {
+    "kitsu": "6437",
+    "anidb": "8541",
+    "anilist/anime": "11005",
+    "aozora": "HoehPG1P9g",
+    "myanimelist/anime": "11005"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "let-me-stay-here",
+  "synopsis": "Music video for the song Let Me Stay Here by Ceres Fauna.",
+  "title": {
+    "en": "Let Me Stay Here"
+  },
+  "releasedAt": "2022-05-14T00:00:00.000Z",
+  "finishedAt": "2022-05-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46155/poster_image/5eb9404b639d00cfc16bc7a08c7937bc.png",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=0RMVJTLZOzQ&ab_channel=CeresFaunaCh.hololive-EN"
+  ],
+  "relations": {
+    "kitsu": "46155"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "the-gakuen-choujotai",
+  "synopsis": "Anime based on a 1986 novel.",
+  "title": {
+    "jp": "The Gakuen Choujo-tai"
+  },
+  "releasedAt": "1991-06-27T00:00:00.000Z",
+  "finishedAt": "1991-06-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6723/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "contemporary fantasy",
+    "demon",
+    "earth",
+    "japan",
+    "present",
+    "school life",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6723",
+    "anidb": "7033",
+    "anilist/anime": "12401",
+    "aozora": "lm2BgKrmlb",
+    "myanimelist/anime": "12401"
+  }
+}

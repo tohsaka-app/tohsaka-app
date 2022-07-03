@@ -1,0 +1,24 @@
+{
+  "slug": "manga-nihon-keizai-nyuumon",
+  "synopsis": "Depiction of Japan's economy, based on Shoutarou Ishinomori's epynomous manga.",
+  "title": {
+    "jp": "Manga Nihon Keizai Nyuumon"
+  },
+  "releasedAt": "1987-10-13T00:00:00.000Z",
+  "finishedAt": "1988-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6307/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6307",
+    "anidb": "6498",
+    "anilist/anime": "10709",
+    "aozora": "qdQNpiyUBy",
+    "myanimelist/anime": "10709"
+  }
+}

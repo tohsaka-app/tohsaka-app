@@ -1,0 +1,27 @@
+{
+  "slug": "samurai-spirits",
+  "synopsis": "One hundred years after their deaths, six legendary holy warriors are reborn to seek justice against the former comrade who betrayed them into the hands of an evil god! The six warriors search the feudal province of Edo questing for the last Saint Soldier, Haohmaru, and their sworn nemesis Shirou Amakusa. Will the followers of the divine light triumph over the forces of darkness, or is history destined to repeat itself? Before their hundred-year journey has ended, six samurai will prove that the only thing stronger than their holy blades is the steel of their wills!\n(Source: AniDB)",
+  "title": {
+    "en": "Samurai Shodown The Motion Picture",
+    "jp": "Samurai Spirits: Haten Gouma no Shou"
+  },
+  "releasedAt": "1994-09-18T00:00:00.000Z",
+  "finishedAt": "1994-09-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2355/original.jpg",
+  "categories": [
+    "adventure",
+    "historical",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2355",
+    "anidb": "932",
+    "anilist/anime": "2591",
+    "aozora": "NhirfYS1N9",
+    "myanimelist/anime": "2591"
+  }
+}

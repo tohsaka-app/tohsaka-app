@@ -1,0 +1,24 @@
+{
+  "slug": "maria-holic-alive-special",
+  "synopsis": "An unaired scene (C part) from the first episode.",
+  "title": {
+    "jp": "Maria†Holic Alive Special"
+  },
+  "releasedAt": "2011-07-27T00:00:00.000Z",
+  "finishedAt": "2011-07-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6419/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6419",
+    "aozora": "HxuI4vk09a"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "futago-no-ookami-daibouken",
+  "synopsis": "Music video about twin wolfs that aired as part of NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Futago no Ookami Daibouken"
+  },
+  "releasedAt": "1980-10-01T00:00:00.000Z",
+  "finishedAt": "1980-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10254/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10254",
+    "anidb": "12614",
+    "anilist/anime": "104410",
+    "aozora": "dVPo7AjWdQ",
+    "myanimelist/anime": "29179"
+  }
+}

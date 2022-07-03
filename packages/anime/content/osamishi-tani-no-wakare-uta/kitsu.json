@@ -1,0 +1,24 @@
+{
+  "slug": "osamishi-tani-no-wakare-uta",
+  "synopsis": "Short movie by Tadanari Okamoto.",
+  "title": {
+    "jp": "Osamishi Tani no Wakare Uta"
+  },
+  "releasedAt": "1971-01-01T00:00:00.000Z",
+  "finishedAt": "1971-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10617/original.jpg",
+  "categories": [
+    "historical",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10617",
+    "anilist/anime": "102514",
+    "aozora": "0HWWtMVdng",
+    "myanimelist/anime": "30065"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "oshiete-fairilu-mahou-no-pendulum",
+  "synopsis": "",
+  "title": {
+    "jp": "Oshiete Mahou no Pendulum: Rilu Rilu Fairilu"
+  },
+  "releasedAt": "2018-07-07T00:00:00.000Z",
+  "finishedAt": "2019-01-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41354/original.jpg",
+  "categories": [
+    "fantasy",
+    "magic",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41354",
+    "anidb": "13811",
+    "anilist/anime": "101985",
+    "myanimelist/anime": "37328"
+  }
+}

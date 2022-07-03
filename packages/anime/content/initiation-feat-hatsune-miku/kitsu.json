@@ -1,0 +1,24 @@
+{
+  "slug": "initiation-feat-hatsune-miku",
+  "synopsis": "Music video directed by YKBX for the title track Initiation by Keiichirou Shibuya and Hiroki Azuma, featuring Hatsune Miku. It was included on DVD with the release of the album.",
+  "title": {
+    "jp": "Initiation feat. Hatsune Miku"
+  },
+  "releasedAt": "2012-12-26T00:00:00.000Z",
+  "finishedAt": "2012-12-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42565/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/dIfLTw3tbE8"
+  ],
+  "relations": {
+    "kitsu": "42565",
+    "myanimelist/anime": "40442"
+  }
+}

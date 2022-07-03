@@ -1,0 +1,23 @@
+{
+  "slug": "cardfight-vanguard-shinemon-hen",
+  "synopsis": "Story centering on the character Shinemon Nitta in his younger days as a third-year high school student before he becomes the manager of Card Capital. The story will be set about ten years before the events of Cardfight!! Vanguard: High School Arc Cont.\n\n(Source: Anime News Network)",
+  "title": {
+    "jp": "Cardfight!! Vanguard: Shinemon-hen"
+  },
+  "releasedAt": "2019-07-24T00:00:00.000Z",
+  "finishedAt": "2020-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42452/original.jpg",
+  "categories": [
+    "card games",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42452",
+    "anilist/anime": "111144",
+    "myanimelist/anime": "40167"
+  }
+}

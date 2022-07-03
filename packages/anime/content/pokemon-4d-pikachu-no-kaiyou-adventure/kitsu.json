@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-4d-pikachu-no-kaiyou-adventure",
+  "synopsis": "When Pikachu and friends decide to stop by a tropical island for some rest and relaxation, they got more than they had bargained for after Chatot discovers a Treasure Map! They follow the map to Wailord’s Tear, a mysterious place located in a sunken pirate ship. Will Pikachu and friends find the treasure? What mysteries and dangers are in store? Will our pals return safely? Find out in Pikachu’s Ocean Adventure! \n(Source: Bulbapedia)",
+  "title": {
+    "en": "Pokemon 4D: Pikachu's Ocean Adventure",
+    "jp": "Pokemon 3D Adventure 2: Pikachu no Kaitei Daibouken"
+  },
+  "releasedAt": "2006-05-20T00:00:00.000Z",
+  "finishedAt": "2006-05-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6438/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6438",
+    "anidb": "8672",
+    "anilist/anime": "11009",
+    "aozora": "Ydz9ADhG7Q",
+    "myanimelist/anime": "11009"
+  }
+}

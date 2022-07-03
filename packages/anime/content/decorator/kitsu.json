@@ -1,0 +1,23 @@
+{
+  "slug": "decorator",
+  "synopsis": "livetune feat. Hatsune Miku「DECORATOR」Music Video",
+  "title": {
+    "jp": "Decorator"
+  },
+  "releasedAt": "2014-02-20T00:00:00.000Z",
+  "finishedAt": "2014-02-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8727/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8727",
+    "anilist/anime": "102469",
+    "aozora": "lkSQTVvpOW",
+    "myanimelist/anime": "23483"
+  }
+}

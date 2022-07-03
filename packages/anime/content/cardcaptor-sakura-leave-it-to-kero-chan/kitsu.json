@@ -1,0 +1,26 @@
+{
+  "slug": "cardcaptor-sakura-leave-it-to-kero-chan",
+  "synopsis": "Following the events of Cardcaptor Sakura Movie 2: The Sealed Card, Kero and Spinel share a plate of takoyaki (octopus balls). They get into a fight over who gets the last piece, and in the process send it flying out the window. They both chase the takoyaki, and each other, in a mighty effort to be the \"takoyaki captor\".\n(Source: ANN)",
+  "title": {
+    "jp": "Cardcaptor Sakura: Kero-chan ni Omakase!"
+  },
+  "releasedAt": "2000-07-15T00:00:00.000Z",
+  "finishedAt": "2000-07-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/963/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/963/original.jpg",
+  "categories": [
+    "comedy",
+    "magical girl",
+    "shoujo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "963",
+    "anilist/anime": "1078",
+    "aozora": "mNXXtEpHY5",
+    "myanimelist/anime": "1078"
+  }
+}

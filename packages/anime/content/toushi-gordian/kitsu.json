@@ -1,0 +1,30 @@
+{
+  "slug": "toushi-gordian",
+  "synopsis": "The Earth had become a wasteland of deserts as the survivors work to rebuild communities. Daigo Otaki is a young orphan raised by his uncle. Becoming an adult, Daigo discovers that Victor City was in fact planned by his father who was a genius scientist. Daigo's sister Saori had been managing it. She plead Daigo to take on the inheritance that Daigo's father left him, a super robot system known as Gordian. Daigo would join the Mechacon mechanic combat 18th regiment unit, an organization of law enforcers that defend Victor City against attacks from the Madokuta organization.\n(Source: Gordian Warrior, Wikipedia)",
+  "title": {
+    "en": "Gordian Warrior",
+    "jp": "Toushi Gordian"
+  },
+  "releasedAt": "1979-10-07T00:00:00.000Z",
+  "finishedAt": "1981-02-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3887/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3887",
+    "anidb": "1816",
+    "anilist/anime": "5022",
+    "aozora": "Flna44lAFc",
+    "myanimelist/anime": "5022",
+    "thetvdb": "161911/1",
+    "thetvdb/series": "161911",
+    "trakt": "65788"
+  }
+}

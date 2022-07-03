@@ -1,0 +1,23 @@
+{
+  "slug": "fruits-5-shimai",
+  "synopsis": "Minna no Uta clip about fruit sisters trying to decide who's the sweetest, with song by Momoiro Clover Z. \n\n(Source: MAL)",
+  "title": {
+    "jp": "Fruits 5 Shimai"
+  },
+  "releasedAt": "2016-10-01T00:00:00.000Z",
+  "finishedAt": "2016-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14245/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14245",
+    "anilist/anime": "103763",
+    "myanimelist/anime": "36846"
+  }
+}

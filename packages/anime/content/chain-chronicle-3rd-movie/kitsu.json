@@ -1,0 +1,27 @@
+{
+  "slug": "chain-chronicle-3rd-movie",
+  "synopsis": "Set in the land of Yuguto, the people thought that the land they live is the size of the world, but it’s actually divided into several areas, each with a respective king. Even though there were small wars among areas, the kings had roundtable meetings to maintain peace and balance. It was until a dark group of dark monsters appeared...\n(Source: MAL News)",
+  "title": {
+    "en": "Chain Chronicle: The Light of Haecceitas Part 3",
+    "jp": "Chain Chronicle: Haecceitas no Hikari Part 3"
+  },
+  "releasedAt": "2017-02-11T00:00:00.000Z",
+  "finishedAt": "2017-02-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12462/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12462",
+    "anilist/anime": "87507",
+    "aozora": "ICCSCjyNdZ",
+    "myanimelist/anime": "33730"
+  }
+}

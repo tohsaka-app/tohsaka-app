@@ -1,0 +1,24 @@
+{
+  "slug": "watakushiritori",
+  "synopsis": "One day is presented by shiritori, a word game of last and first. A chain of images in one line evolves the story of this game.\n\nGraduate Work 2013, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Japanese word-chain game",
+    "jp": "Watakushiritori"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45865/poster_image/a5c899d308fc180c27d658335678692b.png",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [
+    "https://youtu.be/TGMfab8spAA"
+  ],
+  "relations": {
+    "kitsu": "45865",
+    "anilist/anime": "115456"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "huyao-xiao-hongniang-beishan-yaodi",
+  "synopsis": "The fouth season of Huyao Xiao Hongniang and the continuation of the Yue Hong arc.",
+  "title": {
+    "en": "Fox Spirit Matchmaker 4th Season"
+  },
+  "releasedAt": "2016-11-18T00:00:00.000Z",
+  "finishedAt": "2017-01-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13246/original.jpg",
+  "categories": [
+    "comedy",
+    "contemporary fantasy",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13246",
+    "anilist/anime": "102601",
+    "myanimelist/anime": "36823"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hajime-ningen-gyatoruz",
+  "synopsis": "A comedy about the wacky adventures of Giatrus and his tribe of the first human beings on the planet. \n(Source: AniDB)",
+  "title": {
+    "jp": "Hajime Ningen Gyatoruz"
+  },
+  "releasedAt": "1974-10-05T00:00:00.000Z",
+  "finishedAt": "1976-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5482/original.jpg",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5482",
+    "anidb": "3625",
+    "anilist/anime": "8763",
+    "aozora": "pIsz2PAfqS",
+    "myanimelist/anime": "8763"
+  }
+}

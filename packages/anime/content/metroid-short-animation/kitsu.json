@@ -1,0 +1,19 @@
+{
+  "slug": "metroid-short-animation",
+  "synopsis": "",
+  "title": {
+    "jp": "Metroid Short Animation"
+  },
+  "releasedAt": "2016-06-06T00:00:00.000Z",
+  "finishedAt": "2016-06-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41811/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41811",
+    "myanimelist/anime": "37548"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "joker-game-kuroneko-yoru-no-bouken",
+  "synopsis": "Specials included with the Blu-ray box set releases of Joker Game.",
+  "title": {
+    "jp": "Joker Game: Kuroneko Yoru no Bouken"
+  },
+  "releasedAt": "2016-07-27T00:00:00.000Z",
+  "finishedAt": "2016-09-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12183/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12183/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12183",
+    "anilist/anime": "21790",
+    "aozora": "u6GfkQxphA",
+    "myanimelist/anime": "33129"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "jian-yu-chuanqi",
+  "synopsis": null,
+  "title": {
+    "en": "The Legend of Sword Domain"
+  },
+  "releasedAt": "2021-11-28T00:00:00.000Z",
+  "finishedAt": "2022-04-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45582/poster_image/a464dcf76fb20bd5ae08b4f8292f5fe5.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45582",
+    "anilist/anime": "142178"
+  }
+}

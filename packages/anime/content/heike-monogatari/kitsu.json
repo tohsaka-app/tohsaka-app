@@ -1,0 +1,26 @@
+{
+  "slug": "heike-monogatari",
+  "synopsis": "The original epic tells the story of the rise and fall of the Taira clan during the Genpei War. The anime centers on the perspective of Biwa, a blind traveling minstrel. Biwa meets Taira no Shigemori, heir to his clan, and bearing a supernatural sight that can perceive ghosts. She then proclaims to him a prophecy of his clan's downfall.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "The Heike Story",
+    "jp": "Heike Monogatari"
+  },
+  "releasedAt": "2021-09-16T00:00:00.000Z",
+  "finishedAt": "2021-11-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45065/poster_image/f4c96f8310926cfb4e729fd701e39345.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/45065/original.png",
+  "categories": [
+    "historical"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/the-heike-story/"
+  ],
+  "relations": {
+    "kitsu": "45065",
+    "anilist/anime": "138714",
+    "myanimelist/anime": "49738"
+  }
+}

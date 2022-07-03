@@ -1,0 +1,24 @@
+{
+  "slug": "wasurerumonka",
+  "synopsis": "An educational film meant to inspire people and to not pity those with disabilities. ",
+  "title": {
+    "jp": "Wasurerumonka!"
+  },
+  "releasedAt": "1993-01-01T00:00:00.000Z",
+  "finishedAt": "1993-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11064/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11064",
+    "anidb": "10131",
+    "aozora": "xcr6YTfFSW",
+    "myanimelist/anime": "30974"
+  }
+}

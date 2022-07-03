@@ -1,0 +1,28 @@
+{
+  "slug": "doraemon-nobita-and-the-green-giant-legend",
+  "synopsis": "One day Nobita found a small sapling behind the hill but his mom won't allow him to plant it in the backyard. Using Doraemon's special tool, they made the tree alive so it could move around freely. Nobita name it Ki-bō and the two became like brothers. From there, a new adventure awaits...",
+  "title": {
+    "en": "Doraemon the Movie: Nobita and the Green Giant Legend",
+    "jp": "Doraemon Movie 28: Nobita to Midori no Kyojin Den"
+  },
+  "releasedAt": "2008-03-08T00:00:00.000Z",
+  "finishedAt": "2008-03-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3927/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3927",
+    "anidb": "6382",
+    "anilist/anime": "5096",
+    "aozora": "pN2VORWRek",
+    "myanimelist/anime": "5096"
+  }
+}

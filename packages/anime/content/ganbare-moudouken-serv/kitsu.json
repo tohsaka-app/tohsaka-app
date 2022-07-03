@@ -1,0 +1,24 @@
+{
+  "slug": "ganbare-moudouken-serv",
+  "synopsis": "A TV special from December 1988 about a guide dog for the blind called Serv (サーブ). This dog lived in the real world, and died shortly before the anime production.\n(Source: AniDB) ",
+  "title": {
+    "jp": "Ganbare! Moudouken Serve"
+  },
+  "releasedAt": "1988-12-18T00:00:00.000Z",
+  "finishedAt": "1988-12-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5923/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5923",
+    "anidb": "8091",
+    "anilist/anime": "9886",
+    "aozora": "EBsU8UaUzx",
+    "myanimelist/anime": "9886"
+  }
+}

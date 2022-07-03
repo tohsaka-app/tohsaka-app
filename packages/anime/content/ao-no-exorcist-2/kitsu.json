@@ -1,0 +1,35 @@
+{
+  "slug": "ao-no-exorcist-2",
+  "synopsis": "Second season of the Ao no Exorcist series.",
+  "title": {
+    "en": "Blue Exorcist: Kyoto Saga",
+    "jp": "Ao no Exorcist: Kyoto Fujouou-hen"
+  },
+  "releasedAt": "2017-01-07T00:00:00.000Z",
+  "finishedAt": "2017-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12275/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12275/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "demon",
+    "fantasy",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.amazon.com/Shine-Bright-as-the-Sun/dp/B01N3384UP",
+    "https://www.hulu.com/blue-exorcist-kyoto-saga"
+  ],
+  "relations": {
+    "kitsu": "12275",
+    "anidb": "12240",
+    "anilist/anime": "21861",
+    "aozora": "pfUKp6AsFR",
+    "myanimelist/anime": "33506",
+    "thetvdb": "248035/2",
+    "trakt": "38304"
+  }
+}

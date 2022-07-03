@@ -1,0 +1,28 @@
+{
+  "slug": "game-tengoku-ova",
+  "synopsis": "Game Tengoku OVA which came with the limited edition version of the Sega Saturn video game.",
+  "title": {
+    "en": "The Game Paradise OVA",
+    "jp": "Game Tengoku OVA"
+  },
+  "releasedAt": "1997-06-06T00:00:00.000Z",
+  "finishedAt": "1997-06-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6384/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6384",
+    "anidb": "8773",
+    "anilist/anime": "10852",
+    "aozora": "z9tgajeTSb",
+    "myanimelist/anime": "10852"
+  }
+}

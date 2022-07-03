@@ -1,0 +1,26 @@
+{
+  "slug": "last-of-me",
+  "synopsis": "Music video for Chapter 6, based on the final fight between Rhodes Island and FrostNova. This song was produced by Steve Aoki, featuring RUNN.",
+  "title": {
+    "en": "Last Of Me",
+    "jp": "Last Of Me"
+  },
+  "releasedAt": "2020-07-26T00:00:00.000Z",
+  "finishedAt": "2020-07-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44299/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=1Uz3dzH_UeY"
+  ],
+  "relations": {
+    "kitsu": "44299",
+    "anilist/anime": "131969"
+  }
+}

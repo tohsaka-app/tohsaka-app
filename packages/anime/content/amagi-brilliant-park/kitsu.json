@@ -1,0 +1,40 @@
+{
+  "slug": "amagi-brilliant-park",
+  "synopsis": "A mysterious but pretty transfer student, Sento Isuzu, asks Kanie Seiya out on a date to an amusement park. That park was Amagi Brilliant Park, featuring worn-down attractions and lackluster service -- the worst in Japan.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Amagi Brilliant Park",
+    "jp": "Amagi Brilliant Park"
+  },
+  "releasedAt": "2014-10-07T00:00:00.000Z",
+  "finishedAt": "2014-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8259/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8259/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "present"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/amagi-brilliant-park",
+    "https://www.hidive.com/tv/amagi-brilliant-park/"
+  ],
+  "relations": {
+    "kitsu": "8259",
+    "anidb": "10399",
+    "anilist/anime": "20602",
+    "aozora": "VIBNQ48lU4",
+    "myanimelist/anime": "22147",
+    "thetvdb": "280330/1",
+    "thetvdb/series": "280330",
+    "trakt": "77967"
+  }
+}

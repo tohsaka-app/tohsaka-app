@@ -1,0 +1,26 @@
+{
+  "slug": "masamune-kun-no-revenge-r",
+  "synopsis": "The second season of Masamune-kun no Revenge.",
+  "title": {
+    "en": "Masamune-kun’s Revenge: R",
+    "jp": "Masamune-kun no Revenge R"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46031/poster_image/d77752fb9952bafff55e395b76474b6b.jpg",
+  "categories": [
+    "comedy",
+    "revenge",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46031",
+    "anilist/anime": "146953",
+    "myanimelist/anime": "51498"
+  }
+}

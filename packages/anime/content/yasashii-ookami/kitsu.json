@@ -1,0 +1,23 @@
+{
+  "slug": "yasashii-ookami",
+  "synopsis": "Bullying was what kept a timid wolf from showing kindness, but what was the real strength he showed?",
+  "title": {
+    "jp": "Yasashii Ookami"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11060/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11060",
+    "anidb": "10118",
+    "aozora": "fQgbfuvOk5",
+    "myanimelist/anime": "30969"
+  }
+}

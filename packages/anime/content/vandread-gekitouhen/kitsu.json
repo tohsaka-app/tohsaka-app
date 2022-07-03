@@ -1,0 +1,36 @@
+{
+  "slug": "vandread-gekitouhen",
+  "synopsis": "Vandread Gekitouhen (Vandread Turbulence), similiar to Vandread Taidouhen, is an OVA summary of Vandread the Second Stage plus several extra scenes\n(Source: AniDB)",
+  "title": {
+    "jp": "Vandread: Gekitou-hen"
+  },
+  "releasedAt": "2002-10-25T00:00:00.000Z",
+  "finishedAt": "2002-10-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/996/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "comedy",
+    "ecchi",
+    "future",
+    "humanoid alien",
+    "mecha",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space opera",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "996",
+    "anidb": "463",
+    "anilist/anime": "1111",
+    "aozora": "q6MxOXi2Do",
+    "myanimelist/anime": "1111"
+  }
+}

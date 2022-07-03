@@ -1,0 +1,30 @@
+{
+  "slug": "shin-mitsubachi-maya-no-bouken",
+  "synopsis": "The sequel to Mitsubachi Maya no Bouken.",
+  "title": {
+    "jp": "Shin Mitsubachi Maya no Bouken"
+  },
+  "releasedAt": "1982-10-12T00:00:00.000Z",
+  "finishedAt": "1983-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5320/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "earth",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5320",
+    "anidb": "3663",
+    "anilist/anime": "8373",
+    "aozora": "MvkALkfVoh",
+    "myanimelist/anime": "8373",
+    "thetvdb": "73518",
+    "trakt": "10569"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "uchuu-kaizoku-captain-harlock",
+  "synopsis": "It is 2977 AD and mankind has become stagnant. Robots do all the work, the masses are kept tranquil by subliminal messages, and government officials are lazy, caring only about recreational activities like golf and horse racing. Captain Harlock has defied this insipid mentality, leading a group of like-minded rebels to a more adventurous life aboard the spaceship Arcadia.\nA mysterious force known as the Mazone has invaded the Earth, taking the form of mysterious cloaked women that kill anyone who suspect their nefarious doings, such as Tadashi Daiba who is now on their hit-list. After his scientist father is ignored by the government and killed by the Mazone, he joins Captain Harlock and his ragtag group of pirates to assist them as they try to save humanity from the impending alien threat.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Space Pirate Captain Harlock",
+    "jp": "Uchuu Kaizoku Captain Harlock"
+  },
+  "releasedAt": "1978-03-14T00:00:00.000Z",
+  "finishedAt": "1979-02-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/890/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/890/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "crime",
+    "future",
+    "pirate",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space opera",
+    "space travel"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/captain-harlock",
+    "http://www.funimation.com/shows/captain-harlock/videos/episodes",
+    "http://www.hulu.com/captain-harlock",
+    "https://kitsu.io/anime/uchuu-kaizoku-captain-harlock"
+  ],
+  "relations": {
+    "kitsu": "890",
+    "anidb": "725",
+    "anilist/anime": "1000",
+    "aozora": "Jb3LMMZNY4",
+    "myanimelist/anime": "1000",
+    "thetvdb": "100151/1",
+    "thetvdb/series": "100151",
+    "trakt": "43399"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "goro-chan",
+  "synopsis": "A music video for the song by supepe that was featured on Fuji TV's Hirake! Ponkikki program. ",
+  "title": {
+    "jp": "Goro-chan"
+  },
+  "releasedAt": "1990-02-10T00:00:00.000Z",
+  "finishedAt": "1990-02-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11419/original.png",
+  "categories": [
+    "kids",
+    "music",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11419",
+    "anidb": "11655",
+    "anilist/anime": "110466",
+    "aozora": "qpZngryQMR",
+    "myanimelist/anime": "31695"
+  }
+}

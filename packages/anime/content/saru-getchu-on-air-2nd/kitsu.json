@@ -1,0 +1,28 @@
+{
+  "slug": "saru-getchu-on-air-2nd",
+  "synopsis": "Saru Getchu: On Air sequel.",
+  "title": {
+    "jp": "Saru Getchu: On Air 2nd"
+  },
+  "releasedAt": "2006-10-07T00:00:00.000Z",
+  "finishedAt": "2007-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5527/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5527",
+    "anidb": "5526",
+    "anilist/anime": "8900",
+    "aozora": "qz4O4w0ux0",
+    "myanimelist/anime": "8900"
+  }
+}

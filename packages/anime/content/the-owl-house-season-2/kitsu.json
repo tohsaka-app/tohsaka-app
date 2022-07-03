@@ -1,0 +1,27 @@
+{
+  "slug": "the-owl-house-season-2",
+  "synopsis": "Second Season of The Owl House",
+  "title": {},
+  "releasedAt": "2021-06-12T00:00:00.000Z",
+  "finishedAt": "2022-05-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42991/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42991/original.jpg",
+  "categories": [
+    "anime influenced",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "kids",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42991",
+    "thetvdb": "349578/2"
+  }
+}

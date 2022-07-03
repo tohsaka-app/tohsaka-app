@@ -1,0 +1,24 @@
+{
+  "slug": "dokidoki-dream",
+  "synopsis": "Official music video for the song Dokidoki Dream!!! by the fictional band Irodorimidori. It is the 10th song in the franchise.",
+  "title": {
+    "jp": "Dokidoki Dream!!!"
+  },
+  "releasedAt": "2016-08-16T00:00:00.000Z",
+  "finishedAt": "2016-08-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14100/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Xo0RdaNtwIQ"
+  ],
+  "relations": {
+    "kitsu": "14100",
+    "anilist/anime": "102743",
+    "myanimelist/anime": "36600"
+  }
+}

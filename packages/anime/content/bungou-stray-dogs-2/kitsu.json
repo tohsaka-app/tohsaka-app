@@ -1,0 +1,39 @@
+{
+  "slug": "bungou-stray-dogs-2",
+  "synopsis": "Guild has entered Yokohoma city. Along with the city, they want Atsushi of The Armed Detective Agency too. As Port Mafia want the city for themselves, a three way war seems unavoidable. While fighting, Atsushi &amp; Akutagawa find help in strange places. And in the background, Dazai continues his endless scheming.\n\n(Source: ANN)",
+  "title": {
+    "en": "Bungo Stray Dogs 2",
+    "jp": "Bungou Stray Dogs 2nd Season"
+  },
+  "releasedAt": "2016-10-06T00:00:00.000Z",
+  "finishedAt": "2016-12-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11882/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11882/original.jpg",
+  "categories": [
+    "action",
+    "conspiracy",
+    "crime",
+    "detective",
+    "historical",
+    "mafia",
+    "mystery",
+    "super power",
+    "the arts"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/bungo-stray-dogs",
+    "https://www.hulu.com/bungo-stray-dogs"
+  ],
+  "relations": {
+    "kitsu": "11882",
+    "anidb": "11965",
+    "anilist/anime": "21679",
+    "aozora": "x9RcwLsGbT",
+    "myanimelist/anime": "32867",
+    "thetvdb": "305075",
+    "trakt": "104307"
+  }
+}

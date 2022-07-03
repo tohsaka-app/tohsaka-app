@@ -1,0 +1,23 @@
+{
+  "slug": "haita",
+  "synopsis": "An original song by Loin featuring the Vocaloid Hatsune Miku, animated by Waboku.",
+  "title": {
+    "jp": "Haita"
+  },
+  "releasedAt": "2017-04-07T00:00:00.000Z",
+  "finishedAt": "2017-04-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43451/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=46heaUd6g-c"
+  ],
+  "relations": {
+    "kitsu": "43451",
+    "myanimelist/anime": "39173"
+  }
+}

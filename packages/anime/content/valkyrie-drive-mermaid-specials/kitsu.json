@@ -1,0 +1,26 @@
+{
+  "slug": "valkyrie-drive-mermaid-specials",
+  "synopsis": "Mini OVA episodes bundled with the Blu-ray and DVD releases of Valkyrie Drive: Mermaid.",
+  "title": {
+    "jp": "Valkyrie Drive: Mermaid Specials"
+  },
+  "releasedAt": "2015-12-18T00:00:00.000Z",
+  "finishedAt": "2016-05-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11445/original.jpg",
+  "categories": [
+    "action",
+    "ecchi",
+    "fantasy",
+    "shoujo ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11445",
+    "anilist/anime": "21413",
+    "aozora": "oks0ppqCdU",
+    "myanimelist/anime": "31736"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "sol-levante",
+  "synopsis": "Netflix and Production I.G. collaboration for the first 4K anime ever.",
+  "title": {
+    "jp": "Sol Levante"
+  },
+  "releasedAt": "2020-03-23T00:00:00.000Z",
+  "finishedAt": "2020-03-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43011/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43011",
+    "anilist/anime": "116384",
+    "myanimelist/anime": "40597"
+  }
+}

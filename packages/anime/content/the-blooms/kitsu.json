@@ -1,0 +1,25 @@
+{
+  "slug": "the-blooms",
+  "synopsis": "Deep down in the forest there lived flower fairies in flower gardens. They would wake up with the sunrise, eat sweets, and chat with each other. Then, one day, they had a visit by him and then…\n\nGraduate Work 2013, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "The Blooms",
+    "jp": "The Blooms"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45864/poster_image/2529ecc0b93871f59f4b96a0b6fd59c3.png",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/287ctasjMi0"
+  ],
+  "relations": {
+    "kitsu": "45864",
+    "anilist/anime": "115488"
+  }
+}

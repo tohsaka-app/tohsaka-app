@@ -1,0 +1,25 @@
+{
+  "slug": "planetarian-snow-globe",
+  "synopsis": "",
+  "title": {
+    "jp": "Planetarian: Snow Globe"
+  },
+  "releasedAt": "2020-09-30T00:00:00.000Z",
+  "finishedAt": "2020-09-30T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42824/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42824",
+    "anilist/anime": "113595",
+    "myanimelist/anime": "40778"
+  }
+}

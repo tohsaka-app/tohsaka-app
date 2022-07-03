@@ -1,0 +1,27 @@
+{
+  "slug": "kobayashi-san-chi-no-dragon-maid-s-ova",
+  "synopsis": "An unaired episode included in a special Blu-ray/DVD volume.",
+  "title": {
+    "en": "Miss Kobayashi's Dragon Maid S: Japanese Hospitality - Attendance is a Dragon",
+    "jp": "Kobayashi-san Chi no Maidragon S: Nippon no Omotenashi - Attend wa Dragon Desu"
+  },
+  "releasedAt": "2022-01-19T00:00:00.000Z",
+  "finishedAt": "2022-01-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45014/poster_image/725a95bab567f3c1deb4030222ea599e.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45014/cover_image/ee674f96a85a7b0b0f5248dab878130e.jpeg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45014",
+    "anilist/anime": "136436",
+    "animenewsnetwork": "24887",
+    "myanimelist/anime": "49893"
+  }
+}

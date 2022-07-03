@@ -1,0 +1,25 @@
+{
+  "slug": "pokemon-slowking-no-ichinichi",
+  "synopsis": "It consists of nothing but Pokémon-speak--similar to the mini-movies that air with each theatrical movie. It's a short special based on life of the Pokémon Slowking.\n(Source: Bulbapedia and Graffitti studio) ",
+  "title": {
+    "en": "Pokemon: Slowking's Day",
+    "jp": "Pokemon: Yadoking no Ichinichi"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4543/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4543",
+    "anilist/anime": "6385",
+    "aozora": "eBtYlFZuDJ",
+    "myanimelist/anime": "6385"
+  }
+}

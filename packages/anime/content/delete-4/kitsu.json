@@ -1,0 +1,25 @@
+{
+  "slug": "delete-4",
+  "synopsis": "An anime special that doesn't exist",
+  "title": {
+    "jp": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4806/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4806/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "isekai",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4806"
+  }
+}

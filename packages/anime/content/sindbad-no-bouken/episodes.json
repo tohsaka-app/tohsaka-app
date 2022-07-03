@@ -1,0 +1,460 @@
+[
+  {
+    "title": {
+      "jp": "Cast off!"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1978-09-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's Mokkuri island"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1978-09-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Roc the giant bird"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1978-10-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mysterious old man"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1978-10-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "King of Saranjib"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1978-10-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Elephant tusk mountain"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1978-10-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Force-feasting...!?"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1978-11-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fruit gem"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1978-11-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Genie of the desert"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1978-11-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Old man of the oasis"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1978-11-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Black pearl"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1978-11-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mermaid's gift"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1978-12-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Flying wooden horse"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1978-12-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Treasure of the great devil"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1978-12-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Princess of Shahred"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1978-12-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Moroccan lamp-seller"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1979-01-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Solomon's seal"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1979-01-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Skeleton corps"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1979-01-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ali Baba the wandering boy"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1979-01-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "All-woman kingdom"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1979-02-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Giant bird child Roccle"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1979-02-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great monkey's gratitude"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1979-02-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nile river urchin"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1979-02-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Living mammoth"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1979-03-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Jian the giant's son"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1979-03-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Big whale that carries a glacier"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1979-03-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Thief of Baghdad"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1979-03-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Open sesame!"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1979-03-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Flying Jutan"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1979-04-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Pigmy pirates"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1979-04-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "War on pigmy island"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1979-05-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shera's secret"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "1979-04-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great devil of ice"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "1979-05-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Moa the man-eating bird"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "1979-05-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mammoth-boy Poco"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "1979-05-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Thief of the pyramids"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "1979-05-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Land of illusion"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "1979-06-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Magic dragon"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "1979-06-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Burning oasis"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "1979-07-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Girl from the stars"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "1979-07-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Boat-eating monster fish"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "1979-07-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Grampa Aladdin's country"
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "1979-07-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Run, Ali Baba!"
+    },
+    "season": 1,
+    "number": 43,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ghost ship of the desert"
+    },
+    "season": 1,
+    "number": 44,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Talking statue"
+    },
+    "season": 1,
+    "number": 45,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ali Baba the magician"
+    },
+    "season": 1,
+    "number": 46,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Secret of the tower of Babel"
+    },
+    "season": 1,
+    "number": 47,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "100 magicians"
+    },
+    "season": 1,
+    "number": 48,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Princess Shera in peril"
+    },
+    "season": 1,
+    "number": 49,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great blue devil"
+    },
+    "season": 1,
+    "number": 50,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "War of the genies"
+    },
+    "season": 1,
+    "number": 51,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Undo the magic!"
+    },
+    "season": 1,
+    "number": 52,
+    "content": {}
+  }
+]

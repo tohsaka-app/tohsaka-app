@@ -1,0 +1,30 @@
+{
+  "slug": "pokemon-mewtwo-ware-wa-koko-ni-ari",
+  "synopsis": "The Team Rocket leader, Giovanni, has found Mewtwo in a remote area of the Johto region. As Giovanni tries to re-capture Mewtwo, Ash and his friends are kidnapped by Domino, a new Team Rocket member, while trying to rescue Pikachu from Jessie and James. The Clone Pokemon are also captured and are then used as bait for Mewtwo. The situation then becomes a battle between the wills of Mewtwo and Giovanni; and Mewtwo also tries to discover if it and the clones have a purpose in life, even though they are products of science.\n(Source: ANN)",
+  "title": {
+    "en": "Pokemon: Mewtwo Returns",
+    "jp": "Pokemon: Mewtwo! Ware wa Koko ni Ari"
+  },
+  "releasedAt": "2000-12-30T00:00:00.000Z",
+  "finishedAt": "2000-12-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1534/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1534",
+    "anidb": "7109",
+    "anilist/anime": "1709",
+    "aozora": "hRPXbrwBGO",
+    "myanimelist/anime": "1709"
+  }
+}

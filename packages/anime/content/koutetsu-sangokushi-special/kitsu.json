@@ -1,0 +1,23 @@
+{
+  "slug": "koutetsu-sangokushi-special",
+  "synopsis": "Koutetsu Sangokushi DVD Special, also known as episode 26.",
+  "title": {
+    "jp": "Koutetsu Sangokushi Special"
+  },
+  "releasedAt": "2008-03-26T00:00:00.000Z",
+  "finishedAt": "2008-03-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5286/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5286",
+    "anilist/anime": "8304",
+    "aozora": "OFiPY1kHj5",
+    "myanimelist/anime": "8304"
+  }
+}

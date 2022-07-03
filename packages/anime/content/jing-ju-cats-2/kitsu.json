@@ -1,0 +1,27 @@
+{
+  "slug": "jing-ju-cats-2",
+  "synopsis": "Second season of Jingju Mao.\n",
+  "title": {
+    "en": "Jing-Ju Cats 2"
+  },
+  "releasedAt": "2017-07-10T00:00:00.000Z",
+  "finishedAt": "2017-08-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43331/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anthropomorphism",
+    "fantasy",
+    "fantasy world",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43331",
+    "anilist/anime": "121199",
+    "myanimelist/anime": "42144"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "nanatsu-no-hoshi",
+  "synopsis": "Based on Leo Tolstoy's retelling of the The Big Dipper.\nA young girl from a village suffering from a drought goes in search of water for her sick mother.",
+  "title": {
+    "jp": "Nanatsu no Hoshi"
+  },
+  "releasedAt": "1999-01-01T00:00:00.000Z",
+  "finishedAt": "1999-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9475/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9475",
+    "aozora": "HxlvCABYM2",
+    "myanimelist/anime": "26335"
+  }
+}

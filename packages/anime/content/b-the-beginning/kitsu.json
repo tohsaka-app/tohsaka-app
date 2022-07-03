@@ -1,0 +1,35 @@
+{
+  "slug": "b-the-beginning",
+  "synopsis": "In a world powered by advanced technology, crime and action unfold in the archipelagic nation of Cremona. Koku, the protagonist. Keith, the legendary investigator of the royal police force RIS. A mysterious criminal organization. A wide variety of characters race through the fortified city as it is beset by the serial killer, Killer B, and a chain of crimes.\n\n(Source: Netflix)",
+  "title": {
+    "en": "B: The Beginning",
+    "jp": "B: The Beginning"
+  },
+  "releasedAt": "2018-03-02T00:00:00.000Z",
+  "finishedAt": "2018-03-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11880/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11880/original.png",
+  "categories": [
+    "cops",
+    "detective",
+    "law and order",
+    "mystery",
+    "science fiction",
+    "thriller",
+    "violence"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80097594"
+  ],
+  "relations": {
+    "kitsu": "11880",
+    "anidb": "11950",
+    "anilist/anime": "21665",
+    "animenewsnetwork": "19987",
+    "myanimelist/anime": "32827",
+    "thetvdb/series": "339353/1"
+  }
+}

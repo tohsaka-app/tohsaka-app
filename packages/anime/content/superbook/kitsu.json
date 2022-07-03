@@ -1,0 +1,36 @@
+{
+  "slug": "superbook",
+  "synopsis": "The series beings at the home of a young boy named Sho Azuka discovers the magical Bible \"Superbook\" that speaks and sends him, his friend Azusa Yamato, and his toy robot Zenmaijikake back in time to the early events of the Old Testament.",
+  "title": {
+    "en": "Superbook",
+    "jp": "Anime Oyako Gekijou"
+  },
+  "releasedAt": "1981-10-09T00:00:00.000Z",
+  "finishedAt": "1982-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2619/original.jpg",
+  "categories": [
+    "adventure",
+    "earth",
+    "fantasy",
+    "historical",
+    "kids",
+    "motorsport",
+    "past",
+    "science fiction",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2619",
+    "anidb": "3081",
+    "anilist/anime": "2882",
+    "aozora": "IUlc1kiD5r",
+    "myanimelist/anime": "2882",
+    "thetvdb": "80604/1",
+    "thetvdb/series": "80604",
+    "trakt": "21171"
+  }
+}

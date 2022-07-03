@@ -1,0 +1,36 @@
+{
+  "slug": "robotech-macross-saga-first-robotech-war",
+  "synopsis": "A gigantic spaceship crash lands on Earth, foreshadowing the arrival of an alien armada bent on war and destruction. The world unites to unlock the secrets of its miraculous alien technology known as Robotech to defend the world against impending invasion. The challenges they would face would be greater than anyone could have imagined…",
+  "title": {},
+  "releasedAt": "1985-02-04T00:00:00.000Z",
+  "finishedAt": "1985-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7946/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7946/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "anime influenced",
+    "humanoid alien",
+    "mecha",
+    "military",
+    "music",
+    "piloted robot",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space battles",
+    "space opera",
+    "transforming craft",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7946",
+    "thetvdb": "76828/1",
+    "thetvdb/season": "11496",
+    "thetvdb/series": "76828"
+  }
+}

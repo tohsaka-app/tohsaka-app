@@ -1,0 +1,21 @@
+{
+  "slug": "tick-tack-movie",
+  "synopsis": "A little Chinku thinks his father does not love him. And when he think his grandfather, his only supporter, rejects his hand for help, Chinku feels betrayed. All shock up, Chinku draws circles with a huge and heavy pencil, wishing the time to fly fast…\n\nGraduate Work 2011, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "jp": "Tick Tack"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45145/original.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45145",
+    "anilist/anime": "115436"
+  }
+}

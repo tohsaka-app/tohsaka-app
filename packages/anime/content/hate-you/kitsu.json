@@ -1,0 +1,28 @@
+{
+  "slug": "hate-you",
+  "synopsis": "Animated music video of the song \"HATE YOU\" by the Korean pop group 2NE1.",
+  "title": {
+    "jp": "Hate You"
+  },
+  "releasedAt": "2011-07-20T00:00:00.000Z",
+  "finishedAt": "2011-07-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6533/original.jpg",
+  "categories": [
+    "action",
+    "gunfights",
+    "martial arts",
+    "music",
+    "post apocalypse"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6533",
+    "anidb": "8768",
+    "anilist/anime": "11543",
+    "aozora": "5IGf4p7ZsO",
+    "myanimelist/anime": "11543"
+  }
+}

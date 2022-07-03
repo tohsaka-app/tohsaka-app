@@ -1,0 +1,37 @@
+{
+  "slug": "madlax",
+  "synopsis": "In the country of Gazth-Sonika, civil war rages. There, a mercenary called Madlax plies her trade, with almost supernatural skill. In the seemingly peaceful country of Nafrece, Margaret Burton lives a tranquil life. As separate as their lives may seem, the two are connected by ties of mystery, and by a holy book that is also sought by the shadowy organisation, Enfant. As Margaret and Madlax follow the path of their destiny, they come ever closer to uncovering the truth - with no guarantee that it is a truth they can bear to learn.\n(Source: ANN)",
+  "title": {
+    "jp": "Madlax"
+  },
+  "releasedAt": "2004-04-06T00:00:00.000Z",
+  "finishedAt": "2004-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/227/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "crime",
+    "earth",
+    "gunfights",
+    "magic",
+    "military",
+    "mystery",
+    "plot continuity",
+    "psychological",
+    "rotten world"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "227",
+    "anidb": "1654",
+    "anilist/anime": "252",
+    "aozora": "M5LoB0xbjJ",
+    "myanimelist/anime": "252",
+    "thetvdb": "75001/1",
+    "thetvdb/series": "75001",
+    "trakt": "11232"
+  }
+}

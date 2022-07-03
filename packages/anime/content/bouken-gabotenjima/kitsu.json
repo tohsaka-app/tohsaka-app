@@ -1,0 +1,25 @@
+{
+  "slug": "bouken-gabotenjima",
+  "synopsis": "Bouken Gabotenjima is about children who are shipwrecked on a desert island.",
+  "title": {
+    "en": "Adventure on the Gaboten Island",
+    "jp": "Bouken Gabotenjima"
+  },
+  "releasedAt": "1967-04-04T00:00:00.000Z",
+  "finishedAt": "1967-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5233/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5233",
+    "anidb": "5091",
+    "anilist/anime": "8184",
+    "aozora": "SB4azoZI5D",
+    "myanimelist/anime": "8184"
+  }
+}

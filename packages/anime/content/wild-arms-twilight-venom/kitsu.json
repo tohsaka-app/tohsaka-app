@@ -1,0 +1,37 @@
+{
+  "slug": "wild-arms-twilight-venom",
+  "synopsis": "This anime is based on a playstation game under the same title. The story is about four people who travel the desolated land of Filgaea and carve themselves a legendary story while they're at it. These adventurers are Sheyenne Rainstorm, a gunslinger who holds the legendary weapon called ARMs; Kiel Aromax, a scientist who looks like he should be carrying a sword; Roleta Oratorio the Crest Sorceress, a magic-user who uses cards called Crests to cast spells; and Mirabelle Graceland, one of the Noble Red, which are a family of vampiric creatures who live alongside human beings They also travel with cute little intelligent furry things, from the Popepi Pipepo Tribe, named Isaac and Jerusha.\n(Source: AniDB)",
+  "title": {
+    "en": "Wild Arms",
+    "jp": "Wild Arms: Twilight Venom"
+  },
+  "releasedAt": "1999-10-18T00:00:00.000Z",
+  "finishedAt": "2000-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/314/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "coming of age",
+    "disaster",
+    "fantasy",
+    "future",
+    "magic",
+    "other planet",
+    "science fiction",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "314",
+    "anidb": "809",
+    "anilist/anime": "347",
+    "aozora": "32441m7RcL",
+    "myanimelist/anime": "347",
+    "thetvdb": "79227/1",
+    "thetvdb/series": "79227",
+    "trakt": "38863"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "gunma-chan",
+  "synopsis": "An anime series based on the Gunma prefecture mascot character, Gunma-chan.",
+  "title": {
+    "jp": "Gunma-chan"
+  },
+  "releasedAt": "2021-10-03T00:00:00.000Z",
+  "finishedAt": "2021-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46086/poster_image/d42450770476b7b8d74c722dd74a3c9a.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46086",
+    "anilist/anime": "133510",
+    "myanimelist/anime": "49184"
+  }
+}

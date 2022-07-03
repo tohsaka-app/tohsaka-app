@@ -1,0 +1,24 @@
+{
+  "slug": "donkikko",
+  "synopsis": "A comedy about the mischievous adventures of a young boy. Each episode contains 2 stories.\n(Source: AniDB)",
+  "title": {
+    "jp": "Donkikko"
+  },
+  "releasedAt": "1967-09-07T00:00:00.000Z",
+  "finishedAt": "1968-01-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9248/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9248",
+    "anidb": "5094",
+    "anilist/anime": "19901",
+    "aozora": "7VPxLXidlj",
+    "myanimelist/anime": "19901"
+  }
+}

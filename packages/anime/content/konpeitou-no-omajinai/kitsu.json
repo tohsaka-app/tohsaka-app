@@ -1,0 +1,26 @@
+{
+  "slug": "konpeitou-no-omajinai",
+  "synopsis": "Marie has lost the precious memories of her mother and her magic spell. One day she meets a mysterious nutcracker in her dream and strays off into a extraordinary world.\n\nGraduate Work 2013, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Marie's Sugar Plum",
+    "jp": "Konpeitou no Omajinai"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45891/poster_image/330ca611fc4877f48630a251ec8574ec.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/BTIoNumRd7s"
+  ],
+  "relations": {
+    "kitsu": "45891",
+    "anilist/anime": "116899"
+  }
+}

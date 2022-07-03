@@ -1,0 +1,21 @@
+{
+  "slug": "ni-soku-ho-kou",
+  "synopsis": "",
+  "title": {
+    "jp": "Ni Soku Ho Kou"
+  },
+  "releasedAt": "2011-12-08T00:00:00.000Z",
+  "finishedAt": "2011-12-08T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13365/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13365",
+    "myanimelist/anime": "12659"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "tetsuwan-atom-atom-tanjou-no-himitsu",
+  "synopsis": "Doctor Tenma, chief of the Ministry of Science, brought a digital brain genome from an aircraft. Doctor Tenma begins a trip to Mars, then combines the genome with a robot. Doctor Tenma's son, Tobio, who had died in a traffic accident, has been revived.\n(Source: AstroBoy Online)",
+  "title": {
+    "jp": "Tetsuwan Atom: Atom Tanjou no Himitsu"
+  },
+  "releasedAt": "2003-04-06T00:00:00.000Z",
+  "finishedAt": "2003-04-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8939/original.jpg",
+  "categories": [
+    "drama",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8939",
+    "anidb": "9572",
+    "anilist/anime": "17959",
+    "aozora": "LdV50ot8SP",
+    "myanimelist/anime": "17959"
+  }
+}

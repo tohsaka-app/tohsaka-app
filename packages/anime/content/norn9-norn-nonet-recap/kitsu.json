@@ -1,0 +1,26 @@
+{
+  "slug": "norn9-norn-nonet-recap",
+  "synopsis": "Recap of episodes 1-9 of Norn9: Norn+Nonet.",
+  "title": {
+    "jp": "Norn9: Norn+Nonet Recap"
+  },
+  "releasedAt": "2016-03-10T00:00:00.000Z",
+  "finishedAt": "2016-03-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11898/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11898/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "josei",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11898",
+    "aozora": "2CtDAch4x0",
+    "myanimelist/anime": "32879"
+  }
+}

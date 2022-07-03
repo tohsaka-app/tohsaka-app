@@ -1,0 +1,38 @@
+{
+  "slug": "yu-gi-oh-arc-v",
+  "synopsis": "Yu-Gi-Oh! ARC-V centers around Yuya Sakaki, as he tries to escape from harsh reality by smiling. But one Duel leads him to make a determination to confront the difficulties and he will get the power of infinite possibilities. The show's main theme is \"Take a step forward with courage!!\"\nYuya is a student at a preparatory school, learning to become an \"entertainment Duelist,\" a type of professional Duelist.\nThe story is set in Miami City on the coast of Japan. Leo Corporation is run by its president Reiji Akaba. Thanks to the spread of the company's \"Solid Vision with mass,\" \"Action Duels\" are born in Miami City and has reached worldwide popularity. Children look up to star-level Pro Duelists, and they learn Summoning and Duel styles at various large and small cram schools, including the You Show Duel School that Yuya attends and the largest of such schools, Leo Duel School (LDS).\n(Source: Yu-Gi-Oh! Wikia, paraphrased from the V-Jump synopsis)",
+  "title": {
+    "jp": "Yu☆Gi☆Oh! Arc-V"
+  },
+  "releasedAt": "2014-04-06T00:00:00.000Z",
+  "finishedAt": "2017-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8126/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8126/original.jpg",
+  "categories": [
+    "action",
+    "card games",
+    "fantasy",
+    "friendship",
+    "plot continuity",
+    "proxy battles",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/yu-gi-oh-arc-v",
+    "https://www.netflix.com/title/80987906"
+  ],
+  "relations": {
+    "kitsu": "8126",
+    "anidb": "10310",
+    "anilist/anime": "20552",
+    "aozora": "XsY0KTOJyo",
+    "myanimelist/anime": "21639",
+    "thetvdb": "278975/1",
+    "thetvdb/series": "278975",
+    "trakt": "76292"
+  }
+}

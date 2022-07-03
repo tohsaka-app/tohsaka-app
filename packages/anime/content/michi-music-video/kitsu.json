@@ -1,0 +1,25 @@
+{
+  "slug": "michi-music-video",
+  "synopsis": "An animated video music video for Yumirose's song Michi.",
+  "title": {
+    "jp": "Michi (Music)"
+  },
+  "releasedAt": "2004-04-07T00:00:00.000Z",
+  "finishedAt": "2004-04-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4932/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4932",
+    "anidb": "8457",
+    "anilist/anime": "7296",
+    "aozora": "KHKtkQj82r",
+    "myanimelist/anime": "7296"
+  }
+}

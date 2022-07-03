@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-pikachu-no-dokidoki-kakurenbo",
+  "synopsis": "Pikachu and the other pokemon play a game of hide and seek.",
+  "title": {
+    "en": "Pokemon: Pikachu's Pikaboo",
+    "jp": "Pokemon: Pikachu no Dokidoki Kakurenbo"
+  },
+  "releasedAt": "2001-07-07T00:00:00.000Z",
+  "finishedAt": "2001-07-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3788/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3788",
+    "anidb": "6799",
+    "anilist/anime": "4794",
+    "aozora": "1mMTjRJMUk",
+    "myanimelist/anime": "4794"
+  }
+}

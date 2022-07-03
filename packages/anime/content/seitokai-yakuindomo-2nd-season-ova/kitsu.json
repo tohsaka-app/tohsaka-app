@@ -1,0 +1,30 @@
+{
+  "slug": "seitokai-yakuindomo-2nd-season-ova",
+  "synopsis": "OVAs of Seitokai Yakuindomo* which were either bundled with the limited editions of the manga volumes or as standalone OVAs.",
+  "title": {
+    "jp": "Seitokai Yakuindomo* OVA"
+  },
+  "releasedAt": "2014-05-16T00:00:00.000Z",
+  "finishedAt": "2020-09-17T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8708/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8708/original.jpg",
+  "categories": [
+    "comedy",
+    "present",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8708",
+    "anidb": "10761",
+    "anilist/anime": "20826",
+    "aozora": "ttGd9YspBP",
+    "myanimelist/anime": "26123",
+    "thetvdb": "173271",
+    "trakt": "36541"
+  }
+}

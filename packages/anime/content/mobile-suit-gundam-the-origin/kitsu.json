@@ -1,0 +1,33 @@
+{
+  "slug": "mobile-suit-gundam-the-origin",
+  "synopsis": "What was the tragedy that decided the fates of Char Aznable, the man later nicknamed the \"Red Comet\" as an ace pilot of the Zeon forces, and his sister Sayla Mass?\nThe two siblings' journeys, brought on by the sudden death of their father Zeon Zum Deikun who was a leader of the Spacenoids, are depicted in the four episodes of \"Chronicle of Char and Sayla.\"\nThe Zabi family who seize control of Side 3 and lead the Principality of Zeon, the early days of many renowned Zeon ace pilots who later fight in the One Year War, the secrets of mobile suit development, conflicts with the Earth Federation Forces, and the road leading to the outbreak of war—all will be revealed.\n(Source: Official website)",
+  "title": {
+    "jp": "Kidou Senshi Gundam: The Origin"
+  },
+  "releasedAt": "2015-04-24T00:00:00.000Z",
+  "finishedAt": "2016-11-19T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6415/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6415/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "space"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/mobile-suit-gundam-the-origin-advent-of-the-red-comet"
+  ],
+  "relations": {
+    "kitsu": "6415",
+    "anidb": "8517",
+    "anilist/anime": "10937",
+    "aozora": "D5lRG2tSUD",
+    "myanimelist/anime": "10937"
+  }
+}

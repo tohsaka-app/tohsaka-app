@@ -1,0 +1,21 @@
+{
+  "slug": "nekopalive",
+  "synopsis": "VR anime featuring some of the characters doing an idol concert.",
+  "title": {
+    "jp": "NekopaLive"
+  },
+  "releasedAt": "2016-05-31T00:00:00.000Z",
+  "finishedAt": "2016-05-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43721/original.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43721"
+  }
+}

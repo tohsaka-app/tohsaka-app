@@ -1,0 +1,26 @@
+{
+  "slug": "fly-space-battleship-geobukseon",
+  "synopsis": "A Korean animated film taking place in the same universe as Robot Taekwon V. It tells the story of the lone spaceship and its mission to save the Earth.",
+  "title": {
+    "jp": "Fly, Space Battleship Geobukseon"
+  },
+  "releasedAt": "1979-01-01T00:00:00.000Z",
+  "finishedAt": "1979-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7506/original.jpg",
+  "categories": [
+    "action",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7506",
+    "anidb": "9608",
+    "anilist/anime": "16748",
+    "aozora": "veYUfribLJ",
+    "myanimelist/anime": "16748"
+  }
+}

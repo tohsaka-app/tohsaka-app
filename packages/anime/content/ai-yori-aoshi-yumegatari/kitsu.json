@@ -1,0 +1,26 @@
+{
+  "slug": "ai-yori-aoshi-yumegatari",
+  "synopsis": "Kaoru and the girls have a picnic in Spring and talk about their dreams for the future.",
+  "title": {
+    "jp": "Ai Yori Aoshi: Yumegatari"
+  },
+  "releasedAt": "2002-04-01T00:00:00.000Z",
+  "finishedAt": "2002-04-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4679/original.jpg",
+  "categories": [
+    "comedy",
+    "harem",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4679",
+    "anilist/anime": "6709",
+    "aozora": "JajwUCmqNH",
+    "myanimelist/anime": "6709"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "relationship-scramble-feat-hatsune-miku",
+  "synopsis": "Music video by DECO*27.",
+  "title": {
+    "jp": "Relationship Scramble feat. Hatsune Miku"
+  },
+  "releasedAt": "2019-03-22T00:00:00.000Z",
+  "finishedAt": "2019-03-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42519/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/42519/cover_image/aea64bddf97b6034fb4f595f13d1c00a.jpg",
+  "categories": [
+    "music",
+    "romance"
+  ],
+  "externals": [
+    "https://youtu.be/nj82E1_70sQ"
+  ],
+  "relations": {
+    "kitsu": "42519",
+    "anilist/anime": "109943",
+    "myanimelist/anime": "40286"
+  }
+}

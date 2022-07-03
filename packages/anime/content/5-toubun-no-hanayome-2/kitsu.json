@@ -1,0 +1,32 @@
+{
+  "slug": "5-toubun-no-hanayome-2",
+  "synopsis": "Second season of 5-Toubun no Hanayome.",
+  "title": {
+    "en": "The Quintessential Quintuplets 2",
+    "jp": "5-toubun no Hanayome ∬"
+  },
+  "releasedAt": "2021-01-08T00:00:00.000Z",
+  "finishedAt": "2021-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42324/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42324/original.png",
+  "categories": [
+    "comedy",
+    "harem",
+    "romance",
+    "school life",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/the-quintessential-quintuplets",
+    "https://www.funimation.com/shows/the-quintessential-quintuplets/"
+  ],
+  "relations": {
+    "kitsu": "42324",
+    "anidb": "14903",
+    "anilist/anime": "109261",
+    "myanimelist/anime": "39783"
+  }
+}

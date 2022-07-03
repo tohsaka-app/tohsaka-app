@@ -1,0 +1,25 @@
+{
+  "slug": "senkou",
+  "synopsis": "Animated music video directed by Zemyata for the song Senkou by Roselia. This song is a collaboration with Eve who composed and wrote the lyrics for the track.",
+  "title": {
+    "jp": "Senkou"
+  },
+  "releasedAt": "2022-03-12T00:00:00.000Z",
+  "finishedAt": "2022-03-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46009/poster_image/bf778b1113d398864a922c1a884b9e7e.png",
+  "categories": [
+    "action",
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/IL33TNljMz8"
+  ],
+  "relations": {
+    "kitsu": "46009",
+    "anilist/anime": "146316",
+    "myanimelist/anime": "51378"
+  }
+}

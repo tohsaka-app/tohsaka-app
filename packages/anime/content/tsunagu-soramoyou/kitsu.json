@@ -1,0 +1,26 @@
+{
+  "slug": "tsunagu-soramoyou",
+  "synopsis": "A music video from the Bang Dream franchise, for Afterglow's \"Tsunagu, Soramoyou.\"",
+  "title": {
+    "en": "Tied to the Skies",
+    "jp": "Tsunagu, Soramoyou"
+  },
+  "releasedAt": "2018-09-21T00:00:00.000Z",
+  "finishedAt": "2018-09-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45421/poster_image/c9ed365509c9cac271208862bb292df4.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=S9TDsbc5DjY"
+  ],
+  "relations": {
+    "kitsu": "45421",
+    "anilist/anime": "104455",
+    "myanimelist/anime": "38392"
+  }
+}

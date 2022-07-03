@@ -1,0 +1,38 @@
+{
+  "slug": "ou-dorobou-jing",
+  "synopsis": "Jing may appear to be a young boy, but his remarkable skills make him one of the most feared thieves on the planet. Along with his feathered partner Kir, Jing travels from town to town, stealing anything of value regardless of the amount of security. But when he's in a pinch, he has one more trick up his sleeve: Kir bonds with Jing's right arm to perform the effectively deadly \"Kir Royale\" attack. And because of all this, Jing is infamously known by many as the \"King of Bandits.\" ",
+  "title": {
+    "en": "Jing: King of Bandits",
+    "jp": "Ou Dorobou Jing"
+  },
+  "releasedAt": "2002-05-15T00:00:00.000Z",
+  "finishedAt": "2002-08-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/86/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "contemporary fantasy",
+    "crime",
+    "dystopia",
+    "fantasy",
+    "fantasy world",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/jing-king-of-bandits/videos/episodes"
+  ],
+  "relations": {
+    "kitsu": "86",
+    "anidb": "555",
+    "anilist/anime": "107",
+    "aozora": "3CSZ8XJUli",
+    "myanimelist/anime": "107",
+    "thetvdb": "73239/1",
+    "thetvdb/series": "73239",
+    "trakt": "34671"
+  }
+}

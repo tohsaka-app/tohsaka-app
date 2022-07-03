@@ -1,0 +1,26 @@
+{
+  "slug": "super-robot-taisen-og-divine-wars-special",
+  "synopsis": "This is considered episode 26 of the series which was only included on the final DVD. It primarily focuses on the aftermath of the final TV episode (25).",
+  "title": {
+    "en": "Super Robot Wars Original Generation: Divine Wars Special",
+    "jp": "Super Robot Taisen OG: Divine Wars Special"
+  },
+  "releasedAt": "2007-10-26T00:00:00.000Z",
+  "finishedAt": "2007-10-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3450/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3450",
+    "anilist/anime": "4075",
+    "aozora": "l8Gh5lr5XE",
+    "myanimelist/anime": "4075"
+  }
+}

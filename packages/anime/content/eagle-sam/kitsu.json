@@ -1,0 +1,25 @@
+{
+  "slug": "eagle-sam",
+  "synopsis": "An anime made in the runup to the 1984 Olympics in Los Angeles, featuring Olympic mascot Sam the Olympic Eagle.",
+  "title": {
+    "jp": "Eagle Sam"
+  },
+  "releasedAt": "1983-04-07T00:00:00.000Z",
+  "finishedAt": "1984-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5228/original.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5228",
+    "anidb": "7338",
+    "anilist/anime": "8179",
+    "aozora": "wm07nJbLSX",
+    "myanimelist/anime": "8179"
+  }
+}

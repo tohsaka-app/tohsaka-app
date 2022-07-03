@@ -1,0 +1,24 @@
+{
+  "slug": "tumbled-cat",
+  "synopsis": "A record of sensation and sign of watching tumble, moving and then floating.\n\n1st year work 2014 by Toshikazu Tamiura, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Soure: Geidai Animation)",
+  "title": {
+    "en": "tumbled cat",
+    "jp": "tumbled cat"
+  },
+  "releasedAt": "2014-01-20T00:00:00.000Z",
+  "finishedAt": "2014-01-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43190/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [
+    "https://youtu.be/Kgjn6JGfn5g"
+  ],
+  "relations": {
+    "kitsu": "43190",
+    "myanimelist/anime": "40737"
+  }
+}

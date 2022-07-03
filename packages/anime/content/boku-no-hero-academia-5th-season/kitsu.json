@@ -1,0 +1,32 @@
+{
+  "slug": "boku-no-hero-academia-5th-season",
+  "synopsis": "The rivalry between Class 1-A and Class 1-B heats up in a joint training battle. Eager to be a part of the hero course, brainwashing buff Shinso is tasked with competing on both sides.\n\nBut as each team faces their own weaknesses and discovers new strengths, this showdown might just become a toss-up.\n\n(Source: Funimation)",
+  "title": {
+    "en": "My Hero Academia 5",
+    "jp": "Boku no Hero Academia 5"
+  },
+  "releasedAt": "2021-03-27T00:00:00.000Z",
+  "finishedAt": "2021-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43108/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43108/original.jpg",
+  "categories": [
+    "action",
+    "school life",
+    "shounen",
+    "super power",
+    "superhero"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/my-hero-academia",
+    "https://www.funimation.com/shows/my-hero-academia/"
+  ],
+  "relations": {
+    "kitsu": "43108",
+    "anidb": "15484",
+    "anilist/anime": "117193",
+    "myanimelist/anime": "41587"
+  }
+}

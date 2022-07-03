@@ -1,0 +1,33 @@
+{
+  "slug": "mobile-suit-gundam-thunderbolt",
+  "synopsis": "In Universal Century 0079, forces of the Earth Federation and Principality of Zeon engage in a battle within the Thunderbolt Sector during the One Year War. This section of space—known for its constant strikes of electricity—proves to be a deadly battlefield, as Federation pilot Io Fleming leads a charge against Zeon's ace Daryl Lorenz and his squad of snipers. With the fighters on both sides proving to be formidable soldiers, neither side is willing to back down, fighting strategically amongst the remnants of colonies.\nBut when Io gets a hold of a prototype Gundam, Daryl will have to make a sacrifice in order to obtain enough power to crush his enemy and ensure that Zeon is victorious, or watch as his comrades are slaughtered by a single man.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Mobile Suit Gundam: Thunderbolt",
+    "jp": "Kidou Senshi Gundam: Thunderbolt"
+  },
+  "releasedAt": "2015-12-25T00:00:00.000Z",
+  "finishedAt": "2016-04-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11476/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11476/original.png",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "piloted robot",
+    "robot",
+    "science fiction",
+    "space",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11476",
+    "anidb": "11740",
+    "anilist/anime": "21458",
+    "aozora": "ys4hPu6V5E",
+    "myanimelist/anime": "31973"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "i-was-king",
+  "synopsis": "A music video for One Ok Rock's song \"I Was King\" from the album Ambitions.",
+  "title": {
+    "jp": "I Was King"
+  },
+  "releasedAt": "2016-12-20T00:00:00.000Z",
+  "finishedAt": "2016-12-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13128/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13128",
+    "anilist/anime": "102095",
+    "aozora": "UuPjhaDllg",
+    "myanimelist/anime": "34655"
+  }
+}

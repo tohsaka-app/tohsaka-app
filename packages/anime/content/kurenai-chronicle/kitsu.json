@@ -1,0 +1,23 @@
+{
+  "slug": "kurenai-chronicle",
+  "synopsis": "Music video for Kurenai Chronicle by SorAZ (Tokino Sora &amp; AZKi)",
+  "title": {
+    "jp": "Kurenai Chronicle"
+  },
+  "releasedAt": "2020-09-22T00:00:00.000Z",
+  "finishedAt": "2020-09-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44027/original.jpeg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=akFLlRmmIpw&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "44027"
+  }
+}

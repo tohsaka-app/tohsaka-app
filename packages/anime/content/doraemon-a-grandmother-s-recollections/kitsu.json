@@ -1,0 +1,28 @@
+{
+  "slug": "doraemon-a-grandmother-s-recollections",
+  "synopsis": "Nobita misses his granny that died a few years ago, so Doraemon takes Nobita to the past to see his grandmother one more time. But they face through a lot of things such as the younger selves of Nobita and his friends, and young Nobita's mother that doesn't recognize Nobita or Doraemon. \n(Source: Wikipedia)",
+  "title": {
+    "en": "Doraemon: A Grandmother's Recollections",
+    "jp": "Doraemon: Obaachan no Omoide"
+  },
+  "releasedAt": "2000-03-04T00:00:00.000Z",
+  "finishedAt": "2000-03-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2413/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2413",
+    "anidb": "3314",
+    "anilist/anime": "2649",
+    "aozora": "5uKEu0sBhD",
+    "myanimelist/anime": "2649"
+  }
+}

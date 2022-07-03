@@ -1,0 +1,31 @@
+{
+  "slug": "fruits-basket-the-final",
+  "synopsis": "Final season of Fruits Basket.",
+  "title": {
+    "jp": "Fruits Basket: The Final"
+  },
+  "releasedAt": "2021-04-06T00:00:00.000Z",
+  "finishedAt": "2021-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43578/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43578/original.png",
+  "categories": [
+    "contemporary fantasy",
+    "drama",
+    "fantasy",
+    "reverse harem",
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/fruits-basket",
+    "https://www.funimation.com/shows/fruits-basket"
+  ],
+  "relations": {
+    "kitsu": "43578",
+    "anilist/anime": "124194",
+    "myanimelist/anime": "42938"
+  }
+}

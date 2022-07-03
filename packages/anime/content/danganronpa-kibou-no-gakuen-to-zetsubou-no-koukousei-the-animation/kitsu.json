@@ -1,0 +1,41 @@
+{
+  "slug": "danganronpa-kibou-no-gakuen-to-zetsubou-no-koukousei-the-animation",
+  "synopsis": "Hope's Peak Academy is an elite high school that accepts only the most talented students. Individuals who successfully enroll receive their own unique titles, suitably reflective of their skills and traits. Of the fifteen candidates admitted to the peculiar school that year, Makoto Naegi is a completely ordinary individual who has been accepted by sheer chance, with the title of \"Super High School-Level Luck.\"\nNaegi and his fellow classmates are initially ecstatic to be chosen to study at this prestigious institution, but these feelings of happiness are short-lived. They are soon confronted by Monokuma, the principal and resident bear, who traps them inside the school. The pupils' hopes of escape and graduation hinge on one of them successfully murdering one of their peers without being discovered. However, if the killer is caught, he or she will be executed, and the remaining survivors will be left to continue the deathmatch until only a single victor remains.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Danganronpa: The Animation",
+    "jp": "Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation"
+  },
+  "releasedAt": "2013-07-05T00:00:00.000Z",
+  "finishedAt": "2013-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7469/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7469/original.jpg",
+  "categories": [
+    "action",
+    "battle royale",
+    "comedy",
+    "detective",
+    "horror",
+    "mystery",
+    "psychological",
+    "stereotypes",
+    "thriller"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/danganronpa-the-animation/videos/episodes",
+    "http://www.hulu.com/danganronpa-the-animation"
+  ],
+  "relations": {
+    "kitsu": "7469",
+    "anidb": "9555",
+    "anilist/anime": "16592",
+    "aozora": "h6rCGUUn16",
+    "hulu": "50012280",
+    "myanimelist/anime": "16592",
+    "thetvdb": "270058/1",
+    "thetvdb/series": "270058",
+    "trakt": "70830"
+  }
+}

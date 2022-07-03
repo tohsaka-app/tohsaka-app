@@ -1,0 +1,26 @@
+{
+  "slug": "shimi",
+  "synopsis": "Music video directed and animated by hmng for the song Shimi by HOWL BE QUIET.\n\nThe song featured in this music video was also used as the opening theme for the anime Meikyuu Black Company.\n\n(Source: AniList)",
+  "title": {
+    "en": "Shimi",
+    "jp": "Shimi"
+  },
+  "releasedAt": "2021-07-12T00:00:00.000Z",
+  "finishedAt": "2021-07-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45465/poster_image/fd0ab19658ce354e2588e87fa83e8cd3.png",
+  "categories": [
+    "music",
+    "romance"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=MvvyswgqkrU"
+  ],
+  "relations": {
+    "kitsu": "45465",
+    "anilist/anime": "140079",
+    "myanimelist/anime": "50048"
+  }
+}

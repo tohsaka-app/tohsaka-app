@@ -1,0 +1,35 @@
+{
+  "slug": "school-rumble-san-gakki",
+  "synopsis": "A short 2 episodes attempt to conclude the series. Karasuma goes to America after then end of the third term. Will Harima finally confess? What will happen with Tenma and Karasuma?",
+  "title": {
+    "en": "School Rumble 3rd Semester",
+    "jp": "School Rumble San Gakki"
+  },
+  "releasedAt": "2008-07-17T00:00:00.000Z",
+  "finishedAt": "2008-09-17T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3413/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3413/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "love polygon",
+    "present",
+    "romance",
+    "school life",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3413",
+    "anidb": "5745",
+    "anilist/anime": "4015",
+    "aozora": "d5YtbCp6iu",
+    "myanimelist/anime": "4015"
+  }
+}

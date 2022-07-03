@@ -1,0 +1,32 @@
+{
+  "slug": "one-piece-episode-of-nami-koukaishi-no-namida-to-nakama-no-kizuna",
+  "synopsis": "A retelling of the Arlong Park arc, with new animation.",
+  "title": {
+    "jp": "One Piece: Episode of Nami - Koukaishi no Namida to Nakama no Kizuna"
+  },
+  "releasedAt": "2012-08-25T00:00:00.000Z",
+  "finishedAt": "2012-08-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7240/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7240/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "friendship",
+    "pirate",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7240",
+    "anilist/anime": "15323",
+    "aozora": "rRKCR3fgCN",
+    "myanimelist/anime": "15323"
+  }
+}

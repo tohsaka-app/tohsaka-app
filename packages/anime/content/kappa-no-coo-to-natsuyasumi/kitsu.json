@@ -1,0 +1,36 @@
+{
+  "slug": "kappa-no-coo-to-natsuyasumi",
+  "synopsis": "Kouichi Uehara is a fourth grade student living in the suburb of Tokyo. One day, he picks up a large stone which turns out to be a fossil of a baby \"Kappa\" who has been sleeping underground for the past 300 years, and names it \"Coo.\" They become good friends and Coo starts living with Kouichi's family. However, Coo has a hard time adjusting to life among humans and misses his kind.",
+  "title": {
+    "en": "Summer Days with Coo",
+    "jp": "Kappa no Coo to Natsuyasumi"
+  },
+  "releasedAt": "2007-07-28T00:00:00.000Z",
+  "finishedAt": "2007-07-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2598/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2598/original.png",
+  "categories": [
+    "adventure",
+    "comedy",
+    "coming of age",
+    "contemporary fantasy",
+    "drama",
+    "family",
+    "fantasy",
+    "japan",
+    "present",
+    "slice of life",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2598",
+    "anidb": "5056",
+    "anilist/anime": "2848",
+    "aozora": "FlTeyVfX2b",
+    "myanimelist/anime": "2848"
+  }
+}

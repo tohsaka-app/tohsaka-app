@@ -1,0 +1,41 @@
+{
+  "slug": "girls-und-panzer",
+  "synopsis": "Imagine a world where humanity lives on enormous carrier ships. In Girls und Panzer, not only do these community ships support entire towns, they also host military-themed sports events that use tanks. Popular among high school girls, tankery, as the sport is known, claims to make young women strong, graceful, and popular with boys.\nDespite this, not every girl likes tankery. Miho Nishizumi comes from a long line of famous tankery practitioners, but a traumatic event drove her to abandon the sport. She even goes as far as to transfer to Oarai High School because it has no tankery team. Unfortunately, Miho joins the student body just as they're about to resurrect the sport. Because she's the only girl in the entire high school with prior tankery experience, the student council forces her to join the team. Can Miho's new friends and teammates help her overcome her traumatic past experiences and go on to win the national tankery championships?",
+  "title": {
+    "en": "Girls & Panzer",
+    "jp": "Girls & Panzer"
+  },
+  "releasedAt": "2012-10-09T00:00:00.000Z",
+  "finishedAt": "2013-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7087/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7087/original.png",
+  "categories": [
+    "earth",
+    "friendship",
+    "military",
+    "plot continuity",
+    "school clubs",
+    "school life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/girls-und-panzer",
+    "https://tubitv.com/series/2656",
+    "https://www.hidive.com/tv/girls-und-panzer",
+    "https://www.hulu.com/girls-und-panzer",
+    "https://www.netflix.com/title/80205232"
+  ],
+  "relations": {
+    "kitsu": "7087",
+    "anidb": "9227",
+    "anilist/anime": "14131",
+    "aozora": "DObu1gEJez",
+    "hulu": "50009913",
+    "myanimelist/anime": "14131",
+    "thetvdb": "262098/1",
+    "thetvdb/series": "262098",
+    "trakt": "43725"
+  }
+}

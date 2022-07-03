@@ -1,0 +1,23 @@
+{
+  "slug": "paper-film",
+  "synopsis": "A short animation by Taku Furukawa.",
+  "title": {
+    "jp": "Paper Film"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10831/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10831",
+    "anilist/anime": "103701",
+    "aozora": "ghKNwywX3g",
+    "myanimelist/anime": "30403"
+  }
+}

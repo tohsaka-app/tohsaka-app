@@ -1,0 +1,24 @@
+{
+  "slug": "bubble",
+  "synopsis": "In a Tokyo where gravity has broken, a boy and a girl are drawn to each other...\n\nThe story is set in Tokyo, after bubbles that broke the laws of gravity rained down upon the world. Cut off from the outside world, Tokyo has become a playground for a group of young people who have lost their families, acting as a battlefield for parkour team battles as they leap from building to building. Hibiki, a young ace known for his dangerous play style, makes a reckless move one day and plummets into the gravity-bending sea. His life is saved by Uta, a girl with mysterious powers. The pair then hear a unique sound audible only to them. Why did Uta appear before Hibiki? Their encounter leads to a revelation that will change the world.\n\n(Source: Netflix)",
+  "title": {
+    "en": "Bubble",
+    "jp": "Bubble"
+  },
+  "releasedAt": "2022-04-28T00:00:00.000Z",
+  "finishedAt": "2022-04-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45559/poster_image/bc2b4fc1b09bb19807b3f6317599555d.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81345945"
+  ],
+  "relations": {
+    "kitsu": "45559",
+    "anilist/anime": "142455"
+  }
+}

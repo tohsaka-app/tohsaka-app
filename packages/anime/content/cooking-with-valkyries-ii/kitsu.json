@@ -1,0 +1,24 @@
+{
+  "slug": "cooking-with-valkyries-ii",
+  "synopsis": "Join the table with Valkyries this summer for another feast of mouth-watering food and heartwarming memories.",
+  "title": {
+    "jp": "Cooking with Valkyries II"
+  },
+  "releasedAt": "2020-07-17T00:00:00.000Z",
+  "finishedAt": "2020-09-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43364/original.jpg",
+  "categories": [
+    "comedy",
+    "cooking",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43364",
+    "anilist/anime": "119696",
+    "myanimelist/anime": "42206"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "nanatsu-no-taizai-ban-no-bangaihen",
+  "synopsis": "OVA bundled with the 15th and 16th volume of the manga.\n15th volume DVD will feature the sin of greed as the central character.\n16th volume DVD will feature side stories of the main characters in omnibus format.\n(Source: MAL News)",
+  "title": {
+    "jp": "Nanatsu no Taizai OVA"
+  },
+  "releasedAt": "2015-06-17T00:00:00.000Z",
+  "finishedAt": "2015-08-12T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10751/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10751/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10751",
+    "anidb": "11138",
+    "anilist/anime": "21104",
+    "aozora": "qLN5JTPULU",
+    "myanimelist/anime": "30347"
+  }
+}

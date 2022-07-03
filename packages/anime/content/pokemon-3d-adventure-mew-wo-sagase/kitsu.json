@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-3d-adventure-mew-wo-sagase",
+  "synopsis": "Pikachu and Meowth are on a search: a search for the elusive Pokémon, Mew. They search everywhere! The sea, the sky, the woods...will they ever find Mew? \n(Source: Bulbapedia)",
+  "title": {
+    "en": "Pokemon 3D Adventure: Find Mew!",
+    "jp": "Pokemon 3D Adventure: Mew wo Sagase!"
+  },
+  "releasedAt": "2005-03-18T00:00:00.000Z",
+  "finishedAt": "2005-03-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6441/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6441",
+    "anidb": "8671",
+    "anilist/anime": "11019",
+    "aozora": "aEh9oohLf9",
+    "myanimelist/anime": "11019"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "saiyuuki-reload-blast",
+  "synopsis": "At last, the Sanzou Party has arrived in India. In this foreign land, where the anomaly's influence runs rampant, their battles only heighten in their violence.\nAnd also awaiting them is their tragic fate from 500 years ago—\nWhat will they find at the end of their long and treacherous journey?",
+  "title": {
+    "en": "Saiyuki Reload Blast",
+    "jp": "Saiyuuki Reload Blast"
+  },
+  "releasedAt": "2017-07-05T00:00:00.000Z",
+  "finishedAt": "2017-09-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12464/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12464/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "josei"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/saiyuki-reload-blast"
+  ],
+  "relations": {
+    "kitsu": "12464",
+    "anidb": "12287",
+    "anilist/anime": "87498",
+    "aozora": "FfCYMURgj3",
+    "hulu": "50031621",
+    "myanimelist/anime": "33726",
+    "thetvdb": "80587/5"
+  }
+}

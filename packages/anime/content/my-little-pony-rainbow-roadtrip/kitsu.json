@@ -1,0 +1,29 @@
+{
+  "slug": "my-little-pony-rainbow-roadtrip",
+  "synopsis": "Rainbow Dash receives an invitation to be the guest of honor at the Rainbow Festival in the town of Hope Hollow. She and her friends set out by balloon, but collide with a rainbow billboard on the edge of Hope Hollow.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "My Little Pony: Rainbow Roadtrip"
+  },
+  "releasedAt": "2019-06-29T00:00:00.000Z",
+  "finishedAt": "2019-06-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44356/original.jpg",
+  "categories": [
+    "anime influenced",
+    "anthropomorphism",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "kids",
+    "magic",
+    "magical girl",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44356"
+  }
+}

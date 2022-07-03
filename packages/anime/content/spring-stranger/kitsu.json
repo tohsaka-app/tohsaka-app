@@ -1,0 +1,23 @@
+{
+  "slug": "spring-stranger",
+  "synopsis": "Music video for the song of the same name by Japanese synthie-pop band APOGEE. Directed by Sou Ootsuki (大月壮).",
+  "title": {
+    "jp": "Spring Stranger"
+  },
+  "releasedAt": "2009-04-21T00:00:00.000Z",
+  "finishedAt": "2009-04-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12422/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12422",
+    "anilist/anime": "103521",
+    "aozora": "sUdqyFqxCc",
+    "myanimelist/anime": "32868"
+  }
+}

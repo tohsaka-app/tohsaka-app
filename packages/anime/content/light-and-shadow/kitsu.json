@@ -1,0 +1,25 @@
+{
+  "slug": "light-and-shadow",
+  "synopsis": "A cosmic darkness threatens to overcome three former teammates who were thought to have perished.\n\n(Source: League of Legends)",
+  "title": {},
+  "releasedAt": "2019-09-11T00:00:00.000Z",
+  "finishedAt": "2019-09-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/43377/poster_image/542e5697d953f732a49804be37faabd1.png",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43377",
+    "anilist/anime": "150623"
+  }
+}

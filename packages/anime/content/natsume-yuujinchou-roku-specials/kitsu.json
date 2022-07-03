@@ -1,0 +1,32 @@
+{
+  "slug": "natsume-yuujinchou-roku-specials",
+  "synopsis": "Two special episodes bundled with the fourth and fifth volumes of the Blu-ray/DVD.",
+  "title": {
+    "en": "Natsume's Book of Friends 6 Specials",
+    "jp": "Natsume Yuujinchou Roku Specials"
+  },
+  "releasedAt": "2017-09-27T00:00:00.000Z",
+  "finishedAt": "2017-10-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13757/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13757/original.jpg",
+  "categories": [
+    "asia",
+    "contemporary fantasy",
+    "countryside",
+    "fantasy",
+    "japan",
+    "shoujo",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/natsume-yujin-cho-6"
+  ],
+  "relations": {
+    "kitsu": "13757",
+    "anilist/anime": "100283",
+    "myanimelist/anime": "36275"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "hyouketsu",
+  "synopsis": "Commercial for for alcoholic beverage Kirin Hyouketsu.",
+  "title": {
+    "en": "",
+    "jp": "Hyouketsu"
+  },
+  "releasedAt": "2016-08-02T00:00:00.000Z",
+  "finishedAt": "2016-08-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12468/original.png",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12468"
+  }
+}

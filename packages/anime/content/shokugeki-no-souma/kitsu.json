@@ -1,0 +1,39 @@
+{
+  "slug": "shokugeki-no-souma",
+  "synopsis": "Ever since he was a child, fifteen-year-old Souma Yukihira has helped his father by working as the sous chef in the restaurant his father runs and owns. Throughout the years, Souma developed a passion for entertaining his customers with his creative, skilled, and daring culinary creations. His dream is to someday own his family's restaurant as its head chef.\nYet when his father suddenly decides to close the restaurant to test his cooking abilities in restaurants around the world, he sends Souma to Tootsuki Culinary Academy, an elite cooking school where only 10 percent of the students graduate. The institution is famous for its \"Shokugeki\" or \"food wars,\" where students face off in intense, high-stakes cooking showdowns.\nAs Souma and his new schoolmates struggle to survive the extreme lifestyle of Tootsuki, more and greater challenges await him, putting his years of learning under his father to the test.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Food Wars! Shokugeki no Soma",
+    "jp": "Shokugeki no Souma"
+  },
+  "releasedAt": "2015-04-04T00:00:00.000Z",
+  "finishedAt": "2015-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9967/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9967/original.jpg",
+  "categories": [
+    "comedy",
+    "cooking",
+    "ecchi",
+    "japan",
+    "present",
+    "school life",
+    "shounen"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/food-wars-shokugeki-no-soma",
+    "http://www.hulu.com/food-wars",
+    "https://www.hidive.com/tv/food-wars"
+  ],
+  "relations": {
+    "kitsu": "9967",
+    "anidb": "10901",
+    "anilist/anime": "20923",
+    "aozora": "V4rNRFvu81",
+    "hulu": "50021488",
+    "myanimelist/anime": "28171",
+    "thetvdb": "289909",
+    "trakt": "94084"
+  }
+}

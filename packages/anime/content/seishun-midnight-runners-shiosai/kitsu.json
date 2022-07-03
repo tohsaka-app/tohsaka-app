@@ -1,0 +1,23 @@
+{
+  "slug": "seishun-midnight-runners-shiosai",
+  "synopsis": "Music video for Seishun Midnight Runners's (青春ミッドナイトランナーズ) song Shiosai (潮騒). Uses stop-motion pasta characters.",
+  "title": {
+    "jp": "Seishun Midnight Runners: Shiosai"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10436/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10436",
+    "anilist/anime": "103792",
+    "aozora": "WuA3rQOo6t",
+    "myanimelist/anime": "29744"
+  }
+}

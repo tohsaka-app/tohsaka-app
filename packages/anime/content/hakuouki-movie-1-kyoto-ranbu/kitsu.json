@@ -1,0 +1,44 @@
+{
+  "slug": "hakuouki-movie-1-kyoto-ranbu",
+  "synopsis": "Chizuru Yukimura has come to Kyoto looking for her father, a doctor who has gone missing. While there, she witnesses a fight between an Oni and the Shinsengumi. Taking her into custody, the Shinsengumi debates on what to do with Chizuru, when they discover that she is the daughter of the doctor for whom they are also looking. The Shinsengumi then take Chizuru along on their search after the missing doctor, from adventure to adventure.\n(Source: ANN)",
+  "title": {
+    "en": "Hakuoki ~Demon of the Fleeting Blossom~ Wild Dance of Kyoto",
+    "jp": "Hakuouki Movie 1: Kyoto Ranbu"
+  },
+  "releasedAt": "2013-08-24T00:00:00.000Z",
+  "finishedAt": "2013-08-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6885/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6885/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "bakumatsu   meiji period",
+    "bishounen",
+    "earth",
+    "historical",
+    "japan",
+    "josei",
+    "past",
+    "reverse harem",
+    "samurai",
+    "shinsengumi",
+    "swordplay",
+    "tokugawa period"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/hakuoki-theatrical-version-chapter-1-wild-dance-of-kyoto?q=Hakuoki+-+Theatrical+Version%2C+Chapter+1%3A+Wild+Dance+of+Kyoto"
+  ],
+  "relations": {
+    "kitsu": "6885",
+    "anidb": "9000",
+    "anilist/anime": "13117",
+    "aozora": "hmeHS7L1t5",
+    "hulu": "50012346",
+    "myanimelist/anime": "13117",
+    "thetvdb": "151281",
+    "trakt": "44073"
+  }
+}

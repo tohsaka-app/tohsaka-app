@@ -1,0 +1,26 @@
+{
+  "slug": "cookin-idol-ai-mai-main",
+  "synopsis": "Cooking Idol teaches children how to cook through instruction of the main character, MAIN. The show itself is divided into an animated segment featuring MAIN, and a live-action segment featuring the voice actor of MAIN, Fukuhara Haruka, as she practices the cooking herself.",
+  "title": {
+    "jp": "Cookin' Idol Ai! Mai! Main!"
+  },
+  "releasedAt": "2009-03-30T00:00:00.000Z",
+  "finishedAt": "2013-03-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4434/original.jpg",
+  "categories": [
+    "comedy",
+    "cooking",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4434",
+    "anidb": "6474",
+    "anilist/anime": "6119",
+    "aozora": "3ApLDVLS1C",
+    "myanimelist/anime": "6119"
+  }
+}

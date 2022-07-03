@@ -1,0 +1,20 @@
+{
+  "slug": "shin-gakkou-no-yuurei",
+  "synopsis": "Following the popularity of the original omnibus OVA, this release offers 4 more stories but in animation only. ",
+  "title": {
+    "jp": "Shin Gakkou no Yuurei"
+  },
+  "releasedAt": "1999-06-11T00:00:00.000Z",
+  "finishedAt": "1999-06-11T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40696/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40696",
+    "aozora": "ZuhLSzoFBu",
+    "myanimelist/anime": "35121"
+  }
+}

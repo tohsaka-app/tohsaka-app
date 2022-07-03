@@ -1,0 +1,24 @@
+{
+  "slug": "fox-wood-monogatari",
+  "synopsis": "Harvey, Rue, and Willie are a hedgehog, rabbit, and mouse who live in a windmill in the peaceful town of Fox Wood, where they have several adventures in this short-lived series based on the children's picture books by the British creators Cynthia and Brian Paterson. \n(Source: Anime Encyclopedia)",
+  "title": {
+    "en": "Fox Wood Tales",
+    "jp": "Fox Wood Monogatari"
+  },
+  "releasedAt": "1991-01-21T00:00:00.000Z",
+  "finishedAt": "1992-02-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9821/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9821",
+    "aozora": "ptv5EquJgF",
+    "myanimelist/anime": "23967"
+  }
+}

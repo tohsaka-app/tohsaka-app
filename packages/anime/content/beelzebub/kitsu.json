@@ -1,0 +1,38 @@
+{
+  "slug": "beelzebub",
+  "synopsis": "Ishiyama High is a school populated entirely by delinquents, where nonstop violence and lawlessness are the norm. However, there is one universally acknowledged rule—don't cross first year student Tatsumi Oga, Ishiyama's most vicious fighter.\nOne day, Oga is by a riverbed when he encounters a man floating down the river. After being retrieved by Oga, the man splits down the middle to reveal a baby, which crawls onto Oga's back and immediately forms an attachment to him. Though he doesn't know it yet, this baby is named Kaiser de Emperana Beelzebub IV, or \"Baby Beel\" for short—the son of the Demon Lord!\nAs if finding the future Lord of the Underworld isn't enough, Oga is also confronted by Hildegard, Beel's demon maid. Together they attempt to raise Baby Beel—although surrounded by juvenile delinquents and demonic powers, the two of them may be in for more of a challenge than they can imagine.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Beelzebub",
+    "jp": "Beelzebub"
+  },
+  "releasedAt": "2011-01-09T00:00:00.000Z",
+  "finishedAt": "2012-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5766/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5766/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "contemporary fantasy",
+    "delinquent",
+    "demon",
+    "school life",
+    "shounen"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/beelzebub",
+    "https://www.contv.com/details-movie/1313-19790-000/beelzebub---part-1"
+  ],
+  "relations": {
+    "kitsu": "5766",
+    "anidb": "7934",
+    "anilist/anime": "9513",
+    "aozora": "B52xr4iK8I",
+    "myanimelist/anime": "9513",
+    "thetvdb": "219771/1",
+    "thetvdb/series": "219771",
+    "trakt": "61109"
+  }
+}

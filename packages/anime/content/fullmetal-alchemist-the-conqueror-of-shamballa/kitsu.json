@@ -1,0 +1,39 @@
+{
+  "slug": "fullmetal-alchemist-the-conqueror-of-shamballa",
+  "synopsis": "In desperation, Edward Elric sacrificed his body and soul to rescue his brother Alphonse, and is now displaced in the heart of Munich, Germany. He struggles to adapt to a world completely foreign to him in the wake of the economic crisis that followed the end of World War I. Isolated and unable to return home with his alchemy skills, Edward continues to research other methods of escaping the prison alongside colleagues who bear striking resemblances to many of the people he left behind. As dissent brews among the German citizenry, its neighbors also feel the unrest of the humiliated nation.\nMeanwhile, Alphonse continues to investigate Edward's disappearance, delving into the science of alchemy in the hopes of finally reuniting with his older brother. \n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Fullmetal Alchemist: The Movie - Conqueror of Shamballa",
+    "jp": "Gekijyouban Hagane no Renkinjutsushi - Shanbara wo Yuku Mono"
+  },
+  "releasedAt": "2005-07-23T00:00:00.000Z",
+  "finishedAt": "2005-07-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/394/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/394/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "earth",
+    "europe",
+    "fantasy",
+    "germany",
+    "historical",
+    "military",
+    "past",
+    "shounen",
+    "violence"
+  ],
+  "externals": [
+    "http://www.hulu.com/fullmetal-alchemist-the-conqueror-of-shamballa"
+  ],
+  "relations": {
+    "kitsu": "394",
+    "anidb": "2359",
+    "anilist/anime": "430",
+    "aozora": "JcwJ3Ve8ex",
+    "hulu": "11664",
+    "myanimelist/anime": "430"
+  }
+}

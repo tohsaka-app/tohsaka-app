@@ -1,0 +1,24 @@
+{
+  "slug": "flcl-grunge",
+  "synopsis": "The fourth season of FLCL, and sequel to FLCL Alternative.",
+  "title": {
+    "en": "FLCL: Grunge",
+    "jp": "FLCL: Grunge"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45975/poster_image/52ba1251fe205019474da3481ec2b071.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45975",
+    "anilist/anime": "146472",
+    "myanimelist/anime": "51304"
+  }
+}

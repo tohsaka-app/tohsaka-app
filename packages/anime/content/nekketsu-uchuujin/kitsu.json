@@ -1,0 +1,27 @@
+{
+  "slug": "nekketsu-uchuujin",
+  "synopsis": "A short in which a student named Ai meets an alien with a time machine. Ai also appears in the short \"Kobe to Watashi\".",
+  "title": {
+    "en": "Hot-blooded Alien",
+    "jp": "Nekketsu Uchuujin"
+  },
+  "releasedAt": "2009-10-31T00:00:00.000Z",
+  "finishedAt": "2009-10-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5539/original.jpg",
+  "categories": [
+    "alien",
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5539",
+    "anidb": "8702",
+    "anilist/anime": "8935",
+    "aozora": "D5MdnKZML2",
+    "myanimelist/anime": "8935"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "tsubasa-shunraiki",
+  "synopsis": "Tsubasa/xxxHOLiC Project\nA 4 part OVA released with the limited editions of the Tsubasa and xxxHOLiC volumes.\nThere are two OVAs for each series, with plots linked together.\nThey cover the Nihon Country Arc and scarcely some of the Celes Country Arc.\n(Source: Official Project Website)",
+  "title": {
+    "en": "Tsubasa RESERVoir CHRoNiCLE: Spring Thunder Chronicle",
+    "jp": "Tsubasa: Shunraiki"
+  },
+  "releasedAt": "2009-03-17T00:00:00.000Z",
+  "finishedAt": "2009-05-15T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3859/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "mystery",
+    "parallel universe",
+    "romance"
+  ],
+  "externals": [
+    "http://www.hulu.com/tsubasa-spring-thunder-chronicles"
+  ],
+  "relations": {
+    "kitsu": "3859",
+    "anidb": "6191",
+    "anilist/anime": "4938",
+    "aozora": "jXCj1rAZ5e",
+    "hulu": "50001941",
+    "myanimelist/anime": "4938"
+  }
+}

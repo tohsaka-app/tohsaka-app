@@ -1,0 +1,40 @@
+{
+  "slug": "kekkai-sensen-beyond",
+  "synopsis": "Second season of Kekkai Sensen.",
+  "title": {
+    "en": "Blood Blockade Battlefront & BEYOND",
+    "jp": "Kekkai Sensen & Beyond"
+  },
+  "releasedAt": "2017-10-08T00:00:00.000Z",
+  "finishedAt": "2017-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12770/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12770/original.jpg",
+  "categories": [
+    "action",
+    "americas",
+    "comedy",
+    "earth",
+    "fantasy",
+    "new york",
+    "parallel universe",
+    "science fiction",
+    "super power",
+    "united states",
+    "vampire"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/blood-blockade-battlefront"
+  ],
+  "relations": {
+    "kitsu": "12770",
+    "anidb": "12571",
+    "anilist/anime": "97886",
+    "aozora": "nmKXcIsJaE",
+    "hulu": "50033246",
+    "myanimelist/anime": "34451",
+    "thetvdb": "289886/2"
+  }
+}

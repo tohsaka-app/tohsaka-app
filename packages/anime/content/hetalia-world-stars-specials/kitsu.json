@@ -1,0 +1,25 @@
+{
+  "slug": "hetalia-world-stars-specials",
+  "synopsis": "Episodes 13-15 of Hetalia World★Stars included in the Blu-ray BOX.",
+  "title": {
+    "en": "Hetalia World★Stars Specials",
+    "jp": "Hetalia World★Stars Specials"
+  },
+  "releasedAt": "2021-07-28T00:00:00.000Z",
+  "finishedAt": "2021-07-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44998/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44998",
+    "anilist/anime": "136137",
+    "myanimelist/anime": "48627"
+  }
+}

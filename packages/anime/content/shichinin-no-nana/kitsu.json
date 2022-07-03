@@ -1,0 +1,42 @@
+{
+  "slug": "shichinin-no-nana",
+  "synopsis": "Nana Suzuki winds up being split into seven copies of herself. Besides the original Nana, there's also a smart Nana, a happy Nana, an angry Nana, a sensitive Nana, a sad Nana, and a slow Nana.\n\n(Source: ANN)",
+  "title": {
+    "en": "Seven of Seven",
+    "jp": "Shichinin no Nana"
+  },
+  "releasedAt": "2002-01-10T00:00:00.000Z",
+  "finishedAt": "2002-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/578/original.jpg",
+  "categories": [
+    "adventure",
+    "angst",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "love polygon",
+    "magic",
+    "magical girl",
+    "middle school",
+    "plot continuity",
+    "present",
+    "romance",
+    "school life",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "578",
+    "anidb": "853",
+    "anilist/anime": "623",
+    "aozora": "cFqLYHfITT",
+    "myanimelist/anime": "623",
+    "thetvdb": "84026/1",
+    "thetvdb/series": "84026",
+    "trakt": "34014"
+  }
+}

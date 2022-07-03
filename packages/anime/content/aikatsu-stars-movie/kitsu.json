@@ -1,0 +1,27 @@
+{
+  "slug": "aikatsu-stars-movie",
+  "synopsis": "The film will revolve around the students of the Yotsuboshi Gakuen traveling to a southern island in search for the \"Legendary Dress.\"\n\n(Source: ANN)",
+  "title": {
+    "en": "",
+    "jp": "Aikatsu Stars! Movie"
+  },
+  "releasedAt": "2016-08-13T00:00:00.000Z",
+  "finishedAt": "2016-08-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11352/original.jpg",
+  "categories": [
+    "music",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11352",
+    "anidb": "11526",
+    "anilist/anime": "21697",
+    "aozora": "5JL5vKN5GU",
+    "myanimelist/anime": "31485"
+  }
+}

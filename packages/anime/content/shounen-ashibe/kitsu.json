@@ -1,0 +1,25 @@
+{
+  "slug": "shounen-ashibe",
+  "synopsis": "The anime is based on the 4-panel comic strip drawn by Morishita Hiromi and published in Young Jump. The story describes the daily life of Ashibe (an elementary school boy) and his family and friends, including a pet white sea lion.",
+  "title": {
+    "jp": "Shounen Ashibe (TV)"
+  },
+  "releasedAt": "1991-04-11T00:00:00.000Z",
+  "finishedAt": "1991-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5502/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5502",
+    "anidb": "2981",
+    "anilist/anime": "8829",
+    "aozora": "kkIo2zBVni",
+    "myanimelist/anime": "8829"
+  }
+}

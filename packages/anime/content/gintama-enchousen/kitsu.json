@@ -1,0 +1,40 @@
+{
+  "slug": "gintama-enchousen",
+  "synopsis": "Sakata Gintoki, Kagura, and Shinpachi Shimura continue to scrape a living as freelance jack-of-all-trades at Edo while amidst the several odd humans and aliens that inhabit the peculiar metropolis. \n(Source: ANN)",
+  "title": {
+    "jp": "Gintama': Enchousen"
+  },
+  "releasedAt": "2012-10-04T00:00:00.000Z",
+  "finishedAt": "2013-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7253/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7253/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "alternative past",
+    "asia",
+    "comedy",
+    "historical",
+    "japan",
+    "parody",
+    "past",
+    "samurai",
+    "science fiction",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7253",
+    "anidb": "9427",
+    "anilist/anime": "15417",
+    "aozora": "k6yPmjYpOu",
+    "myanimelist/anime": "15417",
+    "thetvdb": "79895/6",
+    "thetvdb/season": "500623",
+    "thetvdb/series": "79895",
+    "trakt": "56675"
+  }
+}

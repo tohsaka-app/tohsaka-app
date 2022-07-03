@@ -1,0 +1,30 @@
+{
+  "slug": "fuuto-tantei",
+  "synopsis": "In the ecologically-minded city of Fuuto, mysterious devices resembling USB flash drives called Gaia Memories are used by criminals and other interested parties to become monsters called Dopants, committing crimes with the police force powerless to stop them. To make matters worse, the Gaia Memories carry a dangerous toxin that cause their users to go insane to the point where they could die from the life-threatening devices. After the death of his boss, the self-proclaimed hard-boiled detective Shoutaro Hidari works with the mysterious Philip to investigate crimes which involve Dopants. Using their own Gaia Memories, Shoutaro and Philip use the Double Driver belts to transform and combine into Kamen Rider Double to fight the Dopant menace and keep Fuuto safe.\n\n(Source: Anilist)",
+  "title": {
+    "en": "Fuuto PI",
+    "jp": "Fuuto Tantei"
+  },
+  "releasedAt": "2022-08-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "upcoming",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44323/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44323/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "drama",
+    "mystery",
+    "seinen",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44323",
+    "anidb": "16186",
+    "anilist/anime": "131912",
+    "myanimelist/anime": "48649"
+  }
+}

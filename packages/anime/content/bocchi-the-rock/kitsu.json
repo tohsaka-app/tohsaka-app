@@ -1,0 +1,26 @@
+{
+  "slug": "bocchi-the-rock",
+  "synopsis": "Hitori Gotou is a high school girl who's starting to learn to play the guitar because she dreams of being in a band, but she's so shy that she hasn't made a single friend. However, her dream might come true after she meets Nijika Ijichi, a girl who plays drums and is looking for a new guitarist for her band.\n\n(Source: MU, edited)",
+  "title": {
+    "jp": "Bocchi the Rock!"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44196/poster_image/5f86e505148295b2db2edc0d45972eb8.jpg",
+  "categories": [
+    "comedy",
+    "music",
+    "musical band",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44196",
+    "anidb": "16063",
+    "anilist/anime": "130003",
+    "myanimelist/anime": "47917"
+  }
+}

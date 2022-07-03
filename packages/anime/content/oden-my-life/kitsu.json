@@ -1,0 +1,21 @@
+{
+  "slug": "oden-my-life",
+  "synopsis": "",
+  "title": {
+    "jp": "Oden My Life"
+  },
+  "releasedAt": "2013-05-22T00:00:00.000Z",
+  "finishedAt": "2013-05-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14205/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14205"
+  }
+}

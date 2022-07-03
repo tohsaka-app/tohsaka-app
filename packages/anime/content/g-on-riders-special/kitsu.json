@@ -1,0 +1,25 @@
+{
+  "slug": "g-on-riders-special",
+  "synopsis": "A special included on the 7th DVD release, commonly known as \"Episode 14\". It features nudity and adult situations which were not present in the original series.",
+  "title": {
+    "jp": "G-On Riders Special"
+  },
+  "releasedAt": "2003-03-21T00:00:00.000Z",
+  "finishedAt": "2003-03-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8907/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8907",
+    "anilist/anime": "145503",
+    "aozora": "vHg91tYhvz",
+    "myanimelist/anime": "24637"
+  }
+}

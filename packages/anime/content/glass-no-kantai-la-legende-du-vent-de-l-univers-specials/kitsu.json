@@ -1,0 +1,25 @@
+{
+  "slug": "glass-no-kantai-la-legende-du-vent-de-l-univers-specials",
+  "synopsis": "Episodes 16.5 and 20.5.\nGlass no Kantai Special episodes focus on the history behind the Imperial Royal Family, recounting the events that happened before the TV Series.",
+  "title": {
+    "en": "Glass Fleet: The Legend of the Wind of the Universe Specials",
+    "jp": "Glass no Kantai: La Legende du Vent de l'Univers Specials"
+  },
+  "releasedAt": "2007-01-24T00:00:00.000Z",
+  "finishedAt": "2007-03-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4224/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4224",
+    "anilist/anime": "20563",
+    "aozora": "yCvgTlNhwE",
+    "myanimelist/anime": "5652"
+  }
+}

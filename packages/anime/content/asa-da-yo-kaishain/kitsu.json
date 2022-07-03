@@ -1,0 +1,24 @@
+{
+  "slug": "asa-da-yo-kaishain",
+  "synopsis": "The series follows a variety of employed shellfish who exhibit selfish or odd personality traits.\n(Source: LiveChart)",
+  "title": {
+    "jp": "Asa da yo! Kaishain"
+  },
+  "releasedAt": "2016-04-04T00:00:00.000Z",
+  "finishedAt": "2019-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12170/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12170",
+    "anidb": "12024",
+    "anilist/anime": "121718",
+    "aozora": "yuuzeyM8u8",
+    "myanimelist/anime": "33044"
+  }
+}

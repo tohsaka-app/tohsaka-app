@@ -1,0 +1,28 @@
+{
+  "slug": "hua-jiang-hu-zhi-bu-liang-ren-2nd-season",
+  "synopsis": "The continuation of Hua Jiang Hu Zhi Bu Liang Ren.",
+  "title": {
+    "en": "Painting Rivers and Lakes 2",
+    "jp": "Hua Jiang Hu Zhi Bu Liang Ren 2nd Season"
+  },
+  "releasedAt": "2016-07-21T00:00:00.000Z",
+  "finishedAt": "2017-04-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13139/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "historical",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13139",
+    "anilist/anime": "102562",
+    "aozora": "8NxegVzIV4",
+    "myanimelist/anime": "33925"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "pink-lady-monogatari-eikou-no-tenshi-tachi",
+  "synopsis": "Based on the real life-story of Pink Lady, a female pop duo that rose to superstardom in the mid-1970's.\n(Source: ANN)",
+  "title": {
+    "jp": "Pink Lady Monogatari: Eikou no Tenshi-tachi"
+  },
+  "releasedAt": "1978-10-24T00:00:00.000Z",
+  "finishedAt": "1979-06-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9535/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "idol",
+    "japan",
+    "music",
+    "present",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9535",
+    "anidb": "5300",
+    "anilist/anime": "17423",
+    "aozora": "EMHAGjzb8q",
+    "myanimelist/anime": "17423"
+  }
+}

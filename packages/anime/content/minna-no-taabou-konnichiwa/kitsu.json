@@ -1,0 +1,20 @@
+{
+  "slug": "minna-no-taabou-konnichiwa",
+  "synopsis": "Taabou travels around saying \"hello\" to everyone.",
+  "title": {
+    "jp": "Minna no Taabou Konnichiwa"
+  },
+  "releasedAt": "1989-01-01T00:00:00.000Z",
+  "finishedAt": "1989-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40667/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40667",
+    "aozora": "u52KYU2zmY",
+    "myanimelist/anime": "35040"
+  }
+}

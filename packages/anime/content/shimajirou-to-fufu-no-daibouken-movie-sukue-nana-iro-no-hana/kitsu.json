@@ -1,0 +1,28 @@
+{
+  "slug": "shimajirou-to-fufu-no-daibouken-movie-sukue-nana-iro-no-hana",
+  "synopsis": "Movie for the Shimajirou children's series.",
+  "title": {
+    "jp": "Shimajirou to Fufu no Daibouken Movie: Sukue! Nana-iro no Hana"
+  },
+  "releasedAt": "2013-03-15T00:00:00.000Z",
+  "finishedAt": "2013-03-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9040/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9040",
+    "anidb": "9500",
+    "anilist/anime": "18943",
+    "aozora": "XZGfNSBuhe",
+    "myanimelist/anime": "18943"
+  }
+}

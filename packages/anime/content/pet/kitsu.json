@@ -1,0 +1,29 @@
+{
+  "slug": "pet",
+  "synopsis": "There are people who can get into people's mind and control their memories. This power is used to eradicate mysteries and cases or worse, to assassinate. The potential of the said power is strong enough that it is able to destroy people's mind, however, can backfire and eat up their own heart. To counter it, chains are used to lock and protect each other's weak and dangerous heart. From one's growing fear and disdain, they're consequently called as a \"Pet.\"\n\n(Source: MAL News)",
+  "title": {
+    "jp": "pet"
+  },
+  "releasedAt": "2020-01-06T00:00:00.000Z",
+  "finishedAt": "2020-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41089/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41089/original.png",
+  "categories": [
+    "mystery",
+    "psychological",
+    "seinen",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.amazon.com/pet/dp/B083FZ5JKL"
+  ],
+  "relations": {
+    "kitsu": "41089",
+    "anidb": "13947",
+    "anilist/anime": "101350",
+    "myanimelist/anime": "37522"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "tanaka-kun-wa-itsumo-kedaruge-specials",
+  "synopsis": "Bundled with the Blu-ray and DVD releases of Tanaka-kun wa Itsumo Kedaruge.",
+  "title": {
+    "jp": "Tanaka-kun wa Itsumo Kedaruge Specials"
+  },
+  "releasedAt": "2016-06-24T00:00:00.000Z",
+  "finishedAt": "2016-12-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12052/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12052",
+    "anilist/anime": "21786",
+    "aozora": "iJvgjEHCBC",
+    "myanimelist/anime": "33157"
+  }
+}

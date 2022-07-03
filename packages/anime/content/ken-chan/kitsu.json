@@ -1,0 +1,24 @@
+{
+  "slug": "ken-chan",
+  "synopsis": "A music video for the song \"Ken-chan\" by Yuuki Kudou. Aired as part of NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Ken-chan"
+  },
+  "releasedAt": "1985-08-01T00:00:00.000Z",
+  "finishedAt": "1985-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11919/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11919",
+    "anidb": "12670",
+    "aozora": "YAQ7EH4hUw",
+    "myanimelist/anime": "32420"
+  }
+}

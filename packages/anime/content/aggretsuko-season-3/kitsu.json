@@ -1,0 +1,29 @@
+{
+  "slug": "aggretsuko-season-3",
+  "synopsis": "Season 3 of  Aggretsuko.",
+  "title": {
+    "en": "Aggretsuko Season 3",
+    "jp": "Aggressive Retsuko Season 3"
+  },
+  "releasedAt": "2020-08-27T00:00:00.000Z",
+  "finishedAt": "2020-08-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43407/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43407/original.png",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80198505"
+  ],
+  "relations": {
+    "kitsu": "43407",
+    "anilist/anime": "110857",
+    "myanimelist/anime": "40215"
+  }
+}

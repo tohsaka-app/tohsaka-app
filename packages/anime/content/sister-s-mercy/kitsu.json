@@ -1,0 +1,24 @@
+{
+  "slug": "sister-s-mercy",
+  "synopsis": "",
+  "title": {
+    "jp": "Sister’s ∞ mercY"
+  },
+  "releasedAt": "2017-12-26T00:00:00.000Z",
+  "finishedAt": "2017-12-26T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42298/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42298/original.png",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=6rlqEcgbbEI"
+  ],
+  "relations": {
+    "kitsu": "42298"
+  }
+}

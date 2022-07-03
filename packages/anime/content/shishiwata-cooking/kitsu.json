@@ -1,0 +1,26 @@
+{
+  "slug": "shishiwata-cooking",
+  "synopsis": "Music video for the song ShishiWata Cooking by ShishiWata (Shishiro Botan and Tsunomaki Watame).",
+  "title": {
+    "en": "ShishiWata Cooking",
+    "jp": "ShishiWata Cooking"
+  },
+  "releasedAt": "2021-12-29T00:00:00.000Z",
+  "finishedAt": "2021-12-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45708/poster_image/37d61b2f01ae2d8bfc4e6a734076f7d9.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45708/cover_image/2101a466a72b96d0e6b2db160fc40fab.jpg",
+  "categories": [
+    "cooking",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=fsPSaFbonGo"
+  ],
+  "relations": {
+    "kitsu": "45708"
+  }
+}

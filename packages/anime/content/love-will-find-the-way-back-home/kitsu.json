@@ -1,0 +1,23 @@
+{
+  "slug": "love-will-find-the-way-back-home",
+  "synopsis": "A music video for Juno Lee's song \"Love will find the way back home\".",
+  "title": {
+    "jp": "Love Will Find the Way Back Home"
+  },
+  "releasedAt": "2014-09-25T00:00:00.000Z",
+  "finishedAt": "2014-09-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12372/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12372",
+    "anilist/anime": "103487",
+    "aozora": "BiQybatyKB",
+    "myanimelist/anime": "32844"
+  }
+}

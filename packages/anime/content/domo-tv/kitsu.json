@@ -1,0 +1,26 @@
+{
+  "slug": "domo-tv",
+  "synopsis": "A co-production between Nickelodeon and NHK featuring the stop-motion character Domo-kun, aired both in the US and Japan.",
+  "title": {
+    "jp": "Domo TV"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5501/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5501",
+    "anilist/anime": "8815",
+    "aozora": "D2ftwJOfL6",
+    "myanimelist/anime": "8815",
+    "thetvdb": "249728/1",
+    "thetvdb/series": "249728",
+    "trakt": "11146"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "supermarket-flowers",
+  "synopsis": "An animated music video of Ed Sheeran’s song Supermarket Flowers from his third studio album, \"÷(divide)\". The video was directed by Yoriko Hoshi, who’s a winner of a prestigious award: Tezuka Osamu Cultural Prize. The video consists of a heartwarming story, featuring Ed Sheeran and his beloved cats, Calippo and Dorito.\n\n(Source: MyAnimeList)",
+  "title": {
+    "en": "Supermarket Flowers",
+    "jp": "Supermarket Flowers"
+  },
+  "releasedAt": "2019-04-03T00:00:00.000Z",
+  "finishedAt": "2019-04-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42664/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/XpF9Y7rcqBs"
+  ],
+  "relations": {
+    "kitsu": "42664",
+    "myanimelist/anime": "39658"
+  }
+}

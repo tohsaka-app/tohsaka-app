@@ -1,0 +1,28 @@
+{
+  "slug": "steven-universe-season-5",
+  "synopsis": "Season 5 of Steven Universe",
+  "title": {},
+  "releasedAt": "2017-05-30T00:00:00.000Z",
+  "finishedAt": "2019-01-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13423/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13423/original.jpg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "coming of age",
+    "contemporary fantasy",
+    "family",
+    "fantasy",
+    "friendship",
+    "kids",
+    "united states"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13423"
+  }
+}

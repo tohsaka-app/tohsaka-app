@@ -1,0 +1,21 @@
+{
+  "slug": "match-shoujo",
+  "synopsis": "An animated commercial produced by studio NAZ to advertise Match Shoujo's manga series of the same name.",
+  "title": {
+    "en": "The Little Match Girl",
+    "jp": "Match Shoujo"
+  },
+  "releasedAt": "2016-02-10T00:00:00.000Z",
+  "finishedAt": "2016-02-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12085/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "12085",
+    "aozora": "pLgC96QHu2",
+    "myanimelist/anime": "32695"
+  }
+}

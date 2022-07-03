@@ -1,0 +1,23 @@
+{
+  "slug": "mario-kirby-meisaku-video",
+  "synopsis": null,
+  "title": {
+    "jp": "Mario Kirby Meisaku Video"
+  },
+  "releasedAt": "1993-01-01T00:00:00.000Z",
+  "finishedAt": "1993-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44112/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44112",
+    "myanimelist/anime": "42451"
+  }
+}

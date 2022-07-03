@@ -1,0 +1,22 @@
+{
+  "slug": "yasoukyoku",
+  "synopsis": "A music video for Tamaki's song \"Yasoukyoku.\"",
+  "title": {
+    "jp": "Yasoukyoku"
+  },
+  "releasedAt": "2011-01-04T00:00:00.000Z",
+  "finishedAt": "2011-01-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12576/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12576",
+    "aozora": "mYi7oTk9C2",
+    "myanimelist/anime": "33908"
+  }
+}

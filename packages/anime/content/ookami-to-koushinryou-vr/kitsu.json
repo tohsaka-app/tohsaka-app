@@ -1,0 +1,25 @@
+{
+  "slug": "ookami-to-koushinryou-vr",
+  "synopsis": "Independent development circle Spicy Tails announced on that it is developing a virtual reality anime based on Isuna Hasekura's Spice &amp; Wolf novels. Hasekura himself is writing a new scenario for the anime. It will have English subtitles. The television anime's voice actors Ami Koshimizu (Holo) and Jun Fukuyama (Kraft Lawrence) are returning.\n\nThe anime is slated for release on HTC VIVE, Oculus Rift, and other platforms in early 2019. It will also be viewable on PC without a VR headset.\n\n(Source: ANN)",
+  "title": {
+    "en": "Spice & Wolf VR",
+    "jp": "Ookami to Koushinryou VR"
+  },
+  "releasedAt": "2019-06-03T00:00:00.000Z",
+  "finishedAt": "2019-06-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42949/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42949/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42949",
+    "myanimelist/anime": "38026"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "mashiro-witch",
+  "synopsis": "The 3DCG animated opening for Square Enix's Mashiro Witch RPG mobile game expected to launch in late 2017.",
+  "title": {
+    "jp": "Mashiro Witch"
+  },
+  "releasedAt": "2017-03-14T00:00:00.000Z",
+  "finishedAt": "2017-03-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41640/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41640",
+    "myanimelist/anime": "36640"
+  }
+}

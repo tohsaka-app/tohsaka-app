@@ -1,0 +1,23 @@
+{
+  "slug": "fushigi-na-taiko",
+  "synopsis": "A short movie based on the children's story by Momoko Ishii.",
+  "title": {
+    "jp": "Fushigi na Taiko"
+  },
+  "releasedAt": "1957-08-20T00:00:00.000Z",
+  "finishedAt": "1957-08-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10544/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10544",
+    "anilist/anime": "16063",
+    "aozora": "QAgn62ZYcq",
+    "myanimelist/anime": "29919"
+  }
+}

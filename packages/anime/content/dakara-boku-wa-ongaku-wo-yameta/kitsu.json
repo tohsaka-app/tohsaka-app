@@ -1,0 +1,26 @@
+{
+  "slug": "dakara-boku-wa-ongaku-wo-yameta",
+  "synopsis": "A music video for the song Dakara Boku wa Ongaku wo Yameta by Yorushika.",
+  "title": {
+    "en": "That's Why I Gave Up on Music",
+    "jp": "Dakara Boku wa Ongaku wo Yameta"
+  },
+  "releasedAt": "2019-05-04T00:00:00.000Z",
+  "finishedAt": "2019-05-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45861/poster_image/ad449e7df9216eb75c745a0eacab0192.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/KTZ-y85Erus"
+  ],
+  "relations": {
+    "kitsu": "45861",
+    "anilist/anime": "116327",
+    "myanimelist/anime": "41181"
+  }
+}

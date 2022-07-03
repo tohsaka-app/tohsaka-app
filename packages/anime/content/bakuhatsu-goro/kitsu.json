@@ -1,0 +1,28 @@
+{
+  "slug": "bakuhatsu-goro",
+  "synopsis": "The non-athletic head of the school newspaper department participates in various club activities, including a number of sports clubs, with disastrously hilarious results.\n(Source: AniDB)",
+  "title": {
+    "jp": "Bakuhatsu Gorou"
+  },
+  "releasedAt": "1970-04-03T00:00:00.000Z",
+  "finishedAt": "1970-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5655/original.jpg",
+  "categories": [
+    "comedy",
+    "japan",
+    "school clubs",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5655",
+    "anidb": "5483",
+    "anilist/anime": "9284",
+    "aozora": "n3DsGTvPHw",
+    "myanimelist/anime": "9284"
+  }
+}

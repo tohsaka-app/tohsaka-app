@@ -1,0 +1,26 @@
+{
+  "slug": "mori-no-ratio",
+  "synopsis": "Stop-motion anime about a girl named Ratio who lives in a forest with her icy monsters and creatures. Every day she goes out explores new things.",
+  "title": {
+    "en": "Ratio of Forest",
+    "jp": "Mori no Ratio"
+  },
+  "releasedAt": "2010-03-26T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10478/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10478",
+    "anilist/anime": "101906",
+    "aozora": "emFd1oGkKd",
+    "myanimelist/anime": "29427"
+  }
+}

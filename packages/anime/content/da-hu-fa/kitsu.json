@@ -1,0 +1,25 @@
+{
+  "slug": "da-hu-fa",
+  "synopsis": "A warrior named Da Hufa goes to save his prince from a dystopian village. He finds the dystopian village ruled by a fake God and his guards. In order to save the prince, Da hufa has to defeat the God and his men and discloses the whole conspiracy.\n\n(Source: IMBD)",
+  "title": {
+    "jp": "Da Hu Fa"
+  },
+  "releasedAt": "2017-07-13T00:00:00.000Z",
+  "finishedAt": "2017-07-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14185/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "dystopia",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14185",
+    "anilist/anime": "103353",
+    "myanimelist/anime": "36661"
+  }
+}

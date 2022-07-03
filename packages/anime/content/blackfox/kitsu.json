@@ -1,0 +1,26 @@
+{
+  "slug": "blackfox",
+  "synopsis": "Living in a ninja residence tucked away in a corner of a futuristic city is Rikka, the eldest daughter of a Ninja clan, who looks up to her father—a researcher—very much.\n\nCarrying on with her life normally, Rikka's home came suddenly under attack one day. Driven into a corner, what would she do to overcome this crisis?\n\nRip darkness to pieces and become \"BLACK\"!\n\n(Source: Official site)",
+  "title": {
+    "jp": "BLACKFOX"
+  },
+  "releasedAt": "2019-10-05T00:00:00.000Z",
+  "finishedAt": "2019-10-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41102/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41102/original.jpg",
+  "categories": [
+    "action",
+    "ninja"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/blackfox"
+  ],
+  "relations": {
+    "kitsu": "41102",
+    "anilist/anime": "101317",
+    "myanimelist/anime": "37498"
+  }
+}

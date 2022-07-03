@@ -1,0 +1,23 @@
+{
+  "slug": "shapeshifter",
+  "synopsis": "Space Shower TV Station ID directed by Takashi Ohashi, with music by Tomggg.",
+  "title": {
+    "jp": "Shapeshifter"
+  },
+  "releasedAt": "2019-03-26T00:00:00.000Z",
+  "finishedAt": "2019-03-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43450/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43450",
+    "anilist/anime": "111996",
+    "myanimelist/anime": "40002"
+  }
+}

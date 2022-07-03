@@ -1,0 +1,22 @@
+{
+  "slug": "necoarc-the-movie",
+  "synopsis": "The 2005 April Fools Day prank from Type Moon.\n",
+  "title": {
+    "en": null,
+    "jp": "Necoarc The Movie"
+  },
+  "releasedAt": "2005-04-01T00:00:00.000Z",
+  "finishedAt": "2005-04-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10999/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10999",
+    "myanimelist/anime": "30811"
+  }
+}

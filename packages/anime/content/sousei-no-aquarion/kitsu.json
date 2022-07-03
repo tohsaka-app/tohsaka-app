@@ -1,0 +1,51 @@
+{
+  "slug": "sousei-no-aquarion",
+  "synopsis": "Humanity is dominated by fear when the Shadow Angels invade after 12,000 years of slumber. There is hope, however—Mechanical Angel Aquarion, a fighting machine powered by the intertwined souls of pilots known as Elements. With prophecy being fulfilled, and the end of the world approaching, the last hope for the new century takes flight. For mankind to survive, one among the Elements must rise.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Aquarion",
+    "jp": "Sousei no Aquarion"
+  },
+  "releasedAt": "2005-04-05T00:00:00.000Z",
+  "finishedAt": "2005-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/440/original.jpg",
+  "categories": [
+    "action",
+    "angel",
+    "coming of age",
+    "disaster",
+    "drama",
+    "dystopia",
+    "earth",
+    "fantasy",
+    "friendship",
+    "future",
+    "henshin",
+    "mecha",
+    "piloted robot",
+    "post apocalypse",
+    "romance",
+    "science fiction",
+    "slow when it comes to love",
+    "super power",
+    "transforming craft"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/aquarion",
+    "http://www.funimation.com/shows/aquarion/videos/episodes",
+    "http://www.hulu.com/aquarion"
+  ],
+  "relations": {
+    "kitsu": "440",
+    "anidb": "2830",
+    "anilist/anime": "478",
+    "aozora": "666E4O8PRg",
+    "hulu": "11285",
+    "myanimelist/anime": "478",
+    "thetvdb": "79886/1",
+    "thetvdb/series": "79886",
+    "trakt": "8826"
+  }
+}

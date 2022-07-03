@@ -1,0 +1,23 @@
+{
+  "slug": "lalala-brothers",
+  "synopsis": "The way the everyday and the extraordinary constantly change in the environment around us and within ourselves.Graduate work by Ryoji Yamada at Tama Art University 2011.",
+  "title": {
+    "en": "LaLaLa, BROTHERS",
+    "jp": "LaLaLa, BROTHERS"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44639/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44639",
+    "anilist/anime": "127358",
+    "myanimelist/anime": "48966"
+  }
+}

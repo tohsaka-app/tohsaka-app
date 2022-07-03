@@ -1,0 +1,22 @@
+{
+  "slug": "musabi-daibakuhatsu",
+  "synopsis": "A short film directed by Keiichirou Watanabe with the Eizou Kenkyuubu.",
+  "title": {
+    "jp": "Musabi Daibakuhatsu"
+  },
+  "releasedAt": "2012-03-26T00:00:00.000Z",
+  "finishedAt": "2012-03-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45986/poster_image/9c0105bf522d28abf33db90821820c14.jpg",
+  "categories": [
+    "action",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45986",
+    "myanimelist/anime": "51267"
+  }
+}

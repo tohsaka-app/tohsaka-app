@@ -1,0 +1,26 @@
+{
+  "slug": "xxxholic-rou",
+  "synopsis": "Takes place 10 years after xxxHolic Shunmuki.",
+  "title": {
+    "jp": "xxxHOLiC Rou"
+  },
+  "releasedAt": "2010-04-23T00:00:00.000Z",
+  "finishedAt": "2011-03-09T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4759/original.jpg",
+  "categories": [
+    "contemporary fantasy",
+    "fantasy",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4759",
+    "anidb": "7178",
+    "anilist/anime": "6864",
+    "aozora": "048hMcNmXk",
+    "myanimelist/anime": "6864"
+  }
+}

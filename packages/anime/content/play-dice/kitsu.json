@@ -1,0 +1,26 @@
+{
+  "slug": "play-dice",
+  "synopsis": "Hakos Baelz’s first original song. It was written by Hakos Baelz herself, and Camellia, who also handled the composition and arrangement.\n\nThe song expresses her unique world view of enjoying yourself to the max.\n\n(Source: hololivepro.com)",
+  "title": {
+    "en": "Play Dice!"
+  },
+  "releasedAt": "2022-02-28T00:00:00.000Z",
+  "finishedAt": "2022-02-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46129/poster_image/be675a356c52527128d8e35826d225b4.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/46129/cover_image/abb40d1bf7a29f06e61d8c648c1d9acb.jpeg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=na6bysYNuS0"
+  ],
+  "relations": {
+    "kitsu": "46129",
+    "myanimelist/anime": "51911"
+  }
+}

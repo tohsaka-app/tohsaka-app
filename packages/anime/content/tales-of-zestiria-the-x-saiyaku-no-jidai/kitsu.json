@@ -1,0 +1,25 @@
+{
+  "slug": "tales-of-zestiria-the-x-saiyaku-no-jidai",
+  "synopsis": "A prologue episode to Tales of Zestiria the X.\nStrange weather phenomena strike the kingdom of Hyland. Alisha, a courageous and patriotic warrior-princess of the Hyland kingdom, sends herself to investigate.\n(Source: FUNimation)",
+  "title": {
+    "en": "Tales of Zestiria the X Prologue: The Age of Chaos",
+    "jp": "Tales of Zestiria the X: Saiyaku no Jidai"
+  },
+  "releasedAt": "2016-07-03T00:00:00.000Z",
+  "finishedAt": "2016-07-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12283/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12283/original.png",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12283",
+    "aozora": "zB5FySiaOQ",
+    "myanimelist/anime": "33558"
+  }
+}

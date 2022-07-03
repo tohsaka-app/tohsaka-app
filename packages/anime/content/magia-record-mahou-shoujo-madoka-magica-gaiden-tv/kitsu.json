@@ -1,0 +1,31 @@
+{
+  "slug": "magia-record-mahou-shoujo-madoka-magica-gaiden-tv",
+  "synopsis": "Few people know the truth: the world is safe thanks to the Magical Girls who are forced to slay Witches. Even though these girls are putting their lives on the line for a wish, rumors say they can be saved in Kamihama City. That’s where Iroha Tamaki is headed in search of answers. She can’t remember the wish she made to Kyubey, but a shadowy figure haunts her dreams.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Puella Magi Madoka Magica Side Story: Magia Record",
+    "jp": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden"
+  },
+  "releasedAt": "2020-01-04T00:00:00.000Z",
+  "finishedAt": "2020-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42016/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42016/original.jpg",
+  "categories": [
+    "magic",
+    "magical girl",
+    "psychological",
+    "thriller"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/magia-record-puella-magi-madoka-magica-side-story",
+    "https://www.funimation.com/shows/magia-record-puella-magi-madoka-magica-side-story/",
+    "https://www.hidive.com/tv/magia-record-puella-magi-madoka-magica-side-story-season-2-the-eve-of-awakening-"
+  ],
+  "relations": {
+    "kitsu": "42016",
+    "anilist/anime": "104051",
+    "myanimelist/anime": "38256"
+  }
+}

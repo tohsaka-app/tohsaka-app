@@ -1,0 +1,28 @@
+{
+  "slug": "akanesasu-shoujo",
+  "synopsis": "What was supposed to only be an urban myth turns out to be very real when high school student Asuka Tsuchimiya and her friends open the door to a parallel world when they perform a ritual.\n\n(Source: HIDIVE)",
+  "title": {
+    "en": "The Girl in Twilight",
+    "jp": "Akanesasu Shoujo"
+  },
+  "releasedAt": "2018-10-01T00:00:00.000Z",
+  "finishedAt": "2018-12-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41943/original.png",
+  "categories": [
+    "action",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/the-girl-in-twilight"
+  ],
+  "relations": {
+    "kitsu": "41943",
+    "anidb": "a13956",
+    "anilist/anime": "101360",
+    "myanimelist/anime": "37561"
+  }
+}

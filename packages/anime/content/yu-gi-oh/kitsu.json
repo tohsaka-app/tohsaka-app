@@ -1,0 +1,38 @@
+{
+  "slug": "yu-gi-oh",
+  "synopsis": "Yuugi is a somewhat frail young boy who happens to be a big fan of gaming of any kind. But when he solves an ancient egyptian puzzle he is granted all the powers of darkness. Now when confronted with danger and injustice, he transforms into a much darker and dangerous form, and proceeds to dish out the justice and punishment for those who so richly deserve it.\n(Source: AnimeNfo)",
+  "title": {
+    "jp": "Yu☆Gi☆Oh!"
+  },
+  "releasedAt": "1998-04-04T00:00:00.000Z",
+  "finishedAt": "1998-10-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/507/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/507/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "card games",
+    "comedy",
+    "earth",
+    "fantasy",
+    "friendship",
+    "japan",
+    "proxy battles",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "507",
+    "anidb": "593",
+    "anilist/anime": "550",
+    "aozora": "KdtIYobx2b",
+    "myanimelist/anime": "550",
+    "thetvdb": "113561/1",
+    "thetvdb/series": "113561",
+    "trakt": "36250"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "nosferatu",
+  "synopsis": "Official music video for Kindan no Tasuketsu's song Nosferatu.",
+  "title": {
+    "jp": "Nosferatu"
+  },
+  "releasedAt": "2012-02-09T00:00:00.000Z",
+  "finishedAt": "2012-02-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14000/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14000",
+    "anilist/anime": "103500",
+    "aozora": "vfZbtuzFXo",
+    "myanimelist/anime": "36115"
+  }
+}

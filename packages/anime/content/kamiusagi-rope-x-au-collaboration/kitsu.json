@@ -1,0 +1,25 @@
+{
+  "slug": "kamiusagi-rope-x-au-collaboration",
+  "synopsis": "A collaborative advertisement between Kamiusagi Rope and au (a Japanese mobile phone company), where Rope and Akira interact with modern cellular technology. ",
+  "title": {
+    "en": "Paper Rabbit Rope x AU Collaboration",
+    "jp": "Kamiusagi Rope x au Collaboration"
+  },
+  "releasedAt": "2012-03-14T00:00:00.000Z",
+  "finishedAt": "2012-08-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7038/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7038",
+    "anilist/anime": "13825",
+    "aozora": "qAj8QkWlx7",
+    "myanimelist/anime": "13825"
+  }
+}

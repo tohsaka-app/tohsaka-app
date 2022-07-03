@@ -1,0 +1,23 @@
+{
+  "slug": "be-blues-ao-ni-nare-pv",
+  "synopsis": "A CM promoting the \"Be Blues! Ao ni Nare\" manga.",
+  "title": {
+    "jp": "Be Blues! Ao ni Nare"
+  },
+  "releasedAt": "2013-06-12T00:00:00.000Z",
+  "finishedAt": "2013-06-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9805/original.jpg",
+  "categories": [
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9805",
+    "anidb": "11422",
+    "aozora": "lezcAcmBxg",
+    "myanimelist/anime": "22205"
+  }
+}

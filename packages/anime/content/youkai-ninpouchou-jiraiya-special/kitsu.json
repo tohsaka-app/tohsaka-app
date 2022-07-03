@@ -1,0 +1,24 @@
+{
+  "slug": "youkai-ninpouchou-jiraiya-special",
+  "synopsis": "A promotional video for the manga of the same name. Premiered at Anime Japan 2015 and was subsequently released on Bandai Namco's YouTube channel on April 2, 2015.",
+  "title": {
+    "jp": "Youkai Ninpouchou Jiraiya!"
+  },
+  "releasedAt": "2015-04-02T00:00:00.000Z",
+  "finishedAt": "2015-04-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11275/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11275",
+    "anilist/anime": "110443",
+    "aozora": "r8PUMIPqeO",
+    "myanimelist/anime": "31170"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "kara-no-kyoukai-remix-gate-of-seventh-heaven",
+  "synopsis": "Before the release of the final 7th movie, a remix work \"Kara no Kyoukai Remix-Gate of seventh heaven-\" comes out in theaters on March 14, 2009. This remix collection extracts the key themes and scenes from first six movies. The hour long movie is organized in chronological order, beginning from the 2nd movie, followed by the 4th, 3rd, 1st, 5th and 6th. It's a mixture of mostly existing scenes, and some new scenes. ",
+  "title": {
+    "en": "the Garden of sinners Remix -Gate of seventh heaven-",
+    "jp": "Kara no Kyoukai Remix: Gate of Seventh Heaven"
+  },
+  "releasedAt": "2009-03-14T00:00:00.000Z",
+  "finishedAt": "2009-03-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4637/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4637/original.jpg",
+  "categories": [
+    "action",
+    "mystery",
+    "romance",
+    "super power",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4637",
+    "anilist/anime": "6624",
+    "aozora": "yQOrCMVI9I",
+    "myanimelist/anime": "6624"
+  }
+}

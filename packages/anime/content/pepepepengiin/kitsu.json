@@ -1,0 +1,24 @@
+{
+  "slug": "pepepepengiin",
+  "synopsis": " ",
+  "title": {
+    "jp": "PePePePengiin"
+  },
+  "releasedAt": "2016-10-02T00:00:00.000Z",
+  "finishedAt": "2016-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12606/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12606",
+    "anidb": "12435",
+    "anilist/anime": "113330",
+    "aozora": "0cwAeNpmxO",
+    "myanimelist/anime": "34156"
+  }
+}

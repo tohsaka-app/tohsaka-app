@@ -1,0 +1,32 @@
+{
+  "slug": "dragon-ball-z-movie-13-ryuuken-bakuhatsu-goku-ga-yaraneba-dare-ga-yaru",
+  "synopsis": "The Z Warriors discover an unopenable music box and are told to open it with the dragon balls. The contents turn out to be a warrior named Tapion who had sealed himself inside along with a monster called Hildegarn. Goku must now perfect a new technique to defeat the evil monster. \n(Source: ANN)",
+  "title": {
+    "en": "Dragon Ball Z Movie 13: Wrath of the Dragon",
+    "jp": "Dragon Ball Z Movie 13: Ryuuken Bakuhatsu!! Goku ga Yaraneba Dare ga Yaru"
+  },
+  "releasedAt": "1995-07-15T00:00:00.000Z",
+  "finishedAt": "1995-07-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/806/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/806/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "science fiction",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "806",
+    "anidb": "397",
+    "anilist/anime": "906",
+    "aozora": "JcWZN9Ei9S",
+    "myanimelist/anime": "906"
+  }
+}

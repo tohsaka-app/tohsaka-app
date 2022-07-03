@@ -1,0 +1,36 @@
+{
+  "slug": "maou-dante",
+  "synopsis": "While sleeping one night, Ryo Utsugi had a nightmare of monsters attacking him. One day he learns a mysterious power to let him hear voices and have visions of girls getting killed, but one night he hears the same voice.\n(Source: ANN)",
+  "title": {
+    "en": "Demon Lord Dante",
+    "jp": "Maou Dante"
+  },
+  "releasedAt": "2002-08-31T00:00:00.000Z",
+  "finishedAt": "2002-11-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1463/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1463/original.jpg",
+  "categories": [
+    "action",
+    "dark fantasy",
+    "demon",
+    "fantasy",
+    "horror",
+    "japan",
+    "religion",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1463",
+    "anidb": "731",
+    "anilist/anime": "1628",
+    "aozora": "sOUvWzYztn",
+    "myanimelist/anime": "1628",
+    "thetvdb": "100421/1",
+    "thetvdb/series": "100421",
+    "trakt": "33913"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "we-two",
+  "synopsis": "Rotoscope music video for the song We Two by Japanese singer Aimer that was included on her fifth studio album \"Sun Dance\".\n",
+  "title": {
+    "jp": "We Two"
+  },
+  "releasedAt": "2019-04-10T00:00:00.000Z",
+  "finishedAt": "2019-04-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43311/original.jpg",
+  "categories": [],
+  "externals": [
+    "https://www.youtube.com/watch?v=eWU5eX0pKSc&feature=emb_logo"
+  ],
+  "relations": {
+    "kitsu": "43311",
+    "anilist/anime": "140388",
+    "myanimelist/anime": "42378"
+  }
+}

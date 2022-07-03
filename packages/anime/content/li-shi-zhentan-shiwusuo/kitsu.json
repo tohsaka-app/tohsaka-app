@@ -1,0 +1,23 @@
+{
+  "slug": "li-shi-zhentan-shiwusuo",
+  "synopsis": null,
+  "title": {
+    "en": "Lee's Detective Agency: A Day in Lungmen"
+  },
+  "releasedAt": "2021-10-24T00:00:00.000Z",
+  "finishedAt": "2021-10-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46063/poster_image/254bfe425b08b5af8c32d7915f50bb20.jpg",
+  "categories": [
+    "comedy",
+    "detective",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46063",
+    "anilist/anime": "140665"
+  }
+}

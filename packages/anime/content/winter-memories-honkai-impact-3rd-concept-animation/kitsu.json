@@ -1,0 +1,22 @@
+{
+  "slug": "winter-memories-honkai-impact-3rd-concept-animation",
+  "synopsis": "Snow and ice are the children of the north wind and the sprites of the moonlight.\n\nIn the last days of winter, let us cherish our holiday memories.",
+  "title": {
+    "en": "Winter Memories: Honkai Impact 3rd Concept Animation"
+  },
+  "releasedAt": "2022-02-15T00:00:00.000Z",
+  "finishedAt": "2022-02-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45900/poster_image/e145eae49c36c32107926c9de78383b7.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45900/cover_image/09c182cd0ccd87c69461b555a4f95393.jpg",
+  "categories": [],
+  "externals": [
+    "https://www.youtube.com/watch?v=J9dAbEkY6Vc"
+  ],
+  "relations": {
+    "kitsu": "45900",
+    "anilist/anime": "145925"
+  }
+}

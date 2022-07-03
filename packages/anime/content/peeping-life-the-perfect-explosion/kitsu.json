@@ -1,0 +1,25 @@
+{
+  "slug": "peeping-life-the-perfect-explosion",
+  "synopsis": "Another iteration in the Peeping Life franchise.",
+  "title": {
+    "jp": "Peeping Life: The Perfect Explosion"
+  },
+  "releasedAt": "2012-10-18T00:00:00.000Z",
+  "finishedAt": "2012-10-18T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7764/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7764",
+    "anidb": "9662",
+    "anilist/anime": "17359",
+    "aozora": "40XgXMmQTC",
+    "myanimelist/anime": "17359"
+  }
+}

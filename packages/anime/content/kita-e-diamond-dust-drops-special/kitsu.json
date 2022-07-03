@@ -1,0 +1,25 @@
+{
+  "slug": "kita-e-diamond-dust-drops-special",
+  "synopsis": "An OVA released with the boxset of Diamond Daydreams. Continues Kitano Suomi's story from the 7th episode. It also contains bloopers of the previous episodes.",
+  "title": {
+    "en": "Diamond Daydreams Special",
+    "jp": "Kita e.: Diamond Dust Drops Special"
+  },
+  "releasedAt": "2004-08-18T00:00:00.000Z",
+  "finishedAt": "2004-08-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5032/original.jpg",
+  "categories": [
+    "drama",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5032",
+    "anilist/anime": "7571",
+    "aozora": "ognpwF5uT6",
+    "myanimelist/anime": "7571"
+  }
+}

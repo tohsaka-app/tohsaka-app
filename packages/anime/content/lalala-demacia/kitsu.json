@@ -1,0 +1,22 @@
+{
+  "slug": "lalala-demacia",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2011-12-09T00:00:00.000Z",
+  "finishedAt": "2012-03-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45907/poster_image/ec431fbe08f79bb8859561fc8fa4b97d.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45907",
+    "anilist/anime": "130673",
+    "myanimelist/anime": "44543"
+  }
+}

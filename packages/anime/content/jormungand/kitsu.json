@@ -1,0 +1,45 @@
+{
+  "slug": "jormungand",
+  "synopsis": "Brought up in a conflict-ridden environment, child soldier Jonathan \"Jonah\" Mar hates weapons and those who deal them. But when Koko Hekmatyar, an international arms dealer, takes on Jonah as one of her bodyguards, he has little choice but to take up arms. Along with Koko's other bodyguards, composed mostly of former special-ops soldiers, Jonah is now tasked with protecting Koko and her overly idealistic goal of world peace from the countless dangers that come from her line of work.Jormungand follows Koko, Jonah, and the rest of crew as they travel the world selling weapons under the international shipping company HCLI. As Koko's work is illegal under international law, she is forced to constantly sidestep both local and international authorities while doing business with armies, private militaries, and militias. With the CIA always hot on her trail, and assassins around every corner, Jonah and the crew must guard Koko and her dream of world peace with their lives or die trying.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Jormungand",
+    "jp": "Jormungand"
+  },
+  "releasedAt": "2012-04-11T00:00:00.000Z",
+  "finishedAt": "2012-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6726/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6726/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "earth",
+    "europe",
+    "gunfights",
+    "japan",
+    "military",
+    "plot continuity",
+    "present",
+    "united kingdom",
+    "violence"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/jormungand/videos/episodes",
+    "http://www.hulu.com/jormungand"
+  ],
+  "relations": {
+    "kitsu": "6726",
+    "anidb": "8842",
+    "anilist/anime": "12413",
+    "aozora": "vwe7sXdS7Y",
+    "hulu": "50007509",
+    "myanimelist/anime": "12413",
+    "thetvdb": "257756/1",
+    "thetvdb/season": "489104",
+    "thetvdb/series": "257756",
+    "trakt": "66167"
+  }
+}

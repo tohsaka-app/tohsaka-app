@@ -1,0 +1,24 @@
+{
+  "slug": "shiawase-haitatsu-taneko",
+  "synopsis": "The story centers around a cat who answers people's wishes and delivers happiness. (\"Tane\" and \"neko\" are the Japanese words for \"seed\" and \"cat,\" respectively.)\n(Source: ANN)",
+  "title": {
+    "jp": "Shiawase Haitatsu Taneko"
+  },
+  "releasedAt": "2011-03-26T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6212/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6212",
+    "anidb": "8428",
+    "anilist/anime": "10506",
+    "aozora": "hhLCVnWgLq",
+    "myanimelist/anime": "10506"
+  }
+}

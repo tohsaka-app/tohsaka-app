@@ -1,0 +1,25 @@
+{
+  "slug": "koi-ni-naritai-aquarium",
+  "synopsis": "Music video included with the second single for the Love Live! Sunshine!! anime idol group Aqours.",
+  "title": {
+    "jp": "Koi ni Naritai Aquarium"
+  },
+  "releasedAt": "2016-04-27T00:00:00.000Z",
+  "finishedAt": "2016-04-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12108/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12108/original.jpeg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12108",
+    "anidb": "12104",
+    "anilist/anime": "99153",
+    "aozora": "LqIH3WL7v7",
+    "myanimelist/anime": "32953"
+  }
+}

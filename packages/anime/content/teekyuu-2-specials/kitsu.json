@@ -1,0 +1,25 @@
+{
+  "slug": "teekyuu-2-specials",
+  "synopsis": "Short specials included in the Blu-ray release.",
+  "title": {
+    "jp": "Teekyuu 2 Specials"
+  },
+  "releasedAt": "2013-10-25T00:00:00.000Z",
+  "finishedAt": "2013-10-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8078/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8078",
+    "anilist/anime": "20450",
+    "aozora": "DdNnbBCgDT",
+    "myanimelist/anime": "21201"
+  }
+}

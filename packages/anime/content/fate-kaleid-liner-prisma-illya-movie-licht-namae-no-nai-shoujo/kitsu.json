@@ -1,0 +1,27 @@
+{
+  "slug": "fate-kaleid-liner-prisma-illya-movie-licht-namae-no-nai-shoujo",
+  "synopsis": "",
+  "title": {
+    "en": "Fate/kaleid liner Prisma Illya the Movie Licht – The Nameless Girl",
+    "jp": "Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo"
+  },
+  "releasedAt": "2021-08-27T00:00:00.000Z",
+  "finishedAt": "2021-08-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43209/original.jpeg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43209",
+    "anidb": "15565",
+    "anilist/anime": "118743",
+    "myanimelist/anime": "42030"
+  }
+}

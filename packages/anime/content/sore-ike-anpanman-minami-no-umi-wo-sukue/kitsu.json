@@ -1,0 +1,27 @@
+{
+  "slug": "sore-ike-anpanman-minami-no-umi-wo-sukue",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Minami no Umi wo Sukue!"
+  },
+  "releasedAt": "1990-08-26T00:00:00.000Z",
+  "finishedAt": "1990-08-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9621/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9621",
+    "anidb": "7750",
+    "anilist/anime": "145477",
+    "aozora": "VZCedz48dw",
+    "myanimelist/anime": "21291"
+  }
+}

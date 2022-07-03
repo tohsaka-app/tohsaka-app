@@ -1,0 +1,23 @@
+{
+  "slug": "oniku-daisuki-zeushi-kun-special",
+  "synopsis": "New Oniku Daisuki! Zeushi-kun episode.",
+  "title": {
+    "jp": "Oniku Daisuki! Zeushi-kun: Suteki na Hamburger"
+  },
+  "releasedAt": "2016-02-10T00:00:00.000Z",
+  "finishedAt": "2016-02-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11831/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11831",
+    "anilist/anime": "135460",
+    "aozora": "jofpr3wK03",
+    "myanimelist/anime": "32666"
+  }
+}

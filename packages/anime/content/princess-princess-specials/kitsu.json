@@ -1,0 +1,23 @@
+{
+  "slug": "princess-princess-specials",
+  "synopsis": "Short omake episodes included on the Blu-ray/DVD volumes of Princess Princess.",
+  "title": {
+    "jp": "Princess Princess Specials"
+  },
+  "releasedAt": "2006-07-19T00:00:00.000Z",
+  "finishedAt": "2006-12-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10896/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10896",
+    "aozora": "KHKimZetzi",
+    "myanimelist/anime": "30625"
+  }
+}

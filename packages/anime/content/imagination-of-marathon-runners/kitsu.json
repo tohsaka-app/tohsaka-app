@@ -1,0 +1,23 @@
+{
+  "slug": "imagination-of-marathon-runners",
+  "synopsis": "A comedic short film by Youji Kuri about runners.",
+  "title": {
+    "jp": "Imagination of Marathon Runners"
+  },
+  "releasedAt": "1984-01-01T00:00:00.000Z",
+  "finishedAt": "1984-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/46200/poster_image/8da6af3e3e55694c574d2df138340efc.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46200",
+    "anilist/anime": "148408",
+    "myanimelist/anime": "51048"
+  }
+}

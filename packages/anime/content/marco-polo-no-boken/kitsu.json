@@ -1,0 +1,26 @@
+{
+  "slug": "marco-polo-no-boken",
+  "synopsis": "Story of Marco Polo.",
+  "title": {
+    "en": "Marco Polo's Adventures",
+    "jp": "Animation Kikou: Marco Polo no Bouken"
+  },
+  "releasedAt": "1979-04-07T00:00:00.000Z",
+  "finishedAt": "1980-04-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4351/original.jpg",
+  "categories": [
+    "adventure",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4351",
+    "anidb": "3090",
+    "anilist/anime": "5935",
+    "aozora": "uqsykz4paA",
+    "myanimelist/anime": "5935"
+  }
+}

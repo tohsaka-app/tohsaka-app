@@ -1,0 +1,24 @@
+{
+  "slug": "sensuikan-ni-koi-wo-shita-kujira-no-hanashi",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sensuikan ni Koi wo Shita Kujira no Hanashi"
+  },
+  "releasedAt": "1989-11-23T00:00:00.000Z",
+  "finishedAt": "1989-11-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9575/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9575",
+    "anidb": "5810",
+    "aozora": "zwJifDZlQL",
+    "myanimelist/anime": "25329"
+  }
+}

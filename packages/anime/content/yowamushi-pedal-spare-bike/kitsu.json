@@ -1,0 +1,27 @@
+{
+  "slug": "yowamushi-pedal-spare-bike",
+  "synopsis": "These are the recollections of a group of men who bet everything on their bicycles. The central pillars of their respective teams, the third years. New stories revealing their pasts are about to begin!",
+  "title": {
+    "jp": "Yowamushi Pedal: Spare Bike"
+  },
+  "releasedAt": "2016-09-09T00:00:00.000Z",
+  "finishedAt": "2016-09-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12156/original.png",
+  "categories": [
+    "comedy",
+    "drama",
+    "motorsport",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12156",
+    "anidb": "12129",
+    "anilist/anime": "21806",
+    "aozora": "Z78kin6uqL",
+    "myanimelist/anime": "33302"
+  }
+}

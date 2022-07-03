@@ -1,0 +1,31 @@
+{
+  "slug": "joker-marginal-city",
+  "synopsis": "OVA based on the Joker manga by artist Katsumi Michihara (道原かつみ) and writer Yuu Maki (麻城ゆう).\nJoker is a genetically engineered shape-and-gender-shifter, who created as part of a Special Police Task Force and fights crime of all kinds, but he/she also fits in a little romance around the edges.\n(Source: AniDB)",
+  "title": {
+    "jp": "Joker: Marginal City"
+  },
+  "releasedAt": "1992-04-21T00:00:00.000Z",
+  "finishedAt": "1992-04-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3177/original.png",
+  "categories": [
+    "action",
+    "cyborg",
+    "future",
+    "human enhancement",
+    "law and order",
+    "romance",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3177",
+    "anidb": "4206",
+    "anilist/anime": "3661",
+    "aozora": "rbXHXEiSbk",
+    "myanimelist/anime": "3661"
+  }
+}

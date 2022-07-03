@@ -1,0 +1,25 @@
+{
+  "slug": "tenka-wo-mezashita-sannin-no-bushou",
+  "synopsis": "An educational anime about the 3 major warlords in the Sengoku era. Oda Nobunaga, Toyotomi Hideyoshi, and Tokugawa Ieyasu.",
+  "title": {
+    "jp": "Tenka wo Mezashita Sannin no Bushou"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9663/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "kids",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9663",
+    "aozora": "55bobFPKnO",
+    "myanimelist/anime": "26273"
+  }
+}

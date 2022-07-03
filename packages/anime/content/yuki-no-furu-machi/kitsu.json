@@ -1,0 +1,25 @@
+{
+  "slug": "yuki-no-furu-machi",
+  "synopsis": "Stop motion music video for the song Yuki no Furu Machi by Aimer that was on her third maxi single. The music video was directed by Go Matsuda and Masakazu Fukatsu.",
+  "title": {
+    "jp": "Yuki no Furu Machi"
+  },
+  "releasedAt": "2012-02-23T00:00:00.000Z",
+  "finishedAt": "2012-02-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43310/original.jpg",
+  "categories": [
+    "music",
+    "romance"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=vpBqijUqbbU&feature=emb_logo"
+  ],
+  "relations": {
+    "kitsu": "43310",
+    "anilist/anime": "121231",
+    "myanimelist/anime": "42381"
+  }
+}

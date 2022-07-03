@@ -1,0 +1,24 @@
+{
+  "slug": "super-senko-san-time-episode-12",
+  "synopsis": "Unaired episode 12 of the special segment \"Super Senko-san Time\" included in the 3rd BD volume of Sewayaki Kitsune no Senko-san.",
+  "title": {
+    "jp": "Super Senko-san Time Episode 12"
+  },
+  "releasedAt": "2019-09-25T00:00:00.000Z",
+  "finishedAt": "2019-09-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43463/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43463",
+    "myanimelist/anime": "39995"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "rick-and-morty-vs-genocider",
+  "synopsis": "Directed by ‘Tower of God’ director, Takashi Sano, Morty goes on an adventure to Tokyo, Japan to try and help stop “The Genocider”. Nothing weird happens.",
+  "title": {},
+  "releasedAt": "2020-07-25T00:00:00.000Z",
+  "finishedAt": "2020-07-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43455/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43455/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=-kdltv_CSHE"
+  ],
+  "relations": {
+    "kitsu": "43455",
+    "anilist/anime": "122536"
+  }
+}

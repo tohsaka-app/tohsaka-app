@@ -1,0 +1,33 @@
+{
+  "slug": "pokemon-best-wishes",
+  "synopsis": "As with both the Advanced Generation and Diamond &amp; Pearl series before it, the Best Wishes! series begins with only Satoshi, headed off to the Isshu region, located far away from Kanto, Johto, Houen, and Sinnoh, with his Pikachu. After he meets up with the new trainer and rival Shooty and the region's Professor Araragi, he gains traveling companions in Iris, a girl from a town known for its Dragon Pokémon, and Dent, Pokémon Connoisseur and the Grass Pokémon specialist of the three Sanyou City Gym Leaders. ",
+  "title": {
+    "en": "Pokemon: Black & White",
+    "jp": "Pokemon Best Wishes!"
+  },
+  "releasedAt": "2010-09-23T00:00:00.000Z",
+  "finishedAt": "2012-06-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5605/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5605/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5605",
+    "anidb": "7891",
+    "anilist/anime": "9107",
+    "aozora": "TRrgFWWEap",
+    "myanimelist/anime": "9107",
+    "thetvdb": "76703",
+    "trakt": "60156"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "usaru-san",
+  "synopsis": "The Media Factory mascot character franchise revolves around a male rabbit that transforms into Usaru-san by wearing a monkey costume and eating bananas. The title “Usaru-san” is a portmanteau of “usagi” (rabbit) and “saru” (monkey).\n(Source: AniDB)",
+  "title": {
+    "jp": "Usaru-san"
+  },
+  "releasedAt": "2009-10-03T00:00:00.000Z",
+  "finishedAt": "2009-10-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4892/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4892",
+    "anidb": "7001",
+    "anilist/anime": "7174",
+    "aozora": "VTx52jrNVH",
+    "myanimelist/anime": "7174"
+  }
+}

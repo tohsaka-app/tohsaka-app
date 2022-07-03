@@ -1,0 +1,32 @@
+{
+  "slug": "planet-with",
+  "synopsis": "Soya Kuroi is a high schooler living a peaceful life despite having no memories of his past. One day, however, his town is attacked by one of the mysterious Nebula Weapons. Together with the cat-like “Sensei” and the gothic lolita Ginko, Soya gets dragged into a battle against... seven superheroes who protect the town! What is Soya's reason to fight? The answer lies in his memories.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Planet With",
+    "jp": "Planet With"
+  },
+  "releasedAt": "2018-07-08T00:00:00.000Z",
+  "finishedAt": "2018-09-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41093/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41093/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/planet-with"
+  ],
+  "relations": {
+    "kitsu": "41093",
+    "anidb": "13965",
+    "anilist/anime": "101368",
+    "animenewsnetwork": "20801",
+    "myanimelist/anime": "37578",
+    "thetvdb": "346942/1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "gokujou-mecha-mote-iinchou-second-collection",
+  "synopsis": "The continuation of Gokujou!! Mecha Mote Iinchou with a new title.  Episode numbers continue from 51.",
+  "title": {
+    "en": "The Best!! Extremely Cool Student Council President Second Collection",
+    "jp": "Gokujou!! Mecha Mote Iinchou Second Collection"
+  },
+  "releasedAt": "2010-04-03T00:00:00.000Z",
+  "finishedAt": "2011-04-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5379/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "present",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5379",
+    "anidb": "7546",
+    "anilist/anime": "8538",
+    "aozora": "kpNL4IwLEk",
+    "myanimelist/anime": "8538",
+    "trakt": "98469"
+  }
+}

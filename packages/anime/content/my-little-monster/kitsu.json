@@ -1,0 +1,44 @@
+{
+  "slug": "my-little-monster",
+  "synopsis": "Shizuku Mizutani is apathetic towards her classmates, only caring about her grades. However, her cold view of life begins to change when she meets Haru Yoshida, a violent troublemaker who stopped attending class after getting into a fight early in the school year. He is not much different from her, though—he too understands little about human nature and does not have any friends. Much to Shizuku's surprise, he proclaims that she will be his friend and immediately confesses his feelings towards her upon meeting her.\nBecause of her lack of friends and social interaction, Shizuku has a hard time understanding her relationship with Haru. But slowly, their friendship begins to progress, and she discovers that there is more to Haru than violence. She begins to  develop feelings for him, but is unsure what kind of emotions she is experiencing. Together, Shizuku and Haru explore the true nature of their relationship and emotions.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "My Little Monster",
+    "jp": "Tonari no Kaibutsu-kun"
+  },
+  "releasedAt": "2012-10-02T00:00:00.000Z",
+  "finishedAt": "2012-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7099/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7099/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "delinquent",
+    "earth",
+    "friendship",
+    "high school",
+    "japan",
+    "love polygon",
+    "present",
+    "romance",
+    "school life",
+    "slice of life",
+    "slow when it comes to love"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/my-little-monster",
+    "t"
+  ],
+  "relations": {
+    "kitsu": "7099",
+    "anidb": "9235",
+    "anilist/anime": "14227",
+    "aozora": "pGTYT2SceL",
+    "myanimelist/anime": "14227",
+    "thetvdb": "262107/1",
+    "thetvdb/series": "262107",
+    "trakt": "67786"
+  }
+}

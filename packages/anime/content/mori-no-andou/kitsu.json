@@ -1,0 +1,24 @@
+{
+  "slug": "mori-no-andou",
+  "synopsis": "A penguin named Andou protects the forest and its animal inhabitants from the evil humans (or the \"cancer of the Earth\" as one sign in The Animal House reads). However, some of the animals suspect that Ando himself may be a human.\n",
+  "title": {
+    "en": "Andou of the Forest",
+    "jp": "Mori no Andou"
+  },
+  "releasedAt": "2012-09-01T00:00:00.000Z",
+  "finishedAt": "2012-09-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12142/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12142",
+    "anilist/anime": "102451",
+    "aozora": "yVOKj6miEC",
+    "myanimelist/anime": "33281"
+  }
+}

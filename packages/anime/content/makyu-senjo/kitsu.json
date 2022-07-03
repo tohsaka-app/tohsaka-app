@@ -1,0 +1,33 @@
+{
+  "slug": "makyu-senjo",
+  "synopsis": "When computer genius Joe Takami hacks into a top secret computer system in search of information on a mysterious girl, he gets much more than he bargained for. Now, after uncovering evidence of a secret government experiment, he's running for his life, and everyone, including his best friend and his personal computer, has turned against him. As a ruthless team of high-tech ninja follows his trail, Joe must depend upon the unpredictable powers that lie within him in order to survive. Can he find a way to evade the government assassins before they terminate the human genetic experiment named Joe Takami. \n(Source: ANN)",
+  "title": {
+    "en": "Dark Warrior",
+    "jp": "Makyuu Senjou"
+  },
+  "releasedAt": "1991-03-22T00:00:00.000Z",
+  "finishedAt": "1991-05-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1209/original.jpg",
+  "categories": [
+    "action",
+    "genetic modification",
+    "gunfights",
+    "human enhancement",
+    "present",
+    "science fiction",
+    "super power",
+    "united states",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1209",
+    "anidb": "1591",
+    "anilist/anime": "1355",
+    "aozora": "GqLLISB5sJ",
+    "myanimelist/anime": "1355"
+  }
+}

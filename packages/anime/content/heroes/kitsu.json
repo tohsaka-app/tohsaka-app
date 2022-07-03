@@ -1,0 +1,23 @@
+{
+  "slug": "heroes",
+  "synopsis": "Follow the adventures of Mao, a Japanese teenager and aspiring runner, as she travels back to ancient Greece to learn about the Olympic Games.\n\n(Source: olympics.com)",
+  "title": {
+    "en": "Heroes of the ancient Olympic Games",
+    "jp": "Heroes"
+  },
+  "releasedAt": "2021-04-14T00:00:00.000Z",
+  "finishedAt": "2021-04-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45945/poster_image/f4405cb2109238c895c85d67d667d947.jpg",
+  "categories": [
+    "historical",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45945",
+    "myanimelist/anime": "49975"
+  }
+}

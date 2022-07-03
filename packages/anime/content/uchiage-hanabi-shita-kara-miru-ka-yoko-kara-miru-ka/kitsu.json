@@ -1,0 +1,33 @@
+{
+  "slug": "uchiage-hanabi-shita-kara-miru-ka-yoko-kara-miru-ka",
+  "synopsis": "Schoolchildren Norimichi, Yuusuke, and Junichi want to know if fireworks look round or flat from the side. They make a plan to find the answer at a fireworks display, while Nazuna schemes to run away with Norimichi or Yuusuke, whoever wins at the pool. \n\n(Source: Tokyo International Film Festival)",
+  "title": {
+    "en": "Fireworks",
+    "jp": "Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?"
+  },
+  "releasedAt": "2017-08-18T00:00:00.000Z",
+  "finishedAt": "2017-08-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12794/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12794/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "friendship",
+    "romance",
+    "science fiction",
+    "time travel"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81000505"
+  ],
+  "relations": {
+    "kitsu": "12794",
+    "anidb": "12605",
+    "anilist/anime": "97908",
+    "aozora": "d5mAgVsEzJ",
+    "myanimelist/anime": "34498"
+  }
+}

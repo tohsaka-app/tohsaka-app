@@ -1,0 +1,23 @@
+{
+  "slug": "neko-naraba-ikeru-music",
+  "synopsis": "2D animated MV for the song Neko Naraba Ikeru by AZKi. This is the second MV released for this song.",
+  "title": {
+    "jp": "Neko Naraba Ikeru"
+  },
+  "releasedAt": "2022-02-03T00:00:00.000Z",
+  "finishedAt": "2022-02-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45936/poster_image/59dd3c683fe8d658c4c3af0fb6f9eb5a.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=aINNB2g6cIA"
+  ],
+  "relations": {
+    "kitsu": "45936"
+  }
+}

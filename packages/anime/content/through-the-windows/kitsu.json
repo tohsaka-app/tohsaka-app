@@ -1,0 +1,23 @@
+{
+  "slug": "through-the-windows",
+  "synopsis": "The gaze of a woman from a window to windows leads to a recollection of the various scenes. The metamorphosed windows transfer, expand, reflect, conserve, and sometimes shine like a lighthouse.",
+  "title": {
+    "jp": "Through the Windows"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13741/original.jpg",
+  "categories": [],
+  "externals": [
+    "https://youtu.be/hOGdWCl0rNQ"
+  ],
+  "relations": {
+    "kitsu": "13741",
+    "anilist/anime": "102563",
+    "aozora": "oZj62FAXq3",
+    "myanimelist/anime": "34907"
+  }
+}

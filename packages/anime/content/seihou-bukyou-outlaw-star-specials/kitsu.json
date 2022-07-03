@@ -1,0 +1,28 @@
+{
+  "slug": "seihou-bukyou-outlaw-star-specials",
+  "synopsis": "Unaired episodes of Seihou Bukyou Outlaw Star included in the eighth and twelfth volumes of the VHS, designated as episodes 16 and 23.\n",
+  "title": {
+    "en": "Outlaw Star Specials",
+    "jp": "Seihou Bukyou Outlaw Star Specials"
+  },
+  "releasedAt": "1998-12-18T00:00:00.000Z",
+  "finishedAt": "1999-04-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12451/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "ecchi",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12451",
+    "anilist/anime": "102401",
+    "aozora": "tOdBZYz0Nm",
+    "myanimelist/anime": "33713"
+  }
+}

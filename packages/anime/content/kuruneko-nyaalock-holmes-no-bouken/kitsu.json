@@ -1,0 +1,24 @@
+{
+  "slug": "kuruneko-nyaalock-holmes-no-bouken",
+  "synopsis": "Specials included on the DVDs for the second season.",
+  "title": {
+    "jp": "Kuruneko: Nyaalock Holmes no Bouken"
+  },
+  "releasedAt": "2010-12-17T00:00:00.000Z",
+  "finishedAt": "2011-09-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9412/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9412",
+    "anilist/anime": "17753",
+    "aozora": "fIf05iAxiY",
+    "myanimelist/anime": "17753"
+  }
+}

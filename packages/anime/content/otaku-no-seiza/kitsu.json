@@ -1,0 +1,29 @@
+{
+  "slug": "otaku-no-seiza",
+  "synopsis": "Anime based on Otaku no Seiza: in Another World, on the Turbo CD, and Otaku no Seiza: An Adventure in the Otaku Galaxy, for the NES, which were two Role-Playing games, published by M&amp;M, released in Japan in 1991 and 1993.",
+  "title": {
+    "jp": "Otaku no Seiza"
+  },
+  "releasedAt": "1994-10-07T00:00:00.000Z",
+  "finishedAt": "1994-11-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5158/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "earth",
+    "future",
+    "parody",
+    "post apocalypse"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5158",
+    "anidb": "3533",
+    "anilist/anime": "7915",
+    "aozora": "Hwt8I6bXJe",
+    "myanimelist/anime": "7915"
+  }
+}

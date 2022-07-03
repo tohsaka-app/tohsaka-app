@@ -1,0 +1,24 @@
+{
+  "slug": "iro-wo-kuu-akuma",
+  "synopsis": "Anthology produced by Adobe Creative Cloud's Japan division to promote their software suite. It showcases the talents of various Japanese experimental animators.\n",
+  "title": {
+    "en": "The Color Eater",
+    "jp": "Iro wo Kuu Akuma"
+  },
+  "releasedAt": "2015-08-24T00:00:00.000Z",
+  "finishedAt": "2015-08-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42715/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42715",
+    "anilist/anime": "112005",
+    "myanimelist/anime": "40338"
+  }
+}

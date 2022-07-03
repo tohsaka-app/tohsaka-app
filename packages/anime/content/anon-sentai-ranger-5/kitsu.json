@@ -1,0 +1,24 @@
+{
+  "slug": "anon-sentai-ranger-5",
+  "synopsis": "Anon Pictures' parody of Super Sentai opening sequences.",
+  "title": {
+    "jp": "Anon Sentai Ranger 5"
+  },
+  "releasedAt": "2000-01-26T00:00:00.000Z",
+  "finishedAt": "2000-01-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45087/original.jpg",
+  "categories": [
+    "music",
+    "parody",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45087",
+    "myanimelist/anime": "39038"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "satanika",
+  "synopsis": "A promotional music video for the cancelled Satanika OVA series.",
+  "title": {},
+  "releasedAt": "1998-01-20T00:00:00.000Z",
+  "finishedAt": "1998-01-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13956/original.jpg",
+  "categories": [
+    "action",
+    "contemporary fantasy",
+    "demon"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13956"
+  }
+}

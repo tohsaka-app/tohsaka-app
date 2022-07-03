@@ -1,0 +1,23 @@
+{
+  "slug": "toji-no-miko-kizamishi-issen-no-tomoshibi-ova",
+  "synopsis": null,
+  "title": {
+    "jp": "Toji no Miko: Kizamishi Issen no Tomoshibi OVA"
+  },
+  "releasedAt": "2020-10-25T00:00:00.000Z",
+  "finishedAt": "2020-11-29T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43592/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43592",
+    "anilist/anime": "114030",
+    "myanimelist/anime": "40901"
+  }
+}

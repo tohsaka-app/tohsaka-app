@@ -1,0 +1,30 @@
+{
+  "slug": "digimon-frontier-ornismon-fukkatsu",
+  "synopsis": "The five digi-destined children stumble upon an ancient island inhabited by two different types of digimon; The Beast types, and the Human types. When they see two young digimon-a beast and humanoid-have become friends, they decide something must be done about the feud.\n(Source: ANN)",
+  "title": {
+    "en": "Digimon Frontier: Island of Lost Digimon",
+    "jp": "Digimon Frontier: Ornismon Fukkatsu!!"
+  },
+  "releasedAt": "2002-07-20T00:00:00.000Z",
+  "finishedAt": "2002-07-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2737/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "friendship",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2737",
+    "anidb": "2528",
+    "anilist/anime": "3031",
+    "aozora": "6F9YU3XVpI",
+    "myanimelist/anime": "3031"
+  }
+}

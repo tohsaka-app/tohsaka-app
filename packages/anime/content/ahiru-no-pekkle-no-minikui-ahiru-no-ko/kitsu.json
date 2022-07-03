@@ -1,0 +1,26 @@
+{
+  "slug": "ahiru-no-pekkle-no-minikui-ahiru-no-ko",
+  "synopsis": "Pekkle stars in the story of The Ugly Duckling.",
+  "title": {
+    "en": "Pekkle in the Ugly Duckling",
+    "jp": "Ahiru no Pekkle no Minikui Ahiru no Ko"
+  },
+  "releasedAt": "2001-12-21T00:00:00.000Z",
+  "finishedAt": "2001-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8497/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8497",
+    "anidb": "7811",
+    "aozora": "gZoaxAWayT",
+    "myanimelist/anime": "22575"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "slug": "kubbe-pv-full-ver",
+  "synopsis": "An extended PV promoting the upcoming ONA series of Kubbe Kort Animasjon. Almost no footage in this PV was used in the 24 episode ONA series and remains unique to this PV.",
+  "title": {
+    "jp": "Kubbe PV Full ver."
+  },
+  "releasedAt": "2012-05-15T00:00:00.000Z",
+  "finishedAt": "2012-05-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12993/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12993",
+    "myanimelist/anime": "33529"
+  }
+}

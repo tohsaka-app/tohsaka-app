@@ -1,0 +1,33 @@
+{
+  "slug": "fushigi-yuugi-eikoden",
+  "synopsis": "Taka (technically Tamahome) and Miaka are now happily married and only six months before their new family would be born, but an obessed girl named Mayo would do anything to make Taka hers. She enters the world of the Four Gods, determined to win Taka's heart and be the new priestess.",
+  "title": {
+    "en": "Mysterious Play: Eikoden",
+    "jp": "Fushigi Yuugi: Eikouden"
+  },
+  "releasedAt": "2001-12-21T00:00:00.000Z",
+  "finishedAt": "2002-06-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/103/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "magic",
+    "martial arts",
+    "romance",
+    "shoujo"
+  ],
+  "externals": [
+    "crunchyroll.com/fushigi-yugi-eikoden",
+    "https://vrv.co/series/GRX038W06/Fushigi-Yugi-Eikoden"
+  ],
+  "relations": {
+    "kitsu": "103",
+    "anidb": "165",
+    "anilist/anime": "124",
+    "aozora": "u8yL6G3VJu",
+    "myanimelist/anime": "124"
+  }
+}

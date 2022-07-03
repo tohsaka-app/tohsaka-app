@@ -1,0 +1,27 @@
+{
+  "slug": "girls-und-panzer-taiyaki-war",
+  "synopsis": "Special inluded with Girls &amp; Panzer: Saishuushou Part 2 Blu-ray and DVD.\n",
+  "title": {
+    "jp": "Girls & Panzer: Taiyaki War!"
+  },
+  "releasedAt": "2020-02-27T00:00:00.000Z",
+  "finishedAt": "2020-02-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42948/original.jpg",
+  "categories": [
+    "action",
+    "friendship",
+    "military",
+    "school clubs",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42948",
+    "anidb": "12361",
+    "anilist/anime": "114052",
+    "myanimelist/anime": "40656"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "field-ni-soyogu-kaze",
+  "synopsis": "Trying to prove he is the better soccer player, Kenji tackles and injures Yuta's leg during a trial for the school team. Impressed by the fact that Yuta still does what he can to contribute to the team; Kenji begins to realize the true meaning of sportsmanship.",
+  "title": {
+    "en": "The Winds of Victory",
+    "jp": "Field ni Soyogu Kaze"
+  },
+  "releasedAt": "1997-07-25T00:00:00.000Z",
+  "finishedAt": "1997-07-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9260/original.jpg",
+  "categories": [
+    "soccer",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9260",
+    "anidb": "9060",
+    "anilist/anime": "18443",
+    "aozora": "WFKR6y2COM",
+    "myanimelist/anime": "18443"
+  }
+}

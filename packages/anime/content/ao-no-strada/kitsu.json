@@ -1,0 +1,20 @@
+{
+  "slug": "ao-no-strada",
+  "synopsis": "Promotional anime for Panasonic CN-F1D Strada. ",
+  "title": {
+    "jp": "Ao no Strada"
+  },
+  "releasedAt": "2017-02-27T00:00:00.000Z",
+  "finishedAt": "2017-03-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40646/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40646",
+    "aozora": "araFaPYTY5",
+    "myanimelist/anime": "34997"
+  }
+}

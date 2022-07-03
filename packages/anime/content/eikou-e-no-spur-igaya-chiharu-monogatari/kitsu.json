@@ -1,0 +1,27 @@
+{
+  "slug": "eikou-e-no-spur-igaya-chiharu-monogatari",
+  "synopsis": "A biography of Chiharu Igaya, who won a silver medal in men's slalom in Cortina d'Ampezzo Olympics in 1956, and became the first Japanese Winter Olympics medalist.\n(Source: AniDB)",
+  "title": {
+    "jp": "Eikou e no Spur: Igaya Chiharu Monogatari"
+  },
+  "releasedAt": "1997-09-13T00:00:00.000Z",
+  "finishedAt": "1997-09-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9257/original.jpg",
+  "categories": [
+    "historical",
+    "japan",
+    "past",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9257",
+    "anidb": "6359",
+    "anilist/anime": "19943",
+    "aozora": "UldV3gkBir",
+    "myanimelist/anime": "19943"
+  }
+}

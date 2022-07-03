@@ -1,0 +1,23 @@
+{
+  "slug": "spring-has-come",
+  "synopsis": "Spring fairy came along with the cherry blossoms.\n(Official Youtube channel)",
+  "title": {
+    "en": "Spring has come!",
+    "jp": "Spring has come!"
+  },
+  "releasedAt": "2016-04-04T00:00:00.000Z",
+  "finishedAt": "2016-04-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12996/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12996",
+    "anilist/anime": "103538",
+    "myanimelist/anime": "34423"
+  }
+}

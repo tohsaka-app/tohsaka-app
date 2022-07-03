@@ -1,0 +1,22 @@
+{
+  "slug": "koto-nakare-hero-gingerman",
+  "synopsis": "Shorts about root vegetables from the refrigerator who try to act like superheroes.",
+  "title": {
+    "jp": "Koto Nakare Hero Gingerman"
+  },
+  "releasedAt": "2009-01-05T00:00:00.000Z",
+  "finishedAt": "2009-04-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12366/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12366",
+    "aozora": "HoOW5ajFLU",
+    "myanimelist/anime": "33123"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "jungle-book-shounen-mowgli",
+  "synopsis": "After his parents died, Mowgli is raised by the Wolf Pack of the Seeonee Forest led by Akela and other wild animals such as Bagheera and Baloo. The young boy goes through several heartwarming, bittersweet, and life-threatening adventures as he seeks after his true purpose in life. And one of many dangers he has to face is the man-eating tiger, Shere Khan...\n(Source: ANN)",
+  "title": {
+    "en": "The Jungle Book",
+    "jp": "Jungle Book Shounen Mowgli"
+  },
+  "releasedAt": "1989-10-09T00:00:00.000Z",
+  "finishedAt": "1990-10-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2334/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "asia",
+    "earth",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2334",
+    "anidb": "1428",
+    "anilist/anime": "2569",
+    "aozora": "JfGASwXmDD",
+    "myanimelist/anime": "2569",
+    "thetvdb": "229281/1",
+    "thetvdb/series": "229281",
+    "trakt": "65192"
+  }
+}

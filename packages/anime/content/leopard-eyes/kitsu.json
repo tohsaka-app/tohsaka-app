@@ -1,0 +1,26 @@
+{
+  "slug": "leopard-eyes",
+  "synopsis": "Trigger's song will be titled \"Leopard Eyes\" and NAZ is animating the video.",
+  "title": {
+    "jp": "Leopard Eyes"
+  },
+  "releasedAt": "2015-12-16T00:00:00.000Z",
+  "finishedAt": "2015-12-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11489/original.jpe",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Cj17Lh3QAM8"
+  ],
+  "relations": {
+    "kitsu": "11489",
+    "anidb": "11752",
+    "anilist/anime": "103398",
+    "aozora": "vxPIhNfoni",
+    "myanimelist/anime": "32031"
+  }
+}

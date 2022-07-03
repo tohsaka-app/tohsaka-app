@@ -1,0 +1,26 @@
+{
+  "slug": "adventure-time-7",
+  "synopsis": "Adventure Time is an American animated television series created by Pendleton Ward for Cartoon Network. It follows the adventures of a boy named Finn and his best friend and adoptive brother Jake—a dog with the magical power to change shape and size at will. Finn and Jake live in the post-apocalyptic Land of Ooo, where they interact with Princess Bubblegum, the Ice King, Marceline the Vampire Queen, BMO, and others. ",
+  "title": {},
+  "releasedAt": "2015-11-02T00:00:00.000Z",
+  "finishedAt": "2016-03-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13767/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13767/original.jpg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "anthropomorphism",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "post apocalypse",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13767"
+  }
+}

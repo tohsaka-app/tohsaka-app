@@ -1,0 +1,42 @@
+{
+  "slug": "fate-kaleid-liner-prisma-illya-2wei-herz",
+  "synopsis": "Based on the Fate/Kaleid Liner Prisma☆Illya 2wei! manga by Hiroshi Hiroyama, which is a spin-off of the Fate/stay night erotic visual novel by Type-Moon.",
+  "title": {
+    "en": "Fate/Kaleid Liner Prisma Illya 2Wei Herz!",
+    "jp": "Fate/kaleid liner Prisma☆Illya 2wei Herz!"
+  },
+  "releasedAt": "2015-07-25T00:00:00.000Z",
+  "finishedAt": "2015-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9095/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9095/original.png",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "magical girl",
+    "present",
+    "slice of life",
+    "summer"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9095",
+    "anidb": "10833",
+    "anilist/anime": "20845",
+    "aozora": "oSUEGs5YAg",
+    "hulu": "50023492",
+    "myanimelist/anime": "27525",
+    "thetvdb": "269319/3",
+    "thetvdb/season": "596892",
+    "thetvdb/series": "269319",
+    "trakt": "70833"
+  }
+}

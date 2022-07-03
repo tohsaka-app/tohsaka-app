@@ -1,0 +1,24 @@
+{
+  "slug": "golden-time-movie",
+  "synopsis": "In Japan's economic bubble years during the 1980s, a long-serving furniture-style television set made in the 1960s is abandoned at a junkyard. It attempts to escape from its new surroundings.",
+  "title": {
+    "en": "Golden Time (Movie)",
+    "jp": "Golden Time (Movie)"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14258/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14258",
+    "anilist/anime": "102755",
+    "myanimelist/anime": "36789"
+  }
+}

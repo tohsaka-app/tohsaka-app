@@ -1,0 +1,30 @@
+{
+  "slug": "youkai-watch-movie",
+  "synopsis": "The movie will feature special guests such as popular familiar characters from the TV anime series and the latest Youkai from the upcoming Youkai Watch 2 sequel games.",
+  "title": {
+    "jp": "Youkai Watch Movie 1: Tanjou no Himitsu da Nyan!"
+  },
+  "releasedAt": "2014-12-20T00:00:00.000Z",
+  "finishedAt": "2014-12-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8813/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8813/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80154176"
+  ],
+  "relations": {
+    "kitsu": "8813",
+    "anidb": "10680",
+    "anilist/anime": "20936",
+    "aozora": "1WcRoh8WXF",
+    "myanimelist/anime": "24591"
+  }
+}

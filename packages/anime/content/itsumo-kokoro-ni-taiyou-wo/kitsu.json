@@ -1,0 +1,25 @@
+{
+  "slug": "itsumo-kokoro-ni-taiyou-wo",
+  "synopsis": "Follows the story of the manga of the same name where a a high school boy finds a room for a boarding house that only costs 30,000 yen a month (about 300 USD). But there's a catch. ",
+  "title": {
+    "jp": "Itsumo Kokoro ni Taiyou wo!"
+  },
+  "releasedAt": "1999-11-02T00:00:00.000Z",
+  "finishedAt": "1999-11-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9982/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9982",
+    "anidb": "4039",
+    "anilist/anime": "114961",
+    "aozora": "C5qUEkk9G0",
+    "myanimelist/anime": "28071"
+  }
+}

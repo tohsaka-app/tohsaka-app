@@ -1,0 +1,44 @@
+{
+  "slug": "mobile-police-patlabor-the-movie",
+  "synopsis": "The year is 1999 and Tokyo's Mobile Police have a new weapon in the war on crime—advanced robots called Labors are used to combat criminals who would use the new technology for illegal means. The suicide of a mysterious man on the massive Babylon Project construction site sets off a cascade of events that may signal the destruction of Tokyo.\n(Source: ANN)",
+  "title": {
+    "en": "Patlabor: The Movie",
+    "jp": "Kidou Keisatsu Patlabor the Movie"
+  },
+  "releasedAt": "1989-07-15T00:00:00.000Z",
+  "finishedAt": "1989-07-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/980/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/980/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "conspiracy",
+    "cops",
+    "cyberpunk",
+    "detective",
+    "earth",
+    "future",
+    "japan",
+    "law and order",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "special squads"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/patlabor-the-mobile-police-the-movie"
+  ],
+  "relations": {
+    "kitsu": "980",
+    "anidb": "777",
+    "anilist/anime": "1095",
+    "aozora": "S3PFNGUmXm",
+    "hulu": "50012363",
+    "myanimelist/anime": "1095"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "sword-art-online-alicization-war-of-underworld-reflection",
+  "synopsis": "Recap of Sword Art Online: Alicization, aired one week before Sword Art Online: Alicization - War of Underworld.",
+  "title": {
+    "jp": "Sword Art Online: Alicization - War of Underworld Reflection"
+  },
+  "releasedAt": "2019-10-06T00:00:00.000Z",
+  "finishedAt": "2019-10-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42610/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42610/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "romance",
+    "swordplay"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/sword-art-online/episode-245-reflection-789489",
+    "https://www.funimation.com/shows/sword-art-online/reflection/"
+  ],
+  "relations": {
+    "kitsu": "42610",
+    "myanimelist/anime": "40489"
+  }
+}

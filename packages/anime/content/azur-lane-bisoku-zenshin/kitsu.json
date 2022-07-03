@@ -1,0 +1,28 @@
+{
+  "slug": "azur-lane-bisoku-zenshin",
+  "synopsis": "Animation of the Azur Lane 4-koma manga.",
+  "title": {
+    "en": "Azur Lane: Slow Ahead!",
+    "jp": "Azur Lane: Bisoku Zenshin!"
+  },
+  "releasedAt": "2021-01-12T00:00:00.000Z",
+  "finishedAt": "2021-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43822/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43822/original.png",
+  "categories": [
+    "military",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GQWH0MXPQ/Anime-AzurLane-Slow-Ahead"
+  ],
+  "relations": {
+    "kitsu": "43822",
+    "anilist/anime": "114473",
+    "myanimelist/anime": "40930"
+  }
+}

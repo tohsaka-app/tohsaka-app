@@ -1,0 +1,31 @@
+{
+  "slug": "nanatsu-no-taizai-kamigami-no-gekirin",
+  "synopsis": "Despite repelling the demon invasion of the Kingdom of Lioness, the war is far from over, for Arthur's Kingdom of Camelot is still being occupied by the demon army and the surviving members of Jikkai. However, in order to begin counter-offensive, the Seven Deadly Sins needs all of its members. Unfortunately, King and Diane are still hiding in the Fairy King's Forest, where they are made to discover the strange history of Jikkai.\n\n(Source: Anilist)",
+  "title": {
+    "en": "The Seven Deadly Sins: Wrath of the Gods",
+    "jp": "Nanatsu no Taizai: Kamigami no Gekirin"
+  },
+  "releasedAt": "2019-10-09T00:00:00.000Z",
+  "finishedAt": "2020-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42263/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/42263/cover_image/436a388b25fe429ab06e1cca94aebd7d.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80050063"
+  ],
+  "relations": {
+    "kitsu": "42263",
+    "anilist/anime": "108928",
+    "myanimelist/anime": "39701"
+  }
+}

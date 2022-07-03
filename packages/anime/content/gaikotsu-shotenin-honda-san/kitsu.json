@@ -1,0 +1,30 @@
+{
+  "slug": "gaikotsu-shotenin-honda-san",
+  "synopsis": "Honda-san is at war - with business, with out-of-print books, and with people who love manga! Who knew there were so many laughs to be found at the manga counter of a bookstore?! These are the day-to-day happenings that take place at a certain bookstore where the love of manga is abundant.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Skull-face Bookseller Honda-san",
+    "jp": "Gaikotsu Shotenin Honda-san"
+  },
+  "releasedAt": "2018-10-08T00:00:00.000Z",
+  "finishedAt": "2018-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13821/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13821/original.png",
+  "categories": [
+    "comedy",
+    "contemporary fantasy",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/skull-face-bookseller-honda-san"
+  ],
+  "relations": {
+    "kitsu": "13821",
+    "anilist/anime": "100093",
+    "aozora": "JBjCYOCwC7",
+    "myanimelist/anime": "36317"
+  }
+}

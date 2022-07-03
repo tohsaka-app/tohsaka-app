@@ -1,0 +1,30 @@
+{
+  "slug": "kouya-no-kotobuki-hikoutai",
+  "synopsis": "Combat is part of life. The talented members of Team KOTOBUKI use their impressive aerial fighting skills to help defend and transport goods across a desolate wasteland. For the right price, they’ll take on any enemy that comes their way!\n\n(Source: HIDIVE)",
+  "title": {
+    "en": "The Magnificent KOTOBUKI",
+    "jp": "Kouya no Kotobuki Hikoutai"
+  },
+  "releasedAt": "2019-01-13T00:00:00.000Z",
+  "finishedAt": "2019-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41959/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "military"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/the-magnificent-kotobuki",
+    "https://www.hidive.com/tv/the-magnificent-kotobuki",
+    "https://www.hidive.com/tv/the-magnificent-kotobuki"
+  ],
+  "relations": {
+    "kitsu": "41959",
+    "anidb": "a14392",
+    "anilist/anime": "104253",
+    "myanimelist/anime": "38301"
+  }
+}

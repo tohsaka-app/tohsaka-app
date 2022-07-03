@@ -1,0 +1,37 @@
+{
+  "slug": "sweet-valerian",
+  "synopsis": "The Stress Team floats over the city, locating stressed out people and transforming them into monsters. To combat this, three girls reluctantly transform into the Sweet Valerians, bunny defenders of justice.\n(Source: ANN)",
+  "title": {
+    "jp": "Sweet Valerian"
+  },
+  "releasedAt": "2004-08-01T00:00:00.000Z",
+  "finishedAt": "2004-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2487/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "magic",
+    "magical girl",
+    "present",
+    "school life",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2487",
+    "anidb": "2339",
+    "anilist/anime": "2727",
+    "aozora": "7JXloFMm9i",
+    "myanimelist/anime": "2727",
+    "thetvdb": "84535/1",
+    "thetvdb/series": "84535",
+    "trakt": "68354"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "warau-tsuki",
+  "synopsis": "A play on the ancient Chinese puzzle of tangram.\n(Source: britishanimationawards.com)\nNOTE FOR MODS: we have not had any of this creator's work in the DB before. But he did win the grand prix prize (highest honor) for https://en.wikipedia.org/wiki/Seoul_International_Cartoon_and_Animation_Festival in 2002 which is a well known big deal film festival (and we accept Korean anime so it's not like we're looking at a Bulgarian film festival). In addition he is an accredited art professor with a degree from an accredited art school who teaches animation amoungst other things. To me that qualifies him as a \"professional animator\" the DB guidelines require to have his work included. Granted it's only this piece and \"Sekisou-tai\" that I could find online so we're only getting 2 of his pieces anyway.",
+  "title": {
+    "en": "Laughing Moon",
+    "jp": "Warau Tsuki"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13099/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13099",
+    "aozora": "cn7fvjhT5B",
+    "myanimelist/anime": "34717"
+  }
+}

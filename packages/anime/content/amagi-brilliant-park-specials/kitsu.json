@@ -1,0 +1,26 @@
+{
+  "slug": "amagi-brilliant-park-specials",
+  "synopsis": "Mini-theater specials bundled with Blu-ray/DVD volumes of Amagi Brilliant Park.",
+  "title": {
+    "jp": "Amagi Brilliant Park: Wakuwaku Mini Theater - Rakugaki Backstage"
+  },
+  "releasedAt": "2014-12-26T00:00:00.000Z",
+  "finishedAt": "2015-06-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10610/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10610/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/amagi-brilliant-park"
+  ],
+  "relations": {
+    "kitsu": "10610",
+    "anilist/anime": "21053",
+    "aozora": "zPStSuWJyf",
+    "myanimelist/anime": "30056"
+  }
+}

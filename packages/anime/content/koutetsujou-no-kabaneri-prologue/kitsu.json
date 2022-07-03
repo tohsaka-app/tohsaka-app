@@ -1,0 +1,25 @@
+{
+  "slug": "koutetsujou-no-kabaneri-prologue",
+  "synopsis": "A prologue to Koutetsujou no Kabaneri will run in Japanese theaters for one week beginning on March 18, 2016.\n\n(Source: ANN)",
+  "title": {
+    "en": "Kabaneri of the Iron Fortress Prologue",
+    "jp": "Koutetsujou no Kabaneri Prologue"
+  },
+  "releasedAt": "2016-03-18T00:00:00.000Z",
+  "finishedAt": "2016-03-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11627/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11627/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11627"
+  }
+}

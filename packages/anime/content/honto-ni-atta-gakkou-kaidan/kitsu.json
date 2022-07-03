@@ -1,0 +1,27 @@
+{
+  "slug": "honto-ni-atta-gakkou-kaidan",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Honto ni Atta Gakkou Kaidan"
+  },
+  "releasedAt": "1996-08-21T00:00:00.000Z",
+  "finishedAt": "1996-08-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10111/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids",
+    "mystery",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10111",
+    "anilist/anime": "126639",
+    "aozora": "qf1DNty0NL",
+    "myanimelist/anime": "28263"
+  }
+}

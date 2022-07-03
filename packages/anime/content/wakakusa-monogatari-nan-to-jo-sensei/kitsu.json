@@ -1,0 +1,34 @@
+{
+  "slug": "wakakusa-monogatari-nan-to-jo-sensei",
+  "synopsis": "Nan Harding is the new student at Mr. and Mrs. Bhaer's school. Everyone thinks that she is a pain in the head, but not Mrs. Jo. Together with the other kids, they all embark on their personal adventures and misfortunes while learning in school. \n(Source: ANN)",
+  "title": {
+    "en": "Little Women II: Jo's Boys",
+    "jp": "Wakakusa Monogatari: Nan to Jo-sensei"
+  },
+  "releasedAt": "1993-01-17T00:00:00.000Z",
+  "finishedAt": "1993-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2323/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2323/original.png",
+  "categories": [
+    "americas",
+    "earth",
+    "historical",
+    "past",
+    "school life",
+    "slice of life",
+    "united states"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2323",
+    "anidb": "2291",
+    "anilist/anime": "2558",
+    "aozora": "3AO7zLojkH",
+    "myanimelist/anime": "2558",
+    "thetvdb": "84523",
+    "trakt": "21517"
+  }
+}

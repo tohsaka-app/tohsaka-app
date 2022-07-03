@@ -1,0 +1,25 @@
+{
+  "slug": "uchuu-kaizoku-mito-no-daibouken-pilot",
+  "synopsis": "A short prequel to Uchuu Kaizoku Mito no Daibouken series.",
+  "title": {
+    "jp": "Uchuu Kaizoku Mito no Daibouken Pilot"
+  },
+  "releasedAt": "1999-01-01T00:00:00.000Z",
+  "finishedAt": "1999-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10330/original.jpg",
+  "categories": [
+    "comedy",
+    "pirate",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10330",
+    "aozora": "yK8CMBlPau",
+    "myanimelist/anime": "29283"
+  }
+}

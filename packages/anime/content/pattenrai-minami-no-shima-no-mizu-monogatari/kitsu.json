@@ -1,0 +1,26 @@
+{
+  "slug": "pattenrai-minami-no-shima-no-mizu-monogatari",
+  "synopsis": "The film was directed by Noboru Ishiguro (The Super Dimension Fortress Macross) and is based on the true story of Yoichi Hatta (1886-1942), a civil engineer who traveled to Japanese-ruled Taiwan in 1910 to build a complex irrigation system in the barren southwest. Hatta manages to overcome the initial doubts of local farmers, but a tragic tunnel accident eventually halts the project and shakes his confidence.\n(Source: AniDB)",
+  "title": {
+    "jp": "Pattenrai!! Minami no Shima no Mizu Monogatari"
+  },
+  "releasedAt": "2009-05-09T00:00:00.000Z",
+  "finishedAt": "2009-05-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4667/original.jpg",
+  "categories": [
+    "coming of age",
+    "historical",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4667",
+    "anidb": "6021",
+    "anilist/anime": "6688",
+    "aozora": "uTCApnfmez",
+    "myanimelist/anime": "6688"
+  }
+}

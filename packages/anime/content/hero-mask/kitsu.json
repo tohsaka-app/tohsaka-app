@@ -1,0 +1,28 @@
+{
+  "slug": "hero-mask",
+  "synopsis": "Now there's a mysterious Mask before James Blood, and the man behind it is one that shouldn't exist. What is the mystery surrounding this mask...? So begins an action-packed crime story set in a beautiful city!",
+  "title": {
+    "en": "Hero Mask",
+    "jp": "Hero Mask"
+  },
+  "releasedAt": "2018-12-03T00:00:00.000Z",
+  "finishedAt": "2018-12-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42015/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "mystery",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80200027"
+  ],
+  "relations": {
+    "kitsu": "42015",
+    "anilist/anime": "105096",
+    "myanimelist/anime": "38628"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "the-legend-of-korra-book-1-air",
+  "synopsis": "Taking place 70 years after the events of \"Avatar: The Last Airbender,\" this story follows the adventures of the Avatar after Aang - a passionate, rebellious, and fearless teenage girl from the Southern Water Tribe named Korra. With three of the four elements under her belt (Earth, Water, and Fire), Korra seeks to master the final element, Air. Her quest leads her to the epicenter of the modern \"Avatar\" world, Republic City - a metropolis that is fueled by steampunk technology. It is a virtual melting pot where benders and non-benders from all nations live and thrive. However, Korra discovers that Republic City is plagued by crime as well as a growing anti-bending revolution that threatens to rip it apart. Under the tutelage of Aang's son, Tenzin, Korra begins her airbending training while dealing with the dangers at large. ",
+  "title": {
+    "en": "",
+    "jp": "The Legend of Korra Book 1: Air"
+  },
+  "releasedAt": "2012-04-14T00:00:00.000Z",
+  "finishedAt": "2012-06-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7927/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7927/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "martial arts",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7927",
+    "thetvdb": "251085/1",
+    "thetvdb/season": "490505",
+    "thetvdb/series": "251085"
+  }
+}

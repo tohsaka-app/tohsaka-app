@@ -1,0 +1,33 @@
+{
+  "slug": "digimon-adventure-3d-digimon-grand-prix",
+  "synopsis": "Digimon special, Mario Kart style racing.",
+  "title": {
+    "jp": "Digimon Adventure 3D: Digimon Grand Prix!"
+  },
+  "releasedAt": "2000-07-20T00:00:00.000Z",
+  "finishedAt": "2000-07-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5355/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "kids",
+    "parody",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5355",
+    "anidb": "7444",
+    "anilist/anime": "8490",
+    "aozora": "GZgk3HsKNO",
+    "myanimelist/anime": "8490"
+  }
+}

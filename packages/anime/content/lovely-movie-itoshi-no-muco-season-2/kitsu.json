@@ -1,0 +1,25 @@
+{
+  "slug": "lovely-movie-itoshi-no-muco-season-2",
+  "synopsis": "Second season of the Lovely Muco series.",
+  "title": {
+    "en": "Lovely Movie: Lovely Muuuuuuuco! Season 2",
+    "jp": "Lovely Movie: Itoshi no Muco Season 2"
+  },
+  "releasedAt": "2014-04-27T00:00:00.000Z",
+  "finishedAt": "2014-10-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9897/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9897",
+    "anidb": "11576",
+    "anilist/anime": "21227",
+    "aozora": "nYbLoPc4zL",
+    "myanimelist/anime": "23901"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hinomaru-hatanosuke-bakemonoyashiki-no-maki",
+  "synopsis": "Short film where the hero Hatanosuke battles ghosts and monsters in a haunted house.",
+  "title": {
+    "en": "Hatanosuke and the Haunted House",
+    "jp": "Hinomaru Hatanosuke: Bakemonoyashiki no Maki"
+  },
+  "releasedAt": "1935-01-01T00:00:00.000Z",
+  "finishedAt": "1935-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4733/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4733",
+    "anidb": "7197",
+    "anilist/anime": "6831",
+    "aozora": "wy9ssFL9Xn",
+    "myanimelist/anime": "6831"
+  }
+}

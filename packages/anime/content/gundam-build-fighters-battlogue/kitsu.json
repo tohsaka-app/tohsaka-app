@@ -1,0 +1,28 @@
+{
+  "slug": "gundam-build-fighters-battlogue",
+  "synopsis": "This is a dynamic dream battle featuring many types of Gunpla skirmishing in all sorts of situations.\n\n(Source: gundam.info)",
+  "title": {
+    "jp": "Gundam Build Fighters: Battlogue"
+  },
+  "releasedAt": "2017-08-04T00:00:00.000Z",
+  "finishedAt": "2017-12-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13711/original.jpg",
+  "categories": [
+    "action",
+    "earth",
+    "future",
+    "mecha",
+    "proxy battles",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13711",
+    "anidb": "13167",
+    "anilist/anime": "99731",
+    "myanimelist/anime": "35567"
+  }
+}

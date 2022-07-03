@@ -1,0 +1,25 @@
+{
+  "slug": "gugure-kokkuri-san-specials",
+  "synopsis": "Short specials included with the Blu-ray/DVD volumes. ",
+  "title": {
+    "jp": "Gugure! Kokkuri-san Specials"
+  },
+  "releasedAt": "2014-12-24T00:00:00.000Z",
+  "finishedAt": "2015-05-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9835/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9835",
+    "anilist/anime": "20904",
+    "aozora": "bFiH7ru2Ga",
+    "myanimelist/anime": "27945"
+  }
+}

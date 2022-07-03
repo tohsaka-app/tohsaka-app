@@ -1,0 +1,29 @@
+{
+  "slug": "dragon-quest-dai-no-daibouken-buchiyabure-shinsei-6-daishougun",
+  "synopsis": "Third Dragon Quest Dai no Daibouken Movie.",
+  "title": {
+    "en": "Dragon Quest Great Adventure of Dai! Destroy!! The Reborn 6 Commanders",
+    "jp": "Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun"
+  },
+  "releasedAt": "1992-07-11T00:00:00.000Z",
+  "finishedAt": "1992-07-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4951/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4951",
+    "anidb": "2094",
+    "anilist/anime": "7364",
+    "aozora": "b4M0KnKu6b",
+    "myanimelist/anime": "7364"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "kobayashi-san-chi-no-maid-dragon-s-mini-dra-ex",
+  "synopsis": "Extra episodes of Mini Dra shorts released across all five volumes of the Blu-ray/DVD releases of Kobayashi-san Chi no Maidragon S.",
+  "title": {
+    "en": "Miss Kobayashi's Dragon Maid S: Mini Dra EX",
+    "jp": "Kobayashi-san Chi no Maid Dragon S: Mini Dra EX"
+  },
+  "releasedAt": "2021-09-15T00:00:00.000Z",
+  "finishedAt": "2022-01-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45015/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45015",
+    "anilist/anime": "137804"
+  }
+}

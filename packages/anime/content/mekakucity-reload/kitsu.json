@@ -1,0 +1,29 @@
+{
+  "slug": "mekakucity-reload",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Mekakucity Reload"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12510/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "romance",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12510",
+    "anidb": "12336",
+    "anilist/anime": "87497",
+    "aozora": "WXDkm8NF1z",
+    "myanimelist/anime": "33852"
+  }
+}

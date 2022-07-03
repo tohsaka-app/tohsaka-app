@@ -1,0 +1,27 @@
+{
+  "slug": "kino-no-tabi-the-beautiful-world-byouki-no-kuni-for-you",
+  "synopsis": "Kino travels to a country divided into two parts: the very clean and peaceful city, closed off from the surrounding wastelands. They meet a little girl in the city suffering from a disease which is constantly being researched. The girl, however, does not know just how the research is being done.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Kino no Tabi: The Beautiful World - Byouki no Kuni - For You"
+  },
+  "releasedAt": "2007-04-21T00:00:00.000Z",
+  "finishedAt": "2007-04-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1970/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1970/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "steampunk"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1970",
+    "anidb": "4939",
+    "anilist/anime": "2175",
+    "aozora": "L8F7KOPf5Z",
+    "myanimelist/anime": "2175"
+  }
+}

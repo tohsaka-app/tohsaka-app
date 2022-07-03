@@ -1,0 +1,25 @@
+{
+  "slug": "hello-kitty-no-match-uri-shoujo",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Hello Kitty no Match Uri Shoujo"
+  },
+  "releasedAt": "2001-11-23T00:00:00.000Z",
+  "finishedAt": "2001-11-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8998/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8998",
+    "anidb": "7864",
+    "aozora": "29bab7iceY",
+    "myanimelist/anime": "22487"
+  }
+}

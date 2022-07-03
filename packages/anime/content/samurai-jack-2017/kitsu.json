@@ -1,0 +1,28 @@
+{
+  "slug": "samurai-jack-2017",
+  "synopsis": "On December 2, 2015, the Adult Swim page on Facebook posted a short promo teaser confirming a new season of Samurai Jack will be airing in 2016.\n\n(Source: Wikipedia)",
+  "title": {},
+  "releasedAt": "2017-03-11T00:00:00.000Z",
+  "finishedAt": "2017-05-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11580/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11580/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "drama",
+    "fantasy",
+    "magic",
+    "martial arts",
+    "samurai",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11580",
+    "thetvdb": "75164/5"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "prince-of-tennis-the-national-tournament-finals",
+  "synopsis": "Seigaku continues through the Nation tournament. Now they are up against the strongest team in the tournament, Rikkaidai.",
+  "title": {
+    "jp": "Tennis no Ouji-sama: Zenkoku Taikai-hen - Final"
+  },
+  "releasedAt": "2008-04-25T00:00:00.000Z",
+  "finishedAt": "2009-01-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3433/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3433/original.jpg",
+  "categories": [
+    "comedy",
+    "japan",
+    "present",
+    "school life",
+    "sports",
+    "super power",
+    "tennis"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3433",
+    "anidb": "5750",
+    "anilist/anime": "4053",
+    "aozora": "bxjuLgjIbB",
+    "myanimelist/anime": "4053"
+  }
+}

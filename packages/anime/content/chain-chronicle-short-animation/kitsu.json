@@ -1,0 +1,28 @@
+{
+  "slug": "chain-chronicle-short-animation",
+  "synopsis": "An anime adaptation of the game for mobile devices Chain Chronicle.\nFeatures eight short episodes that introduces the story, setting, and characters.",
+  "title": {
+    "jp": "Chain Chronicle: Short Animation"
+  },
+  "releasedAt": "2014-09-06T00:00:00.000Z",
+  "finishedAt": "2014-12-18T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8790/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8790/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8790",
+    "anidb": "10747",
+    "anilist/anime": "20787",
+    "aozora": "zlac1Tt7xT",
+    "myanimelist/anime": "25431"
+  }
+}

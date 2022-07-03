@@ -1,0 +1,26 @@
+{
+  "slug": "shinteriya-jou-no-hanamuko",
+  "synopsis": "The beautiful girl Cinterrier (like the terrier version of Cinderella), was proposed to by many dogs. Who finally got her heart?\n(Source: ANIDO)",
+  "title": {
+    "en": "Miss Cinterrier's Groom",
+    "jp": "Cinterrier-jou no Hanamuko"
+  },
+  "releasedAt": "1954-01-01T00:00:00.000Z",
+  "finishedAt": "1954-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10214/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10214",
+    "anilist/anime": "104417",
+    "aozora": "GqmHm8IsLY",
+    "myanimelist/anime": "28829"
+  }
+}

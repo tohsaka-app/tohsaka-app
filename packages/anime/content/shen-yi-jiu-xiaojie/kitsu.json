@@ -1,0 +1,21 @@
+{
+  "slug": "shen-yi-jiu-xiaojie",
+  "synopsis": null,
+  "title": {
+    "en": "Great Doctor Miss Nine"
+  },
+  "releasedAt": "2021-11-30T00:00:00.000Z",
+  "finishedAt": "2022-06-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45550/poster_image/1fffc65cad4570cf99e9e6faa72965a1.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45550",
+    "anilist/anime": "137675"
+  }
+}

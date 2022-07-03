@@ -1,0 +1,29 @@
+{
+  "slug": "pikachu-kore-nanno-kagi",
+  "synopsis": "A thrilling tale in which a group of innocent pokemon get sucked into a world full of keys only to find themselves trapped. Will they ever escape?",
+  "title": {
+    "en": "Pikachu",
+    "jp": "Pokemon: Pikachu, Kore Nan no Kagi?"
+  },
+  "releasedAt": "2014-07-19T00:00:00.000Z",
+  "finishedAt": "2014-07-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8150/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8150",
+    "anidb": "10319",
+    "anilist/anime": "21271",
+    "aozora": "v4bOmWj0WF",
+    "myanimelist/anime": "21571"
+  }
+}

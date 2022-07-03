@@ -1,0 +1,41 @@
+{
+  "slug": "kure-nai",
+  "synopsis": "After losing his family in a tragic terrorist attack when he was but a child, the main protagonist of Kure-nai, Shinkurou Kurenai, made a pact to stay strong no matter what.\nNow a high school student, he works with Benika as a mediator and lives with the Houzuki family, training and gradually mastering the family martial arts. Together with other members of the team, Shinkurou aims to aid those who seek his help.\nOne day, Benika brings a beautiful 7-year-old girl from a wealthy family, Murasaki Kuhouin, to the Houzuki house. When Shinkurou asks for a more challenging mission, he is left with the task of guarding this young lady. At first, he takes these orders for granted. However, when he comes home to find that Murasaki is gone, he panics, frantically running around to search for her. Thankfully, he soon finds her, and from that moment on, a bond between Murasaki and Shinkurou is formed that is sure to evolve into something more. Will Murasaki be able to help Shinkurou get past his tragic past? Or is it the other way around? How will these two face the challenges sure to come their way?",
+  "title": {
+    "en": "Kurenai",
+    "jp": "Kure-nai"
+  },
+  "releasedAt": "2008-04-04T00:00:00.000Z",
+  "finishedAt": "2008-06-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2954/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2954/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "drama",
+    "earth",
+    "harem",
+    "japan",
+    "mafia",
+    "martial arts",
+    "present",
+    "violence"
+  ],
+  "externals": [
+    "http://www.hulu.com/kurenai"
+  ],
+  "relations": {
+    "kitsu": "2954",
+    "anidb": "5535",
+    "anilist/anime": "3358",
+    "aozora": "Tg2bfOc5uM",
+    "hulu": "50014366",
+    "myanimelist/anime": "3358",
+    "thetvdb": "81810/1",
+    "thetvdb/series": "81810",
+    "trakt": "61776"
+  }
+}

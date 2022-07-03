@@ -1,0 +1,29 @@
+{
+  "slug": "chou-kousoku-galvion",
+  "synopsis": "Super High Speed Galvion features mecha designs by Ohata Koichi (of Gunbuster fame). In the 23rd century billionaire Midoriyama Rei creates a secret organization called Circus to combat a hidden group called Shadow that is taking over the world. When she can't find qualified pilots for Circus' main mecha, the Galvion, she cuts a deal with two convicts, Mu and Maya, to lead the fight against Shadow.",
+  "title": {
+    "en": "Super High Speed Galvion",
+    "jp": "Chou Kousoku Galvion"
+  },
+  "releasedAt": "1984-02-03T00:00:00.000Z",
+  "finishedAt": "1984-04-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4645/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "mecha",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4645",
+    "anidb": "4928",
+    "anilist/anime": "6636",
+    "aozora": "LqrCn5PZif",
+    "myanimelist/anime": "6636"
+  }
+}

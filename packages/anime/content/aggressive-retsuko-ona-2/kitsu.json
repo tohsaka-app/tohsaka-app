@@ -1,0 +1,31 @@
+{
+  "slug": "aggressive-retsuko-ona-2",
+  "synopsis": "Second season of Aggretsuko.",
+  "title": {
+    "en": "Aggretsuko Season Two",
+    "jp": "Aggressive Retsuko (2019)"
+  },
+  "releasedAt": "2019-06-14T00:00:00.000Z",
+  "finishedAt": "2019-06-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41464/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41464/original.png",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "music",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80198505"
+  ],
+  "relations": {
+    "kitsu": "41464",
+    "anidb": "14199",
+    "anilist/anime": "105200",
+    "myanimelist/anime": "37985"
+  }
+}

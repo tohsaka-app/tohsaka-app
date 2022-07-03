@@ -1,0 +1,24 @@
+{
+  "slug": "samurai",
+  "synopsis": "A short film by Kuri Youji.",
+  "title": {
+    "jp": "Samurai"
+  },
+  "releasedAt": "1965-01-01T00:00:00.000Z",
+  "finishedAt": "1965-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10491/original.jpg",
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10491",
+    "anilist/anime": "104180",
+    "aozora": "g26fCeiHbi",
+    "myanimelist/anime": "29637"
+  }
+}

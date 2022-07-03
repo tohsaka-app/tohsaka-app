@@ -1,0 +1,26 @@
+{
+  "slug": "douluo-dalu-haishen-zhi-guang",
+  "synopsis": "The eighth part of Douluo Dalu.",
+  "title": {},
+  "releasedAt": "2021-02-20T00:00:00.000Z",
+  "finishedAt": "2021-05-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44624/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "romance",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44624",
+    "anilist/anime": "129946",
+    "myanimelist/anime": "48631"
+  }
+}

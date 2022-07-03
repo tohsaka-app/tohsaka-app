@@ -1,0 +1,21 @@
+{
+  "slug": "weaving",
+  "synopsis": "A bejeweled spider weaves a bejeweled web.",
+  "title": {
+    "jp": "Weaving"
+  },
+  "releasedAt": "2017-08-15T00:00:00.000Z",
+  "finishedAt": "2017-08-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40974/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40974",
+    "anilist/anime": "148667",
+    "aozora": "1aUWMqdbkG",
+    "myanimelist/anime": "36574"
+  }
+}

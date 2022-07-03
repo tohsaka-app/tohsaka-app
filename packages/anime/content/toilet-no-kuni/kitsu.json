@@ -1,0 +1,23 @@
+{
+  "slug": "toilet-no-kuni",
+  "synopsis": "A short animation promoting Lion's line of toilet cleaning products.\n",
+  "title": {
+    "en": "The Kingdom of Toilet",
+    "jp": "Toilet no Kuni"
+  },
+  "releasedAt": "2015-05-28T00:00:00.000Z",
+  "finishedAt": "2015-05-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14138/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14138",
+    "anilist/anime": "102465",
+    "myanimelist/anime": "36621"
+  }
+}

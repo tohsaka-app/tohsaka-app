@@ -1,0 +1,32 @@
+{
+  "slug": "gegege-no-kitarou-nippon-bakuretsu",
+  "synopsis": "Movie based on the 2007 TV anime with an original plot.",
+  "title": {
+    "en": "Spooky Kitaro: Japan Explodes!!",
+    "jp": "Gegege no Kitarou: Nippon Bakuretsu"
+  },
+  "releasedAt": "2008-12-20T00:00:00.000Z",
+  "finishedAt": "2008-12-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5215/original.jpg",
+  "categories": [
+    "action",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "horror",
+    "japan",
+    "kids",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5215",
+    "anidb": "7163",
+    "anilist/anime": "8145",
+    "aozora": "e0bYPSMFRu",
+    "myanimelist/anime": "8145"
+  }
+}

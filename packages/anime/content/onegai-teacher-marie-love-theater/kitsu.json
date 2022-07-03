@@ -1,0 +1,27 @@
+{
+  "slug": "onegai-teacher-marie-love-theater",
+  "synopsis": "Special bundled with the DVDs. Please note that this entry doesn't include any of the official AMVs, as those don't contain any new animation.",
+  "title": {
+    "en": "Please Teacher: Marie Love Theater",
+    "jp": "Onegai☆Teacher: Marie, Ai no Gekijou"
+  },
+  "releasedAt": "2002-10-25T00:00:00.000Z",
+  "finishedAt": "2002-10-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4991/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4991",
+    "anilist/anime": "7474",
+    "aozora": "0gv2g1Bu1i",
+    "myanimelist/anime": "7474"
+  }
+}

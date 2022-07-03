@@ -1,0 +1,26 @@
+{
+  "slug": "sailor-moon-us-opening",
+  "synopsis": "Opening for a live action/animation mixed US version of Sailor Moon that was never made.",
+  "title": {},
+  "releasedAt": "1993-01-01T00:00:00.000Z",
+  "finishedAt": "1993-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42395/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "contemporary fantasy",
+    "fantasy",
+    "henshin",
+    "kids",
+    "magic",
+    "magical girl",
+    "shoujo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42395"
+  }
+}

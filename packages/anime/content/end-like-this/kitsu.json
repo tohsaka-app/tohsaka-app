@@ -1,0 +1,26 @@
+{
+  "slug": "end-like-this",
+  "synopsis": "Music video for Chapter 7, based on the final fight between Rhodes Island and Patriot. The song was produced by Steve Aoki and Yellow Claw, featuring RUNN.",
+  "title": {
+    "en": "End Like This",
+    "jp": "End Like This"
+  },
+  "releasedAt": "2021-01-09T00:00:00.000Z",
+  "finishedAt": "2021-01-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44298/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=i8seBJzVOnI"
+  ],
+  "relations": {
+    "kitsu": "44298",
+    "anilist/anime": "131967"
+  }
+}

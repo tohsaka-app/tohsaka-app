@@ -1,0 +1,25 @@
+{
+  "slug": "are-wa-dare",
+  "synopsis": "A short film by Okamoto Tadanari.",
+  "title": {
+    "en": "Who's That?",
+    "jp": "Are wa Dare?"
+  },
+  "releasedAt": "1976-01-01T00:00:00.000Z",
+  "finishedAt": "1976-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10371/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10371",
+    "anidb": "11303",
+    "anilist/anime": "113718",
+    "aozora": "fN6Kzm1Sb0",
+    "myanimelist/anime": "29791"
+  }
+}

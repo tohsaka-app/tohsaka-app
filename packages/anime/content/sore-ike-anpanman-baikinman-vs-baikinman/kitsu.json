@@ -1,0 +1,26 @@
+{
+  "slug": "sore-ike-anpanman-baikinman-vs-baikinman",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Baikinman vs. Baikinman!?"
+  },
+  "releasedAt": "2009-07-04T00:00:00.000Z",
+  "finishedAt": "2009-07-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9609/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9609",
+    "anidb": "7740",
+    "aozora": "7km02lvOdM",
+    "myanimelist/anime": "21945"
+  }
+}

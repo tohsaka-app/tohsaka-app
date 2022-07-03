@@ -1,0 +1,23 @@
+{
+  "slug": "suzy-s-zoo-daisuki-witzy-happy-birthday",
+  "synopsis": "This special is a short story about Witzy and the surprise birthday party that is planned by his friends.",
+  "title": {
+    "jp": "Suzy's Zoo: Daisuki! Witzy - Happy Birthday"
+  },
+  "releasedAt": "2011-12-02T00:00:00.000Z",
+  "finishedAt": "2011-12-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7605/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7605",
+    "anilist/anime": "120131",
+    "aozora": "SisMxTpISI",
+    "myanimelist/anime": "17209"
+  }
+}

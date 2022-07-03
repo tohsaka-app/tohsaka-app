@@ -1,0 +1,25 @@
+{
+  "slug": "shuang-yue-zhi-chengi",
+  "synopsis": "In the year 2200, a new Cold War between two forces is set to end with a peace treaty. However, one side is hiding a dark secret, which results in numerous tragedies in the following months. In the wake of a crisis, a paramilitary team is founded to steal information at the center of the conflict.",
+  "title": {
+    "en": "Twin Moons",
+    "jp": "Shuang Yue Zhi Cheng"
+  },
+  "releasedAt": "2016-03-30T00:00:00.000Z",
+  "finishedAt": "2017-09-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12519/original.jpg",
+  "categories": [
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12519",
+    "anilist/anime": "102645",
+    "aozora": "zwGVRLphvp",
+    "myanimelist/anime": "33757"
+  }
+}

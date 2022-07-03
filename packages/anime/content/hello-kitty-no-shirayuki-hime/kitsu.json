@@ -1,0 +1,27 @@
+{
+  "slug": "hello-kitty-no-shirayuki-hime",
+  "synopsis": "Adaption of Grimm Brothers Snow White fairytale with the famous cat as the heroine. ",
+  "title": {
+    "en": "Hello Kitty in Snow White",
+    "jp": "Hello Kitty no Shirayuki-hime"
+  },
+  "releasedAt": "1993-07-21T00:00:00.000Z",
+  "finishedAt": "1993-07-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9313/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9313",
+    "anidb": "7778",
+    "anilist/anime": "17951",
+    "aozora": "g34QoCGyhg",
+    "myanimelist/anime": "17951"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "soul-link-picture-drama",
+  "synopsis": "Main characters reminiscing about their past.",
+  "title": {
+    "jp": "Soul Link Picture Drama"
+  },
+  "releasedAt": "2006-07-21T00:00:00.000Z",
+  "finishedAt": "2006-09-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6154/original.jpg",
+  "categories": [
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6154",
+    "anilist/anime": "10373",
+    "aozora": "cJ8vxDkQvr",
+    "myanimelist/anime": "10373"
+  }
+}

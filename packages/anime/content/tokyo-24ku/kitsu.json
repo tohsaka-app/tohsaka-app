@@ -1,0 +1,28 @@
+{
+  "slug": "tokyo-24ku",
+  "synopsis": "An artificial island in Tokyo Bay—Kyokutou Houreigai Tokubetsu Chiku (Far East Special District), commonly known as the 24-ku (24th Ward). Childhood friends Ran, Kouki, and Shuuta, who were born and raised there, have different family backgrounds, hobbies, and personalities, but always hung out together. However, their relationship changes drastically in the wake of a certain incident.\n\nAt the first anniversary memorial of the incident, the three friends happen to meet again and their phones begin to ring simultaneously. The phone call is from a supposedly dead friend, urging them to \"choose the future.\" The three will try to protect their beloved 24th Ward and the future of its people in their own ways.\n\n(Source: MyAnimeList)",
+  "title": {
+    "en": "Tokyo 24th Ward",
+    "jp": "Tokyo 24-ku"
+  },
+  "releasedAt": "2022-01-06T00:00:00.000Z",
+  "finishedAt": "2022-04-07T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45372/poster_image/24f975c3b391585decee4de215df0c32.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45372/cover_image/3bcf48287f227d8c1ecaa3da609b62f3.png",
+  "categories": [
+    "mystery",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/tokyo-24th-ward",
+    "https://www.funimation.com/shows/tokyo-24th-ward/"
+  ],
+  "relations": {
+    "kitsu": "45372",
+    "anilist/anime": "140643"
+  }
+}

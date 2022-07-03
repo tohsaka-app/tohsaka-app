@@ -1,0 +1,24 @@
+{
+  "slug": "net-juu-no-susume-special",
+  "synopsis": "An unaired episode included with the BD box set release of the TV series.",
+  "title": {
+    "en": "Recovery of an MMO Junkie Special",
+    "jp": "Net-juu no Susume Special"
+  },
+  "releasedAt": "2017-12-08T00:00:00.000Z",
+  "finishedAt": "2017-12-08T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14061/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14061",
+    "anilist/anime": "100684",
+    "aozora": "4cIkUAobmO",
+    "myanimelist/anime": "36043"
+  }
+}

@@ -1,0 +1,353 @@
+[
+  {
+    "title": {
+      "jp": "Ikouze! Valkyrie!!"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2016-04-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Meikai no Banken! Cerberus!!"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2016-04-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Bakuretsu! Rush Shoot!!"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2016-04-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Beyblade Club wo Tsukuruze!"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2016-04-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shinigami Kourin! Shikkoku no Deathscyther!!"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2016-05-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Taero! Kore ga Tokkun Da!!"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2016-05-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chousoku! Flash Shoot!!"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2016-05-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kyouteki! Tenkuu no Horusuudo!!"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2016-05-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tachihadakaru Wyvern!!"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2016-05-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Norikoero! Valkyrie wo Shinjite!!"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2016-06-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Zetsubou no Spriggan"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2016-06-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kyoi no Shield Crush!"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2016-06-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shuu no Shiren!"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "2016-06-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chikai no Battle!"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "2016-07-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gekitou! Valkyrie VS Spriggan!!"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "2016-07-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 16,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 17,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 18,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 19,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 20,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 21,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 22,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 23,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 24,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 25,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 26,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 27,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 28,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 29,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 30,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 31,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 32,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 33,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 34,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 35,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 36,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 37,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 38,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 39,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 40,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 41,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 42,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 43,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 44,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 45,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 46,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 47,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 48,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 49,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 50,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 51,
+    "content": {}
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "slug": "happy-forest",
+  "synopsis": "A short film created to demonstrate Real Time Engine technology. It features a young, curious dragon exploring the forest.",
+  "title": {
+    "jp": "Happy Forest"
+  },
+  "releasedAt": "2015-07-04T00:00:00.000Z",
+  "finishedAt": "2015-07-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13815/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13815",
+    "anilist/anime": "102577",
+    "aozora": "RqWLTUu381",
+    "myanimelist/anime": "36097"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "wo-jia-da-shixiong-you-dian-kaopu",
+  "synopsis": "Third season of Wo Jia Da Shixiong Naozi You Keng.",
+  "title": {
+    "en": "What's Wrong with My Big Brother"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45522/poster_image/fbe8ed3db969e80f571a56757af4bcae.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45522",
+    "anilist/anime": "141880",
+    "myanimelist/anime": "50400"
+  }
+}

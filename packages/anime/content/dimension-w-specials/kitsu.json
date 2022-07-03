@@ -1,0 +1,26 @@
+{
+  "slug": "dimension-w-specials",
+  "synopsis": "Short specials included in the Blu-ray releases of Dimension W.",
+  "title": {
+    "jp": "Dimension W: W no Tobira Online"
+  },
+  "releasedAt": "2016-03-25T00:00:00.000Z",
+  "finishedAt": "2016-08-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11665/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11665/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11665",
+    "anilist/anime": "21592",
+    "aozora": "TQ5udMmwAP",
+    "myanimelist/anime": "32410"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "mu-wang-zhi-wang-qi-lin-jue",
+  "synopsis": "",
+  "title": {
+    "jp": "Mu Wang Zhi Wang: Qi Lin Jue"
+  },
+  "releasedAt": "2016-07-21T00:00:00.000Z",
+  "finishedAt": "2016-11-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41214/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "martial arts",
+    "mystery",
+    "romance",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41214",
+    "anidb": "13627",
+    "anilist/anime": "102054",
+    "myanimelist/anime": "37737"
+  }
+}

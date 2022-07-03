@@ -1,0 +1,27 @@
+{
+  "slug": "gangsta-recap",
+  "synopsis": "Recap of episodes 1-9 of Gangsta.",
+  "title": {
+    "en": "Gangsta.",
+    "jp": "Gangsta. Recap"
+  },
+  "releasedAt": "2015-09-06T00:00:00.000Z",
+  "finishedAt": "2015-09-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11361/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11361/original.jpg",
+  "categories": [
+    "action",
+    "crime",
+    "drama",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11361",
+    "aozora": "5UXpkeGFfC",
+    "myanimelist/anime": "31561"
+  }
+}

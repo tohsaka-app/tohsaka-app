@@ -1,0 +1,24 @@
+{
+  "slug": "the-balloon-catcher",
+  "synopsis": "An axe-human tries to get along with a balloon-human in Balloon City. But the axe human was watched by balloon police because his sharp blade frightens balloon humans.While the axe man tried to get along with them, a balloon human got killed on the gloomy subway platform.\n\n(Source: Young Power 2020)",
+  "title": {
+    "en": "The Balloon Catcher",
+    "jp": "The Balloon Catcher"
+  },
+  "releasedAt": "2020-01-01T00:00:00.000Z",
+  "finishedAt": "2020-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45918/poster_image/5683a9d226816c83931afa8a03e379ad.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/j5hmN6mGXxs"
+  ],
+  "relations": {
+    "kitsu": "45918",
+    "anilist/anime": "120167"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "votoms-finder-armored-trooperoid",
+  "synopsis": "Set in an alternate universe, VOTOMS Finder follows the exploits of Aki Renso, a Bottomer who daydreams of living in the utopian city of Top — and his dreams might become reality if he can rescue a Topper chairman’s daughter from her kidnappers!\n\n(Source: Hidive)",
+  "title": {
+    "en": "Votoms Finder Armored Trooperoid",
+    "jp": "Votoms Finder"
+  },
+  "releasedAt": "2010-12-04T00:00:00.000Z",
+  "finishedAt": "2010-12-04T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5269/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5269/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/armored-trooper-votoms-votoms-finder"
+  ],
+  "relations": {
+    "kitsu": "5269",
+    "anidb": "7919",
+    "anilist/anime": "8249",
+    "aozora": "bRpTGwyElb",
+    "myanimelist/anime": "8249"
+  }
+}

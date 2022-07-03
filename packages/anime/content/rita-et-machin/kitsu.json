@@ -1,0 +1,25 @@
+{
+  "slug": "rita-et-machin",
+  "synopsis": "Adaptation of a French children's picture book written by Jean-Philippe Arrou-Vignod and illustrated by Olivier Tallec.\nThe story follows a precocious five year old girl named Rita and a lazy but easy-going dog named Machin.",
+  "title": {
+    "en": "Rita et Machin",
+    "jp": "Rita to Nantoka"
+  },
+  "releasedAt": "2010-11-01T00:00:00.000Z",
+  "finishedAt": "2010-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4468/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4468",
+    "anidb": "7958",
+    "anilist/anime": "6195",
+    "aozora": "QAwG3cGUpw",
+    "myanimelist/anime": "6195"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "moshi-juexing-zhi-ruqin",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2018-05-24T00:00:00.000Z",
+  "finishedAt": "2018-08-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44642/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44642",
+    "anidb": "14375",
+    "anilist/anime": "120230",
+    "myanimelist/anime": "45444"
+  }
+}

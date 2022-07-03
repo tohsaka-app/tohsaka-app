@@ -1,0 +1,25 @@
+{
+  "slug": "tough-guy",
+  "synopsis": "An aggressive and martial arts-devoted mantis kicks cans and hunts down cicadas, bringing havoc into the life of a couple of humans. This personal opus by Shintaro Kishimoto, now steady collaborator of Production I.G's 3D crew, won the prestigious Ofuji Award in 2005.\n(Source: Production I.G)",
+  "title": {
+    "jp": "Tough Guy!"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10218/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10218",
+    "anidb": "11096",
+    "anilist/anime": "102404",
+    "aozora": "n4pugbPupD",
+    "myanimelist/anime": "28685"
+  }
+}

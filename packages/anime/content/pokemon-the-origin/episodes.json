@@ -1,0 +1,46 @@
+[
+  {
+    "title": {
+      "jp": "Red"
+    },
+    "synopsis": "Red, along with his rival Blue, sets out on a quest to realize Professor Oak’s dream of completing the Pokédex.",
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/112719/original.jpeg",
+    "releasedAt": "2013-10-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Karakara"
+    },
+    "synopsis": "Red encounters a place called the Pokémon House, where he learns of a baby Cubone’s ordeal at the hands of an evil organization known as Team Rocket",
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/112720/original.jpeg",
+    "releasedAt": "2013-10-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sakaki"
+    },
+    "synopsis": "Red arrives in Saffron City to find Team Rocket’s fingerprints on everything, but what lies in store at Viridian City may be the biggest surprise yet.",
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/112721/original.jpeg",
+    "releasedAt": "2013-10-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Lizardon"
+    },
+    "synopsis": "After defeating the Elite Four, Red is finally ready to challenge the Champion and take his strength to the next level.",
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/112722/original.jpeg",
+    "releasedAt": "2013-10-02T00:00:00.000Z",
+    "content": {}
+  }
+]

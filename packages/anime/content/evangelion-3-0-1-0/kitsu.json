@@ -1,0 +1,36 @@
+{
+  "slug": "evangelion-3-0-1-0",
+  "synopsis": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka, and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each of them live a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion. Finally, the Human Instrumentality Project is set in motion, and WILLE makes one last grueling stand to prevent the Final Impact.\n\n(Source: Anilist)",
+  "title": {
+    "en": "Evangelion: 3.0+1.0 Thrice Upon a Time",
+    "jp": "Shin Evangelion Gekijouban :||"
+  },
+  "releasedAt": "2021-03-08T00:00:00.000Z",
+  "finishedAt": "2021-03-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/3252/poster_image/e8c542c0e82a21a42b150e0756bb544a.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3252/original.png",
+  "categories": [
+    "action",
+    "alien",
+    "angst",
+    "future",
+    "japan",
+    "mecha",
+    "piloted robot",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.amazon.com/EVANGELION-1-01-THRICE-UPON-TIME/dp/B098WNZSQ3/ref=sr_1_1?crid=2BBN66IQMSLJ9&dchild=1&keywords=evangelion+3.0+1.0+thrice+upon+a+time&qid=1629244452&s=movies-tv&sprefix=ev%2Cmovies-tv%2C184&sr=1-1"
+  ],
+  "relations": {
+    "kitsu": "3252",
+    "anidb": "8895",
+    "anilist/anime": "3786",
+    "aozora": "hHbX1OBD0S",
+    "myanimelist/anime": "3786"
+  }
+}

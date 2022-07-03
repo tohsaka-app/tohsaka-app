@@ -1,0 +1,24 @@
+{
+  "slug": "challenge-ichinensei-de-kakkoii-ichinensei-ni-henshin",
+  "synopsis": "",
+  "title": {
+    "en": "Question Fairy",
+    "jp": "Challenge Ichinensei de Kakkoii Ichinensei ni Henshin!"
+  },
+  "releasedAt": "2008-02-11T00:00:00.000Z",
+  "finishedAt": "2008-02-11T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5126/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5126",
+    "anilist/anime": "7803",
+    "aozora": "Q93QLZqqpV",
+    "myanimelist/anime": "7803"
+  }
+}

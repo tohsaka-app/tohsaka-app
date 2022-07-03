@@ -1,0 +1,24 @@
+{
+  "slug": "shi-wan-ge-leng-xiaohua-tv",
+  "synopsis": "One Hundred Thousand Bad Jokes is a parody series that references folktales, classic literature, and modern comics, films, and animation from a variety of countries and regions.",
+  "title": {
+    "jp": "Shi Wan Ge Leng Xiaohua"
+  },
+  "releasedAt": "2012-07-11T00:00:00.000Z",
+  "finishedAt": "2013-08-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12516/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12516",
+    "anilist/anime": "103363",
+    "aozora": "x8LfulrnZA",
+    "myanimelist/anime": "33193"
+  }
+}

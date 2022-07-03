@@ -1,0 +1,30 @@
+{
+  "slug": "alps-no-shoujo-heidi-alm-no-yama-hen",
+  "synopsis": "Condensed version of the first half of the TV series.",
+  "title": {
+    "jp": "Alps no Shoujo Heidi: Alm no Yama-hen"
+  },
+  "releasedAt": "1996-08-21T00:00:00.000Z",
+  "finishedAt": "1996-08-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5788/original.jpg",
+  "categories": [
+    "earth",
+    "europe",
+    "friendship",
+    "historical",
+    "past",
+    "plot continuity",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5788",
+    "anidb": "7658",
+    "anilist/anime": "9548",
+    "aozora": "BkPDGSOyOA",
+    "myanimelist/anime": "9548"
+  }
+}

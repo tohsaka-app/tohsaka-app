@@ -1,0 +1,29 @@
+{
+  "slug": "princess-principal-crown-handler-2",
+  "synopsis": "The second out of six movie sequels to the TV series.",
+  "title": {
+    "en": "Princess Principal: Crown Handler 2",
+    "jp": "Princess Principal: Crown Handler - Chapter 2"
+  },
+  "releasedAt": "2021-09-23T00:00:00.000Z",
+  "finishedAt": "2021-09-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44680/original.jpg",
+  "categories": [
+    "action",
+    "alternative past",
+    "historical",
+    "mystery",
+    "special squads",
+    "steampunk",
+    "united kingdom"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44680",
+    "anilist/anime": "129759",
+    "myanimelist/anime": "41140"
+  }
+}

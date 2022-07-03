@@ -1,0 +1,26 @@
+{
+  "slug": "genesis-climber-mospeada-love-live-alive",
+  "synopsis": "After the original run of the television series, an OAV music video titled Genesis Climber Mospeada: Love Live Alive was specially (mostly due to demands of hardcore Mospeada fans) released in Japan in September 1985. The music video consisted of both old and new footage. The story of Love Live Alive chronicled the events after the ending of the original Mospeada, featuring Yellow Belmont as the main character. The music video focused on Yellow's concert and also on his flashback of past events.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Genesis Climber Mospeada: Love",
+    "jp": "Genesis Climber Mospeada: Love, Live, Alive"
+  },
+  "releasedAt": "1985-09-01T00:00:00.000Z",
+  "finishedAt": "1985-09-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3183/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3183",
+    "anilist/anime": "3671",
+    "aozora": "jYuwSzAvD7",
+    "myanimelist/anime": "3671"
+  }
+}

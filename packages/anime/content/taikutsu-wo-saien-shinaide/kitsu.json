@@ -1,0 +1,24 @@
+{
+  "slug": "taikutsu-wo-saien-shinaide",
+  "synopsis": "Music video for the song Taikutsu wo Saien Shinaide by Eve.",
+  "title": {
+    "en": "Don’t replay the boredom.",
+    "jp": "Taikutsu wo Saien Shinaide"
+  },
+  "releasedAt": "2022-03-11T00:00:00.000Z",
+  "finishedAt": "2022-03-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45987/poster_image/60585a311bd97f83a134378a938240ce.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/Pv56oBAfRhY"
+  ],
+  "relations": {
+    "kitsu": "45987",
+    "myanimelist/anime": "51230"
+  }
+}

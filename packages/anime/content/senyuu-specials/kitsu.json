@@ -1,0 +1,25 @@
+{
+  "slug": "senyuu-specials",
+  "synopsis": "Unaired episodes of Senyuu. released with BD/DVD volumes.\n1. Yuusha, Nagurareru. / Nise Panda no Seitai (Vol. 1)\n2. Shitsujichou no Tabi Sono 1 (Vol. 2)\n3. Shitsujichou no Tabi Sono 2 (Vol. 3)\n4. Gakuen Senyuu.: Seishun Monogatari (Vol. 4)",
+  "title": {
+    "jp": "Senyuu. Specials"
+  },
+  "releasedAt": "2013-04-24T00:00:00.000Z",
+  "finishedAt": "2013-11-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7732/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7732",
+    "anilist/anime": "17391",
+    "aozora": "69YVLJeGLF",
+    "myanimelist/anime": "17391"
+  }
+}

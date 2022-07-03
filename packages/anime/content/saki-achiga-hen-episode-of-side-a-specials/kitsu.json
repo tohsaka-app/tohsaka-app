@@ -1,0 +1,26 @@
+{
+  "slug": "saki-achiga-hen-episode-of-side-a-specials",
+  "synopsis": "The final 4 episodes of Saki: Achiga-hen - Episode of Side-A.",
+  "title": {
+    "en": "Saki - Episode of Side A",
+    "jp": "Saki Achiga-hen: Episode of Side-A Specials"
+  },
+  "releasedAt": "2013-02-20T00:00:00.000Z",
+  "finishedAt": "2013-08-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7353/original.jpg",
+  "categories": [
+    "school life",
+    "slice of life",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7353",
+    "anilist/anime": "15989",
+    "aozora": "cUwiYFpQD5",
+    "myanimelist/anime": "15989"
+  }
+}

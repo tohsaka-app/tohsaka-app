@@ -1,0 +1,20 @@
+{
+  "slug": "chizu-no-nai-bouken",
+  "synopsis": "",
+  "title": {
+    "jp": "Chizu no Nai Bouken"
+  },
+  "releasedAt": "2017-05-19T00:00:00.000Z",
+  "finishedAt": "2017-05-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41576/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41576",
+    "anilist/anime": "119788",
+    "myanimelist/anime": "35610"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "norabbits-minutes",
+  "synopsis": "Norabbits' Minutes features two young rabbit brothers who live together in the forest and have endearing adventures together... though not without some absurd twists.",
+  "title": {
+    "en": "Norabbits' Minutes",
+    "jp": "Norabbits' Minutes"
+  },
+  "releasedAt": "2006-02-25T00:00:00.000Z",
+  "finishedAt": "2007-06-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5242/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5242",
+    "anidb": "5027",
+    "anilist/anime": "8205",
+    "aozora": "rP847qMcZW",
+    "myanimelist/anime": "8205"
+  }
+}

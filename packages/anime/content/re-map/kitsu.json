@@ -1,0 +1,23 @@
+{
+  "slug": "re-map",
+  "synopsis": "Kikuchi wants to redo life. A self-development story with the help of a cat and a strange doll to help Kikuchi remind him of something during a time slip.",
+  "title": {
+    "en": "RE:Map",
+    "jp": "RE:Map"
+  },
+  "releasedAt": "2008-08-29T00:00:00.000Z",
+  "finishedAt": "2008-08-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13141/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13141",
+    "aozora": "iPe9jKsETH",
+    "myanimelist/anime": "34113"
+  }
+}

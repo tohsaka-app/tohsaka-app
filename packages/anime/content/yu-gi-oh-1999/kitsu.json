@@ -1,0 +1,31 @@
+{
+  "slug": "yu-gi-oh-1999",
+  "synopsis": "\"Blue Eyes White Dragon will bring victory\" while \"Red Eyes Black Dragon will bring the potential of victory\". A shy duelist stumbles upon the legendary Red Eyes Black Dragon, with that card in his possession, he must learn to bring out his confidence to duel.\n(Source: ANN)",
+  "title": {
+    "jp": "Yu☆Gi☆Oh! (Movie)"
+  },
+  "releasedAt": "1999-03-06T00:00:00.000Z",
+  "finishedAt": "1999-03-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1805/original.jpg",
+  "categories": [
+    "adventure",
+    "card games",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "proxy battles",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1805",
+    "anidb": "1608",
+    "anilist/anime": "2006",
+    "aozora": "dVr8G2mptf",
+    "myanimelist/anime": "2006"
+  }
+}

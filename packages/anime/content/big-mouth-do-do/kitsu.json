@@ -1,0 +1,25 @@
+{
+  "slug": "big-mouth-do-do",
+  "synopsis": "Considered a shanzhai version of Crayon Shin-chan. Dudu is a kindergartner who gets in to lots of trouble while making frequent butt/fart jokes. Most episodes revolve around him and his friends that usually end with a recap half-heartedly attempting a moral lesson to be taught.\n\n(Source: MAL)",
+  "title": {
+    "en": "Big Mouth Do Do",
+    "jp": "Da Zuiba Dudu"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5962/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5962",
+    "anilist/anime": "9955",
+    "aozora": "ppop5jx94o",
+    "myanimelist/anime": "9955"
+  }
+}

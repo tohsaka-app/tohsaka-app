@@ -1,0 +1,24 @@
+{
+  "slug": "in-the-sea-and-near-a-girl",
+  "synopsis": "Short animation by Masanobu Hiraoka with music and sound design by Aimar Molero.",
+  "title": {
+    "en": "In the sea and near a girl.",
+    "jp": "in the sea and near a girl."
+  },
+  "releasedAt": "2014-08-19T00:00:00.000Z",
+  "finishedAt": "2014-08-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45085/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45085",
+    "anilist/anime": "107944",
+    "myanimelist/anime": "39179"
+  }
+}

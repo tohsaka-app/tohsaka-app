@@ -1,0 +1,21 @@
+{
+  "slug": "saiyuki-reload-urasai",
+  "synopsis": "Comedy shorts featuring Saiyuki's main characters.",
+  "title": {
+    "en": null,
+    "jp": "Saiyuki Reload Urasai"
+  },
+  "releasedAt": "2003-12-25T00:00:00.000Z",
+  "finishedAt": "2004-04-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4560/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4560"
+  }
+}

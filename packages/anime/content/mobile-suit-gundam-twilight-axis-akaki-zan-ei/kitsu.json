@@ -1,0 +1,21 @@
+{
+  "slug": "mobile-suit-gundam-twilight-axis-akaki-zan-ei",
+  "synopsis": "Compilation film of <i>Mobile Suit Gundam: Twilight Axis</i>.",
+  "title": {
+    "jp": "Mobile Suit Gundam: Twilight Axis - Akaki Zan-ei"
+  },
+  "releasedAt": "2017-11-18T00:00:00.000Z",
+  "finishedAt": "2017-11-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40948/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40948",
+    "anilist/anime": "104557",
+    "aozora": "nPFZpkreKA",
+    "myanimelist/anime": "36436"
+  }
+}

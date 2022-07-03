@@ -1,0 +1,25 @@
+{
+  "slug": "ton-ton-ton",
+  "synopsis": "Music video for the song Ton Ton Ton by Peggy Hayama that was featured on NHK's Minna no Uta program. The video features art by Yuu Iijima that was animated by Tetsu Suzuki.",
+  "title": {
+    "jp": "Ton Ton Ton"
+  },
+  "releasedAt": "2012-08-01T00:00:00.000Z",
+  "finishedAt": "2012-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45467/poster_image/feb8365eb481d36405c64d6b06cb3d72.jpg",
+  "categories": [
+    "fantasy",
+    "historical",
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45467",
+    "anilist/anime": "125207",
+    "myanimelist/anime": "42863"
+  }
+}

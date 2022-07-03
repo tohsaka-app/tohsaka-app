@@ -1,0 +1,26 @@
+{
+  "slug": "ohedo-julia-night",
+  "synopsis": "Music video for the song Ohedo Julia-Night by Mitchie M, with vocals by Hatsune Miku and KAITO. This song was made for Hatsune Miku’s 10th anniversary and is included on the album \"Re:start\".\n\nThis song is a heavy blend between the colors of the 1990's Heisei period and 1690's Edo period of Japan. The duo Miku and KAITO are depicted to travel back to the 1690's and party at the \"Juliana's Edo\" discotheque (a parody of the 1990's \"Juliana's Tokyo\").",
+  "title": {
+    "jp": "Ohedo Julia-Night"
+  },
+  "releasedAt": "2017-09-01T00:00:00.000Z",
+  "finishedAt": "2017-09-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42505/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42505/original.png",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=y3yyYYLyVzw"
+  ],
+  "relations": {
+    "kitsu": "42505",
+    "anilist/anime": "128960",
+    "myanimelist/anime": "36258"
+  }
+}

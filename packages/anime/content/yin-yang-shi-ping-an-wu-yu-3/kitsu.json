@@ -1,0 +1,23 @@
+{
+  "slug": "yin-yang-shi-ping-an-wu-yu-3",
+  "synopsis": "The third season of Onmyouji: Heian Monogatari.",
+  "title": {},
+  "releasedAt": "2022-01-25T00:00:00.000Z",
+  "finishedAt": "2022-04-05T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45969/poster_image/68b9eb3fb27d56273f4e7e831e1a18b2.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45969",
+    "anilist/anime": "143485",
+    "myanimelist/anime": "51183"
+  }
+}

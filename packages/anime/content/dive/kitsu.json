@@ -1,0 +1,27 @@
+{
+  "slug": "dive",
+  "synopsis": "The series revolves around the Mizuki Diving Club (MDC), which is on the verge of closing down after having financial troubles. The club's new coach persuades the club's parent company to stay open on one condition: that the club sends one of its members to next year's olympics as part of Japan's olympic team.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Dive!!"
+  },
+  "releasedAt": "2017-07-07T00:00:00.000Z",
+  "finishedAt": "2017-09-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13007/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13007/original.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13007",
+    "anidb": "12652",
+    "anilist/anime": "97921",
+    "aozora": "YGBkkVCbF2",
+    "myanimelist/anime": "34543",
+    "thetvdb": "321691/1"
+  }
+}

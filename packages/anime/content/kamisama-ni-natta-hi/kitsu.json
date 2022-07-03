@@ -1,0 +1,27 @@
+{
+  "slug": "kamisama-ni-natta-hi",
+  "synopsis": "The anime series centers on Hina, a girl who awakens as a God and foresees the \"end of the world.\" She chooses a lone boy as her companion, who will spend time with her till the very end.",
+  "title": {
+    "en": "The Day I Became a God",
+    "jp": "Kamisama ni Natta Hi"
+  },
+  "releasedAt": "2020-10-11T00:00:00.000Z",
+  "finishedAt": "2020-12-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43204/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43204/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/the-day-i-became-a-god"
+  ],
+  "relations": {
+    "kitsu": "43204",
+    "anilist/anime": "118419",
+    "myanimelist/anime": "41930"
+  }
+}

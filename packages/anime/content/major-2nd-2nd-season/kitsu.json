@@ -1,0 +1,28 @@
+{
+  "slug": "major-2nd-2nd-season",
+  "synopsis": "One young boy aims to become the best baseball catcher on his middle school team!(Source: Crunchyroll)",
+  "title": {
+    "jp": "Major 2nd (TV) 2nd Season"
+  },
+  "releasedAt": "2020-04-04T00:00:00.000Z",
+  "finishedAt": "2020-11-07T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43109/original.png",
+  "categories": [
+    "baseball",
+    "comedy",
+    "drama",
+    "shounen",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/major-2nd"
+  ],
+  "relations": {
+    "kitsu": "43109",
+    "anilist/anime": "112302",
+    "myanimelist/anime": "40504"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "gomen-yo-wanwan",
+  "synopsis": "Kids playing playing kick-the-can accidentally hit a dog. Who chases them across town. They try to beg forgiveness from it.",
+  "title": {
+    "jp": "Gomen yo! Wanwan"
+  },
+  "releasedAt": "1993-12-01T00:00:00.000Z",
+  "finishedAt": "1993-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40904/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40904",
+    "aozora": "kZdTSZMDOG",
+    "myanimelist/anime": "36352"
+  }
+}

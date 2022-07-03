@@ -1,0 +1,26 @@
+{
+  "slug": "kaiketsu-zorori-movie-uchuu-no-yuusha-tachi",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Kaiketsu Zorori Movie: Uchuu no Yuusha-tachi"
+  },
+  "releasedAt": "2015-09-12T00:00:00.000Z",
+  "finishedAt": "2015-09-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10817/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10817",
+    "anidb": "11133",
+    "anilist/anime": "21095",
+    "aozora": "9V09TXzOsf",
+    "myanimelist/anime": "30313"
+  }
+}

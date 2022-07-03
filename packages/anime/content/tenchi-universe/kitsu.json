@@ -1,0 +1,39 @@
+{
+  "slug": "tenchi-universe",
+  "synopsis": "Tenchi Masaki may be a 17-year-old young man in rural Japan, but little does he know how bad his day will be getting. When a space pirate chased by a pair of Galaxy Police officers crash-lands at his grandfather's temple, Tenchi is sucked into a new adventure that will literally blast him off into outer space and beyond. \n(Source: ANN)",
+  "title": {
+    "jp": "Tenchi Muyou!"
+  },
+  "releasedAt": "1995-04-02T00:00:00.000Z",
+  "finishedAt": "1995-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/637/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/637/original.jpeg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "harem",
+    "love polygon",
+    "other planet",
+    "romance",
+    "science fiction",
+    "space"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/tenchi-muyo-tenchi-universe",
+    "http://www.funimation.com/shows/tenchi-muyo-tenchi-universe"
+  ],
+  "relations": {
+    "kitsu": "637",
+    "anidb": "409",
+    "anilist/anime": "696",
+    "aozora": "kLpIymI48t",
+    "hulu": "50009110",
+    "myanimelist/anime": "696",
+    "thetvdb": "79620/1",
+    "thetvdb/series": "79620",
+    "trakt": "20358"
+  }
+}

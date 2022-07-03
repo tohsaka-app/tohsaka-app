@@ -1,0 +1,24 @@
+{
+  "slug": "manga-kotowaja-jiten",
+  "synopsis": "An educational anime, each episode contains three short stories.\n(Source: AniDB)",
+  "title": {
+    "jp": "Manga Kotowaja Jiten"
+  },
+  "releasedAt": "1980-10-11T00:00:00.000Z",
+  "finishedAt": "1982-06-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12375/original.jpg",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12375",
+    "anidb": "4961",
+    "aozora": "XnCGZ2YRQ6",
+    "myanimelist/anime": "33300"
+  }
+}

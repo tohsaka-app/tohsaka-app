@@ -1,0 +1,27 @@
+{
+  "slug": "overlord-ple-ple-pleiades-ova",
+  "synopsis": "Bundled with novel series' 11th volume.\nThe new anime will feature the appearance of the Pleiades combat maids, as well as the rest of the Floor Guardians.\n(Source: ANN)",
+  "title": {
+    "jp": "Overlord: Ple Ple Pleiades (OVA)"
+  },
+  "releasedAt": "2016-09-30T00:00:00.000Z",
+  "finishedAt": "2016-09-30T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12239/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12239",
+    "anidb": "12147",
+    "anilist/anime": "87489",
+    "aozora": "SQZjuUBVv9",
+    "myanimelist/anime": "33372"
+  }
+}

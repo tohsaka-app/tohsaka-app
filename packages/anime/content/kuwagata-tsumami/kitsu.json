@@ -1,0 +1,25 @@
+{
+  "slug": "kuwagata-tsumami",
+  "synopsis": "Tsumami is the half-human, half stag beetle daughter of a female fashion model and a big male stag beetle. She has jaws on top of her head and loves to eat watermelons. She is a troublemaker, causing problems to other people!",
+  "title": {
+    "en": "Stag Beetle Tsumami",
+    "jp": "Kuwagata Tsumami"
+  },
+  "releasedAt": "2005-07-01T00:00:00.000Z",
+  "finishedAt": "2010-11-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8880/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8880",
+    "anidb": "9095",
+    "anilist/anime": "18773",
+    "aozora": "EfUKFumO6O",
+    "myanimelist/anime": "18773"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "katekyo-hitman-reborn-special",
+  "synopsis": "An internet-only stand-alone special episode of Katekyo Hitman Reborn! on the Shounen-Jump website, where the main characters go to various tourist spots in Japan. It will be made available on DVD in July 2010, and extra scenes will be included.",
+  "title": {
+    "jp": "Katekyo Hitman Reborn! Special"
+  },
+  "releasedAt": "2010-03-01T00:00:00.000Z",
+  "finishedAt": "2010-03-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5376/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5376",
+    "anilist/anime": "8532",
+    "aozora": "GDt0TNxBwk",
+    "myanimelist/anime": "8532"
+  }
+}

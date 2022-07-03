@@ -1,0 +1,26 @@
+{
+  "slug": "popee-the-performer-countdown-special",
+  "synopsis": "A special comprised of 8 shorts, aired to celebrate the new year of 2003.",
+  "title": {
+    "en": "Popee the Performer: Countdown Special",
+    "jp": "Popee the Performer: Countdown Special"
+  },
+  "releasedAt": "2002-12-31T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45479/poster_image/0b213987bd3e52539b7e02604d1d94f7.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45479",
+    "anilist/anime": "136638",
+    "myanimelist/anime": "39780"
+  }
+}

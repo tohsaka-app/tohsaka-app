@@ -1,0 +1,29 @@
+{
+  "slug": "sengoku-kitan-youtouden",
+  "synopsis": "In the year 1580, a man named Lord Nobunaga Oda sends hoards of unholy armies across Japan, slaying all who stand in their way. A young ninja escapes her villages' destruction with a short sword, one of the three mystical weapons that can end Oda's rule. During her quest, she is joined by two other ninjas who wield the other two weapons of legend, the sacred sword and spear. \n(Source: ANN) ",
+  "title": {
+    "en": "Yotoden: Chronicle of the Warlord Period",
+    "jp": "Sengoku Kitan Youtouden"
+  },
+  "releasedAt": "1987-05-21T00:00:00.000Z",
+  "finishedAt": "1988-11-05T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3134/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "martial arts",
+    "ninja",
+    "sengoku period"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3134",
+    "anidb": "3164",
+    "anilist/anime": "3600",
+    "aozora": "Q0YTBJ76Ko",
+    "myanimelist/anime": "3600"
+  }
+}

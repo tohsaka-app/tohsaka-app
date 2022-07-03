@@ -1,0 +1,27 @@
+{
+  "slug": "peeping-life-tv-season-1",
+  "synopsis": "This \"slow-life anime\" is part of the datsuryoku-kei (ennui-style) genre of comedy that depicts the minutiae of everyday life. The series observes the daily lives of Heroes from the worlds of Tezuka Production and Tatsunoko Production, \"evolved\" for their modern TV appearances, and combines motion-captured improvised acting with computer animation into a series of comedy shorts.\n(Source: ANN)",
+  "title": {
+    "jp": "Peeping Life TV: Season 1??"
+  },
+  "releasedAt": "2015-10-04T00:00:00.000Z",
+  "finishedAt": "2015-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11385/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11385/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11385",
+    "anidb": "11550",
+    "anilist/anime": "21347",
+    "aozora": "TtLvBpAiRG",
+    "myanimelist/anime": "31549",
+    "trakt": "78977"
+  }
+}

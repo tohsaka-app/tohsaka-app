@@ -1,0 +1,24 @@
+{
+  "slug": "there-was-a-man",
+  "synopsis": "An one-armed mountaineer encounters a lost arm on a mountain of salt. Who did it belong to? Why was it left there?\n\nGraduate Work 2017 by Moeka YAMAZAKI, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "There was a man",
+    "jp": "There was a man"
+  },
+  "releasedAt": "2019-07-31T00:00:00.000Z",
+  "finishedAt": "2019-07-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44654/original.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/k7VH2DhdB3M"
+  ],
+  "relations": {
+    "kitsu": "44654",
+    "anilist/anime": "111344"
+  }
+}

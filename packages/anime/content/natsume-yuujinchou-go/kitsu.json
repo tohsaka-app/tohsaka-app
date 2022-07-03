@@ -1,0 +1,36 @@
+{
+  "slug": "natsume-yuujinchou-go",
+  "synopsis": "Takashi Natsume is a boy who's been able to see youkai ever since he was a child. Ever since he inherited the \"Book of Friends\" from his grandmother Reiko, he and his self-proclaimed bodyguard Nyanko-sensei have spent their days returning names to the youkai who are bound by the book. As he meets the different youkai and people, he finds himself with many more things that he cares about. He wonders whether it's right to keep secrets to protect someone as little by little he works up the courage to build even more friendships.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Natsume's Book of Friends Season 5",
+    "jp": "Natsume Yuujinchou Go"
+  },
+  "releasedAt": "2016-10-05T00:00:00.000Z",
+  "finishedAt": "2016-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11950/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11950/original.png",
+  "categories": [
+    "contemporary fantasy",
+    "demon",
+    "fantasy",
+    "japan",
+    "present",
+    "shoujo",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/natsume-yujin-cho-5"
+  ],
+  "relations": {
+    "kitsu": "11950",
+    "anidb": "12009",
+    "anilist/anime": "21710",
+    "aozora": "gAL1EaN6EK",
+    "myanimelist/anime": "32983",
+    "thetvdb": "82788",
+    "trakt": "57330"
+  }
+}

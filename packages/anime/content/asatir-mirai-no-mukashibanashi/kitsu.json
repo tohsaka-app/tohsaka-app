@@ -1,0 +1,27 @@
+{
+  "slug": "asatir-mirai-no-mukashibanashi",
+  "synopsis": "A Saudi Arabian original produced as part of Saudi Vision 2030. The Arabic dub of episode 1 premiered on MBC in the Arab world and the US on the 25th of January 2020.\n\nIn 2050 Riyadh, a grandmother named Asma takes her cherished grandchildren on a whirlwind journey to the past, showcasing the heritage and history of the Arabian Peninsula through retellings of the region’s most beloved folktales. With the help of their robotic cat, Anis, the children learn that their modern-day dilemmas are no match for the words of wisdom passed from generation to generation through their grandmother’s fascinating stories.\n\n(Source: Sentai Filmworks)",
+  "title": {
+    "en": "Future's Folktales",
+    "jp": "Asatir: Mirai no Mukashibanashi"
+  },
+  "releasedAt": "2020-04-04T00:00:00.000Z",
+  "finishedAt": "2020-06-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43103/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/future-folktales"
+  ],
+  "relations": {
+    "kitsu": "43103",
+    "anilist/anime": "117096",
+    "myanimelist/anime": "41558"
+  }
+}

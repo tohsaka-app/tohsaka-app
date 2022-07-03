@@ -1,0 +1,28 @@
+{
+  "slug": "gegege-no-kitarou-kitarou-no-yuurei-densha",
+  "synopsis": "Kitarou and the ghost train.",
+  "title": {
+    "en": "Gegege no Kitarou: Kitarou's Ghost Train",
+    "jp": "Gegege no Kitarou: Kitarou no Yuurei Densha"
+  },
+  "releasedAt": "1999-03-20T00:00:00.000Z",
+  "finishedAt": "1999-03-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5358/original.jpg",
+  "categories": [
+    "adventure",
+    "demon",
+    "fantasy",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5358",
+    "anidb": "7455",
+    "anilist/anime": "8493",
+    "aozora": "6NCMtnONVr",
+    "myanimelist/anime": "8493"
+  }
+}

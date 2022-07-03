@@ -1,0 +1,33 @@
+{
+  "slug": "jagainu-kun",
+  "synopsis": "Known in Japan as Jagainu-kun, Dogtato is the heartwarming tale of a dog that`s really a potato...or a potato that`s really a dog. Or something. (Jagaimo = potato, inu = dog, thus the name Jagainu/Dogtato.) Dogtato`s world is full of his lovable half-veggie, half-animal friends who are always getting into wacky hijinks and misadventures.\n(Source: AniDB)",
+  "title": {
+    "jp": "Jagainu-kun"
+  },
+  "releasedAt": "2004-04-04T00:00:00.000Z",
+  "finishedAt": "2004-07-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1656/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1656",
+    "anidb": "1746",
+    "anilist/anime": "1839",
+    "aozora": "gzPcN6MH3L",
+    "myanimelist/anime": "1839",
+    "thetvdb": "84212/1",
+    "thetvdb/series": "84212",
+    "trakt": "9620"
+  }
+}

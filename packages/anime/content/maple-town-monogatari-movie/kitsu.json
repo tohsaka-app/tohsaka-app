@@ -1,0 +1,20 @@
+{
+  "slug": "maple-town-monogatari-movie",
+  "synopsis": "There is currently no synopsis for this title.",
+  "title": {
+    "jp": "Maple Town Monogatari (Movie)"
+  },
+  "releasedAt": "1986-07-12T00:00:00.000Z",
+  "finishedAt": "1986-07-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40620/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40620",
+    "aozora": "4IRhCBHekd",
+    "myanimelist/anime": "34826"
+  }
+}

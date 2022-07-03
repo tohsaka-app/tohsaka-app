@@ -1,0 +1,28 @@
+{
+  "slug": "kokoro-yohou",
+  "synopsis": "Music video for Eve's new single Heart Forecast. Created as a commercial for Lotte Ghana chocolate \"Pink Valentine.\" The commercial features three of Lotte Ghana chocolate's original characters: Akane, Momo, and Yukie.",
+  "title": {
+    "en": "Heart Forecast",
+    "jp": "Kokoro Yohou"
+  },
+  "releasedAt": "2020-01-30T00:00:00.000Z",
+  "finishedAt": "2020-01-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42973/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42973/original.jpg",
+  "categories": [
+    "music",
+    "romance",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=dJf4wCdLU18"
+  ],
+  "relations": {
+    "kitsu": "42973",
+    "anilist/anime": "115036",
+    "myanimelist/anime": "41195"
+  }
+}

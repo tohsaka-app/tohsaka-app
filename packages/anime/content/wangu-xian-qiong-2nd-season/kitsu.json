@@ -1,0 +1,24 @@
+{
+  "slug": "wangu-xian-qiong-2nd-season",
+  "synopsis": "The second season of Wangu Xian Qiong.",
+  "title": {
+    "en": "Everlasting Immortal Firmament 2nd Season"
+  },
+  "releasedAt": "2018-03-15T00:00:00.000Z",
+  "finishedAt": "2018-05-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41157/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41157",
+    "anilist/anime": "102576",
+    "myanimelist/anime": "37294"
+  }
+}

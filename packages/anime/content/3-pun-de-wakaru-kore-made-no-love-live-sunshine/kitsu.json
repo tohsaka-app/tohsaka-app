@@ -1,0 +1,28 @@
+{
+  "slug": "3-pun-de-wakaru-kore-made-no-love-live-sunshine",
+  "synopsis": "3 minute special recap to promote the movie Love Live! Sunshine!! The School Idol Movie: Over the Rainbow.\n",
+  "title": {
+    "jp": "3-pun de Wakaru! Kore made no Love Live! Sunshine!!"
+  },
+  "releasedAt": "2018-11-18T00:00:00.000Z",
+  "finishedAt": "2018-11-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42980/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42980/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "school life",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=bzholCUY0VQ"
+  ],
+  "relations": {
+    "kitsu": "42980",
+    "myanimelist/anime": "41189"
+  }
+}

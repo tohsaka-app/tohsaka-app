@@ -1,0 +1,44 @@
+{
+  "slug": "naruto-shippuden",
+  "synopsis": "It has been two and a half years since Naruto Uzumaki left Konohagakure, the Hidden Leaf Village, for intense training following events which fueled his desire to be stronger. Now Akatsuki, the mysterious organization of elite rogue ninja, is closing in on their grand plan which may threaten the safety of the entire shinobi world.\n\nAlthough Naruto is older and sinister events loom on the horizon, he has changed little in personality—still rambunctious and childish—though he is now far more confident and possesses an even greater determination to protect his friends and home. Come whatever may, Naruto will carry on with the fight for what is important to him, even at the expense of his own body, in the continuation of the saga about the boy who wishes to become Hokage.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Naruto: Shippuden",
+    "jp": "Naruto: Shippuuden"
+  },
+  "releasedAt": "2007-02-15T00:00:00.000Z",
+  "finishedAt": "2017-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1555/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1555/original.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "comedy",
+    "fantasy world",
+    "love polygon",
+    "martial arts",
+    "ninja",
+    "plot continuity",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/naruto-shippuden",
+    "http://www.hulu.com/naruto-shippuden",
+    "https://vrv.co/series/GYQ4MW246/Naruto-Shippuden",
+    "https://www.animelab.com/shows/naruto-shippuden"
+  ],
+  "relations": {
+    "kitsu": "1555",
+    "anidb": "4880",
+    "anilist/anime": "1735",
+    "aozora": "9cehSXuuGQ",
+    "hulu": "10960",
+    "myanimelist/anime": "1735",
+    "thetvdb": "79824/1",
+    "thetvdb/series": "79824",
+    "trakt": "31770"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "bero-dashi-chonma",
+  "synopsis": "Based on a novel by Ryusuke Saito.\nAn educational film about oppressed farmers in the Edo period who tried to better themselves only to get crucified. ",
+  "title": {
+    "en": "Chonma Sticks His Tongue Out",
+    "jp": "Bero-dashi Chonma"
+  },
+  "releasedAt": "1987-01-01T00:00:00.000Z",
+  "finishedAt": "1987-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11074/original.jpg",
+  "categories": [
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11074",
+    "aozora": "rAYDjCundf",
+    "myanimelist/anime": "30984"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "lemon-angel-1988",
+  "synopsis": "The sequel of the Cream Lemon: Lemon Angel.  ",
+  "title": {
+    "en": "Lemon Angel (1988)",
+    "jp": "Lemon Angel (1988)"
+  },
+  "releasedAt": "1988-02-03T00:00:00.000Z",
+  "finishedAt": "1988-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2889/original.jpg",
+  "categories": [
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2889",
+    "anidb": "4211",
+    "anilist/anime": "3259",
+    "aozora": "3sL6llJIc3",
+    "myanimelist/anime": "3259"
+  }
+}

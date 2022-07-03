@@ -1,0 +1,23 @@
+{
+  "slug": "boku-no-imouto-wa-osaka-okan-uchi-no-onii-chan-wa-tokyo-rule",
+  "synopsis": "Special episode bundled with the BD.",
+  "title": {
+    "jp": "Boku no Imouto wa \"Osaka Okan\": Uchi no Oniichan wa Tokyo Rule"
+  },
+  "releasedAt": "2013-04-19T00:00:00.000Z",
+  "finishedAt": "2013-04-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8582/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8582",
+    "anilist/anime": "18419",
+    "aozora": "RZiCOY4NPZ",
+    "myanimelist/anime": "18419"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "chainsaw-man",
+  "synopsis": "Denji is a teenage boy living with a Chainsaw Devil named Pochita. Due to the debt his father left behind, he has been living a rock-bottom life while repaying his debt by harvesting devil corpses with Pochita.\n\nOne day, Denji is betrayed and killed. As his consciousness fades, he makes a contract with Pochita and gets revived as \"Chainsaw Man\" — a man with a devil's heart.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Chainsaw Man",
+    "jp": "Chainsaw Man"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43806/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "demon",
+    "horror",
+    "juujin",
+    "magic",
+    "shounen",
+    "supernatural",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43806",
+    "anilist/anime": "127230",
+    "myanimelist/anime": "44511"
+  }
+}

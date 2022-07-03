@@ -1,0 +1,28 @@
+{
+  "slug": "kawa-no-hikari",
+  "synopsis": "A story of a rat family who have to leave their home because humans start a construction site. Now the rats are searching for a place to stay.",
+  "title": {
+    "jp": "Kawa no Hikari"
+  },
+  "releasedAt": "2009-06-20T00:00:00.000Z",
+  "finishedAt": "2009-06-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4607/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "japan",
+    "kids",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4607",
+    "anidb": "6580",
+    "anilist/anime": "6554",
+    "aozora": "US8h6lLQuI",
+    "myanimelist/anime": "6554"
+  }
+}

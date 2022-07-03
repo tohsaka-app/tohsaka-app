@@ -1,0 +1,38 @@
+{
+  "slug": "souten-no-ken",
+  "synopsis": "A mysterious man known as \"the King of Death\" roams the streets of pre-war Shanghai in this action-packed prequel to Fist of the North Star.\nShanghai in the 1930s is a dangerous place. Foreign governments and Chinese factions have carved the city into different quarters, each with its own laws and government, and all rife with corruption. As the major powers vie for political control, the streets are left to local gangs. Life is cheap, and death is always near.\nIn days past, one man walked these mean streets battling the forces of evil. He was known only as Yan Wang, \"the King of Death.\" Few knew who he really was, but many knew that he was a master of Hokuto Shinken - Fist of the North Star - a lethal martial art. He disappeared years ago after dispatching the city's worst gangsters, and is now rumored to be in Japan. Various people have come to Japan in search of him, but who will find him first?",
+  "title": {
+    "en": "Fist of the Blue Sky",
+    "jp": "Souten no Ken"
+  },
+  "releasedAt": "2006-10-05T00:00:00.000Z",
+  "finishedAt": "2007-03-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1382/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "china",
+    "crime",
+    "drama",
+    "earth",
+    "historical",
+    "martial arts",
+    "past",
+    "plot continuity",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1382",
+    "anidb": "4750",
+    "anilist/anime": "1541",
+    "aozora": "07ZBNOFTm7",
+    "myanimelist/anime": "1541",
+    "thetvdb": "85192/1",
+    "thetvdb/series": "85192",
+    "trakt": "65761"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "sakura-nagashi",
+  "synopsis": "Singer Hikaru Utada's YouTube channel began streaming a music video for her song \"Sakura Nagashi,\" the theme song for Evangelion: 3.33 You Can (Not) Redo, set to scenes from the film. The music video features cuts that were not used in the original film. The video was available for 24 hours.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Sakura Nagashi"
+  },
+  "releasedAt": "2016-09-18T00:00:00.000Z",
+  "finishedAt": "2016-09-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12552/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "mecha",
+    "music",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12552",
+    "anidb": "12423",
+    "anilist/anime": "101092",
+    "aozora": "ivbsisWArN",
+    "myanimelist/anime": "34085"
+  }
+}

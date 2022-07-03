@@ -1,0 +1,30 @@
+{
+  "slug": "alps-no-shoujo-heidi-heidi-to-clara-hen",
+  "synopsis": "Condensed version of the second half of the TV series.",
+  "title": {
+    "jp": "Alps no Shoujo Heidi: Heidi to Clara-hen"
+  },
+  "releasedAt": "1996-08-21T00:00:00.000Z",
+  "finishedAt": "1996-08-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5789/original.jpg",
+  "categories": [
+    "earth",
+    "europe",
+    "friendship",
+    "historical",
+    "past",
+    "plot continuity",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5789",
+    "anidb": "7659",
+    "anilist/anime": "9549",
+    "aozora": "38rBuSPSzW",
+    "myanimelist/anime": "9549"
+  }
+}

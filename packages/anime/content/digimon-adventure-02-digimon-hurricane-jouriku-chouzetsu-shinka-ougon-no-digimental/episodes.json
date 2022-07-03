@@ -1,0 +1,22 @@
+[
+  {
+    "title": {
+      "jp": "Zenpen: Digimon Hurricane Jouriku!!"
+    },
+    "synopsis": "Part 1.",
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2000-07-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kouhen: Chouzetsu Shinka!! Ougon no Digimental"
+    },
+    "synopsis": "Part 2.",
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2000-07-08T00:00:00.000Z",
+    "content": {}
+  }
+]

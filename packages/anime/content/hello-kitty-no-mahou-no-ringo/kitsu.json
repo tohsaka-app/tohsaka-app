@@ -1,0 +1,26 @@
+{
+  "slug": "hello-kitty-no-mahou-no-ringo",
+  "synopsis": "Kitty yearns for a magical adventure and suddenly gets one when a magic apple turns her into a princess.",
+  "title": {
+    "en": "Hello Kitty in The Magic Apple",
+    "jp": "Hello Kitty no Mahou no Ringo"
+  },
+  "releasedAt": "1992-09-21T00:00:00.000Z",
+  "finishedAt": "1992-09-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9850/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9850",
+    "anidb": "7777",
+    "aozora": "z3GvMdF0s2",
+    "myanimelist/anime": "22479"
+  }
+}

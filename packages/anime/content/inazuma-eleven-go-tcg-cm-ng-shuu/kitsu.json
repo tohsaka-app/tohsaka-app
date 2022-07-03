@@ -1,0 +1,23 @@
+{
+  "slug": "inazuma-eleven-go-tcg-cm-ng-shuu",
+  "synopsis": "Compilation and bloopers of the Inazuma Eleven Go Trading Card Game commercials presented by Wonderbot.",
+  "title": {
+    "jp": "Inazuma Eleven Go: TCG CM NG-shuu"
+  },
+  "releasedAt": "2012-11-22T00:00:00.000Z",
+  "finishedAt": "2012-11-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7559/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7559",
+    "anilist/anime": "16964",
+    "aozora": "eF81Ro1SJy",
+    "myanimelist/anime": "16964"
+  }
+}

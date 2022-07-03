@@ -1,0 +1,25 @@
+{
+  "slug": "souseiki",
+  "synopsis": "This is a short film parodying the major Hollywood film \"The Creation\" directed by John Houston. This film has the look of a tongue-in-cheek production, done on a small budget by animators who wanted to make fun of great works that cost enormous sums of money.\n(Source: ANN)",
+  "title": {
+    "en": "The Genesis",
+    "jp": "Souseiki"
+  },
+  "releasedAt": "1968-10-01T00:00:00.000Z",
+  "finishedAt": "1968-10-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3035/original.jpg",
+  "categories": [
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3035",
+    "anidb": "3477",
+    "anilist/anime": "3473",
+    "aozora": "5TCegJAH0j",
+    "myanimelist/anime": "3473"
+  }
+}

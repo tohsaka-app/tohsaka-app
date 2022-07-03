@@ -1,0 +1,20 @@
+{
+  "slug": "fettu-to-ccine-to-gummi-seijin",
+  "synopsis": "A promotional web anime created for the company Bourbon.",
+  "title": {
+    "jp": "Fettu to Ccine to Gummi Seijin"
+  },
+  "releasedAt": "2015-03-01T00:00:00.000Z",
+  "finishedAt": "2015-03-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40978/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40978",
+    "aozora": "8BjaGCLFSy",
+    "myanimelist/anime": "36579"
+  }
+}

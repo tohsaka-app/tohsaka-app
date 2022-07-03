@@ -1,0 +1,37 @@
+{
+  "slug": "natsuiro-kiseki",
+  "synopsis": "Yuka, Rinko, Saki, and Natsumi are childhood friends and classmates nearing the end of their second year of middle school and eagerly awaiting their summer break. Unfortunately, it's a bittersweet time for this close-knit group, as Saki is transferring to another school.\nThe girls are determined to keep the spirit of their friendship alive, even if only for this summer. They reminisce about a large stone the four of them used to visit, tucked away in an old Shinto shrine, and the belief that if four friends gathered around it and made a single wish, it would come true. Now, much to their surprise, they discover that old folktale is true.Natsu-iro Kiseki follows the magical events the girls go through during this last summer they’ll all spend together. As friendships get tested, and fantasies are fulfilled, the four classmates will end up learning a great deal about themselves and each other on the path to forging a summer that they’ll never forget.",
+  "title": {
+    "jp": "Natsu-iro Kiseki"
+  },
+  "releasedAt": "2012-04-06T00:00:00.000Z",
+  "finishedAt": "2012-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6667/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6667/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "coming of age",
+    "contemporary fantasy",
+    "earth",
+    "friendship",
+    "japan",
+    "present",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6667",
+    "anidb": "8804",
+    "anilist/anime": "12119",
+    "aozora": "xsiaMXJVVK",
+    "myanimelist/anime": "12119",
+    "thetvdb": "257519/1",
+    "thetvdb/series": "257519",
+    "trakt": "45785"
+  }
+}

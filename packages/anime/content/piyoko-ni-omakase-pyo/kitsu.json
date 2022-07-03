@@ -1,0 +1,25 @@
+{
+  "slug": "piyoko-ni-omakase-pyo",
+  "synopsis": "Leave it to Piyoko! Move over, Di Gi Charat! \nPiyoko and the Black Gema Gema Gang star in this new OVA series. From the Planet Analogue to Earth, the Black Gema Gema Gang try to kidnap Dejiko and hold her ransom to find their dream of a prosperous home! \n(Source: AniDB) ",
+  "title": {
+    "jp": "Piyoko ni Omakase pyo!"
+  },
+  "releasedAt": "2003-03-21T00:00:00.000Z",
+  "finishedAt": "2003-05-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1568/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1568",
+    "anidb": "3991",
+    "anilist/anime": "1748",
+    "aozora": "aH7DzUigau",
+    "myanimelist/anime": "1748"
+  }
+}

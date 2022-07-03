@@ -1,0 +1,35 @@
+{
+  "slug": "free-starting-days",
+  "synopsis": "A prequel to the 2013 Kyoto Animation series Free! which is an adaptation of light novel High☆Speed!",
+  "title": {
+    "en": "Free! Starting Days",
+    "jp": "High☆Speed!: Free! Starting Days"
+  },
+  "releasedAt": "2015-12-05T00:00:00.000Z",
+  "finishedAt": "2015-12-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10761/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10761/original.png",
+  "categories": [
+    "bishounen",
+    "middle school",
+    "school clubs",
+    "school life",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/free/?qid=#videos"
+  ],
+  "relations": {
+    "kitsu": "10761",
+    "anidb": "11155",
+    "anilist/anime": "21158",
+    "aozora": "8ud3q7Qg77",
+    "myanimelist/anime": "30415",
+    "thetvdb": "270065",
+    "trakt": "70834"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "dr-slump-arale-chan-penguin-mura-no-shouboutai",
+  "synopsis": "",
+  "title": {
+    "jp": "Dr. Slump: Arale-chan - Penguin Mura no Shouboutai"
+  },
+  "releasedAt": "1984-01-01T00:00:00.000Z",
+  "finishedAt": "1984-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41516/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41516",
+    "anilist/anime": "139067",
+    "myanimelist/anime": "34878"
+  }
+}

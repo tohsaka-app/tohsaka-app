@@ -1,0 +1,40 @@
+{
+  "slug": "fate-stay-night-unlimited-blade-works-2014",
+  "synopsis": "Fuyuki City—a city surrounded by the ocean and the mountains becomes the setting for an age-old ritual. To realize the mythical Holy Grail, which is said to grant any wish from its possessor, seven masters are given seven heroic spirits chosen by the Grail... Each master will enter into a contract with their assigned servants and battle the other masters and servants to the death until only one pair remains… This is the “Holy Grail War.”\n\n(Source: Aniplex of America)",
+  "title": {
+    "en": "Fate/stay night [Unlimited Blade Works]",
+    "jp": "Fate/stay night: Unlimited Blade Works"
+  },
+  "releasedAt": "2014-10-12T00:00:00.000Z",
+  "finishedAt": "2014-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7882/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7882/original.jpg",
+  "categories": [
+    "action",
+    "battle royale",
+    "contemporary fantasy",
+    "fantasy",
+    "magic",
+    "plot continuity",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/fatestay-night",
+    "https://www.hulu.com/fatestay-night-unlimited-blade-works",
+    "https://www.netflix.com/title/80040330"
+  ],
+  "relations": {
+    "kitsu": "7882",
+    "anidb": "9977",
+    "anilist/anime": "19603",
+    "aozora": "i7NiUMsaxB",
+    "myanimelist/anime": "22297",
+    "thetvdb": "278626/1",
+    "thetvdb/series": "278626",
+    "trakt": "60893"
+  }
+}

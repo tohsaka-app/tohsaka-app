@@ -1,0 +1,23 @@
+{
+  "slug": "hakimono-to-kasa-no-monogatari",
+  "synopsis": "A music video for the song by AKB48 that was featured on NHK's Minna no Uta Program. ",
+  "title": {
+    "jp": "Hakimono to Kasa no Monogatari"
+  },
+  "releasedAt": "2015-02-01T00:00:00.000Z",
+  "finishedAt": "2015-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10711/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10711",
+    "anilist/anime": "104471",
+    "aozora": "hdWLXZ2jkl",
+    "myanimelist/anime": "30199"
+  }
+}

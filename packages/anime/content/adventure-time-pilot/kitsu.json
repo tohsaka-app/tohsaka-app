@@ -1,0 +1,24 @@
+{
+  "slug": "adventure-time-pilot",
+  "synopsis": "The short focused on a boy named Pen and a dog named Jake as they learn from the Rainicorn that the Ice King has kidnapped Princess Bubblegum, in the hope of marrying her. Declaring that it's \"Adventure Time\", Pen and Jake set off to the Ice King's mountain lair.",
+  "title": {},
+  "releasedAt": "2007-01-11T00:00:00.000Z",
+  "finishedAt": "2007-01-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13761/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13761/original.jpg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "anthropomorphism",
+    "comedy",
+    "friendship",
+    "post apocalypse"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13761"
+  }
+}

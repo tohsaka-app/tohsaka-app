@@ -1,0 +1,40 @@
+{
+  "slug": "concrete-revolutio-choujin-gensou",
+  "synopsis": "What if superhumans were real? Even better, what if every fabled superhuman existed at the same time, in the same place? Titans from outer space, life forms from a mystical world, phantoms and goblins from ancient times, cyborgs created by scientists, relics that rose out of the ruins of ancient civilizations. In another Japan, it’s not just a question of \"what if\"—it's a reality.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Concrete Revolutio",
+    "jp": "Concrete Revolutio: Choujin Gensou"
+  },
+  "releasedAt": "2015-10-04T00:00:00.000Z",
+  "finishedAt": "2015-12-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11165/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11165/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "asia",
+    "demon",
+    "earth",
+    "fantasy",
+    "japan",
+    "mystery",
+    "present",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/concrete-revolutio/"
+  ],
+  "relations": {
+    "kitsu": "11165",
+    "anidb": "11343",
+    "anilist/anime": "21249",
+    "aozora": "OB02TvCdsQ",
+    "hulu": "50023670",
+    "myanimelist/anime": "31147",
+    "trakt": "101230"
+  }
+}

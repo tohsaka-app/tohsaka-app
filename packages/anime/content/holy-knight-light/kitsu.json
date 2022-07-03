@@ -1,0 +1,23 @@
+{
+  "slug": "holy-knight-light",
+  "synopsis": "An animated short for the Arknights smartphone game's 1-year anniversary.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Holy Knight Light"
+  },
+  "releasedAt": "2020-12-26T00:00:00.000Z",
+  "finishedAt": "2020-12-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43900/original.png",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43900",
+    "anilist/anime": "127957",
+    "myanimelist/anime": "45574"
+  }
+}

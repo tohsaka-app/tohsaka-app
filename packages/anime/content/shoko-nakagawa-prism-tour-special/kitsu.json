@@ -1,0 +1,22 @@
+{
+  "slug": "shoko-nakagawa-prism-tour-special",
+  "synopsis": "A Sunrise-produced special created for Shoko Nakagawa's 2010 Prism Tour.",
+  "title": {
+    "jp": "Shoko Nakagawa Prism Tour Special"
+  },
+  "releasedAt": "2010-04-01T00:00:00.000Z",
+  "finishedAt": "2010-04-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9591/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9591",
+    "aozora": "3o9y8xjImv",
+    "myanimelist/anime": "24789"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "nora",
+  "synopsis": "Nora is on vacation in a \"Holiday Inn\" space station. When the artificial gravity fails, the whole space resort becomes chaotic but she helps solve the problem. \n(Source: ANN)",
+  "title": {
+    "jp": "Nora"
+  },
+  "releasedAt": "1985-01-21T00:00:00.000Z",
+  "finishedAt": "1985-01-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1887/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1887",
+    "anidb": "3988",
+    "anilist/anime": "2088",
+    "aozora": "uosA0TQT6T",
+    "myanimelist/anime": "2088"
+  }
+}

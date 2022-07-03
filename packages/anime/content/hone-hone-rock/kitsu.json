@@ -1,0 +1,24 @@
+{
+  "slug": "hone-hone-rock",
+  "synopsis": "Music video for the song by Shimon Masato that was featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Hone Hone Rock"
+  },
+  "releasedAt": "1976-01-01T00:00:00.000Z",
+  "finishedAt": "1976-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10693/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10693",
+    "anidb": "11329",
+    "aozora": "SBRyLqGZsC",
+    "myanimelist/anime": "30162"
+  }
+}

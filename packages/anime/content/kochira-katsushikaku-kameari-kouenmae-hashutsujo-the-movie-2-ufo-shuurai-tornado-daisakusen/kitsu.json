@@ -1,0 +1,26 @@
+{
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-the-movie-2-ufo-shuurai-tornado-daisakusen",
+  "synopsis": "More movie mayhem for Ryoutsu. ",
+  "title": {
+    "jp": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie 2: UFO Shuurai! Tornado Daisakusen"
+  },
+  "releasedAt": "2003-12-20T00:00:00.000Z",
+  "finishedAt": "2003-12-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3092/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "cops"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3092",
+    "anidb": "3461",
+    "anilist/anime": "3547",
+    "aozora": "HaNY7z6dPS",
+    "myanimelist/anime": "3547"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sugai-kun-to-kazoku-ishi-the-movie",
+  "synopsis": "The Japanese animation production company Animax announced that Kaeruotoko-Shokai's second theatrical Flash-animated film, Sguy and The Family Stone the Movie, will open in a limited engagement in Japan on February 16.\n(Source: ANN)",
+  "title": {
+    "en": "Sguy and the Family Stone the Movie",
+    "jp": "Sugai-kun to Kazoku Ishi The Movie"
+  },
+  "releasedAt": "2008-02-16T00:00:00.000Z",
+  "finishedAt": "2008-02-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3116/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3116",
+    "anilist/anime": "3575",
+    "aozora": "JxYFZWEyGC",
+    "myanimelist/anime": "3575"
+  }
+}

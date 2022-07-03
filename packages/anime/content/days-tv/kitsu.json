@@ -1,0 +1,32 @@
+{
+  "slug": "days-tv",
+  "synopsis": "The series is about two boys named Tsukushi and Jin. Tsukushi is a boy with no special talent or traits while Jin is considered a soccer genius. On one stormy night, Jin meets Tsukushi, and they get dragged into the world of soccer.\n(Source: MAL News)",
+  "title": {
+    "en": "DAYS",
+    "jp": "Days (TV)"
+  },
+  "releasedAt": "2016-07-02T00:00:00.000Z",
+  "finishedAt": "2016-12-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11748/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11748/original.png",
+  "categories": [
+    "school life",
+    "soccer",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/school-days"
+  ],
+  "relations": {
+    "kitsu": "11748",
+    "anidb": "11875",
+    "anilist/anime": "21578",
+    "aozora": "f9iRQuCWPT",
+    "myanimelist/anime": "32494",
+    "thetvdb": "311149",
+    "trakt": "107460"
+  }
+}

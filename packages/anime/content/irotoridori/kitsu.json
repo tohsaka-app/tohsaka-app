@@ -1,0 +1,24 @@
+{
+  "slug": "irotoridori",
+  "synopsis": "A music video for Yuzu's song \"Irotoridori.\"",
+  "title": {
+    "en": "Irotoridori",
+    "jp": "Irotoridori"
+  },
+  "releasedAt": "2013-02-05T00:00:00.000Z",
+  "finishedAt": "2013-02-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41117/original.jpg",
+  "categories": [
+    "kids",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41117",
+    "myanimelist/anime": "37401"
+  }
+}

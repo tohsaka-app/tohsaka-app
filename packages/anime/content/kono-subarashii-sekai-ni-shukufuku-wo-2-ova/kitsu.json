@@ -1,0 +1,31 @@
+{
+  "slug": "kono-subarashii-sekai-ni-shukufuku-wo-2-ova",
+  "synopsis": "Bundled with the 12th volume of the light novel.",
+  "title": {
+    "en": "KONOSUBA -God's Blessings on These Wonderful Works of Art!",
+    "jp": "Kono Subarashii Sekai ni Shukufuku wo! 2 OVA"
+  },
+  "releasedAt": "2017-07-24T00:00:00.000Z",
+  "finishedAt": "2017-07-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13136/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "isekai",
+    "magic",
+    "parody"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/konosuba-gods-blessing-on-this-wonderful-world"
+  ],
+  "relations": {
+    "kitsu": "13136",
+    "anilist/anime": "97996",
+    "aozora": "WuAK6OnUWq",
+    "myanimelist/anime": "34626"
+  }
+}

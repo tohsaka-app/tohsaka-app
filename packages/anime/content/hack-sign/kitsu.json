@@ -1,0 +1,46 @@
+{
+  "slug": "hack-sign",
+  "synopsis": "Tsukasa wakes up inside The World, a massive online role-playing game full of magic and monsters, and finds himself unable to log out. With no knowledge of what's happening in the real world, Tsukasa must discover how he ended up stuck in the game, and what connection he has with the fabled Key of the Twilight—an item that's rumored to grant ultimate control over the digital realm.\n\n(Source: Funimation)",
+  "title": {
+    "en": ".hack//Sign",
+    "jp": ".hack//Sign"
+  },
+  "releasedAt": "2002-04-04T00:00:00.000Z",
+  "finishedAt": "2002-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/30/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/30/original.jpg",
+  "categories": [
+    "adventure",
+    "alternative present",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "magic",
+    "mystery",
+    "science fiction",
+    "super power",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://tubitv.com/series/2056",
+    "http://www.crunchyroll.com/hacksign",
+    "https://www.animelab.com/shows/hacksign",
+    "https://www.funimation.com/shows/hacksign/",
+    "https://www.hulu.com/hacksign"
+  ],
+  "relations": {
+    "kitsu": "30",
+    "anidb": "24",
+    "anilist/anime": "48",
+    "aozora": "WRO83nvGbS",
+    "hulu": "50017722",
+    "myanimelist/anime": "48",
+    "thetvdb": "79099/1",
+    "thetvdb/season": "16036",
+    "thetvdb/series": "79099",
+    "trakt": "8818"
+  }
+}

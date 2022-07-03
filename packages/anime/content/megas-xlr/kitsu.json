@@ -1,0 +1,28 @@
+{
+  "slug": "megas-xlr",
+  "synopsis": "Two slackers, mechanic Coop and his best friend Jamie, find a mecha robot from the future called Megas (Mechanized Earth Guard Attack System) in a New Jersey junkyard. Coop modifies Megas and replaces his head, the control center, with a classic muscle car, and names him XLR (eXtra Large Robot). Together with Megas's original pilot Kiva (Wendee Lee), they must defend Earth from the evil alien race called \"the Glorft\".",
+  "title": {
+    "en": "",
+    "jp": "Megas XLR"
+  },
+  "releasedAt": "2004-05-01T00:00:00.000Z",
+  "finishedAt": "2005-01-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7956/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7956/original.png",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "mecha",
+    "piloted robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7956",
+    "thetvdb": "74095/1",
+    "thetvdb/series": "74095"
+  }
+}

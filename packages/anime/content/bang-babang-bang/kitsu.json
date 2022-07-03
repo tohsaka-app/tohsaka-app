@@ -1,0 +1,24 @@
+{
+  "slug": "bang-babang-bang",
+  "synopsis": "Official music video for the song Bang Babang Bang!!! by the fictional band Irodorimidori. It is the 14th song in the franchise and focuses on Aliciana Ogata.",
+  "title": {
+    "jp": "Bang Babang Bang!!!"
+  },
+  "releasedAt": "2017-03-22T00:00:00.000Z",
+  "finishedAt": "2017-03-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14048/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=wWWTUvHaUmk"
+  ],
+  "relations": {
+    "kitsu": "14048",
+    "anilist/anime": "102817",
+    "myanimelist/anime": "36604"
+  }
+}

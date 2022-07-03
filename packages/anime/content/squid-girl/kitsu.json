@@ -1,0 +1,40 @@
+{
+  "slug": "squid-girl",
+  "synopsis": "From the depth of the seas rises an evil monster, bent on taking over the human world: Ika Musume. She's ruthless. She's menacing. She's... an adorably non-threatening little girl who makes an awesome squid-ink spaghetti?\nIka Musume has come out of her home in the ocean on a quest to punish humanity for polluting her waters. With squid tentacles for hair and some pretty useful ink-spitting skills, Ika Musume is sure she'll have no trouble invading Earth. What she didn't account for were the Aizawa sisters, rough and tumble Eiko and deceptively mellow Chizuru, who immediately bully her into working as a waitress in their seafood restaurant by the shore.\nIka Musume decides to take this chance to learn more about the human world, having silly adventures, meeting lots of strange characters, and never once letting world domination out of her sights. Will Ika Musume be able to exact her revenge on the human race that had wronged her? Or will she learn to enjoy the company of these foolish air-breathers and let bygones be bygones?",
+  "title": {
+    "en": "Squid Girl",
+    "jp": "Shinryaku! Ika Musume"
+  },
+  "releasedAt": "2010-10-05T00:00:00.000Z",
+  "finishedAt": "2010-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5389/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5389/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "slapstick",
+    "slice of life",
+    "summer",
+    "tentacle"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/squid-girl",
+    "http://www.hulu.com/squid-girl"
+  ],
+  "relations": {
+    "kitsu": "5389",
+    "anidb": "7486",
+    "anilist/anime": "8557",
+    "aozora": "2X2RUDq5Vv",
+    "myanimelist/anime": "8557",
+    "thetvdb": "195721/1",
+    "thetvdb/season": "330601",
+    "thetvdb/series": "195721",
+    "trakt": "35295"
+  }
+}

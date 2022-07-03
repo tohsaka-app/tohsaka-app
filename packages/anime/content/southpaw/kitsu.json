@@ -1,0 +1,26 @@
+{
+  "slug": "southpaw",
+  "synopsis": "Music video for Southpaw by Kuricorder Quartet.",
+  "title": {
+    "jp": "Southpaw"
+  },
+  "releasedAt": "2019-08-27T00:00:00.000Z",
+  "finishedAt": "2019-08-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42671/original.jpg",
+  "categories": [
+    "comedy",
+    "dementia",
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/51_lchSJhO4"
+  ],
+  "relations": {
+    "kitsu": "42671",
+    "anilist/anime": "111947",
+    "myanimelist/anime": "40312"
+  }
+}

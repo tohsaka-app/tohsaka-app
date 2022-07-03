@@ -1,0 +1,24 @@
+{
+  "slug": "outsider",
+  "synopsis": "Eve's music video for his song \"Outsider\".",
+  "title": {
+    "en": "Outsider",
+    "jp": "Outsider"
+  },
+  "releasedAt": "2018-04-07T00:00:00.000Z",
+  "finishedAt": "2018-04-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45299/poster_image/4015e8ada1b91cbd619525639b8d8d1f.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/GMPjNA_fCj4"
+  ],
+  "relations": {
+    "kitsu": "45299",
+    "anilist/anime": "107174"
+  }
+}

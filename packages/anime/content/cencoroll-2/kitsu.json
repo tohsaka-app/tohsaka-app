@@ -1,0 +1,26 @@
+{
+  "slug": "cencoroll-2",
+  "synopsis": "According to the official website, Uki Atsuya announced that he is producing a sequel to Cencoroll  (Cencoroll 2, tentative title). He is now working on the scenario and the storyboard, which is similar in length to the first one.",
+  "title": {
+    "jp": "Cencoroll 2"
+  },
+  "releasedAt": "2019-06-29T00:00:00.000Z",
+  "finishedAt": "2019-06-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5749/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5749/original.png",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5749",
+    "anidb": "10546",
+    "anilist/anime": "9488",
+    "aozora": "YIZLQEpi3j",
+    "myanimelist/anime": "9488"
+  }
+}

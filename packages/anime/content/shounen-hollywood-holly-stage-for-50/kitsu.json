@@ -1,0 +1,40 @@
+{
+  "slug": "shounen-hollywood-holly-stage-for-50",
+  "synopsis": "Second Season of Shounen Hollywood: Holly Stage for 49.",
+  "title": {
+    "jp": "Shounen Hollywood: Holly Stage for 50"
+  },
+  "releasedAt": "2015-01-10T00:00:00.000Z",
+  "finishedAt": "2015-04-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9175/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9175/original.jpg",
+  "categories": [
+    "asia",
+    "bishounen",
+    "earth",
+    "idol",
+    "japan",
+    "music",
+    "musical band",
+    "performance",
+    "present",
+    "slice of life",
+    "the arts",
+    "tokyo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9175",
+    "anidb": "10855",
+    "anilist/anime": "20868",
+    "aozora": "6OgcklXX1y",
+    "myanimelist/anime": "27741",
+    "thetvdb": "281947/2",
+    "thetvdb/season": "599660",
+    "thetvdb/series": "281947",
+    "trakt": "77956"
+  }
+}

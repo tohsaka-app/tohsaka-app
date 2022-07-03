@@ -1,0 +1,34 @@
+{
+  "slug": "el-hazard-the-wanderers",
+  "synopsis": "Makoto Mizuhara is working on his latest experiment in the school science lab, but when he takes a break his lifelong rival Katsuhiko Jinnai shows up and attempts to destroy the device and discredit Makoto. This overloads the experiment and transports Makoto, Jinnai, his sister Nanami, and their teacher Mr. Fujisawa to the strange and magnificent world El Hazard. Makoto and Fujisawa land squarely in the Kingdom of Roshtaria, and quickly befriend the princess Rune Venus. Jinnai allies himself with the Bugrom, a race of giant insects bent on taking over El Hazard, while his sister tries to eke out her own living in the desert. Makoto searches desperately for a way to return home, all the while fighting off the Bugrom, enlisting the help of the Holy Priestesses, and stopping the demon god Ifurita from destroying everything. \n(Source: ANN)",
+  "title": {
+    "en": "El-Hazard: The Wanderers",
+    "jp": "El Hazard: The Wanderers"
+  },
+  "releasedAt": "1995-10-06T00:00:00.000Z",
+  "finishedAt": "1996-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/95/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "romance"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/el-hazard-the-wanderers"
+  ],
+  "relations": {
+    "kitsu": "95",
+    "anidb": "556",
+    "anilist/anime": "116",
+    "aozora": "nUaL0XBWeu",
+    "myanimelist/anime": "116",
+    "thetvdb": "79241/1",
+    "thetvdb/series": "79241",
+    "trakt": "63735"
+  }
+}

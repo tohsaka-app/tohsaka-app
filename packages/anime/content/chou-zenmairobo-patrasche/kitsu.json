@@ -1,0 +1,27 @@
+{
+  "slug": "chou-zenmairobo-patrasche",
+  "synopsis": "A parody of Flanders no Inu that has Parasche being a key-activated mecha robot who fights the antagonists. ",
+  "title": {
+    "jp": "Chou Zenmairobo: Patrasche"
+  },
+  "releasedAt": "2013-12-07T00:00:00.000Z",
+  "finishedAt": "2014-03-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9112/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "mecha",
+    "parody",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9112",
+    "anidb": "10242",
+    "aozora": "7WQ8Wy7URv",
+    "myanimelist/anime": "21433"
+  }
+}

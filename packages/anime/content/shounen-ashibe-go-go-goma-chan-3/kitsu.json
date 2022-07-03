@@ -1,0 +1,26 @@
+{
+  "slug": "shounen-ashibe-go-go-goma-chan-3",
+  "synopsis": "Third season of Shounen Ashibe: Go! Go! Goma-chan.",
+  "title": {
+    "jp": "Shounen Ashibe: Go! Go! Goma-chan 3"
+  },
+  "releasedAt": "2018-04-03T00:00:00.000Z",
+  "finishedAt": "2019-02-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41138/original.jpg",
+  "categories": [
+    "comedy",
+    "seinen",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/shonen-ashibe-go-go-goma-chan"
+  ],
+  "relations": {
+    "kitsu": "41138",
+    "anilist/anime": "101498",
+    "myanimelist/anime": "37368"
+  }
+}

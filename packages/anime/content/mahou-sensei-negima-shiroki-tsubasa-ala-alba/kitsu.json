@@ -1,0 +1,37 @@
+{
+  "slug": "mahou-sensei-negima-shiroki-tsubasa-ala-alba",
+  "synopsis": "OVA episodes that are bundled with the limited edition of the manga volumes 23-25. First episode to cover chapters 176 and 177 of the manga. Second episode to cover chapters 178-180. And third episode to cover chapters 182 and 183.",
+  "title": {
+    "jp": "Mahou Sensei Negima! Shiroki Tsubasa Ala Alba"
+  },
+  "releasedAt": "2008-08-12T00:00:00.000Z",
+  "finishedAt": "2009-02-17T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3510/original.jpg",
+  "categories": [
+    "adventure",
+    "all girls school",
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "harem",
+    "japan",
+    "magic",
+    "present",
+    "romance",
+    "shounen",
+    "stereotypes",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3510",
+    "anidb": "5868",
+    "anilist/anime": "4188",
+    "aozora": "KAzY8y3dIK",
+    "myanimelist/anime": "4188"
+  }
+}

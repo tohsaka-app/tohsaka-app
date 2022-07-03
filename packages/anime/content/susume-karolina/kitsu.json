@@ -1,0 +1,25 @@
+{
+  "slug": "susume-karolina",
+  "synopsis": "Short anime about professional shogi player Karolina Styczynska.\n",
+  "title": {
+    "jp": "Susume, Karolina."
+  },
+  "releasedAt": "2018-06-14T00:00:00.000Z",
+  "finishedAt": "2018-06-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41426/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=2ZtfwRlTpHA"
+  ],
+  "relations": {
+    "kitsu": "41426",
+    "anidb": "14012",
+    "anilist/anime": "103001",
+    "myanimelist/anime": "37684"
+  }
+}

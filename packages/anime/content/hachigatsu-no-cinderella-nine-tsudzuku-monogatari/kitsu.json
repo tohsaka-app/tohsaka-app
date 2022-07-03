@@ -1,0 +1,26 @@
+{
+  "slug": "hachigatsu-no-cinderella-nine-tsudzuku-monogatari",
+  "synopsis": "Special episode of Hachigatsu no Cinderella Nine (TV) sent to buyers of collector's edition of the Blu-ray.",
+  "title": {
+    "en": "Cinderella Nine: The Story Continues",
+    "jp": "Hachigatsu no Cinderella Nine: Tsudzuku, Monogatari"
+  },
+  "releasedAt": "2021-09-25T00:00:00.000Z",
+  "finishedAt": "2021-09-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45268/poster_image/69270f892127217a8d54dd0d095460cb.jpg",
+  "categories": [
+    "baseball",
+    "school clubs",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45268",
+    "anilist/anime": "139813",
+    "myanimelist/anime": "49913"
+  }
+}

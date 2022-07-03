@@ -1,0 +1,23 @@
+{
+  "slug": "kagami",
+  "synopsis": "One of the first films of Okamoto Tadanari, a silent puppet animated film.",
+  "title": {
+    "jp": "Kagami"
+  },
+  "releasedAt": "1960-01-01T00:00:00.000Z",
+  "finishedAt": "1960-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10531/original.jpg",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10531",
+    "anilist/anime": "104409",
+    "aozora": "ON0yFCyCUB",
+    "myanimelist/anime": "29870"
+  }
+}

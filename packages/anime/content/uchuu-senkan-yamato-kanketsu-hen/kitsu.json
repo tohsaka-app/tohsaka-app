@@ -1,0 +1,30 @@
+{
+  "slug": "uchuu-senkan-yamato-kanketsu-hen",
+  "synopsis": "The year is 2203, not long after the Bolar Federation was defeated by Desslok's Galman-Gamilon Empire. A subspace dimensional dislocation has caused a distant Red Galaxy to be relocated in a collision course with the Milky Way. Stars and planets collide, making a wreck of the Galman-Gamilon homeworld. The Star Force is dispatched to investigate. They reach Galmania to find Desslok's palace in ruins.\nAs they pay their respects, tossing white roses down to the surface of the planet, a huge red planet crashes into Galmania, forcing to StarForce to escape with an immediate and uncalculated warp.\n(Source: AniDB)",
+  "title": {
+    "en": "Space Battleship Yamato - Final Chapter",
+    "jp": "Uchuu Senkan Yamato: Kanketsu-hen"
+  },
+  "releasedAt": "1983-03-19T00:00:00.000Z",
+  "finishedAt": "1983-03-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2770/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "military",
+    "science fiction",
+    "space",
+    "space opera"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2770",
+    "anidb": "1956",
+    "anilist/anime": "3072",
+    "aozora": "PtAhY5lYZo",
+    "myanimelist/anime": "3072"
+  }
+}

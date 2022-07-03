@@ -1,0 +1,31 @@
+{
+  "slug": "hinamatsuri",
+  "synopsis": "Nitta Yoshifumi, a young, intellectual yakuza, lived surrounded by his beloved pots in his turf in Ashigawa. But one day, a girl, Hina, arrives in a strange object, and uses her telekinetic powers to force Nitta to allow her to live with him, putting an end to his leisurely lifestyle. Hina tends to lose control of herself, wreaking havoc both at school and in Nitta's organization. Though troubled, he finds himself taking care of her. What will become of this strange arrangement? It's the beginning of the dangerous and lively story of a nice-guy outlaw and psychokinetic girl! \n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "HINAMATSURI",
+    "jp": "Hinamatsuri"
+  },
+  "releasedAt": "2018-04-06T00:00:00.000Z",
+  "finishedAt": "2018-06-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14018/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14018/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/hinamatsuri"
+  ],
+  "relations": {
+    "kitsu": "14018",
+    "anilist/anime": "100077",
+    "aozora": "nrwBoDEa7U",
+    "myanimelist/anime": "36296",
+    "thetvdb": "340011/1"
+  }
+}

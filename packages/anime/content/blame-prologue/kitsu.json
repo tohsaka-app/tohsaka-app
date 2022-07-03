@@ -1,0 +1,32 @@
+{
+  "slug": "blame-prologue",
+  "synopsis": "Based on the manga Blame! by Nihei Tsutomu, serialised in Monthly Afternoon.\n\nIn a city that is said to have thousands of levels, making it impossible to tell the sky from the ground, the mysterious Killy wanders the bizarre and foreboding levels of this mega-structure, where the boundaries between machine and living organism have been obscured.\n\n(Source: AniDB)",
+  "title": {
+    "jp": "Blame! Prologue"
+  },
+  "releasedAt": "2007-09-07T00:00:00.000Z",
+  "finishedAt": "2007-09-07T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3004/original.jpg",
+  "categories": [
+    "action",
+    "cyberpunk",
+    "cyborg",
+    "drama",
+    "future",
+    "genetic modification",
+    "human enhancement",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3004",
+    "anidb": "5447",
+    "anilist/anime": "3430",
+    "aozora": "tF14UP8Kgu",
+    "myanimelist/anime": "3430"
+  }
+}

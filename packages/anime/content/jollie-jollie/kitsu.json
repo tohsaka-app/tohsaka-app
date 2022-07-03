@@ -1,0 +1,25 @@
+{
+  "slug": "jollie-jollie",
+  "synopsis": "Music video for Kureiji Ollie's original song JOLLIE JOLLIE.",
+  "title": {
+    "en": "JOLLIE JOLLIE"
+  },
+  "releasedAt": "2022-04-18T00:00:00.000Z",
+  "finishedAt": "2022-04-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46065/poster_image/29fc601560f8ca7351ba81466f013c93.jpg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music",
+    "zombie"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=2ZqtRc3fa_s"
+  ],
+  "relations": {
+    "kitsu": "46065"
+  }
+}

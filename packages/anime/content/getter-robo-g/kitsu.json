@@ -1,0 +1,34 @@
+{
+  "slug": "getter-robo-g",
+  "synopsis": "Takes place after the final defeat of the Dinosaur Empire and the death of Musashi Tomoe in the original Getter Robo series.\nDr. Saotome, creator of Getter Robo, fears that the peace the Getter Robo team has won will be short lived and that an even greater enemies would appear. Dr. Saotome's fears are justified when the militaristic Hyakki (or \"Hundred demons\") Empire appears, but Dr. Saotome is prepared with the creation of an even more powerful Getter Robo, Getter Robo G and a new Getter Robo base. Also with Musashi Tomoe dead, Dr. Saotome needs a third pilot which he finds in baseball player Benkei Kuruma.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Getter Robo G",
+    "jp": "Getter Robo G"
+  },
+  "releasedAt": "1975-05-15T00:00:00.000Z",
+  "finishedAt": "1976-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3639/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3639/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "mecha",
+    "robot",
+    "science fiction",
+    "super robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3639",
+    "anidb": "1271",
+    "anilist/anime": "4486",
+    "aozora": "1WV8Vz8Gps",
+    "myanimelist/anime": "4486",
+    "thetvdb": "112541/1",
+    "thetvdb/series": "112541",
+    "trakt": "66198"
+  }
+}

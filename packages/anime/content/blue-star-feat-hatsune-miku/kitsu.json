@@ -1,0 +1,24 @@
+{
+  "slug": "blue-star-feat-hatsune-miku",
+  "synopsis": "Music video for Blue Star feat. Hatsune Miku by Hachioji-P.",
+  "title": {
+    "jp": "Blue Star feat. Hatsune Miku"
+  },
+  "releasedAt": "2016-05-13T00:00:00.000Z",
+  "finishedAt": "2016-05-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43477/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=xSnuVnOZd1U"
+  ],
+  "relations": {
+    "kitsu": "43477",
+    "anilist/anime": "126667",
+    "myanimelist/anime": "40564"
+  }
+}

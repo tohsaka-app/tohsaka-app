@@ -1,0 +1,25 @@
+{
+  "slug": "kage-movie",
+  "synopsis": "Independent animation by Hayashi Seiichi.",
+  "title": {
+    "en": "Shadow",
+    "jp": "Kage"
+  },
+  "releasedAt": "1967-01-01T00:00:00.000Z",
+  "finishedAt": "1967-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12251/original.jpg",
+  "categories": [
+    "drama",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12251",
+    "anilist/anime": "107929",
+    "aozora": "TlSatRjuAG",
+    "myanimelist/anime": "29677"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "love-hina",
+  "synopsis": "Keitaro Urashima promised a girl when he was young that they would meet up again at Tokyo University in the future. Sadly, in the National Practice Exam, Keitaro ranked 27th from the bottom. Knowing his grandmother owned a hotel, Keitaro intended to stay there while continuing his studies for Tokyo U, only to find out the hotel had long been transformed into an all-girls dormitory. Through an odd twist of fate, Keitaro eventually became the manager of the dorm, beginning his life of living with 5 other girls.",
+  "title": {
+    "en": "Love Hina",
+    "jp": "Love Hina"
+  },
+  "releasedAt": "2000-04-19T00:00:00.000Z",
+  "finishedAt": "2000-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/166/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/166/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "harem",
+    "japan",
+    "present",
+    "romance",
+    "slice of life",
+    "stereotypes",
+    "violent retribution for accidental infringement"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "166",
+    "anidb": "35",
+    "anilist/anime": "189",
+    "aozora": "ms0pdPprT0",
+    "myanimelist/anime": "189",
+    "thetvdb": "70861/1",
+    "thetvdb/series": "70861",
+    "trakt": "61390"
+  }
+}

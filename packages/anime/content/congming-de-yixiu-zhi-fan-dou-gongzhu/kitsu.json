@@ -1,0 +1,26 @@
+{
+  "slug": "congming-de-yixiu-zhi-fan-dou-gongzhu",
+  "synopsis": "A Chinese film version of the original Japanese Ikkyuu-san anime.",
+  "title": {
+    "jp": "Congming de Yixiu Zhi Fan Dou Gongzhu"
+  },
+  "releasedAt": "2014-04-30T00:00:00.000Z",
+  "finishedAt": "2014-04-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10807/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10807",
+    "anidb": "11667",
+    "anilist/anime": "102355",
+    "aozora": "fBQkxpbYXA",
+    "myanimelist/anime": "30247"
+  }
+}

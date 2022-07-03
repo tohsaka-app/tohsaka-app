@@ -1,0 +1,24 @@
+{
+  "slug": "yanesenondo",
+  "synopsis": "A cat drums while a group of cats dance to a marching song.",
+  "title": {
+    "jp": "Yanesenondo"
+  },
+  "releasedAt": "2009-07-30T00:00:00.000Z",
+  "finishedAt": "2009-07-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12442/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12442",
+    "anidb": "12205",
+    "anilist/anime": "103342",
+    "aozora": "efXv9hJ8z1",
+    "myanimelist/anime": "32642"
+  }
+}

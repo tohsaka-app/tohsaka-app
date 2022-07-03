@@ -1,0 +1,45 @@
+{
+  "slug": "kekkai-sensen",
+  "synopsis": "A breach between Earth and the netherworlds has opened up over the city of New York, trapping New Yorkers and creatures from other dimensions in an impenetrable bubble. They’ve lived together for years, in a world of crazy crime sci-fi sensibilities. Now someone is threatening to sever the bubble, and a group of stylish superhumans is working to keep it from happening.\n\n(Source: FUNimation)",
+  "title": {
+    "en": "Blood Blockade Battlefront",
+    "jp": "Kekkai Sensen"
+  },
+  "releasedAt": "2015-04-05T00:00:00.000Z",
+  "finishedAt": "2015-10-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8646/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8646/original.jpg",
+  "categories": [
+    "action",
+    "americas",
+    "comedy",
+    "disaster",
+    "earth",
+    "fantasy",
+    "fantasy world",
+    "new york",
+    "parallel universe",
+    "science fiction",
+    "super power",
+    "united states",
+    "vampire"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/blood-blockade-battlefront",
+    "http://www.hulu.com/blood-blockade-battlefront",
+    "https://www.funimation.com/shows/blood-blockade-battlefront"
+  ],
+  "relations": {
+    "kitsu": "8646",
+    "anidb": "10663",
+    "anilist/anime": "20727",
+    "aozora": "oJaOCvmoKz",
+    "hulu": "50021260",
+    "myanimelist/anime": "24439",
+    "thetvdb": "289886",
+    "trakt": "94042"
+  }
+}

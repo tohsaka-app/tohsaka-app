@@ -1,0 +1,23 @@
+{
+  "slug": "86-special-edition-senya-ni-akaku-hinageshi-no-saku",
+  "synopsis": "86 special edition.",
+  "title": {
+    "jp": "86 Special Edition: Senya ni Akaku Hinageshi no Saku"
+  },
+  "releasedAt": "2021-06-27T00:00:00.000Z",
+  "finishedAt": "2021-06-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44788/original.jpg",
+  "categories": [
+    "drama",
+    "science fiction",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44788",
+    "myanimelist/anime": "49235"
+  }
+}

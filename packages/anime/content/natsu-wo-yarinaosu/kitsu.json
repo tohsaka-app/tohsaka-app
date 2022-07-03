@@ -1,0 +1,19 @@
+{
+  "slug": "natsu-wo-yarinaosu",
+  "synopsis": "",
+  "title": {
+    "jp": "Natsu wo Yarinaosu"
+  },
+  "releasedAt": "2018-07-02T00:00:00.000Z",
+  "finishedAt": "2018-07-02T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41904/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41904",
+    "myanimelist/anime": "38057"
+  }
+}

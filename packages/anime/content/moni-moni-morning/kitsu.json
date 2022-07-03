@@ -1,0 +1,24 @@
+{
+  "slug": "moni-moni-morning",
+  "synopsis": "Graduation work of Asami Tatsumoto at Tama Art University.",
+  "title": {
+    "en": "moni moni morning",
+    "jp": "moni moni morning"
+  },
+  "releasedAt": "2021-01-01T00:00:00.000Z",
+  "finishedAt": "2021-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45501/poster_image/99f4b5c02ac9f0cf77809d6d7ca9f448.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/hOsjjMOSrXM"
+  ],
+  "relations": {
+    "kitsu": "45501",
+    "anilist/anime": "140750"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "kore-wa-zombie-desu-ka-of-the-dead",
+  "synopsis": "Aikawa Ayumu was revived as a zombie by the cute necromancer Eucliwood Hellscythe. After the zany, madcap adventures in the first season of Is This a Zombie? ended, Ayumu thought his life might finally get back to normal, or as normal as it can be for a zombie. However, destiny has other plans for him. Some guys just can't catch a break. \n(Source: FUNimation) ",
+  "title": {
+    "en": "Is this A Zombie? of the Dead",
+    "jp": "Kore wa Zombie Desu ka? of the Dead"
+  },
+  "releasedAt": "2012-04-05T00:00:00.000Z",
+  "finishedAt": "2012-06-07T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6347/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6347/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "contemporary fantasy",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "japan",
+    "magic",
+    "magical girl",
+    "parody",
+    "present",
+    "zombie"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/is-this-a-zombie",
+    "https://www.funimation.com/shows/is-this-a-zombie/",
+    "https://www.hulu.com/is-this-a-zombie"
+  ],
+  "relations": {
+    "kitsu": "6347",
+    "anidb": "8476",
+    "anilist/anime": "10790",
+    "aozora": "i2AGhhLHEd",
+    "myanimelist/anime": "10790",
+    "thetvdb": "220571/2",
+    "thetvdb/season": "467300",
+    "thetvdb/series": "220571",
+    "trakt": "38260"
+  }
+}

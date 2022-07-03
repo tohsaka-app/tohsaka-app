@@ -1,0 +1,28 @@
+{
+  "slug": "rockman-hoshi-ni-negai-wo",
+  "synopsis": "\"This Anime (Episode 2, to be exact), where Rockman travels from the Game-World to the real world, to learn some cultural differences about Japan, was intended to be a Special Episode for the original Mega Man Cartoon Series by Ruby-Spears, which aired around 1995 in the US.\nAs it seems, the special was finished before Ruby-Spears decided to redo their whole show with a completely new design, better suited for American audiences.\nThus, not fitting the new style anymore, it never was included in the series. Still, two more episodes about the same story were produced a bit later, this time under the main title \"Rockman\" (unlike Episode 2, where he's called Mega Man, even in the japanese dub).\nIt's unknown if these 3 Episodes ever saw an official release, until 2002, when Capcom of Japan decided to finally (re)release them on DVD for Rockman's 15th Anniversary (all featuring a Japanese and English dub, but no subs).\nIt's unknown if there are any more secret animated works of the original Rockman game-series.\"\n(Source: AniDB)",
+  "title": {
+    "en": "MegaMan: Wishing upon a Star",
+    "jp": "Rockman Hoshi ni Negai wo"
+  },
+  "releasedAt": "2002-09-20T00:00:00.000Z",
+  "finishedAt": "2002-09-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1671/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1671",
+    "anidb": "1144",
+    "anilist/anime": "1854",
+    "aozora": "puuAK5k5Vo",
+    "myanimelist/anime": "1854"
+  }
+}

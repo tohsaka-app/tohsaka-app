@@ -1,0 +1,35 @@
+{
+  "slug": "dotto-koni-chan",
+  "synopsis": "Koni (whose character is based on the famous Sumo-wrestler) and his gang have lots of crazy and incoherent adventures in their town. From fighting with their \"Lovely-Teacher\" and dealing with Samurai fish, to confirming if \"The Armored-Guy's\" wife has an affair and saving the world, Koni, High, Moro, Nari and Afro, the Afro-dog, do the craziest and funniest things to have fun.\n(Source: ANN)",
+  "title": {
+    "en": ".Koni-chan",
+    "jp": "Dotto Koni-chan"
+  },
+  "releasedAt": "2000-11-26T00:00:00.000Z",
+  "finishedAt": "2001-05-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1513/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "japan",
+    "parody",
+    "robot helper",
+    "slapstick",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1513",
+    "anidb": "4680",
+    "anilist/anime": "1684",
+    "aozora": "XUqD684l67",
+    "myanimelist/anime": "1684",
+    "thetvdb": "270788/1",
+    "thetvdb/series": "270788",
+    "trakt": "80029"
+  }
+}

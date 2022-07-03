@@ -1,0 +1,29 @@
+{
+  "slug": "topo-gigio",
+  "synopsis": "Created by Maria Perego, Topo Gigio has been a beloved character for more than two decades. This animated TV series features numerous exciting stories and introduces many friends.\nTopo Gigio is the first mouse astronaut to travel the Milky Way. Can a mouse become an astronaut? Well, Topo Gigio has come from a year 2,388,400 years ahead in the future. He is friendly and can talk with humans. He makes friends with his neighbors including a girl, her pet mouse, cats, and other mice.\n(Source: AnimeNfo)",
+  "title": {
+    "en": "Return of Topo Gigio",
+    "jp": "Topo Gigio"
+  },
+  "releasedAt": "1988-04-27T00:00:00.000Z",
+  "finishedAt": "1988-09-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3696/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3696",
+    "anidb": "5054",
+    "anilist/anime": "4584",
+    "aozora": "dwDi0FGaBX",
+    "myanimelist/anime": "4584",
+    "thetvdb": "80406/1",
+    "thetvdb/series": "80406"
+  }
+}

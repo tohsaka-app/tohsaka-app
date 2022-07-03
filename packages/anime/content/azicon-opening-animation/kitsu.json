@@ -1,0 +1,22 @@
+{
+  "slug": "azicon-opening-animation",
+  "synopsis": "Opening animation for Azicon",
+  "title": {
+    "jp": "Azicon Opening Animation"
+  },
+  "releasedAt": "1983-08-08T00:00:00.000Z",
+  "finishedAt": "1983-08-08T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44897/original.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44897",
+    "anilist/anime": "136647"
+  }
+}

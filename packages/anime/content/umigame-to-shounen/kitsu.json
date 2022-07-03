@@ -1,0 +1,31 @@
+{
+  "slug": "umigame-to-shounen",
+  "synopsis": "The first film in Shin-Ei's series of annual WWII themed anime television movies for children \"Sensou Douwa\" (war story).\n(Source: AniDB)",
+  "title": {
+    "jp": "Umigame to Shounen"
+  },
+  "releasedAt": "2002-08-15T00:00:00.000Z",
+  "finishedAt": "2002-08-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9687/original.jpg",
+  "categories": [
+    "anti war",
+    "asia",
+    "coming of age",
+    "historical",
+    "japan",
+    "past",
+    "war",
+    "world war ii"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9687",
+    "anidb": "6200",
+    "anilist/anime": "20225",
+    "aozora": "pyHexSeVo8",
+    "myanimelist/anime": "20225"
+  }
+}

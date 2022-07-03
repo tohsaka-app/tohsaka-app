@@ -1,0 +1,27 @@
+{
+  "slug": "fate-prototype",
+  "synopsis": "Fate/Prototype is a digest version of Kinoko Nasu's original version of Fate/stay night.",
+  "title": {
+    "jp": "Fate/Prototype"
+  },
+  "releasedAt": "2011-12-31T00:00:00.000Z",
+  "finishedAt": "2011-12-31T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6765/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6765/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6765",
+    "anilist/anime": "12565",
+    "aozora": "STtEshCb0T",
+    "myanimelist/anime": "12565"
+  }
+}

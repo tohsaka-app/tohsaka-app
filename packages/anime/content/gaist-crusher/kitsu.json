@@ -1,0 +1,28 @@
+{
+  "slug": "gaist-crusher",
+  "synopsis": "In the year 2047, mankind discovered a rare metal ore called \"Gaimetal\", which possessed a huge amount of energy, and mining for these strange metal ore begins all over the world. However, in 2075, humankind were been constantly attacked by Gaist, a race of metallic creatures whose bodies were encrusted with Gaimetal, thus forming the GCG (also known as \"Gaist Crusher Garrison\"), an organization tasked with dealing against the Gaist. In 2064, the GCG send out mankind's line of defense: the Gaist Crushers, humans who can wear a special Gaimetal armor called \"Gaist Gear\", and battle the Gaist,as well as the threat opposed by a mysterious organization called \"Erasers\".\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Gaist Crusher"
+  },
+  "releasedAt": "2013-10-02T00:00:00.000Z",
+  "finishedAt": "2014-10-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7974/original.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7974",
+    "anidb": "9830",
+    "anilist/anime": "19871",
+    "aozora": "qgYCo1Qje7",
+    "myanimelist/anime": "19871",
+    "thetvdb": "273006/1",
+    "thetvdb/series": "273006",
+    "trakt": "72707"
+  }
+}

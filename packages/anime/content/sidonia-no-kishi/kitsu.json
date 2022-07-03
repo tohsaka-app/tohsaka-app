@@ -1,0 +1,51 @@
+{
+  "slug": "sidonia-no-kishi",
+  "synopsis": "After destroying Earth many years ago, the alien race Gauna has been pursuing the remnants of humanity—which, having narrowly escaped, fled across the galaxy in a number of giant seed ships. In the year 3394, Nagate Tanikaze surfaces from his lifelong seclusion deep beneath the seed ship Sidonia in search of food on the upper levels, only to find himself dragged into events unfolding without his knowledge.\nWhen the Gauna begin their assault on Sidonia, it's up to Tanikaze—with the help of his fellow soldiers and friends Shizuka Hoshijiro, Izana Shinatose, and Yuhata Midorikawa—to defend humanity's last hope for survival, and defeat their alien foes. Sidonia no Kishi follows Tanikaze as he discovers the world that has been above him his entire life, and becomes the hero Sidonia needs.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Knights of Sidonia",
+    "jp": "Sidonia no Kishi"
+  },
+  "releasedAt": "2014-04-11T00:00:00.000Z",
+  "finishedAt": "2014-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7768/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7768/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "disaster",
+    "drama",
+    "future",
+    "genetic modification",
+    "horror",
+    "human enhancement",
+    "mecha",
+    "military",
+    "piloted robot",
+    "plot continuity",
+    "post apocalypse",
+    "robot",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space travel",
+    "violence",
+    "war"
+  ],
+  "externals": [
+    "https://www.netflix.com/id/title/70301578"
+  ],
+  "relations": {
+    "kitsu": "7768",
+    "anidb": "9892",
+    "anilist/anime": "19775",
+    "aozora": "NaHyuq0pRd",
+    "myanimelist/anime": "19775",
+    "thetvdb": "278154/2",
+    "thetvdb/season": "589474",
+    "thetvdb/series": "278154",
+    "trakt": "75828"
+  }
+}

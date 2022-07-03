@@ -1,0 +1,22 @@
+{
+  "slug": "circus",
+  "synopsis": "A concept movie music video for Super Junior-D&amp;E's single Circus. While the boy band duo is South Korean, the music video was created in Japan for the Japanese release of the single under the Avex Trax record label.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Circus"
+  },
+  "releasedAt": "2018-02-28T00:00:00.000Z",
+  "finishedAt": "2018-02-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41782/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41782",
+    "anilist/anime": "102650",
+    "myanimelist/anime": "37404"
+  }
+}

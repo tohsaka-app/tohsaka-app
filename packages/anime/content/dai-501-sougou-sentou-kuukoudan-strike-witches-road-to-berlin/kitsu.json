@@ -1,0 +1,31 @@
+{
+  "slug": "dai-501-sougou-sentou-kuukoudan-strike-witches-road-to-berlin",
+  "synopsis": "A new Strike Witches anime was announced as a part of the franchise's 10th anniversary.",
+  "title": {
+    "en": "Strike Witches: Road to Berlin",
+    "jp": "Dai 501 Sougou Sentou Kuukoudan Strike Witches Road to Berlin"
+  },
+  "releasedAt": "2020-10-08T00:00:00.000Z",
+  "finishedAt": "2020-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41934/original.jpg",
+  "categories": [
+    "action",
+    "air force",
+    "alien",
+    "fantasy",
+    "magic",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41934",
+    "anidb": "14203",
+    "anilist/anime": "103119",
+    "animenewsnetwork": "21189",
+    "myanimelist/anime": "38005"
+  }
+}

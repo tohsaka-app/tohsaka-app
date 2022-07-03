@@ -1,0 +1,29 @@
+{
+  "slug": "mobile-suit-gundam-0083-stardust-memory-the-mayfly-of-space",
+  "synopsis": "Mayfly reveals Cima's backstory in flashbacks as she reflects on her past prior to the events of Episode 13. It reveals that Cima and her unit poisoned a Side 5 colony using G-3 nerve gas, under orders, but were treated as pariahs afterwards by their own countrymen for committing such an atrocity. At the end of the war her superior refused to let her retreat to Axis. Because their home colony Mahal had been converted into a weapon, Cima and her men were left stranded and homeless.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Mobile Suit Gundam 0083: Stardust Memory - The Mayfly of Space",
+    "jp": "Kidou Senshi Gundam 0083: Stardust Memory - Uchuu no Kagerou"
+  },
+  "releasedAt": "1992-01-01T00:00:00.000Z",
+  "finishedAt": "1992-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6250/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "mecha",
+    "military",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6250",
+    "anilist/anime": "10581",
+    "aozora": "z89NMB1K28",
+    "myanimelist/anime": "10581"
+  }
+}

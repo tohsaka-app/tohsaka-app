@@ -1,0 +1,23 @@
+{
+  "slug": "joutoku",
+  "synopsis": "A music video for the short version of Mr. Children's song \"Joutoku.\"",
+  "title": {
+    "jp": "Joutoku"
+  },
+  "releasedAt": "2017-05-09T00:00:00.000Z",
+  "finishedAt": "2017-05-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14199/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14199",
+    "anilist/anime": "104738",
+    "myanimelist/anime": "36767"
+  }
+}

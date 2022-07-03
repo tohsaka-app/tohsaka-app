@@ -1,0 +1,23 @@
+{
+  "slug": "apron-hero",
+  "synopsis": "A song about a father who is scatterbrained but is a real \"apron hero.\" He's able to cook up so many delicious meals and grandiose bentous.",
+  "title": {
+    "jp": "Apron Hero"
+  },
+  "releasedAt": "1995-10-01T00:00:00.000Z",
+  "finishedAt": "1995-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40881/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40881",
+    "anilist/anime": "103978",
+    "aozora": "pouJGTtryC",
+    "myanimelist/anime": "36292"
+  }
+}

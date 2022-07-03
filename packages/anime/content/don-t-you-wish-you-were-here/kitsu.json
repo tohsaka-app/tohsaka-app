@@ -1,0 +1,22 @@
+{
+  "slug": "don-t-you-wish-you-were-here",
+  "synopsis": "\"My first abstract animation. What color do you have in your mind?\"\n(Source: Maya Yonesho)",
+  "title": {
+    "jp": "Don't You Wish You Were Here?"
+  },
+  "releasedAt": "1997-01-01T00:00:00.000Z",
+  "finishedAt": "1997-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10385/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10385",
+    "aozora": "UgIwUc259Q",
+    "myanimelist/anime": "29713"
+  }
+}

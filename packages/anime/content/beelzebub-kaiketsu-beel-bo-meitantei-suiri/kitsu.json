@@ -1,0 +1,27 @@
+{
+  "slug": "beelzebub-kaiketsu-beel-bo-meitantei-suiri",
+  "synopsis": "Short specials included in the DVDs (volumes 14-16) of Beelzebub.",
+  "title": {
+    "en": null,
+    "jp": "Beelzebub: Kaiketsu!! Beel-bo Meitantei Suiri"
+  },
+  "releasedAt": "2012-07-25T00:00:00.000Z",
+  "finishedAt": "2012-09-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7453/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "demon",
+    "fantasy",
+    "school life",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7453",
+    "aozora": "bFEtFvFiey"
+  }
+}

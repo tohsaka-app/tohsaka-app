@@ -1,0 +1,25 @@
+{
+  "slug": "and-and",
+  "synopsis": "Toru Matsumoto's official music video with Mirai Mizue's interesting hypnotical-rhythmical animation.",
+  "title": {
+    "jp": "And And"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8822/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8822/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8822",
+    "anidb": "11405",
+    "anilist/anime": "19217",
+    "aozora": "w15Egp5iCC",
+    "myanimelist/anime": "19217"
+  }
+}

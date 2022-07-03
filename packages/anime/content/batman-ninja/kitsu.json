@@ -1,0 +1,26 @@
+{
+  "slug": "batman-ninja",
+  "synopsis": "Gorilla Grodd's time displacement machine transports many of Batman's worst enemies to feudal Japan - along with the Dark Knight and a few of his allies. The villains take over the forms of the feudal lords that rule the divided land, with the Joker taking the lead among the warring factions. As his traditional high-tech weaponry is exhausted almost immediately, Batman must rely on his intellect and his allies - including Catwoman and the extended Bat-family - to restore order to the land, and return to present-day Gotham City.\n\n(Source: Anime News Network)",
+  "title": {
+    "jp": "Ninja Batman"
+  },
+  "releasedAt": "2018-04-24T00:00:00.000Z",
+  "finishedAt": "2018-04-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13911/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13911/original.jpg",
+  "categories": [
+    "action",
+    "ninja",
+    "superhero",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13911",
+    "anilist/anime": "100248",
+    "myanimelist/anime": "36517"
+  }
+}

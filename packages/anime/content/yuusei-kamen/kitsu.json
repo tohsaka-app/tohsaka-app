@@ -1,0 +1,24 @@
+{
+  "slug": "yuusei-kamen",
+  "synopsis": "Donning a special mask, a young man defends the planet. \n(Source: AniDB) ",
+  "title": {
+    "jp": "Yuusei Kamen"
+  },
+  "releasedAt": "1966-06-03T00:00:00.000Z",
+  "finishedAt": "1967-02-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6808/original.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6808",
+    "anidb": "1821",
+    "anilist/anime": "12767",
+    "aozora": "uHhIghYIui",
+    "myanimelist/anime": "12767"
+  }
+}

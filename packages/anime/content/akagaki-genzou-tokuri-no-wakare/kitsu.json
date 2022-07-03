@@ -1,0 +1,22 @@
+{
+  "slug": "akagaki-genzou-tokuri-no-wakare",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Akagaki Genzou: Tokuri no Wakare"
+  },
+  "releasedAt": "1924-01-01T00:00:00.000Z",
+  "finishedAt": "1924-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9185/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "9185",
+    "anidb": "6831",
+    "aozora": "eVsgicESYQ",
+    "myanimelist/anime": "24857"
+  }
+}

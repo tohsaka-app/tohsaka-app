@@ -1,0 +1,25 @@
+{
+  "slug": "go-go-itsutsugo-land",
+  "synopsis": "The series is about five quintuplets, Kabuto, Hinoki, Arashi, Kinoko and Kodama Morino, who have all kinds of adventures together. Each has their own talent and personality. ",
+  "title": {
+    "jp": "Go! Go! Itsutsugo Land"
+  },
+  "releasedAt": "2001-04-14T00:00:00.000Z",
+  "finishedAt": "2002-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3246/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3246",
+    "anidb": "3159",
+    "anilist/anime": "3776",
+    "aozora": "fqIfblPCVj",
+    "myanimelist/anime": "3776"
+  }
+}

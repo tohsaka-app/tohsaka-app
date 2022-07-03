@@ -1,0 +1,25 @@
+{
+  "slug": "princess",
+  "synopsis": "Music video for the song Princess♂ by TOPHAMHAT-KYO.",
+  "title": {
+    "en": "Princess♂",
+    "jp": "Princess♂"
+  },
+  "releasedAt": "2019-10-11T00:00:00.000Z",
+  "finishedAt": "2019-10-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45329/poster_image/40654c72ecbe89a1eded89ca5362655b.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/K-gbAi5UIg0"
+  ],
+  "relations": {
+    "kitsu": "45329",
+    "anilist/anime": "140391",
+    "myanimelist/anime": "49527"
+  }
+}

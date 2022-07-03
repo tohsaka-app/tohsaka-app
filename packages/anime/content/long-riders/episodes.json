@@ -1,0 +1,110 @@
+[
+  {
+    "title": {
+      "jp": "Chiisana Kiseki"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2016-10-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Umizoi Cycling"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2016-10-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Atarashii Sekai"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2016-10-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Himitsu no Arbeit"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2016-11-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kawaru Sekai"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2016-11-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fortuna"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2016-11-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Team no Kizuna"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2016-12-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hirogaru Sekai"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2016-12-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Azumino Autumn Ride! Zenpen"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2016-12-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Azumino Autumn Ride! Kouhen"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2016-12-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Machi ga Ugokidasu Shunkan"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2017-02-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Long Riders!"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2017-02-05T00:00:00.000Z",
+    "content": {}
+  }
+]

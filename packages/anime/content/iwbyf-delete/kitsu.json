@@ -1,0 +1,20 @@
+{
+  "slug": "iwbyf-delete",
+  "synopsis": "duplicate page. Real listing can be found at : \nhttps://kitsu.io/anime/i-wanna-be-your-friend",
+  "title": {
+    "en": "deleted"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44804/original.jpg",
+  "categories": [],
+  "externals": [
+    "https://youtu.be/Pcg_27p0R3w"
+  ],
+  "relations": {
+    "kitsu": "44804"
+  }
+}

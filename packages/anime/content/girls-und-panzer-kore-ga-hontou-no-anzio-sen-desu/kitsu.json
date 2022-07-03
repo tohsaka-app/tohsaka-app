@@ -1,0 +1,28 @@
+{
+  "slug": "girls-und-panzer-kore-ga-hontou-no-anzio-sen-desu",
+  "synopsis": "The story is based on the battle against Anzio High School.",
+  "title": {
+    "jp": "Girls & Panzer: Kore ga Hontou no Anzio-sen desu!"
+  },
+  "releasedAt": "2014-07-25T00:00:00.000Z",
+  "finishedAt": "2014-07-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7981/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7981/original.jpg",
+  "categories": [
+    "military",
+    "school life"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/girls-und-panzer-this-is-the-real-anzio-battle"
+  ],
+  "relations": {
+    "kitsu": "7981",
+    "anidb": "10009",
+    "anilist/anime": "18619",
+    "aozora": "2FkDHYxyhZ",
+    "myanimelist/anime": "18619"
+  }
+}

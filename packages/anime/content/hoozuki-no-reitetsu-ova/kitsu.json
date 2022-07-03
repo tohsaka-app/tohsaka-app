@@ -1,0 +1,29 @@
+{
+  "slug": "hoozuki-no-reitetsu-ova",
+  "synopsis": "Bundled with the limited editions of 17th, 18th, 19th, and 24th volumes of the Hoozuki no Reitetsu manga.",
+  "title": {
+    "jp": "Hoozuki no Reitetsu OVA"
+  },
+  "releasedAt": "2015-02-23T00:00:00.000Z",
+  "finishedAt": "2017-03-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8761/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8761/original.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "fantasy",
+    "seinen",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8761",
+    "anidb": "10667",
+    "anilist/anime": "20732",
+    "aozora": "rv2WP43syf",
+    "myanimelist/anime": "24471"
+  }
+}

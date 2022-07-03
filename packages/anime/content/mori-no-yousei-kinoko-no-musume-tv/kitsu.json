@@ -1,0 +1,20 @@
+{
+  "slug": "mori-no-yousei-kinoko-no-musume-tv",
+  "synopsis": "There is currently no synopsis for this title.",
+  "title": {
+    "jp": "Mori no Yousei: Kinoko no Musume"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40741/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40741",
+    "aozora": "32pW08IGUJ",
+    "myanimelist/anime": "35362"
+  }
+}

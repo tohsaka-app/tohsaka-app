@@ -1,0 +1,25 @@
+{
+  "slug": "sk-shinsaku-anime-project",
+  "synopsis": "New anime project for SK∞.",
+  "title": {
+    "jp": "SK∞ (Shinsaku Anime Project)"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44870/original.png",
+  "categories": [
+    "action",
+    "comedy",
+    "drama",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44870",
+    "anilist/anime": "136381",
+    "myanimelist/anime": "49363"
+  }
+}

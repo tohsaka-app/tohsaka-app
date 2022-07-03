@@ -1,0 +1,24 @@
+{
+  "slug": "girl-x",
+  "synopsis": "A girl quietly reads a book in her room. Suddenly, a monster comes crawling out from under her bed! Is it friend or foe?",
+  "title": {
+    "en": "Girl X",
+    "jp": "Girl X"
+  },
+  "releasedAt": "2019-07-26T00:00:00.000Z",
+  "finishedAt": "2021-12-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45571/poster_image/365d8fa5323c918d1b52d6668901a22d.png",
+  "categories": [
+    "comedy",
+    "horror",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45571",
+    "anilist/anime": "120317"
+  }
+}

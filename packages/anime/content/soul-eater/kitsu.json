@@ -1,0 +1,44 @@
+{
+  "slug": "soul-eater",
+  "synopsis": "Death City is home to the famous Shibusen, a technical academy headed by the Shinigami–Lord Death himself. Its mission: to raise \"Death Scythes\" for the Shinigami to wield against the many evils of their fantastical world. These Death Scythes, however, are not made from physical weapons; rather, they are born from human hybrids who have the ability to transform their bodies into Demon Weapons, and only after they have consumed the souls of 99 evil beings and one witch's soul.\nSoul Eater Evans, a Demon Scythe who only seems to care about what's cool, aims to become a Death Scythe with the help of his straight-laced wielder, or meister, Maka Albarn. The contrasting duo work and study alongside the hot headed Black☆Star and his caring weapon Tsubaki, as well as the Shinigami's own son, Death the Kid, an obsessive-compulsive dual wielder of twin pistols Patty and Liz.Soul Eater follows these students of Shibusen as they take on missions to collect souls and protect the city from the world's threats while working together under the snickering sun to become sounder in mind, body, and soul.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Soul Eater",
+    "jp": "Soul Eater"
+  },
+  "releasedAt": "2008-04-07T00:00:00.000Z",
+  "finishedAt": "2009-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3128/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3128/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "angst",
+    "comedy",
+    "dark fantasy",
+    "demon",
+    "fantasy",
+    "fantasy world",
+    "present",
+    "shounen"
+  ],
+  "externals": [
+    "http://www.hulu.com/soul-eater",
+    "https://www.funimation.com/shows/99122/",
+    "https://www.netflix.com/title/70205024"
+  ],
+  "relations": {
+    "kitsu": "3128",
+    "anidb": "5610",
+    "anilist/anime": "3588",
+    "aozora": "IrdnZLawNs",
+    "hulu": "50000722",
+    "myanimelist/anime": "3588",
+    "thetvdb": "81751/1",
+    "thetvdb/series": "81751",
+    "trakt": "37148"
+  }
+}

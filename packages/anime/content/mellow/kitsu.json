@@ -1,0 +1,25 @@
+{
+  "slug": "mellow",
+  "synopsis": "A story about a crossdressing teacher handling a delinquent class.\nBased on the same-name seinen manga by Rin Kasahara.",
+  "title": {
+    "jp": "Mellow"
+  },
+  "releasedAt": "1993-07-23T00:00:00.000Z",
+  "finishedAt": "1993-07-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9442/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9442",
+    "anidb": "7048",
+    "anilist/anime": "131519",
+    "aozora": "n4miRoa359",
+    "myanimelist/anime": "27559"
+  }
+}

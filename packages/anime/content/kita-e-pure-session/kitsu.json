@@ -1,0 +1,27 @@
+{
+  "slug": "kita-e-pure-session",
+  "synopsis": "Animated music video based on the VN series Kita e.",
+  "title": {
+    "jp": "Kita e: Pure Session"
+  },
+  "releasedAt": "2000-05-31T00:00:00.000Z",
+  "finishedAt": "2000-05-31T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9169/original.jpg",
+  "categories": [
+    "japan",
+    "music",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9169",
+    "anidb": "9243",
+    "anilist/anime": "119946",
+    "aozora": "052rJ1SYbO",
+    "myanimelist/anime": "18643"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "yuyushiki-ova",
+  "synopsis": "Special episode of Yuyushiki.",
+  "title": {
+    "en": "",
+    "jp": "Yuyushiki: Komarasetari, Komarasaretari"
+  },
+  "releasedAt": "2017-02-22T00:00:00.000Z",
+  "finishedAt": "2017-02-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12141/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12141",
+    "anilist/anime": "98344",
+    "aozora": "vSEiBfbo4Q",
+    "myanimelist/anime": "33035"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "battle-spirits-sword-eyes-gekitouden",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Battle Spirits: Sword Eyes Gekitouden"
+  },
+  "releasedAt": "2013-04-07T00:00:00.000Z",
+  "finishedAt": "2013-09-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9092/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "9092",
+    "anidb": "9743",
+    "anilist/anime": "19877",
+    "aozora": "gciKy4ojug",
+    "myanimelist/anime": "19877"
+  }
+}

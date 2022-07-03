@@ -1,0 +1,28 @@
+{
+  "slug": "spider-riders-yomigaeru-taiyou",
+  "synopsis": "Second season of Spider Riders.",
+  "title": {
+    "en": "Spider Riders: Resurrected Sun",
+    "jp": "Spider Riders: Yomigaeru Taiyou"
+  },
+  "releasedAt": "2007-04-14T00:00:00.000Z",
+  "finishedAt": "2007-10-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2384/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2384",
+    "anidb": "5146",
+    "anilist/anime": "2620",
+    "aozora": "isetnTbPRV",
+    "myanimelist/anime": "2620",
+    "trakt": "41486"
+  }
+}

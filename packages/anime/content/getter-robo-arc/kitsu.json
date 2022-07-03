@@ -1,0 +1,29 @@
+{
+  "slug": "getter-robo-arc",
+  "synopsis": "Getter Robo Arc is the fifth Getter Robo series chronologically.Taking place several years after Getter Robo Go, Earth is now a post-apocalyptic world. Hayato, now an aging scientist, has completed Professor Saotome's masterpiece, Getter Robo Arc. Piloting it are Ryoma's son Takuma, the human-dinosaur Kamui, and the younger brother of Tayel, Baku. Alongside the reformed Dinosaur Empire, they fight the insectoid Andromeda Flow Country attacking from across time and space.(Source: MAL)",
+  "title": {
+    "en": "Getter Robo Arc",
+    "jp": "Getter Robo Arc"
+  },
+  "releasedAt": "2021-07-04T00:00:00.000Z",
+  "finishedAt": "2021-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/43712/poster_image/bc4badfafa40682e71107a0b349f08ae.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43712/original.png",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/getter-robo-arc"
+  ],
+  "relations": {
+    "kitsu": "43712",
+    "anilist/anime": "125640",
+    "myanimelist/anime": "43741"
+  }
+}

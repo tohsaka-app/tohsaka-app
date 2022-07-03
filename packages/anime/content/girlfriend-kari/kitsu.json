@@ -1,0 +1,32 @@
+{
+  "slug": "girlfriend-kari",
+  "synopsis": "A TV anime adaptation of the Girlfriend (Kari) a mobile game where players can have girlfriends through playing the game. \nShiina Kokomi is a hard working but even tempered high school girl who is the lead performer in her school's rhythmic gymnastics club. The story follows her and her growing circle of friends as they support each other through the various trials and situations that comprise high school life.\n(Source: ANN)",
+  "title": {
+    "en": "Girl Friend Beta",
+    "jp": "Girlfriend (Kari)"
+  },
+  "releasedAt": "2014-10-13T00:00:00.000Z",
+  "finishedAt": "2014-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8632/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8632/original.jpg",
+  "categories": [
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/girl-friend-beta"
+  ],
+  "relations": {
+    "kitsu": "8632",
+    "anidb": "10709",
+    "anilist/anime": "20757",
+    "aozora": "4nX8z36nbv",
+    "myanimelist/anime": "24855",
+    "thetvdb": "283928/1",
+    "thetvdb/series": "283928",
+    "trakt": "79366"
+  }
+}

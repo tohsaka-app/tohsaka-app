@@ -1,0 +1,25 @@
+{
+  "slug": "wasureboshi",
+  "synopsis": "SPring-8 Angstrom Compact free electron LAser's (SACLA) 5 minute pencil and watercolor anime short  narrated by Mamiko Noto and music by twoth.",
+  "title": {
+    "jp": "Wasure-boshi"
+  },
+  "releasedAt": "2013-07-03T00:00:00.000Z",
+  "finishedAt": "2013-07-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8440/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8440",
+    "anidb": "11457",
+    "anilist/anime": "98568",
+    "aozora": "S55BGjtmvJ",
+    "myanimelist/anime": "21591"
+  }
+}

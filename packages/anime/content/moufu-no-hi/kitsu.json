@@ -1,0 +1,21 @@
+{
+  "slug": "moufu-no-hi",
+  "synopsis": "On a cold winter morning, a warm blanket is an oasis for everyone.",
+  "title": {
+    "jp": "Moufu no Hi"
+  },
+  "releasedAt": "2016-12-01T00:00:00.000Z",
+  "finishedAt": "2016-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40786/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40786",
+    "anilist/anime": "139291",
+    "aozora": "m7jh4bAckT",
+    "myanimelist/anime": "35532"
+  }
+}

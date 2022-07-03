@@ -1,0 +1,28 @@
+{
+  "slug": "hakuouki-ova-shinsaku",
+  "synopsis": "Episodes:\nChapter One (第一章), November 13, 2021.\nChapter Two (第二章), December 11, 2021.\nChapter Three (第三章), January 29, 2022.",
+  "title": {
+    "en": "Hakuoki ~Demon of the Fleeting Blossom~",
+    "jp": "Hakuouki OVA (Shinsaku)"
+  },
+  "releasedAt": "2021-11-13T00:00:00.000Z",
+  "finishedAt": "2022-01-29T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44865/poster_image/bce4b957f0969235b0b1a98adb814785.png",
+  "categories": [
+    "action",
+    "drama",
+    "historical",
+    "josei",
+    "samurai",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44865",
+    "anilist/anime": "139386",
+    "myanimelist/anime": "49338"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "scryed",
+  "synopsis": "A strange environmental phenomenon 22 years ago in the Kanazawa prefecture caused the land to split and protrude upwards reaching unprecedented heights, creating the secluded area known as The Lost Ground. Kazuma is a young mercenary who lives in the Lost Ground, looking for any work he can find to sustain his livelihood within the harsh environment. He is one of the few people that are gifted with the Alter ability, which allows him to plaster his right arm and torso with a metallic alloy. When this mercenary encounters HOLY, an order whose purpose is to suppress and capture what they call Native Alter Users, and one of the elite members of HOLY, Ryuho, an epic rivalry begins.\n(Source: ANN)",
+  "title": {
+    "en": "s-CRY-ed",
+    "jp": "s.CRY.ed"
+  },
+  "releasedAt": "2001-07-04T00:00:00.000Z",
+  "finishedAt": "2001-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/146/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/146/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "drama",
+    "present",
+    "proxy battles",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/s-cry-ed"
+  ],
+  "relations": {
+    "kitsu": "146",
+    "anidb": "47",
+    "anilist/anime": "168",
+    "aozora": "wVXACTcGwD",
+    "myanimelist/anime": "168",
+    "thetvdb": "78953/1",
+    "thetvdb/series": "78953",
+    "trakt": "42451"
+  }
+}

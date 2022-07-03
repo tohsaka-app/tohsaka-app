@@ -1,0 +1,23 @@
+{
+  "slug": "sinbad",
+  "synopsis": "Sinbad includes a digest of the first two movies along with new content which concludes the story.",
+  "title": {
+    "jp": "Sinbad: Mahiru no Yoru to Fushigi no Mon"
+  },
+  "releasedAt": "2016-05-14T00:00:00.000Z",
+  "finishedAt": "2016-05-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11907/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11907",
+    "anilist/anime": "100658",
+    "aozora": "VU9rohdqap",
+    "myanimelist/anime": "32888"
+  }
+}

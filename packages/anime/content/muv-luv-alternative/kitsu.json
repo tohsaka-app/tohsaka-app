@@ -1,0 +1,30 @@
+{
+  "slug": "muv-luv-alternative",
+  "synopsis": "In Muv-Luv Alternative, Takeru wakes up three years after the end of Muv-Luv Unlimited to find himself back in his room. Although he first thinks that everything that had happened to him was a dream, he soon feels that something is wrong, and leaves the house to find that he has been sent back in time to the beginning of the events in Unlimited. Unwilling to accept something like Alternative V, he decides to help professor Kouzuki to complete Alternative IV and save mankind.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Muv-Luv Alternative"
+  },
+  "releasedAt": "2021-10-06T00:00:00.000Z",
+  "finishedAt": "2021-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43690/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "drama",
+    "mecha",
+    "military",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/muv-luv-alternative"
+  ],
+  "relations": {
+    "kitsu": "43690",
+    "anidb": "15230",
+    "anilist/anime": "112716",
+    "myanimelist/anime": "40608"
+  }
+}

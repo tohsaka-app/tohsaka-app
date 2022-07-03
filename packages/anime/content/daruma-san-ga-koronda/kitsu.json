@@ -1,0 +1,25 @@
+{
+  "slug": "daruma-san-ga-koronda",
+  "synopsis": "A music video for the song Daruma-san ga Koronda by Kozue Saitou that was featured on NHK's Minna no Uta program.",
+  "title": {
+    "en": "Daruma-san Fell Over",
+    "jp": "Daruma-san ga Koronda"
+  },
+  "releasedAt": "1978-08-01T00:00:00.000Z",
+  "finishedAt": "1978-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45142/original.jpg",
+  "categories": [
+    "kids",
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45142",
+    "anilist/anime": "116702",
+    "myanimelist/anime": "39212"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "chikara-bashi",
+  "synopsis": "A short film by Okamoto Tadanari.",
+  "title": {
+    "en": "The Strong Bridge",
+    "jp": "Chikara Bashi"
+  },
+  "releasedAt": "1976-01-01T00:00:00.000Z",
+  "finishedAt": "1976-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10381/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10381",
+    "anilist/anime": "109353",
+    "aozora": "prW2TTyhu5",
+    "myanimelist/anime": "29793"
+  }
+}

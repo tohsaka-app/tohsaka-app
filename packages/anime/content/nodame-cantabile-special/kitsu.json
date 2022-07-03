@@ -1,0 +1,26 @@
+{
+  "slug": "nodame-cantabile-special",
+  "synopsis": "Special lesson about Mine, Masumi, Chiaki and Nodame's travel to Nagano.",
+  "title": {
+    "jp": "Nodame Cantabile Special"
+  },
+  "releasedAt": "2008-02-16T00:00:00.000Z",
+  "finishedAt": "2008-02-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3383/original.jpg",
+  "categories": [
+    "comedy",
+    "josei",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3383",
+    "anilist/anime": "3965",
+    "aozora": "lj2Rfd7r2p",
+    "myanimelist/anime": "3965"
+  }
+}

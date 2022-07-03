@@ -1,0 +1,24 @@
+{
+  "slug": "onaka-no-ookina-ouji-sama",
+  "synopsis": "A music video for the song by Kouichi Kawatsu that was featured on NHK's Minna no Uta program.\nA fat little king wants to ride a flying carpet.",
+  "title": {
+    "jp": "Onaka no Ookina Ouji-sama"
+  },
+  "releasedAt": "1975-01-01T00:00:00.000Z",
+  "finishedAt": "1975-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10626/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10626",
+    "anidb": "12591",
+    "anilist/anime": "104630",
+    "aozora": "8tb622mBiL",
+    "myanimelist/anime": "30073"
+  }
+}

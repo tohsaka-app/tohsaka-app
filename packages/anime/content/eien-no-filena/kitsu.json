@@ -1,0 +1,30 @@
+{
+  "slug": "eien-no-filena",
+  "synopsis": "The story is centered around Filena, a princess who was raised as a boy after her kingdom was conquered.",
+  "title": {
+    "jp": "Eien no Filena"
+  },
+  "releasedAt": "1992-12-21T00:00:00.000Z",
+  "finishedAt": "1993-02-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4247/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "high fantasy",
+    "shoujo ai",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4247",
+    "anidb": "5943",
+    "anilist/anime": "5689",
+    "aozora": "5ZJB361ow9",
+    "myanimelist/anime": "5689"
+  }
+}

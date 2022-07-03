@@ -1,0 +1,28 @@
+{
+  "slug": "shingeki-no-kyojin-the-final-season-pv",
+  "synopsis": "Preview of the final season with original animation that was either not used in the main series or was redone for the main series.",
+  "title": {
+    "en": "Attack on Titan: The Final Season PV",
+    "jp": "Shingeki no Kyojin: The Final Season PV"
+  },
+  "releasedAt": "2020-05-29T00:00:00.000Z",
+  "finishedAt": "2020-05-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44404/original.png",
+  "categories": [
+    "action",
+    "dark fantasy",
+    "fantasy",
+    "horror",
+    "military",
+    "shounen",
+    "violence",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44404"
+  }
+}

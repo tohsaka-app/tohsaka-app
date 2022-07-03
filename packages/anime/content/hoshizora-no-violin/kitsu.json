@@ -1,0 +1,29 @@
+{
+  "slug": "hoshizora-no-violin",
+  "synopsis": "The story is about a boy and his dream of making the best violin.",
+  "title": {
+    "jp": "Hoshizora no Violin"
+  },
+  "releasedAt": "1994-01-01T00:00:00.000Z",
+  "finishedAt": "1994-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5964/original.jpg",
+  "categories": [
+    "asia",
+    "coming of age",
+    "historical",
+    "military",
+    "past",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5964",
+    "anidb": "6697",
+    "anilist/anime": "9957",
+    "aozora": "3JJgZnwRm3",
+    "myanimelist/anime": "9957"
+  }
+}

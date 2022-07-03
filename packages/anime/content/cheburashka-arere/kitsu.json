@@ -1,0 +1,30 @@
+{
+  "slug": "cheburashka-arere",
+  "synopsis": "Based on the Russian \"national character\" Cheburashka. The character comes from Eduard Uspensky's story about a mysterious creature who gets accidentally transported in a box of oranges to Russia.",
+  "title": {
+    "jp": "Cheburashka Arere?"
+  },
+  "releasedAt": "2009-10-07T00:00:00.000Z",
+  "finishedAt": "2010-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4894/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "russia",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4894",
+    "anidb": "6969",
+    "anilist/anime": "7176",
+    "aozora": "KpJLm5fo4G",
+    "myanimelist/anime": "7176",
+    "thetvdb": "139361/1",
+    "thetvdb/series": "139361",
+    "trakt": "63261"
+  }
+}

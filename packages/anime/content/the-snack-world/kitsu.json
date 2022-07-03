@@ -1,0 +1,26 @@
+{
+  "slug": "the-snack-world",
+  "synopsis": "The Snack World follows a ragtag group of friends who embark on an adventure together. They live in a land similar to traditional fantasy settings but with certain modern twists like cell phones and convenience stores.",
+  "title": {
+    "jp": "The Snack World"
+  },
+  "releasedAt": "2015-12-19T00:00:00.000Z",
+  "finishedAt": "2015-12-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12426/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12426",
+    "anidb": "11181",
+    "aozora": "1LIar183Xw",
+    "myanimelist/anime": "32593"
+  }
+}

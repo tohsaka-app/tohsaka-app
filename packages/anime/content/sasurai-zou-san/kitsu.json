@@ -1,0 +1,24 @@
+{
+  "slug": "sasurai-zou-san",
+  "synopsis": "Short film by Yoriko Mizushiri.",
+  "title": {
+    "en": "Wandering Elephant",
+    "jp": "Sasurai Zou-san"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45028/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45028",
+    "anilist/anime": "136321",
+    "myanimelist/anime": "41445"
+  }
+}

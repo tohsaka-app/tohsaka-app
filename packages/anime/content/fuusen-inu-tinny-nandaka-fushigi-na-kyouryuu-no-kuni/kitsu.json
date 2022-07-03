@@ -1,0 +1,24 @@
+{
+  "slug": "fuusen-inu-tinny-nandaka-fushigi-na-kyouryuu-no-kuni",
+  "synopsis": "Follows a dog and his friends who wear balloons and explore a kingdom in the clouds.",
+  "title": {
+    "jp": "Fuusen Inu Tinny: Nandaka Fushigi na - Kyouryuu no Kuni"
+  },
+  "releasedAt": "2017-08-25T00:00:00.000Z",
+  "finishedAt": "2017-08-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12903/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12903",
+    "anilist/anime": "115345",
+    "aozora": "XC0FAMRsx9",
+    "myanimelist/anime": "34756"
+  }
+}

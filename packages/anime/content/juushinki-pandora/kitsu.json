@@ -1,0 +1,31 @@
+{
+  "slug": "juushinki-pandora",
+  "synopsis": "On the day the Xianglong (Shanron or Soaring Dragon) Crisis occurred in 2031, Leon Lau was right in the middle of the unfolding events. The Quantum Reactor, a next generation energy device developed to replace dwindling environmental resources, exploded and unleashed an unknown energy. As a result, the global environment changed overnight. Living things (besides humans) and machines each underwent their own unique evolution, and the B.R.A.I. (Biological Revolutionary of Accelerated Intelligence) entity in particular evolved and came into being. As a result, humanity was driven to the brink of extinction. Humans fight the B.R.A.I with M.O.E.V. (Multi-purpose Organic Evolution Vehicle) variable units.\n\nSeven years after the Xianglong Crisis, Leon was living in the wilderness on the edge of the “absolute defense city” Neo Xianglong. Living with Chloe Lau under a “family pact,” he conducted his own research to counter the B.R.A.I. The awkward Leon and the busybody Chloe. They live day-by-day as if to forget the past for the moment. However, threats unrelentingly draw near.\n\n(Source: ANN)",
+  "title": {
+    "en": "Last Hope",
+    "jp": "Juushinki Pandora"
+  },
+  "releasedAt": "2018-04-04T00:00:00.000Z",
+  "finishedAt": "2018-09-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12297/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12297/original.png",
+  "categories": [
+    "action",
+    "drama",
+    "mecha",
+    "piloted robot",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80221272"
+  ],
+  "relations": {
+    "kitsu": "12297",
+    "anilist/anime": "100341",
+    "myanimelist/anime": "33531"
+  }
+}

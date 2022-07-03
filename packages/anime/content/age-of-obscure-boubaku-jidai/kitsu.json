@@ -1,0 +1,23 @@
+{
+  "slug": "age-of-obscure-boubaku-jidai",
+  "synopsis": "Short film by Mirai Mizue and Onohana with music by Twoth.",
+  "title": {
+    "jp": "Age of Obscure: Boubaku Jidai"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12967/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12967",
+    "anilist/anime": "103406",
+    "aozora": "rXlSgtsGXC",
+    "myanimelist/anime": "34436"
+  }
+}

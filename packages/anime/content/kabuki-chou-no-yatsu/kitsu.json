@@ -1,0 +1,28 @@
+{
+  "slug": "kabuki-chou-no-yatsu",
+  "synopsis": "The East Side of Shinjuku Ward … The neon-lit Kabuki-chou district stretches across the center of this chaotic city. Where light shines, there are also deep shadows. The curtains rise on this night stage where bizarre murders occurred! Is this suspense? No, comedy? An indistinguishable drama is about to begin…\n\n(Source: ANN)",
+  "title": {
+    "en": "Case File nº221: Kabukicho",
+    "jp": "Kabukichou Sherlock"
+  },
+  "releasedAt": "2019-10-12T00:00:00.000Z",
+  "finishedAt": "2020-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41939/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "mystery"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/case-file-n221-kabukicho/",
+    "https://www.hulu.com/series/case-file-n221-kabukicho-e376eafb-e977-453b-a0e8-c7ec174cfba3"
+  ],
+  "relations": {
+    "kitsu": "41939",
+    "anilist/anime": "103638",
+    "myanimelist/anime": "38161"
+  }
+}

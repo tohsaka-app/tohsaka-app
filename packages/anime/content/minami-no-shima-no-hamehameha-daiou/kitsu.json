@@ -1,0 +1,22 @@
+{
+  "slug": "minami-no-shima-no-hamehameha-daiou",
+  "synopsis": "A musical retelling of the nursery rhyme \"King Hamehameha on the southern island\"",
+  "title": {
+    "jp": "Minami no shima no hamehameha daiou"
+  },
+  "releasedAt": "1976-04-01T00:00:00.000Z",
+  "finishedAt": "1976-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43642/original.png",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43642",
+    "myanimelist/anime": "42494"
+  }
+}

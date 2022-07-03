@@ -1,0 +1,36 @@
+{
+  "slug": "street-fighter-ii-the-movie",
+  "synopsis": "Get your quarters ready, because the world's top fighters are about to go head to head in this explosive animated adaptation of the classic Street Fighter II arcade game! M. Bison's plan to crush those who would oppose his organization, Shadowloo, is simple: brainwash the strongest martial artists around with his dreaded psycho power, and turn them into living weapons! To stop him, Interpol agent Chun-Li must team up with Major Guile of the United States Air Force, but that's no small feat.\nThey'll have to put aside their differences and learn to work together, and fast. Bison is closing in on Ryu, a traveling vagabond said to be the best fighter in the world. Fortunately (or not), Ryu is a hard man to find, but the same can't be said of his eternal rival, Ken. And it might just be through Ken that Bison will get what he wants! Can the World Warriors beat Bison to the punch?\n(Source: Discotek)",
+  "title": {
+    "en": "Street Fighter II: The Animated Movie",
+    "jp": "Street Fighter II Movie"
+  },
+  "releasedAt": "1994-08-06T00:00:00.000Z",
+  "finishedAt": "1994-08-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1216/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1216/original.jpg",
+  "categories": [
+    "action",
+    "earth",
+    "martial arts",
+    "present",
+    "shounen",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/street-fighter-ii-the-animated-movie",
+    "https://vrv.co/watch/GRE5PEVV6/Street-Fighter-II-The-Animated-Movie",
+    "https://www.contv.com/details-movie/1313-19787-000/street-fighter-ii---the-animated-movie"
+  ],
+  "relations": {
+    "kitsu": "1216",
+    "anidb": "313",
+    "anilist/anime": "1362",
+    "aozora": "eqtBllkomB",
+    "hulu": "50020484",
+    "myanimelist/anime": "1362"
+  }
+}

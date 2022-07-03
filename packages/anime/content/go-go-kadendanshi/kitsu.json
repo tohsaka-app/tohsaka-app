@@ -1,0 +1,25 @@
+{
+  "slug": "go-go-kadendanshi",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Go! Go! Kadendanshi"
+  },
+  "releasedAt": "2013-07-02T00:00:00.000Z",
+  "finishedAt": "2013-12-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8989/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8989",
+    "anidb": "9936",
+    "anilist/anime": "19169",
+    "aozora": "ksx1qYK4Y5",
+    "myanimelist/anime": "19169"
+  }
+}

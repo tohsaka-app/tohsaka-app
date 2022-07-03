@@ -1,0 +1,24 @@
+{
+  "slug": "tsubu-doll",
+  "synopsis": "The series centers around 16 girls who want to fulfill their dreams of being on stage in the city of Sagamihara. Rather than being a story where the characters compete to be the \"top idol,\" the girls will bring life and energy to the city through local idol activities. A number of events are planned surrounding the project to bring vitalization to Sagamihara, in addition to a drama CD and radio program.",
+  "title": {
+    "jp": "Tsubu★Doll"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8404/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8404",
+    "anidb": "10536",
+    "anilist/anime": "20676",
+    "aozora": "fesTFvBXMw",
+    "myanimelist/anime": "23275"
+  }
+}

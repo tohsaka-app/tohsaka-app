@@ -1,0 +1,49 @@
+{
+  "slug": "bishoujo-senshi-sailor-moon",
+  "synopsis": "Tsukino Usagi is a 14-year-old girl in junior high. She's ditzy, whiny, and a crybaby. She often flunks her tests, and she is always scolded by her family. However after a bad day, Usagi is surprised to encounter a black cat that can talk! The cat, Luna, grants Usagi the power to transform into Sailor Moon, a fighter who is to save the world against the Dark Kingdom and its evil ruler, Queen Beryl.\nOf course, Usagi can't do it alone, and there are others who will help her on the way...",
+  "title": {
+    "en": "Sailor Moon",
+    "jp": "Bishoujo Senshi Sailor Moon"
+  },
+  "releasedAt": "1992-03-07T00:00:00.000Z",
+  "finishedAt": "1993-02-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/489/poster_image/049a1a06ef0c75d5898c4b4f5c4cf935.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/489/original.jpg",
+  "categories": [
+    "alien",
+    "comedy",
+    "demon",
+    "henshin",
+    "humanoid alien",
+    "japan",
+    "love polygon",
+    "magic",
+    "magical girl",
+    "middle school",
+    "plot continuity",
+    "present",
+    "romance",
+    "school life",
+    "shoujo",
+    "super power"
+  ],
+  "externals": [
+    "http://www.hulu.com/sailor-moon",
+    "https://www.animelab.com/shows/sailor-moon"
+  ],
+  "relations": {
+    "kitsu": "489",
+    "anidb": "235",
+    "anilist/anime": "530",
+    "aozora": "4SF6gC9zXf",
+    "hulu": "50015963",
+    "myanimelist/anime": "530",
+    "thetvdb": "78500/1",
+    "thetvdb/season": "15144",
+    "thetvdb/series": "78500",
+    "trakt": "3548"
+  }
+}

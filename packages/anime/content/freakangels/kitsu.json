@@ -1,0 +1,26 @@
+{
+  "slug": "freakangels",
+  "synopsis": "After civilization comes to a sudden and crashing end, twelve 23-year-old psychics living in the rubble of London must check their wild impulses and discover their better angels in order to rebuild society.\n\n(Source: CR)",
+  "title": {},
+  "releasedAt": "2022-01-27T00:00:00.000Z",
+  "finishedAt": "2022-01-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/43021/poster_image/ddf7d302a263f55f53bf6232ff1892d6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220703%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220703T141343Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=01ed5b1446283a4330528387bc0840bb491501c6e4793b5862446840c320cbcb",
+  "coverUrl": "https://media.kitsu.io/anime/43021/cover_image/99272632f3cdfce84bcabe1d70470a19.png",
+  "categories": [
+    "action",
+    "anime influenced",
+    "post apocalypse",
+    "steampunk",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/freakangels"
+  ],
+  "relations": {
+    "kitsu": "43021"
+  }
+}

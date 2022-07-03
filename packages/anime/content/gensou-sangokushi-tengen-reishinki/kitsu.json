@@ -1,0 +1,25 @@
+{
+  "slug": "gensou-sangokushi-tengen-reishinki",
+  "synopsis": "The story is set in ancient China during the Three Kingdoms era, when various powerful warlords began maneuvering to conquer the known realms. After it was wiped out in unforeseen circumstances, the 6th Unit has been reassembled with members from diverse, troubled pasts: the leader and seal practitioner Ouki, the spirit purifier Shunkyou, Teiken, and the demon slayer Shourei.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Fantasia Sango",
+    "jp": "Gensou Sangokushi: Tengen Reishinki"
+  },
+  "releasedAt": "2022-01-11T00:00:00.000Z",
+  "finishedAt": "2022-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44943/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44943/original.png",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/fantasia-sango-realm-of-legends/"
+  ],
+  "relations": {
+    "kitsu": "44943",
+    "anilist/anime": "137247"
+  }
+}

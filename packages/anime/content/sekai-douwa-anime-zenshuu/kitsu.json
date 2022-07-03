@@ -1,0 +1,27 @@
+{
+  "slug": "sekai-douwa-anime-zenshuu",
+  "synopsis": "Each episode tells a different story from Grimm's Fairy Tales. ",
+  "title": {
+    "en": "My Favorite Fairy Tales",
+    "jp": "Sekai Douwa Anime Zenshuu"
+  },
+  "releasedAt": "1990-10-06T00:00:00.000Z",
+  "finishedAt": "1990-10-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4902/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4902",
+    "anidb": "4190",
+    "anilist/anime": "7216",
+    "aozora": "s2FQLKzyDU",
+    "myanimelist/anime": "7216"
+  }
+}

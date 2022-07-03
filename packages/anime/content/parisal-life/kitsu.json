@@ -1,0 +1,23 @@
+{
+  "slug": "parisal-life",
+  "synopsis": "Official music video for nhhmbase's song Parasol Life released on their 2nd album \"Hamon Cross\".",
+  "title": {
+    "jp": "Parasol Life"
+  },
+  "releasedAt": "2009-03-10T00:00:00.000Z",
+  "finishedAt": "2009-03-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13964/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13964",
+    "anilist/anime": "103461",
+    "myanimelist/anime": "36079"
+  }
+}

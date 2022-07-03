@@ -1,0 +1,25 @@
+{
+  "slug": "stars-colliding",
+  "synopsis": "Official short lyric music video for The Charm Park's song Stars Colliding in honor of the single's digital release going on sale the same day. There will also be a mini album that has the song on July 3, 2019.",
+  "title": {
+    "en": "Stars Colliding",
+    "jp": "Stars Colliding"
+  },
+  "releasedAt": "2019-05-12T00:00:00.000Z",
+  "finishedAt": "2019-05-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42668/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/vc4vmKZb7HY"
+  ],
+  "relations": {
+    "kitsu": "42668",
+    "anilist/anime": "114435",
+    "myanimelist/anime": "39812"
+  }
+}

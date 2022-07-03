@@ -1,0 +1,25 @@
+{
+  "slug": "feihong-yong-chuang-tianxia",
+  "synopsis": "A Chinese movie from 2005.",
+  "title": {
+    "en": "The Warrior",
+    "jp": "Huang Feihong Yong Chuang Tianxia"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10959/original.jpg",
+  "categories": [
+    "action",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10959",
+    "anilist/anime": "103160",
+    "aozora": "gka3tpJDgG",
+    "myanimelist/anime": "30268"
+  }
+}

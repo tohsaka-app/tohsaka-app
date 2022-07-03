@@ -1,0 +1,25 @@
+{
+  "slug": "estab-life-great-escape",
+  "synopsis": "The distant future. After reaching its peak, Earth's population fell into decline. AI was developed to help preserve the species and manage the ecosystem; a grand experiment in human diversity. Through genetic engineering, a diverse array of peoples, including beastfolk, magical beings, and more, was created to live in a diverse city separated into walled \"clusters\".\n\nEach cluster developed a unique culture, befitting of the people that lived there. Their lives, and the system, is continually maintained by the AI to ensure survival.\n\n(Source: Polygon Pictures)",
+  "title": {
+    "en": "Estab-Life: Great Escape",
+    "jp": "Estab-Life: Great Escape"
+  },
+  "releasedAt": "2022-03-23T00:00:00.000Z",
+  "finishedAt": "2022-06-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45837/poster_image/6386c92c3f2359f17df38f4f03a9258c.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45837/cover_image/e14e6f482f8b9e1b1eb44b6dfffaf0a6.png",
+  "categories": [
+    "robot"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/estab-life-great-escape"
+  ],
+  "relations": {
+    "kitsu": "45837",
+    "anilist/anime": "143289"
+  }
+}

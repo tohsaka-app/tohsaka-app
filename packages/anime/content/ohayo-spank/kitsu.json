@@ -1,0 +1,33 @@
+{
+  "slug": "ohayo-spank",
+  "synopsis": "Morimura Aiko is a junior high school student who is short for her age. Her father went on a yacht ten years ago and his whereabouts remained in obscurity. Her mother, a designer for hats, left for Paris, leaving Aiko in the care of her uncle, Mr Fujinami. Aiko had a pet dog, Papi, but it died in a car accident. Around the same time, another dog, Spank, appears before her. Having gone through so many unfortunate events in her life, Spank's presence begins to brighten up Aiko's life and put a smile on her face.\n(Source: ANN)",
+  "title": {
+    "jp": "Ohayou! Spank"
+  },
+  "releasedAt": "1981-03-07T00:00:00.000Z",
+  "finishedAt": "1982-05-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2640/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2640",
+    "anidb": "2923",
+    "anilist/anime": "2912",
+    "aozora": "IMuSLAJO8H",
+    "myanimelist/anime": "2912",
+    "thetvdb": "145131/1",
+    "thetvdb/series": "145131",
+    "trakt": "68296"
+  }
+}

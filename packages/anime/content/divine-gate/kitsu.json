@@ -1,0 +1,31 @@
+{
+  "slug": "divine-gate",
+  "synopsis": "When the Divine Gate opened, the living world, the heavens, and the underworld became connected, ushering an era of chaos where desires and conflict intersect. To restore order, the World Council is formed. As peace is restored, the Divine Gate becomes an urban legend.\nIn that world, boys and girls deemed fit by the World Council are gathered. They are ones who aim to reach the gate for their personal objectives. Those who reach the gate can remake the world.\nWhat lies beyond the gate? When they reach the door, will the world change? Will it be the past that changes, or will it be the future?\n(Source: MAL News)",
+  "title": {
+    "en": "Divine Gate",
+    "jp": "Divine Gate"
+  },
+  "releasedAt": "2016-01-08T00:00:00.000Z",
+  "finishedAt": "2016-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11409/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11409/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11409",
+    "anidb": "11266",
+    "anilist/anime": "21380",
+    "aozora": "azA0kfWIuf",
+    "hulu": "50024926",
+    "myanimelist/anime": "31710",
+    "thetvdb": "299500/1",
+    "trakt": "101238"
+  }
+}

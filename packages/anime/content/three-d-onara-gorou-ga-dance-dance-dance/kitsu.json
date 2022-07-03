@@ -1,0 +1,23 @@
+{
+  "slug": "three-d-onara-gorou-ga-dance-dance-dance",
+  "synopsis": "Onara Gorou is now in 3D with a little dance and music number.",
+  "title": {
+    "jp": "3D Onara Gorou ga Dance Dance Dance!!"
+  },
+  "releasedAt": "2016-04-21T00:00:00.000Z",
+  "finishedAt": "2016-04-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12466/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12466",
+    "aozora": "0CuBaoaNQP",
+    "myanimelist/anime": "33696"
+  }
+}

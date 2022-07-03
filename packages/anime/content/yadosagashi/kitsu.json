@@ -1,0 +1,32 @@
+{
+  "slug": "yadosagashi",
+  "synopsis": "A nameless heroine packs up her belongings into a large satchel and heads out of the city. Walking on foot across the countryside, she encounters a strange collection of creepy crawlies and ghostly spirits. ",
+  "title": {
+    "en": "House Hunting",
+    "jp": "Yadosagashi"
+  },
+  "releasedAt": "2006-01-03T00:00:00.000Z",
+  "finishedAt": "2006-01-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3111/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "fantasy",
+    "fantasy world",
+    "japan",
+    "kids",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3111",
+    "anidb": "4103",
+    "anilist/anime": "3570",
+    "aozora": "OPcQcf9z2M",
+    "myanimelist/anime": "3570"
+  }
+}

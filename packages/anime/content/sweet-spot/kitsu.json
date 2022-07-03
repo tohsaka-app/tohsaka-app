@@ -1,0 +1,24 @@
+{
+  "slug": "sweet-spot",
+  "synopsis": "These \"amusing\" adventures of a golf-crazy Office Lady were based on a manga from Weekly Spa! magazine by Yutsuko Chudoji.\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "jp": "Sweet Spot"
+  },
+  "releasedAt": "1991-04-21T00:00:00.000Z",
+  "finishedAt": "1991-04-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9648/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9648",
+    "anidb": "4254",
+    "anilist/anime": "110276",
+    "aozora": "BnH4uSTzII",
+    "myanimelist/anime": "26035"
+  }
+}

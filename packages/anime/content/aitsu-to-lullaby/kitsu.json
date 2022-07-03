@@ -1,0 +1,25 @@
+{
+  "slug": "aitsu-to-lullaby",
+  "synopsis": "Based on a shounen manga by Kusunoki Michiharu serialised in Weekly Shounen Magazine.",
+  "title": {
+    "jp": "Aitsu to Lullaby: Suiyobi no Cinderella"
+  },
+  "releasedAt": "1987-08-01T00:00:00.000Z",
+  "finishedAt": "1987-08-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7092/original.jpg",
+  "categories": [
+    "drama",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7092",
+    "anidb": "7571",
+    "anilist/anime": "14183",
+    "aozora": "QwZLablORy",
+    "myanimelist/anime": "14183"
+  }
+}

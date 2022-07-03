@@ -1,0 +1,23 @@
+{
+  "slug": "ribbon",
+  "synopsis": "Music video of \"ribbon,\" the lead song of idol group sora tob sakana's mini album cocoon ep.",
+  "title": {
+    "jp": "Ribbon"
+  },
+  "releasedAt": "2017-04-10T00:00:00.000Z",
+  "finishedAt": "2017-04-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13751/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13751",
+    "anilist/anime": "104086",
+    "aozora": "0eMcFIHuj6",
+    "myanimelist/anime": "35423"
+  }
+}

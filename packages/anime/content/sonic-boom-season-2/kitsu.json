@@ -1,0 +1,24 @@
+{
+  "slug": "sonic-boom-season-2",
+  "synopsis": "Season 2 of Sonic Boom",
+  "title": {},
+  "releasedAt": "2016-10-29T00:00:00.000Z",
+  "finishedAt": "2017-11-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41006/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41006",
+    "thetvdb": "280103/2"
+  }
+}

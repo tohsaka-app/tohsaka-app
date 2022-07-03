@@ -1,0 +1,47 @@
+{
+  "slug": "mai-hime",
+  "synopsis": "Thirteen girls, each with the ability to materialize \"Elements\" and summon metallic guardians called \"Childs\" have been brought to Fuuka Academy to battle mysterious creatures called Orphans. Each with a different personality and background, they must decide who they truly care about and why they fight. ",
+  "title": {
+    "en": "My-Hime",
+    "jp": "Mai-HiME"
+  },
+  "releasedAt": "2004-09-30T00:00:00.000Z",
+  "finishedAt": "2005-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/77/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "conspiracy",
+    "drama",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "japan",
+    "magic",
+    "mecha",
+    "plot continuity",
+    "present",
+    "romance",
+    "school life",
+    "shoujo ai",
+    "slapstick",
+    "stereotypes",
+    "super power",
+    "tone changes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "77",
+    "anidb": "1554",
+    "anilist/anime": "98",
+    "aozora": "Gc15hsB0gz",
+    "myanimelist/anime": "98",
+    "thetvdb": "83020/1",
+    "thetvdb/series": "83020",
+    "trakt": "12543"
+  }
+}

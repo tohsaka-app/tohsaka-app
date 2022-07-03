@@ -1,0 +1,25 @@
+{
+  "slug": "say-fanfare",
+  "synopsis": "MV for Shirakami Fubuki's song Say! Fanfare!",
+  "title": {
+    "jp": "Say! Fanfare!"
+  },
+  "releasedAt": "2020-01-23T00:00:00.000Z",
+  "finishedAt": "2020-01-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43776/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43776/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=pFgUluV_00"
+  ],
+  "relations": {
+    "kitsu": "43776",
+    "myanimelist/anime": "44271"
+  }
+}

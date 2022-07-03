@@ -1,0 +1,23 @@
+{
+  "slug": "soushin-shoujo-matoi-special",
+  "synopsis": "Special Episode of Soushin Shoujo Matoi to air after final episode.",
+  "title": {
+    "jp": "Soushin Shoujo Matoi: Yuma-chin, Matomemashita - Nanimo Kitenakute... Natsu"
+  },
+  "releasedAt": "2016-12-27T00:00:00.000Z",
+  "finishedAt": "2016-12-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13004/original.jpg",
+  "categories": [
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13004",
+    "aozora": "e0hHz65k9a",
+    "myanimelist/anime": "34538"
+  }
+}

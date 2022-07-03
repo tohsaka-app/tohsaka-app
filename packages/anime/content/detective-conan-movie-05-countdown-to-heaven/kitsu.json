@@ -1,0 +1,38 @@
+{
+  "slug": "detective-conan-movie-05-countdown-to-heaven",
+  "synopsis": " As a pair of towers in Tokyo are being prepared for their grand opening, there is a series of murders of people connected to the towers. Conan suspects that the mysterious Syndicate may also be involved.\n(Source: ANN)",
+  "title": {
+    "en": "Case Closed Movie 5: Countdown to Heaven",
+    "jp": "Detective Conan Movie 05: Countdown to Heaven"
+  },
+  "releasedAt": "2001-04-21T00:00:00.000Z",
+  "finishedAt": "2001-04-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1218/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1218/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "comedy",
+    "conspiracy",
+    "cops",
+    "crime",
+    "detective",
+    "earth",
+    "japan",
+    "mystery",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1218",
+    "anidb": "1065",
+    "anilist/anime": "1364",
+    "aozora": "hhTIHp8Izj",
+    "myanimelist/anime": "1364",
+    "trakt": "30849"
+  }
+}

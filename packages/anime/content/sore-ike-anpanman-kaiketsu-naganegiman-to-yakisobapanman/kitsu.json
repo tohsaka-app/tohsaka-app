@@ -1,0 +1,27 @@
+{
+  "slug": "sore-ike-anpanman-kaiketsu-naganegiman-to-yakisobapanman",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Yakisobapanman"
+  },
+  "releasedAt": "2001-07-14T00:00:00.000Z",
+  "finishedAt": "2001-07-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9616/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9616",
+    "anidb": "7757",
+    "anilist/anime": "119836",
+    "aozora": "OWOK0ODf7c",
+    "myanimelist/anime": "27495"
+  }
+}

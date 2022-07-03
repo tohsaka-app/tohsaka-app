@@ -1,0 +1,33 @@
+{
+  "slug": "re-zero-kara-hajimeru-isekai-seikatsu-2",
+  "synopsis": "Re:ZERO finally returns as Subaru aims to solve the mysteries behind the death loop and the Fog of Elimination!(Source: Crunchyroll)",
+  "title": {
+    "en": "Re:ZERO -Starting Life in Another World- Season 2",
+    "jp": "Re:Zero kara Hajimeru Isekai Seikatsu 2"
+  },
+  "releasedAt": "2020-07-08T00:00:00.000Z",
+  "finishedAt": "2020-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42198/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42198/original.png",
+  "categories": [
+    "drama",
+    "fantasy",
+    "isekai",
+    "magic",
+    "parallel universe",
+    "psychological",
+    "thriller",
+    "violence"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/rezero-starting-life-in-another-world-"
+  ],
+  "relations": {
+    "kitsu": "42198",
+    "anilist/anime": "108632",
+    "myanimelist/anime": "39587"
+  }
+}

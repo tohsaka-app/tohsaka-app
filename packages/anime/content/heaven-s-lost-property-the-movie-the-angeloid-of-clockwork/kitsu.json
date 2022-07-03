@@ -1,0 +1,43 @@
+{
+  "slug": "heaven-s-lost-property-the-movie-the-angeloid-of-clockwork",
+  "synopsis": "Movie adaptation of the Sora no Otoshimono manga, based on Kazane Hiyori's arc.",
+  "title": {
+    "en": "Heaven's Lost Property the Movie: The Angeloid of Clockwork",
+    "jp": "Sora no Otoshimono: Tokeijikake no Angeloid"
+  },
+  "releasedAt": "2011-06-25T00:00:00.000Z",
+  "finishedAt": "2011-06-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5869/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5869/original.jpg",
+  "categories": [
+    "android",
+    "angel",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "drama",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "japan",
+    "present",
+    "romance",
+    "science fiction",
+    "slapstick"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/48164/"
+  ],
+  "relations": {
+    "kitsu": "5869",
+    "anidb": "8271",
+    "anilist/anime": "9790",
+    "aozora": "WEHYHmSXfR",
+    "hulu": "50012065",
+    "myanimelist/anime": "9790"
+  }
+}

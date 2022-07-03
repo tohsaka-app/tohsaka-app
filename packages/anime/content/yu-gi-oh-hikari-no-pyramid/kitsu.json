@@ -1,0 +1,33 @@
+{
+  "slug": "yu-gi-oh-hikari-no-pyramid",
+  "synopsis": "Anubis, an ancient Egyptian evil that was defeated by Yugi's alter ego centuries ago, has returned to exact revenge. Wielding the power of the Eighth Millennium Item, Anubis is determined to destroy Yugi and take over the world.\n(Source: ANN)",
+  "title": {
+    "en": "Yu-Gi-Oh!: The Movie",
+    "jp": "Yu☆Gi☆Oh!: Hikari no Pyramid"
+  },
+  "releasedAt": "2004-08-13T00:00:00.000Z",
+  "finishedAt": "2004-08-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1704/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "card games",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "proxy battles",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1704",
+    "anidb": "2761",
+    "anilist/anime": "1894",
+    "aozora": "HpyDlkgQA1",
+    "myanimelist/anime": "1894"
+  }
+}

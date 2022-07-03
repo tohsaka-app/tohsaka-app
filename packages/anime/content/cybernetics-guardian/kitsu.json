@@ -1,0 +1,31 @@
+{
+  "slug": "cybernetics-guardian",
+  "synopsis": "A freak accident unleashes a demonic spirit within researcher John Stalker - transforming him into Saldo, a mythical cyber-beast fueled by hate and evil.\n(Source: ANN)",
+  "title": {
+    "en": "Cybernetics Guardian",
+    "jp": "Seijuuki Cyguard"
+  },
+  "releasedAt": "1989-01-11T00:00:00.000Z",
+  "finishedAt": "1989-01-11T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3322/original.jpg",
+  "categories": [
+    "action",
+    "cyborg",
+    "future",
+    "human enhancement",
+    "mecha",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3322",
+    "anidb": "1615",
+    "anilist/anime": "3882",
+    "aozora": "y9gISBCHGW",
+    "myanimelist/anime": "3882"
+  }
+}

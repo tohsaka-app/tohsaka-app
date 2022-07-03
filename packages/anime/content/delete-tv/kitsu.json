@@ -1,0 +1,20 @@
+{
+  "slug": "delete-tv",
+  "synopsis": "Cancelled by the studio: https://twitter.com/gn_staff/status/1065531074317496320",
+  "title": {
+    "jp": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13904/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "13904",
+    "anilist/anime": "98581",
+    "myanimelist/anime": "35380"
+  }
+}

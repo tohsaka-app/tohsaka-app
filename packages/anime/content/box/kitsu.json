@@ -1,0 +1,23 @@
+{
+  "slug": "box",
+  "synopsis": "Film by Takashi Ito.",
+  "title": {
+    "jp": "Box"
+  },
+  "releasedAt": "1982-01-01T00:00:00.000Z",
+  "finishedAt": "1982-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11222/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11222",
+    "anilist/anime": "103526",
+    "aozora": "IAzKaWs1gy",
+    "myanimelist/anime": "31258"
+  }
+}

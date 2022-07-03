@@ -1,0 +1,30 @@
+{
+  "slug": "kuroko-no-basket-movie-1-winter-cup-soushuuhen-kage-to-hikari",
+  "synopsis": "First of three compilation films of Kuroko no Basket.",
+  "title": {
+    "en": "Winter Cup Highlights -Shadow and Light- (Part 1)",
+    "jp": "Kuroko no Basket Movie 1: Winter Cup - Kage to Hikari"
+  },
+  "releasedAt": "2016-09-03T00:00:00.000Z",
+  "finishedAt": "2016-09-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11889/original.jpg",
+  "categories": [
+    "basketball",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/kurokos-basketball"
+  ],
+  "relations": {
+    "kitsu": "11889",
+    "anidb": "11615",
+    "anilist/anime": "102093",
+    "aozora": "b6HDUtmKzG",
+    "myanimelist/anime": "32869"
+  }
+}

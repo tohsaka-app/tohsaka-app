@@ -1,0 +1,31 @@
+{
+  "slug": "shadows-house",
+  "synopsis": "Faceless shadow nobles living in a vast mansion, attended by living dolls who spend much of their time cleaning up the soot endlessly emitted by their mysterious masters.\n\nFollow the story of Emilyko, a young and cheerful living doll, as she learns her duties serving as the attendant for Kate Shadow-sama.\n\n(Source: MU)",
+  "title": {
+    "en": "Shadows House",
+    "jp": "Shadows House"
+  },
+  "releasedAt": "2021-04-11T00:00:00.000Z",
+  "finishedAt": "2021-07-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43820/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43820/original.png",
+  "categories": [
+    "fantasy",
+    "horror",
+    "mystery",
+    "seinen",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/shadows-house"
+  ],
+  "relations": {
+    "kitsu": "43820",
+    "anilist/anime": "125038",
+    "myanimelist/anime": "43439"
+  }
+}

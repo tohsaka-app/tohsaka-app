@@ -1,0 +1,23 @@
+{
+  "slug": "yozakura-quartet-yoza-quar",
+  "synopsis": "Each of the six BD/DVDs will include one short. They will feature the characters in a \"slighly risqué\" light not seen in the main story.",
+  "title": {
+    "jp": "Yozakura Quartet: Yoza-Quar!"
+  },
+  "releasedAt": "2013-12-18T00:00:00.000Z",
+  "finishedAt": "2014-05-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8202/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8202",
+    "anilist/anime": "20523",
+    "aozora": "HymVR1CM5p",
+    "myanimelist/anime": "20987"
+  }
+}

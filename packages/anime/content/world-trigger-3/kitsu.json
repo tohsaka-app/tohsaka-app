@@ -1,0 +1,34 @@
+{
+  "slug": "world-trigger-3",
+  "synopsis": "The third season of World Trigger.",
+  "title": {
+    "en": "World Trigger 3",
+    "jp": "World Trigger 3"
+  },
+  "releasedAt": "2021-10-09T00:00:00.000Z",
+  "finishedAt": "2022-01-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44396/poster_image/352920b21d89d932363d12f2a9af65ac.jpg",
+  "categories": [
+    "action",
+    "contemporary fantasy",
+    "fantasy",
+    "school life",
+    "science fiction",
+    "shounen",
+    "super power",
+    "supernatural",
+    "swordplay"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/world-trigger"
+  ],
+  "relations": {
+    "kitsu": "44396",
+    "anidb": "15934",
+    "anilist/anime": "127400",
+    "myanimelist/anime": "44940"
+  }
+}

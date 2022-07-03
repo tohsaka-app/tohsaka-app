@@ -1,0 +1,25 @@
+{
+  "slug": "diary",
+  "synopsis": "Official music video for Ken Kamikita's song Diary which was also released on his first album titled \"SCOOP\".",
+  "title": {
+    "en": "Diary",
+    "jp": "Diary"
+  },
+  "releasedAt": "2015-07-23T00:00:00.000Z",
+  "finishedAt": "2015-07-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13832/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13832",
+    "anilist/anime": "103502",
+    "aozora": "fW4wi56wP4",
+    "myanimelist/anime": "36175"
+  }
+}

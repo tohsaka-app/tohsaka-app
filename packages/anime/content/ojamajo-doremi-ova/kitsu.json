@@ -1,0 +1,25 @@
+{
+  "slug": "ojamajo-doremi-ova",
+  "synopsis": "Traffic Safety: Onpu teaches traffic safety.\nBicycle Safety Classroom: Momoko teaches bicycle safety.\nLet's!! Cooking: Learn how to make special treats!\n(Source: Royal Patraine)",
+  "title": {
+    "jp": "Ojamajo Doremi OVA"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2001-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6771/original.jpg",
+  "categories": [
+    "kids",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6771",
+    "anilist/anime": "12591",
+    "aozora": "kguSHlTFEy",
+    "myanimelist/anime": "12591"
+  }
+}

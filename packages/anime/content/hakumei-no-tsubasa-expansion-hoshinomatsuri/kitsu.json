@@ -1,0 +1,29 @@
+{
+  "slug": "hakumei-no-tsubasa-expansion-hoshinomatsuri",
+  "synopsis": null,
+  "title": {
+    "en": "Pokemon: Twilight Wings EXPANSION",
+    "jp": "Hakumei no Tsubasa EXPANSION ~Hoshinomatsuri~"
+  },
+  "releasedAt": "2020-11-05T00:00:00.000Z",
+  "finishedAt": "2020-11-05T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43737/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43737/original.jpeg",
+  "categories": [
+    "action",
+    "fantasy",
+    "fantasy world",
+    "proxy battles"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=rbtybA7xT2M"
+  ],
+  "relations": {
+    "kitsu": "43737",
+    "anilist/anime": "125308",
+    "myanimelist/anime": "43568"
+  }
+}

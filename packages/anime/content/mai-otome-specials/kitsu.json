@@ -1,0 +1,26 @@
+{
+  "slug": "mai-otome-specials",
+  "synopsis": "Specials that followed on the Mai-Otome DVD.",
+  "title": {
+    "jp": "Mai-Otome Specials"
+  },
+  "releasedAt": "2006-01-27T00:00:00.000Z",
+  "finishedAt": "2006-09-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1490/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1490",
+    "anilist/anime": "1659",
+    "aozora": "nrcsW13yGx",
+    "myanimelist/anime": "1659"
+  }
+}

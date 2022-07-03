@@ -1,0 +1,35 @@
+{
+  "slug": "ryuusei-no-rockman-tribe",
+  "synopsis": "The second series is to follow the events of the second video game, focusing on the lost continent of Mu. The ancient civilization vanished ages ago, and a few of its remnants still exist as myths and legends called UMAs (unidentified lifeforms). The UMAs begin merging with humans in order to search for the treasures of Mu, the powerful ooparts, which will give them the power to revive Mu. After Subaru and War-Rock encounter several unusual enemies, they meet a professor named Doctor Orihime who sends them on a quest to find the ooparts and stop the UMAs. Using the ooparts, Rockman is able to take new forms, including Thunder Berserk, Fire Dinosaur, and Green Shinobi. (Source: Wikipedia)",
+  "title": {
+    "en": "Mega Man Star Force Tribe",
+    "jp": "Ryuusei no Rockman Tribe"
+  },
+  "releasedAt": "2007-11-03T00:00:00.000Z",
+  "finishedAt": "2008-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3049/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "future",
+    "japan",
+    "science fiction",
+    "super power",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3049",
+    "anidb": "5524",
+    "anilist/anime": "3493",
+    "aozora": "caBLkzQRHE",
+    "hulu": "50020808",
+    "myanimelist/anime": "3493",
+    "thetvdb": "181701",
+    "trakt": "64275"
+  }
+}

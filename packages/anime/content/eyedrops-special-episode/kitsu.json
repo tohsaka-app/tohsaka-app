@@ -1,0 +1,22 @@
+{
+  "slug": "eyedrops-special-episode",
+  "synopsis": "New episodes of Eyedrops that continue the story. Meant to promote the Sante MediGuard EX eyedrops.",
+  "title": {
+    "jp": "Eyedrops Special Episode"
+  },
+  "releasedAt": "2018-02-08T00:00:00.000Z",
+  "finishedAt": "2018-03-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41765/original.jpg",
+  "categories": [
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41765",
+    "anilist/anime": "109193",
+    "myanimelist/anime": "37279"
+  }
+}

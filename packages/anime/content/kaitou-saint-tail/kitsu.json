@@ -1,0 +1,38 @@
+{
+  "slug": "kaitou-saint-tail",
+  "synopsis": "Meimi Haneoka, 14, is a normal girl during the daytime, but during the night, she assumes the \"position\" of Saint Tail, a modern-day Robin Hood who steals from thieves and gives items back to their original owners. She is aided by her friend, Seira Mimori, a nun-in-training, and she is chased by her classmate (and soon-to-be love interest), Daiki Asuka (often called \"Asuka Jr.\"). \n(Source: ANN)",
+  "title": {
+    "en": "Mysterious Thief Saint Tail",
+    "jp": "Kaitou Saint Tail"
+  },
+  "releasedAt": "1995-10-12T00:00:00.000Z",
+  "finishedAt": "1996-09-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1407/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1407/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "magic",
+    "present",
+    "romance",
+    "school life",
+    "thievery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1407",
+    "anidb": "852",
+    "anilist/anime": "1567",
+    "aozora": "Az5sbvU7Mg",
+    "myanimelist/anime": "1567",
+    "thetvdb": "167111/1",
+    "thetvdb/series": "167111",
+    "trakt": "13393"
+  }
+}

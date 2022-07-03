@@ -1,0 +1,26 @@
+{
+  "slug": "perman-birdman-ga-yatte-kita",
+  "synopsis": "Screened as a triple feature with Doraemon: Nobita no Kaitei Kiganjou and Ninja Hattori-kun: Nin Nin Furusato Daisakusen no Maki.\n(Source: AniDB)",
+  "title": {
+    "jp": "Perman: Birdman ga Yatte Kita!!"
+  },
+  "releasedAt": "1983-03-12T00:00:00.000Z",
+  "finishedAt": "1983-03-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10430/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10430",
+    "anidb": "3206",
+    "aozora": "jWwAw4qPRg",
+    "myanimelist/anime": "29613"
+  }
+}

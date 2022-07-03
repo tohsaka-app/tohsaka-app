@@ -1,0 +1,23 @@
+{
+  "slug": "chi-dor-dor-chi-dor-dor",
+  "synopsis": "Chi Dor Dor is a squirrel boy, and another Chi Dor Dor, is a rabbit detective who always follows Chi Dor Dor to ensure him doing everything right. This series is used to spread the idea of anti-corruption to the kids.",
+  "title": {
+    "jp": "Chi Dor Dor, Chi Dor Dor"
+  },
+  "releasedAt": "1999-08-23T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5931/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5931",
+    "anilist/anime": "9903",
+    "aozora": "crs0brNfLq",
+    "myanimelist/anime": "9903"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "onikemodance",
+  "synopsis": "Music video for the song ONIKEMODANCE by AyaFubuMi.",
+  "title": {
+    "jp": "ONIKEMODANCE"
+  },
+  "releasedAt": "2022-01-19T00:00:00.000Z",
+  "finishedAt": "2022-01-19T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45790/poster_image/743b790ddf1738c6ae65176f31295de4.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=4Hg0Nchl3HU"
+  ],
+  "relations": {
+    "kitsu": "45790"
+  }
+}

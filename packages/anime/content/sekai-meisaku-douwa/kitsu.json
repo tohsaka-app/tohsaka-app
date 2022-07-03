@@ -1,0 +1,25 @@
+{
+  "slug": "sekai-meisaku-douwa",
+  "synopsis": "Another of Toei's World Famous Fairy Tale series consisting of 20 stories, 10 minutes each. \n(Source: AniDB)",
+  "title": {
+    "en": "World Famous Fairy Tale Series",
+    "jp": "Sekai Meisaku Douwa"
+  },
+  "releasedAt": "1975-10-01T00:00:00.000Z",
+  "finishedAt": "1983-02-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4960/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4960",
+    "anidb": "7051",
+    "anilist/anime": "7398",
+    "aozora": "Cedro3iXDF",
+    "myanimelist/anime": "7398"
+  }
+}

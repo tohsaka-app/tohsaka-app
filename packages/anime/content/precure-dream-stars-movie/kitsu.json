@@ -1,0 +1,28 @@
+{
+  "slug": "precure-dream-stars-movie",
+  "synopsis": "",
+  "title": {
+    "jp": "Precure Dream Stars! Movie"
+  },
+  "releasedAt": "2017-03-18T00:00:00.000Z",
+  "finishedAt": "2017-03-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13664/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13664",
+    "anidb": "12509",
+    "anilist/anime": "99642",
+    "aozora": "7S3QJboQSY",
+    "myanimelist/anime": "34302"
+  }
+}

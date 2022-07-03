@@ -1,0 +1,25 @@
+{
+  "slug": "the-olympic-adventures-of-fuwa",
+  "synopsis": "The series, produced by Kaku TV and China Beijing TV Station, aired on China Beijing TV Station and over 100 other Chinese television channels.\nCreators from Mainland China and Hong Kong collaborated to produce the series.",
+  "title": {
+    "jp": "Fuwa Aoyun Manyouji"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5958/original.jpg",
+  "categories": [
+    "china",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5958",
+    "anidb": "6298",
+    "anilist/anime": "9949",
+    "aozora": "HRwhvDXGiy",
+    "myanimelist/anime": "9949"
+  }
+}

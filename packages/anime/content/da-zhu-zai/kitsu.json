@@ -1,0 +1,28 @@
+{
+  "slug": "da-zhu-zai",
+  "synopsis": "",
+  "title": {
+    "en": "The Grand Lord",
+    "jp": "Da Zhu Zai"
+  },
+  "releasedAt": "2019-08-07T00:00:00.000Z",
+  "finishedAt": "2019-10-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42643/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42643",
+    "anilist/anime": "111125",
+    "myanimelist/anime": "40233"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "noroma-na-jiji",
+  "synopsis": "An early Noburou Oofuji film, it was artificially coloured in the senshoku (tinting) method, where the developed film was immersed in dye baths.",
+  "title": {
+    "en": "An Old Fool",
+    "jp": "Noroma na Jiji"
+  },
+  "releasedAt": "1924-01-01T00:00:00.000Z",
+  "finishedAt": "1924-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10203/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10203",
+    "anilist/anime": "121975",
+    "aozora": "3HLTMTvCCD",
+    "myanimelist/anime": "28689"
+  }
+}

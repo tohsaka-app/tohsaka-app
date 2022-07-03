@@ -1,0 +1,27 @@
+{
+  "slug": "doraemon-ganbare-gian",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "en": "Doraemon: Ganbare! Gian!!",
+    "jp": "Doraemon: Ganbare! Gian!!"
+  },
+  "releasedAt": "2001-03-10T00:00:00.000Z",
+  "finishedAt": "2001-03-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2417/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2417",
+    "anilist/anime": "2653",
+    "aozora": "xOlIeH6Yxg",
+    "myanimelist/anime": "2653"
+  }
+}

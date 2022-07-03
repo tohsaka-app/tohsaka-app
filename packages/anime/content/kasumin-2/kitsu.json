@@ -1,0 +1,25 @@
+{
+  "slug": "kasumin-2",
+  "synopsis": " Second season of Kasumin",
+  "title": {
+    "jp": "Kasumin 2nd Season"
+  },
+  "releasedAt": "2002-10-05T00:00:00.000Z",
+  "finishedAt": "2003-04-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9368/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9368",
+    "anidb": "6058",
+    "anilist/anime": "20857",
+    "aozora": "LdbqVKejUl",
+    "myanimelist/anime": "27723"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "anitore-ex",
+  "synopsis": "\"Move your soul and body!\" Each episode contains a variety of routines, such as push-ups, sit-ups, spine twists, dance, yoga, stretches, trunk training, and taichi. Five girls aiming to become idols will exercise with you, and that troubling body fat percentage will go down by 1000%...!?",
+  "title": {
+    "en": "Anime de Training! Ex",
+    "jp": "Anitore! EX"
+  },
+  "releasedAt": "2015-10-13T00:00:00.000Z",
+  "finishedAt": "2015-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11347/original.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11347",
+    "anidb": "11540",
+    "anilist/anime": "21320",
+    "aozora": "ZxCswtZ6ms",
+    "myanimelist/anime": "31519",
+    "thetvdb": "300110/1",
+    "trakt": "101613"
+  }
+}

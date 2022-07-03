@@ -1,0 +1,33 @@
+{
+  "slug": "yuusha-exkaiser",
+  "synopsis": "When aliens plan to invade earth, the young Kouta along with a giant robot from outspace named Exkaiser must team up to save the world and his friends.",
+  "title": {
+    "en": "The Brave Fighter Exkizer",
+    "jp": "Yuusha Exkaiser"
+  },
+  "releasedAt": "1990-02-03T00:00:00.000Z",
+  "finishedAt": "1991-01-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2937/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "earth",
+    "japan",
+    "mecha",
+    "robot",
+    "science fiction",
+    "super robot",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2937",
+    "anidb": "1707",
+    "anilist/anime": "3325",
+    "aozora": "RXYhup7P6T",
+    "myanimelist/anime": "3325"
+  }
+}

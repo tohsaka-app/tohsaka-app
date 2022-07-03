@@ -1,0 +1,32 @@
+{
+  "slug": "kinnikuman-nisei",
+  "synopsis": "Kinnikuman II Sei takes place several years after the events of the original Kinnikuman. Mantarou Kinniku is the 59th prince of Planet Kinniku and son of the renowned wrestler, King Suguru. Lazy, immature, and cowardly, Mantarou seems to have little in common with his heroic father. \nWhen a powerful group calling themselves the dMP threatens the Earth, only someone as powerful as Kinnikuman stands a chance against them. Not knowing the current whereabouts of the King, a plan is formed to have his son Mantarou take up the mantle. The idea of fighting super villains does not sit well with Mantarou, who initially runs away from his duty. He flees to Earth where he encounters Meat, his father’s old trainer. Despite Mantarou's shortcomings, Meat sees King Suguru in him, and believes he can set the prince on the right path. Thus begins Mantarou's journey to better himself and save the world.",
+  "title": {
+    "en": "Ultimate Muscle",
+    "jp": "Kinnikuman II Sei"
+  },
+  "releasedAt": "2002-01-09T00:00:00.000Z",
+  "finishedAt": "2002-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1532/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "martial arts",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1532",
+    "anidb": "2130",
+    "anilist/anime": "1707",
+    "aozora": "TxK74k77F6",
+    "myanimelist/anime": "1707",
+    "thetvdb": "250848/1",
+    "thetvdb/series": "250848",
+    "trakt": "9502"
+  }
+}

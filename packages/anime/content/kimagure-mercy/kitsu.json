@@ -1,0 +1,24 @@
+{
+  "slug": "kimagure-mercy",
+  "synopsis": "Animated PV created for the release of Hachioji-P's「Eight -THE BEST OF 八王子P-」\n\nIt tells the story of a girl who is sick of dealing with a man who is shallow, and only interested in her when he wants something from her. After listening to his constant excuses, she finally has enough with the disinterest he has in her, and leaves him.\n\n(Source: Vocaloid Wiki)",
+  "title": {
+    "jp": "Kimagure Mercy"
+  },
+  "releasedAt": "2016-06-03T00:00:00.000Z",
+  "finishedAt": "2016-06-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14197/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=o1iz4L-5zkQ"
+  ],
+  "relations": {
+    "kitsu": "14197",
+    "anilist/anime": "105963",
+    "myanimelist/anime": "36630"
+  }
+}

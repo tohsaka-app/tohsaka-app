@@ -1,0 +1,23 @@
+{
+  "slug": "susume-gachimuchi-sankyoudai",
+  "synopsis": "A short comedy show about 3 brothers who work out at a gym.",
+  "title": {
+    "jp": "Susume! Gachimuchi Sankyoudai"
+  },
+  "releasedAt": "2010-06-02T00:00:00.000Z",
+  "finishedAt": "2010-06-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5549/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5549",
+    "anilist/anime": "8957",
+    "aozora": "SYvw8vut75",
+    "myanimelist/anime": "8957"
+  }
+}

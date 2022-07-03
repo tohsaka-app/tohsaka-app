@@ -1,0 +1,43 @@
+{
+  "slug": "baldr-force-exe-resolution",
+  "synopsis": "Any network runs all over the world, and the development of the information network reaches its acme. In this age, there are two developed worlds; \"the real world\" and \"wired\", or the virtual network world.\nSoma Toru belongs to a hacking group, Steppen Wolf, which runs around the network world freely. They attack the database of the UN forces as their last work. During this attack, he loses Nonomura Yuya, his friend as well as the team leader. Toru is arrested by the army. In exchange for letting him free, he has to work for an anti-hacker organization, the first squad of the UN Security Force Information Administration Bureau.\nWorking for them, he is looking for the person who killed his friend, while the other members also have their own reason to fight.\nThe three-way fights of the terrorist group, the security enterprise, and the army, continue every day. The various events occurred during the fight seem to be independent of each other at the first glance, but they're converging on one event as if they were attracted by something. \nBased on the game by GIGA.\n(Source: ANN)",
+  "title": {
+    "jp": "Baldr Force Exe Resolution"
+  },
+  "releasedAt": "2006-11-10T00:00:00.000Z",
+  "finishedAt": "2007-04-04T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1511/original.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "asia",
+    "cyberpunk",
+    "drama",
+    "earth",
+    "fantasy world",
+    "future",
+    "japan",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "thriller",
+    "violence",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/baldr-force-exe",
+    "http://www.funimation.com/shows/75246",
+    "https://www.animelab.com/shows/baldr-force-exe"
+  ],
+  "relations": {
+    "kitsu": "1511",
+    "anidb": "3445",
+    "anilist/anime": "1682",
+    "aozora": "ZoQgnneIrd",
+    "hulu": "50000889",
+    "myanimelist/anime": "1682"
+  }
+}

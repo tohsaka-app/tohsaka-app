@@ -1,0 +1,21 @@
+{
+  "slug": "osaka-underground",
+  "synopsis": "",
+  "title": {
+    "jp": "Osaka Underground"
+  },
+  "releasedAt": "2014-11-13T00:00:00.000Z",
+  "finishedAt": "2014-11-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42506/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42506/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42506"
+  }
+}

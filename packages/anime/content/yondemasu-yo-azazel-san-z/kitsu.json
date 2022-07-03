@@ -1,0 +1,35 @@
+{
+  "slug": "yondemasu-yo-azazel-san-z",
+  "synopsis": "The second season of Yondemasu yo, Azazel-san.",
+  "title": {
+    "en": "You're Being Summoned",
+    "jp": "Yondemasu yo, Azazel-san. Z"
+  },
+  "releasedAt": "2013-04-07T00:00:00.000Z",
+  "finishedAt": "2013-06-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7391/original.jpeg",
+  "categories": [
+    "comedy",
+    "demon",
+    "japan",
+    "present",
+    "slapstick",
+    "super deformed",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7391",
+    "anidb": "9501",
+    "anilist/anime": "16241",
+    "aozora": "g2g9sZVoCQ",
+    "myanimelist/anime": "16241",
+    "thetvdb": "247911/2",
+    "thetvdb/season": "505188",
+    "thetvdb/series": "247911",
+    "trakt": "63582"
+  }
+}

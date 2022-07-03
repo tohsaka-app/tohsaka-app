@@ -1,0 +1,28 @@
+{
+  "slug": "nakanohito-genome-jikkyouchuu-knots-of-memories",
+  "synopsis": "An original story included with volume 10 of the Nakanohito Genome [Jikkyouchuu] manga.\n",
+  "title": {
+    "en": "The Ones Within: Knots of Memories",
+    "jp": "Nakanohito Genome [Jikkyouchuu]: Knots of Memories"
+  },
+  "releasedAt": "2020-02-27T00:00:00.000Z",
+  "finishedAt": "2020-02-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42637/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42637",
+    "anidb": "15217",
+    "anilist/anime": "112177",
+    "myanimelist/anime": "40460"
+  }
+}

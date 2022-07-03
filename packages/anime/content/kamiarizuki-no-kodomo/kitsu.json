@@ -1,0 +1,29 @@
+{
+  "slug": "kamiarizuki-no-kodomo",
+  "synopsis": "Kanna loses her love of running after her mother passes away. Due to the workings of the gods, she heads to Izumo City.\n\n(Source: ANN)",
+  "title": {
+    "en": "Child of Kamiari Month",
+    "jp": "Kamiarizuki no Kodomo"
+  },
+  "releasedAt": "2021-10-08T00:00:00.000Z",
+  "finishedAt": "2021-10-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43505/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43505/original.png",
+  "categories": [
+    "adventure",
+    "demon",
+    "fantasy",
+    "mystery"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81478031"
+  ],
+  "relations": {
+    "kitsu": "43505",
+    "anilist/anime": "118390",
+    "myanimelist/anime": "41877"
+  }
+}

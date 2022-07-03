@@ -1,0 +1,23 @@
+{
+  "slug": "taku-boda",
+  "synopsis": "A short animation by Taku Furukawa and CG animator Noriyuki Boda.",
+  "title": {
+    "jp": "Taku Boda"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10837/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10837",
+    "anilist/anime": "103699",
+    "aozora": "RGfuaIHnSw",
+    "myanimelist/anime": "30404"
+  }
+}

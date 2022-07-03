@@ -1,0 +1,32 @@
+{
+  "slug": "video-ehonkan-sekai-meisaku-douwa",
+  "synopsis": "Classic children's literary works told in a chibi art style. ",
+  "title": {
+    "en": "Funky Fables",
+    "jp": "Video Ehonkan Sekai Meisaku Douwa"
+  },
+  "releasedAt": "1988-12-04T00:00:00.000Z",
+  "finishedAt": "1990-09-13T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10596/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "historical",
+    "kids",
+    "magic",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10596",
+    "anidb": "7164",
+    "anilist/anime": "130366",
+    "aozora": "qMNQVoYf6c",
+    "myanimelist/anime": "30029"
+  }
+}

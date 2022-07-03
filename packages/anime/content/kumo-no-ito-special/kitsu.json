@@ -1,0 +1,23 @@
+{
+  "slug": "kumo-no-ito-special",
+  "synopsis": "Man tries to escape from Hell using string of spider silk.",
+  "title": {
+    "jp": "Kumo no Ito (Special)"
+  },
+  "releasedAt": "1979-01-01T00:00:00.000Z",
+  "finishedAt": "1979-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10408/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10408",
+    "anidb": "11389",
+    "aozora": "65sSawhfq8",
+    "myanimelist/anime": "29718"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "hoshi-wo-katta-hi",
+  "synopsis": "A young boy, tired of the city, escapes into the country. When trying to bring vegetables to the market to sell, his cart breaks down and he exchanges the vegetables for a mystical seed. Returning home he plants the seed in a normal pot- only to find it growing into a planet. \n(Source: ANN)",
+  "title": {
+    "en": "The Day I Bought a Star",
+    "jp": "Hoshi wo Katta Hi"
+  },
+  "releasedAt": "2006-01-03T00:00:00.000Z",
+  "finishedAt": "2006-01-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4570/original.jpg",
+  "categories": [
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4570",
+    "anidb": "4104",
+    "anilist/anime": "6463",
+    "aozora": "wg1BSf4BJx",
+    "myanimelist/anime": "6463"
+  }
+}

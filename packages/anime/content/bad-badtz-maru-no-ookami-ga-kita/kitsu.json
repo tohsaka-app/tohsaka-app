@@ -1,0 +1,25 @@
+{
+  "slug": "bad-badtz-maru-no-ookami-ga-kita",
+  "synopsis": "Bad Badtz-Maru and friends re-create the classic story of The Boy Who Cried Wolf.",
+  "title": {
+    "en": "Bad Badtz-Maru in The Boy Who Cried Wolf",
+    "jp": "Bad Badtz-Maru no Ookami ga Kita!"
+  },
+  "releasedAt": "2001-07-20T00:00:00.000Z",
+  "finishedAt": "2001-07-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8961/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8961",
+    "anidb": "7827",
+    "aozora": "yv2qNvAlRa",
+    "myanimelist/anime": "22451"
+  }
+}

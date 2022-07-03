@@ -1,0 +1,23 @@
+{
+  "slug": "tanuki-to-kisune",
+  "synopsis": "The manga's story centers on the daily lives of a raccoon dog who is not quite with it and a mischievous fox who likes to tease the raccoon dog. The two are close friends who live together on a mountain. Their other friends include a wolf, a bear, a rabbit, and birds.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Tanuki to Kitsune"
+  },
+  "releasedAt": "2018-02-01T00:00:00.000Z",
+  "finishedAt": "2018-05-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14189/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14189",
+    "anidb": "13674",
+    "anilist/anime": "121802",
+    "myanimelist/anime": "36979"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "chrono-trigger",
+  "synopsis": "It’s the night before the fair celebrating the Kingdom of Guardia’s one thousand year anniversary. When the humans have gone to sleep for the night, excited about the next day’s celebration, the monsters come out to play.\nNuu and Mamo are two little monsters itching to have their own adventure in time and space, and their adventure group Nuumamonjaa is recruiting new members. Since neither is particularly strong in the brains department, their adventure turns into a disaster as they get into one mishap after another.\nA fast drinking competition, a close encounter with a robotic cat, and a high-speed car chase—this might be more adventure than the tiny duo bargained for!",
+  "title": {
+    "en": "Chrono Trigger",
+    "jp": "Jikuu Bouken Nuumamonjaa"
+  },
+  "releasedAt": "1996-08-01T00:00:00.000Z",
+  "finishedAt": "1996-08-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1571/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1571",
+    "anidb": "633",
+    "anilist/anime": "1751",
+    "aozora": "WEZ4Nqe3aq",
+    "myanimelist/anime": "1751"
+  }
+}

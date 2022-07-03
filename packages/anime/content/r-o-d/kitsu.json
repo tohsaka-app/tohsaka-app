@@ -1,0 +1,39 @@
+{
+  "slug": "r-o-d",
+  "synopsis": "Five years have passed since the occurrence of the incident known as the \"Human Annihilation Mission.\" In Japan, a novelist is dealing with writer's block after her friend has gone missing. In Hong Kong, three sisters, masters in the use of paper, run their own detective agency to solve cases that involve books. When these people are brought together, a bond greater than blood is formed - a bond that will be sorely tested by the evil powers intent on taking over the world.\nJoin Anita, Maggie, Michelle, and Nenene as they travel the globe in order to save the world from the evil mastermind, Mr. Carpenter! Of course, that's if they can find the time to put down the books they're reading...\n(Source: RightStuf)",
+  "title": {
+    "en": "R.O.D -The TV-",
+    "jp": "R.O.D the TV"
+  },
+  "releasedAt": "2003-09-01T00:00:00.000Z",
+  "finishedAt": "2004-03-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/185/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/185/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "japan",
+    "plot continuity",
+    "present",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/rod",
+    "http://www.hulu.com/rod-the-tv"
+  ],
+  "relations": {
+    "kitsu": "185",
+    "anidb": "894",
+    "anilist/anime": "209",
+    "aozora": "VP75muO4EK",
+    "myanimelist/anime": "209",
+    "thetvdb": "82319/1",
+    "thetvdb/series": "82319",
+    "trakt": "39995"
+  }
+}

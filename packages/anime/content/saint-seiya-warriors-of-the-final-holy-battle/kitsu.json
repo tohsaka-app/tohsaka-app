@@ -1,0 +1,32 @@
+{
+  "slug": "saint-seiya-warriors-of-the-final-holy-battle",
+  "synopsis": "Lucifer has been awoken from his eternal slumber by the spirits of Eris, Abel and Poseidon. He has come to kill Athena and fulfill his heart's burning desire: becoming the strongest of all the gods.\n(Source: ANN)",
+  "title": {
+    "en": "Saint Seiya: Warriors of the Final Holy Battle",
+    "jp": "Saint Seiya: Saishuu Seisen no Senshi-tachi"
+  },
+  "releasedAt": "1989-03-18T00:00:00.000Z",
+  "finishedAt": "1989-03-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1135/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1135/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "deity",
+    "fantasy",
+    "henshin",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1135",
+    "anidb": "1889",
+    "anilist/anime": "1260",
+    "aozora": "ToXsTqrWy2",
+    "myanimelist/anime": "1260"
+  }
+}

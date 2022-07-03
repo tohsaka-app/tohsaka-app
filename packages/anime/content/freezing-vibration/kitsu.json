@@ -1,0 +1,46 @@
+{
+  "slug": "freezing-vibration",
+  "synopsis": "Second season of Freezing. Ever since the 10th NOVA clash, the Chevalier had concluded that the NOVA have been appearing at a steadier rate and they are losing more Pandoras than they can produce. Their solution is the E-Pandora Project which involves normal humans being given the power to become Pandoras. Inviting Pandora from around the world to their Alaskan base witness the unveiling of their new project, Satellizer, Kazuya and Rana are among those who have been summoned. However, as time goes the E-Pandora Project starts to become fishier and the Pandoras start to grow more and more concerned...",
+  "title": {
+    "en": "Freezing Vibration",
+    "jp": "Freezing Vibration"
+  },
+  "releasedAt": "2013-10-04T00:00:00.000Z",
+  "finishedAt": "2013-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7710/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7710/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "asia",
+    "earth",
+    "ecchi",
+    "future",
+    "harem",
+    "japan",
+    "martial arts",
+    "military",
+    "romance",
+    "science fiction",
+    "stereotypes",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/freezing",
+    "https://www.funimation.com/shows/freezing/"
+  ],
+  "relations": {
+    "kitsu": "7710",
+    "anidb": "9789",
+    "anilist/anime": "18001",
+    "aozora": "O3WdQsTppj",
+    "myanimelist/anime": "18001",
+    "thetvdb": "219701/2",
+    "thetvdb/season": "526310",
+    "thetvdb/series": "219701",
+    "trakt": "38281"
+  }
+}

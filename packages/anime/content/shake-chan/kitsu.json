@@ -1,0 +1,27 @@
+{
+  "slug": "shake-chan",
+  "synopsis": "Follow the crazy adventures of the young Salmon-chan (Half human/half salmon) as she tries to get eaten.\n\nDirected by Yumiko Toyoshima. Graduation work for Nihon Kogakuin College Manga Animation Department.\n\nNote: Watch the full short by clicking the trailer link.",
+  "title": {
+    "en": "Salmon-chan",
+    "jp": "Shake-chan"
+  },
+  "releasedAt": "2012-09-03T00:00:00.000Z",
+  "finishedAt": "2012-09-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11482/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11482/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11482",
+    "anidb": "9354",
+    "anilist/anime": "21654",
+    "myanimelist/anime": "38957"
+  }
+}

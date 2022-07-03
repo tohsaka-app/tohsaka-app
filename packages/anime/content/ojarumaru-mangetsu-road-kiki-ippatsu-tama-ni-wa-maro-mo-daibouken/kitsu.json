@@ -1,0 +1,27 @@
+{
+  "slug": "ojarumaru-mangetsu-road-kiki-ippatsu-tama-ni-wa-maro-mo-daibouken",
+  "synopsis": "A special of the Ojarumaru series. ",
+  "title": {
+    "jp": "Ojarumaru: Mangetsu Road Kiki Ippatsu - Tama ni wa Maro mo Daibouken"
+  },
+  "releasedAt": "2007-05-03T00:00:00.000Z",
+  "finishedAt": "2007-05-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7439/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7439",
+    "anilist/anime": "16482",
+    "aozora": "i5Nl8AHwxC",
+    "myanimelist/anime": "16482"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "juusenki-l-gaim-iii-full-metal-soldier",
+  "synopsis": "A side story taking place somewhere before the second half of the series, prior to Daba acquiring the L-Gaim Mk-II. Daba's comrade Leccee is captured by Poseidal's forces, and Daba and his rebels attempt to save her. ",
+  "title": {
+    "jp": "Juusenki L-Gaim III: Full Metal Soldier"
+  },
+  "releasedAt": "1987-03-28T00:00:00.000Z",
+  "finishedAt": "1987-03-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2365/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2365",
+    "anidb": "2489",
+    "anilist/anime": "2601",
+    "aozora": "gaK95zVGNH",
+    "myanimelist/anime": "2601"
+  }
+}

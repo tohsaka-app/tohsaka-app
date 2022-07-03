@@ -1,0 +1,30 @@
+{
+  "slug": "steven-universe-season-2",
+  "synopsis": "Season 2 of Steven Universe",
+  "title": {},
+  "releasedAt": "2015-03-13T00:00:00.000Z",
+  "finishedAt": "2016-01-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13413/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13413/original.jpg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "coming of age",
+    "contemporary fantasy",
+    "family",
+    "fantasy",
+    "friendship",
+    "kids",
+    "united states"
+  ],
+  "externals": [
+    "https://www.hulu.com/steven-universe"
+  ],
+  "relations": {
+    "kitsu": "13413"
+  }
+}

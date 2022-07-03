@@ -1,0 +1,22 @@
+{
+  "slug": "yuuyake-dandan",
+  "synopsis": "Short film screened at 109 Cinemas during previews.",
+  "title": {
+    "jp": "Yuuyake Dandan"
+  },
+  "releasedAt": "2015-03-31T00:00:00.000Z",
+  "finishedAt": "2015-09-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10749/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10749/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "10749",
+    "anidb": "11131",
+    "aozora": "k2eIS7YnfW",
+    "myanimelist/anime": "30309"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "koi-hanabi",
+  "synopsis": "Song by Mio Isayama with Kiyoshi Nakajima illustaration. A part of NHK's Minna no Uta.",
+  "title": {
+    "jp": "Koi Hanabi"
+  },
+  "releasedAt": "2002-08-01T00:00:00.000Z",
+  "finishedAt": "2002-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5429/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5429",
+    "anilist/anime": "8667",
+    "aozora": "glo2sQ9WPf",
+    "myanimelist/anime": "8667"
+  }
+}

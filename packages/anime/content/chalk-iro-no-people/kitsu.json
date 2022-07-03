@@ -1,0 +1,24 @@
+{
+  "slug": "chalk-iro-no-people",
+  "synopsis": "An OVA with five short episodes from Seizou Watase's romantic manga:\n\"Building Without Tide\"\n\"Brother and Sister\"\n\"Sometimes I'm Happy\"\n\"I've Saved the Sidecar for You\"\n\"The Santa Quartet\" ",
+  "title": {
+    "jp": "Chalk-iro no People"
+  },
+  "releasedAt": "1988-10-05T00:00:00.000Z",
+  "finishedAt": "1988-10-05T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9813/original.jpg",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9813",
+    "anidb": "6810",
+    "anilist/anime": "18071",
+    "aozora": "nA3IFVC3we",
+    "myanimelist/anime": "18071"
+  }
+}

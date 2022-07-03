@@ -1,0 +1,23 @@
+{
+  "slug": "boer-no-mori-e",
+  "synopsis": "",
+  "title": {
+    "jp": "Boer no Mori e"
+  },
+  "releasedAt": "2002-04-01T00:00:00.000Z",
+  "finishedAt": "2002-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41190/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41190",
+    "anilist/anime": "139290",
+    "myanimelist/anime": "37691"
+  }
+}

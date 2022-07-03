@@ -1,0 +1,25 @@
+{
+  "slug": "hyakujitsu-no-bara-specials",
+  "synopsis": "Specials included in the OVA of Hyakujitsu no Bara.",
+  "title": {
+    "en": "Maiden Rose Specials",
+    "jp": "Hyakujitsu no Bara: Jinginaki Nikukyuu-hen"
+  },
+  "releasedAt": "2009-05-29T00:00:00.000Z",
+  "finishedAt": "2009-10-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7236/original.jpg",
+  "categories": [
+    "parody",
+    "yaoi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7236",
+    "anilist/anime": "15291",
+    "aozora": "ebQADQwmwU",
+    "myanimelist/anime": "15291"
+  }
+}

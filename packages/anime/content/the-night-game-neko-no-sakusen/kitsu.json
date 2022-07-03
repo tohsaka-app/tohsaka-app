@@ -1,0 +1,26 @@
+{
+  "slug": "the-night-game-neko-no-sakusen",
+  "synopsis": "Cats play baseball at night. When their ball goes over the fence a dog is indifferent on giving it back. The cat tries different methods to get revenge.",
+  "title": {
+    "jp": "The Night Game: Neko no Sakusen"
+  },
+  "releasedAt": "2012-01-03T00:00:00.000Z",
+  "finishedAt": "2012-01-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10325/original.jpg",
+  "categories": [
+    "baseball",
+    "kids",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10325",
+    "anidb": "11566",
+    "anilist/anime": "103004",
+    "aozora": "6Tje2ckgpA",
+    "myanimelist/anime": "29501"
+  }
+}

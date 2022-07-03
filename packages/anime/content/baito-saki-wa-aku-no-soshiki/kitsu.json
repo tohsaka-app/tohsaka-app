@@ -1,0 +1,20 @@
+{
+  "slug": "baito-saki-wa-aku-no-soshiki",
+  "synopsis": "",
+  "title": {
+    "jp": "Baito-saki wa \"Aku no Soshiki\"!?"
+  },
+  "releasedAt": "2017-11-13T00:00:00.000Z",
+  "finishedAt": "2018-01-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41666/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41666",
+    "anilist/anime": "100517",
+    "myanimelist/anime": "36771"
+  }
+}

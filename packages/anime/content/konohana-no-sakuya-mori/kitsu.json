@@ -1,0 +1,22 @@
+{
+  "slug": "konohana-no-sakuya-mori",
+  "synopsis": "A horse puppet wanders into a silver world and pauses before an ethereal flower.\n\n(Source: CoolConnections)",
+  "title": {
+    "jp": "Konohana no Sakuya Mori"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41162/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41162",
+    "anilist/anime": "104384",
+    "myanimelist/anime": "34849"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "minami-ke-okawari",
+  "synopsis": "The second season of Minami-Ke. It picks up where the first season left off, and just like the first season, it's about the daily lives of the three Minami sisters, Haruka, Kana and Chiaki, and their school friends.",
+  "title": {
+    "jp": "Minami-ke Okawari"
+  },
+  "releasedAt": "2008-01-07T00:00:00.000Z",
+  "finishedAt": "2008-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2868/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2868/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "coming of age",
+    "earth",
+    "japan",
+    "present",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2868",
+    "anidb": "5510",
+    "anilist/anime": "3225",
+    "aozora": "yKbkJcD4zR",
+    "myanimelist/anime": "3225",
+    "thetvdb": "81463/2",
+    "thetvdb/season": "36138",
+    "thetvdb/series": "81463",
+    "trakt": "55999"
+  }
+}

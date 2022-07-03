@@ -1,0 +1,26 @@
+{
+  "slug": "gamba-to-kawauso-no-bouken",
+  "synopsis": "The final chapter of the Gamba saga, released in theatres 15 years after the original TV series.\n(Source: AniDB)",
+  "title": {
+    "jp": "Gamba to Kawauso no Bouken"
+  },
+  "releasedAt": "1991-07-20T00:00:00.000Z",
+  "finishedAt": "1991-07-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8983/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8983",
+    "anidb": "3947",
+    "anilist/anime": "20175",
+    "aozora": "ZUHyW0F0dl",
+    "myanimelist/anime": "20175"
+  }
+}

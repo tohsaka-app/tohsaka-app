@@ -1,0 +1,25 @@
+{
+  "slug": "honkai-impact-3rd-pre-revelation",
+  "synopsis": "Trailer for the mobile games \"Pre-Revelation\" arc.",
+  "title": {
+    "en": "Honkai Impact 3rd - Pre-Revelation"
+  },
+  "releasedAt": "2021-09-17T00:00:00.000Z",
+  "finishedAt": "2021-09-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45629/poster_image/524cd345c51d4d3e14f3eb29e8c5ddc0.png",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=fNzP3niHhdc"
+  ],
+  "relations": {
+    "kitsu": "45629",
+    "anilist/anime": "140101"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "kabukichou-sherlock-ova",
+  "synopsis": "OVAs for the Kabukicho Sherlock series.",
+  "title": {
+    "en": "Case File nº221: Kabukicho OVA",
+    "jp": "Kabukichou Sherlock OVA"
+  },
+  "releasedAt": "2020-08-26T00:00:00.000Z",
+  "finishedAt": "2020-08-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43391/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43391",
+    "anidb": "15497",
+    "anilist/anime": "117532",
+    "myanimelist/anime": "41659"
+  }
+}

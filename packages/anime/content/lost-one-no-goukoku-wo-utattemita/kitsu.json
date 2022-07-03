@@ -1,0 +1,26 @@
+{
+  "slug": "lost-one-no-goukoku-wo-utattemita",
+  "synopsis": "Music Video of the original Vocaloid song of Neru that is performed by the project band Afterglow as a collaboration between Bang Dream! and Hatsune Miku.",
+  "title": {
+    "en": "Lost One's Weeping",
+    "jp": "Lost One no Goukoku wo Utattemita"
+  },
+  "releasedAt": "2019-08-12T00:00:00.000Z",
+  "finishedAt": "2019-08-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44351/original.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=ynlqGkC7OKA"
+  ],
+  "relations": {
+    "kitsu": "44351",
+    "anilist/anime": "131978",
+    "myanimelist/anime": "40291"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "bravest-warriors-pilot",
+  "synopsis": "Chris, Beth, Danny, and Wallow save the brain dogs from the tickle monster.",
+  "title": {
+    "en": "Bravest Warriors Pilot",
+    "jp": "Bravest Warriors Pilot"
+  },
+  "releasedAt": "2009-01-10T00:00:00.000Z",
+  "finishedAt": "2009-01-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14108/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14108/original.png",
+  "categories": [
+    "anime influenced",
+    "comedy",
+    "future",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14108"
+  }
+}

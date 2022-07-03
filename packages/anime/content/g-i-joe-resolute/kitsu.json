@@ -1,0 +1,21 @@
+{
+  "slug": "g-i-joe-resolute",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "2009-04-26T00:00:00.000Z",
+  "finishedAt": "2009-04-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40575/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40575"
+  }
+}

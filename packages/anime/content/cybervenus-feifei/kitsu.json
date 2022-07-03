@@ -1,0 +1,23 @@
+{
+  "slug": "cybervenus-feifei",
+  "synopsis": "Short CG clips compiled to an artsy DVD experience. FeiFei is a \"virtual idol\", the clips are entirely computer generated, except for the longest story where FeiFei is placed in a natural environment.",
+  "title": {
+    "en": "Virtually Real: Cybervenus FeiFei",
+    "jp": "Cybervenus FeiFei"
+  },
+  "releasedAt": "2001-11-21T00:00:00.000Z",
+  "finishedAt": "2001-11-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46189/poster_image/e50b98d4a556a9e59eab2fedf4f4313b.jpg",
+  "categories": [
+    "ecchi",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46189",
+    "myanimelist/anime": "50176"
+  }
+}

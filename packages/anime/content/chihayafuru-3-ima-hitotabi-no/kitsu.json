@@ -1,0 +1,28 @@
+{
+  "slug": "chihayafuru-3-ima-hitotabi-no",
+  "synopsis": "Recap of first fifteen episodes of Chihayafuru 3.\n",
+  "title": {
+    "jp": "Chihayafuru 3: Ima Hitotabi no"
+  },
+  "releasedAt": "2020-01-29T00:00:00.000Z",
+  "finishedAt": "2020-01-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43003/original.jpg",
+  "categories": [
+    "card games",
+    "drama",
+    "josei",
+    "present",
+    "school clubs",
+    "school life",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43003",
+    "myanimelist/anime": "41105"
+  }
+}

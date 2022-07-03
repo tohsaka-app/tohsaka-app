@@ -1,0 +1,27 @@
+{
+  "slug": "boku-otaryman",
+  "synopsis": "Boku, Otary-man (otaku + salaryman) is a autobiographical manga of the author Yoshitani, who is also working as a system engineer. It's about a slice of life of an office worker, who is a little bit otaku.",
+  "title": {
+    "jp": "Boku, Otaryman."
+  },
+  "releasedAt": "2010-01-29T00:00:00.000Z",
+  "finishedAt": "2010-01-29T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5047/original.jpg",
+  "categories": [
+    "comedy",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5047",
+    "anidb": "7318",
+    "anilist/anime": "7597",
+    "aozora": "1VWZqrkvrv",
+    "myanimelist/anime": "7597"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "shiokari-touge",
+  "synopsis": "Based on Miura Ayako's literary work.\nTells the story of Nagano Nobuo from his childhood in Tokyo, through a gradual journey of self-discovery and acceptance of the Christian faith, to his death in Shiokari Pass in Hokkaido.\n(Source: Jclglobal)",
+  "title": {
+    "en": "Shiokari Pass",
+    "jp": "Shiokari Touge"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9588/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9588",
+    "aozora": "OSAxNfGXTH",
+    "myanimelist/anime": "26263"
+  }
+}

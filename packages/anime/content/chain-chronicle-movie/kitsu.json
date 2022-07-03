@@ -1,0 +1,28 @@
+{
+  "slug": "chain-chronicle-movie",
+  "synopsis": "Set in the land of Yuguto, the people thought that the land they live is the size of the world, but it’s actually divided into several areas, each with a respective king. Even though there were small wars among areas, the kings had roundtable meetings to maintain peace and balance. It was until a dark group of dark monsters appeared...\n(Source: MAL News)",
+  "title": {
+    "en": "Chain Chronicle: The Light of Haecceitas Part 1",
+    "jp": "Chain Chronicle: Haecceitas no Hikari Part 1"
+  },
+  "releasedAt": "2016-12-03T00:00:00.000Z",
+  "finishedAt": "2016-12-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12463/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12463",
+    "anidb": "12291",
+    "anilist/anime": "87505",
+    "aozora": "KaAXhVKelN",
+    "myanimelist/anime": "33728"
+  }
+}

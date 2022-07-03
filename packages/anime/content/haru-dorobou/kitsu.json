@@ -1,0 +1,27 @@
+{
+  "slug": "haru-dorobou",
+  "synopsis": "Music video directed by Kohta Morie for the song Haru Dorobou by Yorushika.",
+  "title": {
+    "en": "Spring Thief",
+    "jp": "Haru Dorobou"
+  },
+  "releasedAt": "2021-01-09T00:00:00.000Z",
+  "finishedAt": "2021-01-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44820/original.png",
+  "categories": [
+    "drama",
+    "music",
+    "romance"
+  ],
+  "externals": [
+    "https://youtu.be/Sw1Flgub9s8"
+  ],
+  "relations": {
+    "kitsu": "44820",
+    "anilist/anime": "131701",
+    "myanimelist/anime": "48945"
+  }
+}

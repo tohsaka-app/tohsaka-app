@@ -1,0 +1,30 @@
+{
+  "slug": "namiuchigiwa-no-muromi-san-ova",
+  "synopsis": "Bundled with the ninth limited-edition volume of the manga.",
+  "title": {
+    "jp": "Namiuchigiwa no Muromi-san: Pangea Chou Tairiku no Muromi-san"
+  },
+  "releasedAt": "2013-08-16T00:00:00.000Z",
+  "finishedAt": "2013-08-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7690/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7690/original.jpg",
+  "categories": [
+    "comedy",
+    "contemporary fantasy",
+    "ecchi",
+    "fantasy",
+    "mermaid",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7690",
+    "anidb": "9770",
+    "anilist/anime": "17855",
+    "aozora": "Fv5xYfMPYz",
+    "myanimelist/anime": "17855"
+  }
+}

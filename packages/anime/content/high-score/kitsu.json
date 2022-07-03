@@ -1,0 +1,28 @@
+{
+  "slug": "high-score",
+  "synopsis": "A school comedy with violent and blue jokes. Fujiwara Megumi is a beautiful high school girl but has a selfish and violent character. She has a boyfriend named Matsumoto Masamune, but she often goes around with other boys, who end up as victims due to her selfish behavior.",
+  "title": {
+    "jp": "High Score"
+  },
+  "releasedAt": "2011-11-28T00:00:00.000Z",
+  "finishedAt": "2012-01-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6426/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6426",
+    "anidb": "8722",
+    "anilist/anime": "10958",
+    "aozora": "c0C4eszEIB",
+    "myanimelist/anime": "10958",
+    "thetvdb": "256182/1",
+    "thetvdb/series": "256182"
+  }
+}

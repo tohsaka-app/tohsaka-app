@@ -1,0 +1,37 @@
+{
+  "slug": "hetalia-world-series",
+  "synopsis": "The third and fourth seasons of the Hetalia Axis Powers anime. A continuation of the first 2 seasons under a new name, still adapting the online webcomics drawn by Himaruya Hidekaz.\nBased on a popular web-released manga series by Hidekazu Himaruya, this has been described as a \"cynical gag\" story set in Europe in the years between WW1 and WW2 (1915-1939), using exaggerated caricatures of the different nationalities as portrayed by a gaggle of bishōnen. For example, the Italia Veneziano character is into pasta and women. The Deutsche (German) bishi loves potatoes and sausages, and Nippon is an otaku boy. Installments of the manga have jumped back and forth in setting from the ancient times to modern-day geopolitics. The manga's title comes the Japanese words for \"useless\" (hetare) and Italy (Italia).\n(Source: ANI)",
+  "title": {
+    "en": "Hetalia World Series",
+    "jp": "Hetalia World Series"
+  },
+  "releasedAt": "2010-03-26T00:00:00.000Z",
+  "finishedAt": "2011-03-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5351/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5351/original.jpeg",
+  "categories": [
+    "comedy",
+    "historical",
+    "parody",
+    "past",
+    "world war ii"
+  ],
+  "externals": [
+    "http://www.hulu.com/hetalia-world-series",
+    "https://tubitv.com/series/2239/hetalia",
+    "https://www.funimation.com/shows/33738/"
+  ],
+  "relations": {
+    "kitsu": "5351",
+    "anidb": "7448",
+    "anilist/anime": "8479",
+    "aozora": "n1qqTFzfSq",
+    "hulu": "50001882",
+    "myanimelist/anime": "8479",
+    "thetvdb": "88161",
+    "trakt": "61580"
+  }
+}

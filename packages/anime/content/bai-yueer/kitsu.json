@@ -1,0 +1,23 @@
+{
+  "slug": "bai-yueer",
+  "synopsis": "The story takes place in a small town in China around 1930. In that turbulent age, Yueyue did not believe that his mother had left his reality. He remembered that his mother promised to come back for him, so he went on the way to find her.",
+  "title": {
+    "en": "The White Moon"
+  },
+  "releasedAt": "2021-11-17T00:00:00.000Z",
+  "finishedAt": "2021-11-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45507/poster_image/5730987c262eeb03e8c65c30bfdc2702.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [
+    "https://youtu.be/IS_IFUTZUe4"
+  ],
+  "relations": {
+    "kitsu": "45507",
+    "anilist/anime": "137709"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "ganbare-lulu-lolo",
+  "synopsis": "The new anime centers around the daily life of two twin bear sisters: the orange-colored Lulu and the yellow-colored Lolo. The two take on new jobs and despite the occasional failure and tears, give their best efforts. ",
+  "title": {
+    "en": "TINY★TWIN★BEARS",
+    "jp": "Ganbare! Lulu Lolo"
+  },
+  "releasedAt": "2013-01-17T00:00:00.000Z",
+  "finishedAt": "2013-02-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8984/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8984",
+    "anidb": "9435",
+    "anilist/anime": "20459",
+    "aozora": "Wt9dd2yckZ",
+    "myanimelist/anime": "20755"
+  }
+}

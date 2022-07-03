@@ -1,0 +1,25 @@
+{
+  "slug": "stitch-zutto-saikou-no-tomodachi-special",
+  "synopsis": "Ace appears to save the day and Stitch decides to help him.",
+  "title": {
+    "jp": "Stitch!: Zutto Saikou no Tomodachi Special"
+  },
+  "releasedAt": "2011-06-19T00:00:00.000Z",
+  "finishedAt": "2011-06-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10899/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10899",
+    "anilist/anime": "146171",
+    "aozora": "1L7MQPWZxm",
+    "myanimelist/anime": "30648"
+  }
+}

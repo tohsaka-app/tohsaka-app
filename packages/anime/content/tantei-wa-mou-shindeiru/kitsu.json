@@ -1,0 +1,30 @@
+{
+  "slug": "tantei-wa-mou-shindeiru",
+  "synopsis": "The story follows Kimihiko Kimizuka, a young man who four years ago became the assistant of a mysterious detective known as \"Siesta\" on a hijacked airplane. Together, Kimihiko and Siesta went on mind-boggling, globe-trotting adventures while combatting a secret organization, but all of that came to an end when they were separated by Siesta's death. In the present day, Kimihiko tries to return to an ordinary, boring life as a high school student, but things are never that simple, even though the detective is already dead.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "The Detective Is Already Dead",
+    "jp": "Tantei wa Mou, Shindeiru."
+  },
+  "releasedAt": "2021-07-04T00:00:00.000Z",
+  "finishedAt": "2021-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44022/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44022/original.png",
+  "categories": [
+    "comedy",
+    "detective",
+    "drama",
+    "mystery",
+    "romance"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/the-detective-is-already-dead/"
+  ],
+  "relations": {
+    "kitsu": "44022",
+    "anilist/anime": "128712",
+    "myanimelist/anime": "46471"
+  }
+}

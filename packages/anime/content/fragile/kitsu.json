@@ -1,0 +1,24 @@
+{
+  "slug": "fragile",
+  "synopsis": "Hamaguchi Taigo's graduation work from 2020 at Tama Art University.",
+  "title": {
+    "en": "Fragile",
+    "jp": "Fragile"
+  },
+  "releasedAt": "2021-05-13T00:00:00.000Z",
+  "finishedAt": "2021-05-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45772/poster_image/db87af85f7aaa828b8b8d59f7f5cca4d.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/DEUe8OkzgqQ"
+  ],
+  "relations": {
+    "kitsu": "45772",
+    "anilist/anime": "140026"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "kyouryou-pikora",
+  "synopsis": "Pikora is a newborn baby dinosaur. But here mother is nowhere to be found. She sets off into the woods to find her.",
+  "title": {
+    "jp": "Kyouryou Pikora"
+  },
+  "releasedAt": "1995-08-01T00:00:00.000Z",
+  "finishedAt": "1995-08-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10287/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10287",
+    "aozora": "lIXXe9Bwa0",
+    "myanimelist/anime": "29493"
+  }
+}

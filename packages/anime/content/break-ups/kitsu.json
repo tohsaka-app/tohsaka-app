@@ -1,0 +1,26 @@
+{
+  "slug": "break-ups",
+  "synopsis": "'Break Ups' is a slice of life story about a young couple with an on-and-off relationship. They stumble upon a time machine that takes them back to several periods in their lives as a couple.\n(Source: Crunchyroll)",
+  "title": {
+    "en": "",
+    "jp": "Break Ups"
+  },
+  "releasedAt": "2011-03-30T00:00:00.000Z",
+  "finishedAt": "2011-03-30T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8245/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8245/original.png",
+  "categories": [
+    "anime influenced",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/break-ups"
+  ],
+  "relations": {
+    "kitsu": "8245"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "red-colored-bridge",
+  "synopsis": "Experimental animation by Keiichi Tanaami.",
+  "title": {
+    "jp": "Red Colored Bridge"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10210/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10210",
+    "anidb": "11427",
+    "anilist/anime": "102682",
+    "aozora": "NrfPSH6IGn",
+    "myanimelist/anime": "28657"
+  }
+}

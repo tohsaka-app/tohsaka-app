@@ -1,0 +1,25 @@
+{
+  "slug": "love-kome-we-love-rice-2nd-season",
+  "synopsis": "Second season of Love Kome: We Love Rice.",
+  "title": {
+    "en": "Love Rice 2",
+    "jp": "Love Kome: We Love Rice 2nd Season"
+  },
+  "releasedAt": "2017-10-06T00:00:00.000Z",
+  "finishedAt": "2017-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13901/original.jpg",
+  "categories": [
+    "cooking",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13901",
+    "anilist/anime": "99391",
+    "aozora": "RXz02BGBOx",
+    "myanimelist/anime": "35818"
+  }
+}

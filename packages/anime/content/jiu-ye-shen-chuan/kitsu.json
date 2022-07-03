@@ -1,0 +1,26 @@
+{
+  "slug": "jiu-ye-shen-chuan",
+  "synopsis": null,
+  "title": {
+    "en": "Legend of Nine Nights"
+  },
+  "releasedAt": "2020-12-21T00:00:00.000Z",
+  "finishedAt": "2020-12-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43912/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43912",
+    "anilist/anime": "128541",
+    "myanimelist/anime": "45169"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "gyagu-manga-biyori-3",
+  "synopsis": "Based on Masuda Kosuke's popular gag manga. Famous for its cynicism and sarcasm. Features omnibus styled 5-minute episodes starring various characters; including historical figures.",
+  "title": {
+    "jp": "Masuda Kousuke Gekijou Gag Manga Biyori 3"
+  },
+  "releasedAt": "2008-03-10T00:00:00.000Z",
+  "finishedAt": "2008-06-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3435/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3435",
+    "anidb": "5774",
+    "anilist/anime": "4056",
+    "aozora": "riTRpDSgQB",
+    "myanimelist/anime": "4056",
+    "thetvdb": "83807/3",
+    "thetvdb/season": "37361",
+    "thetvdb/series": "83807",
+    "trakt": "65392"
+  }
+}

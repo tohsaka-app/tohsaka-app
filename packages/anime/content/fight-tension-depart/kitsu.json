@@ -1,0 +1,20 @@
+{
+  "slug": "fight-tension-depart",
+  "synopsis": "",
+  "title": {
+    "jp": "Fight Tension☆Depart"
+  },
+  "releasedAt": "2007-01-15T00:00:00.000Z",
+  "finishedAt": "2007-03-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41682/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41682",
+    "anilist/anime": "121069",
+    "myanimelist/anime": "36881"
+  }
+}

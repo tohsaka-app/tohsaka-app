@@ -1,0 +1,26 @@
+{
+  "slug": "sore-ike-anpanman-kaiketsu-naganegiman-to-doremi-hime",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Kaiketsu Naganegiman to Doremi Hime"
+  },
+  "releasedAt": "2003-07-12T00:00:00.000Z",
+  "finishedAt": "2003-07-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9615/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9615",
+    "anidb": "7758",
+    "aozora": "YvlSbmNQHn",
+    "myanimelist/anime": "27491"
+  }
+}

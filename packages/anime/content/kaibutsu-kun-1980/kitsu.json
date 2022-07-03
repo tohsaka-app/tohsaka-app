@@ -1,0 +1,29 @@
+{
+  "slug": "kaibutsu-kun-1980",
+  "synopsis": "Kaibutsu-kun and his companions, Dracula, Wolfman, and Franken, travel from Kaibutsu Land to the Human Realm, where they encounter and battle several monsters, mainly assassins from the demon group Demonish.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Kaibutsu-kun (1980)"
+  },
+  "releasedAt": "1980-09-02T00:00:00.000Z",
+  "finishedAt": "1982-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2814/original.jpg",
+  "categories": [
+    "comedy",
+    "horror",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2814",
+    "anidb": "5906",
+    "anilist/anime": "3130",
+    "aozora": "6HDrTGmx8V",
+    "myanimelist/anime": "3130",
+    "thetvdb": "184211/1",
+    "thetvdb/series": "184211",
+    "trakt": "61228"
+  }
+}

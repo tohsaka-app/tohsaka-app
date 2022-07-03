@@ -1,0 +1,23 @@
+{
+  "slug": "kissaten-soudou",
+  "synopsis": "A customer and cafe owner get into a fight.",
+  "title": {
+    "jp": "Kissaten Soudou"
+  },
+  "releasedAt": "2009-10-08T00:00:00.000Z",
+  "finishedAt": "2009-10-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12583/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12583",
+    "anilist/anime": "103957",
+    "aozora": "Yf6CQHSWbi",
+    "myanimelist/anime": "33858"
+  }
+}

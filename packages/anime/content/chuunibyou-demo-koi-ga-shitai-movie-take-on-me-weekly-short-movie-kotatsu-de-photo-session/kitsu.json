@@ -1,0 +1,22 @@
+{
+  "slug": "chuunibyou-demo-koi-ga-shitai-movie-take-on-me-weekly-short-movie-kotatsu-de-photo-session",
+  "synopsis": "Short theater manners shown before Chuunibyou demo Koi ga Shitai! Movie: Take On Me.",
+  "title": {
+    "jp": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me - Weekly Short Movie \"Kotatsu DE Photo Session\""
+  },
+  "releasedAt": "2018-01-06T00:00:00.000Z",
+  "finishedAt": "2018-01-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42215/original.png",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42215",
+    "anilist/anime": "104326",
+    "myanimelist/anime": "37967"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "renmei-kuugun-koukuu-mahou-ongakutai-luminous-witches-ova",
+  "synopsis": "Full version of the \"Luminous Witches\" animated special PV.",
+  "title": {
+    "en": "Luminous Witches OVA",
+    "jp": "Renmei Kuugun Koukuu Mahou Ongakutai Luminous Witches OVA"
+  },
+  "releasedAt": "2020-12-22T00:00:00.000Z",
+  "finishedAt": "2020-12-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44228/original.png",
+  "categories": [
+    "ecchi",
+    "idol",
+    "magic",
+    "military",
+    "music",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44228",
+    "myanimelist/anime": "44088"
+  }
+}

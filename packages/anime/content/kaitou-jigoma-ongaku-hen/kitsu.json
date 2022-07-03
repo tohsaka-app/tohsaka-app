@@ -1,0 +1,23 @@
+{
+  "slug": "kaitou-jigoma-ongaku-hen",
+  "synopsis": "Animated musical by Makoto Wada.",
+  "title": {
+    "jp": "Kaitou Jigoma Ongaku-hen"
+  },
+  "releasedAt": "1988-11-12T00:00:00.000Z",
+  "finishedAt": "1988-11-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7798/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7798",
+    "anilist/anime": "19053",
+    "aozora": "atdJWYIvJY",
+    "myanimelist/anime": "19053"
+  }
+}

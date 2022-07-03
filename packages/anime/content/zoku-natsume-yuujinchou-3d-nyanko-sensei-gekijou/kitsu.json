@@ -1,0 +1,24 @@
+{
+  "slug": "zoku-natsume-yuujinchou-3d-nyanko-sensei-gekijou",
+  "synopsis": "Short 3D Nyanko-sensei animations bundled on BD/DVD's of the Zoku Natsume Yuujinchou series.",
+  "title": {
+    "jp": "Zoku Natsume Yuujinchou: 3D Nyanko-sensei Gekijou"
+  },
+  "releasedAt": "2009-04-22T00:00:00.000Z",
+  "finishedAt": "2009-08-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8228/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8228/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8228",
+    "anilist/anime": "19945",
+    "aozora": "0Qwzne5EK6",
+    "myanimelist/anime": "19945"
+  }
+}

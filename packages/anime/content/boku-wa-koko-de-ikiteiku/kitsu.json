@@ -1,0 +1,24 @@
+{
+  "slug": "boku-wa-koko-de-ikiteiku",
+  "synopsis": "A Minna no Uta music video for American-born singer Chris Hart's 5th single Boku wa Koko de Ikiteiku.",
+  "title": {
+    "jp": "Boku wa Koko de Ikiteiku"
+  },
+  "releasedAt": "2015-12-01T00:00:00.000Z",
+  "finishedAt": "2015-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12333/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12333",
+    "anilist/anime": "139288",
+    "aozora": "DWIfFRDsKH",
+    "myanimelist/anime": "33523"
+  }
+}

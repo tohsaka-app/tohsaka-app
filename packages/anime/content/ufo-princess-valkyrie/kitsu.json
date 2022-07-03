@@ -1,0 +1,43 @@
+{
+  "slug": "ufo-princess-valkyrie",
+  "synopsis": "UFO Princess Warukyure, aka UFO Princess Walkyrie is about a princess from outer space who accidentally crashes on earth, where Kazuto desperately tries to maintain the public bath of his grandfather. Due to circumstances, Kazuto receives part of princess Walkyrie's soul which forces her to stay there with him. But that's not the only problem ... because her soul lost strength, the princess transforms both mentally and physically into a little kid!\n(Source: AniDB)",
+  "title": {
+    "en": "UFO Ultramaiden Valkyrie",
+    "jp": "UFO Princess Valkyrie"
+  },
+  "releasedAt": "2002-07-04T00:00:00.000Z",
+  "finishedAt": "2002-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1010/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1010/original.jpg",
+  "categories": [
+    "alien",
+    "angel",
+    "comedy",
+    "deity",
+    "ecchi",
+    "fantasy",
+    "magic",
+    "maid",
+    "science fiction",
+    "stereotypes"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/ufo-ultramaiden-valkyrie/videos/episodes",
+    "http://www.hulu.com/ufo-ultramaiden-valkyrie"
+  ],
+  "relations": {
+    "kitsu": "1010",
+    "anidb": "160",
+    "anilist/anime": "1127",
+    "aozora": "am3FuX10dJ",
+    "hulu": "50000891",
+    "myanimelist/anime": "1127",
+    "thetvdb": "81477/1",
+    "thetvdb/season": "31056",
+    "thetvdb/series": "81477",
+    "trakt": "34002"
+  }
+}

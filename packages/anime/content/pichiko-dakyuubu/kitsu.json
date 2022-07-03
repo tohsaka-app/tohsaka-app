@@ -1,0 +1,25 @@
+{
+  "slug": "pichiko-dakyuubu",
+  "synopsis": "",
+  "title": {
+    "jp": "Pichiko Dakyuubu"
+  },
+  "releasedAt": "2010-02-01T00:00:00.000Z",
+  "finishedAt": "2010-02-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12398/original.jpg",
+  "categories": [
+    "baseball",
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12398",
+    "anidb": "11623",
+    "aozora": "kagvFCSt9E",
+    "myanimelist/anime": "31464"
+  }
+}

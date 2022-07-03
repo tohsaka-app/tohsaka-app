@@ -1,0 +1,22 @@
+{
+  "slug": "peeban",
+  "synopsis": "The episodes follow a pig named Peeban and his friends.",
+  "title": {
+    "jp": "Peeban"
+  },
+  "releasedAt": "2010-04-22T00:00:00.000Z",
+  "finishedAt": "2010-04-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12831/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12831",
+    "aozora": "L71KRDKAs6",
+    "myanimelist/anime": "33913"
+  }
+}

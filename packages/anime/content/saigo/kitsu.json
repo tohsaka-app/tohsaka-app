@@ -1,0 +1,21 @@
+{
+  "slug": "saigo",
+  "synopsis": "Light animation by TOCHKA.",
+  "title": {
+    "jp": "SAIGO"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13012/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13012",
+    "myanimelist/anime": "34417"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "three-monks",
+  "synopsis": "The film is based on the ancient Chinese proverb \"One monk will shoulder two buckets of water, two monks will share the load, but add a third and no one will want to fetch water.\" The film does not contain any dialogues.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "San Ge Heshang"
+  },
+  "releasedAt": "1980-01-01T00:00:00.000Z",
+  "finishedAt": "1980-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7443/original.jpg",
+  "categories": [
+    "asia",
+    "china",
+    "earth",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7443",
+    "anidb": "11589",
+    "anilist/anime": "16506",
+    "aozora": "tlK2hinRvv",
+    "myanimelist/anime": "16506"
+  }
+}

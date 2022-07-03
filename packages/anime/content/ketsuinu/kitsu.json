@@ -1,0 +1,24 @@
+{
+  "slug": "ketsuinu",
+  "synopsis": "Ketsuinu is a dog with a butt-like face. The unidentified creature comes out of nowhere and quickly multiplies. In the end, the owners' faces turn into butts...",
+  "title": {
+    "jp": "Ketsuinu"
+  },
+  "releasedAt": "2010-04-01T00:00:00.000Z",
+  "finishedAt": "2010-05-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5303/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5303",
+    "anidb": "7452",
+    "anilist/anime": "8353",
+    "aozora": "m57UbzBUJP",
+    "myanimelist/anime": "8353"
+  }
+}

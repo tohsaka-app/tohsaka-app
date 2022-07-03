@@ -1,0 +1,26 @@
+{
+  "slug": "samuraider",
+  "synopsis": "In a weak combination of samurai movie and Bomber Bikers of Shonan, Tokyo street-punk Masao buys a treas-ured FZR \"katana\" motorcycle and becomes a knight of the road, attacking criminals with a genuine katana sword. Based on the manga by Shinichi Sugimura in Young Magazine.",
+  "title": {
+    "jp": "Samuraider: Nazo no Tenkousei"
+  },
+  "releasedAt": "1991-02-22T00:00:00.000Z",
+  "finishedAt": "1991-02-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5984/original.jpg",
+  "categories": [
+    "action",
+    "delinquent",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5984",
+    "anidb": "4062",
+    "anilist/anime": "9993",
+    "aozora": "bZnBYuXa9T",
+    "myanimelist/anime": "9993"
+  }
+}

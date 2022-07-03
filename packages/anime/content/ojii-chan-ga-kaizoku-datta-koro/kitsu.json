@@ -1,0 +1,24 @@
+{
+  "slug": "ojii-chan-ga-kaizoku-datta-koro",
+  "synopsis": "Puppet animation by Tadanari Okamoto.",
+  "title": {
+    "jp": "Ojiichan ga Kaizoku Datta Koro"
+  },
+  "releasedAt": "1968-01-01T00:00:00.000Z",
+  "finishedAt": "1968-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6881/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6881",
+    "anidb": "7267",
+    "anilist/anime": "13091",
+    "aozora": "fvmCpDRnPP",
+    "myanimelist/anime": "13091"
+  }
+}

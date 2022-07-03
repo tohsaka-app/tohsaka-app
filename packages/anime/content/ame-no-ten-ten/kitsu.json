@@ -1,0 +1,24 @@
+{
+  "slug": "ame-no-ten-ten",
+  "synopsis": "A young lady listens to the music of falling rain.",
+  "title": {
+    "jp": "Ame no Ten Ten"
+  },
+  "releasedAt": "1985-06-01T00:00:00.000Z",
+  "finishedAt": "1985-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14201/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14201",
+    "anilist/anime": "103771",
+    "aozora": "lpaYI7ru5S",
+    "myanimelist/anime": "35667"
+  }
+}

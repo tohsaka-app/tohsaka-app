@@ -1,0 +1,26 @@
+{
+  "slug": "tokyo-ghetto",
+  "synopsis": "Eve - \"Tokyo Ghetto\" Music Video. Music video animated by Waboku.",
+  "title": {
+    "en": "Tokyo Ghetto",
+    "jp": "Tokyo Ghetto"
+  },
+  "releasedAt": "2018-07-06T00:00:00.000Z",
+  "finishedAt": "2018-07-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42253/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42253/original.png",
+  "categories": [
+    "music",
+    "supernatural",
+    "the arts"
+  ],
+  "externals": [
+    "https://youtu.be/PvzBWFGEz8M"
+  ],
+  "relations": {
+    "kitsu": "42253"
+  }
+}

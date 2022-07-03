@@ -1,0 +1,25 @@
+{
+  "slug": "captain-tsubasa-europe-daikessen",
+  "synopsis": "The first Captain Tsubasa movie is about a match between an \"All Europe Boy Soccer Team\" and an \"All Japan Boy Soccer Team\" and takes place at the end of the first TV series. When the Japanese team arrives in Europe they meet incredible players with skills and strength they never had to face before.\n(Source: ANN)",
+  "title": {
+    "jp": "Captain Tsubasa: Europe Daikessen"
+  },
+  "releasedAt": "1985-07-13T00:00:00.000Z",
+  "finishedAt": "1985-07-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1915/original.jpg",
+  "categories": [
+    "action",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1915",
+    "anidb": "2337",
+    "anilist/anime": "2118",
+    "aozora": "sXvNr1NoSW",
+    "myanimelist/anime": "2118"
+  }
+}

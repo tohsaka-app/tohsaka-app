@@ -1,0 +1,27 @@
+{
+  "slug": "dragon-nest-throne-of-elves",
+  "synopsis": "Dragon Nest Movie 2: Throne of Elves will be released in Summer 2016.  The movie is a sequel to Mili Pictures' hugely successful Dragon Nest: Warriors' Dawn.  It will take the story of the land of Altera deep into the territory of the Elves in an action-packed adventure with more of the drama, comedy, and excitement. The film is directed by Soong Yuefeng, acclaimed director of the first Dragon Nest movie.\n(Source: Freedomplays)",
+  "title": {
+    "en": "Dragon Nest: Throne of Elves",
+    "jp": "Dragon Nest: Throne of Elves"
+  },
+  "releasedAt": "2016-08-19T00:00:00.000Z",
+  "finishedAt": "2016-08-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11740/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11740",
+    "anilist/anime": "102658",
+    "aozora": "dJMHij7uHa",
+    "myanimelist/anime": "31678"
+  }
+}

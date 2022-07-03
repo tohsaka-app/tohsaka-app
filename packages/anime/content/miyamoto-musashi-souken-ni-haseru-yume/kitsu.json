@@ -1,0 +1,32 @@
+{
+  "slug": "miyamoto-musashi-souken-ni-haseru-yume",
+  "synopsis": "The new film's story will center on Musashi Miyamoto, one of the most famous swordsmen in Japanese history. He pioneered the Hyouhou Niten Ichi-ryuu style of two-sword fighting and wrote The Book of Five Rings, a book that has been compared to Sun Tzu's The Art of War for its insight on tactics and strategy. ",
+  "title": {
+    "en": "Musashi: The Dream of the Last Samurai",
+    "jp": "Miyamoto Musashi: Souken ni Haseru Yume"
+  },
+  "releasedAt": "2009-06-13T00:00:00.000Z",
+  "finishedAt": "2009-06-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4079/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "earth",
+    "historical",
+    "japan",
+    "martial arts",
+    "past",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4079",
+    "anidb": "6289",
+    "anilist/anime": "5386",
+    "aozora": "sh3znfZqVy",
+    "myanimelist/anime": "5386"
+  }
+}

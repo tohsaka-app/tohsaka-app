@@ -1,0 +1,25 @@
+{
+  "slug": "ice-movie",
+  "synopsis": "Compilation movie of the previously released OVA.",
+  "title": {
+    "jp": "Ice Movie"
+  },
+  "releasedAt": "2008-11-29T00:00:00.000Z",
+  "finishedAt": "2008-11-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5587/original.jpg",
+  "categories": [
+    "action",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5587",
+    "anilist/anime": "9053",
+    "aozora": "cQo7fRv6gn",
+    "myanimelist/anime": "9053"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "tobe-kujira-no-peek",
+  "synopsis": "The story of an albino whale used in a circus, and the efforts of young children to free him from captivity.\n(Source: ANN)",
+  "title": {
+    "en": "Fly! Peek the Whale",
+    "jp": "Tobe! Kujira no Peek"
+  },
+  "releasedAt": "1991-05-22T00:00:00.000Z",
+  "finishedAt": "1991-05-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2096/original.jpg",
+  "categories": [
+    "adventure",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2096",
+    "anidb": "2999",
+    "anilist/anime": "2314",
+    "aozora": "MVtWxcWKIH",
+    "myanimelist/anime": "2314"
+  }
+}

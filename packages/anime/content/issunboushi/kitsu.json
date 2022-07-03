@@ -1,0 +1,25 @@
+{
+  "slug": "issunboushi",
+  "synopsis": "The story of a couple who prays to God for a child, even if he would only be the size of a thumb.",
+  "title": {
+    "en": null,
+    "jp": "Issunboushi"
+  },
+  "releasedAt": "1918-03-20T00:00:00.000Z",
+  "finishedAt": "1918-03-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6337/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6337",
+    "anidb": "6924",
+    "anilist/anime": "10760",
+    "aozora": "sdFObqtOjI",
+    "myanimelist/anime": "10760"
+  }
+}

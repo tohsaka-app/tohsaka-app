@@ -1,0 +1,452 @@
+[
+  {
+    "title": {
+      "jp": "Home Town - Farm"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44066/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Home Town - Forest"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44067/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Home Town - Departure"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44068/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "New Guinea - Birds of Paradise"
+    },
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44069/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "New Guinea - Turtles"
+    },
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44070/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "High Andes - Cactus"
+    },
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44071/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "High Andes - Llama"
+    },
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44072/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "High Andes - Bear"
+    },
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44073/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sumatra - Rhino"
+    },
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44074/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sumatra - Orangutan"
+    },
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44075/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Australia - Kangaroo"
+    },
+    "season": 1,
+    "number": 11,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44076/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Australia - Koala"
+    },
+    "season": 1,
+    "number": 12,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44077/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Australia - Forest Fire"
+    },
+    "season": 1,
+    "number": 13,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44078/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Himalayas - Glacier"
+    },
+    "season": 1,
+    "number": 14,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44079/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Himalayas - Avalanche"
+    },
+    "season": 1,
+    "number": 15,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44080/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Borneo - Proboscis Monkey"
+    },
+    "season": 1,
+    "number": 16,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44081/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Borneo - Mangrove"
+    },
+    "season": 1,
+    "number": 17,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44082/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Borneo - Python"
+    },
+    "season": 1,
+    "number": 18,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44083/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "India - Tiger"
+    },
+    "season": 1,
+    "number": 19,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44084/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "India - Monsoon"
+    },
+    "season": 1,
+    "number": 20,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44085/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Amazon - Jaguar"
+    },
+    "season": 1,
+    "number": 21,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44086/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Amazon - Spider Monkey"
+    },
+    "season": 1,
+    "number": 22,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44087/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Amazon - Amazon River"
+    },
+    "season": 1,
+    "number": 23,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44088/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "China - Panda"
+    },
+    "season": 1,
+    "number": 24,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44089/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "China - Golden Fleece"
+    },
+    "season": 1,
+    "number": 25,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44090/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Northern Europe - Moose"
+    },
+    "season": 1,
+    "number": 26,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44091/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Northern Europe - Beavers"
+    },
+    "season": 1,
+    "number": 27,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44092/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Northern Europe - Halloween"
+    },
+    "season": 1,
+    "number": 28,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44093/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "North Pole - Polar Bear"
+    },
+    "season": 1,
+    "number": 29,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44094/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "North Pole - Walrus"
+    },
+    "season": 1,
+    "number": 30,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44095/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Savana - Lion & Zebra"
+    },
+    "season": 1,
+    "number": 31,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44096/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Savana - Gnu"
+    },
+    "season": 1,
+    "number": 32,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44097/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Savana - Giraffe"
+    },
+    "season": 1,
+    "number": 33,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44098/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "North America - Tornado"
+    },
+    "season": 1,
+    "number": 34,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44099/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "North America - Bison"
+    },
+    "season": 1,
+    "number": 35,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44100/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Go West - Pioneer"
+    },
+    "season": 1,
+    "number": 36,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44101/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Go West - Grizzly"
+    },
+    "season": 1,
+    "number": 37,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44102/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Go West - Sea Otter"
+    },
+    "season": 1,
+    "number": 38,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44103/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Red Sea - Coral Reef"
+    },
+    "season": 1,
+    "number": 39,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44104/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Red Sea - Scorpion Fish"
+    },
+    "season": 1,
+    "number": 40,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44105/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Africa - Elephant"
+    },
+    "season": 1,
+    "number": 41,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44106/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Africa - Hippo"
+    },
+    "season": 1,
+    "number": 42,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44107/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Africa - Mosquito"
+    },
+    "season": 1,
+    "number": 43,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44108/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Madagascar - Baobab"
+    },
+    "season": 1,
+    "number": 44,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44109/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Madagascar - Aye-Aye"
+    },
+    "season": 1,
+    "number": 45,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44110/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Galapagos - Marine Iguana"
+    },
+    "season": 1,
+    "number": 46,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44111/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Galapagos - Whales"
+    },
+    "season": 1,
+    "number": 47,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44112/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Galapagos - Giant Turtles"
+    },
+    "season": 1,
+    "number": 48,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44113/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Antarctic - Penguins"
+    },
+    "season": 1,
+    "number": 49,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44114/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Antarctic - Giant Squid"
+    },
+    "season": 1,
+    "number": 50,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44115/original.jpg",
+    "content": {}
+  }
+]

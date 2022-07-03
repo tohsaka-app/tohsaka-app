@@ -1,0 +1,23 @@
+{
+  "slug": "sasami-14",
+  "synopsis": "Sequel of Mahou Shoujo Pretty Sammy.",
+  "title": {
+    "jp": "Sasami 14"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13472/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "magic",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13472"
+  }
+}

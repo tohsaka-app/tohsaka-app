@@ -1,0 +1,26 @@
+{
+  "slug": "inori",
+  "synopsis": "Graduation work of Tomotari Oishi at Tama Art University.",
+  "title": {
+    "en": "INORI",
+    "jp": "INORI"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45726/poster_image/a94dc7fa2f3a8f8a4398a6e7a779da02.png",
+  "categories": [
+    "comedy",
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/_zulLhgzL3U"
+  ],
+  "relations": {
+    "kitsu": "45726",
+    "anilist/anime": "143386"
+  }
+}

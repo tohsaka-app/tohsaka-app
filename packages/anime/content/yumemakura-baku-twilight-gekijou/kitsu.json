@@ -1,0 +1,25 @@
+{
+  "slug": "yumemakura-baku-twilight-gekijou",
+  "synopsis": "Originally released as a feature part of Studio Pierrot's video magazine show Anime V Comic Rentaman (アニメ・V・コミック レンタマン) along with Abashiri Ikka, Eguchi Hisashi no Kotobuki Gorou Show and Akai Hayate. \n(Source: AniDB) ",
+  "title": {
+    "jp": "Yumemakura Baku Twilight Gekijou"
+  },
+  "releasedAt": "1991-05-21T00:00:00.000Z",
+  "finishedAt": "1991-11-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6809/original.jpg",
+  "categories": [
+    "horror",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6809",
+    "anidb": "2903",
+    "anilist/anime": "12769",
+    "aozora": "sC6j0KUE1A",
+    "myanimelist/anime": "12769"
+  }
+}

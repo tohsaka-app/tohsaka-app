@@ -1,0 +1,33 @@
+{
+  "slug": "momotarou-umi-no-shinpei",
+  "synopsis": "A monkey, a dog, a pheasant, and a bear travel southward after resting in their villages at the foot of Mt. Fuji. A squadron flies to Onigashima under the command of Momotarou. Parachutes blossom in the sky. Momotarou and company will take over the island after a swift and successful mission. The village children pretend parachuting with glee as they run towards Mt. Fuji.\n(Source: Imagica)",
+  "title": {
+    "en": "Momotaro",
+    "jp": "Momotarou: Umi no Shinpei"
+  },
+  "releasedAt": "1945-04-12T00:00:00.000Z",
+  "finishedAt": "1945-04-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2523/original.jpg",
+  "categories": [
+    "action",
+    "air force",
+    "anthropomorphism",
+    "asia",
+    "earth",
+    "japan",
+    "military",
+    "pirate",
+    "world war ii"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2523",
+    "anidb": "4055",
+    "anilist/anime": "2765",
+    "aozora": "tvtru0lTow",
+    "myanimelist/anime": "2765"
+  }
+}

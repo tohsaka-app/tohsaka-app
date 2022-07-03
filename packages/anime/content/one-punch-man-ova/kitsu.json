@@ -1,0 +1,32 @@
+{
+  "slug": "one-punch-man-ova",
+  "synopsis": "Bundled with the tenth volume of One Punch-Man manga.\n\nWhile Saitama is training to become a hero, he needs one more thing before he can become a real hero. The origins of his hero suit is revealed.",
+  "title": {
+    "en": "One-Punch Man: Road to Hero",
+    "jp": "One Punch Man: Road to Hero"
+  },
+  "releasedAt": "2015-12-04T00:00:00.000Z",
+  "finishedAt": "2015-12-04T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11402/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11402/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "parody",
+    "science fiction",
+    "shounen",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11402",
+    "anidb": "11637",
+    "anilist/anime": "21386",
+    "aozora": "2JjNwaHd8a",
+    "myanimelist/anime": "31704"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "antinotice",
+  "synopsis": "Music video from Akane Aki.",
+  "title": {
+    "jp": "Antinotice"
+  },
+  "releasedAt": "2011-08-17T00:00:00.000Z",
+  "finishedAt": "2011-08-17T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7254/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7254",
+    "anidb": "11407",
+    "anilist/anime": "15423",
+    "aozora": "s37ltLDaHZ",
+    "myanimelist/anime": "15423"
+  }
+}

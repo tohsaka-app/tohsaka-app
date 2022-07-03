@@ -1,0 +1,29 @@
+{
+  "slug": "heybot",
+  "synopsis": "The anime takes place on the screw-shaped island country of Nejigajima and follows the two \"Bokyabots\" Hebot and the Yurui Prince Nejiru as they collect different \"Bokya Neji\" screws. When the Bokyabots wear the Bokya Neji screws on their heads, they're able to compete in \"Bokya Battles,\" battles for who can think up and tell the best jokes.(Source: ANN)",
+  "title": {
+    "en": "HEYBOT!",
+    "jp": "Heybot!"
+  },
+  "releasedAt": "2016-09-18T00:00:00.000Z",
+  "finishedAt": "2017-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12346/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/heybot"
+  ],
+  "relations": {
+    "kitsu": "12346",
+    "anidb": "12199",
+    "anilist/anime": "21848",
+    "aozora": "Jss6tprZfw",
+    "myanimelist/anime": "33434"
+  }
+}

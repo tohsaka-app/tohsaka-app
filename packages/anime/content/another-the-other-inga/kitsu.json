@@ -1,0 +1,33 @@
+{
+  "slug": "another-the-other-inga",
+  "synopsis": "Episode 0 bundled with the 0th limited-edition volume of Kiyohara Hiro's manga adaptation of Ayatsuji Yukito's horror novel Another. ",
+  "title": {
+    "en": "Another: The Other",
+    "jp": "Another: The Other - Inga"
+  },
+  "releasedAt": "2012-05-26T00:00:00.000Z",
+  "finishedAt": "2012-05-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6569/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6569/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "horror",
+    "japan",
+    "mystery",
+    "present",
+    "slice of life",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6569",
+    "anidb": "8625",
+    "anilist/anime": "11701",
+    "aozora": "JRAXsKbBQ4",
+    "myanimelist/anime": "11701"
+  }
+}

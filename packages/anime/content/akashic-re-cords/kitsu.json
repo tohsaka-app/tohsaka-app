@@ -1,0 +1,21 @@
+{
+  "slug": "akashic-re-cords",
+  "synopsis": "The animated opening for Square Enix and Kadokawa Game’s Akashic Re:cords RPG mobile game which launched for Android and iOS on November 10, 2016. The game had a short lived run and was terminated on August 31, 2017.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Akashic Re:cords"
+  },
+  "releasedAt": "2016-10-18T00:00:00.000Z",
+  "finishedAt": "2016-10-18T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41637/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41637",
+    "myanimelist/anime": "36637"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "seitokai-no-ichizon",
+  "synopsis": "The student council of Hekiyou Gakuen is chosen by popular vote, so of course all the members are cute girls. All except Ken Sugisaki, that is. Ken managed to get a spot by being the top scoring student in his year, which granted him an automatic seat. It wasn’t an easy feat, as Ken is not exactly book-smart, but he studied hard and improved his score just to become a part of the exclusive student council.\nHowever, for such a highly regarded council, the members don’t really do much. Ken spends most of his time trying to turn the girls into his harem, while the girls ignore him in favor of more important things, like running festivals, attempting to boost their popularity, and slowly driving Ken mad in the best way possible.\nGet ready for fourth wall breaking, loads of references and parodies, and even a couple of cameos in Seitokai no Ichizon!",
+  "title": {
+    "en": "Student Council's Discretion",
+    "jp": "Seitokai no Ichizon"
+  },
+  "releasedAt": "2009-10-03T00:00:00.000Z",
+  "finishedAt": "2009-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4332/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4332/original.png",
+  "categories": [
+    "comedy",
+    "harem",
+    "japan",
+    "parody",
+    "present",
+    "school life",
+    "slapstick",
+    "stereotypes",
+    "super deformed"
+  ],
+  "externals": [
+    "http://www.hulu.com/student-councils-discretion"
+  ],
+  "relations": {
+    "kitsu": "4332",
+    "anidb": "6556",
+    "anilist/anime": "5909",
+    "aozora": "ROVrzth3Ql",
+    "hulu": "50020263",
+    "myanimelist/anime": "5909",
+    "thetvdb": "116001/1",
+    "thetvdb/series": "116001",
+    "trakt": "56419"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "no-no-pessimist",
+  "synopsis": "Promotion music video created to pitch a full OVA, to no avail.\nMusic sung by Megumi Hayashibara and based on the Nihon Falcom video game.",
+  "title": {
+    "jp": "Popful Mail"
+  },
+  "releasedAt": "1994-01-01T00:00:00.000Z",
+  "finishedAt": "1994-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8862/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8862",
+    "anilist/anime": "102703",
+    "aozora": "wPwr6sxABq",
+    "myanimelist/anime": "23029"
+  }
+}

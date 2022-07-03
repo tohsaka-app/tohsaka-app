@@ -1,0 +1,24 @@
+{
+  "slug": "hello-kitty-no-kieta-santa-san-no-okurimono",
+  "synopsis": "Kitty and Mimmy are preparing for Santa's visit by making him cookies.",
+  "title": {
+    "jp": "Hello Kitty no Kieta Santa-san no Okurimono"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9848/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9848",
+    "anilist/anime": "18823",
+    "aozora": "RcppPhdNSJ",
+    "myanimelist/anime": "18823"
+  }
+}

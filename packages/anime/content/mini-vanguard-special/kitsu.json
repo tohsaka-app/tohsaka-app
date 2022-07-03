@@ -1,0 +1,26 @@
+{
+  "slug": "mini-vanguard-special",
+  "synopsis": "A special episode released with the first DVD volume of Mini Vanguard.",
+  "title": {
+    "jp": "Mini Van Special"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8590/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "slice of life",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8590",
+    "anilist/anime": "101431",
+    "aozora": "Q7KFmtTBuO",
+    "myanimelist/anime": "20999"
+  }
+}

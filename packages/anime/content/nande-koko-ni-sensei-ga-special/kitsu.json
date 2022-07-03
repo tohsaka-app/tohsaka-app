@@ -1,0 +1,26 @@
+{
+  "slug": "nande-koko-ni-sensei-ga-special",
+  "synopsis": "Unaired episode included with the Blu-ray box set.",
+  "title": {
+    "en": "Why the Hell are You Here, Teacher!? Special",
+    "jp": "Nande Koko ni Sensei ga!? Special"
+  },
+  "releasedAt": "2019-12-11T00:00:00.000Z",
+  "finishedAt": "2019-12-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42499/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "school life",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42499",
+    "anilist/anime": "113924",
+    "myanimelist/anime": "39689"
+  }
+}

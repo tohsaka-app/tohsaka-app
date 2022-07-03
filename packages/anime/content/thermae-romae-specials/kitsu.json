@@ -1,0 +1,26 @@
+{
+  "slug": "thermae-romae-specials",
+  "synopsis": "Bonus episodes included with the BD/DVD.\nThe first episode consists of \"Miwaku no Farosu\" and \"Sanshimai OL Terumae Satsujin Jiken.\"\nThe second episode consists of \"Subesube ni Naritai\"  and \"Hitasura Suberitai.\"",
+  "title": {
+    "jp": "Thermae Romae Specials"
+  },
+  "releasedAt": "2012-04-20T00:00:00.000Z",
+  "finishedAt": "2012-04-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6800/original.jpg",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/thermae-romae"
+  ],
+  "relations": {
+    "kitsu": "6800",
+    "anilist/anime": "12727",
+    "aozora": "nimDG7XLCT",
+    "myanimelist/anime": "12727"
+  }
+}

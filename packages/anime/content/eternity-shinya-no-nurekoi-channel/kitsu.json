@@ -1,0 +1,25 @@
+{
+  "slug": "eternity-shinya-no-nurekoi-channel",
+  "synopsis": "Anime adaptation of 12 romantic works from the Eternity Books manga label.The complete edition with explicit scenes was distributed online via the official website for Eternity Books. The censored version was broadcast on Tokyo MX.This database entry reflects censored TV version of the anime.",
+  "title": {
+    "en": "Eternity: Sweet Love Story",
+    "jp": "Eternity: Shinya no Nurekoi Channel ♡"
+  },
+  "releasedAt": "2020-10-05T00:00:00.000Z",
+  "finishedAt": "2020-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43320/original.jpg",
+  "categories": [
+    "ecchi",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43320",
+    "anidb": "15630",
+    "anilist/anime": "121645",
+    "myanimelist/anime": "42414"
+  }
+}

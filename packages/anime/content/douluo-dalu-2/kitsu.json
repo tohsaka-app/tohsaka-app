@@ -1,0 +1,27 @@
+{
+  "slug": "douluo-dalu-2",
+  "synopsis": "Season 2 of Douluo Dalu.",
+  "title": {
+    "jp": "Douluo Dalu 2"
+  },
+  "releasedAt": "2018-12-01T00:00:00.000Z",
+  "finishedAt": "2019-11-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42037/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42037",
+    "anilist/anime": "103543",
+    "myanimelist/anime": "37822"
+  }
+}

@@ -1,0 +1,110 @@
+[
+  {
+    "title": {
+      "jp": "Konpaku Seni"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2017-04-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Jikuu Kessetsu"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2017-04-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kuubaku Kairo"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2017-04-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Teni Kishuu"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2017-04-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kesshou Youjo"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2017-05-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sekai Kakuran"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2017-05-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Seizon Chuuiki"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2017-05-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kaden Funryuu"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2017-05-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shinsei Tankyuu"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2017-06-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shukutai Rireki"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2017-06-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Muku Kidou"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2017-06-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Jitsuzon Jinkaku"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2017-06-25T00:00:00.000Z",
+    "content": {}
+  }
+]

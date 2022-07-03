@@ -1,0 +1,23 @@
+{
+  "slug": "kochira-katsushikaku-kameari-kouenmae-hashutsujo-ryou-san-to-chyuuken-rakkii-monogatari-kameari-d",
+  "synopsis": "A Kochikame television special.",
+  "title": {
+    "jp": "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Ryou-san to Chyuuken Rakkii Monogatari - Kameari D"
+  },
+  "releasedAt": "2005-10-23T00:00:00.000Z",
+  "finishedAt": "2005-10-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12693/original.jpg",
+  "categories": [
+    "comedy",
+    "cops"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12693",
+    "aozora": "BLLytJnc6g",
+    "myanimelist/anime": "33876"
+  }
+}

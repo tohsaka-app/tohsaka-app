@@ -1,0 +1,24 @@
+{
+  "slug": "yahabe",
+  "synopsis": "Yosuke Kamogawa had nothing to live for, but a mysterious pyramid appears called Yahabe! With the power to turn back time, how will Yosuke's life change?\n(Source: AniDB)",
+  "title": {
+    "jp": "Yahabe"
+  },
+  "releasedAt": "2012-08-04T00:00:00.000Z",
+  "finishedAt": "2012-08-04T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11012/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11012/original.png",
+  "categories": [
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11012",
+    "anidb": "11801",
+    "aozora": "qJufqCs6L7",
+    "myanimelist/anime": "33744"
+  }
+}

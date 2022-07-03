@@ -1,0 +1,34 @@
+{
+  "slug": "majin-tantei-nougami-neuro",
+  "synopsis": "The series focuses on Neuro Nougami, a demon who feeds on mysteries and puzzles, who comes to the human world to feast on the mysteries offered by humans who release negative energy from their planned crimes. As a demon, he must not make his presence noticed by the humans as it is the law in the human world. Because of this, he makes a permanent deal with Yako Katsuragi (who has her own personal mystery she has to solve), and together they solve crimes for Neuro's appetite.",
+  "title": {
+    "en": "Neuro: Supernatural Detective",
+    "jp": "Majin Tantei Nougami Neuro"
+  },
+  "releasedAt": "2007-10-03T00:00:00.000Z",
+  "finishedAt": "2008-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2699/original.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "detective",
+    "mystery"
+  ],
+  "externals": [
+    "http://www.hulu.com/neuro"
+  ],
+  "relations": {
+    "kitsu": "2699",
+    "anidb": "5416",
+    "anilist/anime": "2985",
+    "aozora": "Bd5mSIywvA",
+    "hulu": "50002634",
+    "myanimelist/anime": "2985",
+    "thetvdb": "81829/1",
+    "thetvdb/series": "81829",
+    "trakt": "63378"
+  }
+}

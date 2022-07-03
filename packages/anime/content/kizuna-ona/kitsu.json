@@ -1,0 +1,23 @@
+{
+  "slug": "kizuna-ona",
+  "synopsis": "A Norton (anti-virus company) commissioned anime from Tekken showing a man who tries to protect his coworkers but caves under the social pressure. He finds himself scared and alone only for a girl to come and protect him (emotionally) and together they protect each other.",
+  "title": {
+    "jp": "Kizuna (ONA)"
+  },
+  "releasedAt": "2013-09-19T00:00:00.000Z",
+  "finishedAt": "2013-09-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12824/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12824",
+    "anilist/anime": "102790",
+    "aozora": "h0nPNbCdl1",
+    "myanimelist/anime": "34120"
+  }
+}

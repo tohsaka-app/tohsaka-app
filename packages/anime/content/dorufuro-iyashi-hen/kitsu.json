@@ -1,0 +1,30 @@
+{
+  "slug": "dorufuro-iyashi-hen",
+  "synopsis": "Adaptation of the mobile game \"Girls' Frontline\". We follow the everyday life of the Tactical-Dolls",
+  "title": {
+    "en": "Doll's Frontline: Iyashi-hen",
+    "jp": "Dorufuro: Iyashi-hen"
+  },
+  "releasedAt": "2019-07-28T00:00:00.000Z",
+  "finishedAt": "2019-12-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42571/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42571/original.jpg",
+  "categories": [
+    "comedy",
+    "military",
+    "post apocalypse",
+    "robot",
+    "science fiction",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42571",
+    "anilist/anime": "110521",
+    "anilist/manga": "110521",
+    "myanimelist/anime": "40151"
+  }
+}

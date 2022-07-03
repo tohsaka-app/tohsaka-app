@@ -1,0 +1,33 @@
+{
+  "slug": "ame-iro-cocoa",
+  "synopsis": "Aoi Tokura is having a rough day. He’s used to being mistaken for a girl, but it’s even worse when a captivating stranger on the train calls him a creeper for staring a little too long. Aoi’s soaked by a sudden rainstorm and takes shelter at Rainy Color, a cozy café where the warmth of the staff compliments the sweet hot cocoa he’s served. When he falls into a job at the café he feels like things are finally looking up— until Keiichi Iwase, the man he couldn’t help but stare at on the train, shows up. Did this day just get worse, or better?\n(Source: FUNimation)",
+  "title": {
+    "en": "Rainy Cocoa",
+    "jp": "Ame-iro Cocoa"
+  },
+  "releasedAt": "2015-04-05T00:00:00.000Z",
+  "finishedAt": "2015-06-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10095/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/rainy-cocoa",
+    "http://www.funimation.com/shows/rainy-cocoa/videos/episodes",
+    "http://www.hulu.com/rainy-cocoa"
+  ],
+  "relations": {
+    "kitsu": "10095",
+    "anidb": "10994",
+    "anilist/anime": "21054",
+    "aozora": "9pFWrBYZBg",
+    "hulu": "50021499",
+    "myanimelist/anime": "28981",
+    "thetvdb": "293647/1",
+    "trakt": "97432"
+  }
+}

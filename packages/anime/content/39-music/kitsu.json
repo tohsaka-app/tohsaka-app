@@ -1,0 +1,24 @@
+{
+  "slug": "39-music",
+  "synopsis": "Official music video for the event Magical Mirai 2016, with art by Mago and music by Mikito-P, performed by Miku Hatsune.",
+  "title": {
+    "jp": "39 Music!"
+  },
+  "releasedAt": "2016-06-29T00:00:00.000Z",
+  "finishedAt": "2016-06-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43969/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43969/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=OuLZlZ18APQ&feature=emb_title&ab_channel=HatsuneMiku"
+  ],
+  "relations": {
+    "kitsu": "43969",
+    "anilist/anime": "128951"
+  }
+}

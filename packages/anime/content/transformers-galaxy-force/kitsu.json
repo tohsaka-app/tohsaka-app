@@ -1,0 +1,37 @@
+{
+  "slug": "transformers-galaxy-force",
+  "synopsis": "Forced to abandon their home planet of Cybertron due to the threat of the Blackhole, Optimus Prime prepares to lead his autobot warriors to Earth. Just as they are leaving they are confronted by Vector Prime who warns Optimus Prime of the threat to the galaxy if the four Cyber Planet Keys are not gathered in time. However, Megatron has plans of his own for the universe. As they embark on the search, they land on new planets which are inhabited by different Transformer races as well as the Convoys who lead these planets.",
+  "title": {
+    "en": "Transformers Cybertron",
+    "jp": "Transformers Galaxy Force"
+  },
+  "releasedAt": "2005-01-08T00:00:00.000Z",
+  "finishedAt": "2005-12-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/826/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "mecha",
+    "other planet",
+    "robot helper",
+    "science fiction",
+    "space",
+    "space travel",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "826",
+    "anidb": "2806",
+    "anilist/anime": "928",
+    "aozora": "m1fLaQa9RK",
+    "myanimelist/anime": "928",
+    "thetvdb": "79081/1",
+    "thetvdb/series": "79081",
+    "trakt": "10036"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "bobobo-bo-bo-bobo-recap",
+  "synopsis": "Recap episode aired between episodes 32 and 33. ",
+  "title": {
+    "jp": "Bobobo-bo Bo-bobo Recap"
+  },
+  "releasedAt": "2004-10-23T00:00:00.000Z",
+  "finishedAt": "2004-10-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10676/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "parody",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10676",
+    "aozora": "IHRsW3IvGc",
+    "myanimelist/anime": "30143"
+  }
+}

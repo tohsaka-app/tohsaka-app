@@ -1,0 +1,24 @@
+{
+  "slug": "symphonic-variations",
+  "synopsis": "A music video for the song by The King Tones that was featured on NHK's Minna no Uta program.\nAnimals made out of string use their bodies to make instruments and perform a symphony.",
+  "title": {
+    "jp": "Symphonic Variations"
+  },
+  "releasedAt": "1976-06-01T00:00:00.000Z",
+  "finishedAt": "1976-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10627/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10627",
+    "anidb": "12598",
+    "anilist/anime": "104564",
+    "aozora": "PojG8vPLgj",
+    "myanimelist/anime": "30074"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "forty-eight-x61",
+  "synopsis": "48x61 is a short movie made by the famous director Rintaro (Astro Boy, Metropolis, ...) for the Japanese manga artist and director Katsuhiro Otomo (Akira, Mushishi, ...). It was produced by Studio Madhouse. This movie was made when Rintaro was 61 years old and Katsuhiro 48 years old. Hence the title.\nMain characters in this movie are Rintarou and Katsuhiro. The story is about a bicycle race between the two them.\n(Source: AniDB)",
+  "title": {
+    "jp": "48x61"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6430/original.jpg",
+  "categories": [
+    "comedy",
+    "cycling",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6430",
+    "anidb": "8251",
+    "anilist/anime": "10979",
+    "aozora": "eKfnY7Y6As",
+    "myanimelist/anime": "10979"
+  }
+}

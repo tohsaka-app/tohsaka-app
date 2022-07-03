@@ -1,0 +1,25 @@
+{
+  "slug": "candy-zip",
+  "synopsis": "Aoko is confident about the documents she creates at work, but doesn't get any positive feedback. Then, she witnesses her colleague secretly changing the documents she created. Aoko is turned into a piece of candy to keep her quiet...\n\n1st year work 2017, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation",
+  "title": {
+    "en": "Candy.zip",
+    "jp": "Candy.zip"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44660/original.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/AGNuOFwGO9Q"
+  ],
+  "relations": {
+    "kitsu": "44660",
+    "anilist/anime": "114757",
+    "myanimelist/anime": "49977"
+  }
+}

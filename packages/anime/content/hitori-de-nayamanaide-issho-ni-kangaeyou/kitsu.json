@@ -1,0 +1,22 @@
+{
+  "slug": "hitori-de-nayamanaide-issho-ni-kangaeyou",
+  "synopsis": "A commercial aired at 109 Cinemas in Kawasaki before the main movies. The goal was suicide prevention and the Kawasaki City mental health and wellness center information was made available. ",
+  "title": {
+    "jp": "Hitori de Nayamanaide Issho ni Kangaeyou"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12602/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12602",
+    "aozora": "E4I432vfoc",
+    "myanimelist/anime": "34115"
+  }
+}

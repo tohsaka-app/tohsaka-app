@@ -1,0 +1,25 @@
+{
+  "slug": "clay",
+  "synopsis": "An armed woman confronts a mysterious creature.",
+  "title": {
+    "jp": "C.L.A.Y."
+  },
+  "releasedAt": "2012-05-27T00:00:00.000Z",
+  "finishedAt": "2012-05-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7472/original.jpg",
+  "categories": [
+    "horror",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7472",
+    "anidb": "10640",
+    "anilist/anime": "16606",
+    "aozora": "TphCYJ3b1y",
+    "myanimelist/anime": "16606"
+  }
+}

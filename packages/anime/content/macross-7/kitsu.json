@@ -1,0 +1,43 @@
+{
+  "slug": "macross-7",
+  "synopsis": "35 years have passed since Lynn Minmay had brought peace between the Zentradi and the humans in the events of Macross. Nekki Basara is a guitarist and a singer of the band Fire Bomber. Living in a less-developed part of the flying colony City 7 which is looking for a habitable planet, he composes and sings songs in the belief that music holds a greater power.\nDuring its flight, an unknown alien race appeared and started laying siege upon City 7. However, its attacks are not conventional -- instead of trying to destroy them, they steal what is known as \"spiritia\", rendering victims unresponsive and zombie-like. During these battles, Basara always goes out into the middle of the warzone, singing his songs and expecting friend and foe to listen and be moved by his music.\n(Source: ANN)",
+  "title": {
+    "jp": "Macross 7"
+  },
+  "releasedAt": "1994-10-16T00:00:00.000Z",
+  "finishedAt": "1995-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1250/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1250/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "comedy",
+    "future",
+    "mecha",
+    "military",
+    "music",
+    "musical band",
+    "piloted robot",
+    "plot continuity",
+    "romance",
+    "science fiction",
+    "shipboard",
+    "space",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1250",
+    "anidb": "442",
+    "anilist/anime": "1397",
+    "aozora": "3Sg2fMo1lZ",
+    "myanimelist/anime": "1397",
+    "thetvdb": "72347/1",
+    "thetvdb/series": "72347",
+    "trakt": "21634"
+  }
+}

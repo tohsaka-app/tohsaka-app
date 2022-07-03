@@ -1,0 +1,23 @@
+{
+  "slug": "gene",
+  "synopsis": "A music video for Sleep Warp's song \"gene\". ",
+  "title": {
+    "jp": "Gene"
+  },
+  "releasedAt": "2010-01-06T00:00:00.000Z",
+  "finishedAt": "2010-01-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12112/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12112",
+    "anilist/anime": "103953",
+    "aozora": "Uwk8JIGwH1",
+    "myanimelist/anime": "32775"
+  }
+}

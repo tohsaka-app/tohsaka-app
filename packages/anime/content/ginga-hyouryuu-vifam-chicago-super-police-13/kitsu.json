@@ -1,0 +1,26 @@
+{
+  "slug": "ginga-hyouryuu-vifam-chicago-super-police-13",
+  "synopsis": "A parody of Ginga Hyouryuu Vifam set in 1920's Chicago. Originally released as an extra on the Ginga Hyouryuu Vifam: Keito no Kioku - Namida no Dakkai Sakusen VHS tape.",
+  "title": {
+    "jp": "Ginga Hyouryuu Vifam: Chicago Super Police 13"
+  },
+  "releasedAt": "1985-09-25T00:00:00.000Z",
+  "finishedAt": "1985-09-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7075/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "cops",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7075",
+    "anilist/anime": "14067",
+    "aozora": "qND3asGoSm",
+    "myanimelist/anime": "14067"
+  }
+}

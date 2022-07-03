@@ -1,0 +1,23 @@
+{
+  "slug": "flopnik",
+  "synopsis": "An animated music video by coalowl for the song Flopnik by PEOPLE 1.",
+  "title": {
+    "jp": "Flopnik"
+  },
+  "releasedAt": "2020-05-03T00:00:00.000Z",
+  "finishedAt": "2020-05-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46094/poster_image/f9a0dc7dbd5fb27fc79c8ae46836f395.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/xSwUJ66nuNk"
+  ],
+  "relations": {
+    "kitsu": "46094",
+    "anilist/anime": "147957"
+  }
+}

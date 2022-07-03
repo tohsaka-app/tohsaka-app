@@ -1,0 +1,24 @@
+{
+  "slug": "hashiri-hajimeta-bakari-no-kimi-ni",
+  "synopsis": "Animated music video for \"Hashiri Hajimeta bakari no Kimi ni\", the third single of Bushiroad's BanG Dream! project band Poppin' Party.",
+  "title": {
+    "jp": "Hashiri Hajimeta bakari no Kimi ni"
+  },
+  "releasedAt": "2016-12-07T00:00:00.000Z",
+  "finishedAt": "2016-12-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12764/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12764",
+    "anidb": "12628",
+    "anilist/anime": "118231",
+    "aozora": "MFoGfkvLsS",
+    "myanimelist/anime": "34412"
+  }
+}

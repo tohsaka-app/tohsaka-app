@@ -1,0 +1,38 @@
+{
+  "slug": "ginga-eiyuu-densetsu-arata-naru-tatakai-no-overture",
+  "synopsis": "Based on a series of sci-fi novels, this series tells the story of a massive conflict between the Prussia-like Galactic Empire and the Free Planets Alliance. It describes all levels of the war, from the tactical to the strategic, but focuses most on the two opposing militaries' leaders: Reinhard Von Lohengramm and Yang Wen-Li.\n(Source: AniDB)",
+  "title": {
+    "en": "Legend of the Galactic Heroes: Overture to a New War",
+    "jp": "Ginga Eiyuu Densetsu: Arata Naru Tatakai no Overture"
+  },
+  "releasedAt": "1993-12-18T00:00:00.000Z",
+  "finishedAt": "1993-12-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2726/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2726/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "military",
+    "politics",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space battles",
+    "space opera",
+    "space travel"
+  ],
+  "externals": [
+    "https://vrv.co/watch/GR4PD003Y/Legend-of-the-Galactic-Heroes-Overture-to-a-New-War-Subtitled-Broadcast",
+    "https://www.hidive.com/movies/legend-of-the-galactic-heroes-overture-to-a-new-war"
+  ],
+  "relations": {
+    "kitsu": "2726",
+    "anidb": "1308",
+    "anilist/anime": "3016",
+    "aozora": "1alg9HX2k1",
+    "myanimelist/anime": "3016"
+  }
+}

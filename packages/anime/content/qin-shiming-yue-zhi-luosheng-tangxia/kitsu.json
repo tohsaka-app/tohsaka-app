@@ -1,0 +1,26 @@
+{
+  "slug": "qin-shiming-yue-zhi-luosheng-tangxia",
+  "synopsis": "A single episode special that was released on a web-tour game to coincide with the movie release. This special tells of a young Taoist who joins the Yin-Yang School to find his sister.",
+  "title": {
+    "jp": "Qin Shi Ming Yue Zhi: Luosheng Tangxia"
+  },
+  "releasedAt": "2014-08-13T00:00:00.000Z",
+  "finishedAt": "2014-08-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10557/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10557",
+    "anilist/anime": "121300",
+    "aozora": "aNZXvz7Ul2",
+    "myanimelist/anime": "29937"
+  }
+}

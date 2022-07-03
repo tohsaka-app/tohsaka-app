@@ -1,0 +1,24 @@
+{
+  "slug": "yonde-yobarete",
+  "synopsis": "Graduation work of Miho Takahashi at Tama Art University.",
+  "title": {
+    "en": "call me, call you",
+    "jp": "Yonde Yobarete"
+  },
+  "releasedAt": "2020-01-01T00:00:00.000Z",
+  "finishedAt": "2020-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45332/poster_image/11642065f3060a938c83ef56137ff155.png",
+  "categories": [
+    "the arts"
+  ],
+  "externals": [
+    "https://youtu.be/okYp_lpOsKA"
+  ],
+  "relations": {
+    "kitsu": "45332",
+    "anilist/anime": "140382"
+  }
+}

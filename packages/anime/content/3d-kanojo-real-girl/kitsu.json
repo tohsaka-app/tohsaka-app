@@ -1,0 +1,29 @@
+{
+  "slug": "3d-kanojo-real-girl",
+  "synopsis": "The character-driven story follows reclusive Hikari Tsutsui as he falls in love with popular Iroha Igarashi, despite aversions to real-world girls. They develop a close bond neither expected and it challenges their biased notions of who people are.\n\n(Source: HIDIVE)",
+  "title": {
+    "en": "Real Girl",
+    "jp": "3D Kanojo: Real Girl"
+  },
+  "releasedAt": "2018-04-04T00:00:00.000Z",
+  "finishedAt": "2018-06-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14276/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14276/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/real-girl"
+  ],
+  "relations": {
+    "kitsu": "14276",
+    "anilist/anime": "100526",
+    "myanimelist/anime": "36793"
+  }
+}

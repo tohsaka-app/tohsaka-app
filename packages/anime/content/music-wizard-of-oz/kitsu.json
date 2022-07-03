@@ -1,0 +1,28 @@
+{
+  "slug": "music-wizard-of-oz",
+  "synopsis": null,
+  "title": {
+    "en": "Music Wizard of OZ",
+    "jp": "Music Wizard of OZ"
+  },
+  "releasedAt": "2014-02-10T00:00:00.000Z",
+  "finishedAt": "2014-02-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45357/poster_image/cb61b80bd24dae4b14613b20440ab800.png",
+  "coverUrl": "https://media.kitsu.io/anime/45357/cover_image/c322c08b094b1925d06357d6c681c01f.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=IEMDJfIjge8"
+  ],
+  "relations": {
+    "kitsu": "45357"
+  }
+}

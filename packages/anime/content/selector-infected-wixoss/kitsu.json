@@ -1,0 +1,43 @@
+{
+  "slug": "selector-infected-wixoss",
+  "synopsis": "It's hard being the new girl, and Ruuko Kominato knows this better than anyone. She has yet to make any new friends after moving to a new town. Her brother sees her struggling and gives her a deck for the popular trading card game WIXOSS, hoping that it would help Ruuko connect with other people and forge new friendships.\nIn Selector Infected WIXOSS, each WIXOSS deck comes equipped with a LRIG card, which serves as a player's avatar during matches. It all seems pretty straightforward…except for one thing. The girl drawn on Ruuko's card moves and talks! Is that normal? She soon finds out when a fellow student at her school approaches her and challenges her to a WIXOSS battle. Over the course of their match, Ruuko learns a few things. First of all, she is a Selector, a special girl who is gifted with a living LRIG. Secondly, Selectors have the opportunity to make a wish come true. But, finally, if they lose three matches, they forfeit their chance to realize a wish and instead become cursed. Ruuko's fight for her heart's desire begins now!",
+  "title": {
+    "en": "selector infected WIXOSS",
+    "jp": "Selector Infected WIXOSS"
+  },
+  "releasedAt": "2014-04-04T00:00:00.000Z",
+  "finishedAt": "2014-06-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8285/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8285/original.png",
+  "categories": [
+    "angst",
+    "card games",
+    "coming of age",
+    "drama",
+    "friendship",
+    "magical girl",
+    "present",
+    "proxy battles",
+    "psychological"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/selector",
+    "http://www.funimation.com/shows/selector-infected-wixoss/videos/episodes",
+    "http://www.hulu.com/selector-infected-wixoss"
+  ],
+  "relations": {
+    "kitsu": "8285",
+    "anidb": "10417",
+    "anilist/anime": "20615",
+    "aozora": "7j6vm2l6db",
+    "hulu": "50015658",
+    "myanimelist/anime": "22273",
+    "thetvdb": "278327/1",
+    "thetvdb/season": "576178",
+    "thetvdb/series": "278327",
+    "trakt": "60373"
+  }
+}

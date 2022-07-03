@@ -1,0 +1,39 @@
+{
+  "slug": "nekogami-yaoyorozu",
+  "synopsis": "Koyama Yuzu is running an antique shop. Mayu, a cat god (nekogami), is living off Yuzu and leads an idle life playing games. Lots of other gods visit Mayu and enjoy merrymaking.\n(Source: ANN)",
+  "title": {
+    "en": "The Everyday Tales of a Cat God",
+    "jp": "Nekogami Yaoyorozu"
+  },
+  "releasedAt": "2011-07-09T00:00:00.000Z",
+  "finishedAt": "2011-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5947/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "deity",
+    "earth",
+    "japan",
+    "juujin",
+    "slapstick",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/cat-god",
+    "http://www.hulu.com/the-everyday-tales-of-a-cat-god"
+  ],
+  "relations": {
+    "kitsu": "5947",
+    "anidb": "8117",
+    "anilist/anime": "9934",
+    "aozora": "iKrARjVvAC",
+    "hulu": "50013181",
+    "myanimelist/anime": "9934",
+    "thetvdb": "249875/1",
+    "thetvdb/series": "249875",
+    "trakt": "55997"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "future-war-198x-nen",
+  "synopsis": "An American scientist constructs a laser–satellite with hope to prevent any nuclear conflicts. However, after a fatal error from both the U.S. and the U.S.S.R. government, war breaks, and humanity faces a new bloodshed.\n(Source: ANN)",
+  "title": {
+    "en": "Future War Year 198X",
+    "jp": "Future War 198X-nen"
+  },
+  "releasedAt": "1982-10-30T00:00:00.000Z",
+  "finishedAt": "1982-10-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5396/original.jpg",
+  "categories": [
+    "alternative present",
+    "earth",
+    "military",
+    "present",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5396",
+    "anidb": "2274",
+    "anilist/anime": "8584",
+    "aozora": "xf3tV09gEb",
+    "myanimelist/anime": "8584"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "the-last-naruto-the-movie",
+  "synopsis": "It has been two years since the Fourth Shinobi World War, and the world is once again existing in harmony—that is, until another threat surfaces and once again puts the planet on the very brink of destruction.\nAmidst the impending catastrophe, Hinata Hyuuga’s sister, Hanabi, is suddenly abducted. Naruto Uzumaki, together with a team of skillful ninjas; Sakura, Sai, Shikamaru, and Hinata, set out to rescue Hanabi from the evil clutches of Toneri Ootsutsuki. While they get closer and closer to completing their mission, they are faced with several adversaries, who will not only test the relationship they have with one another, but also puts the fate of the planet in face of uncertainty. As the clock ticks, the team rushes to end the last battle, fighting for peace...and love.",
+  "title": {
+    "en": "The Last: Naruto the Movie",
+    "jp": "The Last: Naruto the Movie"
+  },
+  "releasedAt": "2014-12-06T00:00:00.000Z",
+  "finishedAt": "2014-12-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7543/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7543/original.jpg",
+  "categories": [
+    "action",
+    "disaster",
+    "martial arts",
+    "romance",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "https://vrv.co/series/GYQWD0E3Y/The-Last-Naruto-the-Movie",
+    "https://www.crunchyroll.com/the-last-naruto-the-movie"
+  ],
+  "relations": {
+    "kitsu": "7543",
+    "anidb": "9588",
+    "anilist/anime": "16870",
+    "aozora": "vCPT7vCKLs",
+    "myanimelist/anime": "16870"
+  }
+}

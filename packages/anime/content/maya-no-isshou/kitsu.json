@@ -1,0 +1,30 @@
+{
+  "slug": "maya-no-isshou",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Maya no Isshou"
+  },
+  "releasedAt": "1996-08-20T00:00:00.000Z",
+  "finishedAt": "1996-08-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9437/original.jpg",
+  "categories": [
+    "friendship",
+    "historical",
+    "japan",
+    "past",
+    "slice of life",
+    "world war ii"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9437",
+    "anidb": "6358",
+    "anilist/anime": "117933",
+    "aozora": "3IsceQdeDm",
+    "myanimelist/anime": "25301"
+  }
+}

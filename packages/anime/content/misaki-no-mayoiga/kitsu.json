@@ -1,0 +1,25 @@
+{
+  "slug": "misaki-no-mayoiga",
+  "synopsis": "The story centers around a traditional Japanese house named \"Mayoiga\" (named after the Japanese folkloric concept of an abandoned yet well-kept home) from where one can see the sea and feel the touch of warmth and nostalgia. Here, a 17-year-old girl who is trying to find her place in the world begins a new life with people completely unrelated to her.\n(Source: ANN)",
+  "title": {
+    "en": "The Abandoned House by the Cape",
+    "jp": "Misaki no Mayoiga"
+  },
+  "releasedAt": "2021-08-27T00:00:00.000Z",
+  "finishedAt": "2021-08-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43717/original.jpg",
+  "categories": [
+    "drama",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43717",
+    "anilist/anime": "125838",
+    "myanimelist/anime": "43755"
+  }
+}

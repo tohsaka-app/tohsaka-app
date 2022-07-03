@@ -1,0 +1,37 @@
+{
+  "slug": "urusei-yatsura-movie-5-final",
+  "synopsis": "The Urusei Yatsura story comes to a climax in this animated retelling of the final Manga story (although not the final movie). Lupa, yet another one of Lum's fiancés, arrives on the scene, and Lum and Ataru have to repeat their game of tag in order to prevent the Earth from being destroyed.\nAll Ataru has to do to win is say \"I love you\" the three words he has steadfastly refused to say to Lum. Will he admit his true feelings and save the Earth? Or will his pride doom it to destruction?\n(Source: AniDB)",
+  "title": {
+    "jp": "Urusei Yatsura Movie 5: Final"
+  },
+  "releasedAt": "1988-02-06T00:00:00.000Z",
+  "finishedAt": "1988-02-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1734/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1734/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "comedy",
+    "high school",
+    "humanoid alien",
+    "japan",
+    "love polygon",
+    "romance",
+    "science fiction",
+    "slapstick"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GG5H5X7DK/Urusei-Yatsura-Movies"
+  ],
+  "relations": {
+    "kitsu": "1734",
+    "anidb": "382",
+    "anilist/anime": "1924",
+    "aozora": "AYOQzoTvSu",
+    "myanimelist/anime": "1924"
+  }
+}

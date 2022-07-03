@@ -1,0 +1,32 @@
+{
+  "slug": "bakugan-battle-brawlers-new-vestroia",
+  "synopsis": "Join Danma, Chouji and Dragonoid as they unite with the new Bakugan Resistance in an attempt to restore peace and freedom to their enslaved planet, New Vestroia. The newly-formed group of friends must battle the evil Vestals to free the captured Bakugan and destroy Vestal’s evil plans for domination.\n(Source: Nelvana)",
+  "title": {
+    "en": "Bakugan: New Vestroia",
+    "jp": "Bakugan Battle Brawlers: New Vestroia"
+  },
+  "releasedAt": "2009-04-12T00:00:00.000Z",
+  "finishedAt": "2010-05-09T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4062/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "parallel universe",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4062",
+    "anidb": "7401",
+    "anilist/anime": "5337",
+    "aozora": "j4IwmKIbid",
+    "myanimelist/anime": "5337",
+    "thetvdb": "82832/2",
+    "thetvdb/season": "473039",
+    "thetvdb/series": "82832",
+    "trakt": "33962"
+  }
+}

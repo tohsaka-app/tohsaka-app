@@ -1,0 +1,25 @@
+{
+  "slug": "avignon-no-hashi-de",
+  "synopsis": "A Japanese version of an old 15th century French song 'Sur le Pont d'Avignon,' which describes how people would come and dance on the Pont St. Bénézet (Pont d’Avignon). ",
+  "title": {
+    "jp": "Avignon no Hashi de"
+  },
+  "releasedAt": "1970-10-01T00:00:00.000Z",
+  "finishedAt": "1970-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5492/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5492",
+    "anidb": "12588",
+    "anilist/anime": "8778",
+    "aozora": "41krRTEf1s",
+    "myanimelist/anime": "8778"
+  }
+}

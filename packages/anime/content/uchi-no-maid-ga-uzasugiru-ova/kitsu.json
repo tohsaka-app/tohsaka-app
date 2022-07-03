@@ -1,0 +1,27 @@
+{
+  "slug": "uchi-no-maid-ga-uzasugiru-ova",
+  "synopsis": "Special Episode Swimsuit-Featured included in the fourth DVD/Blu-ray volume.\n",
+  "title": {
+    "en": "UzaMaid! My Maid Is Still Seriously Way Too Annoying...",
+    "jp": "Uchi no Maid ga Uzasugiru!: Uchi no Maid wa Yappari Mou Honto Uzainda naa..."
+  },
+  "releasedAt": "2019-04-24T00:00:00.000Z",
+  "finishedAt": "2019-04-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42294/original.jpg",
+  "categories": [
+    "comedy",
+    "shoujo ai",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/uzamaid"
+  ],
+  "relations": {
+    "kitsu": "42294",
+    "anilist/anime": "108548",
+    "myanimelist/anime": "39606"
+  }
+}

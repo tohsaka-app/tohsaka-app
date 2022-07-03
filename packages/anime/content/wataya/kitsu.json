@@ -1,0 +1,24 @@
+{
+  "slug": "wataya",
+  "synopsis": "During morning roll call at school, Wataya gets more and more nervous as her turn approaches. The tension causes her to lose the ability to control her own body.\n\n1st year work 2017, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Roll Call",
+    "jp": "Wataya"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44584/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/Wqz7nmQpaE4"
+  ],
+  "relations": {
+    "kitsu": "44584",
+    "anilist/anime": "116707"
+  }
+}

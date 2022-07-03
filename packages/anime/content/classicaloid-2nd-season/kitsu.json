@@ -1,0 +1,27 @@
+{
+  "slug": "classicaloid-2nd-season",
+  "synopsis": "Second season of ClassicaLoid.",
+  "title": {
+    "jp": "ClassicaLoid 2nd Season"
+  },
+  "releasedAt": "2017-10-07T00:00:00.000Z",
+  "finishedAt": "2018-03-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13317/original.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/classicaloid-2"
+  ],
+  "relations": {
+    "kitsu": "13317",
+    "anidb": "13069",
+    "anilist/anime": "98546",
+    "aozora": "PNkpb0Lupz",
+    "myanimelist/anime": "35334"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "100-man-no-inochi-no-ue-ni-ore-wa-tatteiru-2nd-season",
+  "synopsis": "The second season of 100-man no Inochi no Ue ni Ore wa Tatteiru.",
+  "title": {
+    "en": "I'm standing on 1,000,000 lives. Season 2",
+    "jp": "100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season"
+  },
+  "releasedAt": "2021-07-10T00:00:00.000Z",
+  "finishedAt": "2021-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43883/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43883/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "harem",
+    "isekai",
+    "magic"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/im-standing-on-a-million-lives"
+  ],
+  "relations": {
+    "kitsu": "43883",
+    "anidb": "15930",
+    "anilist/anime": "127366",
+    "myanimelist/anime": "44881"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "free-timeless-melody-kizuna",
+  "synopsis": "First part of Free!: Timeless Medley",
+  "title": {
+    "jp": "Free! Movie 1: Timeless Medley - Kizuna"
+  },
+  "releasedAt": "2017-04-22T00:00:00.000Z",
+  "finishedAt": "2017-04-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13562/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13562/original.jpg",
+  "categories": [
+    "bishounen",
+    "sports"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/free/?qid=#videos"
+  ],
+  "relations": {
+    "kitsu": "13562",
+    "anilist/anime": "98495",
+    "myanimelist/anime": "33845"
+  }
+}

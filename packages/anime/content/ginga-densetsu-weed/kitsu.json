@@ -1,0 +1,31 @@
+{
+  "slug": "ginga-densetsu-weed",
+  "synopsis": "A dog named Weed happens to hear that he is the son of Gin, the great leader of Ohu who lead the dogs of Ohu to victory in a fight against monsterous bear, Akakabuto. Weed wants to find his father no matter what. On a journey to find his father Weed meets many friends and enemies. \n(Source: ANN)",
+  "title": {
+    "jp": "Ginga Densetsu Weed"
+  },
+  "releasedAt": "2005-11-03T00:00:00.000Z",
+  "finishedAt": "2006-05-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/815/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/815/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "earth",
+    "japan"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "815",
+    "anidb": "3449",
+    "anilist/anime": "915",
+    "aozora": "UEIUQfLApa",
+    "myanimelist/anime": "915",
+    "thetvdb": "83126/1",
+    "thetvdb/series": "83126",
+    "trakt": "63979"
+  }
+}

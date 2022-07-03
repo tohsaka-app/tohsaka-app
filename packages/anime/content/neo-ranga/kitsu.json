@@ -1,0 +1,41 @@
+{
+  "slug": "neo-ranga",
+  "synopsis": "An ancient God called Ranga awakens on an isolated island in the South Pacific where it has been slumbering forgotten by mankind. Three sisters living in Tokyo—Minami, Ushio, and Yuuhi Shimabara—discover they have inherited this Island Kingdom, along with the huge God. When Ranga shows up in Tokyo, it soon becomes a source of wonder and conflict for the three sisters that control Ranga, the people who want to destroy it, and ones who want to use it. \n(Source: ANN)",
+  "title": {
+    "jp": "Neo Ranga"
+  },
+  "releasedAt": "1998-04-06T00:00:00.000Z",
+  "finishedAt": "1999-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1044/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1044/original.jpg",
+  "categories": [
+    "adventure",
+    "alternative present",
+    "asia",
+    "earth",
+    "horror",
+    "japan",
+    "mecha",
+    "piloted robot",
+    "plot continuity",
+    "present",
+    "satire",
+    "slice of life",
+    "tokyo",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1044",
+    "anidb": "224",
+    "anilist/anime": "1163",
+    "aozora": "j3MNg6mSyE",
+    "myanimelist/anime": "1163",
+    "thetvdb": "89771/1",
+    "thetvdb/series": "89771",
+    "trakt": "8876"
+  }
+}

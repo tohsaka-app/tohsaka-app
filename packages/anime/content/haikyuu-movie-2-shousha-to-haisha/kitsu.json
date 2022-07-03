@@ -1,0 +1,28 @@
+{
+  "slug": "haikyuu-movie-2-shousha-to-haisha",
+  "synopsis": "Second Haikyuu!! recap movie.",
+  "title": {
+    "jp": "Haikyuu!! Movie 2: Shousha to Haisha"
+  },
+  "releasedAt": "2015-09-18T00:00:00.000Z",
+  "finishedAt": "2015-09-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10847/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10847/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10847",
+    "anilist/anime": "21244",
+    "aozora": "abbX0Ctyn1",
+    "myanimelist/anime": "30364"
+  }
+}

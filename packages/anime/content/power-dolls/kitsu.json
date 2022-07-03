@@ -1,0 +1,30 @@
+{
+  "slug": "power-dolls",
+  "synopsis": "In 2535 A.D., after decades of oppressive policies instituted by the Terran government, the people of the colony world Omni joined together to declare their independence from the tyranny of planet Earth. Lacking an established military or specialized weapons of warfare, the Omni rebellion seemed doomed to failure. However, by adapting the robotic Power Loaders used for unloading spaceships into man-like battle tanks, the Rebel forces instead introduced a whole new era of mechanized combat. Now, the future of the planet Omni rests upon a handful of young female pilots who serve in the special Detachment of Limited Line Service. Their code name: The Power Dolls!\n(Source: AniDB)",
+  "title": {
+    "jp": "Power Dolls"
+  },
+  "releasedAt": "1996-03-01T00:00:00.000Z",
+  "finishedAt": "1998-03-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1637/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "future",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1637",
+    "anidb": "1237",
+    "anilist/anime": "1820",
+    "aozora": "VU0PaZ0X5P",
+    "myanimelist/anime": "1820"
+  }
+}

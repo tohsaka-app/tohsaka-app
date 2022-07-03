@@ -1,0 +1,29 @@
+{
+  "slug": "adventure-time-distant-lands",
+  "synopsis": "Specials set after season 10, exclusive to HBO Max.",
+  "title": {},
+  "releasedAt": "2020-06-25T00:00:00.000Z",
+  "finishedAt": "2021-09-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42648/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42648/original.jpg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "anthropomorphism",
+    "fantasy",
+    "friendship",
+    "magic",
+    "post apocalypse",
+    "robot",
+    "science fiction",
+    "space",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42648"
+  }
+}

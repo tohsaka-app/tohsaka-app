@@ -1,0 +1,36 @@
+{
+  "slug": "planetes",
+  "synopsis": "In 2075, space travel is no longer just a dream, but an everyday reality for mankind. Advancements in science and technology have led to the colonization of the moon, the commercialization of outer space, and the formation of large space corporations. Ai Tanabe, an upbeat woman whose interests lie in the cosmos, joins Technora Corporation as a member of their Debris Section, a department dedicated to the removal of dangerous space junk between the orbits of the Earth and Moon.\nHowever, Ai soon discovers how unappreciated her job is. As the laughingstock of Technora, the Debris Section is severely understaffed, poorly funded, and is forced to use a dilapidated spaceship nicknamed the \"Toy Box\" for debris retrieval. Undeterred, Ai perseveres and gradually becomes acquainted with the strange personalities that make up the Debris Section's staff, such as the bumbling but good-natured chief clerk Philippe Myers; the mysterious and tight-lipped temp worker Edelgard Rivera; and the hotheaded and passionate Hachirota Hoshino, who longs for a spaceship to call his own.\nWinner of the Seiun Award in 2005, Planetes is an unconventional sci-fi series that portrays the vastness of space as a backdrop for the personal lives of ordinary people—people who may have been born on Earth, but whose hopes and dreams lie amongst the stars.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Planetes",
+    "jp": "Planetes"
+  },
+  "releasedAt": "2003-10-04T00:00:00.000Z",
+  "finishedAt": "2004-04-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/296/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/296/original.jpg",
+  "categories": [
+    "angst",
+    "future",
+    "plot continuity",
+    "romance",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "296",
+    "anidb": "895",
+    "anilist/anime": "329",
+    "aozora": "kJkjeYHD8M",
+    "myanimelist/anime": "329",
+    "thetvdb": "75796/1",
+    "thetvdb/series": "75796",
+    "trakt": "33955"
+  }
+}

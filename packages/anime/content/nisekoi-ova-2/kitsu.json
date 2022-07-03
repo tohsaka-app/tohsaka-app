@@ -1,0 +1,28 @@
+{
+  "slug": "nisekoi-ova-2",
+  "synopsis": "Bundled with the 21st volume of the Nisekoi manga.",
+  "title": {
+    "jp": "Nisekoi: OVA"
+  },
+  "releasedAt": "2016-01-04T00:00:00.000Z",
+  "finishedAt": "2016-01-04T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11760/original.jpg",
+  "categories": [
+    "comedy",
+    "harem",
+    "romance",
+    "school life",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11760",
+    "anidb": "11551",
+    "anilist/anime": "119947",
+    "aozora": "Ezy4BYjIQt",
+    "myanimelist/anime": "32553"
+  }
+}

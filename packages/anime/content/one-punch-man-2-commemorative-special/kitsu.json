@@ -1,0 +1,28 @@
+{
+  "slug": "one-punch-man-2-commemorative-special",
+  "synopsis": "One Punch Man 2's commemorative recap special.\n",
+  "title": {
+    "en": "One Punch Man 2 Commemorative Special",
+    "jp": "One Punch Man 2 Commemorative Special"
+  },
+  "releasedAt": "2019-04-03T00:00:00.000Z",
+  "finishedAt": "2019-04-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42315/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "parody",
+    "science fiction",
+    "seinen",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42315",
+    "myanimelist/anime": "39652"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "mini-moni-yaru-no-da-pyon",
+  "synopsis": "The very tiny adventures of the equally tiny bright and happy J-pop group Mini Moni, without a real continued plot between each short.\n(Source: ANN)",
+  "title": {
+    "jp": "Mini Moni Yaru no da Pyon!"
+  },
+  "releasedAt": "2001-06-04T00:00:00.000Z",
+  "finishedAt": "2001-10-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4978/original.jpg",
+  "categories": [
+    "comedy",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4978",
+    "anidb": "4066",
+    "anilist/anime": "7452",
+    "aozora": "fkPeHM4RiC",
+    "myanimelist/anime": "7452"
+  }
+}

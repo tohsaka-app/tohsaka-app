@@ -1,0 +1,49 @@
+{
+  "slug": "kokoro-connect",
+  "synopsis": "When five students at Yamaboshi Academy realize that there are no clubs where they fit in, they band together to form the Student Cultural Society, or \"StuCS\" for short. The club consists of: Taichi Yaegashi, a hardcore wrestling fan; Iori Nagase, an indecisive optimist; Himeko Inaba, a calm computer genius; Yui Kiriyama, a petite karate practitioner; and Yoshifumi Aoki, the class clown.\nOne day, Aoki and Yui experience a strange incident when, without warning, they switch bodies for a short period of time. As this supernatural phenomenon continues to occur randomly amongst the five friends, they begin to realize that it is not just fun and games. Now forced to become closer than ever, they soon discover each other's hidden secrets and emotional scars, which could end up tearing the StuCS and their friendship apart.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Kokoro Connect",
+    "jp": "Kokoro Connect"
+  },
+  "releasedAt": "2012-07-08T00:00:00.000Z",
+  "finishedAt": "2012-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6626/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6626/original.jpg",
+  "categories": [
+    "angst",
+    "asia",
+    "comedy",
+    "coming of age",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "friendship",
+    "high school",
+    "japan",
+    "love polygon",
+    "plot continuity",
+    "present",
+    "romance",
+    "school clubs",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/kokoro-connect",
+    "https://www.hidive.com/tv/kokoro-connect"
+  ],
+  "relations": {
+    "kitsu": "6626",
+    "anidb": "8742",
+    "anilist/anime": "11887",
+    "aozora": "84mKx8RQEx",
+    "hulu": "50008601",
+    "myanimelist/anime": "11887",
+    "thetvdb": "259647/1",
+    "thetvdb/series": "259647",
+    "trakt": "67006"
+  }
+}

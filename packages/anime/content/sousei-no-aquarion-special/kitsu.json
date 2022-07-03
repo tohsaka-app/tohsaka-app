@@ -1,0 +1,25 @@
+{
+  "slug": "sousei-no-aquarion-special",
+  "synopsis": "A special released with the Blu-ray edition of the movie containing alternate events after the end of the TV series.",
+  "title": {
+    "jp": "Soosee no Aquarion: Dai 27-wa Parallel-ban"
+  },
+  "releasedAt": "2008-12-05T00:00:00.000Z",
+  "finishedAt": "2008-12-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7424/original.jpg",
+  "categories": [
+    "comedy",
+    "friendship",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7424",
+    "anilist/anime": "16415",
+    "aozora": "43dtsNkMJA",
+    "myanimelist/anime": "16415"
+  }
+}

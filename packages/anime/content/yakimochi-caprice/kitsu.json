@@ -1,0 +1,25 @@
+{
+  "slug": "yakimochi-caprice",
+  "synopsis": "Special ending animation sequence for the \"Anime Seijin: Tokimeki Recipe\" cooking and talk show. \nThe \"nonsensical romantic fantasy\" of the anime centres around a kitten named Loup and a puppy named Noix — both of whom believe that they are actually human girls. \n(Source: ANN) ",
+  "title": {
+    "jp": "Yakimochi Caprice"
+  },
+  "releasedAt": "2011-12-17T00:00:00.000Z",
+  "finishedAt": "2012-04-09T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7268/original.jpg",
+  "categories": [
+    "juujin",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7268",
+    "anidb": "9154",
+    "anilist/anime": "15533",
+    "aozora": "0ZKdfCCOH5",
+    "myanimelist/anime": "15533"
+  }
+}

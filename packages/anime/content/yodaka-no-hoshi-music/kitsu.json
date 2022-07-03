@@ -1,0 +1,27 @@
+{
+  "slug": "yodaka-no-hoshi-music",
+  "synopsis": "Music video for Sound Horizon's song \"Yodaka no Hoshi.\"\nThe full version of \"Yodaka no Hoshi\" music video was bundled with the limited edition release of their single \"Vanishing Starlight.\"",
+  "title": {
+    "jp": "Yodaka no Hoshi (Music)"
+  },
+  "releasedAt": "2014-10-01T00:00:00.000Z",
+  "finishedAt": "2014-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9796/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9796",
+    "anidb": "11518",
+    "anilist/anime": "103317",
+    "aozora": "tkoE5ljEYf",
+    "myanimelist/anime": "27789"
+  }
+}

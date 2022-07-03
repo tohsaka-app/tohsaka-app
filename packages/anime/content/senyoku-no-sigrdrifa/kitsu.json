@@ -1,0 +1,29 @@
+{
+  "slug": "senyoku-no-sigrdrifa",
+  "synopsis": "Aniplex opened an official website for an original anime series titled Senyoku no Sigrdrifa (Warlords of Sigrdrifa) on Sunday. The website revealed a 15-second commercial and a teaser visual (pictured).Tappei Nagatsuki—the original creator of the Re:Zero kara Hajimeru Isekai Seikatsu (Re:Zero -Starting Life in Another World-) franchise—is handling the series composition and screenplay. Manga artist Takuya Fujima (Mahou Shoujo Lyrical Nanoha ViVid, ViVid Strike!) is drawing the original character designs. Takaaki Suzuki, supervisor for Girls und Panzer and military researcher for Strike Witches, is in charge of the worldview setting and setting research.",
+  "title": {
+    "en": "Warlords of Sigrdrifa",
+    "jp": "Senyoku no Sigrdrifa"
+  },
+  "releasedAt": "2020-10-03T00:00:00.000Z",
+  "finishedAt": "2020-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/43029/poster_image/a7140170c453c31d94c5ffbabe662f2f.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43029/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "military"
+  ],
+  "externals": [
+    "https://www.animelab.com/shows/warlords-of-sigrdrifa",
+    "https://www.funimation.com/shows/warlords-of-sigrdrifa/"
+  ],
+  "relations": {
+    "kitsu": "43029",
+    "anilist/anime": "116173",
+    "myanimelist/anime": "41372"
+  }
+}

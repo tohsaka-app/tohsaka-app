@@ -1,0 +1,23 @@
+{
+  "slug": "yatogame-chan-kansatsu-nikki-4-satsume",
+  "synopsis": "The fourth season of Yatogame-chan Kansatsu Nikki.",
+  "title": {
+    "jp": "Yatogame-chan Kansatsu Nikki Yonsatsume"
+  },
+  "releasedAt": "2022-04-09T00:00:00.000Z",
+  "finishedAt": "2022-06-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45523/poster_image/f7c5c724a97da0c849bf939d27c7118e.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45523",
+    "anilist/anime": "142016"
+  }
+}

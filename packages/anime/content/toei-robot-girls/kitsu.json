@@ -1,0 +1,28 @@
+{
+  "slug": "toei-robot-girls",
+  "synopsis": "A pilot film streamed on the anime studio Toei Animation's website. The female leads in the film are dressed as various famous robots in Toei's anime catalog—the girls are personifications of robots in the Gaiking (\"Gai-chan\"), Magnerobo Ga-Keen (\"Gacky\"), and Superhuman Combat Team Baratack (\"Bara-tan\") and the newly added character is from the anime Planet Robot Danguard Ace.\n(Source: ANN)",
+  "title": {
+    "jp": "Toei Robot Girls"
+  },
+  "releasedAt": "2011-07-02T00:00:00.000Z",
+  "finishedAt": "2011-07-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6425/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6425/original.png",
+  "categories": [
+    "action",
+    "mecha",
+    "parody",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6425",
+    "anidb": "8532",
+    "anilist/anime": "10954",
+    "aozora": "WIc5wKfzB0",
+    "myanimelist/anime": "10954"
+  }
+}

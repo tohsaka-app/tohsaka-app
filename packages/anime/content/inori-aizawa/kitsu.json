@@ -1,0 +1,22 @@
+{
+  "slug": "inori-aizawa",
+  "synopsis": "This anime is created by Microsoft Singapore, dedicated to all anime fans worldwide in celebration of Anime Festival Asia (AFA) 2013.",
+  "title": {
+    "jp": "Internet Explorer: Inori Aizawa"
+  },
+  "releasedAt": "2013-05-13T00:00:00.000Z",
+  "finishedAt": "2013-05-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12299/original.jpg",
+  "categories": [
+    "anime influenced",
+    "fantasy",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12299"
+  }
+}

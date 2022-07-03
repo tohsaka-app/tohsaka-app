@@ -1,0 +1,21 @@
+{
+  "slug": "kamishibai-itazura-tanuki-no-maki",
+  "synopsis": "A tanuki causes mischief at a temple.",
+  "title": {
+    "jp": "Kamishibai Itazura Tanuki no Maki"
+  },
+  "releasedAt": "1933-01-01T00:00:00.000Z",
+  "finishedAt": "1933-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40750/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40750",
+    "anilist/anime": "111794",
+    "aozora": "mHSHeGCCDL",
+    "myanimelist/anime": "35399"
+  }
+}

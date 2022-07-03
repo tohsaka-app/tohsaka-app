@@ -1,0 +1,30 @@
+{
+  "slug": "sword-art-online-alicization-war-of-underworld-2nd-season",
+  "synopsis": "Our heroes to push forward to save Alice. The final arc of Sword Art Online: Alicization is coming soon!(Source: Crunchyroll)",
+  "title": {
+    "jp": "Sword Art Online Alicization War of Underworld (2nd cour)"
+  },
+  "releasedAt": "2020-07-12T00:00:00.000Z",
+  "finishedAt": "2020-09-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42927/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42927/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "romance",
+    "swordplay",
+    "virtual reality"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/sword-art-online"
+  ],
+  "relations": {
+    "kitsu": "42927",
+    "anilist/anime": "114308",
+    "myanimelist/anime": "40540"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "billy-inu",
+  "synopsis": "Based on Fujiko Fujio A's manga of the same name.",
+  "title": {
+    "jp": "Biriken"
+  },
+  "releasedAt": "1988-07-11T00:00:00.000Z",
+  "finishedAt": "1989-04-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5369/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5369",
+    "anidb": "3517",
+    "anilist/anime": "8520",
+    "aozora": "S3ecTls8gF",
+    "myanimelist/anime": "8520"
+  }
+}

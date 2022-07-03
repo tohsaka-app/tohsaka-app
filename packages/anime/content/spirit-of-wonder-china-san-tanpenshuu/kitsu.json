@@ -1,0 +1,25 @@
+{
+  "slug": "spirit-of-wonder-china-san-tanpenshuu",
+  "synopsis": "Three short stories featuring China-san.",
+  "title": {
+    "en": "Spirit of Wonder: China-san Short Stories",
+    "jp": "Spirit of Wonder: China-san Tanpenshuu"
+  },
+  "releasedAt": "2001-01-25T00:00:00.000Z",
+  "finishedAt": "2004-01-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4490/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4490",
+    "anilist/anime": "6245",
+    "aozora": "0ouDxyxJzq",
+    "myanimelist/anime": "6245"
+  }
+}

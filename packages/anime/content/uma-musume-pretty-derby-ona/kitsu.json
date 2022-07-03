@@ -1,0 +1,22 @@
+{
+  "slug": "uma-musume-pretty-derby-ona",
+  "synopsis": "The new anime will depict T.M. Opera O, Admire Vega, Narita Top Road, and other Uma Musume (Horse Girls) going head-to-head to win Classic competitions.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Umamusume: Pretty Derby",
+    "jp": "Uma Musume: Pretty Derby"
+  },
+  "releasedAt": "2023-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46101/poster_image/3cf561c7f3a2104a7fed07adf04729ee.jpg",
+  "categories": [
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46101",
+    "anilist/anime": "148370"
+  }
+}

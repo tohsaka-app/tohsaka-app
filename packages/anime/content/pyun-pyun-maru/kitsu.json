@@ -1,0 +1,27 @@
+{
+  "slug": "pyun-pyun-maru",
+  "synopsis": "The Ninja Pyun Pyun-Maru and his brother Chibi-Maru are working at an office that accepts anything. They solve unexpected happenings caused by other Ninjas. \n(Source: TOEI Animation Europe catalog)",
+  "title": {
+    "jp": "Pyun Pyun Maru"
+  },
+  "releasedAt": "1967-07-03T00:00:00.000Z",
+  "finishedAt": "1969-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7328/original.jpg",
+  "categories": [
+    "comedy",
+    "detective",
+    "martial arts",
+    "ninja"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7328",
+    "anidb": "5093",
+    "anilist/anime": "15873",
+    "aozora": "qIpxdumLAg",
+    "myanimelist/anime": "15873"
+  }
+}

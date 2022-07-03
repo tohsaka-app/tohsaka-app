@@ -1,0 +1,40 @@
+{
+  "slug": "joshiraku",
+  "synopsis": "An adaptation of a manga written by the author of Sayonara Zetsubou Sensei about group of girls who discuss random things and usually reach an unusual or humorous conclusion that's far from the initial discussion topic. ",
+  "title": {
+    "en": "Joshiraku",
+    "jp": "Joshiraku"
+  },
+  "releasedAt": "2012-07-06T00:00:00.000Z",
+  "finishedAt": "2012-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6789/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6789/original.png",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "parody",
+    "performance",
+    "present",
+    "slapstick",
+    "slice of life",
+    "tokyo"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/joshiraku"
+  ],
+  "relations": {
+    "kitsu": "6789",
+    "anidb": "8899",
+    "anilist/anime": "12679",
+    "aozora": "YDjji9nHyW",
+    "myanimelist/anime": "12679",
+    "thetvdb": "259651/1",
+    "thetvdb/series": "259651",
+    "trakt": "67010"
+  }
+}

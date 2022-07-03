@@ -1,0 +1,23 @@
+{
+  "slug": "genki-genki-non-tan-utaou-christmas",
+  "synopsis": "A Christmas OVA of Non-tan that features eight classic Christmas songs sung and acted out by the characters.",
+  "title": {
+    "jp": "Genki Genki Non-tan: Utaou! Christmas"
+  },
+  "releasedAt": "2004-11-03T00:00:00.000Z",
+  "finishedAt": "2004-11-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9282/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9282",
+    "aozora": "7YltWzAlYY",
+    "myanimelist/anime": "25613"
+  }
+}

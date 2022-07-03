@@ -1,0 +1,26 @@
+{
+  "slug": "hello-wego",
+  "synopsis": "MechatroWeGo are robots that kids can pilot and operate. Satoru pilots an old WeGo that his grandmother gave to him as a gift. When the kids gather in their secret base to race their WeGos, Satoru can't take the first step. Satoru's classmate Akira invites him to race again. This is a story of boy and his robot, set in a seaside town in the near future. \n\n(Source: ANN)",
+  "title": {
+    "jp": "Hello WeGo!"
+  },
+  "releasedAt": "2019-03-09T00:00:00.000Z",
+  "finishedAt": "2019-03-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42995/original.jpg",
+  "categories": [
+    "future",
+    "kids",
+    "robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42995",
+    "anidb": "14178",
+    "anilist/anime": "107859",
+    "animenewsnetwork": "22097",
+    "myanimelist/anime": "38011"
+  }
+}

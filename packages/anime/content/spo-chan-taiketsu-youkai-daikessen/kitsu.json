@@ -1,0 +1,25 @@
+{
+  "slug": "spo-chan-taiketsu-youkai-daikessen",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Spo-chan Taiketsu: Youkai Daikessen"
+  },
+  "releasedAt": "2014-08-30T00:00:00.000Z",
+  "finishedAt": "2014-08-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8568/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8568",
+    "anidb": "10700",
+    "anilist/anime": "98893",
+    "aozora": "Ya4Jn6E0ZL",
+    "myanimelist/anime": "24819"
+  }
+}

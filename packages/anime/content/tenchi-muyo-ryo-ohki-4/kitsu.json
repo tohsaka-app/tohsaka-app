@@ -1,0 +1,31 @@
+{
+  "slug": "tenchi-muyo-ryo-ohki-4",
+  "synopsis": "The fourth season of Tenchi Muyo! Ryo-Ohki.",
+  "title": {
+    "jp": "Tenchi Muyou! Ryououki 4th Season"
+  },
+  "releasedAt": "2016-11-30T00:00:00.000Z",
+  "finishedAt": "2017-09-13T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11451/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "harem",
+    "science fiction",
+    "space"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/tenchi-muyo-ryo-ohk",
+    "vrv.co/series/G60XPMX7R/Tenchi-Muyo-Ryo-Ohki"
+  ],
+  "relations": {
+    "kitsu": "11451",
+    "anidb": "11715",
+    "anilist/anime": "21429",
+    "aozora": "RMqWdFWlH8",
+    "myanimelist/anime": "31861"
+  }
+}

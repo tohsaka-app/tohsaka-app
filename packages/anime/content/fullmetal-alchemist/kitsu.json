@@ -1,0 +1,47 @@
+{
+  "slug": "fullmetal-alchemist",
+  "synopsis": "Edward Elric, a young, brilliant alchemist, has lost much in his twelve-year life: when he and his brother Alphonse try to resurrect their dead mother through the forbidden act of human transmutation, Edward loses his brother as well as two of his limbs. With his supreme alchemy skills, Edward binds Alphonse's soul to a large suit of armor.\nA year later, Edward, now promoted to the fullmetal alchemist of the state, embarks on a journey with his younger brother to obtain the Philosopher's Stone. The fabled mythical object is rumored to be capable of amplifying an alchemist's abilities by leaps and bounds, thus allowing them to override the fundamental law of alchemy: to gain something, an alchemist must sacrifice something of equal value. Edward hopes to draw into the military's resources to find the fabled stone and restore his and Alphonse's bodies to normal. However, the Elric brothers soon discover that there is more to the legendary stone than meets the eye, as they are led to the epicenter of a far darker battle than they could have ever imagined.\n\n(Source: MAL)",
+  "title": {
+    "en": "Fullmetal Alchemist",
+    "jp": "Hagane no Renkinjutsushi"
+  },
+  "releasedAt": "2003-10-04T00:00:00.000Z",
+  "finishedAt": "2004-10-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/100/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/100/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "angst",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "military",
+    "parallel universe",
+    "past",
+    "plot continuity",
+    "shounen",
+    "steampunk",
+    "violence"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/fullmetal-alchemist/videos/episodes",
+    "http://www.hulu.com/fullmetal-alchemist",
+    "https://www.netflix.com/title/70204980"
+  ],
+  "relations": {
+    "kitsu": "100",
+    "anidb": "979",
+    "anilist/anime": "121",
+    "aozora": "iKx2v12SMw",
+    "myanimelist/anime": "121",
+    "thetvdb": "75579/1",
+    "thetvdb/season": "9032",
+    "thetvdb/series": "75579",
+    "trakt": "37705"
+  }
+}

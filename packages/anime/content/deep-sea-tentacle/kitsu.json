@@ -1,0 +1,25 @@
+{
+  "slug": "deep-sea-tentacle",
+  "synopsis": "Abstract short film by Kojirou Shishido featuring creatures in the ocean.",
+  "title": {
+    "en": "Deep Sea Tentacle",
+    "jp": "Deep Sea Tentacle"
+  },
+  "releasedAt": "2007-07-16T00:00:00.000Z",
+  "finishedAt": "2007-07-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44431/original.jpg",
+  "categories": [
+    "dementia",
+    "music",
+    "tentacle"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44431",
+    "anilist/anime": "127889",
+    "myanimelist/anime": "45615"
+  }
+}

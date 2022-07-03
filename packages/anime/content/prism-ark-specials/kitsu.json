@@ -1,0 +1,27 @@
+{
+  "slug": "prism-ark-specials",
+  "synopsis": "A series of shorts parodying the main series Prism Ark.",
+  "title": {
+    "jp": "Prism Ark Specials"
+  },
+  "releasedAt": "2007-12-21T00:00:00.000Z",
+  "finishedAt": "2008-05-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3690/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "drama",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3690",
+    "anilist/anime": "4566",
+    "aozora": "iM4MgHWMw1",
+    "myanimelist/anime": "4566"
+  }
+}

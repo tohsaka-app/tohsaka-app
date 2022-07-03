@@ -1,0 +1,19 @@
+{
+  "slug": "happy-twinkle",
+  "synopsis": "",
+  "title": {
+    "jp": "Happy☆Twinkle"
+  },
+  "releasedAt": "2012-01-16T00:00:00.000Z",
+  "finishedAt": "2012-01-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41663/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41663",
+    "myanimelist/anime": "36757"
+  }
+}

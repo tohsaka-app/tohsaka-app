@@ -1,0 +1,25 @@
+{
+  "slug": "my-little-pony-equestria-girls-better-together",
+  "synopsis": "Series of shorts set in the Equestria Girls universe.\n\n10 of the 37 Episodes are interactive.",
+  "title": {
+    "en": "My Little Pony: Equestria Girls - Better Together"
+  },
+  "releasedAt": "2017-11-17T00:00:00.000Z",
+  "finishedAt": "2018-10-05T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44368/original.jpg",
+  "categories": [
+    "anime influenced",
+    "fantasy",
+    "kids",
+    "magic",
+    "magical girl",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44368"
+  }
+}

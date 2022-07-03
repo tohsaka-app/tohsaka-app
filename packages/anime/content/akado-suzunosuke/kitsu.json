@@ -1,0 +1,26 @@
+{
+  "slug": "akado-suzunosuke",
+  "synopsis": "A young swordsman finds himself involved in a plot to overthrow the shogunate.\n(Source: AniDB)",
+  "title": {
+    "jp": "Akadou Suzunosuke"
+  },
+  "releasedAt": "1972-04-05T00:00:00.000Z",
+  "finishedAt": "1973-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6487/original.jpg",
+  "categories": [
+    "adventure",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6487",
+    "anidb": "3071",
+    "anilist/anime": "11275",
+    "aozora": "uUPxRRhYUT",
+    "myanimelist/anime": "11275"
+  }
+}

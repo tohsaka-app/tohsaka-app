@@ -1,0 +1,31 @@
+{
+  "slug": "k-seven-stories-movie-5-memory-of-red-burn",
+  "synopsis": "It is the beginning of December. Anna Kushina's birthday is coming up, so the boys of HOMRA decide to celebrate by preparing a surprise party for their little princess.\n\n(Source: TubiTV)",
+  "title": {
+    "jp": "K: Seven Stories Movie 5 - Memory of Red - Burn"
+  },
+  "releasedAt": "2018-11-03T00:00:00.000Z",
+  "finishedAt": "2018-11-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41768/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41768/original.jpg",
+  "categories": [
+    "action",
+    "bishounen",
+    "contemporary fantasy",
+    "fantasy",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [
+    "https://vrv.co/series/GRNVN8MX6/K-Seven-Stories",
+    "https://www.crunchyroll.com/k-seven-stories"
+  ],
+  "relations": {
+    "kitsu": "41768",
+    "anilist/anime": "102349",
+    "myanimelist/anime": "37306"
+  }
+}

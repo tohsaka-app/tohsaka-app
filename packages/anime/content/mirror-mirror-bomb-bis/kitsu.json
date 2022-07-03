@@ -1,0 +1,25 @@
+{
+  "slug": "mirror-mirror-bomb-bis",
+  "synopsis": "A music video for Vampillia's song Mirror Mirror (Bombs BiS).",
+  "title": {
+    "en": "Mirror Mirror (Bombs BiS)",
+    "jp": "Mirror Mirror (Bombs BiS)"
+  },
+  "releasedAt": "2014-05-01T00:00:00.000Z",
+  "finishedAt": "2014-05-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13795/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13795",
+    "anilist/anime": "103513",
+    "aozora": "HUuYqvndX5",
+    "myanimelist/anime": "36095"
+  }
+}

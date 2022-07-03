@@ -1,0 +1,27 @@
+{
+  "slug": "midoriyama-koukou-koushien-hen",
+  "synopsis": "The story of students of a baseball team from Midoriyama High School, who will participate in the 66th National Championship Tournament of Senior High School Baseball in Japan. ",
+  "title": {
+    "jp": "Midoriyama Koukou Koushien-hen"
+  },
+  "releasedAt": "1989-09-25T00:00:00.000Z",
+  "finishedAt": "1990-12-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4377/original.jpg",
+  "categories": [
+    "baseball",
+    "comedy",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4377",
+    "anidb": "7464",
+    "anilist/anime": "5994",
+    "aozora": "syCcYWmfur",
+    "myanimelist/anime": "5994"
+  }
+}

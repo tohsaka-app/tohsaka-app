@@ -1,0 +1,24 @@
+{
+  "slug": "atama-no-karada",
+  "synopsis": "We have limited control over our bodies, and we can't change ourselves at will. While I yearn for complete freedom, I also want to make peace with my frustration.\n\nGraduate Work 2019, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "The Body in the Mind",
+    "jp": "Atama no Karada"
+  },
+  "releasedAt": "2019-01-01T00:00:00.000Z",
+  "finishedAt": "2019-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45540/poster_image/2d2578b8727313452fcb326351aae06c.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/d54y0aEWTIg"
+  ],
+  "relations": {
+    "kitsu": "45540",
+    "anilist/anime": "139263"
+  }
+}

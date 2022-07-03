@@ -1,0 +1,25 @@
+{
+  "slug": "akaventure",
+  "synopsis": "Mom and Dad imagine their little baby in Mom's tummy, which is just like a universe filled with amniotic fluid and the baby is having an adventure there.\n\n1st year work 2013, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Tiny Tot Adventures",
+    "jp": "Akaventure"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45892/poster_image/1a4a1137581f3926844df10cd9b13cf7.jpg",
+  "categories": [
+    "fantasy",
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/PIXUAkkd_Dg"
+  ],
+  "relations": {
+    "kitsu": "45892",
+    "anilist/anime": "117076"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "urusei-yatsura-movie-2-beautiful-dreamer",
+  "synopsis": "Not all is normal in Tomobiki, even by its standards. The students have been preparing feverishly for the first day of the student fair, which is scheduled to go on the next day. However, problems arise when some begin to notice that the next day simply will not come. As the students begin to try to find the reason for the problem, their beliefs about reality and the world of dreams are challenged.\n(Source: ANN)",
+  "title": {
+    "jp": "Urusei Yatsura Movie 2: Beautiful Dreamer"
+  },
+  "releasedAt": "1984-02-11T00:00:00.000Z",
+  "finishedAt": "1984-02-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1731/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1731/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "angst",
+    "comedy",
+    "high school",
+    "humanoid alien",
+    "japan",
+    "love polygon",
+    "romance",
+    "science fiction",
+    "slapstick"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GG5H5X7DK/Urusei-Yatsura-Movies",
+    "https://www.amazon.com/Urusei-Yatsura-Beautiful-Fumi-Hirano/dp/B07DQ7X3DS/"
+  ],
+  "relations": {
+    "kitsu": "1731",
+    "anidb": "379",
+    "anilist/anime": "1921",
+    "aozora": "2sLYid3sbY",
+    "myanimelist/anime": "1921"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "la-vilaine-lulu",
+  "synopsis": "Based on a picture book by the late fashion icon Yves Saint-Laurent. Saint-Laurent originally created the cartoons in his picture book in 1956, when he was a 20-year-old working for the Christian Dior haute couturier. The cartoons follow the bizarre fantasies of a mischievous girl named Lulu.",
+  "title": {
+    "jp": "La Vilaine LuLu"
+  },
+  "releasedAt": "2009-04-04T00:00:00.000Z",
+  "finishedAt": "2009-06-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4475/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4475",
+    "anilist/anime": "6206",
+    "aozora": "KMOGF5WSlW",
+    "myanimelist/anime": "6206"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "dragon-drive",
+  "synopsis": "If there's one word to describe Reiji Ozora, it would be \"quitter.\" He can never find the motivation to finish anything, and loses interest at the drop of a hat. This all changes when his best friend Maiko introduces him to the new game \"Dragon Drive.\"\nIn this virtual reality game, each player is assigned a dragon tailored to match their personality and strength. Reiji hopes for a big, strong, scary beast, but instead, he is stuck with Chibi, a cute, friendly-looking dragon smaller than he is. How disappointing—except it turns out that Chibi is the rarest dragon of them all!\nReiji finally discovers something he can remain interested in, and works hard to train both himself and his newfound friend. Soon this training will be put to use to save the world, for there are people who have dark aspirations for Dragon Drive!",
+  "title": {
+    "en": "Dragon Drive",
+    "jp": "Dragon Drive"
+  },
+  "releasedAt": "2002-07-04T00:00:00.000Z",
+  "finishedAt": "2003-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/271/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "plot continuity",
+    "proxy battles",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "271",
+    "anidb": "133",
+    "anilist/anime": "296",
+    "aozora": "4GgGlcoVkm",
+    "myanimelist/anime": "296",
+    "thetvdb": "79468/1",
+    "thetvdb/series": "79468",
+    "trakt": "34640"
+  }
+}

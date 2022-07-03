@@ -1,0 +1,22 @@
+{
+  "slug": "fanroad-opening-animation",
+  "synopsis": "Produced for \"Gebocon I\", a convention organized by Fanroad magazine, an anime/manga/doujin magazine in the 80s and 90s. Characters: Takko-chan (mascot of Fanroad magazine) and Kamonohashi.",
+  "title": {
+    "jp": "FANROAD Opening Animation"
+  },
+  "releasedAt": "1983-10-10T00:00:00.000Z",
+  "finishedAt": "1983-10-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45924/poster_image/7912133d3c7308d6fc343a3a052057b2.png",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45924",
+    "anilist/anime": "145554"
+  }
+}

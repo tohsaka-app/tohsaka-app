@@ -1,0 +1,25 @@
+{
+  "slug": "cyborg-009-the-cyborg-soldier-kami-no-ubugoe",
+  "synopsis": "The unaired final episode of Cyborg 009: The Cyborg Soldier. It was released on DVD two years after the show finished its televised broadcast.",
+  "title": {
+    "jp": "Cyborg 009: The Cyborg Soldier - Kami no Ubugoe"
+  },
+  "releasedAt": "2003-08-27T00:00:00.000Z",
+  "finishedAt": "2003-08-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44556/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "cyborg",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44556",
+    "myanimelist/anime": "40251"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "ylion-to-callysia",
+  "synopsis": "",
+  "title": {
+    "jp": "Ylion to Callysia"
+  },
+  "releasedAt": "2017-06-04T00:00:00.000Z",
+  "finishedAt": "2017-06-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41573/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41573",
+    "anilist/anime": "121891",
+    "myanimelist/anime": "35594"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "oretachi-ni-tsubasa-wa-nai-hadairo-ritsu-kyuuwari-zou",
+  "synopsis": "An OVA bundled with the non-adult version of the OreTsuba PC game. The OVA has more fan service than the TV series (what they call, \"nakedness plus 90%\").",
+  "title": {
+    "jp": "Oretachi ni Tsubasa wa Nai: Hadairo Ritsu Kyuuwari Zou!?"
+  },
+  "releasedAt": "2011-06-24T00:00:00.000Z",
+  "finishedAt": "2011-06-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6236/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "japan",
+    "present",
+    "romance",
+    "stereotypes"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/we-without-wings/videos/episodes"
+  ],
+  "relations": {
+    "kitsu": "6236",
+    "anidb": "8351",
+    "anilist/anime": "10547",
+    "aozora": "wU4nNUzUe9",
+    "myanimelist/anime": "10547"
+  }
+}

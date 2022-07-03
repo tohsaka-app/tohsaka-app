@@ -1,0 +1,36 @@
+{
+  "slug": "shiba-inuko-san",
+  "synopsis": "Shibainuko-san is a 14-year-old girl who looks exactly like a Shiba Inu dog. One of her classmates, Ishibashi Chako, wonders about her appearance, but no one else thinks it is strange.",
+  "title": {
+    "jp": "Shibainuko-san"
+  },
+  "releasedAt": "2012-04-01T00:00:00.000Z",
+  "finishedAt": "2012-09-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6891/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6891/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "middle school",
+    "present",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6891",
+    "anidb": "8986",
+    "anilist/anime": "13141",
+    "aozora": "YN2YLkyc1u",
+    "myanimelist/anime": "13141",
+    "thetvdb": "260751/1",
+    "thetvdb/series": "260751",
+    "trakt": "67297"
+  }
+}

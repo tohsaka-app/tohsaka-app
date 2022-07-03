@@ -1,0 +1,24 @@
+{
+  "slug": "qiang-shen-ji",
+  "synopsis": "",
+  "title": {
+    "en": "Age of Gunslingers"
+  },
+  "releasedAt": "2017-12-08T00:00:00.000Z",
+  "finishedAt": "2018-02-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43024/original.jpg",
+  "categories": [
+    "action",
+    "gunfights",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43024",
+    "anilist/anime": "107906",
+    "myanimelist/anime": "39231"
+  }
+}

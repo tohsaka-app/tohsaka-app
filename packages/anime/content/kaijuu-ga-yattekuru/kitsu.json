@@ -1,0 +1,23 @@
+{
+  "slug": "kaijuu-ga-yattekuru",
+  "synopsis": "Animals at a zoo hear that a kaijuu is coming. Like a game of \"Telephone\" they hear bits and pieces of what the kaijuu looks like which gets distorted each time the information is passed on. In the end, it was just a normal zoo animal joining the exhibits.",
+  "title": {
+    "jp": "Kaijuu ga Yattekuru"
+  },
+  "releasedAt": "1967-10-04T00:00:00.000Z",
+  "finishedAt": "1967-10-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46201/poster_image/1046bac91af55814d1cf59424a1cff6c.png",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46201",
+    "anilist/anime": "139016",
+    "myanimelist/anime": "36820"
+  }
+}

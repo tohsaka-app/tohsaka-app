@@ -1,0 +1,25 @@
+{
+  "slug": "wake-up-girls-zoku-movie-2",
+  "synopsis": "Second movie sequel of Wake Up, Girls!.",
+  "title": {
+    "jp": "Wake Up, Girls! Beyond the Bottom"
+  },
+  "releasedAt": "2015-12-11T00:00:00.000Z",
+  "finishedAt": "2015-12-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10845/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10845/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10845",
+    "anilist/anime": "21107",
+    "aozora": "bBBx2FmQUr",
+    "myanimelist/anime": "30419"
+  }
+}

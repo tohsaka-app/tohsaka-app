@@ -1,0 +1,30 @@
+{
+  "slug": "mameshiba",
+  "synopsis": "In these short animated clips, little dog-faced talking beans appear in people's food and inform them about different facts.",
+  "title": {
+    "jp": "Mameshiba"
+  },
+  "releasedAt": "2008-03-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4918/original.jpg",
+  "categories": [
+    "americas",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "united states"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4918",
+    "anidb": "9829",
+    "anilist/anime": "7261",
+    "aozora": "9XOhNpwOBx",
+    "myanimelist/anime": "7261"
+  }
+}

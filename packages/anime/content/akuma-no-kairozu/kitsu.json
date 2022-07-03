@@ -1,0 +1,25 @@
+{
+  "slug": "akuma-no-kairozu",
+  "synopsis": "Film by Takashi Ito.",
+  "title": {
+    "en": "Devil's Circuit",
+    "jp": "Akuma no Kairozu"
+  },
+  "releasedAt": "1988-01-01T00:00:00.000Z",
+  "finishedAt": "1988-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11230/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11230",
+    "anidb": "11490",
+    "anilist/anime": "104427",
+    "aozora": "Zje2AyhHQ7",
+    "myanimelist/anime": "31267"
+  }
+}

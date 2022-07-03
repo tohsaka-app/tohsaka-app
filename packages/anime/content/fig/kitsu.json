@@ -1,0 +1,19 @@
+{
+  "slug": "fig",
+  "synopsis": "A short film by Koji Yamamura.",
+  "title": {
+    "jp": "Fig"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "14224",
+    "anilist/anime": "11585",
+    "aozora": "6H5Verkl4J"
+  }
+}

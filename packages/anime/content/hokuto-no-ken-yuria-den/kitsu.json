@@ -1,0 +1,33 @@
+{
+  "slug": "hokuto-no-ken-yuria-den",
+  "synopsis": "The second part of the new Hokuto no Ken pentalogy. The story of this OVA centers around Yuria.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Hokuto no Ken: Yuria-den"
+  },
+  "releasedAt": "2007-02-23T00:00:00.000Z",
+  "finishedAt": "2007-02-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2735/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2735/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "dystopia",
+    "earth",
+    "martial arts",
+    "post apocalypse",
+    "super power",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2735",
+    "anidb": "3040",
+    "anilist/anime": "3027",
+    "aozora": "LZKiPyAO0l",
+    "myanimelist/anime": "3027"
+  }
+}

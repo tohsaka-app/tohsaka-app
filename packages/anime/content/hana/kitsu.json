@@ -1,0 +1,25 @@
+{
+  "slug": "hana",
+  "synopsis": "A short film by Kuri Youji. A man plants a flower and waits for it to bear fruit...",
+  "title": {
+    "en": "Flower",
+    "jp": "Hana"
+  },
+  "releasedAt": "1967-01-01T00:00:00.000Z",
+  "finishedAt": "1967-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10486/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10486",
+    "anidb": "11029",
+    "anilist/anime": "103140",
+    "aozora": "CGc49g131c",
+    "myanimelist/anime": "29597"
+  }
+}

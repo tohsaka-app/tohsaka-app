@@ -1,0 +1,23 @@
+{
+  "slug": "kamisama-dolls-specials",
+  "synopsis": "Short episodes included in the Kamisama Dolls Blu-ray and DVD volumes.",
+  "title": {
+    "jp": "Kamisama Dolls Specials"
+  },
+  "releasedAt": "2011-09-21T00:00:00.000Z",
+  "finishedAt": "2012-02-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6574/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6574",
+    "anilist/anime": "11715",
+    "aozora": "dZvNiJbUWr",
+    "myanimelist/anime": "11715"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "sangenshoku",
+  "synopsis": "A collaboration between cell phone service provider ahamo x music duo YOASOBI: A special movie (music video) directed by Sou Matsumoto for the song Sangenshoku by YOASOBI. The song and music video are based on the novel \"RGB\" by Yuuichirou Komikado.",
+  "title": {
+    "en": "Sangenshoku",
+    "jp": "Sangenshoku"
+  },
+  "releasedAt": "2021-03-30T00:00:00.000Z",
+  "finishedAt": "2021-03-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44564/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44564/original.png",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/ZNFKZI7L9xE"
+  ],
+  "relations": {
+    "kitsu": "44564",
+    "anilist/anime": "134060"
+  }
+}

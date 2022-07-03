@@ -1,0 +1,25 @@
+{
+  "slug": "sore-ike-anpanman-tekka-no-maki-chan-to-kin-no-kamameshidon",
+  "synopsis": "14th Anpanman short movie.",
+  "title": {
+    "jp": "Sore Ike! Anpanman: Tekka no Maki-chan to Kin no Kamameshidon"
+  },
+  "releasedAt": "2002-07-13T00:00:00.000Z",
+  "finishedAt": "2002-07-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9627/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9627",
+    "anidb": "7760",
+    "anilist/anime": "20113",
+    "aozora": "02u46pvgYv",
+    "myanimelist/anime": "20113"
+  }
+}

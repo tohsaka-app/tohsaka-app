@@ -1,0 +1,25 @@
+{
+  "slug": "hikaru-no-go-new-year-special",
+  "synopsis": "New year special. Summary recap. This episode should be seen between episodes 12 and 13.",
+  "title": {
+    "jp": "Hikaru no Go: New Year Special"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2116/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2116",
+    "anilist/anime": "2336",
+    "aozora": "tMEe7lF5vR",
+    "myanimelist/anime": "2336"
+  }
+}

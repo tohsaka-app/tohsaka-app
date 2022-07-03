@@ -1,0 +1,24 @@
+{
+  "slug": "yume-10-yoru",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Yume 10 Yoru"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9710/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9710",
+    "anilist/anime": "102685",
+    "aozora": "YRNw7G3sFA",
+    "myanimelist/anime": "22173"
+  }
+}

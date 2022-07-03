@@ -1,0 +1,24 @@
+{
+  "slug": "two-thousand-and-two-nen-harmoni-ondo",
+  "synopsis": "A music video for the song by Mika Shinno that was featured on NHK's Minna no Uta program. ",
+  "title": {
+    "jp": "2002-nen Halmeoni Ondo"
+  },
+  "releasedAt": "2002-04-24T00:00:00.000Z",
+  "finishedAt": "2002-04-24T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11522/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11522",
+    "anilist/anime": "116708",
+    "aozora": "JAozcORwaz",
+    "myanimelist/anime": "31874"
+  }
+}

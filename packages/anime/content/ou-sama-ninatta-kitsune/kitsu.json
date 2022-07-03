@@ -1,0 +1,21 @@
+{
+  "slug": "ou-sama-ninatta-kitsune",
+  "synopsis": "A short puppet animation movie by Tadahito Mochinaga. ",
+  "title": {
+    "jp": "Ou-sama Ninatta Kitsune"
+  },
+  "releasedAt": "1959-01-01T00:00:00.000Z",
+  "finishedAt": "1959-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10547/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "10547",
+    "anilist/anime": "114335",
+    "aozora": "xHbaWy9aor",
+    "myanimelist/anime": "29922"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "eden-2020",
+  "synopsis": "The upcoming sci-fi fantasy series Eden is set thousands of years in the future, where a city known as “Eden 3” is inhabited solely by robots whose former masters vanished a long time ago. On a routine assignment, two farming robots accidentally awaken a human baby girl from stasis questioning all they were taught to believe -- that humans were nothing more than a forbidden ancient myth. Together, the two robots secretly raise the child in a safe haven outside Eden.\n\n(Source: Netflix)",
+  "title": {
+    "jp": "EDEN"
+  },
+  "releasedAt": "2021-05-27T00:00:00.000Z",
+  "finishedAt": "2021-05-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42267/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/42267/cover_image/32f785a41ab6eaa21286972f6bfbf0c8.png",
+  "categories": [
+    "future",
+    "mecha",
+    "post apocalypse",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80992783"
+  ],
+  "relations": {
+    "kitsu": "42267",
+    "anidb": "14825",
+    "anilist/anime": "109217",
+    "animenewsnetwork": "22602",
+    "myanimelist/anime": "39728"
+  }
+}

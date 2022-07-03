@@ -1,0 +1,33 @@
+{
+  "slug": "ochamegami-monogatari-korokoro-poron",
+  "synopsis": "Anime about the funny lives of the Greek gods up on Mount Olympus. Polon is the naughty daughter of Apollo. With her little cherub friend Eros, she interferes in various comical ways as she tries to show that she is fit to be a goddess. Her activities often misfire, getting her in trouble with some deity or other and causing chaos for gods and humans. Feeling neglected by her godly parent, she often assists him in his woman-chasing in the hopes of getting a new mommy.",
+  "title": {
+    "en": "Little Pollon",
+    "jp": "Ochamegami Monogatari: Korokoro Pollon"
+  },
+  "releasedAt": "1982-05-08T00:00:00.000Z",
+  "finishedAt": "1984-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2818/original.jpg",
+  "categories": [
+    "comedy",
+    "deity",
+    "magic",
+    "magical girl",
+    "parody",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2818",
+    "anidb": "3424",
+    "anilist/anime": "3136",
+    "aozora": "1NnNXaWCZY",
+    "myanimelist/anime": "3136",
+    "thetvdb": "85007/1",
+    "thetvdb/series": "85007",
+    "trakt": "25718"
+  }
+}

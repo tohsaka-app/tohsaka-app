@@ -1,0 +1,24 @@
+{
+  "slug": "jouyatou",
+  "synopsis": "Music video animated by coalowl for the song Jouyatou by PEOPLE 1.",
+  "title": {
+    "en": "Joyato",
+    "jp": "Jouyatou"
+  },
+  "releasedAt": "2020-07-27T00:00:00.000Z",
+  "finishedAt": "2020-07-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45527/poster_image/0b97407d36229f76bfde01b6c3e66a23.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/OZpv_AcPCKg"
+  ],
+  "relations": {
+    "kitsu": "45527",
+    "anilist/anime": "125330"
+  }
+}

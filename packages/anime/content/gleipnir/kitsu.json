@@ -1,0 +1,27 @@
+{
+  "slug": "gleipnir",
+  "synopsis": "Shuichi Kagaya an ordinary high school kid in a boring little town. But when a beautiful classmate is caught in a warehouse fire, he discovers a mysterious power: he can transform into a furry dog with an oversized revolver and a zipper down his back. He saves the girl's life, sharing his secret with her. But she's searching for the sister who killed her family, and she doesn't care how degrading it gets: she will use Shuichi to accomplish her mission …\n\n(Source: Kodansha Comics)",
+  "title": {
+    "jp": "Gleipnir"
+  },
+  "releasedAt": "2020-04-05T00:00:00.000Z",
+  "finishedAt": "2020-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42173/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42173/original.jpg",
+  "categories": [
+    "action",
+    "mystery",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/gleipnir/"
+  ],
+  "relations": {
+    "kitsu": "42173",
+    "anilist/anime": "108241",
+    "myanimelist/anime": "39463"
+  }
+}

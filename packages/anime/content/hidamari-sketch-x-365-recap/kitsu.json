@@ -1,0 +1,24 @@
+{
+  "slug": "hidamari-sketch-x-365-recap",
+  "synopsis": "Recap of Hidamari Sketch x 365 series included on the limited edition DVD \"Hidamari Sketch Fan Disc / Mousugu! Hidamari Sketch x ☆☆☆\".",
+  "title": {
+    "jp": "Hidamari Sketch x 365 Recap"
+  },
+  "releasedAt": "2009-12-23T00:00:00.000Z",
+  "finishedAt": "2009-12-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10182/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10182",
+    "aozora": "MLiRaYGfpd",
+    "myanimelist/anime": "28913"
+  }
+}

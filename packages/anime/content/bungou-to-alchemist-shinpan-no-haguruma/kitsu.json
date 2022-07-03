@@ -1,0 +1,26 @@
+{
+  "slug": "bungou-to-alchemist-shinpan-no-haguruma",
+  "synopsis": "You are in a world where you can meet famous Japanese historical writers. With a party composed of other writers, you delve into tainted books to purify them, unlock secrets, and gain new allies.\n\n(Source: MyAnimeList News)",
+  "title": {
+    "jp": "Bungo to Alchemist: Shinpan no Haguruma"
+  },
+  "releasedAt": "2020-04-04T00:00:00.000Z",
+  "finishedAt": "2020-08-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43062/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43062",
+    "anidb": "15328",
+    "anilist/anime": "114411",
+    "animenewsnetwork": "23033",
+    "myanimelist/anime": "40934"
+  }
+}

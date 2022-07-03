@@ -1,0 +1,29 @@
+{
+  "slug": "akatsuki-no-yona-ova",
+  "synopsis": "The first episode adapts two bonus chapters from Mizuho Kusanagi's 12th manga volume, titled \"On That Back\" and \"Kija.\" \"On That Back\" follows an incident at a hot spring hotel, and \"Kija\" depicts the past of the Hakuryuu Kija. The second two episodes adapt the rest of the Zeno Arc and were bundled with the 21st and 22nd volumes of the manga.\n\n(Source: ANN)",
+  "title": {
+    "en": "Yona of the Dawn OVA",
+    "jp": "Akatsuki no Yona OVA"
+  },
+  "releasedAt": "2015-09-18T00:00:00.000Z",
+  "finishedAt": "2016-12-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10759/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10759/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "friendship"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10759",
+    "anidb": "11143",
+    "anilist/anime": "21138",
+    "aozora": "XHKm3mEbK0",
+    "myanimelist/anime": "30370"
+  }
+}

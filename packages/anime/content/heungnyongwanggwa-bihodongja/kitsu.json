@@ -1,0 +1,27 @@
+{
+  "slug": "heungnyongwanggwa-bihodongja",
+  "synopsis": "A 1982 Korean Martial Arts film.",
+  "title": {
+    "en": "Thunder Prince",
+    "jp": "Heungnyong Wang gwa Bihodongja"
+  },
+  "releasedAt": "1982-01-01T00:00:00.000Z",
+  "finishedAt": "1982-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9745/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9745",
+    "anidb": "9630",
+    "anilist/anime": "18273",
+    "aozora": "m65ewErJLr",
+    "myanimelist/anime": "18273"
+  }
+}

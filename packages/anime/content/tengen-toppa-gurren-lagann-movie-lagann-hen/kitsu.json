@@ -1,0 +1,40 @@
+{
+  "slug": "tengen-toppa-gurren-lagann-movie-lagann-hen",
+  "synopsis": "Seven years have passed after the battle of Teppelin... Humans have since reclaimed the surface of the earth and enjoy an unprecedented period of peace and prosperity. However, humanity's increasing population growth triggers the sudden emergence of an unknown, powerful enemy.\nThe fearsome, manipulative power of the mysterious Anti-Spiral proves too overwhelming for humans to even fight back. When everyone becomes desperate and loses hope, Team Dai-Gurren members reunite to stand up once again!\n(Source: Official US Website) ",
+  "title": {
+    "en": "Gurren Lagann The Movie: The Lights in the Sky are Stars",
+    "jp": "Tengen Toppa Gurren Lagann Movie 2: Lagann-hen"
+  },
+  "releasedAt": "2009-04-22T00:00:00.000Z",
+  "finishedAt": "2009-04-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3689/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3689/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "comedy",
+    "future",
+    "humanoid alien",
+    "mecha",
+    "piloted robot",
+    "post apocalypse",
+    "robot",
+    "science fiction",
+    "space",
+    "space battles",
+    "super power",
+    "super robot",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3689",
+    "anidb": "6325",
+    "anilist/anime": "4565",
+    "aozora": "3Lke7wi0W4",
+    "myanimelist/anime": "4565"
+  }
+}

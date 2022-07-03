@@ -1,0 +1,42 @@
+{
+  "slug": "yozakura-quartet-hana-no-uta",
+  "synopsis": "In a town where humans and demons co-exist, it takes more than a normal police force to maintain the peace. Enter the Hiizumi Life Counseling Office, a fantastic foursome of unique teenagers, each gifted with an amazing super power!",
+  "title": {
+    "jp": "Yozakura Quartet: Hana no Uta"
+  },
+  "releasedAt": "2013-10-06T00:00:00.000Z",
+  "finishedAt": "2013-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7843/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7843/original.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "asia",
+    "comedy",
+    "earth",
+    "fantasy",
+    "japan",
+    "law and order",
+    "magic",
+    "martial arts",
+    "slice of life",
+    "super power",
+    "tokyo",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7843",
+    "anidb": "9816",
+    "anilist/anime": "18497",
+    "aozora": "MvE4u92x7p",
+    "hulu": "50005847",
+    "myanimelist/anime": "18497",
+    "thetvdb": "273009/1",
+    "thetvdb/series": "273009",
+    "trakt": "72710"
+  }
+}

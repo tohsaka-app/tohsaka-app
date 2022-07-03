@@ -1,0 +1,26 @@
+{
+  "slug": "hello-kitty-no-ou-sama-no-mimi-wa-roba-no-mimi",
+  "synopsis": "Kitty and friends recreate the story of King Midas.",
+  "title": {
+    "en": "Hello Kitty & Mimmy in King Midas' Donkey Ears",
+    "jp": "Hello Kitty no Ou-sama no Mimi wa Roba no Mimi"
+  },
+  "releasedAt": "2001-07-20T00:00:00.000Z",
+  "finishedAt": "2001-07-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9311/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9311",
+    "anidb": "7825",
+    "aozora": "YieFoHkO3g",
+    "myanimelist/anime": "22491"
+  }
+}

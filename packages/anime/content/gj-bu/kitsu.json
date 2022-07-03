@@ -1,0 +1,36 @@
+{
+  "slug": "gj-bu",
+  "synopsis": "Shinomiya Kyouya is forced to become a new member of the GJ, an unidentified club that dwells in a room of the former building of a certain school. Here he meets the club leader, Mao, a short girl with a big attitude; Mao's younger sister, Megumi, who has the heart of a bipolar angel; the recognized genius with a lack of common sense, Shion; and the always-hungry and mysterious Kirara. Time flies with these unique girls around. ",
+  "title": {
+    "en": "GJ Club",
+    "jp": "GJ-bu"
+  },
+  "releasedAt": "2013-01-10T00:00:00.000Z",
+  "finishedAt": "2013-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7168/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7168/original.jpg",
+  "categories": [
+    "comedy",
+    "harem",
+    "high school",
+    "school clubs",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/gj-club"
+  ],
+  "relations": {
+    "kitsu": "7168",
+    "anidb": "9311",
+    "anilist/anime": "14811",
+    "aozora": "R2cA2R4KKx",
+    "myanimelist/anime": "14811",
+    "thetvdb": "264055/1",
+    "thetvdb/series": "264055",
+    "trakt": "68738"
+  }
+}

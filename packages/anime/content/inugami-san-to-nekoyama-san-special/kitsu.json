@@ -1,0 +1,26 @@
+{
+  "slug": "inugami-san-to-nekoyama-san-special",
+  "synopsis": "Unaired episode bundled with the Blu-ray/DVD Box-Set.",
+  "title": {
+    "jp": "Inugami-san to Nekoyama-san Special"
+  },
+  "releasedAt": "2014-07-18T00:00:00.000Z",
+  "finishedAt": "2014-07-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8838/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8838/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "shoujo ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8838",
+    "anilist/anime": "20846",
+    "aozora": "SALZuazVDs",
+    "myanimelist/anime": "25861"
+  }
+}

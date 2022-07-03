@@ -1,0 +1,41 @@
+{
+  "slug": "yama-no-susume-2nd-season",
+  "synopsis": "Second season of Yama no Susume.",
+  "title": {
+    "en": "Encouragement of Climb 2nd Season",
+    "jp": "Yama no Susume: Second Season"
+  },
+  "releasedAt": "2014-07-09T00:00:00.000Z",
+  "finishedAt": "2014-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8201/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8201/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "countryside",
+    "drama",
+    "friendship",
+    "japan",
+    "plot continuity",
+    "present",
+    "seinen",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/encouragement-of-climb-season-2"
+  ],
+  "relations": {
+    "kitsu": "8201",
+    "anidb": "10293",
+    "anilist/anime": "20485",
+    "aozora": "1lKWl9gUp4",
+    "myanimelist/anime": "21435",
+    "thetvdb": "264523/2",
+    "thetvdb/season": "575661",
+    "thetvdb/series": "264523",
+    "trakt": "68734"
+  }
+}

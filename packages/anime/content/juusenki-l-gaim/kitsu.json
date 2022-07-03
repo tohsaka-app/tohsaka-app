@@ -1,0 +1,32 @@
+{
+  "slug": "juusenki-l-gaim",
+  "synopsis": "In the Pentagona System, a young man by the name of Daba Myroad leads a rebellion against Pentagona's leader, Oldna Poseidal. Daba's not alone however, meeting a large number of allies along his journey and having in his possession the powerful L-Gaim, a white Heavy Metal left to him by his father.\n(Source: ANN)",
+  "title": {
+    "jp": "Juusenki L-Gaim"
+  },
+  "releasedAt": "1984-02-04T00:00:00.000Z",
+  "finishedAt": "1985-02-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2362/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2362",
+    "anidb": "522",
+    "anilist/anime": "2598",
+    "aozora": "ORC6UYxcwn",
+    "myanimelist/anime": "2598",
+    "thetvdb": "103691/1",
+    "thetvdb/series": "103691",
+    "trakt": "9381"
+  }
+}

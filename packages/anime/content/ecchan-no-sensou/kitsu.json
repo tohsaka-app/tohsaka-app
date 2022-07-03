@@ -1,0 +1,29 @@
+{
+  "slug": "ecchan-no-sensou",
+  "synopsis": "Based on a children's novel by Etsuko Kishikawa.",
+  "title": {
+    "jp": "Ecchan no Sensou"
+  },
+  "releasedAt": "2002-01-13T00:00:00.000Z",
+  "finishedAt": "2002-01-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9255/original.jpg",
+  "categories": [
+    "anti war",
+    "asia",
+    "china",
+    "coming of age",
+    "disaster",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9255",
+    "anidb": "6356",
+    "anilist/anime": "19907",
+    "aozora": "hHynPoa2QG",
+    "myanimelist/anime": "19907"
+  }
+}

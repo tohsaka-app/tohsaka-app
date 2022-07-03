@@ -1,0 +1,28 @@
+{
+  "slug": "huckleberry-no-bouken",
+  "synopsis": "Based on Mark Twain's well known masterpiece about Huckleberry Finn, the bright and merry orphan, this film is full of life, laughter, and will be loved by children around the world. When Huckleberry runs away from his orphanage, he teams up with an escaped slave. Together, they travel the Mississippi on a raft, encountering all kinds of people and adventures. \n(Source: AniDB)",
+  "title": {
+    "jp": "Huckleberry no Bouken"
+  },
+  "releasedAt": "1976-01-02T00:00:00.000Z",
+  "finishedAt": "1976-06-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2310/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2310",
+    "anidb": "3388",
+    "anilist/anime": "2545",
+    "aozora": "ndK2sfPExI",
+    "myanimelist/anime": "2545",
+    "thetvdb": "274382/1",
+    "thetvdb/series": "274382"
+  }
+}

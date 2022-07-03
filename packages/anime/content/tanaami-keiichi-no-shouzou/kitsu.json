@@ -1,0 +1,24 @@
+{
+  "slug": "tanaami-keiichi-no-shouzou",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Tanaami Keiichi no Shouzou"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9655/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9655",
+    "anilist/anime": "102686",
+    "aozora": "WOgyHqICj7",
+    "myanimelist/anime": "22171"
+  }
+}

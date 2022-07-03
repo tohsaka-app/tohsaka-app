@@ -1,0 +1,30 @@
+{
+  "slug": "kamisama-hajimemashita-kako-hen",
+  "synopsis": "OVAs based on the \"past arc\" of the series, which spans the 14th through 17th volumes of the manga.\n(Source: MAL News)",
+  "title": {
+    "jp": "Kamisama Hajimemashita: Kako-hen"
+  },
+  "releasedAt": "2015-08-20T00:00:00.000Z",
+  "finishedAt": "2016-08-19T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10880/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10880/original.png",
+  "categories": [
+    "comedy",
+    "demon",
+    "fantasy",
+    "romance",
+    "shoujo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10880",
+    "anilist/anime": "21186",
+    "aozora": "Zkoqwt5z2D",
+    "myanimelist/anime": "30709",
+    "thetvdb": "262106",
+    "trakt": "67789"
+  }
+}

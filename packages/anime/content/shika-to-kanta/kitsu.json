@@ -1,0 +1,25 @@
+{
+  "slug": "shika-to-kanta",
+  "synopsis": "One day, Kanta, a lonely boy, rescues an orphaned baby deer and names it Poyu. There is something special about Poyu, his golden tail. When hunters go after Poyu, Kanta is determined to protect his golden-tailed friend and the other deer.",
+  "title": {
+    "en": "Kanta and the Deer",
+    "jp": "Shika to Kanta"
+  },
+  "releasedAt": "1992-04-01T00:00:00.000Z",
+  "finishedAt": "1992-04-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10898/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10898",
+    "anidb": "8502",
+    "aozora": "nn0Z9xJBGO",
+    "myanimelist/anime": "30447"
+  }
+}

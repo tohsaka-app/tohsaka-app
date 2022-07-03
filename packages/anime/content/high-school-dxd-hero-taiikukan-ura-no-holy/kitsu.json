@@ -1,0 +1,31 @@
+{
+  "slug": "high-school-dxd-hero-taiikukan-ura-no-holy",
+  "synopsis": "Alternative version of the final three episodes of High School DxD BorN.",
+  "title": {
+    "en": "High School DxD Hero Episode 0",
+    "jp": "High School DxD Hero: Taiikukan-ura no Holy"
+  },
+  "releasedAt": "2018-04-10T00:00:00.000Z",
+  "finishedAt": "2018-04-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41208/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "demon",
+    "ecchi",
+    "harem",
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/high-school-dxd",
+    "https://www.funimation.com/shows/high-school-dxd/"
+  ],
+  "relations": {
+    "kitsu": "41208",
+    "myanimelist/anime": "37719"
+  }
+}

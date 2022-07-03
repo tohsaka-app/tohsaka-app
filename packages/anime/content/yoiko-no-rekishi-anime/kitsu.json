@@ -1,0 +1,20 @@
+{
+  "slug": "yoiko-no-rekishi-anime",
+  "synopsis": "",
+  "title": {
+    "jp": "Yoiko no Rekishi Anime: Ookina Kabu (Kabu)"
+  },
+  "releasedAt": "2016-11-23T00:00:00.000Z",
+  "finishedAt": "2016-11-23T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41952/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41952",
+    "anilist/anime": "105892",
+    "myanimelist/anime": "36030"
+  }
+}

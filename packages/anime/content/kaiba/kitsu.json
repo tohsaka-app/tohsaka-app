@@ -1,0 +1,40 @@
+{
+  "slug": "kaiba",
+  "synopsis": "A boy with no name awakens with a hole through his chest, a strange marking on his belly, and no memories. The one link to his past is a locket containing a picture of a girl whose name he does not know. Within moments he meets Popo, who unlike the memoryless boy has a purpose. Through Popo, the boy learns that where he is a body without memory, in this world there are many who are only memories with no body. The rich harvest the choice bodies, leaving only the dregs for those down below. And yet even though he has no memories, there are many who seem to want his life. How does he fit into this world where not even memories might be real?\n\n(Source: Discotek Media)",
+  "title": {
+    "en": "Kaiba",
+    "jp": "Kaiba"
+  },
+  "releasedAt": "2008-04-11T00:00:00.000Z",
+  "finishedAt": "2008-07-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3201/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3201/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "dystopia",
+    "fantasy world",
+    "future",
+    "mystery",
+    "other planet",
+    "romance",
+    "science fiction",
+    "space travel"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/kaiba"
+  ],
+  "relations": {
+    "kitsu": "3201",
+    "anidb": "5673",
+    "anilist/anime": "3701",
+    "aozora": "0KxkSkYj1b",
+    "myanimelist/anime": "3701",
+    "thetvdb": "81991/1",
+    "thetvdb/series": "81991",
+    "trakt": "34598"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "shikiori-no-hane",
+  "synopsis": "",
+  "title": {
+    "en": "Seasonal Feathers",
+    "jp": "Shikiori no Hane"
+  },
+  "releasedAt": "2014-01-20T00:00:00.000Z",
+  "finishedAt": "2014-01-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42178/original.png",
+  "categories": [
+    "music",
+    "romance",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42178"
+  }
+}

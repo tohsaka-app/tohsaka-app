@@ -1,0 +1,24 @@
+{
+  "slug": "utawarerumono-picture-drama",
+  "synopsis": "Bonus specials released together with the OVA.",
+  "title": {
+    "jp": "Utawarerumono OVA Picture Drama"
+  },
+  "releasedAt": "2009-06-24T00:00:00.000Z",
+  "finishedAt": "2010-06-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4695/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4695",
+    "anilist/anime": "6743",
+    "aozora": "56svZ8cWlP",
+    "myanimelist/anime": "6743"
+  }
+}

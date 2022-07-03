@@ -1,0 +1,24 @@
+{
+  "slug": "blassreiter-navigator",
+  "synopsis": "This special aired between episodes 11 and 12 and recaps the events of the first eleven episodes.",
+  "title": {
+    "jp": "Blassreiter: Navi"
+  },
+  "releasedAt": "2008-06-22T00:00:00.000Z",
+  "finishedAt": "2008-06-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4142/original.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4142",
+    "anilist/anime": "5539",
+    "aozora": "69zoGgAFMv",
+    "myanimelist/anime": "5539"
+  }
+}

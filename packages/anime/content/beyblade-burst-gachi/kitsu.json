@@ -1,0 +1,26 @@
+{
+  "slug": "beyblade-burst-gachi",
+  "synopsis": "Fourth season of the Burst series and the eleventh season of Beyblade.\n",
+  "title": {
+    "jp": "Beyblade Burst Gachi"
+  },
+  "releasedAt": "2019-04-05T00:00:00.000Z",
+  "finishedAt": "2020-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42360/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42360",
+    "anilist/anime": "108853",
+    "myanimelist/anime": "39282"
+  }
+}

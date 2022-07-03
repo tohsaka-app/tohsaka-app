@@ -1,0 +1,29 @@
+{
+  "slug": "cestvs-the-roman-fighter",
+  "synopsis": "54 AD. Cestus, a young boy orphaned by the Roman empire and made a slave, is placed into a training school for pugilists. It is here that he begins his journey to defy fate and fight for his own freedom.",
+  "title": {
+    "en": "CESTVS -The Roman Fighter-",
+    "jp": "Cestvs: The Roman Fighter"
+  },
+  "releasedAt": "2021-04-15T00:00:00.000Z",
+  "finishedAt": "2021-06-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44179/original.jpg",
+  "categories": [
+    "action",
+    "boxing",
+    "drama",
+    "historical",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/cestvs-the-roman-fighter-"
+  ],
+  "relations": {
+    "kitsu": "44179",
+    "anilist/anime": "125867",
+    "myanimelist/anime": "43763"
+  }
+}

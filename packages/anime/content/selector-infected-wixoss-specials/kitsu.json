@@ -1,0 +1,26 @@
+{
+  "slug": "selector-infected-wixoss-specials",
+  "synopsis": "Specials included in the Blu-ray/DVD volumes of Selector Infected WIXOSS.",
+  "title": {
+    "jp": "Selector Infected WIXOSS: Midoriko-san to Piruruku-tan"
+  },
+  "releasedAt": "2014-08-27T00:00:00.000Z",
+  "finishedAt": "2014-12-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9171/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9171/original.jpg",
+  "categories": [
+    "card games",
+    "comedy",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9171",
+    "anilist/anime": "20870",
+    "aozora": "Oq5juyPQRT",
+    "myanimelist/anime": "27613"
+  }
+}

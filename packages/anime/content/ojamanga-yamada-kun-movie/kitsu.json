@@ -1,0 +1,26 @@
+{
+  "slug": "ojamanga-yamada-kun-movie",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Ojamanga Yamada-kun (Movie)"
+  },
+  "releasedAt": "1981-03-14T00:00:00.000Z",
+  "finishedAt": "1981-03-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7500/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7500",
+    "anidb": "9626",
+    "anilist/anime": "16730",
+    "aozora": "tUBFFKbFr2",
+    "myanimelist/anime": "16730"
+  }
+}

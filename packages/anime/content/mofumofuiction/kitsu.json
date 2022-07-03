@@ -1,0 +1,25 @@
+{
+  "slug": "mofumofuiction",
+  "synopsis": "Fluffy turtles, fluffy monkeys, fluffy lizards. Discover the world populated by these mysteriously charming imaginary creatures. They have adorably fluffy bodies and are becoming an ever more common sight in daily life.\n\nGraduate Work 2018, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Fluffiction",
+    "jp": "Mofumofuiction"
+  },
+  "releasedAt": "2018-03-02T00:00:00.000Z",
+  "finishedAt": "2018-03-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45292/poster_image/5ac069a4dfff552289ded43b5a08b427.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/VacSS8EaOXo"
+  ],
+  "relations": {
+    "kitsu": "45292",
+    "anilist/anime": "140035",
+    "myanimelist/anime": "41183"
+  }
+}

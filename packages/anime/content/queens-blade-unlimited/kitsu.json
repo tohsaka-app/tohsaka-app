@@ -1,0 +1,26 @@
+{
+  "slug": "queens-blade-unlimited",
+  "synopsis": "",
+  "title": {
+    "jp": "Queen's Blade: Unlimited"
+  },
+  "releasedAt": "2018-07-13T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "current",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42111/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "ecchi",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42111",
+    "anidb": "12836",
+    "anilist/anime": "98319",
+    "myanimelist/anime": "34941"
+  }
+}

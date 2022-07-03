@@ -1,0 +1,27 @@
+{
+  "slug": "sora-iro-no-tane",
+  "synopsis": "A short TV advertisement based on a children's book about a fox who gives a boy a seed which grows into a giant house.",
+  "title": {
+    "en": "The Sky-Colored Seed",
+    "jp": "Sora Iro no Tane"
+  },
+  "releasedAt": "1992-11-01T00:00:00.000Z",
+  "finishedAt": "1992-11-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2380/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2380",
+    "anidb": "2674",
+    "anilist/anime": "2616",
+    "aozora": "UaMF8Tne21",
+    "myanimelist/anime": "2616"
+  }
+}

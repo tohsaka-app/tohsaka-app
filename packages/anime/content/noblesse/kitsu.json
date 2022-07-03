@@ -1,0 +1,27 @@
+{
+  "slug": "noblesse",
+  "synopsis": "A Crunchyroll and WEBTOON Production, based on the comic series “Noblesse” from Jeho Son and Kwangsu Lee and published by WEBTOON, this fantasy follows a powerful vampire noble who is thrown into modern civilization after 820 years of slumber. Dangerous adventures with his new friends await as they combat a secret organization and uncover his past.(Source: CR)",
+  "title": {},
+  "releasedAt": "2020-10-08T00:00:00.000Z",
+  "finishedAt": "2020-12-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43019/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "seinen",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43019",
+    "anilist/anime": "116005",
+    "myanimelist/anime": "41345"
+  }
+}

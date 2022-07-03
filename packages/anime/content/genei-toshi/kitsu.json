@@ -1,0 +1,24 @@
+{
+  "slug": "genei-toshi",
+  "synopsis": "Independent animation by Shimamura Tatsuo.",
+  "title": {
+    "en": "Illusion City",
+    "jp": "Genei Toshi"
+  },
+  "releasedAt": "1967-01-01T00:00:00.000Z",
+  "finishedAt": "1967-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10355/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10355",
+    "anilist/anime": "116709",
+    "aozora": "EoTbsDC2sQ",
+    "myanimelist/anime": "29665"
+  }
+}

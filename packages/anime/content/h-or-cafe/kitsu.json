@@ -1,0 +1,23 @@
+{
+  "slug": "h-or-cafe",
+  "synopsis": "Commercial for H'or Cafe, directed by Masanobu Hiraoka, based off illustrations by Masaki Hanahara.",
+  "title": {
+    "en": "H’or cafe",
+    "jp": "H’or cafe"
+  },
+  "releasedAt": "2014-11-03T00:00:00.000Z",
+  "finishedAt": "2014-11-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44456/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44456",
+    "anilist/anime": "108245",
+    "myanimelist/anime": "39182"
+  }
+}

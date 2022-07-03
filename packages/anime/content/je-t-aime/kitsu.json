@@ -1,0 +1,31 @@
+{
+  "slug": "je-t-aime",
+  "synopsis": "Set in Tokyo in the near future, when all humanity has been wiped out, a lonely basset hound wanders around a deserted city. Its only wish is to feel the warmth of a human being once more.",
+  "title": {
+    "jp": "Je T'aime"
+  },
+  "releasedAt": "2010-07-06T00:00:00.000Z",
+  "finishedAt": "2010-07-06T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5568/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5568/original.png",
+  "categories": [
+    "android",
+    "earth",
+    "future",
+    "japan",
+    "mecha",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5568",
+    "anidb": "8081",
+    "anilist/anime": "20569",
+    "aozora": "rzNG1Xng6R",
+    "myanimelist/anime": "9001"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "genshiken-nidaime-specials",
+  "synopsis": "Special episodes included in BD.",
+  "title": {
+    "jp": "Genshiken Nidaime Specials"
+  },
+  "releasedAt": "2013-09-04T00:00:00.000Z",
+  "finishedAt": "2013-12-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8004/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8004",
+    "anilist/anime": "19889",
+    "aozora": "nKwjWvXRQy",
+    "myanimelist/anime": "19889"
+  }
+}

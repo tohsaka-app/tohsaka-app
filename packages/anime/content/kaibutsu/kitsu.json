@@ -1,0 +1,28 @@
+{
+  "slug": "kaibutsu",
+  "synopsis": "怪物 (Kaibutsu), is based on the novel 自分の胸に自分の耳を押し当てて (Jibun no Mune ni Jibun no Mimi o Oshi Atete), written by Paru Itagaki.\n\nThe song was used as the opening theme for BEASTARS 2.",
+  "title": {
+    "en": "Monster",
+    "jp": "Kaibutsu"
+  },
+  "releasedAt": "2021-01-13T00:00:00.000Z",
+  "finishedAt": "2021-01-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45709/poster_image/c8ba908be928708ed7091097ae497a64.jpg",
+  "categories": [
+    "fantasy",
+    "horror",
+    "music",
+    "psychological",
+    "romance"
+  ],
+  "externals": [
+    "https://youtu.be/dy90tA3TT1c"
+  ],
+  "relations": {
+    "kitsu": "45709",
+    "anilist/anime": "143310"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "doraemon-nobita-s-galactic-express",
+  "synopsis": "The kids go on a space Mystery Train bound for a space theme park, when a race of alien virus strikes, wanting to take them as host bodies.",
+  "title": {
+    "en": "Doraemon the Movie: Nobita and the Galaxy Super-express",
+    "jp": "Doraemon Movie 17: Nobita to Ginga Express"
+  },
+  "releasedAt": "1996-03-02T00:00:00.000Z",
+  "finishedAt": "1996-03-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2438/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2438",
+    "anidb": "5046",
+    "anilist/anime": "2675",
+    "aozora": "qMJ3lhCy1R",
+    "myanimelist/anime": "2675"
+  }
+}

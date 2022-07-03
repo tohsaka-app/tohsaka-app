@@ -1,0 +1,27 @@
+{
+  "slug": "tsuritama-harikitte-contest",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Tsuritama: Harikitte Contest"
+  },
+  "releasedAt": "2012-11-21T00:00:00.000Z",
+  "finishedAt": "2012-11-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11378/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11378",
+    "anilist/anime": "104739",
+    "aozora": "qIBWLRzwLQ",
+    "myanimelist/anime": "31581"
+  }
+}

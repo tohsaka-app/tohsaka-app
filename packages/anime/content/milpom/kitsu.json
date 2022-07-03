@@ -1,0 +1,26 @@
+{
+  "slug": "milpom",
+  "synopsis": "The story takes place in a certain ordinary town where it is natural for everyone to wear an animal costume head. It depicts the everyday life of the main character MILPOM and her friends who live there, filled with the essence of Kawaii and a little bit cynical girls.\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "MILPOM★"
+  },
+  "releasedAt": "2015-09-05T00:00:00.000Z",
+  "finishedAt": "2017-09-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11397/original.png",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/milpom"
+  ],
+  "relations": {
+    "kitsu": "11397",
+    "anidb": "11634",
+    "anilist/anime": "100339",
+    "aozora": "ERoglpbiwH",
+    "myanimelist/anime": "31471"
+  }
+}

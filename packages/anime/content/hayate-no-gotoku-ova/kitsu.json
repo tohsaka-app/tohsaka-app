@@ -1,0 +1,34 @@
+{
+  "slug": "hayate-no-gotoku-ova",
+  "synopsis": "New OVA series of Hayate no Gotoku!, which is part of the manga's 10th anniversary project.  One episode each will be bundled with volumes 41 to 43 of the manga.",
+  "title": {
+    "jp": "Hayate no Gotoku! OVA"
+  },
+  "releasedAt": "2014-06-18T00:00:00.000Z",
+  "finishedAt": "2014-12-16T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8451/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8451/original.jpeg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "harem",
+    "japan",
+    "maid",
+    "parody",
+    "present",
+    "romance",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8451",
+    "anidb": "10519",
+    "anilist/anime": "20651",
+    "aozora": "o7UsIuMVnJ",
+    "myanimelist/anime": "23153"
+  }
+}

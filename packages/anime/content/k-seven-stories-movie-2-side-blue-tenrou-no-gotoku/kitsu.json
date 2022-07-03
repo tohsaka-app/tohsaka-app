@@ -1,0 +1,31 @@
+{
+  "slug": "k-seven-stories-movie-2-side-blue-tenrou-no-gotoku",
+  "synopsis": "Gouki Zenjo, former right-hand man to Jin Habari and a survivor of the Kagutsu Incident, returns to work for SCEPTER 4, now under the command of Reisi Munakata, the new Blue King.\n\n(Source: TubiTV)",
+  "title": {
+    "jp": "K: Seven Stories Movie 2 - Side:Blue - Tenrou no Gotoku"
+  },
+  "releasedAt": "2018-08-04T00:00:00.000Z",
+  "finishedAt": "2018-08-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41770/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41770/original.jpg",
+  "categories": [
+    "action",
+    "bishounen",
+    "contemporary fantasy",
+    "fantasy",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [
+    "https://vrv.co/series/GRNVN8MX6/K-Seven-Stories",
+    "https://www.crunchyroll.com/k-seven-stories"
+  ],
+  "relations": {
+    "kitsu": "41770",
+    "anilist/anime": "102346",
+    "myanimelist/anime": "37303"
+  }
+}

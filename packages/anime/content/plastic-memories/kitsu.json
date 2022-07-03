@@ -1,0 +1,39 @@
+{
+  "slug": "plastic-memories",
+  "synopsis": "Eighteen-year-old Tsukasa Mizugaki has failed his college entrance exams, but after pulling some strings, he manages to land a job at the Sion Artificial Intelligence Corporation. SAI Corp is responsible for the creation of \"Giftias\"—highly advanced androids which are almost indiscernible from normal humans. However, unlike humans, Giftias have a maximum lifespan of 81,920 hours, or around nine years and four months. Terminal Service One, the station Tsukasa was assigned to, is responsible for collecting Giftias that have met their expiration date, before they lose their memories and become hostile.\nPromptly after joining Terminal Service One, Tsukasa is partnered with a beautiful Giftia named Isla. She is a Terminal Service veteran and considered the best in Giftia retrievals, contrary to her petite figure and placid nature. Time is fleeting though, and Tsukasa must come to terms with his feelings for Isla before her time is up. No matter how much someone desires it, nothing lasts forever.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Plastic Memories",
+    "jp": "Plastic Memories"
+  },
+  "releasedAt": "2015-04-05T00:00:00.000Z",
+  "finishedAt": "2015-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9538/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9538/original.png",
+  "categories": [
+    "android",
+    "comedy",
+    "drama",
+    "earth",
+    "future",
+    "plot continuity",
+    "robot",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/plastic-memories",
+    "http://www.hulu.com/plastic-memories"
+  ],
+  "relations": {
+    "kitsu": "9538",
+    "anidb": "10854",
+    "anilist/anime": "20872",
+    "aozora": "nuW8V828nY",
+    "myanimelist/anime": "27775",
+    "thetvdb": "291627",
+    "trakt": "95746"
+  }
+}

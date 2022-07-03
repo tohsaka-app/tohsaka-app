@@ -1,0 +1,33 @@
+{
+  "slug": "lupin-iii-pilot-film",
+  "synopsis": "Two years after the birth of the manga a pilot film was released. It was a brief film of only 13 minutes that had the purpose of assay the response to a possible future anime realization of Lupin III. The pilot opens with a challenge call from Lupin to Zenigata from a public phone.\nPreviously unreleased remastered TV version of this pilot from a year 1971 was released in 1989. It was included on the Lupin III - Secret File OVA.\n(Source: AniDB) ",
+  "title": {
+    "en": "Lupin the Third: Pilot Film",
+    "jp": "Lupin III: Pilot Film"
+  },
+  "releasedAt": "1969-01-01T00:00:00.000Z",
+  "finishedAt": "1969-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3997/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3997/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "crime",
+    "earth",
+    "gunfights",
+    "present",
+    "slapstick",
+    "thievery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3997",
+    "anidb": "3181",
+    "anilist/anime": "5225",
+    "aozora": "92zWlYOmWN",
+    "myanimelist/anime": "5225"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "trigun-badlands-rumble",
+  "synopsis": " 20 years after meddling into the bank heist of a notorious robber named Gasback, Vash the Stampede is heading towards Macca City. Rumors say that the legendary thief might appear there causing an enormous influx of bounty hunters in the area who want to collect the $$300,000,000 prize for his head.\n(Source: ANN)",
+  "title": {
+    "en": "Trigun - Badlands Rumble",
+    "jp": "Trigun: Badlands Rumble"
+  },
+  "releasedAt": "2010-04-02T00:00:00.000Z",
+  "finishedAt": "2010-04-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3470/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3470/original.jpg",
+  "categories": [
+    "action",
+    "bounty hunter",
+    "comedy",
+    "crime",
+    "cyborg",
+    "desert",
+    "future",
+    "gunfights",
+    "humanoid alien",
+    "other planet",
+    "science fiction",
+    "shounen",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/trigun",
+    "http://www.hulu.com/trigun-badlands-rumble",
+    "https://tubitv.com/movies/371099/trigun_badlands_rumble"
+  ],
+  "relations": {
+    "kitsu": "3470",
+    "anidb": "7208",
+    "anilist/anime": "4106",
+    "aozora": "7gBhPzaQYt",
+    "hulu": "50007510",
+    "myanimelist/anime": "4106"
+  }
+}

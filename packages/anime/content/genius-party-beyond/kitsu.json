@@ -1,0 +1,28 @@
+{
+  "slug": "genius-party-beyond",
+  "synopsis": "The sequel to Genius Party. It includes most of the films which were eventually finished but not included in the original Genius Party.\n1: Gala (Mahiro Maeda)\n2: Moondrive (Kazuto Nakazawa)\n3. Wanwa the Puppy (Shinya Ohira)\n4: Tojin Kit (Tatsuyuki Tanaka) \n5: Dimension Bomb (Koji Morimoto)",
+  "title": {
+    "jp": "Genius Party Beyond"
+  },
+  "releasedAt": "2008-10-11T00:00:00.000Z",
+  "finishedAt": "2008-10-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4719/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4719/original.png",
+  "categories": [
+    "dementia",
+    "fantasy",
+    "music",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4719",
+    "anidb": "6037",
+    "anilist/anime": "6795",
+    "aozora": "bxZM88F0c5",
+    "myanimelist/anime": "6795"
+  }
+}

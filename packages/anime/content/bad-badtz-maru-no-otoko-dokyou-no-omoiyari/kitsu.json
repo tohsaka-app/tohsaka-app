@@ -1,0 +1,24 @@
+{
+  "slug": "bad-badtz-maru-no-otoko-dokyou-no-omoiyari",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Bad Badtz-Maru no Otoko Dokyou no Omoiyari"
+  },
+  "releasedAt": "1995-10-21T00:00:00.000Z",
+  "finishedAt": "1995-10-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10664/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10664",
+    "anidb": "7841",
+    "aozora": "tUTqU0RdQg",
+    "myanimelist/anime": "30125"
+  }
+}

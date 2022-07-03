@@ -1,0 +1,23 @@
+{
+  "slug": "ribbon-no-kishi-pilot",
+  "synopsis": "Unaired pilot episode of Ribbon no Kishi.",
+  "title": {
+    "jp": "Ribbon no Kishi Pilot"
+  },
+  "releasedAt": "1966-11-28T00:00:00.000Z",
+  "finishedAt": "1966-11-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9930/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9930",
+    "anilist/anime": "103709",
+    "aozora": "IuqoVetIfV",
+    "myanimelist/anime": "22241"
+  }
+}

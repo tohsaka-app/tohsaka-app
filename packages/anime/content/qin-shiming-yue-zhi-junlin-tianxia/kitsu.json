@@ -1,0 +1,27 @@
+{
+  "slug": "qin-shiming-yue-zhi-junlin-tianxia",
+  "synopsis": "Continues off from where season 4 left off.",
+  "title": {
+    "en": "Qin's Moon: The Emperor Under Heaven",
+    "jp": "Qin Shi Ming Yue: Junlin Tianxia"
+  },
+  "releasedAt": "2014-12-25T00:00:00.000Z",
+  "finishedAt": "2017-11-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10556/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10556",
+    "anilist/anime": "109801",
+    "aozora": "nSif0hgq9a",
+    "myanimelist/anime": "29936"
+  }
+}

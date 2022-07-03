@@ -1,0 +1,26 @@
+{
+  "slug": "sword-art-online-sword-art-offline",
+  "synopsis": "BD/DVD specials.",
+  "title": {
+    "jp": "Sword Art Online: Sword Art Offline"
+  },
+  "releasedAt": "2012-10-24T00:00:00.000Z",
+  "finishedAt": "2013-06-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7372/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7372/original.jpg",
+  "categories": [
+    "comedy",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7372",
+    "anilist/anime": "16099",
+    "aozora": "SeG6mWpp3h",
+    "myanimelist/anime": "16099",
+    "trakt": "45529"
+  }
+}

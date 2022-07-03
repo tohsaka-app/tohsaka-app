@@ -1,0 +1,38 @@
+{
+  "slug": "uchuu-senkan-yamato-2",
+  "synopsis": "A year has passed since the Star Force returned to save the Earth but another danger now approaches from deep space. A gigantic White Comet hurtles toward our galaxy, obliterating everything in its path. But it is no ordinary comet—it is the deadly Comet Empire, conqueror of worlds... and Earth is the next target! Against orders, the Star Force blasts off to investigate, but even if they can get past the flagship Andromeda, they don't yet know the true nature of their new enemy!\n(Source: AniDB)",
+  "title": {
+    "en": "Star Blazers: The Comet Empire",
+    "jp": "Uchuu Senkan Yamato 2"
+  },
+  "releasedAt": "1978-10-14T00:00:00.000Z",
+  "finishedAt": "1979-04-07T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1484/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "future",
+    "military",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space opera",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1484",
+    "anidb": "2662",
+    "anilist/anime": "1651",
+    "aozora": "XbtazNr0mR",
+    "myanimelist/anime": "1651",
+    "thetvdb": "85230/2",
+    "thetvdb/season": "41148",
+    "thetvdb/series": "85230",
+    "trakt": "13281"
+  }
+}

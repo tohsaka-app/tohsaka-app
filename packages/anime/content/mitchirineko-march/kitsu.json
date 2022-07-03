@@ -1,0 +1,28 @@
+{
+  "slug": "mitchirineko-march",
+  "synopsis": "A music video created for the MitchiriNeko character and brand. The video features cat characters playing in a marching band.",
+  "title": {
+    "en": "Mitchiri Neko March",
+    "jp": "Micchiri Neko March"
+  },
+  "releasedAt": "2013-04-02T00:00:00.000Z",
+  "finishedAt": "2013-04-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12113/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=YZw-Ivx_cQI",
+    "https://www.youtube.com/watch?v=lAIGb1lfpBw&t=1s"
+  ],
+  "relations": {
+    "kitsu": "12113",
+    "anidb": "12204",
+    "anilist/anime": "101575",
+    "aozora": "MvfKgnFHk7",
+    "myanimelist/anime": "32233"
+  }
+}

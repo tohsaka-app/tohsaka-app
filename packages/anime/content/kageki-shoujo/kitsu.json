@@ -1,0 +1,33 @@
+{
+  "slug": "kageki-shoujo",
+  "synopsis": "The Kouka Kageki Musical Drama Academy is a high school that teaches musical theater like that at the Takarazuka Revue, and splits its actresses into those who play male and female roles. Ai Narada is a former idol who becomes a musume-yaku (female role) actress and meets Sarasa Watanabe, a simple farm girl who is an otoko-yaku (male role) actress.",
+  "title": {
+    "en": "Kageki Shoujo!!",
+    "jp": "Kageki Shoujo!!"
+  },
+  "releasedAt": "2021-07-04T00:00:00.000Z",
+  "finishedAt": "2021-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44206/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44206/original.png",
+  "categories": [
+    "all girls school",
+    "drama",
+    "music",
+    "performance",
+    "school life",
+    "seinen",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/kageki-shojo/"
+  ],
+  "relations": {
+    "kitsu": "44206",
+    "anidb": "15810",
+    "anilist/anime": "125446",
+    "myanimelist/anime": "43691"
+  }
+}

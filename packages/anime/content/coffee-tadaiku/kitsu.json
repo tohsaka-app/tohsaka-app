@@ -1,0 +1,24 @@
+{
+  "slug": "coffee-tadaiku",
+  "synopsis": "Animated by Tomoyoshi Joko and Hiroco Ichinose under combined studio name, Decovocal, to celebrate Furukawa Taku's 70th birthday. It is a tribute to one of his works.",
+  "title": {
+    "jp": "Coffee Tadaiku"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4043/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4043",
+    "anidb": "11306",
+    "anilist/anime": "5299",
+    "aozora": "9U6BrBvZcB",
+    "myanimelist/anime": "5299"
+  }
+}

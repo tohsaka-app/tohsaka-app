@@ -1,0 +1,23 @@
+{
+  "slug": "shikaru-neko",
+  "synopsis": "The official Twitter account for manga creator agency wwwaap's Shikaruneko (Angry Cat) character announced on January 5 that the character is inspiring a mini-anime. The anime will premiere this spring on TV Tokyo.\n\n(Source: Anime News Network)",
+  "title": {
+    "jp": "Shikaru Neko"
+  },
+  "releasedAt": "2021-04-30T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44216/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44216",
+    "anidb": "16070",
+    "anilist/anime": "128394",
+    "myanimelist/anime": "48442"
+  }
+}

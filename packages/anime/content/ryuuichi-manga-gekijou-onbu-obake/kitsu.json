@@ -1,0 +1,24 @@
+{
+  "slug": "ryuuichi-manga-gekijou-onbu-obake",
+  "synopsis": "The mischievous antics of a ghost in an ancient village.\n(Source: AniDB)",
+  "title": {
+    "jp": "Ryuuichi Manga Gekijou Onbu Obake"
+  },
+  "releasedAt": "1972-10-07T00:00:00.000Z",
+  "finishedAt": "1973-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5442/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5442",
+    "anidb": "5491",
+    "anilist/anime": "8685",
+    "aozora": "yS1dzu28he",
+    "myanimelist/anime": "8685"
+  }
+}

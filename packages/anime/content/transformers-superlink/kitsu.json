@@ -1,0 +1,38 @@
+{
+  "slug": "transformers-superlink",
+  "synopsis": "It has been 10 years since the fateful battle with Unicron. Many of the Decepticons who fought in the battle against Unicron have joined forces with the Autobos to mine for Energon, an alternate energy source. But a new source of evil has a risen, Alpha Q who plans to steal the Energon from the Autobots with the help of Scorponok and the Terrorcons. This new evil is trying to revive Megatron and Unicron in order to rekindle the old flames of war. \n(Source: ANN)",
+  "title": {
+    "en": "Transformers Energon",
+    "jp": "Transformers Superlink"
+  },
+  "releasedAt": "2004-01-09T00:00:00.000Z",
+  "finishedAt": "2004-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/825/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "earth",
+    "future",
+    "mecha",
+    "other planet",
+    "robot helper",
+    "science fiction",
+    "space",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "825",
+    "anidb": "1342",
+    "anilist/anime": "927",
+    "aozora": "lqlxkWeuWz",
+    "myanimelist/anime": "927",
+    "thetvdb": "72776/1",
+    "thetvdb/series": "72776",
+    "trakt": "10417"
+  }
+}

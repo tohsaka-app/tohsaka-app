@@ -1,0 +1,26 @@
+{
+  "slug": "irokoizata-wa-subete-sakuzu-de-kaiketsu-kanou-aru-koto-no-shoumei",
+  "synopsis": "\"To the kids who say they'll never use mathematics in daily life.\"",
+  "title": {
+    "en": "Proof Geometric Construction Can Solve All Love Affairs",
+    "jp": "Irokoizata wa Subete Sakuzu de Kaiketsu Kanou Aru Koto no Shoumei"
+  },
+  "releasedAt": "2017-02-20T00:00:00.000Z",
+  "finishedAt": "2017-02-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45413/poster_image/a69d27b99f97604a3b6628a5d3207967.jpg",
+  "categories": [
+    "comedy",
+    "music",
+    "romance"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=yoHR8qwuqmY"
+  ],
+  "relations": {
+    "kitsu": "45413",
+    "anilist/anime": "122016"
+  }
+}

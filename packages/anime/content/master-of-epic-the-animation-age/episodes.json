@@ -1,0 +1,110 @@
+[
+  {
+    "title": {
+      "jp": "Today's topic: R.P.G."
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2007-01-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Today's topic: Death"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2007-01-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Today's topic: Races"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2007-01-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Today's topic: Friendship"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2007-01-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Today's topic: Skill"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2007-02-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Today's topic: Heavy"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2007-02-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Today's topic: Party"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2007-02-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Today's topic: Shippu"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2007-02-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Today's topic: Beauty"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2007-03-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Today's topic: Nothing"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2007-03-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Today's topic: Cooking"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2007-03-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Today's topic: Healing"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2007-03-25T00:00:00.000Z",
+    "content": {}
+  }
+]

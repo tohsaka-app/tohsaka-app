@@ -1,0 +1,21 @@
+{
+  "slug": "oyama-no-taishou",
+  "synopsis": "A song adaptation of the children's game King of the Hill.",
+  "title": {
+    "jp": "Oyama no Taishou"
+  },
+  "releasedAt": "1967-06-01T00:00:00.000Z",
+  "finishedAt": "1967-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40886/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40886",
+    "anilist/anime": "139038",
+    "aozora": "3Lsh9QgCSh",
+    "myanimelist/anime": "36301"
+  }
+}

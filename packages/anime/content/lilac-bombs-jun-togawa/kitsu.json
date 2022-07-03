@@ -1,0 +1,24 @@
+{
+  "slug": "lilac-bombs-jun-togawa",
+  "synopsis": "Music video for Vampillia's \"lilac (bombs Jun Togawa).\"",
+  "title": {
+    "jp": "lilac (bombs Jun Togawa)"
+  },
+  "releasedAt": "2015-09-27T00:00:00.000Z",
+  "finishedAt": "2015-09-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11676/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11676",
+    "anidb": "11700",
+    "anilist/anime": "102610",
+    "aozora": "y7G2ibl24v",
+    "myanimelist/anime": "31830"
+  }
+}

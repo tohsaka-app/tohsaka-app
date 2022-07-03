@@ -1,0 +1,25 @@
+{
+  "slug": "joukyou-monogatari",
+  "synopsis": "A short animation by Taku Furukawa. ",
+  "title": {
+    "en": "Tyo Story",
+    "jp": "Joukyou Monogatari"
+  },
+  "releasedAt": "1999-01-01T00:00:00.000Z",
+  "finishedAt": "1999-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10816/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10816",
+    "anidb": "11441",
+    "anilist/anime": "103920",
+    "aozora": "K9u3ihowjD",
+    "myanimelist/anime": "30392"
+  }
+}

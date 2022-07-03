@@ -1,0 +1,23 @@
+{
+  "slug": "america-we-are-all-right",
+  "synopsis": "MV for the song America - We are all right! by Jin featuring IA.",
+  "title": {
+    "jp": "America - We are all right!"
+  },
+  "releasedAt": "2013-10-10T00:00:00.000Z",
+  "finishedAt": "2013-10-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44553/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=bXlEiyQvNrA"
+  ],
+  "relations": {
+    "kitsu": "44553"
+  }
+}

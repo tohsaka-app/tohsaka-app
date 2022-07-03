@@ -1,0 +1,37 @@
+{
+  "slug": "abarenbou-kishi-matsutarou",
+  "synopsis": "Matsutarou Sakaguchi is a giant roughneck man with strength far beyond ordinary people. He never uttered words like \"work hard,\" \"strive,\" and \"dream\" like the typical shounen manga protagonist. However, he is stronger than anyone and peerless in sumo wrestling. His greatest weakness is his own carefree personality. He grows into a full-fledged sumo wrestler.\n(Source: ANN)",
+  "title": {
+    "en": "Rowdy Sumo Wrestler Matsutaro!!",
+    "jp": "Abarenbou Rikishi!! Matsutarou"
+  },
+  "releasedAt": "2014-04-06T00:00:00.000Z",
+  "finishedAt": "2014-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8384/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "combat",
+    "comedy",
+    "historical",
+    "past",
+    "sports",
+    "wrestling"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/rowdy-sumo-wrestler-matsutaro",
+    "https://tubitv.com/series/1837"
+  ],
+  "relations": {
+    "kitsu": "8384",
+    "anidb": "10462",
+    "anilist/anime": "20639",
+    "aozora": "77JVPVz1W2",
+    "myanimelist/anime": "22831",
+    "thetvdb": "279042/1",
+    "thetvdb/series": "279042",
+    "trakt": "76335"
+  }
+}

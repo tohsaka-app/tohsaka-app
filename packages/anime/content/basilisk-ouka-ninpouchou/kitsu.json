@@ -1,0 +1,29 @@
+{
+  "slug": "basilisk-ouka-ninpouchou",
+  "synopsis": "The story is set 10 years after Basilisk: Kouga Ninpou Chou in 1626.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Basilisk: Ouka Ninpouchou"
+  },
+  "releasedAt": "2018-01-09T00:00:00.000Z",
+  "finishedAt": "2018-06-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13676/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "martial arts",
+    "tokugawa period"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13676",
+    "anidb": "13291",
+    "anilist/anime": "99569",
+    "aozora": "Zh3JOA9FRJ",
+    "hulu": "50034905",
+    "myanimelist/anime": "35964",
+    "thetvdb": "78881/2"
+  }
+}

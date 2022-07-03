@@ -1,0 +1,24 @@
+{
+  "slug": "orientation",
+  "synopsis": "The official music video for group_inou's song \"ORIENTATION\" from their 3rd album, \"DAY\".",
+  "title": {
+    "en": "ORIENTATION"
+  },
+  "releasedAt": "2012-11-07T00:00:00.000Z",
+  "finishedAt": "2012-11-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44796/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44796/original.jpg",
+  "categories": [
+    "music",
+    "satire"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=ZE2ywCcKkdQ"
+  ],
+  "relations": {
+    "kitsu": "44796"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "ano-hi-mita-hana-no-namae-wo-bokutachi-wa-mada-shiranai-movie",
+  "synopsis": "The TV series is retold through the different main characters' points of view with new additional material from their childhood, during the original series, and one year after the conclusion of the series.",
+  "title": {
+    "en": "anohana: The Flower We Saw That Day The Movie",
+    "jp": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie"
+  },
+  "releasedAt": "2013-08-31T00:00:00.000Z",
+  "finishedAt": "2013-08-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7200/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7200/original.jpg",
+  "categories": [
+    "asia",
+    "coming of age",
+    "drama",
+    "earth",
+    "friendship",
+    "ghost",
+    "japan",
+    "present",
+    "romance",
+    "slice of life",
+    "slow when it comes to love",
+    "unrequited love"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7200",
+    "anidb": "9356",
+    "anilist/anime": "15039",
+    "aozora": "b95tH9YRPo",
+    "myanimelist/anime": "15039"
+  }
+}

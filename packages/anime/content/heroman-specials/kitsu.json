@@ -1,0 +1,25 @@
+{
+  "slug": "heroman-specials",
+  "synopsis": "Heroman specials released in DVD/BD volumes 2, 5 and 8.",
+  "title": {
+    "jp": "Heroman Specials"
+  },
+  "releasedAt": "2010-09-22T00:00:00.000Z",
+  "finishedAt": "2011-03-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5609/original.jpg",
+  "categories": [
+    "action",
+    "science fiction",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5609",
+    "anilist/anime": "9121",
+    "aozora": "LhuLib3XVT",
+    "myanimelist/anime": "9121"
+  }
+}

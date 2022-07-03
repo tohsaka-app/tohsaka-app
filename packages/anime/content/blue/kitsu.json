@@ -1,0 +1,22 @@
+{
+  "slug": "blue",
+  "synopsis": "Music video for Blue by m@e.",
+  "title": {
+    "en": "Blue",
+    "jp": "Blue"
+  },
+  "releasedAt": "2021-04-24T00:00:00.000Z",
+  "finishedAt": "2021-04-24T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44462/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44462",
+    "myanimelist/anime": "48814"
+  }
+}

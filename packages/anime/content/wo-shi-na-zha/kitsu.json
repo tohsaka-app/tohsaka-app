@@ -1,0 +1,25 @@
+{
+  "slug": "wo-shi-na-zha",
+  "synopsis": "I Am Nezha is a 2016 Chinese animated film directed by Shu Zhan and is based on Fengshen Yanyi's Nezha.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "I Am Nezha",
+    "jp": "Wo Shi Na Zha"
+  },
+  "releasedAt": "2016-10-01T00:00:00.000Z",
+  "finishedAt": "2016-10-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41238/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41238",
+    "anidb": "13974",
+    "anilist/anime": "102511",
+    "myanimelist/anime": "37661"
+  }
+}

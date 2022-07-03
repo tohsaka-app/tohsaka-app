@@ -1,0 +1,22 @@
+{
+  "slug": "hagoromo",
+  "synopsis": "Puppet animation created based on the \"robe-of-feathers tradition\" which gets across to Mohonomatsubara.\n\nDepartment of Animation Graduate School of Film and New Media, first year work Tokyo University of the Arts.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Feather robe from heaven",
+    "jp": "Hagoromo"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45273/poster_image/0bca58629702875fedaab1a016070762.jpg",
+  "categories": [
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45273",
+    "anilist/anime": "114723"
+  }
+}

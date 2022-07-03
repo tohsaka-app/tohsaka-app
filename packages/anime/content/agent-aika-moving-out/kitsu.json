@@ -1,0 +1,23 @@
+{
+  "slug": "agent-aika-moving-out",
+  "synopsis": "A bonus episode about Aika and company moving to a new office. ",
+  "title": {
+    "jp": "AIKa: Special Trial"
+  },
+  "releasedAt": "1998-05-25T00:00:00.000Z",
+  "finishedAt": "1998-05-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3758/original.jpg",
+  "categories": [
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3758",
+    "anilist/anime": "4718",
+    "aozora": "moiouNBdbN",
+    "myanimelist/anime": "4718"
+  }
+}

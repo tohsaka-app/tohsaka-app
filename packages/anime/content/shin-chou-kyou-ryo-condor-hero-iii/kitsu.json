@@ -1,0 +1,37 @@
+{
+  "slug": "shin-chou-kyou-ryo-condor-hero-iii",
+  "synopsis": "Continuation of Legend of the Condor Hero II.",
+  "title": {
+    "en": "Legend of the Condor Hero III",
+    "jp": "Shin Chou Kyou Ryo: Condor Hero III"
+  },
+  "releasedAt": "2008-04-13T00:00:00.000Z",
+  "finishedAt": "2008-05-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4305/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "china",
+    "earth",
+    "historical",
+    "martial arts",
+    "past",
+    "plot continuity",
+    "romance",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4305",
+    "anidb": "6376",
+    "anilist/anime": "5854",
+    "aozora": "KhPK6PQ2Fc",
+    "myanimelist/anime": "5854",
+    "thetvdb": "79658",
+    "trakt": "37400"
+  }
+}

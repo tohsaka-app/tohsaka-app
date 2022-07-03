@@ -1,0 +1,27 @@
+{
+  "slug": "haikyuu-quest-picture-drama",
+  "synopsis": "Picture Drama episodes from the special contents DVD bundled with the Haikyuu!! 3DS game.",
+  "title": {
+    "jp": "Haikyuu!! Quest Picture Drama"
+  },
+  "releasedAt": "2014-09-25T00:00:00.000Z",
+  "finishedAt": "2014-09-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11395/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11395/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "shounen",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11395",
+    "anilist/anime": "107263",
+    "aozora": "LoI5nl1oft",
+    "myanimelist/anime": "31675"
+  }
+}

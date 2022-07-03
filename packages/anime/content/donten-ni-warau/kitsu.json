@@ -1,0 +1,42 @@
+{
+  "slug": "donten-ni-warau",
+  "synopsis": "When swords were outlawed in the eleventh year of the Meiji Era, the mighty samurai population began to dwindle. Those who rejected the ban on blades rebelled, causing violent unrest to erupt throughout the countryside. To combat the rise in criminal activity, an inescapable lake prison was constructed. Three young men, born of the Kumoh line, were given the duty of delivering criminals to their place of confinement—but could there be more to their mission than meets the eye?\n(Source: FUNimation)",
+  "title": {
+    "en": "Laughing Under the Clouds",
+    "jp": "Donten ni Warau"
+  },
+  "releasedAt": "2014-10-04T00:00:00.000Z",
+  "finishedAt": "2014-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7907/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7907/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "action",
+    "bakumatsu   meiji period",
+    "comedy",
+    "historical",
+    "past",
+    "samurai",
+    "slapstick",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/laughing-under-the-clouds",
+    "http://www.hulu.com/laughing-under-the-clouds",
+    "https://www.funimation.com/shows/laughing-under-the-clouds/"
+  ],
+  "relations": {
+    "kitsu": "7907",
+    "anidb": "10020",
+    "anilist/anime": "20817",
+    "aozora": "JSPWmeNdEP",
+    "hulu": "50018294",
+    "myanimelist/anime": "21743",
+    "thetvdb": "284439/1",
+    "thetvdb/series": "284439"
+  }
+}

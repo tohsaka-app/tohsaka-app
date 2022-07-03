@@ -1,0 +1,24 @@
+{
+  "slug": "timbre-a-to-z",
+  "synopsis": "A series of short films where Mirai Mizuki uploaded one abstract representation of a letter of the alphabet every day for 26 days.",
+  "title": {
+    "jp": "Timbre A to Z"
+  },
+  "releasedAt": "2011-01-22T00:00:00.000Z",
+  "finishedAt": "2011-02-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10217/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10217",
+    "anidb": "12216",
+    "anilist/anime": "103379",
+    "aozora": "97fNds25qf",
+    "myanimelist/anime": "28591"
+  }
+}

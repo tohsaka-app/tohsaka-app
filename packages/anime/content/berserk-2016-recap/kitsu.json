@@ -1,0 +1,32 @@
+{
+  "slug": "berserk-2016-recap",
+  "synopsis": "A recap of the Berserk (2016) anime TV series.",
+  "title": {
+    "jp": "Berserk Recap"
+  },
+  "releasedAt": "2017-03-02T00:00:00.000Z",
+  "finishedAt": "2017-03-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13458/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13458/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "drama",
+    "fantasy",
+    "friendship",
+    "horror",
+    "military",
+    "romance",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13458",
+    "aozora": "O2w3OMLSA6",
+    "myanimelist/anime": "35009"
+  }
+}

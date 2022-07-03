@@ -1,0 +1,23 @@
+{
+  "slug": "hataraku-onii-san-2",
+  "synopsis": "Second season of Hataraku Onii-san!",
+  "title": {
+    "en": "Working Buddies! 2",
+    "jp": "Hataraku Onii-san! No 2!"
+  },
+  "releasedAt": "2018-07-06T00:00:00.000Z",
+  "finishedAt": "2018-09-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41376/original.png",
+  "categories": [
+    "comedy",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41376"
+  }
+}

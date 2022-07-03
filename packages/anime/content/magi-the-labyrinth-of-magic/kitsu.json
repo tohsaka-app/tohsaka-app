@@ -1,0 +1,42 @@
+{
+  "slug": "magi-the-labyrinth-of-magic",
+  "synopsis": "Dispersed around the world, there are several bizarre labyrinths hiding incredible treasures within them. These mysterious places, known as \"Dungeons,\" are said to be the work of Magi, a class of rare magicians, who also help people build their empires by guiding them to a dungeon. Djinns, supernatural beings that rule over the labyrinths, grant successful conquerors access to their immense power and choose them as potential king candidates to rule the world.\nHaving spent life in isolation, Aladdin, a kind and young magician, is eager to explore the world upon finally leaving his home behind. He begins his journey only accompanied by his mentor Ugo—a djinn that Aladdin can summon with his flute. However, Aladdin soon becomes friends with the courageous Alibaba Saluja after causing the destruction of a local merchant's supply cart. In order to pay for the damages, Alibaba suggests that they attempt to conquer the nearest dungeon, taking the first step in an epic adventure that will decide the fate of the world itself.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Magi: The Labyrinth of Magic",
+    "jp": "Magi: The Labyrinth of Magic"
+  },
+  "releasedAt": "2012-10-07T00:00:00.000Z",
+  "finishedAt": "2013-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7129/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7129/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "conspiracy",
+    "desert",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "magic",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/magi",
+    "http://www.hulu.com/magi",
+    "http://www.netflix.com/title/80009097"
+  ],
+  "relations": {
+    "kitsu": "7129",
+    "anidb": "9268",
+    "anilist/anime": "14513",
+    "aozora": "ub6j8Qse6r",
+    "myanimelist/anime": "14513",
+    "thetvdb": "262094/1",
+    "thetvdb/season": "499951",
+    "thetvdb/series": "262094",
+    "trakt": "67797"
+  }
+}

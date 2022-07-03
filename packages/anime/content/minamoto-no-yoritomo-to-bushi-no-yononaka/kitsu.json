@@ -1,0 +1,25 @@
+{
+  "slug": "minamoto-no-yoritomo-to-bushi-no-yononaka",
+  "synopsis": "An educational film about Minamoto no Yoritomo. He founded the Kamakura shogunate which reigned from 1192 to 1333.",
+  "title": {
+    "jp": "Minamoto no Yoritomo to Bushi no Yononaka"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9455/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "kids",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9455",
+    "aozora": "Fih7LyPGgu",
+    "myanimelist/anime": "26277"
+  }
+}

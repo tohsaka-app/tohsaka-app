@@ -1,0 +1,24 @@
+{
+  "slug": "soratobu-usagi-no-yuukai-boushi-boku-iya-da-yo",
+  "synopsis": "An educational anime designed to prevent child abduction.\n(Source: AniDB)",
+  "title": {
+    "jp": "Soratobu Usagi no Yuukai Boushi: Boku Iya Da yo!"
+  },
+  "releasedAt": "1990-05-21T00:00:00.000Z",
+  "finishedAt": "1990-05-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9601/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9601",
+    "anidb": "10167",
+    "anilist/anime": "145407",
+    "aozora": "t3k0oyoGTa",
+    "myanimelist/anime": "21517"
+  }
+}

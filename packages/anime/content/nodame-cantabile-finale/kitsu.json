@@ -1,0 +1,37 @@
+{
+  "slug": "nodame-cantabile-finale",
+  "synopsis": "The series continues the relationship between two aspiring classical musicians, Megumi \"Nodame\" Noda and Shinichi Chiaki, as students and after graduation.",
+  "title": {
+    "jp": "Nodame Cantabile Finale"
+  },
+  "releasedAt": "2010-01-15T00:00:00.000Z",
+  "finishedAt": "2010-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4248/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4248/original.jpg",
+  "categories": [
+    "comedy",
+    "earth",
+    "europe",
+    "france",
+    "josei",
+    "music",
+    "present",
+    "romance",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4248",
+    "anidb": "7019",
+    "anilist/anime": "5690",
+    "aozora": "kA6jkFHLe8",
+    "myanimelist/anime": "5690",
+    "thetvdb": "80005/3",
+    "thetvdb/season": "174651",
+    "thetvdb/series": "80005",
+    "trakt": "62171"
+  }
+}

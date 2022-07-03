@@ -1,0 +1,23 @@
+{
+  "slug": "Out-Of-My-Head",
+  "synopsis": "Scottish synth-pop group CHVRCHES has shared a vibrant new song and visual featuring the Japanese EDM group Wednesday Campanella.\n\n\"Out My Head\" is accompanied by an animated music video by famed anime creatives Junichi Yamamoto and Yoshiki Imazu. Lauren Mayberry, the lead vocalist of CHVRCHES, has said that Japan is a special country for the band.\n\n(Source: billboard.com)",
+  "title": {
+    "jp": "Out Of My Head"
+  },
+  "releasedAt": "2018-08-03T00:00:00.000Z",
+  "finishedAt": "2018-08-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42859/original.jpg",
+  "categories": [
+    "music",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42859",
+    "anilist/anime": "103939",
+    "myanimelist/anime": "38142"
+  }
+}

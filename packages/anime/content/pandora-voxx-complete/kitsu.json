@@ -1,0 +1,19 @@
+{
+  "slug": "pandora-voxx-complete",
+  "synopsis": "",
+  "title": {
+    "jp": "PANDORA VOXX complete"
+  },
+  "releasedAt": "2013-03-27T00:00:00.000Z",
+  "finishedAt": "2013-03-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41636/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41636",
+    "myanimelist/anime": "36631"
+  }
+}

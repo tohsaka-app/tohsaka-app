@@ -1,0 +1,32 @@
+{
+  "slug": "recorder-to-randoseru-mi",
+  "synopsis": "Third season of Recorder to Randoseru.",
+  "title": {
+    "jp": "Recorder to Randoseru Mi☆"
+  },
+  "releasedAt": "2013-07-08T00:00:00.000Z",
+  "finishedAt": "2013-09-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7695/original.png",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/recorder-and-randsell"
+  ],
+  "relations": {
+    "kitsu": "7695",
+    "anidb": "9802",
+    "anilist/anime": "18099",
+    "aozora": "mewcFOgfct",
+    "myanimelist/anime": "18099",
+    "thetvdb": "254652/3",
+    "thetvdb/season": "519254",
+    "thetvdb/series": "254652",
+    "trakt": "52535"
+  }
+}

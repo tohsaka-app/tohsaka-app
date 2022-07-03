@@ -1,0 +1,33 @@
+{
+  "slug": "my-little-pony-the-movie",
+  "synopsis": "My Little Pony the Movie follows the alicorn Twilight Sparkle, her five pony friends – collectively known as the \"Mane 6\" – and her dragon friend Spike embarking on a quest to save their home of Equestria from an evil conqueror while gaining new friends in the process.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "My Little Pony: The Movie",
+    "jp": "My Little Pony: ~ Tomodachi wa Mahou ~ The Movie"
+  },
+  "releasedAt": "2017-10-06T00:00:00.000Z",
+  "finishedAt": "2017-10-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44352/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44352/original.jpg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "anthropomorphism",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "kids",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [
+    "https://tubitv.com/movies/575427/my-little-pony"
+  ],
+  "relations": {
+    "kitsu": "44352"
+  }
+}

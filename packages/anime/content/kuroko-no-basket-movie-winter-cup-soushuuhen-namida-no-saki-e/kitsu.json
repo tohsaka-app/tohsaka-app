@@ -1,0 +1,29 @@
+{
+  "slug": "kuroko-no-basket-movie-winter-cup-soushuuhen-namida-no-saki-e",
+  "synopsis": "Second of three compilation films of Kuroko no Basket.",
+  "title": {
+    "en": "Winter Cup Highlights -Beyond the Tears- (Part 2)",
+    "jp": "Kuroko no Basket Movie 2: Winter Cup - Namida no Saki e"
+  },
+  "releasedAt": "2016-10-08T00:00:00.000Z",
+  "finishedAt": "2016-10-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11890/original.jpg",
+  "categories": [
+    "basketball",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/kurokos-basketball"
+  ],
+  "relations": {
+    "kitsu": "11890",
+    "anilist/anime": "102836",
+    "aozora": "Slm214VR2O",
+    "myanimelist/anime": "32870"
+  }
+}

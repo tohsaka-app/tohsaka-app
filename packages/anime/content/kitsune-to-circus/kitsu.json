@@ -1,0 +1,27 @@
+{
+  "slug": "kitsune-to-circus",
+  "synopsis": "A fox steal the world's most valuable diamond and buries it under a tree, believing it to be well-hidden. The next day, a circus arrives and sets up its tent next to the tree, its animals unwittingly digging up the diamond they believe to be just a worthless rock. They soon lose the diamond inside the circus and the desperate fox attempts to retrieve the stolen diamond before the other animals realise what they have.\n(Source: AniDB)",
+  "title": {
+    "en": "The Big Top Crime",
+    "jp": "Kitsune to Circus"
+  },
+  "releasedAt": "1948-01-01T00:00:00.000Z",
+  "finishedAt": "1948-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9392/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9392",
+    "anidb": "10651",
+    "anilist/anime": "102091",
+    "aozora": "abANMG4oBt",
+    "myanimelist/anime": "24363"
+  }
+}

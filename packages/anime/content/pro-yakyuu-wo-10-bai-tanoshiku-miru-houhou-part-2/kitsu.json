@@ -1,0 +1,26 @@
+{
+  "slug": "pro-yakyuu-wo-10-bai-tanoshiku-miru-houhou-part-2",
+  "synopsis": "Sequel of The Racing Baseball.",
+  "title": {
+    "jp": "Pro Yakyuu wo 10-bai Tanoshiku Miru Houhou Part 2"
+  },
+  "releasedAt": "1984-04-21T00:00:00.000Z",
+  "finishedAt": "1984-04-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9929/original.jpg",
+  "categories": [
+    "baseball",
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9929",
+    "anidb": "6608",
+    "anilist/anime": "18341",
+    "aozora": "GsK4r1bC7R",
+    "myanimelist/anime": "18341"
+  }
+}

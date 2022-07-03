@@ -1,0 +1,32 @@
+{
+  "slug": "dr-stone-two",
+  "synopsis": "Modern society is lost when a mysterious light leaves everyone petrified in stone. Thousands of years in the future, super genius Senku awakens and begins restoring civilization with his Kingdom of Science. Now as he sets down blueprints for a smartphone in the stone world, Tsukasa and his Empire of Might prepare for the upcoming war.\n\n(Source: Anime News Network)",
+  "title": {
+    "jp": "Dr. Stone: Stone Wars"
+  },
+  "releasedAt": "2021-01-14T00:00:00.000Z",
+  "finishedAt": "2021-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42867/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/42867/cover_image/cce6faf509989672cde3a00726566147.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "disaster",
+    "future",
+    "plot continuity",
+    "post apocalypse",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42867",
+    "anidb": "15305",
+    "anilist/anime": "113936",
+    "myanimelist/anime": "40852"
+  }
+}

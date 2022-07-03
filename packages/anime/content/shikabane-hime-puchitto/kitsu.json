@@ -1,0 +1,24 @@
+{
+  "slug": "shikabane-hime-puchitto",
+  "synopsis": "Chibi comedy released as a DVD extra. ",
+  "title": {
+    "jp": "Shikabane Hime: Puchitto"
+  },
+  "releasedAt": "2009-08-05T00:00:00.000Z",
+  "finishedAt": "2009-08-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4868/original.jpg",
+  "categories": [
+    "comedy",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4868",
+    "anilist/anime": "7108",
+    "aozora": "s7U9uLs03O",
+    "myanimelist/anime": "7108"
+  }
+}

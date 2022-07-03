@@ -1,0 +1,20 @@
+{
+  "slug": "a-taste-of-tokyo",
+  "synopsis": "In the middle of Tokyo during the seventies, a man shares a moment of joy!",
+  "title": {},
+  "releasedAt": "2019-06-14T00:00:00.000Z",
+  "finishedAt": "2019-06-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42394/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42394/original.jpg",
+  "categories": [
+    "anime influenced",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42394"
+  }
+}

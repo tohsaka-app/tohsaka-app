@@ -1,0 +1,24 @@
+{
+  "slug": "candy-no-yume",
+  "synopsis": "A listless woman named Candy dreams about love and the future while letting tears flow.",
+  "title": {
+    "jp": "Candy no Yume"
+  },
+  "releasedAt": "1979-12-01T00:00:00.000Z",
+  "finishedAt": "1979-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13828/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13828",
+    "anilist/anime": "103512",
+    "aozora": "H9JYwnjQKc",
+    "myanimelist/anime": "36302"
+  }
+}

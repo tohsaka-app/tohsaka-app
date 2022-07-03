@@ -1,0 +1,24 @@
+{
+  "slug": "otanari-pool",
+  "synopsis": "Graduation work of Saki Morita at Tama Art University.",
+  "title": {
+    "en": "Otonari Pool",
+    "jp": "Otanari Pool"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45422/poster_image/99e27f502663794562e318c3b396107b.png",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/8kravEg21K4"
+  ],
+  "relations": {
+    "kitsu": "45422",
+    "anilist/anime": "140632"
+  }
+}

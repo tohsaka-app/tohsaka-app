@@ -1,0 +1,23 @@
+{
+  "slug": "wantama-days",
+  "synopsis": "MV for Inuyama Tamaki's first Single Wantama Days ☆.",
+  "title": {
+    "jp": "Wantama Days ☆"
+  },
+  "releasedAt": "2019-04-30T00:00:00.000Z",
+  "finishedAt": "2019-04-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44597/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=BAM3XXGzX9M"
+  ],
+  "relations": {
+    "kitsu": "44597"
+  }
+}

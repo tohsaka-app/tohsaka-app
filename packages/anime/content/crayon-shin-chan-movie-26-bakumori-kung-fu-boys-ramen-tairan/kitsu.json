@@ -1,0 +1,24 @@
+{
+  "slug": "crayon-shin-chan-movie-26-bakumori-kung-fu-boys-ramen-tairan",
+  "synopsis": "Kasukabe Team, including Shinnosuke, will be active in Kasukabe's Yokohama Street.",
+  "title": {
+    "jp": "Crayon Shin-chan Movie 26: Bakumori! Kung Fu Boys - Ramen Tairan"
+  },
+  "releasedAt": "2018-04-13T00:00:00.000Z",
+  "finishedAt": "2018-04-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13960/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13960",
+    "anidb": "13520",
+    "anilist/anime": "103690",
+    "aozora": "4INbSNgA3R",
+    "myanimelist/anime": "36566"
+  }
+}

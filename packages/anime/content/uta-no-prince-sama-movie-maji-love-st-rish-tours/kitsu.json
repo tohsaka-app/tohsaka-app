@@ -1,0 +1,30 @@
+{
+  "slug": "uta-no-prince-sama-movie-maji-love-st-rish-tours",
+  "synopsis": "The first installment of the new Uta no☆Prince-sama♪ original film series.",
+  "title": {
+    "jp": "Uta no☆Prince-sama♪ Movie: Maji Love ST☆RISH Tours"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44421/original.jpg",
+  "categories": [
+    "bishounen",
+    "comedy",
+    "harem",
+    "idol",
+    "music",
+    "reverse harem",
+    "romance",
+    "shoujo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44421",
+    "anidb": "16173",
+    "anilist/anime": "132055",
+    "myanimelist/anime": "48573"
+  }
+}

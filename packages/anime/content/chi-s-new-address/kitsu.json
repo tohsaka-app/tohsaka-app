@@ -1,0 +1,36 @@
+{
+  "slug": "chi-s-new-address",
+  "synopsis": "The Yamadas and Chi move to a new apartment house, where keeping a pet is allowed.",
+  "title": {
+    "en": "Chi's New Address",
+    "jp": "Chi's Sweet Home: Atarashii Ouchi"
+  },
+  "releasedAt": "2009-03-30T00:00:00.000Z",
+  "finishedAt": "2009-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4388/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4388/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "kids",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4388",
+    "anidb": "6452",
+    "anilist/anime": "6024",
+    "aozora": "t0d3HPlnZe",
+    "myanimelist/anime": "6024",
+    "thetvdb": "81844/2",
+    "thetvdb/season": "122641",
+    "thetvdb/series": "81844",
+    "trakt": "34039"
+  }
+}

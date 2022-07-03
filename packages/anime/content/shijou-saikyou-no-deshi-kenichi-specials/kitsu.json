@@ -1,0 +1,26 @@
+{
+  "slug": "shijou-saikyou-no-deshi-kenichi-specials",
+  "synopsis": "A brief summary of Kenichi's new life at Ryouzanpaku. \nIncluded as a bonus on the DVD volumes of the Shijou Saikyou no Deshi Kenichi OVA.",
+  "title": {
+    "jp": "Shijou Saikyou no Deshi Kenichi Specials"
+  },
+  "releasedAt": "2013-11-15T00:00:00.000Z",
+  "finishedAt": "2014-05-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8619/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "martial arts",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8619",
+    "anilist/anime": "101928",
+    "aozora": "RhT8CudMOu",
+    "myanimelist/anime": "24029"
+  }
+}

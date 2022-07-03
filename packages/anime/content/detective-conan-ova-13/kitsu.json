@@ -1,0 +1,24 @@
+{
+  "slug": "detective-conan-ova-13",
+  "synopsis": "Japanese publisher Shogakukan's listing of the limited edition of the 86th compiled volume of Gosho Aoyama's Detective Conan (Case Closed) manga confirms that the limited edition will bundle a 92-minute video anime on DVD.\n\n(Source: ANN)",
+  "title": {
+    "en": "Case Closed OVA 13",
+    "jp": "Meitantei Conan"
+  },
+  "releasedAt": "2015-04-15T00:00:00.000Z",
+  "finishedAt": "2015-04-15T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10622/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "cops",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10622"
+  }
+}

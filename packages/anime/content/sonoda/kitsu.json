@@ -1,0 +1,22 @@
+{
+  "slug": "Sonoda",
+  "synopsis": "A soundless stop-motion paint on glass by Koji Yamamura showcasing the seasons. It is stated to have been created in 1988 early in his career but it is unknown if it was ever publicly showcased prior to Yamamura uploading this piece to his own YouTube channel in 2019.",
+  "title": {
+    "jp": "Sonoda"
+  },
+  "releasedAt": "2019-07-25T00:00:00.000Z",
+  "finishedAt": "2019-07-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42837/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42837",
+    "anilist/anime": "113332",
+    "myanimelist/anime": "40163"
+  }
+}

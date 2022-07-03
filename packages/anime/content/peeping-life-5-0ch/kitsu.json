@@ -1,0 +1,26 @@
+{
+  "slug": "peeping-life-5-0ch",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Peeping Life 5.0ch"
+  },
+  "releasedAt": "2012-02-03T00:00:00.000Z",
+  "finishedAt": "2012-02-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7892/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7892",
+    "anidb": "9774",
+    "anilist/anime": "19849",
+    "aozora": "6DimQkaQuB",
+    "myanimelist/anime": "19849"
+  }
+}

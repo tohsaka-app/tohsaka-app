@@ -1,0 +1,31 @@
+{
+  "slug": "mandalaya-no-ryouta-kukidani-onsen-enshou-soudou-tan",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Mandalaya no Ryouta: Kukidani Onsen Enshou Soudou Tan"
+  },
+  "releasedAt": "1989-09-25T00:00:00.000Z",
+  "finishedAt": "1989-09-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7563/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "japan",
+    "present",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7563",
+    "anidb": "7689",
+    "anilist/anime": "16994",
+    "aozora": "hKBnG3R2Ln",
+    "myanimelist/anime": "16994"
+  }
+}

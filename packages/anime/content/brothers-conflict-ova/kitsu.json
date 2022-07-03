@@ -1,0 +1,27 @@
+{
+  "slug": "brothers-conflict-ova",
+  "synopsis": "According to its official site, Brothers Conflict will get two OVAs about Christmas and Valentine's Day released in 2014 and 2015. New OP and ED songs by the same singers will be presented in these two OVAs.\n(Source: MAL News)",
+  "title": {
+    "jp": "Brothers Conflict OVA"
+  },
+  "releasedAt": "2014-12-19T00:00:00.000Z",
+  "finishedAt": "2015-02-11T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8726/original.jpg",
+  "categories": [
+    "bishounen",
+    "harem",
+    "reverse harem",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8726",
+    "anidb": "10809",
+    "anilist/anime": "20916",
+    "aozora": "Jw6imAxNCc",
+    "myanimelist/anime": "25437"
+  }
+}

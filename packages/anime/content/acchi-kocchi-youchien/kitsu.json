@@ -1,0 +1,21 @@
+{
+  "slug": "acchi-kocchi-youchien",
+  "synopsis": "One-minute long Acchi Kocchi specials that aired at the end of each eps.  It was released on the BD/DVD discs of the series as clean ver. later. ",
+  "title": {
+    "en": "Place to Place Kindergarten",
+    "jp": "Acchi Kocchi Youchien"
+  },
+  "releasedAt": "2012-04-06T00:00:00.000Z",
+  "finishedAt": "2012-06-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7750/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7750"
+  }
+}

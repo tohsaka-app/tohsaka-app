@@ -1,0 +1,25 @@
+{
+  "slug": "kamiusagi-rope-x-panasonic-collaboration",
+  "synopsis": "A collaborative advertisement video between Kamiusagi Rope and Panasonic, where Rope and Akira interact with Panasonic's new surround headphones.",
+  "title": {
+    "en": "Paper Rabbit Rope x Panasonic Collaboration",
+    "jp": "Kamiusagi Rope x Panasonic Collaboration"
+  },
+  "releasedAt": "2012-03-19T00:00:00.000Z",
+  "finishedAt": "2012-03-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7039/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7039",
+    "anilist/anime": "13827",
+    "aozora": "acj9WhqG4z",
+    "myanimelist/anime": "13827"
+  }
+}

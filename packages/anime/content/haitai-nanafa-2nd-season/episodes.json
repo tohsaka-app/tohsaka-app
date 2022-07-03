@@ -1,0 +1,93 @@
+[
+  {
+    "title": {
+      "jp": "Hello! The Mysterious Drunk Girl."
+    },
+    "season": 2,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/109738/original.jpg",
+    "releasedAt": "2013-04-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Happy Birthday, Nanafa!"
+    },
+    "season": 2,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/109739/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Secret of Elder Sister Nao."
+    },
+    "season": 2,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/109740/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Raana's Showtime!"
+    },
+    "season": 2,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/109741/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 5,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 6,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 7,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 8,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 9,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 2,
+    "number": 10,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 11,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 12,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 13,
+    "content": {}
+  }
+]

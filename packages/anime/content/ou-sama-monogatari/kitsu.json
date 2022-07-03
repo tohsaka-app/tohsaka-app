@@ -1,0 +1,23 @@
+{
+  "slug": "ou-sama-monogatari",
+  "synopsis": "Stop-motion animation made out of fabric following a curious king sneaking out of his castle.",
+  "title": {
+    "jp": "Ousama Monogatari"
+  },
+  "releasedAt": "2007-05-21T00:00:00.000Z",
+  "finishedAt": "2018-11-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10298/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10298",
+    "aozora": "Z2XrcrVgD5",
+    "myanimelist/anime": "29399"
+  }
+}

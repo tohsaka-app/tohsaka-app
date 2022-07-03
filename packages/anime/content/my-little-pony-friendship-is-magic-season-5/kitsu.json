@@ -1,0 +1,33 @@
+{
+  "slug": "my-little-pony-friendship-is-magic-season-5",
+  "synopsis": "Season 5 of My Little Pony Friendship is Magic",
+  "title": {
+    "en": "My Little Pony Friendship is Magic: Season 5",
+    "jp": "My Little Pony: ~ Tomodachi wa Mahou ~ 5"
+  },
+  "releasedAt": "2015-04-04T00:00:00.000Z",
+  "finishedAt": "2015-11-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44272/original.jpeg",
+  "categories": [
+    "anime influenced",
+    "anthropomorphism",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "kids",
+    "magic",
+    "magical girl",
+    "slice of life"
+  ],
+  "externals": [
+    "Seen “My Little Pony: Friendship Is Magic” on Netflix yet?  https://www.netflix.com/title/70234440?s=i&trkid=13747225"
+  ],
+  "relations": {
+    "kitsu": "44272",
+    "thetvdb": "212171/5"
+  }
+}

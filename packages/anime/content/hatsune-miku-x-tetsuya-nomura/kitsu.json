@@ -1,0 +1,25 @@
+{
+  "slug": "hatsune-miku-x-tetsuya-nomura",
+  "synopsis": "A collaboration video of HATSUNE MIKU x TETSUYA NOMURA (SQUARE ENIX) was screened at Hatsune Miku Art Exhibition \"Universal Positivity\"@Wallplay (Oct.9th-Oct.19th), as a part of HATSUNE MIKU EXPO 2014 in New York.\n(Source: YouTube)",
+  "title": {
+    "jp": "Hatsune Miku x Tetsuya Nomura"
+  },
+  "releasedAt": "2014-10-09T00:00:00.000Z",
+  "finishedAt": "2014-10-09T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10041/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10041/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10041",
+    "anidb": "11535",
+    "anilist/anime": "105960",
+    "aozora": "M5XXUzMnmU",
+    "myanimelist/anime": "28439"
+  }
+}

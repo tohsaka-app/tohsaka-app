@@ -1,0 +1,30 @@
+{
+  "slug": "koroshiya-san-the-hired-gun",
+  "synopsis": "The comedy story follows the title character, who is regarded by himself and others as the best hit man in Japan. He goes by the motto, \"If I have an assignment, I will kill anything.\" However, his \"killing\" assignments have expanded to include everything from summer vacation homework to housekeeping. \"The hit man never fails to kill the target. Though he does not aim to, he also never misses the laughter.\"\n(Source: ANN)",
+  "title": {
+    "jp": "Koroshiya-san: The Hired Gun"
+  },
+  "releasedAt": "2013-10-11T00:00:00.000Z",
+  "finishedAt": "2013-12-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8025/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "cops",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8025",
+    "anidb": "9979",
+    "anilist/anime": "20329",
+    "aozora": "qu25oLdOWP",
+    "myanimelist/anime": "20329",
+    "thetvdb": "274544/1",
+    "thetvdb/series": "274544",
+    "trakt": "73581"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "fate-stay-night-movie-heaven-s-feel-3",
+  "synopsis": "Final of three movies in an adaptation of the third route of Fate/stay night.",
+  "title": {
+    "en": "Fate/stay night: Heaven's Feel - III. Spring Song",
+    "jp": "Gekijouban Fate/stay night: Heaven's Feel - III. Spring Song"
+  },
+  "releasedAt": "2020-08-15T00:00:00.000Z",
+  "finishedAt": "2020-08-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12008/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12008/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12008",
+    "anilist/anime": "21719",
+    "aozora": "EIUpl5pgUq",
+    "myanimelist/anime": "33050"
+  }
+}

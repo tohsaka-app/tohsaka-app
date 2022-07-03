@@ -1,0 +1,25 @@
+{
+  "slug": "hibari-no-yadogae",
+  "synopsis": "Short movie from 1933.",
+  "title": {
+    "en": null,
+    "jp": "Hibari no Yadogae"
+  },
+  "releasedAt": "1933-01-31T00:00:00.000Z",
+  "finishedAt": "1933-01-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4311/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4311",
+    "anidb": "6712",
+    "anilist/anime": "5870",
+    "aozora": "W4xcHKfbPM",
+    "myanimelist/anime": "5870"
+  }
+}

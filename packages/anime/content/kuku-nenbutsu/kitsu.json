@@ -1,0 +1,24 @@
+{
+  "slug": "kuku-nenbutsu",
+  "synopsis": "Music video directed by Takashi Taniguchi for the song Kuku★Nenbutsu by Japanese rock band 88Kasyo Junrei that was featured on their fourth studio album \"0088\".",
+  "title": {
+    "jp": "Kuku★Nenbutsu"
+  },
+  "releasedAt": "2013-09-11T00:00:00.000Z",
+  "finishedAt": "2013-09-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44433/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44433/original.png",
+  "categories": [
+    "comedy",
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44433",
+    "myanimelist/anime": "42015"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "fate-grand-order-first-order",
+  "synopsis": "The Chaldea Security Organization was founded to focus on preserving the continuation of human history. They observe a world which magecraft couldn’t observe, and science couldn’t measure, all to prevent the certain extinction of humanity. But one day, the future that Chaldea continued to observe disappears and humanity’s extinction in 2017 becomes clear. Based on the assumption that Fuyuki, a provincial town in Japan, is the reason for humanity’s extinction, Chaldea issues an order to explore, investigate, and possibly destroy this singularity – a quest for the Holy Grail, the Grand Order. (Source: Crunchyroll)",
+  "title": {
+    "en": "Fate/Grand Order -First Order-",
+    "jp": "Fate/Grand Order: First Order"
+  },
+  "releasedAt": "2016-12-31T00:00:00.000Z",
+  "finishedAt": "2016-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12710/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12710/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "asia",
+    "contemporary fantasy",
+    "drama",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "plot continuity",
+    "present",
+    "super power",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12710",
+    "anidb": "12519",
+    "anilist/anime": "97815",
+    "aozora": "lOXtM4rBpv",
+    "myanimelist/anime": "34321"
+  }
+}

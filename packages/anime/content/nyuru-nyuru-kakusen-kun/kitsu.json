@@ -1,0 +1,24 @@
+{
+  "slug": "nyuru-nyuru-kakusen-kun",
+  "synopsis": "The anime revolves around little creatures called \"Kakusen\" who live in the skin pores of humans.\n(Source: ANN)",
+  "title": {
+    "jp": "Nyuru Nyuru!! Kakusen-kun"
+  },
+  "releasedAt": "2013-07-09T00:00:00.000Z",
+  "finishedAt": "2013-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7830/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7830",
+    "anidb": "9943",
+    "anilist/anime": "19305",
+    "aozora": "62dVzNVxNZ",
+    "myanimelist/anime": "19305"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "pocari-sweat-bintang-sma",
+  "synopsis": "Pocari Sweat anime advertisement for the Indonesian market with Jakarta and Bali high school setting. Animated by Yoshitoshi Shinomiya (Garden of Words). Music by Sukima Switch (Fullmetal Alchemist: Brotherhood).",
+  "title": {
+    "en": "Pocari Sweat: Bintang SMA"
+  },
+  "releasedAt": "2019-09-06T00:00:00.000Z",
+  "finishedAt": "2019-09-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43591/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43591/original.png",
+  "categories": [
+    "anime influenced",
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=DCfk7tc_KqE"
+  ],
+  "relations": {
+    "kitsu": "43591",
+    "anilist/anime": "139182"
+  }
+}

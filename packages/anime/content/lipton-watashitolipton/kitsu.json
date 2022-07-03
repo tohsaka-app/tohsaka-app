@@ -1,0 +1,21 @@
+{
+  "slug": "lipton-watashitolipton",
+  "synopsis": "Lipton started a #watashitolipton campaign where people have to post a picture of themselves to Instagram or Twitter of them drinking a carton a Lipton while watching the anime. The winner of the campaign will be contacted and anime-ified as a character for 'episode 2'. And the 50 runner ups will receive a free Lipton carton. The deadline is September 7th.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Lipton #watashitolipton"
+  },
+  "releasedAt": "2018-07-20T00:00:00.000Z",
+  "finishedAt": "2018-10-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41883/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41883",
+    "myanimelist/anime": "38023"
+  }
+}

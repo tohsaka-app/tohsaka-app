@@ -1,0 +1,18 @@
+{
+  "slug": "delete2",
+  "synopsis": "Duplicate of https://kitsu.io/anime/eden-2020",
+  "title": {
+    "jp": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42646/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "42646"
+  }
+}

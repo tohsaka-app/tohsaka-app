@@ -1,0 +1,24 @@
+{
+  "slug": "pacific-rim-the-black-2",
+  "synopsis": "Season 2 of Pacific Rim: The Black",
+  "title": {
+    "en": "Pacific Rim: The Black Season 2",
+    "jp": "Pacific Rim: Ankoku no Tairiki 2"
+  },
+  "releasedAt": "2022-04-19T00:00:00.000Z",
+  "finishedAt": "2022-04-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44418/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44418"
+  }
+}

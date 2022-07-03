@@ -1,0 +1,21 @@
+{
+  "slug": "yukai-na-mezamashi-tokei",
+  "synopsis": "A song about an alarm clock being used every day.",
+  "title": {
+    "jp": "Yukai na Mezamashi Tokei"
+  },
+  "releasedAt": "1974-04-01T00:00:00.000Z",
+  "finishedAt": "1974-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40930/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40930",
+    "anilist/anime": "140360",
+    "aozora": "HVsNI37Q4P",
+    "myanimelist/anime": "36389"
+  }
+}

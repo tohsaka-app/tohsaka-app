@@ -1,0 +1,26 @@
+{
+  "slug": "hello-kitty-no-circus-ga-yatte-kita",
+  "synopsis": "Kitty and company are super excited for the circus that has come to town, but it might close down leaving everyone jobless and abandoned. It's up to them to get enough people to attend so it can make a profit.",
+  "title": {
+    "en": "Hello Kitty in The Circus Comes to Town",
+    "jp": "Hello Kitty no Circus ga Yatte Kita"
+  },
+  "releasedAt": "1992-07-21T00:00:00.000Z",
+  "finishedAt": "1992-07-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8997/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8997",
+    "anidb": "7860",
+    "anilist/anime": "136650",
+    "aozora": "gvExJ9ROcH",
+    "myanimelist/anime": "22455"
+  }
+}

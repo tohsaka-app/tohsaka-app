@@ -1,0 +1,24 @@
+{
+  "slug": "mida",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Mida"
+  },
+  "releasedAt": "2015-11-14T00:00:00.000Z",
+  "finishedAt": "2015-11-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11869/original.jpeg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "music",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11869"
+  }
+}

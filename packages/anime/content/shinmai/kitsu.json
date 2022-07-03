@@ -1,0 +1,23 @@
+{
+  "slug": "shinmai",
+  "synopsis": "Everyone is brand new (shinmai) at the beginning of their job. The story follows new rice (shinmai) grains in their jobs.",
+  "title": {
+    "jp": "Shinmai"
+  },
+  "releasedAt": "2008-04-15T00:00:00.000Z",
+  "finishedAt": "2008-04-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13037/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13037",
+    "aozora": "duEoCHk7Ci",
+    "myanimelist/anime": "34697"
+  }
+}

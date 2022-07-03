@@ -1,0 +1,36 @@
+{
+  "slug": "shakugan-no-shana-s",
+  "synopsis": "Find out what happens when Yuji accidentally triggers a found Treasure Tool while it's pointed at Shana! Then, Yuji teams up with Wilhelmina to stalk their fiery friend—whose secrecy has become unsettling. Finally, in a two-part special, Shana tracks a Denizen's trail by sorting through a Torch's memories for clues. Her sleuth skills reveal a teenage girl's heartwarming last days and a predator with a serious identity crisis!\n(Source: FUNimation)",
+  "title": {
+    "en": "Shakugan no Shana S: OVA Series",
+    "jp": "Shakugan no Shana S"
+  },
+  "releasedAt": "2009-10-23T00:00:00.000Z",
+  "finishedAt": "2010-09-29T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4616/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4616/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "japan",
+    "present",
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/shakugan-no-shana"
+  ],
+  "relations": {
+    "kitsu": "4616",
+    "anidb": "6757",
+    "anilist/anime": "6572",
+    "aozora": "QNdJg1kiec",
+    "myanimelist/anime": "6572"
+  }
+}

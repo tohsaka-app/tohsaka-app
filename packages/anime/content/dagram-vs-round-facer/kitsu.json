@@ -1,0 +1,25 @@
+{
+  "slug": "dagram-vs-round-facer",
+  "synopsis": "Flying Dougram battles in space.",
+  "title": {
+    "jp": "Dagram vs. Round-Facer"
+  },
+  "releasedAt": "1987-01-21T00:00:00.000Z",
+  "finishedAt": "1987-01-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8931/original.jpg",
+  "categories": [
+    "mecha",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8931",
+    "anilist/anime": "18795",
+    "aozora": "YMPKDp8Etv",
+    "myanimelist/anime": "18795"
+  }
+}

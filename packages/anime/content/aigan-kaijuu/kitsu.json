@@ -1,0 +1,22 @@
+{
+  "slug": "aigan-kaijuu",
+  "synopsis": "",
+  "title": {
+    "jp": "Aigan Kaijuu"
+  },
+  "releasedAt": "2018-10-07T00:00:00.000Z",
+  "finishedAt": "2019-09-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41968/original.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41968",
+    "anidb": "a14407"
+  }
+}

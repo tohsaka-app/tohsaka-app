@@ -1,0 +1,30 @@
+{
+  "slug": "papa-no-iukoto-wo-kikinasai-pokkapoka",
+  "synopsis": "Unaired episode included in the fifth Blu-ray and fourth DVD volume.",
+  "title": {
+    "en": "Listen to Me, Girls. I Am Your Father! Warm Fuzzies",
+    "jp": "Papa no Iukoto wo Kikinasai!: Pokkapoka"
+  },
+  "releasedAt": "2012-07-11T00:00:00.000Z",
+  "finishedAt": "2012-07-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6787/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6787/original.jpg",
+  "categories": [
+    "comedy",
+    "family",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/listen-to-me-girls-i-am-your-father-special"
+  ],
+  "relations": {
+    "kitsu": "6787",
+    "anilist/anime": "12673",
+    "aozora": "NZRGNHMtUr",
+    "myanimelist/anime": "12673"
+  }
+}

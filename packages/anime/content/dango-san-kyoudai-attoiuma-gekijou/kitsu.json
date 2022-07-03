@@ -1,0 +1,23 @@
+{
+  "slug": "dango-san-kyoudai-attoiuma-gekijou",
+  "synopsis": "The hit Danga San Kyoudai song was adapted into shorts that aired on NHK during commercial breaks in Okaasan to Issho's timeslot. The cheery series about three dango brothers was meant to give children quick lessons about sharing and humbleness.",
+  "title": {
+    "jp": "Dango San Kyoudai Attoiuma Gekijou"
+  },
+  "releasedAt": "1999-10-01T00:00:00.000Z",
+  "finishedAt": "2004-03-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8973/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8973",
+    "aozora": "2IJaePgu4R",
+    "myanimelist/anime": "23799"
+  }
+}

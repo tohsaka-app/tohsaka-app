@@ -1,0 +1,30 @@
+{
+  "slug": "bannou-yasai-ninninman",
+  "synopsis": "This is a short story about a little girl who dislikes eating her vegetables.",
+  "title": {
+    "jp": "Bannou Yasai Ninninman"
+  },
+  "releasedAt": "2011-03-05T00:00:00.000Z",
+  "finishedAt": "2011-03-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6209/original.jpg",
+  "categories": [
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "friendship",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6209",
+    "anidb": "8257",
+    "anilist/anime": "10501",
+    "aozora": "2kg0CHuPBb",
+    "myanimelist/anime": "10501"
+  }
+}

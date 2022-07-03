@@ -1,0 +1,922 @@
+[
+  {
+    "title": {
+      "jp": "Ryuu no Ou"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2014-04-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Eclipse Keikaku"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2014-04-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yousei Gunshi"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2014-04-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gray vs. Rufus"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2014-04-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Garou Kishidan"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2014-05-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail vs. Shokeinin (FT"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2014-05-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Moeru Daichi"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2014-05-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ore-tachi no Iru Basho"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2014-05-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ashita made no Kuni"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2014-05-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Erza vs. Kagura"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2014-06-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Zetsubou e Kasoku Suru Mirai"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2014-06-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kaeru"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2014-06-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gekirai!"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "2014-06-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gloria"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "2014-07-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tobira wo Shimeru Mono"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "2014-07-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Natsu vs. Rogue"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "2014-07-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Atashi no Bun made"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "2014-07-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Seven Dragon"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "2014-08-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Zirconis no Mahou"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "2014-08-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hito to Hito, Ryuu to Ryuu, Hito to Ryuu"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "2014-08-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tsumi to Gisei"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "2014-08-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Inochi no Jikan"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "2014-08-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ougon no Kusahara"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "2014-09-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Daibuyou Enbu"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "2014-09-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Seisou no Shizuku"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "2014-09-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Okurimono"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "2014-09-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Okaeri, Frosch"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "2014-10-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Moulin Rouge"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "2014-10-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Omotenashi, Inochi Kaketemasu!"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "2014-10-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hangyaku no Noroshi"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "2014-10-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Panic of Library"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "2014-11-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hisui Tatsu!"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "2014-11-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Astral Spirytus"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "2014-11-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Wendy vs. Aquerius, Yuuenchi de Asoba!"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "2014-11-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Guild Deck vs. Seirei Deck"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "2014-11-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gray vs. Cancer, Dance Battle!"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "2014-12-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Juvia vs. Aries, Sabaku no Shitou!"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "2014-12-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Erza vs. Sagittarius, Bajou no Kessen!"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "2014-12-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Natsu vs. Leo"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "2014-12-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hebitsukaiza no Ofiukusu"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "2015-01-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hoshi Michite Nagaruru Toki"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "2015-01-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Seireijuu"
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "2015-01-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Believe"
+    },
+    "season": 1,
+    "number": 43,
+    "releasedAt": "2015-01-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Magokoro ga Tsumugu Mono"
+    },
+    "season": 1,
+    "number": 44,
+    "releasedAt": "2015-02-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "413 Days"
+    },
+    "season": 1,
+    "number": 45,
+    "releasedAt": "2015-02-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hakugin no Meikyuu"
+    },
+    "season": 1,
+    "number": 46,
+    "releasedAt": "2015-02-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Henshin!"
+    },
+    "season": 1,
+    "number": 47,
+    "releasedAt": "2015-02-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kemokemo ga Kita!"
+    },
+    "season": 1,
+    "number": 48,
+    "releasedAt": "2015-03-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kimi no Kita Basho"
+    },
+    "season": 1,
+    "number": 49,
+    "releasedAt": "2015-03-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ikazuchi no Otoko"
+    },
+    "season": 1,
+    "number": 50,
+    "releasedAt": "2015-03-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail of the Dead Meeeeeeeeen"
+    },
+    "season": 1,
+    "number": 51,
+    "releasedAt": "2015-03-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Arata na Bouken no Asa"
+    },
+    "season": 1,
+    "number": 52,
+    "releasedAt": "2015-04-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Madoushi vs. Hunter"
+    },
+    "season": 1,
+    "number": 53,
+    "releasedAt": "2015-04-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Taika no Hou"
+    },
+    "season": 1,
+    "number": 54,
+    "releasedAt": "2015-04-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Akuma Kaiki"
+    },
+    "season": 1,
+    "number": 55,
+    "releasedAt": "2015-04-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gray vs. Doriarte"
+    },
+    "season": 1,
+    "number": 56,
+    "releasedAt": "2015-05-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Honoo no Koe"
+    },
+    "season": 1,
+    "number": 57,
+    "releasedAt": "2015-05-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Song of the Fairies"
+    },
+    "season": 1,
+    "number": 58,
+    "releasedAt": "2015-05-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen (Joshou): Kyuu Kimon"
+    },
+    "season": 1,
+    "number": 59,
+    "releasedAt": "2015-05-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen (Joshou): Yousei Tai Meifu"
+    },
+    "season": 1,
+    "number": 60,
+    "releasedAt": "2015-05-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen (Joshou): Shiroki Isan"
+    },
+    "season": 1,
+    "number": 61,
+    "releasedAt": "2015-06-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen (Joshou): Natsu vs. Jackal"
+    },
+    "season": 1,
+    "number": 62,
+    "releasedAt": "2015-06-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Haitoku to Zainin"
+    },
+    "season": 1,
+    "number": 63,
+    "releasedAt": "2015-06-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Jellal vs. Oración Seis (冥府の門編 ジェラール vs. 六魔将軍"
+    },
+    "season": 1,
+    "number": 64,
+    "releasedAt": "2015-06-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Inori ga Todoku Basho"
+    },
+    "season": 1,
+    "number": 65,
+    "releasedAt": "2015-07-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Akuma Tensei"
+    },
+    "season": 1,
+    "number": 66,
+    "releasedAt": "2015-07-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros Hen: Ikasu ka Korosu ka"
+    },
+    "season": 1,
+    "number": 67,
+    "releasedAt": "2015-07-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros Hen: Wendy vs. Ezel"
+    },
+    "season": 1,
+    "number": 68,
+    "releasedAt": "2015-07-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros Hen: Zutto Tomodachi de"
+    },
+    "season": 1,
+    "number": 69,
+    "releasedAt": "2015-08-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Hell's Core"
+    },
+    "season": 1,
+    "number": 70,
+    "releasedAt": "2015-08-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Meiou"
+    },
+    "season": 1,
+    "number": 71,
+    "releasedAt": "2015-08-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Alegria"
+    },
+    "season": 1,
+    "number": 72,
+    "releasedAt": "2015-08-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Hoshiboshi no Ichigeki"
+    },
+    "season": 1,
+    "number": 73,
+    "releasedAt": "2015-08-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Seireiou vs. Meiou"
+    },
+    "season": 1,
+    "number": 74,
+    "releasedAt": "2015-09-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Erza vs. Minerva"
+    },
+    "season": 1,
+    "number": 75,
+    "releasedAt": "2015-09-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Shounen no Monogatari"
+    },
+    "season": 1,
+    "number": 76,
+    "releasedAt": "2015-09-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Gray vs. Silver"
+    },
+    "season": 1,
+    "number": 77,
+    "releasedAt": "2015-09-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Giniro no Omoi"
+    },
+    "season": 1,
+    "number": 78,
+    "releasedAt": "2015-10-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Air"
+    },
+    "season": 1,
+    "number": 79,
+    "releasedAt": "2015-10-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Hagane"
+    },
+    "season": 1,
+    "number": 80,
+    "releasedAt": "2015-10-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Saigo no Ikkiuchi"
+    },
+    "season": 1,
+    "number": 81,
+    "releasedAt": "2015-10-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Zetsubou no Tsubasa"
+    },
+    "season": 1,
+    "number": 82,
+    "releasedAt": "2015-10-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Karyuu no Tekken"
+    },
+    "season": 1,
+    "number": 83,
+    "releasedAt": "2015-11-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: 00:00"
+    },
+    "season": 1,
+    "number": 84,
+    "releasedAt": "2015-11-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Suishou no Naka no Shoujo"
+    },
+    "season": 1,
+    "number": 85,
+    "releasedAt": "2015-11-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Zetsubou no Akuma"
+    },
+    "season": 1,
+    "number": 86,
+    "releasedAt": "2015-11-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Memento Mori"
+    },
+    "season": 1,
+    "number": 87,
+    "releasedAt": "2015-12-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Ishgar ni Mau"
+    },
+    "season": 1,
+    "number": 88,
+    "releasedAt": "2015-12-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen: Honoo no Shizuku"
+    },
+    "season": 1,
+    "number": 89,
+    "releasedAt": "2015-12-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tartaros-hen (Shuushou): Sore ga Ikiru Chikara Da"
+    },
+    "season": 1,
+    "number": 90,
+    "releasedAt": "2015-12-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail Zero: Kokoro no Naka no Yousei"
+    },
+    "season": 1,
+    "number": 91,
+    "releasedAt": "2016-01-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail Zero: Bouken no Hajimari"
+    },
+    "season": 1,
+    "number": 92,
+    "releasedAt": "2016-01-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail Zero: Treasure Hunt"
+    },
+    "season": 1,
+    "number": 93,
+    "releasedAt": "2016-01-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail Zero: Yaiba to Odoru"
+    },
+    "season": 1,
+    "number": 94,
+    "releasedAt": "2016-01-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail Zero: Tsukiakari no Mizuumi"
+    },
+    "season": 1,
+    "number": 95,
+    "releasedAt": "2016-02-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail Zero: Blue Skull"
+    },
+    "season": 1,
+    "number": 96,
+    "releasedAt": "2016-02-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail Zero: Madou wo Tsutaeru Mono"
+    },
+    "season": 1,
+    "number": 97,
+    "releasedAt": "2016-02-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail Zero: Takaramono"
+    },
+    "season": 1,
+    "number": 98,
+    "releasedAt": "2016-02-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail Zero: Law"
+    },
+    "season": 1,
+    "number": 99,
+    "releasedAt": "2016-03-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fairy Tail Zero: Eien no Bouken"
+    },
+    "season": 1,
+    "number": 100,
+    "releasedAt": "2016-03-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chousensha"
+    },
+    "season": 1,
+    "number": 101,
+    "releasedAt": "2016-03-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Honoo no Message"
+    },
+    "synopsis": "Fairy Tail is back, picking up where it left off, in the middle of the Grand Magic Games! But during a short break, Gajeel leads Natsu and Wendy to the underground dragon burial ground. Wendy uses her magic to communicate with a dragon's soul, which leads to them getting a revelatory history lesson involving two of their greatest foes!",
+    "season": 5,
+    "number": 102,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/170689/original.jpg",
+    "releasedAt": "2014-04-05T00:00:00.000Z",
+    "content": {}
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "slug": "satsuriku-no-tenshi-ona",
+  "synopsis": "Episodes 13-16 of Satsuriku no Tenshi.",
+  "title": {
+    "en": "Angels of Death ONA",
+    "jp": "Satsuriku no Tenshi ONA"
+  },
+  "releasedAt": "2018-10-05T00:00:00.000Z",
+  "finishedAt": "2018-10-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41963/original.jpg",
+  "categories": [
+    "adventure",
+    "horror",
+    "mystery",
+    "psychological",
+    "thriller",
+    "violence"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/angels-of-death"
+  ],
+  "relations": {
+    "kitsu": "41963",
+    "anidb": "13307"
+  }
+}

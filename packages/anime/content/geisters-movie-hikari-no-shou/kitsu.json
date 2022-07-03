@@ -1,0 +1,24 @@
+{
+  "slug": "geisters-movie-hikari-no-shou",
+  "synopsis": "Recap of the first half of the TV series.",
+  "title": {
+    "en": "Geisters: Fractions of the Earth Recap",
+    "jp": "Geisters Movie: Hikari no Shou"
+  },
+  "releasedAt": "2002-08-17T00:00:00.000Z",
+  "finishedAt": "2002-08-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13512/original.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13512",
+    "aozora": "FrEKGWa3ou",
+    "myanimelist/anime": "35520"
+  }
+}

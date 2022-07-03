@@ -1,0 +1,29 @@
+{
+  "slug": "mobile-suit-sd-gundam-musha-knight-commando",
+  "synopsis": "The first episode, Musha, Knight, Commando: SD Gundam Emergency Sortie, features the three Gundams and a young girl named Riplin joining together to fight evil.\nThe second episode, Dawn of Paparu, Episode 103: Suginamu's Bride, stars Artesia in a fantasy-themed adventure.",
+  "title": {
+    "en": "Musha",
+    "jp": "Mobile Suit SD Gundam Musha, Knight, Commando"
+  },
+  "releasedAt": "1991-03-16T00:00:00.000Z",
+  "finishedAt": "1991-08-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5598/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "mecha",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5598",
+    "anidb": "3344",
+    "anilist/anime": "9087",
+    "aozora": "6cT61unqAI",
+    "myanimelist/anime": "9087"
+  }
+}

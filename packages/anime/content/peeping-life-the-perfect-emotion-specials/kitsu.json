@@ -1,0 +1,24 @@
+{
+  "slug": "peeping-life-the-perfect-emotion-specials",
+  "synopsis": "Special included in the Peeping Life: The Perfect Emotion's DVD release.",
+  "title": {
+    "jp": "Peeping Life: The Perfect Emotion Special"
+  },
+  "releasedAt": "2010-04-16T00:00:00.000Z",
+  "finishedAt": "2010-04-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7598/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7598",
+    "anilist/anime": "17161",
+    "aozora": "bI1TRdUqNo",
+    "myanimelist/anime": "17161"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "mahou-shoujo-magical-destroyers",
+  "synopsis": null,
+  "title": {
+    "jp": "Mahou Shoujo Magical Destroyers"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44586/original.jpg",
+  "categories": [
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44586"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "windy",
+  "synopsis": "Takaharu Shimizu's first direction work, a music video for a poet toto's solo debut single \"windy\".\n\n(Source: Official Website)",
+  "title": {
+    "jp": "Windy"
+  },
+  "releasedAt": "2011-05-22T00:00:00.000Z",
+  "finishedAt": "2011-05-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13846/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13846",
+    "anilist/anime": "102472",
+    "aozora": "8kiQLA2e9c",
+    "myanimelist/anime": "35979"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "robo-crosser",
+  "synopsis": "A 12 year old boy who together with his unicycle robot, try to win a motorbike race.",
+  "title": {
+    "en": null,
+    "jp": "Robo Crosser"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4278/original.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4278",
+    "anilist/anime": "5793",
+    "myanimelist/anime": "5793"
+  }
+}

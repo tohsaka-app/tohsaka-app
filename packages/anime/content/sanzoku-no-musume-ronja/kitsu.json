@@ -1,0 +1,37 @@
+{
+  "slug": "sanzoku-no-musume-ronja",
+  "synopsis": "The story is about a girl named Ronja who is the daughter of a chief of a tribe of bandits and lives in a huge castle in the forest with the bandits. The story follows Ronja as she encounters mystical creatures, makes friends with another young child like herself, and experiences life in the forest.",
+  "title": {
+    "en": "Ronja Rövardotter",
+    "jp": "Sanzoku no Musume Ronja"
+  },
+  "releasedAt": "2014-10-11T00:00:00.000Z",
+  "finishedAt": "2015-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8279/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8279/original.jpg",
+  "categories": [
+    "adventure",
+    "crime",
+    "fantasy world",
+    "friendship",
+    "past",
+    "plot continuity",
+    "thievery"
+  ],
+  "externals": [
+    "https://www.amazon.com/Moving-Out/dp/B01MZ4E6ZP"
+  ],
+  "relations": {
+    "kitsu": "8279",
+    "anidb": "10421",
+    "anilist/anime": "20617",
+    "aozora": "2ZKtytu1Ee",
+    "myanimelist/anime": "22359",
+    "thetvdb": "279527/1",
+    "thetvdb/series": "279527",
+    "trakt": "76592"
+  }
+}

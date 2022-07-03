@@ -1,0 +1,25 @@
+{
+  "slug": "fashion-no-hajimari",
+  "synopsis": "The theme of this animation is \"fashion\".\n(Source: aokijun.net)",
+  "title": {
+    "en": "Beginning of fashion",
+    "jp": "Fashion no Hajimari"
+  },
+  "releasedAt": "2005-11-01T00:00:00.000Z",
+  "finishedAt": "2005-11-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7030/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7030",
+    "anidb": "11536",
+    "anilist/anime": "13793",
+    "aozora": "gKVjK0Qzya",
+    "myanimelist/anime": "13793"
+  }
+}

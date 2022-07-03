@@ -1,0 +1,23 @@
+{
+  "slug": "niji-wo-kakenukete",
+  "synopsis": "Music video for Niji wo Kakenukete by AZKi.",
+  "title": {
+    "jp": "Niji wo Kakenukete"
+  },
+  "releasedAt": "2020-02-05T00:00:00.000Z",
+  "finishedAt": "2020-02-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43981/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=8zbO3ftH3ls&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43981"
+  }
+}

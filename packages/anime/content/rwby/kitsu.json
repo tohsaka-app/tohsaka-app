@@ -1,0 +1,28 @@
+{
+  "slug": "rwby",
+  "synopsis": "The story takes place in a world filled with monsters and supernatural forces. The series focuses on four girls, each with their own unique weapon and powers, who come together as a team at Beacon Academy in a place called Vale where they are trained to battle these forces alongside other similar teams. Prior to the events of the series, mankind waged a battle of survival against the shadowy creatures of the Grimm until they discovered the power of Dust, which allowed them to fight back the monsters. Dust is used to power magical abilities in the series.",
+  "title": {},
+  "releasedAt": "2013-07-18T00:00:00.000Z",
+  "finishedAt": "2013-11-07T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7929/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7929/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "fantasy",
+    "fantasy world"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/rwby",
+    "https://tubitv.com/movies/401721/rwby_volume_1",
+    "https://vrv.co/series/G609MWD26/RWBY",
+    "https://www.youtube.com/watch?v=-sGiE10zNQM&list=PLUBVPK8x-XMjxqbVg5aIjImKW6O64Ns1q"
+  ],
+  "relations": {
+    "kitsu": "7929"
+  }
+}

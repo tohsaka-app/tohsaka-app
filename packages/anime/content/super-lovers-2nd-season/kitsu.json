@@ -1,0 +1,30 @@
+{
+  "slug": "super-lovers-2nd-season",
+  "synopsis": "Second season of Super Lovers.",
+  "title": {
+    "en": "Super Lovers 2",
+    "jp": "Super Lovers 2"
+  },
+  "releasedAt": "2017-01-12T00:00:00.000Z",
+  "finishedAt": "2017-03-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12245/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "romance",
+    "shounen ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12245",
+    "anidb": "12197",
+    "anilist/anime": "21836",
+    "aozora": "vTQmm2KFVL",
+    "myanimelist/anime": "33417",
+    "thetvdb": "305101/2",
+    "trakt": "104318"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "sekaiichi-hatsukoi-ova",
+  "synopsis": "Two OVA episodes featuring additional stories. \nEpisode 0: Ritsu and Takano used to date back in high school, but broke up due to a misunderstanding. This is that story. \nEpisode 12.5: Hatori and Chiaki go to visit the latter's family. It's really awkward in many, many ways. ",
+  "title": {
+    "jp": "Sekaiichi Hatsukoi OVA"
+  },
+  "releasedAt": "2011-03-22T00:00:00.000Z",
+  "finishedAt": "2011-09-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5183/original.jpg",
+  "categories": [
+    "asia",
+    "bishounen",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "shounen ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5183",
+    "anidb": "7921",
+    "anilist/anime": "8063",
+    "aozora": "SFsF8esZYs",
+    "myanimelist/anime": "8063"
+  }
+}

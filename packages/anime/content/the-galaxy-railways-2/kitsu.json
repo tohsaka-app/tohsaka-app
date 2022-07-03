@@ -1,0 +1,39 @@
+{
+  "slug": "the-galaxy-railways-2",
+  "synopsis": "Second season.",
+  "title": {
+    "jp": "Ginga Tetsudou Monogatari: Eien e no Bunkiten"
+  },
+  "releasedAt": "2006-10-05T00:00:00.000Z",
+  "finishedAt": "2007-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2478/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2478/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "future",
+    "law and order",
+    "other planet",
+    "plot continuity",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space opera",
+    "space travel",
+    "special squads",
+    "steampunk"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2478",
+    "anidb": "4692",
+    "anilist/anime": "2717",
+    "aozora": "XLHlxdgNOa",
+    "myanimelist/anime": "2717",
+    "thetvdb": "82883",
+    "trakt": "8869"
+  }
+}

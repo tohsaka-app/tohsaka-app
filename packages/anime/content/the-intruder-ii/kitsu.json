@@ -1,0 +1,22 @@
+{
+  "slug": "the-intruder-ii",
+  "synopsis": "The first T.I.E. since the relaunch of Toonami on Adult Swim.",
+  "title": {},
+  "releasedAt": "2015-11-07T00:00:00.000Z",
+  "finishedAt": "2015-12-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42012/original.jpg",
+  "categories": [
+    "anime influenced",
+    "mecha",
+    "science fiction",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42012"
+  }
+}

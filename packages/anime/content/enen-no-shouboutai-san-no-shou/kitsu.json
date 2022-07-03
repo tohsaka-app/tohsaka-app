@@ -1,0 +1,29 @@
+{
+  "slug": "enen-no-shouboutai-san-no-shou",
+  "synopsis": "The third season of Enen no Shouboutai.",
+  "title": {
+    "en": "Fire Force Season 3",
+    "jp": "Enen no Shouboutai: San no Shou"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46119/poster_image/042a929b390d7cc172a08251df01f045.png",
+  "coverUrl": "https://media.kitsu.io/anime/46119/cover_image/d3ebbe78b15ea268b1e108b7b4862766.png",
+  "categories": [
+    "action",
+    "demon",
+    "drama",
+    "science fiction",
+    "shounen",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46119",
+    "anilist/anime": "149118"
+  }
+}

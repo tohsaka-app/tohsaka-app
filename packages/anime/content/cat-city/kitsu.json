@@ -1,0 +1,26 @@
+{
+  "slug": "cat-city",
+  "synopsis": "A fantasy world with only cats as far as the eye can see. The awe and fear a person can feel in a world that doesn’t know mankind, the world of Cat City invented by HAGIWARA Sakutaro, is depicted with sense by the art of KANAIDA Etsuko. The commercial editor URAHAMA Shojiro edits the story narrated by the musician and poet MACHIDA Kou with a taste of fantastic for this new Ga-nime. \n(Source: Toei-anim.co.jp)",
+  "title": {
+    "en": "Cat City",
+    "jp": "Neko Machi"
+  },
+  "releasedAt": "2006-08-01T00:00:00.000Z",
+  "finishedAt": "2006-08-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4498/original.jpg",
+  "categories": [
+    "fantasy",
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4498",
+    "anidb": "4608",
+    "anilist/anime": "6270",
+    "aozora": "sdu6oQGOGK",
+    "myanimelist/anime": "6270"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "kimi-no-kokoro-wa-kagayaiteru-kai",
+  "synopsis": "Music video included with the debut single for the Love Live! Sunshine!! anime idol group Aqours.",
+  "title": {
+    "jp": "Kimi no Kokoro wa Kagayaiteru kai?"
+  },
+  "releasedAt": "2015-10-07T00:00:00.000Z",
+  "finishedAt": "2015-10-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11608/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11608/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11608",
+    "anidb": "11645",
+    "anilist/anime": "99164",
+    "aozora": "H85651UD2R",
+    "myanimelist/anime": "31780"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "maison-ikkoku-prelude-meguru-haru-no-sakura-no-you-ni",
+  "synopsis": "A prequel of the Maison Ikkoku TV series focusing on Kyoko's relationship with her husband.",
+  "title": {
+    "en": "Maison Ikkoku: Prelude",
+    "jp": "Maison Ikkoku: Prelude - Meguru Haru no Sakura no you ni..."
+  },
+  "releasedAt": "1992-06-25T00:00:00.000Z",
+  "finishedAt": "1992-06-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3044/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "romance",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3044",
+    "anilist/anime": "3484",
+    "aozora": "sKzofzO49g",
+    "myanimelist/anime": "3484"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "kagee-anime-series",
+  "synopsis": "Shadow puppet animation. This OVA tells four old Japanese tales.",
+  "title": {
+    "jp": "Kagee Anime Series"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40675/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40675",
+    "aozora": "YqBTMViSfO",
+    "myanimelist/anime": "35052"
+  }
+}

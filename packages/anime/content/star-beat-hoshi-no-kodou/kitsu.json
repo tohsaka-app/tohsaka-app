@@ -1,0 +1,23 @@
+{
+  "slug": "star-beat-hoshi-no-kodou",
+  "synopsis": "Animated music video for \"STAR BEAT! ~Hoshi no Kodou~\", the second single of Bushiroad's BanG Dream! project band Poppin' Party.",
+  "title": {
+    "jp": "Star Beat!: Hoshi no Kodou"
+  },
+  "releasedAt": "2016-08-03T00:00:00.000Z",
+  "finishedAt": "2016-08-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12665/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12665",
+    "anilist/anime": "102714",
+    "aozora": "9vQYLv6X9p",
+    "myanimelist/anime": "34252"
+  }
+}

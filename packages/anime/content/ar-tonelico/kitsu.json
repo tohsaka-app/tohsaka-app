@@ -1,0 +1,32 @@
+{
+  "slug": "ar-tonelico",
+  "synopsis": "Based on the RPG game of the same name. Aurica Nestmile is a young Reyvateil, or \"singing maiden\" who feels her song magic is not of much use to anyone. From high up on the tower Ar Tonelico comes Lyner Barsett, whose airship is totaled upon impact with the ground. These two meet up, and in the search for someone who can repair the ship, end up helping both each other and themselves.",
+  "title": {
+    "jp": "Ar Tonelico: Sekai no Owari de Utai Tsuzukeru Shoujo"
+  },
+  "releasedAt": "2006-03-22T00:00:00.000Z",
+  "finishedAt": "2006-03-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1080/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "floating island",
+    "magic",
+    "mecha",
+    "plot continuity",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1080",
+    "anidb": "4156",
+    "anilist/anime": "1202",
+    "aozora": "vkgA9kC1EH",
+    "myanimelist/anime": "1202"
+  }
+}

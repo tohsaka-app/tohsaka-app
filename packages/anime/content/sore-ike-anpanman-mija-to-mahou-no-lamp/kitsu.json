@@ -1,0 +1,26 @@
+{
+  "slug": "sore-ike-anpanman-mija-to-mahou-no-lamp",
+  "synopsis": "",
+  "title": {
+    "en": "Let's Go! Anpanman: Mija and the Magic Lamp",
+    "jp": "Sore Ike! Anpanman: Mija to Mahou no Lamp"
+  },
+  "releasedAt": "2015-07-04T00:00:00.000Z",
+  "finishedAt": "2015-07-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10538/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10538",
+    "anidb": "11063",
+    "aozora": "3dX23CnyMQ",
+    "myanimelist/anime": "29901"
+  }
+}

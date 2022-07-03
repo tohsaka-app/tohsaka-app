@@ -1,0 +1,25 @@
+{
+  "slug": "anata-mo-robot-ni-nararu-feat-kamome-jidou-gasshoudan",
+  "synopsis": "An animated music video for Yura Yura Teikoku's song \"Anata mo Robot ni Nareru\" sung by the Kamome children's chorus to promote the original's 7inch Vinyl release on November 7th.",
+  "title": {
+    "en": "You Can Be A Robot",
+    "jp": "Anata mo Robot ni Nareru feat. Kamome Jidou Gasshoudan"
+  },
+  "releasedAt": "2014-10-21T00:00:00.000Z",
+  "finishedAt": "2014-10-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10792/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10792",
+    "anidb": "11404",
+    "anilist/anime": "143157",
+    "aozora": "kAe5TY6KnS",
+    "myanimelist/anime": "30431"
+  }
+}

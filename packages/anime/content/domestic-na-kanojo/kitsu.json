@@ -1,0 +1,32 @@
+{
+  "slug": "domestic-na-kanojo",
+  "synopsis": "Natsuo’s life suddenly becomes more complicated when his father comes home and announces he has remarried a woman with two daughters whom Natsuo has met before. They’re Hina, his teacher and unrequited crush, and Rui, a girl he previously slept with.\n\n(Source: HIDIVE)",
+  "title": {
+    "en": "Domestic Girlfriend",
+    "jp": "Domestic na Kanojo"
+  },
+  "releasedAt": "2019-01-12T00:00:00.000Z",
+  "finishedAt": "2019-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41479/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41479/original.jpg",
+  "categories": [
+    "drama",
+    "high school",
+    "love polygon",
+    "romance",
+    "school life",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/domestic-girlfriend",
+    "https://www.hidive.com/tv/domestic-girlfriend"
+  ],
+  "relations": {
+    "kitsu": "41479",
+    "anilist/anime": "103139",
+    "myanimelist/anime": "37982"
+  }
+}

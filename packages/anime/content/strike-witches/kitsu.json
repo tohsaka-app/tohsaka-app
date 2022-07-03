@@ -1,0 +1,49 @@
+{
+  "slug": "strike-witches",
+  "synopsis": "Strike Witches is set in an alternate version of 1944, where the events of World War II are very different than what we know to be true. Alien invaders known as the Neuroi came to Earth in 1939. This is not the first appearance of the Neuroi as they have appeared at seemingly random intervals throughout human history. While the Neuroi primarily attack humanity using aircrafts, their mothership is able to produce a deadly miasma, a chemical that is fatally poisonous to humans, forcing the populations of affected areas to flee their homes. The Neuroi then use the poisoned areas to plunder Earth's natural resources to use against humanity. Luckily the miasma cannot spread across water, making the ocean humanity's main line of defense against the Neuroi.\nWith normal humans unable to fight in the miasma, witches have become the forefront of military defense against the Neuroi. Each witch is able to deploy a defensive field around themselves that not only blocks the miasma but protects them from physical attacks as well. Utilizing leg mounted machines called Striker Units to fly into combat, the witches use their magical abilities to wield devastating weapons too large and ungainly for a normal person. The series follows the battles fought by the 501st Joint Fighter Wing, who battle on the front lines to defend the British Isles from the Neuroi. Will humanity be able to take back Earth and bring peace to their home? Find out in Strike Witches!",
+  "title": {
+    "en": "Strike Witches",
+    "jp": "Strike Witches"
+  },
+  "releasedAt": "2008-07-04T00:00:00.000Z",
+  "finishedAt": "2008-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3179/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3179/original.jpg",
+  "categories": [
+    "action",
+    "alternative past",
+    "earth",
+    "ecchi",
+    "gunfights",
+    "juujin",
+    "loli",
+    "magic",
+    "mecha",
+    "military",
+    "past",
+    "power suit",
+    "science fiction",
+    "shoujo ai",
+    "war"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/strike-witches",
+    "http://www.funimation.com/shows/strike-witches/videos/episodes",
+    "http://www.hulu.com/strike-witches"
+  ],
+  "relations": {
+    "kitsu": "3179",
+    "anidb": "5970",
+    "anilist/anime": "3667",
+    "aozora": "4YBdWgBlkz",
+    "hulu": "50001181",
+    "myanimelist/anime": "3667",
+    "thetvdb": "82484/1",
+    "thetvdb/season": "33640",
+    "thetvdb/series": "82484",
+    "trakt": "61062"
+  }
+}

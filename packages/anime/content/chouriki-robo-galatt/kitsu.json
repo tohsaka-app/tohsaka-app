@@ -1,0 +1,28 @@
+{
+  "slug": "chouriki-robo-galatt",
+  "synopsis": "In a peaceful, disarmed world where small robots are utilized as housekeepers, villains act with huge robots instead of weapons. Dr. Keewee converts Michael’s robot into a transformable one in order to teach them a lesson. This is the birth of Galatt, the town hero.\n(Source: ANN)",
+  "title": {
+    "jp": "Chouriki Robo Galatt"
+  },
+  "releasedAt": "1984-10-05T00:00:00.000Z",
+  "finishedAt": "1985-04-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5510/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5510",
+    "anidb": "2470",
+    "anilist/anime": "8853",
+    "aozora": "S5vJ5bd9uA",
+    "myanimelist/anime": "8853"
+  }
+}

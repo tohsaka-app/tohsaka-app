@@ -1,0 +1,23 @@
+{
+  "slug": "uneasiness-and-triangle",
+  "synopsis": "One of Masanobu Hiraoka's earlier short animations.",
+  "title": {
+    "jp": "Uneasiness and Triangle"
+  },
+  "releasedAt": "2011-07-08T00:00:00.000Z",
+  "finishedAt": "2011-07-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42801/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42801",
+    "anilist/anime": "108242",
+    "myanimelist/anime": "38976"
+  }
+}

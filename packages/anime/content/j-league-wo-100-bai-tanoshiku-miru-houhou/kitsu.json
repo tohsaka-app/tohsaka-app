@@ -1,0 +1,26 @@
+{
+  "slug": "j-league-wo-100-bai-tanoshiku-miru-houhou",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "J League wo 100-bai Tanoshiku Miru Houhou!!"
+  },
+  "releasedAt": "1994-06-11T00:00:00.000Z",
+  "finishedAt": "1994-06-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9749/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9749",
+    "anidb": "8619",
+    "aozora": "9E0XXRm657",
+    "myanimelist/anime": "27561"
+  }
+}

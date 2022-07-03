@@ -1,0 +1,33 @@
+{
+  "slug": "beast-wars-neo",
+  "synopsis": "Beast Wars Neo was a television series that aired in Japan in 1999, in support of the toyline of the same name. It directly follows Beast Wars II.\nThe show follows the adventures of a crew of Maximals, commanded by Big Convoy, as they compete with Magmatron's evil Predacons to collect the Angolmois energy capsules, scattered at the end of Beast Wars II. ",
+  "title": {
+    "en": "Beast Wars Neo",
+    "jp": "Beast Wars Neo"
+  },
+  "releasedAt": "1999-02-03T00:00:00.000Z",
+  "finishedAt": "1999-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4587/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction",
+    "super power",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4587",
+    "anidb": "4202",
+    "anilist/anime": "6511",
+    "aozora": "2Tzckog3zj",
+    "myanimelist/anime": "6511",
+    "thetvdb": "73925/1",
+    "thetvdb/series": "73925",
+    "trakt": "11775"
+  }
+}

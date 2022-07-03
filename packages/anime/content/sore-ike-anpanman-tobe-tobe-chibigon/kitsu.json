@@ -1,0 +1,26 @@
+{
+  "slug": "sore-ike-anpanman-tobe-tobe-chibigon",
+  "synopsis": "3rd Anpanman short movie.",
+  "title": {
+    "jp": "Sore Ike! Anpanman: Tobe! Tobe! Chibigon"
+  },
+  "releasedAt": "1991-07-20T00:00:00.000Z",
+  "finishedAt": "1991-07-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6014/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6014",
+    "anidb": "7547",
+    "anilist/anime": "10057",
+    "aozora": "9qox0SEC7B",
+    "myanimelist/anime": "10057"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "tamagotchi",
+  "synopsis": "The stories will follow the daily lives of the Tamagotchi and feature new characters and settings. \n(Source: ANN) ",
+  "title": {
+    "jp": "Tamagotchi!"
+  },
+  "releasedAt": "2009-10-12T00:00:00.000Z",
+  "finishedAt": "2012-09-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4778/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4778",
+    "anidb": "7078",
+    "anilist/anime": "6900",
+    "aozora": "7NWkSFE2c2",
+    "myanimelist/anime": "6900"
+  }
+}

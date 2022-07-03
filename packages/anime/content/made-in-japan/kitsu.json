@@ -1,0 +1,24 @@
+{
+  "slug": "made-in-japan",
+  "synopsis": "Film by Kinoshita Renzo.",
+  "title": {
+    "en": "",
+    "jp": "Made in Japan"
+  },
+  "releasedAt": "1972-01-01T00:00:00.000Z",
+  "finishedAt": "1972-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10980/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10980",
+    "anilist/anime": "143156",
+    "aozora": "33MyXEfsHE",
+    "myanimelist/anime": "30673"
+  }
+}

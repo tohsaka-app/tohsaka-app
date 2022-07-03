@@ -1,0 +1,101 @@
+[
+  {
+    "title": {
+      "jp": "Tasogare no Shoujo"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2017-10-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kemono Souga"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2017-10-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Akumu no Owari wa Hajimari"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2017-10-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kumo"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2017-11-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Saikai"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2017-11-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ougon no Kemono"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2017-11-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Swastika"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2017-11-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yakusoku"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2017-12-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Haha no Ai"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2017-12-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Einherjar"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2017-12-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Jimetsu Inshi"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2017-12-23T00:00:00.000Z",
+    "content": {}
+  }
+]

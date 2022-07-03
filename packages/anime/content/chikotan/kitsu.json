@@ -1,0 +1,26 @@
+{
+  "slug": "chikotan",
+  "synopsis": "Okamoto Tadanari short film.",
+  "title": {
+    "jp": "Chikotan"
+  },
+  "releasedAt": "1971-01-01T00:00:00.000Z",
+  "finishedAt": "1971-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10382/original.jpg",
+  "categories": [
+    "angst",
+    "music",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10382",
+    "anidb": "11187",
+    "anilist/anime": "104416",
+    "aozora": "08evaJxMKO",
+    "myanimelist/anime": "29585"
+  }
+}

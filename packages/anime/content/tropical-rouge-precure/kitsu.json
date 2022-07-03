@@ -1,0 +1,26 @@
+{
+  "slug": "tropical-rouge-precure",
+  "synopsis": "Manatsu Natsuumi is a first-year junior high school student born and raised on a small island. On the day she moves from the island, She meets Laura, a mermaid girl who has come to the earth alone in search of the legendary warrior, PreCure. Laura's hometown, Grand Ocean, is attacked by a witch who lives in the dark depths of the ocean, and all of their motivational power is taken away. It is said that if the motivational power of humans is also taken away, the world will be in deep trouble. Laura is captured by the witch's servant, and Manatsu transforms into Cure Summer to save her.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Tropical-Rouge! Pretty Cure",
+    "jp": "Tropical-Rouge! Precure"
+  },
+  "releasedAt": "2021-02-28T00:00:00.000Z",
+  "finishedAt": "2022-01-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43821/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/43821/cover_image/505a2b130cf499ab7a0549098fd15734.png",
+  "categories": [
+    "magical girl"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/tropical-rouge-precure"
+  ],
+  "relations": {
+    "kitsu": "43821",
+    "anilist/anime": "126905",
+    "myanimelist/anime": "44191"
+  }
+}

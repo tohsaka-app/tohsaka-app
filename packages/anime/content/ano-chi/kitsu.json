@@ -1,0 +1,24 @@
+{
+  "slug": "ano-chi",
+  "synopsis": "This story is about a place long ago, before birth and before death, that everyone knows and no one knows.\n\nGraduate Work 2018, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "In There",
+    "jp": "Ano chi"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2018-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44634/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/KDmrdjyGgPI"
+  ],
+  "relations": {
+    "kitsu": "44634",
+    "anilist/anime": "119845"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "beppu-x-peeping-life",
+  "synopsis": "Peeping Life Collaboration with Beppu City.",
+  "title": {
+    "jp": "Beppu x Peeping Life"
+  },
+  "releasedAt": "2014-11-06T00:00:00.000Z",
+  "finishedAt": "2014-11-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10375/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10375",
+    "aozora": "UNC4gWcG9A",
+    "myanimelist/anime": "29731"
+  }
+}

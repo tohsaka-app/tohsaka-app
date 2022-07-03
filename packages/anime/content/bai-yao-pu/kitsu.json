@@ -1,0 +1,23 @@
+{
+  "slug": "bai-yao-pu",
+  "synopsis": "We follow the adventures of a mysterious young girl, accompanied by a young monk and a demon doctor. Together, they solve human problems and cure illnesses caused by demons and ghosts.",
+  "title": {},
+  "releasedAt": "2020-04-25T00:00:00.000Z",
+  "finishedAt": "2020-07-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43176/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "mystery",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43176",
+    "anilist/anime": "114136",
+    "myanimelist/anime": "41224"
+  }
+}

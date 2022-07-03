@@ -1,0 +1,24 @@
+{
+  "slug": "natsu-no-uta",
+  "synopsis": "Music video for the song Natsu no Uta by Uchikubi Gokumon Doukoukai. This clip is about a penguin that deals with the heat of summer.",
+  "title": {
+    "en": "",
+    "jp": "Natsu no Uta"
+  },
+  "releasedAt": "2019-07-25T00:00:00.000Z",
+  "finishedAt": "2019-07-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45193/original.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45193",
+    "anilist/anime": "145291",
+    "myanimelist/anime": "47005"
+  }
+}

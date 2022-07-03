@@ -1,0 +1,26 @@
+{
+  "slug": "huckleberry-no-bouken-movie",
+  "synopsis": "Movie version of the TV series Huckleberry no Bouken.",
+  "title": {
+    "jp": "Huckleberry no Bouken (Movie)"
+  },
+  "releasedAt": "1991-08-16T00:00:00.000Z",
+  "finishedAt": "1991-08-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9329/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9329",
+    "anidb": "7710",
+    "anilist/anime": "19957",
+    "aozora": "GmWlW5p3Om",
+    "myanimelist/anime": "19957"
+  }
+}

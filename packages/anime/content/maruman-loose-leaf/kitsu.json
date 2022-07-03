@@ -1,0 +1,21 @@
+{
+  "slug": "maruman-loose-leaf",
+  "synopsis": "Commercial for Maruman stationery products.",
+  "title": {
+    "jp": "Maruman Loose Leaf"
+  },
+  "releasedAt": "2017-01-15T00:00:00.000Z",
+  "finishedAt": "2017-01-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42776/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42776",
+    "myanimelist/anime": "38772"
+  }
+}

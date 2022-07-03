@@ -1,0 +1,24 @@
+{
+  "slug": "mamimume-mogacho",
+  "synopsis": "The wild Mogacho creates havoc on Puri Puri Island. It's a fun-filled show about his adventures with his delightful friends.\n(Source: CDJapan)",
+  "title": {
+    "jp": "Mamimume★Mogacho"
+  },
+  "releasedAt": "2001-07-01T00:00:00.000Z",
+  "finishedAt": "2001-09-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6528/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6528",
+    "anidb": "4094",
+    "anilist/anime": "11525",
+    "aozora": "7lJzzm47WR",
+    "myanimelist/anime": "11525"
+  }
+}

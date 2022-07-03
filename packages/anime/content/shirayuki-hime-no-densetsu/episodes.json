@@ -1,0 +1,418 @@
+[
+  {
+    "title": {
+      "jp": "A Princess Is Born"
+    },
+    "season": 1,
+    "number": 1,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Stepmother"
+    },
+    "season": 1,
+    "number": 2,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Prince Richard"
+    },
+    "season": 1,
+    "number": 3,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Time to Say Goodbye"
+    },
+    "season": 1,
+    "number": 4,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Heart of a Princess"
+    },
+    "season": 1,
+    "number": 5,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Seven Dwarves"
+    },
+    "season": 1,
+    "number": 6,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A New Family"
+    },
+    "season": 1,
+    "number": 7,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Magic Flowers"
+    },
+    "season": 1,
+    "number": 8,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Reunion Beneath the Stars"
+    },
+    "season": 1,
+    "number": 9,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Richard's Letter"
+    },
+    "season": 1,
+    "number": 10,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Adventure at the Castle"
+    },
+    "season": 1,
+    "number": 11,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Difficult Task"
+    },
+    "season": 1,
+    "number": 12,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Blue-Green Devil"
+    },
+    "season": 1,
+    "number": 13,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Book of Life"
+    },
+    "season": 1,
+    "number": 14,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Seven Colors of the Rainbow"
+    },
+    "season": 1,
+    "number": 15,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Butterflies"
+    },
+    "season": 1,
+    "number": 16,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The White Rabbit"
+    },
+    "season": 1,
+    "number": 17,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "In the Realm of Ice"
+    },
+    "season": 1,
+    "number": 18,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A New Friend"
+    },
+    "season": 1,
+    "number": 19,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Proof"
+    },
+    "season": 1,
+    "number": 20,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Initiatory Journey"
+    },
+    "season": 1,
+    "number": 21,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Strange Egg"
+    },
+    "season": 1,
+    "number": 22,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Legendary Mountain"
+    },
+    "season": 1,
+    "number": 23,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Small Pixie"
+    },
+    "season": 1,
+    "number": 24,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Voices from the Past"
+    },
+    "season": 1,
+    "number": 25,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Eternal Love"
+    },
+    "season": 1,
+    "number": 26,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Nice Surprise"
+    },
+    "season": 1,
+    "number": 27,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "An Adorable Girl"
+    },
+    "season": 1,
+    "number": 28,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Mocking Boy"
+    },
+    "season": 1,
+    "number": 29,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "In Search of the Flower of Hope"
+    },
+    "season": 1,
+    "number": 30,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mary's Gift"
+    },
+    "season": 1,
+    "number": 31,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Snow White's Awakening"
+    },
+    "season": 1,
+    "number": 32,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Evil Fog"
+    },
+    "season": 1,
+    "number": 33,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "When the Evil genie is at large"
+    },
+    "season": 1,
+    "number": 34,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Pendant of Love"
+    },
+    "season": 1,
+    "number": 35,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Miracle"
+    },
+    "season": 1,
+    "number": 36,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Departure"
+    },
+    "season": 1,
+    "number": 37,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "An Unexpected Encounter"
+    },
+    "season": 1,
+    "number": 38,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hope Springs"
+    },
+    "season": 1,
+    "number": 39,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Queen's Summoning"
+    },
+    "season": 1,
+    "number": 40,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Bouquet of Flowers"
+    },
+    "season": 1,
+    "number": 41,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A World of Illusions"
+    },
+    "season": 1,
+    "number": 42,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tears of a Princess"
+    },
+    "season": 1,
+    "number": 43,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Brave Prince"
+    },
+    "season": 1,
+    "number": 44,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Prayer to the Moon"
+    },
+    "season": 1,
+    "number": 45,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Mirror's Secret"
+    },
+    "season": 1,
+    "number": 46,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Jonas the Magician"
+    },
+    "season": 1,
+    "number": 47,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Force of Earth"
+    },
+    "season": 1,
+    "number": 48,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Kingdom of Stone"
+    },
+    "season": 1,
+    "number": 49,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Poisoned Apple"
+    },
+    "season": 1,
+    "number": 50,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Blue Eagle"
+    },
+    "season": 1,
+    "number": 51,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Kiss"
+    },
+    "season": 1,
+    "number": 52,
+    "content": {}
+  }
+]

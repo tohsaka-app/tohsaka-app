@@ -1,0 +1,25 @@
+{
+  "slug": "haguregumo",
+  "synopsis": "Set at the end of the Edo (Tokugawa Shoganate) era, the series depicts Cloud's family with his wife, Turtle, their 11-year-old son and 8-year-old daughter. The Clouds are always ignoring work and playing. Cloud is notorious for womanising.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Haguregumo"
+  },
+  "releasedAt": "1982-04-24T00:00:00.000Z",
+  "finishedAt": "1982-04-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5362/original.jpg",
+  "categories": [
+    "comedy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5362",
+    "anidb": "2272",
+    "anilist/anime": "8500",
+    "aozora": "q60jINFjaC",
+    "myanimelist/anime": "8500"
+  }
+}

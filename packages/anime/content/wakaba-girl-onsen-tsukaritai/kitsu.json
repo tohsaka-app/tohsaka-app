@@ -1,0 +1,28 @@
+{
+  "slug": "wakaba-girl-onsen-tsukaritai",
+  "synopsis": "Extra episode bundled with the second Blu-ray and DVD volume of Wakaba*Girl.",
+  "title": {
+    "en": "Wakaba Girl Special",
+    "jp": "Wakaba*Girl: Onsen Tsukaritai"
+  },
+  "releasedAt": "2015-10-23T00:00:00.000Z",
+  "finishedAt": "2015-10-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11470/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11470/original.gif",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/wakabagirl-ova"
+  ],
+  "relations": {
+    "kitsu": "11470",
+    "anilist/anime": "21465",
+    "aozora": "er6RYP8OV6",
+    "myanimelist/anime": "31909"
+  }
+}

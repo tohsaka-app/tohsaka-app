@@ -1,0 +1,27 @@
+{
+  "slug": "soul-eater-late-night-show",
+  "synopsis": "Additional specials included in two Blu-ray Box volumes of Soul Eater. \nOriginally they were a part of late-night version of dual broadcast of Soul Eater; the regular Monday 6:00 p.m. version and a late-night \"Soul Eater Late Show\" version.\nSpecial footage was added at the start and end of the commercial break; the next episode preview was also different from the regular version.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Soul Eater: Late Night Show"
+  },
+  "releasedAt": "2008-04-01T00:00:00.000Z",
+  "finishedAt": "2009-03-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8597/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8597/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8597",
+    "anilist/anime": "21687",
+    "aozora": "C9XqO7WPpA",
+    "myanimelist/anime": "21195"
+  }
+}

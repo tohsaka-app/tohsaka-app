@@ -1,0 +1,29 @@
+{
+  "slug": "robotica-robotics",
+  "synopsis": "What is love? Two robots abandoned by their previous owner are with a new owner, a scientist. A story about the meaning of love.",
+  "title": {
+    "jp": "Robotica*Robotics"
+  },
+  "releasedAt": "2010-08-01T00:00:00.000Z",
+  "finishedAt": "2010-08-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6673/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6673/original.jpg",
+  "categories": [
+    "android",
+    "psychological",
+    "science fiction",
+    "shounen ai",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6673",
+    "anidb": "9489",
+    "anilist/anime": "12137",
+    "aozora": "SUcN85sgMs",
+    "myanimelist/anime": "12137"
+  }
+}

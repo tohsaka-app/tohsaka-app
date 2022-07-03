@@ -1,0 +1,28 @@
+{
+  "slug": "obake-no-q-taro-1985",
+  "synopsis": "Sequel of Shin Obake no Q-tarou.",
+  "title": {
+    "jp": "Obake no Q-tarou (1985)"
+  },
+  "releasedAt": "1985-04-01T00:00:00.000Z",
+  "finishedAt": "1987-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5168/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5168",
+    "anidb": "2586",
+    "anilist/anime": "7981",
+    "aozora": "xpMmm0Q9xP",
+    "myanimelist/anime": "7981"
+  }
+}

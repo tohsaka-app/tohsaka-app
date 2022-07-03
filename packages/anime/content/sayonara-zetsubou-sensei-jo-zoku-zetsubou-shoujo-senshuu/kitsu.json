@@ -1,0 +1,25 @@
+{
+  "slug": "sayonara-zetsubou-sensei-jo-zoku-zetsubou-shoujo-senshuu",
+  "synopsis": "A special summary episode of the second season of Sayonara Zetsubou Sensei, focusing on the girls that were not introduced in the first Zetsubou Shoujo Senshuu: Otonashi Meru, Fujiyoshi Harumi, Kaga Ai and Mitama Mayo.",
+  "title": {
+    "jp": "Sayonara Zetsubou Sensei Jo: Zoku Zetsubou Shoujo Senshuu"
+  },
+  "releasedAt": "2008-08-27T00:00:00.000Z",
+  "finishedAt": "2008-08-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5292/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5292",
+    "anilist/anime": "8317",
+    "aozora": "pHesiINp0Q",
+    "myanimelist/anime": "8317"
+  }
+}

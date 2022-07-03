@@ -1,0 +1,40 @@
+{
+  "slug": "initial-d-fifth-stage",
+  "synopsis": "Taking place in the sacred land of street running Kanagawa, once more Takumi Fujiwara will show his driving skills in his now legendary Hachi-roku. ",
+  "title": {
+    "jp": "Initial D Fifth Stage"
+  },
+  "releasedAt": "2012-11-04T00:00:00.000Z",
+  "finishedAt": "2013-05-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7204/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7204/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "drifting",
+    "earth",
+    "japan",
+    "motorsport",
+    "plot continuity",
+    "present",
+    "romance",
+    "seinen",
+    "sports",
+    "street racing"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7204",
+    "anidb": "9344",
+    "anilist/anime": "15059",
+    "aozora": "E0deFCt2IX",
+    "myanimelist/anime": "15059",
+    "thetvdb": "70900/5",
+    "thetvdb/season": "504847",
+    "thetvdb/series": "70900",
+    "trakt": "40239"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ruru-chan-no-jisatsu-haishin",
+  "synopsis": "Music video for the song Ruru-chan no Jisatsu Haishin by Japanese Internet Pop Rock Band \"Shinsei Kamattechan\" from their 10th Album \"Child's Medical Record.\"",
+  "title": {
+    "en": "Ruru's Suicide Show on a Livestream",
+    "jp": "Ruru-chan no Jisatsu Haishin"
+  },
+  "releasedAt": "2020-01-08T00:00:00.000Z",
+  "finishedAt": "2020-01-08T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43120/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=hc0ZDaAZQT0"
+  ],
+  "relations": {
+    "kitsu": "43120",
+    "anilist/anime": "115516",
+    "myanimelist/anime": "41164"
+  }
+}

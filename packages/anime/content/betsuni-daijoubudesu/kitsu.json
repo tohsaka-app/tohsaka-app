@@ -1,0 +1,24 @@
+{
+  "slug": "betsuni-daijoubudesu",
+  "synopsis": "Mizuinokima's Tama Art University 2018 graduate project",
+  "title": {
+    "en": "I'm ok.",
+    "jp": "Betsuni Daijoubudesu"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2018-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45374/poster_image/bbf701d662f80bd3fb38551608b52f9c.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/gOV829meFSs"
+  ],
+  "relations": {
+    "kitsu": "45374",
+    "anilist/anime": "140585"
+  }
+}

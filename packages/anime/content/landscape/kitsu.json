@@ -1,0 +1,23 @@
+{
+  "slug": "landscape",
+  "synopsis": "A short animation by Keiichi Tanaami.",
+  "title": {
+    "jp": "Landscape"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11002/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11002",
+    "anilist/anime": "102500",
+    "aozora": "T4fQ15gOjH",
+    "myanimelist/anime": "30814"
+  }
+}

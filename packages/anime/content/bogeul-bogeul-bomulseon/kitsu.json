@@ -1,0 +1,25 @@
+{
+  "slug": "bogeul-bogeul-bomulseon",
+  "synopsis": "A bunch of dreamers and treasure hunters go hunting for a legendary dragon treasure.\n(Source: AniDB)",
+  "title": {
+    "en": "Submarine Bubble Bubble",
+    "jp": "Bogeul Bogeul Bomulseon"
+  },
+  "releasedAt": "2007-07-25T00:00:00.000Z",
+  "finishedAt": "2007-07-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10534/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10534",
+    "anidb": "10990",
+    "aozora": "uFL1TOwLBg",
+    "myanimelist/anime": "29886"
+  }
+}

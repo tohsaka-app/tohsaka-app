@@ -1,0 +1,28 @@
+{
+  "slug": "shakunetsu-kabaddi",
+  "synopsis": "First-year high schooler Tatsuya Yoigoshi, the former ace of a junior high school soccer team who has come to dislike sports, receives an invitation to join the Kabaddi club. Initially mocking the idea of Kabaddi, he takes an interest after watching an intense competition akin to martial arts at a practice session.\n\n(Source: MAL News)",
+  "title": {
+    "en": "Burning Kabaddi",
+    "jp": "Shakunetsu Kabaddi"
+  },
+  "releasedAt": "2021-04-03T00:00:00.000Z",
+  "finishedAt": "2021-06-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43309/original.jpg",
+  "categories": [
+    "school clubs",
+    "school life",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/burning-kabaddi"
+  ],
+  "relations": {
+    "kitsu": "43309",
+    "anidb": "15628",
+    "anilist/anime": "120859",
+    "myanimelist/anime": "42395"
+  }
+}

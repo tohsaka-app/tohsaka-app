@@ -1,0 +1,28 @@
+{
+  "slug": "twin-angel-break",
+  "synopsis": "New Kaitou Tenshi Twin Angel TV series.",
+  "title": {
+    "en": "Twin Angels BREAK",
+    "jp": "Twin Angel Break"
+  },
+  "releasedAt": "2017-04-07T00:00:00.000Z",
+  "finishedAt": "2017-06-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12295/original.jpg",
+  "categories": [
+    "magic",
+    "magical girl"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/twin-angels-break"
+  ],
+  "relations": {
+    "kitsu": "12295",
+    "anidb": "12253",
+    "anilist/anime": "21865",
+    "aozora": "6v46qFM5Jl",
+    "myanimelist/anime": "33532"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "yu-yu-hakusho-25th-anniversary-special",
+  "synopsis": "A banner at the Bandai Visual booth at the Jump Festa 2018 event announced on Saturday that Yu Yu Hakusho is getting an all-new animated work bundled with an upcoming 25th anniversary Blu-ray Disc box set.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Yu Yu Hakusho 25th Anniversary Special",
+    "jp": "Yuu☆Yuu☆Hakusho Special"
+  },
+  "releasedAt": "2018-10-26T00:00:00.000Z",
+  "finishedAt": "2018-10-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14128/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14128/original.jpeg",
+  "categories": [
+    "action",
+    "contemporary fantasy",
+    "demon",
+    "martial arts",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14128",
+    "anilist/anime": "102631",
+    "myanimelist/anime": "36951"
+  }
+}

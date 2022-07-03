@@ -1,0 +1,25 @@
+{
+  "slug": "track-city",
+  "synopsis": "Jimmy was a typical boy who liked to play computer games. One day he was playing a game called 'Track City' when suddenly he got transported into the game world! Once he regained consciousness, a woman who apparently is the mayoress of the city explains to him that the world is threaten by a powerful malign virus and her allies and their only hope is to ask for the help of the \"Legendary racer\", the best player of 'Track City\". Things get complicated when Jimmy learns that the game made a mistake and confused him with the Legendary racer! Will Jimmy learn the necessary skills to defeat the viruses that threaten the world? Or will he be erased by the 'big head', the heavenly punisher that annihilates those who cannot achieve victory?",
+  "title": {
+    "en": "Track City",
+    "jp": "Track City"
+  },
+  "releasedAt": "2000-01-05T00:00:00.000Z",
+  "finishedAt": "2002-05-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6713/original.jpg",
+  "categories": [
+    "action",
+    "motorsport"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6713",
+    "anilist/anime": "12361",
+    "aozora": "ufJXSX6q1H",
+    "myanimelist/anime": "12361"
+  }
+}

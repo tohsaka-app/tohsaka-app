@@ -1,0 +1,27 @@
+{
+  "slug": "honobono-log",
+  "synopsis": "Based on an illustration book by Naka Fukamachi. The anime offers heartwarming peeks at the lives of close couples and families.\n(Source: ANN)",
+  "title": {
+    "jp": "Honobono Log"
+  },
+  "releasedAt": "2016-06-07T00:00:00.000Z",
+  "finishedAt": "2016-06-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12197/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12197/original.jpg",
+  "categories": [
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12197",
+    "anidb": "12102",
+    "anilist/anime": "21795",
+    "aozora": "EXWUEYRvNt",
+    "myanimelist/anime": "33241",
+    "thetvdb": "313992/1"
+  }
+}

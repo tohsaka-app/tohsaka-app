@@ -1,0 +1,26 @@
+{
+  "slug": "kobutori-1929",
+  "synopsis": "In Kobu-Tori, an old man with a lump growing on his face takes refuge in a hollow tree during a thunderstorm. When he awakens, he finds the forest populated by mythic creatures. He dances with the sprites and as a reward, the creatures remove his deformity. Back in the village, he tells another man who has a similar growth on his face. Will the creatures bestow the same boon upon this other man?\n(Source: 100 Years of Movies)",
+  "title": {
+    "en": "The Stolen Lump",
+    "jp": "Kobutori (1929)"
+  },
+  "releasedAt": "1929-10-14T00:00:00.000Z",
+  "finishedAt": "1929-10-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4316/original.jpg",
+  "categories": [
+    "comedy",
+    "demon"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4316",
+    "anidb": "6702",
+    "anilist/anime": "5875",
+    "aozora": "rNKByizoWr",
+    "myanimelist/anime": "5875"
+  }
+}

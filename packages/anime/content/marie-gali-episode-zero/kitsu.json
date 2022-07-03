@@ -1,0 +1,23 @@
+{
+  "slug": "marie-gali-episode-zero",
+  "synopsis": "This episode aired prior to the original series and introduces the main characters.",
+  "title": {
+    "jp": "Marie & Gali Episode Zero"
+  },
+  "releasedAt": "2008-11-08T00:00:00.000Z",
+  "finishedAt": "2008-11-08T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4530/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4530",
+    "anilist/anime": "6355",
+    "aozora": "MhDv4cQydt",
+    "myanimelist/anime": "6355"
+  }
+}

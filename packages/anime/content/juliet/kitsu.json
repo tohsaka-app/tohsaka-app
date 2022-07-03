@@ -1,0 +1,27 @@
+{
+  "slug": "juliet",
+  "synopsis": "Based on the manga by U-Jin.",
+  "title": {
+    "jp": "Juliet"
+  },
+  "releasedAt": "1999-03-25T00:00:00.000Z",
+  "finishedAt": "1999-03-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5564/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5564",
+    "anidb": "5730",
+    "anilist/anime": "8993",
+    "aozora": "wPmNLLJG7c",
+    "myanimelist/anime": "8993"
+  }
+}

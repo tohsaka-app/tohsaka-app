@@ -1,0 +1,29 @@
+{
+  "slug": "gakkatsu-2nd-season",
+  "synopsis": "2nd season of Gakkatsu!.",
+  "title": {
+    "jp": "Gakkatsu! 2nd Season"
+  },
+  "releasedAt": "2013-01-16T00:00:00.000Z",
+  "finishedAt": "2013-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7594/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7594",
+    "anidb": "9657",
+    "anilist/anime": "17147",
+    "aozora": "TU09JRSUl6",
+    "myanimelist/anime": "17147",
+    "thetvdb": "257951/2",
+    "thetvdb/season": "510095",
+    "thetvdb/series": "257951",
+    "trakt": "66145"
+  }
+}

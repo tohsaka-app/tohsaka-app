@@ -1,0 +1,40 @@
+{
+  "slug": "mobile-police-patlabor-2-the-movie",
+  "synopsis": "The date is 2002, three years after the events of PATLABOR 1 – Mobile Police. The destruction of a United Nations Labor team in South East Asia begins the build-up to a deadly terrorist plan that threatens to send shockwaves throughout Japan's military. With evidence of an impending military takeover, the scattered members of the original SVD (Special Vehicle Division) must gather to defend the city against danger. To make matters worse, the mastermind behind the operation is none other than Nagumo's former teacher and ex-lover Tsuge. \n(Source: ANN)",
+  "title": {
+    "en": "Mobile Police Patlabor 2: The Movie",
+    "jp": "Kidou Keisatsu Patlabor 2 the Movie"
+  },
+  "releasedAt": "1993-08-07T00:00:00.000Z",
+  "finishedAt": "1993-08-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/981/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/981/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "conspiracy",
+    "cops",
+    "detective",
+    "earth",
+    "japan",
+    "law and order",
+    "mecha",
+    "mystery",
+    "piloted robot",
+    "science fiction",
+    "special squads"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/patlabor-2-the-movie"
+  ],
+  "relations": {
+    "kitsu": "981",
+    "anidb": "395",
+    "anilist/anime": "1096",
+    "aozora": "dGrnD6LAU9",
+    "myanimelist/anime": "1096"
+  }
+}

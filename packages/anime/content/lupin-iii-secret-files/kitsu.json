@@ -1,0 +1,27 @@
+{
+  "slug": "lupin-iii-secret-files",
+  "synopsis": "\"Lupin III: Secret File\" is actually a compilation of two previously unreleased pilot films; original Cinemascope version from year 1969 and restyled, and redubbed TV version from year 1971. As well as four film trailers. The trailers are for the first four Lupin films: \"Lupin vs. the Clone\", \"Castle of Cagliostro\", \"Legend of the Gold of Babylon\" and \"The Fuma Conspiracy\".\nLater in 1989 \"Lupin III: Secret File 2 - Sound Collection\" was released consisting of openings and endings of all previous Lupin series and theme songs.",
+  "title": {
+    "en": "Lupin the Third: Secret File",
+    "jp": "Lupin III: Pilot Film (1978)"
+  },
+  "releasedAt": "1989-01-01T00:00:00.000Z",
+  "finishedAt": "1989-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1281/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1281/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "crime"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1281",
+    "anilist/anime": "1428",
+    "aozora": "Wt3sej6r4F",
+    "myanimelist/anime": "1428"
+  }
+}

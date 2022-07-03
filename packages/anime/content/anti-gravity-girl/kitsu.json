@@ -1,0 +1,23 @@
+{
+  "slug": "anti-gravity-girl",
+  "synopsis": "MV for Tsukino Mito's song, Anti-Gravity Girl.",
+  "title": {
+    "en": "Anti-Gravity Girl"
+  },
+  "releasedAt": "2020-05-20T00:00:00.000Z",
+  "finishedAt": "2020-05-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43902/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=L0X1fDI5PJA&ab_channel=%E3%81%AB%E3%81%98%E3%81%95%E3%82%93%E3%81%98"
+  ],
+  "relations": {
+    "kitsu": "43902"
+  }
+}

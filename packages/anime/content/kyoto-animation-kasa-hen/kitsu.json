@@ -1,0 +1,25 @@
+{
+  "slug": "kyoto-animation-kasa-hen",
+  "synopsis": "Kyoto Animation commercial.",
+  "title": {
+    "en": "Umbrella",
+    "jp": "Kyoto Animation: Kasa-hen"
+  },
+  "releasedAt": "2012-06-01T00:00:00.000Z",
+  "finishedAt": "2012-06-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7740/original.png",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7740",
+    "anidb": "9757",
+    "anilist/anime": "17815",
+    "aozora": "FZEfotKyk5",
+    "myanimelist/anime": "17815"
+  }
+}

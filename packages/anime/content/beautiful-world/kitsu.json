@@ -1,0 +1,30 @@
+{
+  "slug": "beautiful-world",
+  "synopsis": "A music video directed by Tsurumaki Kazuya to promote the movies of Rebuild of Evangelion and the main music theme, \"Beautiful World.\" The video includes both new animation and animation from the film.",
+  "title": {
+    "jp": "Beautiful World"
+  },
+  "releasedAt": "2014-12-02T00:00:00.000Z",
+  "finishedAt": "2014-12-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11901/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "mecha",
+    "music",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=jmKRgqWGrWc"
+  ],
+  "relations": {
+    "kitsu": "11901",
+    "anidb": "11968",
+    "anilist/anime": "100330",
+    "aozora": "MV7WUD0l4o",
+    "myanimelist/anime": "32311"
+  }
+}

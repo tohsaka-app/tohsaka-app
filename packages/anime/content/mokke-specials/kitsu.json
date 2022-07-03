@@ -1,0 +1,27 @@
+{
+  "slug": "mokke-specials",
+  "synopsis": "Mokke Special Episodes:\n1. Toorikaze (Passing Wind)\n2. Mitsua Shigaeru ",
+  "title": {
+    "en": "Mokke Special Episodes",
+    "jp": "Mokke Specials"
+  },
+  "releasedAt": "2008-01-25T00:00:00.000Z",
+  "finishedAt": "2008-05-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3522/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3522/original.jpg",
+  "categories": [
+    "fantasy",
+    "mystery",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3522",
+    "anilist/anime": "4202",
+    "aozora": "GxMbOceiiH",
+    "myanimelist/anime": "4202"
+  }
+}

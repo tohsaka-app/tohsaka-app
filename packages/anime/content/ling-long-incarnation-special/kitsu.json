@@ -1,0 +1,27 @@
+{
+  "slug": "ling-long-incarnation-special",
+  "synopsis": "Special chapter of Ling Long: Incarnation.",
+  "title": {
+    "en": "Spirit Cage: Incarnation Special"
+  },
+  "releasedAt": "2021-05-15T00:00:00.000Z",
+  "finishedAt": "2021-05-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44571/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "drama",
+    "horror",
+    "science fiction",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44571",
+    "anilist/anime": "134045",
+    "myanimelist/anime": "48890"
+  }
+}

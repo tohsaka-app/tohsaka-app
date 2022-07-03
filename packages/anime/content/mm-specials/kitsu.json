@@ -1,0 +1,26 @@
+{
+  "slug": "mm-specials",
+  "synopsis": "The six Blu-ray Disc/DVD volumes for the MM! television anime series will each include one or two new, \"somewhat extreme\" anime short stories.",
+  "title": {
+    "en": "MM! Hidden Camera Shorts",
+    "jp": "MM! Specials"
+  },
+  "releasedAt": "2010-12-22T00:00:00.000Z",
+  "finishedAt": "2011-05-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5797/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5797",
+    "anilist/anime": "9581",
+    "aozora": "sKBwY5s3jk",
+    "myanimelist/anime": "9581"
+  }
+}

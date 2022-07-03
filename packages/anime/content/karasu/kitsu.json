@@ -1,0 +1,23 @@
+{
+  "slug": "karasu",
+  "synopsis": "Movie that uses a crow as a motif and Kyoto scenes that were taken in time-lapse, and color flicker is added to create a disturbing atmosphere. Matsuo Ono is in charge of the tape collage.\n\n(Source: MAL)",
+  "title": {
+    "en": "Crow",
+    "jp": "Karasu"
+  },
+  "releasedAt": "1992-01-01T00:00:00.000Z",
+  "finishedAt": "1992-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45002/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45002",
+    "anilist/anime": "121048",
+    "myanimelist/anime": "42272"
+  }
+}

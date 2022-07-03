@@ -1,0 +1,31 @@
+{
+  "slug": "shaolin-wuzang",
+  "synopsis": "Set in the Henan Province of China during the 17th century, three teenagers are sent to a Shaolin Temple to learn the style of Kung Fu against a ruthless Demon, not seen since the Sui Dynasty, who terrorizes the province in order to search for two magic books to create more power and being stronger in world domination.",
+  "title": {
+    "en": null,
+    "jp": "Zhong Hua Xiao Zi"
+  },
+  "releasedAt": "2006-12-16T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9935/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9935",
+    "anilist/anime": "102501",
+    "aozora": "ZaDaVQgKA1",
+    "myanimelist/anime": "27811",
+    "thetvdb": "179601/1",
+    "thetvdb/series": "179601"
+  }
+}

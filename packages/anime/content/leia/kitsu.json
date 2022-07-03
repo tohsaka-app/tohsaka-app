@@ -1,0 +1,24 @@
+{
+  "slug": "leia",
+  "synopsis": "Official music video for the song Leia with animation by 852-wa and music by Yuyoyuppe, performed by Luka Megurine.",
+  "title": {
+    "jp": "Leia"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13494/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13494/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=NPU0O5mUJbs"
+  ],
+  "relations": {
+    "kitsu": "13494",
+    "anilist/anime": "129007"
+  }
+}

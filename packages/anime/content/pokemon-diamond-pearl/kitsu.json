@@ -1,0 +1,36 @@
+{
+  "slug": "pokemon-diamond-pearl",
+  "synopsis": "After defeating Pyramid King Jindai and declining the offer to be a Frontier Brain, Satoshi sets off to travel through the far away land of Sinnoh. Once he gets there, he meets up with Hikari, a local trainer from the region, and they decide to travel together.",
+  "title": {
+    "jp": "Pokemon Diamond & Pearl"
+  },
+  "releasedAt": "2006-09-28T00:00:00.000Z",
+  "finishedAt": "2010-09-09T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1405/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1405/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "anthropomorphism",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "plot continuity",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1405",
+    "anidb": "4728",
+    "anilist/anime": "1565",
+    "aozora": "WsshEX3xHs",
+    "myanimelist/anime": "1565",
+    "thetvdb": "76703",
+    "trakt": "60156"
+  }
+}

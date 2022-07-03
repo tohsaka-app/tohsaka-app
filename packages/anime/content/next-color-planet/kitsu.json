@@ -1,0 +1,25 @@
+{
+  "slug": "next-color-planet",
+  "synopsis": "To celebrate Suisei’s 2nd Anniversary, her third original song NEXT COLOR PLANET music video was released! The making of this song was made through a collaboration between idol V-tuber Hoshimachi Suisei and Takuya Sakai, of Arte Refract fame.",
+  "title": {
+    "jp": "NEXT COLOR PLANET"
+  },
+  "releasedAt": "2020-03-22T00:00:00.000Z",
+  "finishedAt": "2020-03-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43760/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43760/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=vQHVGXdcqEQ&feature=emb_logo&ab_channel=SuiseiChannel"
+  ],
+  "relations": {
+    "kitsu": "43760",
+    "myanimelist/anime": "44259"
+  }
+}

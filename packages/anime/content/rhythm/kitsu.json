@@ -1,0 +1,23 @@
+{
+  "slug": "rhythm",
+  "synopsis": "A comfortable rhythm composed of light and shadow. Director Ogino-style absolute movie which freely manipulates geometric figures.\n",
+  "title": {
+    "jp": "Rhythm"
+  },
+  "releasedAt": "1935-01-01T00:00:00.000Z",
+  "finishedAt": "1935-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14056/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14056",
+    "anilist/anime": "98967",
+    "aozora": "IyuRhiQieo",
+    "myanimelist/anime": "35407"
+  }
+}

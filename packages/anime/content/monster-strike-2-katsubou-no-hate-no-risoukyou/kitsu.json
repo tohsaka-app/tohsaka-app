@@ -1,0 +1,24 @@
+{
+  "slug": "monster-strike-2-katsubou-no-hate-no-risoukyou",
+  "synopsis": "Episode 0 of Monster Strike 2.",
+  "title": {
+    "jp": "Monsuto Anime: Katsubou no Hate no Risoukyou"
+  },
+  "releasedAt": "2017-03-25T00:00:00.000Z",
+  "finishedAt": "2017-03-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13343/original.jpe",
+  "categories": [
+    "action",
+    "fantasy",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13343",
+    "aozora": "PlKwKVrBtt",
+    "myanimelist/anime": "35265"
+  }
+}

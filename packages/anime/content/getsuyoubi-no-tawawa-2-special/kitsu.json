@@ -1,0 +1,26 @@
+{
+  "slug": "getsuyoubi-no-tawawa-2-special",
+  "synopsis": "Unaired episode 13 included with the Blu-ray release of Getsuyoubi no Tawawa 2.",
+  "title": {
+    "en": "Tawawa on Monday 2 Special",
+    "jp": "Getsuyoubi no Tawawa 2 Special"
+  },
+  "releasedAt": "2021-12-13T00:00:00.000Z",
+  "finishedAt": "2021-12-13T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45375/poster_image/abd095dea774600b700a381d9fa80fb6.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "seinen",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45375",
+    "anilist/anime": "139466",
+    "myanimelist/anime": "49866"
+  }
+}

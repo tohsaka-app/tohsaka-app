@@ -1,0 +1,45 @@
+{
+  "slug": "seikai-no-senki",
+  "synopsis": "Three years after their adventure, Lafiel becomes captain on the brand new assault ship Basroil and Jinto finishes his training to become a supply officer and joins Lafiels crew. They set out to join a large fleet with the mission of defending the strategically important Laptic Gate from a force 15 times larger than their own. And to bring even more worries, their new fleet commander is from the Bebous family, a family notorious for their \"Spectacular Insanity\". \n(Source: ANN)",
+  "title": {
+    "en": "Banner of the Stars",
+    "jp": "Seikai no Senki"
+  },
+  "releasedAt": "2000-04-14T00:00:00.000Z",
+  "finishedAt": "2000-07-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/363/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/363/original.jpg",
+  "categories": [
+    "action",
+    "air force",
+    "future",
+    "genetic modification",
+    "military",
+    "plot continuity",
+    "romance",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space battles",
+    "space opera",
+    "space travel",
+    "war"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/crest-of-the-stars-/#videos"
+  ],
+  "relations": {
+    "kitsu": "363",
+    "anidb": "4",
+    "anilist/anime": "396",
+    "aozora": "nrWVIdRZCI",
+    "myanimelist/anime": "396",
+    "thetvdb": "72025/2",
+    "thetvdb/season": "3376",
+    "thetvdb/series": "72025",
+    "trakt": "26093"
+  }
+}

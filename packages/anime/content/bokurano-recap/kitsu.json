@@ -1,0 +1,25 @@
+{
+  "slug": "bokurano-recap",
+  "synopsis": "A Bokurano recap episode of first 15 episodes.",
+  "title": {
+    "jp": "Bokurano Recap"
+  },
+  "releasedAt": "2007-07-24T00:00:00.000Z",
+  "finishedAt": "2007-07-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6833/original.png",
+  "categories": [
+    "drama",
+    "mecha",
+    "psychological",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6833",
+    "aozora": "wFHuhZeUq0",
+    "myanimelist/anime": "12877"
+  }
+}

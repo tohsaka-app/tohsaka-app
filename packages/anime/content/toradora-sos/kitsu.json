@@ -1,0 +1,25 @@
+{
+  "slug": "toradora-sos",
+  "synopsis": "Toradora DVD shorts featuring the miniature forms of the Toradora characters talking about, and eating, food.",
+  "title": {
+    "en": "Toradora! SOS! Hooray for Foodies",
+    "jp": "Toradora!: SOS!"
+  },
+  "releasedAt": "2009-02-03T00:00:00.000Z",
+  "finishedAt": "2009-08-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4438/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4438/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4438",
+    "anilist/anime": "6127",
+    "aozora": "iVZNL16bg1",
+    "myanimelist/anime": "6127"
+  }
+}

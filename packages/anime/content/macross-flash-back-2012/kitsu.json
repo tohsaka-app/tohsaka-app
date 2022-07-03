@@ -1,0 +1,33 @@
+{
+  "slug": "macross-flash-back-2012",
+  "synopsis": "Flash Back 2012 is Minmei's farewell concert. Featuring some of her best songs, the music is performed over various scenes and events taken from Macross TV as well as Macross \"Do You Remember Love\". Also included is a newly animated closing sequence showing the launch of Misa's colony vessel, the Megaroad-01, into space.\n(Source: ANN)",
+  "title": {
+    "jp": "Macross Flash Back 2012"
+  },
+  "releasedAt": "1987-06-21T00:00:00.000Z",
+  "finishedAt": "1987-06-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1350/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1350/original.jpg",
+  "categories": [
+    "future",
+    "idol",
+    "mecha",
+    "military",
+    "music",
+    "piloted robot",
+    "science fiction",
+    "space opera",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1350",
+    "anidb": "2324",
+    "anilist/anime": "1504",
+    "aozora": "gpsfL2sBfz",
+    "myanimelist/anime": "1504"
+  }
+}

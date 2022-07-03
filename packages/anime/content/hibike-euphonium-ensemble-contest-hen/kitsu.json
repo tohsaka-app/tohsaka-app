@@ -1,0 +1,24 @@
+{
+  "slug": "hibike-euphonium-ensemble-contest-hen",
+  "synopsis": null,
+  "title": {
+    "en": "Sound! Euphonium: Ensemble Contest Arc",
+    "jp": "Hibike! Euphonium: Ensemble Contest-hen"
+  },
+  "releasedAt": "2023-12-31T00:00:00.000Z",
+  "finishedAt": "2023-12-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46158/poster_image/24396adb8a8e09ce62d7ed687f9e8e3c.png",
+  "categories": [
+    "drama",
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46158",
+    "anilist/anime": "150429"
+  }
+}

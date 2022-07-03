@@ -1,0 +1,26 @@
+{
+  "slug": "mutsugo-to-ouma-no-monogatari",
+  "synopsis": "An anime collaboration between Osomatsu-san and the Japan Racing Association. ",
+  "title": {
+    "en": "The Story of the Sextuplets and a Horse",
+    "jp": "Mutsugo to Ouma no Monogatari"
+  },
+  "releasedAt": "2016-10-13T00:00:00.000Z",
+  "finishedAt": "2016-12-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12719/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12719/original.png",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12719",
+    "anilist/anime": "97916",
+    "aozora": "7kJqVWktWK",
+    "myanimelist/anime": "34239"
+  }
+}

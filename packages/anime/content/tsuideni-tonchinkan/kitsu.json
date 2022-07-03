@@ -1,0 +1,25 @@
+{
+  "slug": "tsuideni-tonchinkan",
+  "synopsis": "Based on the same name gag manga by Endo Koichi.\nA gang decides to play at burglary without the knowledge of their schoolmates, each masquerading at different times as the master thief Tonchinkan.\n(Source: ANN)",
+  "title": {
+    "en": "Anyway",
+    "jp": "Tsuideni Tonchinkan"
+  },
+  "releasedAt": "1987-10-10T00:00:00.000Z",
+  "finishedAt": "1988-10-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4784/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4784",
+    "anidb": "5568",
+    "anilist/anime": "6917",
+    "aozora": "jIeb2WbpVR",
+    "myanimelist/anime": "6917"
+  }
+}

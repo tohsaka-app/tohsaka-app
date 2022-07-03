@@ -1,0 +1,24 @@
+{
+  "slug": "karakai-jouzu-no-takagi-san-movie",
+  "synopsis": "Takagi and Nishikata are in their final year of middle school, and have both anxiety and hope for the future. During the summer of their final year, on the day before summer vacation starts, the two find a kitten that they name Hana. They decide to take care of the kitten themselves until they can find its mother.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Teasing Master Takagi-san Movie",
+    "jp": "Karakai Jouzu no Takagi-san Movie"
+  },
+  "releasedAt": "2022-06-10T00:00:00.000Z",
+  "finishedAt": "2022-06-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45023/poster_image/e071db4676ac34cd7a1642c5e96bcc49.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45023",
+    "anilist/anime": "138425"
+  }
+}

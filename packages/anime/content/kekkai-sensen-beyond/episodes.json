@@ -1,0 +1,106 @@
+[
+  {
+    "title": {
+      "jp": "Lights! Camera! Action!"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2017-10-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Genkai Byoutou Raises"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2017-10-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2017-10-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chain-possible"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2017-10-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Toaru Shitsuji no Blitzkrieg"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2017-11-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Get the Lock Out!!"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2017-11-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Era Kokyuu Blues"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2017-11-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Macro no Kesshiken Zenpen"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2017-11-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Macro no Kesshiken Kouhen"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2017-12-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2017-12-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yougan Genshikou Zenpen"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2017-12-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yougan Genshikou Kouhen"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2017-12-24T00:00:00.000Z",
+    "content": {}
+  }
+]

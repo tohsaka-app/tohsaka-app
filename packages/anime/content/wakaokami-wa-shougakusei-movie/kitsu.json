@@ -1,0 +1,32 @@
+{
+  "slug": "wakaokami-wa-shougakusei-movie",
+  "synopsis": "After losing her parents in a car accident, Okko goes to live in the countryside with her grandmother, who runs a traditional Japanese inn built on top of an ancient spring said to have healing waters. While she goes about her chores and prepares to become the inn's next caretaker, Okko discovers there are ghosts who live there that only she can see – not scary ghosts, but playful child ghosts who keep her company and help her feel less lonely. A sign outside says the spring welcomes all and will reject none, and this is soon put to the test as a string of new guests challenge Okko's ability to be a gracious host. But ultimately Okko discovers that dedicating herself to the happiness of others becomes the key to taking care of herself.\n\n(Source: Animation is Film Festival)",
+  "title": {
+    "en": "Okko's Inn",
+    "jp": "Wakaokami wa Shougakusei!"
+  },
+  "releasedAt": "2018-09-12T00:00:00.000Z",
+  "finishedAt": "2018-09-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41406/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41406/original.jpg",
+  "categories": [
+    "comedy",
+    "family",
+    "ghost",
+    "shoujo",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81037597"
+  ],
+  "relations": {
+    "kitsu": "41406",
+    "anilist/anime": "101478",
+    "animenewsnetwork": "21112",
+    "myanimelist/anime": "37682"
+  }
+}

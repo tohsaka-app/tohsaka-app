@@ -1,0 +1,29 @@
+{
+  "slug": "kuroko-no-basket-tip-off",
+  "synopsis": "Episode 22.5 bundled with BD/DVD volume 8.\nThe episode covers Kuroko's past, when he was part of the \"Generation of Miracles.\"",
+  "title": {
+    "en": "Kuroko's Basketball Special",
+    "jp": "Kuroko no Basket: Tip Off"
+  },
+  "releasedAt": "2013-02-22T00:00:00.000Z",
+  "finishedAt": "2013-02-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7552/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7552/original.png",
+  "categories": [
+    "basketball",
+    "comedy",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7552",
+    "anilist/anime": "16916",
+    "aozora": "PHw4okRXpF",
+    "myanimelist/anime": "16916"
+  }
+}

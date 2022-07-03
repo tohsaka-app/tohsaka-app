@@ -1,0 +1,25 @@
+{
+  "slug": "jam-the-housnail",
+  "synopsis": "Claymation series about a family of \"housnails\" (portmanteau of house and snail) focusing on Jam, the elementary school aged housnail.",
+  "title": {
+    "en": "Jam the Housnail",
+    "jp": "Jam the Housnail"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2006-04-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10272/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10272",
+    "anilist/anime": "132855",
+    "aozora": "KV7JXgxEun",
+    "myanimelist/anime": "29367"
+  }
+}

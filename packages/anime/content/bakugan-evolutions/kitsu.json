@@ -1,0 +1,24 @@
+{
+  "slug": "bakugan-evolutions",
+  "synopsis": "In Bakugan: Evolutions, fan-favourite Bakugan heroes – including Drago, Trox, Pegatrix, Hydorous, Howlkor and Pharol – return stronger, faster and better than ever! Strange occurrences begin to happen in the new action-packed season; elemental energy from Vestroia is seeping into Earth, creating strange phenomena and causing Bakugan to rage out with excess energy! It’s not all bad though, as our heroes realize the Vestroian elemental energy is also causing elemental evolutions among our Bakugan! Along with these new evolutions comes a new breed of elemental brawlers, propelling the Awesome Brawlers to adapt and in effect, take Bakugan brawling to a whole new level, unlocking even more awesome powers and evolutions! Once again, the fate of two worlds, Earth and Vestroia, rests in the hands of the Awesome Brawlers and their Bakugan partners.",
+  "title": {
+    "jp": "Bakugan: Evolutions"
+  },
+  "releasedAt": "2022-02-06T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46020/poster_image/5a85b6c3ebd27658e7f2f4edd6cc611c.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46020",
+    "anilist/anime": "146885"
+  }
+}

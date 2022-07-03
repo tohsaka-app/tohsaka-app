@@ -1,0 +1,24 @@
+{
+  "slug": "yoru-ga-boku-o-oukikusuru",
+  "synopsis": "Graduate work of Haruhi Kosaka at Tama Art University.",
+  "title": {
+    "en": "The nights when the angels call me",
+    "jp": "Yoru ga boku o oukikusuru"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45414/poster_image/8c5ef3b56a54db21dbde468634bbf2c4.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/WRfrg03GzWU"
+  ],
+  "relations": {
+    "kitsu": "45414",
+    "anilist/anime": "141161"
+  }
+}

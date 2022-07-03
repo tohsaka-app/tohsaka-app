@@ -1,0 +1,18 @@
+{
+  "slug": "delete-ban-2021",
+  "synopsis": "This is a duplicate entry. The real entry is here: https://kitsu.io/anime/kanojo-x-kanojo-x-kanojo-full",
+  "title": {
+    "jp": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13182/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "13182"
+  }
+}

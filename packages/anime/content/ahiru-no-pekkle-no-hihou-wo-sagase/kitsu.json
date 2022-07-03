@@ -1,0 +1,27 @@
+{
+  "slug": "ahiru-no-pekkle-no-hihou-wo-sagase",
+  "synopsis": "Pekkle and his friends find a treasure map that will lead them to a stone that will grant one wish, and they go on a treasure hunt.",
+  "title": {
+    "en": "Pekkle in Find the Secret Treasure",
+    "jp": "Ahiru no Pekkle no Hihou wo Sagase"
+  },
+  "releasedAt": "1993-04-21T00:00:00.000Z",
+  "finishedAt": "1993-04-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8819/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8819",
+    "anidb": "7809",
+    "aozora": "Xt7tbTz2Vr",
+    "myanimelist/anime": "22621"
+  }
+}

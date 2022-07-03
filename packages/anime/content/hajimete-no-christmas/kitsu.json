@@ -1,0 +1,24 @@
+{
+  "slug": "hajimete-no-christmas",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Hajimete no Christmas"
+  },
+  "releasedAt": "1983-12-24T00:00:00.000Z",
+  "finishedAt": "1983-12-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6096/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6096",
+    "anidb": "7346",
+    "anilist/anime": "10246",
+    "aozora": "FYD0wE61jY",
+    "myanimelist/anime": "10246"
+  }
+}

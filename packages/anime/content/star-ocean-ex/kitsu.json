@@ -1,0 +1,34 @@
+{
+  "slug": "star-ocean-ex",
+  "synopsis": "Claude C. Kenni, a crewmember on the spaceship Calnus and son of the commander of the ship, is transported to Expel, a backwards planet with swords and magic. He teams up with Rena Lanford, who thinks he is the legendary Warrior of Light, and other characters to investigate the Sorcery Globe, a meteorite that has been causing problems all over the world. \n(Source: ANN)",
+  "title": {
+    "en": "Star Ocean EX",
+    "jp": "Star Ocean EX"
+  },
+  "releasedAt": "2001-04-03T00:00:00.000Z",
+  "finishedAt": "2001-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/895/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "magic",
+    "other planet",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "895",
+    "anidb": "85",
+    "anilist/anime": "1005",
+    "aozora": "XUxfmLCMZC",
+    "myanimelist/anime": "1005",
+    "thetvdb": "79145/1",
+    "thetvdb/series": "79145",
+    "trakt": "34585"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "seiyuu-deka",
+  "synopsis": "A girl who is protecting her city.",
+  "title": {
+    "jp": "Seiyuu Deka"
+  },
+  "releasedAt": "2010-08-04T00:00:00.000Z",
+  "finishedAt": "2010-08-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8914/original.jpg",
+  "categories": [
+    "comedy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8914",
+    "anidb": "8331",
+    "anilist/anime": "18047",
+    "aozora": "PRFmPag903",
+    "myanimelist/anime": "18047"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "happy-kappy-recap",
+  "synopsis": "Recap episode aired between episodes 19 and 20. ",
+  "title": {
+    "jp": "Happy Kappy Recap"
+  },
+  "releasedAt": "2011-08-17T00:00:00.000Z",
+  "finishedAt": "2011-08-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6504/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6504",
+    "aozora": "Ikk9iEqMtN",
+    "myanimelist/anime": "11389"
+  }
+}

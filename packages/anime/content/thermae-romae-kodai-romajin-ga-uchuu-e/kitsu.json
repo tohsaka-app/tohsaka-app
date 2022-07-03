@@ -1,0 +1,24 @@
+{
+  "slug": "thermae-romae-kodai-romajin-ga-uchuu-e",
+  "synopsis": "Lucius ends up in a space station, where he experiences zero gravity and learns about heliocentricism.",
+  "title": {
+    "jp": "Thermae Romae: Kodai Romajin ga Uchuu e"
+  },
+  "releasedAt": "2012-04-20T00:00:00.000Z",
+  "finishedAt": "2012-04-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7065/original.jpg",
+  "categories": [
+    "comedy",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7065",
+    "anilist/anime": "13983",
+    "aozora": "aHbEJBkvk5",
+    "myanimelist/anime": "13983"
+  }
+}

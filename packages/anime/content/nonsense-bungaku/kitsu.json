@@ -1,0 +1,25 @@
+{
+  "slug": "nonsense-bungaku",
+  "synopsis": "An original song by Eve, sung by Hatsune Miku, animated by Mah. Eve's self-cover uses the same animated footage and was released on May 20, 2017. Eve included his self-cover MV on his own self-made record label harapeco records's CD+DVD release on December 13, 2017 as a part of his \"Bunka\" album.",
+  "title": {
+    "en": "Literary Nonsense",
+    "jp": "Nonsense Bungaku"
+  },
+  "releasedAt": "2017-05-20T00:00:00.000Z",
+  "finishedAt": "2017-05-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42285/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=OskXF3s0UT8"
+  ],
+  "relations": {
+    "kitsu": "42285",
+    "anilist/anime": "107195",
+    "myanimelist/anime": "39163"
+  }
+}

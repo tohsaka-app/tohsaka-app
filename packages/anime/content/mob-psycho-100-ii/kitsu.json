@@ -1,0 +1,33 @@
+{
+  "slug": "mob-psycho-100-ii",
+  "synopsis": "The second season of Mob Psycho 100.",
+  "title": {
+    "en": "Mob Psycho 100 II",
+    "jp": "Mob Psycho 100 II"
+  },
+  "releasedAt": "2019-01-07T00:00:00.000Z",
+  "finishedAt": "2019-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/41071/poster_image/deb5b4871984f589838b92f21292a119.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41071/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "ghost",
+    "plot continuity",
+    "slice of life",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/mob-psycho-100"
+  ],
+  "relations": {
+    "kitsu": "41071",
+    "anidb": "13939",
+    "anilist/anime": "101338",
+    "myanimelist/anime": "37510"
+  }
+}

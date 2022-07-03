@@ -1,0 +1,25 @@
+{
+  "slug": "sekaiichi-hatsukoi-valentine-hen",
+  "synopsis": "Animated short with an original story that was screened alongside \"Sekaiichi Hatsukoi Movie: Yokozawa Takafumi no Baai.\"",
+  "title": {
+    "jp": "Sekaiichi Hatsukoi: Valentine-hen"
+  },
+  "releasedAt": "2014-03-15T00:00:00.000Z",
+  "finishedAt": "2014-03-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8192/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "shounen ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8192",
+    "anilist/anime": "20684",
+    "aozora": "IZNSWdBDKs",
+    "myanimelist/anime": "20815"
+  }
+}

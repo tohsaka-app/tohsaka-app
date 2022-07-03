@@ -1,0 +1,24 @@
+{
+  "slug": "odekake",
+  "synopsis": "He lives his life everyday like it's nothing special. Today he eats, gets dressed, and heads out once again.\n\nGraduate Work 2014, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Exit my room",
+    "jp": "Odekake"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45873/poster_image/38c458b02aed1d6861d6035bea24006d.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/wgWuNjSnoQ8"
+  ],
+  "relations": {
+    "kitsu": "45873",
+    "anilist/anime": "118053"
+  }
+}

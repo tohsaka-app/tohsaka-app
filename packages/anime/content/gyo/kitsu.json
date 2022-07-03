@@ -1,0 +1,35 @@
+{
+  "slug": "gyo",
+  "synopsis": "Something in Okinawa reeks, and it isn't long before Kaori and her friends realize that the smell is coming from dead fish, which are walking out of the sea. The fish are fused to metal legs and are infected with a disease contractable by humans that was invented as a weapon by unknown sources. After what happens to Tadashi, Kaori finds herself in a new world very much like the old one but with the stench of death. ",
+  "title": {
+    "en": "GYO: Tokyo Fish Attack!",
+    "jp": "Gyo"
+  },
+  "releasedAt": "2012-02-15T00:00:00.000Z",
+  "finishedAt": "2012-02-15T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6171/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6171/original.jpg",
+  "categories": [
+    "asia",
+    "drama",
+    "earth",
+    "epidemic",
+    "horror",
+    "japan",
+    "parasite",
+    "present",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6171",
+    "anidb": "8315",
+    "anilist/anime": "10417",
+    "aozora": "RHUZkMD6Rs",
+    "myanimelist/anime": "10417"
+  }
+}

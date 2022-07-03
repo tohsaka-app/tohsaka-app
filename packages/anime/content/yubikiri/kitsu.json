@@ -1,0 +1,23 @@
+{
+  "slug": "yubikiri",
+  "synopsis": "A music video for the song by Ayano Tsuji that was featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Yubikiri"
+  },
+  "releasedAt": "2005-10-01T00:00:00.000Z",
+  "finishedAt": "2005-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10700/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10700",
+    "anilist/anime": "102522",
+    "aozora": "yD112EEsjQ",
+    "myanimelist/anime": "30169"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "youjo-senki-recap",
+  "synopsis": "",
+  "title": {
+    "en": "Saga of Tanya the Evil Recap",
+    "jp": "Youjo Senki Recap"
+  },
+  "releasedAt": "2017-02-17T00:00:00.000Z",
+  "finishedAt": "2017-02-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13307/original.jpg",
+  "categories": [
+    "magic",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13307",
+    "aozora": "1LEqAB9nKG",
+    "myanimelist/anime": "34904"
+  }
+}

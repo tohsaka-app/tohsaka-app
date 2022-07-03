@@ -1,0 +1,38 @@
+{
+  "slug": "shingeki-no-kyojin-the-final-season",
+  "synopsis": "4 years after the Survey Corps reached the shore beyond the walls, Falco Grice and Gabi Braun are among Marley's \"Warrior Candidates\" who wish to inherit the power of the Titans. After emerging victorious in a hard-fought war, they continue their military training when Marley shifts its focus on invading Paradis once again. Nevertheless, in the midst of this announcement, Reiner has an unexpected encounter with a key person from his past... one who brings along terror and chaos.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "Attack on Titan: The Final Season",
+    "jp": "Shingeki no Kyojin The Final Season"
+  },
+  "releasedAt": "2020-12-07T00:00:00.000Z",
+  "finishedAt": "2021-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42422/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42422/original.jpg",
+  "categories": [
+    "action",
+    "conspiracy",
+    "drama",
+    "dystopia",
+    "fantasy",
+    "henshin",
+    "military",
+    "mystery",
+    "revenge",
+    "shounen",
+    "steampunk",
+    "super power"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/attack-on-titan",
+    "https://www.funimation.com/shows/attack-on-titan/"
+  ],
+  "relations": {
+    "kitsu": "42422",
+    "anilist/anime": "110277",
+    "myanimelist/anime": "40028"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "slug": "new-initial-d-movie-legend-1-kakusei",
+  "synopsis": "The first movie in a trilogy, focusing on the battle against the Takahashi brothers.",
+  "title": {
+    "en": "Initial D Legend 1: Awakening",
+    "jp": "New Initial D Movie: Legend 1 - Kakusei"
+  },
+  "releasedAt": "2014-08-24T00:00:00.000Z",
+  "finishedAt": "2014-08-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7906/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7906/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "drifting",
+    "earth",
+    "japan",
+    "motorsport",
+    "present",
+    "seinen",
+    "sports",
+    "street racing"
+  ],
+  "externals": [
+    "https://vrv.co/watch/GRJ02W1DY/Initial-D-Legend-1-Awakening-Subtitled-Home-Video",
+    "https://vrv.co/watch/GRKEP9X1R/Initial-D-Legend-1-Awakening-Dubbed-Home-Video",
+    "https://www.hidive.com/movies/initial-d-legend-1-awakening"
+  ],
+  "relations": {
+    "kitsu": "7906",
+    "anidb": "9987",
+    "anilist/anime": "20842",
+    "aozora": "b8SplOTTzQ",
+    "myanimelist/anime": "19613"
+  }
+}

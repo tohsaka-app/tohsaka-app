@@ -1,0 +1,29 @@
+{
+  "slug": "ginga-patrol-pj",
+  "synopsis": "Once Upon a Time... Space differs from the rest of the Once Upon a Time titles in the sense that the series revolve on a dramatic content rather than an educational premise. The series still has a handful of educational information (such as an episode discussing the rings of Planet Saturn).\nThe series succeeds Once Upon a Time... Man. It reprises almost the entire totality of the characters of the previous series and adapts them into a science-fiction context.\nThe story tells about the confrontation of many big galactic powers. Among them there is the Omega Confederation, of which Earth is a member of; the military republic of Cassiopée led by the general Le Teigneux; and a powerful supercomputer which controls an army of robots. Once Upon a Time... Space features the adventures of Pierrot (son of colonel Pierre and president Pierrette) and his friend Psi.",
+  "title": {
+    "jp": "Ginga Patrol PJ"
+  },
+  "releasedAt": "1982-10-09T00:00:00.000Z",
+  "finishedAt": "1983-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6491/original.png",
+  "categories": [
+    "drama",
+    "military",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6491",
+    "anidb": "5081",
+    "anilist/anime": "11307",
+    "aozora": "UvXs7wFJI7",
+    "myanimelist/anime": "11307",
+    "thetvdb": "81153",
+    "trakt": "4703"
+  }
+}

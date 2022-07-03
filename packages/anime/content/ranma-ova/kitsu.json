@@ -1,0 +1,32 @@
+{
+  "slug": "ranma-ova",
+  "synopsis": "Ranma Saotome continues his search for a way to become a normal teenage boy again. He gets into many hilarious situations involving the many girls in his life. One of the biggest challenges is overcoming the proposals from others who have found a suitable bride for Ranma. But he has his own worries and must muster up the best of his wits and martial arts to keep his sanity. It's not easy being desired by so many women (and men) and not breaking hearts of a few along the way. He just might be able to find it in his heart to confess to Akane or simply find another excuse that he can't marry such a tomboy girl. \n(Source: ANN)",
+  "title": {
+    "en": "Ranma ½ OVA",
+    "jp": "Ranma ½ OVA"
+  },
+  "releasedAt": "1993-10-21T00:00:00.000Z",
+  "finishedAt": "1994-08-19T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/897/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/897/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "gender bender",
+    "harem",
+    "martial arts",
+    "romance",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "897",
+    "anidb": "405",
+    "anilist/anime": "1007",
+    "aozora": "4E1l1sYSmt",
+    "myanimelist/anime": "1007"
+  }
+}

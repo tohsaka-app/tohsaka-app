@@ -1,0 +1,38 @@
+{
+  "slug": "chaos-dragon-sekiryuu-seneki",
+  "synopsis": "In 3015, the year of Huanli, two countries, Donatia and Kouran, are embroiled in a war of supremacy that is tearing the world around them apart. The small island Nil Kamui has suffered exceptionally from the war, with lands conquered in the name of each kingdom and stolen away from the people. To make matters worse, their deity, the Red Dragon, has gone mad, rampaging about Nil Kamui burning villages and killing people indiscriminately.\nIbuki, a descendant of Nil Kamui's royal family, resides at an orphanage and refuses to take on the role of king. Abhorring conflict, Ibuki desires a peaceful resolution, however the chaotic world will not allow for such pacifism when it is being torn asunder by war. Despite his reluctance, Ibuki is drawn deep into this conflict. Can he rise to the occasion and save his country?",
+  "title": {
+    "en": "Chaos Dragon",
+    "jp": "Chaos Dragon: Sekiryuu Seneki"
+  },
+  "releasedAt": "2015-07-02T00:00:00.000Z",
+  "finishedAt": "2015-09-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10619/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10619/original.jpg",
+  "categories": [
+    "action",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "island"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/chaos-dragon",
+    "http://www.funimation.com/shows/17973",
+    "http://www.hulu.com/chaos-dragon",
+    "https://tubitv.com/series/2320/chaos_dragon"
+  ],
+  "relations": {
+    "kitsu": "10619",
+    "anidb": "11080",
+    "anilist/anime": "21055",
+    "aozora": "prhFkUk5aE",
+    "hulu": "50022456",
+    "myanimelist/anime": "30091",
+    "thetvdb": "296764/1",
+    "trakt": "99717"
+  }
+}

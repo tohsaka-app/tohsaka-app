@@ -1,0 +1,25 @@
+{
+  "slug": "rilu-rilu-fairilu-mahou-no-kagami",
+  "synopsis": "Second season of Rilu Rilu Fairilu: Yousei no Door.",
+  "title": {
+    "jp": "Rilu Rilu Fairilu: Mahou no Kagami"
+  },
+  "releasedAt": "2017-04-07T00:00:00.000Z",
+  "finishedAt": "2018-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13577/original.jpg",
+  "categories": [
+    "fantasy",
+    "magic",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13577",
+    "anilist/anime": "98421",
+    "aozora": "tGUWujsiBz",
+    "myanimelist/anime": "34927"
+  }
+}

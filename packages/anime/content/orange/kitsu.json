@@ -1,0 +1,33 @@
+{
+  "slug": "orange",
+  "synopsis": "One day, Naho Takamiya receives a letter written to herself from ten years in the future. As Naho reads on, the letter recites the exact events of the day, including the transfer of a new student into her class named Kakeru Naruse.\nThe Naho from ten years later repeatedly states that she has many regrets, and she wants to fix these by making sure the Naho from the past can make the right decisions—especially regarding Kakeru. What's more shocking is that she discovers that ten years later, Kakeru will no longer be with them. Future Naho asks her to watch over him closely.\n(Source: Day of the River)",
+  "title": {
+    "en": "Orange",
+    "jp": "Orange"
+  },
+  "releasedAt": "2016-07-04T00:00:00.000Z",
+  "finishedAt": "2016-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11844/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11844/original.jpg",
+  "categories": [
+    "romance",
+    "school life",
+    "science fiction",
+    "shoujo"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/orange"
+  ],
+  "relations": {
+    "kitsu": "11844",
+    "anidb": "11938",
+    "anilist/anime": "21647",
+    "aozora": "HUMzQFCwV3",
+    "myanimelist/anime": "32729",
+    "thetvdb": "307868",
+    "trakt": "105755"
+  }
+}

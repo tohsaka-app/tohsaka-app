@@ -1,0 +1,24 @@
+{
+  "slug": "hyokkori-hyoutan-shima",
+  "synopsis": "A group of kids are stranded on a volcanic deserted island.\n(Source: AniDB)",
+  "title": {
+    "jp": "Hyokkori Hyoutan Shima"
+  },
+  "releasedAt": "1967-07-21T00:00:00.000Z",
+  "finishedAt": "1967-07-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9332/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9332",
+    "anidb": "2207",
+    "aozora": "1DSoHxEHyA",
+    "myanimelist/anime": "22887"
+  }
+}

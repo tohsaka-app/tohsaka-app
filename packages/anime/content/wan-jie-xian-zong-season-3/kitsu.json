@@ -1,0 +1,26 @@
+{
+  "slug": "wan-jie-xian-zong-season-3",
+  "synopsis": "Third season of Wan Jie Xian Zong.",
+  "title": {},
+  "releasedAt": "2019-10-17T00:00:00.000Z",
+  "finishedAt": "2020-04-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43101/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43101",
+    "anilist/anime": "113419",
+    "myanimelist/anime": "40909"
+  }
+}

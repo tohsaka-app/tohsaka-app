@@ -1,0 +1,23 @@
+{
+  "slug": "daze",
+  "synopsis": "daze  is the opening theme of Mekakucity Actors performed by MARiA from GARNiDELiA. The song was composed by Shizen no Teki-P (a.k.a. Jin) and a PV for the anime was illustrated and directed by Shidu. The full song was released on May 29, 2014 by Jin.\n(Source: Kagerou Project Wikia)",
+  "title": {
+    "jp": "Daze"
+  },
+  "releasedAt": "2014-05-29T00:00:00.000Z",
+  "finishedAt": "2014-05-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8764/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8764",
+    "anilist/anime": "102470",
+    "aozora": "TMarLkGfrB",
+    "myanimelist/anime": "24429"
+  }
+}

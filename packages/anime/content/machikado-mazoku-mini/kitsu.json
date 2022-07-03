@@ -1,0 +1,23 @@
+{
+  "slug": "machikado-mazoku-mini",
+  "synopsis": "Short specials uploaded to the official Twitter of the anime Machikado Mazoku and later bundled with the BD/DVD.",
+  "title": {
+    "en": "The Demon Girl Next Door Minis",
+    "jp": "Machikado Mazoku Mini"
+  },
+  "releasedAt": "2019-06-24T00:00:00.000Z",
+  "finishedAt": "2019-09-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44331/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44331",
+    "anilist/anime": "113302",
+    "myanimelist/anime": "40755"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "chou-no-sainan",
+  "synopsis": "Short movie from 1931.",
+  "title": {
+    "en": "The Unlucky Butterfly",
+    "jp": "Chou no Sainan"
+  },
+  "releasedAt": "1931-01-01T00:00:00.000Z",
+  "finishedAt": "1931-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4310/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4310",
+    "anidb": "6688",
+    "anilist/anime": "5869",
+    "aozora": "ZMYloTfuJ6",
+    "myanimelist/anime": "5869"
+  }
+}

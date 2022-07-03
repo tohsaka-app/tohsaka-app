@@ -1,0 +1,23 @@
+{
+  "slug": "seishun-no-kao",
+  "synopsis": "A music video that aired as part of NHK's Minna no Uta program. The song is by Ai Miyata.",
+  "title": {
+    "en": "Face of Youth",
+    "jp": "Seishun no kao"
+  },
+  "releasedAt": "1992-04-01T00:00:00.000Z",
+  "finishedAt": "1992-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45246/poster_image/0f8f61787fc1ed5e880927d481f78a5d.png",
+  "categories": [
+    "female student",
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45246"
+  }
+}

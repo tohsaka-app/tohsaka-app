@@ -1,0 +1,33 @@
+{
+  "slug": "dark-cat",
+  "synopsis": "Hyoi and Ryoi, two brothers with the power to take the form of cats, must unravel the mystery of a creeping, tentacled, demon plague before it consumes them and their classmates. Ultimately, they must confront their old Dark Cat master Jukokubo, though whether they can put an end to the evil he has released remains a mystery.\n(Source: ANN)",
+  "title": {
+    "jp": "Dark Cat"
+  },
+  "releasedAt": "1991-11-28T00:00:00.000Z",
+  "finishedAt": "1991-11-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3664/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "demon",
+    "earth",
+    "horror",
+    "japan",
+    "present",
+    "school life",
+    "super power",
+    "tentacle"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3664",
+    "anidb": "2789",
+    "anilist/anime": "4531",
+    "aozora": "0WCA8bKSbw",
+    "myanimelist/anime": "4531"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "initial-d-fourth-stage",
+  "synopsis": "Takumi Fujiwara and brothers Keisuke and Ryousuke Takahashi have formed \"Project D,\" a racing team aimed at bringing their driving skills to their full potential outside their prefecture. Using the internet, Project D issues challenges to other racing teams and posts results of their races. Managed by Ryousuke, the team has Takumi engaging in downhill battles with his AE86, while Keisuke challenges opponents uphill. Among their rivals are the Seven-Star Leaf (SSR) and Todo-juku.",
+  "title": {
+    "jp": "Initial D Fourth Stage"
+  },
+  "releasedAt": "2004-04-17T00:00:00.000Z",
+  "finishedAt": "2006-02-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "drifting",
+    "earth",
+    "japan",
+    "motorsport",
+    "plot continuity",
+    "present",
+    "seinen",
+    "sports",
+    "street racing"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/initial-d/",
+    "https://www.hulu.com/initial-d"
+  ],
+  "relations": {
+    "kitsu": "9",
+    "anidb": "1724",
+    "anilist/anime": "18",
+    "aozora": "vu0qFFWcvr",
+    "myanimelist/anime": "18",
+    "thetvdb": "70900/4",
+    "thetvdb/season": "1318",
+    "thetvdb/series": "70900",
+    "trakt": "40239"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "shounen-maid",
+  "synopsis": "After the sudden death of his mother, elementary school student Chihiro Komiya is left with no home and no family. But this changes when he encounters a rich and frivolous stranger who turns out to be his long-lost uncle, Madoka Takatori. Madoka offers to take Chihiro in, but upon arriving at his uncle's high-class mansion, the young boy is greeted by a plethora of dust and garbage. As Chihiro's neatfreak instincts kick in, he sets about cleaning the entire residence.\n\nShounen Maid is a lighthearted comedy that follows Chihiro as he finds himself dressed in a frilly uniform (handmade by his uncle), receiving a salary, and working as maid of the house.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Shonen Maid",
+    "jp": "Shounen Maid"
+  },
+  "releasedAt": "2016-04-08T00:00:00.000Z",
+  "finishedAt": "2016-07-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11570/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11570/original.jpeg",
+  "categories": [
+    "comedy",
+    "family",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/shonen-maid",
+    "https://www.funimation.com/shows/shonen-maid/"
+  ],
+  "relations": {
+    "kitsu": "11570",
+    "anidb": "11543",
+    "anilist/anime": "21321",
+    "aozora": "9JhS1RNlMG",
+    "myanimelist/anime": "32175",
+    "thetvdb": "305100/1",
+    "trakt": "104317"
+  }
+}

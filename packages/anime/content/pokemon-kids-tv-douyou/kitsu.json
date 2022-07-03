@@ -1,0 +1,20 @@
+{
+  "slug": "pokemon-kids-tv-douyou",
+  "synopsis": "A collection of assorted animated nursery rhymes and children songs released on Pokemon Kids TV Japan YouTube Channel.",
+  "title": {
+    "en": "Pokémon Kids TV Nursery Rhymes",
+    "jp": "Pokemon Kids TV Douyou"
+  },
+  "releasedAt": "2022-02-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46197/poster_image/bca5f8a053ec6ad2f97032224a8ce7b0.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "46197",
+    "myanimelist/anime": "51889"
+  }
+}

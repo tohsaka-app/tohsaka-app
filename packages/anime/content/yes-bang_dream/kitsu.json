@@ -1,0 +1,24 @@
+{
+  "slug": "yes-bang_dream",
+  "synopsis": "Animated music video for \"Yes! BanG_Dream!\", the debut single of Bushiroad's BanG Dream! project band Poppin' Party.",
+  "title": {
+    "jp": "Yes! BanG_Dream!"
+  },
+  "releasedAt": "2016-02-24T00:00:00.000Z",
+  "finishedAt": "2016-02-24T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11946/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11946",
+    "anidb": "11841",
+    "anilist/anime": "102482",
+    "aozora": "BX19RYAjup",
+    "myanimelist/anime": "32338"
+  }
+}

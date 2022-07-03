@@ -1,0 +1,40 @@
+{
+  "slug": "uchuu-kaizoku-mito-no-daibouken",
+  "synopsis": "Mito isn't just another space pirate, she's a three foot tall childlike alien with enough guts to outshine a supernova. She's known as the galaxy's most dangerous pirate, a wanted criminal who destroys a dozen police space cruisers every day before breakfast. But all she really wants is to be called \"Mom.\"\n(Source: ANN)",
+  "title": {
+    "en": "Space Pirate Mito",
+    "jp": "Uchuu Kaizoku Mito no Daibouken"
+  },
+  "releasedAt": "1999-01-05T00:00:00.000Z",
+  "finishedAt": "1999-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2461/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2461/original.png",
+  "categories": [
+    "action",
+    "comedy",
+    "japan",
+    "pirate",
+    "power suit",
+    "science fiction",
+    "shipboard",
+    "space"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GY75KQN36/Space-Pirate-Mito",
+    "https://vrv.co/series/GY75KQN36/Space-Pirate-Mito"
+  ],
+  "relations": {
+    "kitsu": "2461",
+    "anidb": "1469",
+    "anilist/anime": "2699",
+    "aozora": "MEi0jhmGwa",
+    "myanimelist/anime": "2699",
+    "thetvdb": "158991/1",
+    "thetvdb/season": "236141",
+    "thetvdb/series": "158991",
+    "trakt": "44207"
+  }
+}

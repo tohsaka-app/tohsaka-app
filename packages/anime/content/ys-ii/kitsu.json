@@ -1,0 +1,33 @@
+{
+  "slug": "ys-ii",
+  "synopsis": "Now that Adol Christen has saved the land of Esteria from the evil priest Dark Fact, Adol and the two priestesses travel to the floating land of Ys, where evil has an even greater influence on the people and no one has hope. The future of Ys falls to Adol, heir to the powers of the priests and the only one who can show the people of Ys the truth about their world. But, as Adol's power grows, he may be the one who will save Ys—or destroy it.",
+  "title": {
+    "en": "Ys II: Castle in the Heavens",
+    "jp": "Ys: Tenkuu no Shinden - Adol Christine no Bouken"
+  },
+  "releasedAt": "1992-12-16T00:00:00.000Z",
+  "finishedAt": "1993-07-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1152/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "deity",
+    "demon",
+    "fantasy",
+    "fantasy world",
+    "floating island",
+    "magic",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1152",
+    "anidb": "471",
+    "anilist/anime": "1277",
+    "aozora": "8FDsyhWQ5n",
+    "myanimelist/anime": "1277"
+  }
+}

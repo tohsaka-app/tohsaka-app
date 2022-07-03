@@ -1,0 +1,23 @@
+{
+  "slug": "nurse-witch-komugi-chan-magikarte-z-special",
+  "synopsis": "A short special about a Komugi-chan figure understanding how anime is actually made.",
+  "title": {
+    "jp": "Nurse Witch Komugi-chan Magikarte Z Special"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6219/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6219",
+    "anilist/anime": "10520",
+    "aozora": "aKPFYKPP1C"
+  }
+}

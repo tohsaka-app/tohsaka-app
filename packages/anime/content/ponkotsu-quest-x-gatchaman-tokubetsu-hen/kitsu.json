@@ -1,0 +1,20 @@
+{
+  "slug": "ponkotsu-quest-x-gatchaman-tokubetsu-hen",
+  "synopsis": "A collaboration promotion between the <i>Ponkotsu Quest</i> anime and the 2013 <i>Gatchman</i> live action film's release on DVD/BD March 5, 2014.",
+  "title": {
+    "jp": "Ponkotsu Quest x Gatchaman Special"
+  },
+  "releasedAt": "2014-03-02T00:00:00.000Z",
+  "finishedAt": "2014-03-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40624/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40624",
+    "aozora": "puYCd2ynqj",
+    "myanimelist/anime": "34844"
+  }
+}

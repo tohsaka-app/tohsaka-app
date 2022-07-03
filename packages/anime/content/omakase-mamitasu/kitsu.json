@@ -1,0 +1,27 @@
+{
+  "slug": "omakase-mamitasu",
+  "synopsis": "Nakagawa owns 10 cats in real life, and she adores one in particular named Mamitasu, the anime's namesake. The anime depicts the slapstick comedy of the idiosyncratic 10 cats and the folks in the unusual \"Nakagawa family.\" \n(Source: ANN)",
+  "title": {
+    "jp": "Omakase! Miracle Cat-dan"
+  },
+  "releasedAt": "2015-03-31T00:00:00.000Z",
+  "finishedAt": "2016-02-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10525/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10525",
+    "anidb": "11058",
+    "anilist/anime": "21037",
+    "aozora": "0YROqdT9Wv",
+    "myanimelist/anime": "29846",
+    "trakt": "100374"
+  }
+}

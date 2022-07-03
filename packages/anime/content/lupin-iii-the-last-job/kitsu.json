@@ -1,0 +1,36 @@
+{
+  "slug": "lupin-iii-the-last-job",
+  "synopsis": "Lupin III aims to steal a Japanese cultural treasure \"Jigoku Nyorai Zo,\" which is found in the recreation facilities of Nazi Germany. However, this valuable object is also targeted by Morgana, a mysterious figure who leads a ninja thief gang.",
+  "title": {
+    "en": "Lupin the Third: The Last Job",
+    "jp": "Lupin Sansei - The Last Job"
+  },
+  "releasedAt": "2010-02-12T00:00:00.000Z",
+  "finishedAt": "2010-02-12T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5193/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "crime",
+    "earth",
+    "europe",
+    "gunfights",
+    "italy",
+    "martial arts",
+    "ninja",
+    "swordplay",
+    "thievery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5193",
+    "anidb": "7288",
+    "anilist/anime": "8097",
+    "aozora": "7InxOV9W4X",
+    "myanimelist/anime": "8097"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "keijo-specials",
+  "synopsis": "Specials bundled with the DVD/BD release of the main series.",
+  "title": {
+    "jp": "Keijo!!!!!!!! Specials"
+  },
+  "releasedAt": "2016-11-21T00:00:00.000Z",
+  "finishedAt": "2017-05-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13922/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13922",
+    "anidb": "11922",
+    "anilist/anime": "98833",
+    "myanimelist/anime": "34884"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "dokonjo-gaeru",
+  "synopsis": "When Hiroshi was fighting against his rival Gorillaimo, he stumbled over a stone and fell on to a frog. To be surprised, the frog was still alive and it named itself Pyonkichi.\n(Source: AniDB)",
+  "title": {
+    "jp": "Dokonjou Gaeru"
+  },
+  "releasedAt": "1972-10-07T00:00:00.000Z",
+  "finishedAt": "1974-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4204/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4204",
+    "anidb": "4953",
+    "anilist/anime": "5618",
+    "aozora": "UZP3PSO56z",
+    "myanimelist/anime": "5618"
+  }
+}

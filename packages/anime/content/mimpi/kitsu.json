@@ -1,0 +1,24 @@
+{
+  "slug": "mimpi",
+  "synopsis": "MV for Reza Avanluna's song, Mimpi",
+  "title": {
+    "en": "Mimpi"
+  },
+  "releasedAt": "2020-11-15T00:00:00.000Z",
+  "finishedAt": "2020-11-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43916/original.jpg",
+  "categories": [
+    "anime influenced",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=EpYkYKABml4&ab_channel=RezaAvanluna%5BNIJISANJIID%5D"
+  ],
+  "relations": {
+    "kitsu": "43916"
+  }
+}

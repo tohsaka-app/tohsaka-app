@@ -1,0 +1,44 @@
+{
+  "slug": "aoki-hagane-no-arpeggio-ars-nova",
+  "synopsis": "By 2039, global warming had caused sea levels to rise and large amount of territory to be lost. As though in response, a mysterious group of warships clad in mist, \"the Fleet of Mist,\" appeared in every corner of the ocean, and began attacking human ships. In spite of humanity mustering all their strength, they were utterly defeated by the Mist's overwhelming force. All of humanity's trade routes were blockaded by the Fleet of Mist, their political economy was destroyed, and the human race was steadily beaten down. Seven years later, the Fleet of Mist's submarine I-401 appears before cadet Gunzo Chihaya. The humanoid life form that pilots the sub, who should be their enemy, is instead offering her services to mankind.\n(Source: ANN)",
+  "title": {
+    "en": "Arpeggio of Blue Steel -Ars Nova-",
+    "jp": "Aoki Hagane no Arpeggio: Ars Nova"
+  },
+  "releasedAt": "2013-10-08T00:00:00.000Z",
+  "finishedAt": "2013-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7769/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7769/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "conspiracy",
+    "disaster",
+    "earth",
+    "friendship",
+    "japan",
+    "military",
+    "navy",
+    "romance",
+    "science fiction",
+    "war"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/arpeggio-of-blue-steel",
+    "t"
+  ],
+  "relations": {
+    "kitsu": "7769",
+    "anidb": "9905",
+    "anilist/anime": "18893",
+    "aozora": "ib85xIkMqP",
+    "myanimelist/anime": "18893",
+    "thetvdb": "272317/1",
+    "thetvdb/series": "272317",
+    "trakt": "57035"
+  }
+}

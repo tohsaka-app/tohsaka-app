@@ -1,0 +1,25 @@
+{
+  "slug": "nananin-no-ayakashi-chimi-chimi-mouryou-gendai-monogatari",
+  "synopsis": "",
+  "title": {
+    "jp": "Nananin no Ayakashi: Chimi Chimi Mouryou!! Gendai Monogatari"
+  },
+  "releasedAt": "2016-12-05T00:00:00.000Z",
+  "finishedAt": "2017-01-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12756/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12756",
+    "anidb": "12514",
+    "anilist/anime": "98051",
+    "aozora": "TfR2LgGdxn",
+    "myanimelist/anime": "34309"
+  }
+}

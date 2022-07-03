@@ -1,0 +1,26 @@
+{
+  "slug": "sore-ike-anpanman-yuuki-no-hana-ga-hiraku-toki",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Yuuki no Hana ga Hiraku Toki"
+  },
+  "releasedAt": "1999-07-24T00:00:00.000Z",
+  "finishedAt": "1999-07-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9632/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9632",
+    "anidb": "7556",
+    "aozora": "Tlv7H9wZg5",
+    "myanimelist/anime": "21971"
+  }
+}

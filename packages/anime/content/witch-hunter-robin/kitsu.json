@@ -1,0 +1,41 @@
+{
+  "slug": "witch-hunter-robin",
+  "synopsis": "Witches are individuals with special powers like ESP, telekinesis, mind control, etc. (not the typical hogwart and newt potions). Robin, a 15-year-old craft user, arrives from Italy to Japan to work for an organization named STN Japan Division (STN-J) as a replacement for one of STN-J's witch hunters who was recently killed. Unlike other divisions of STN, STN-J tries to capture the witches alive in order to learn why and how they became witches in the first place.\n(Source: ANN)",
+  "title": {
+    "en": "Witch Hunter Robin",
+    "jp": "Witch Hunter Robin"
+  },
+  "releasedAt": "2002-07-02T00:00:00.000Z",
+  "finishedAt": "2002-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "coming of age",
+    "contemporary fantasy",
+    "cops",
+    "detective",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "mystery",
+    "science fiction",
+    "special squads"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4",
+    "anidb": "96",
+    "anilist/anime": "7",
+    "aozora": "VFLtyPyhbR",
+    "myanimelist/anime": "7",
+    "thetvdb": "78936/1",
+    "thetvdb/series": "78936",
+    "trakt": "1093"
+  }
+}

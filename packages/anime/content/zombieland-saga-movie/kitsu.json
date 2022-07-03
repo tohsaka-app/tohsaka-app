@@ -1,0 +1,27 @@
+{
+  "slug": "zombieland-saga-movie",
+  "synopsis": null,
+  "title": {
+    "en": "Zombieland Saga Movie",
+    "jp": "Zombieland Saga Movie"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45333/poster_image/02d172c212328d917a2a28b314d9abef.png",
+  "categories": [
+    "comedy",
+    "idol",
+    "music",
+    "supernatural",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45333",
+    "anilist/anime": "140337",
+    "myanimelist/anime": "50159"
+  }
+}

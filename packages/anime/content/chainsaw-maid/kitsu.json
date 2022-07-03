@@ -1,0 +1,33 @@
+{
+  "slug": "chainsaw-maid",
+  "synopsis": "A lady caked in blood bursts into the family's home and shouts, \"They're coming!\" Just what is coming? The family discovers that 'they' means zombies, much to their horror and displeasure. The master and the little girl have a difficult time processing this zombie invasion. However, they are very fortunate that they have a fully-prepared and fully-loaded maid that is quite capable. ",
+  "title": {
+    "en": "Chainsaw Maid",
+    "jp": "Chainsaw Maid"
+  },
+  "releasedAt": "2007-12-08T00:00:00.000Z",
+  "finishedAt": "2007-12-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6559/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "horror",
+    "maid",
+    "thriller",
+    "violence",
+    "zombie"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/chainsaw-maid"
+  ],
+  "relations": {
+    "kitsu": "6559",
+    "anidb": "8753",
+    "anilist/anime": "11679",
+    "aozora": "1S9GJ40S44",
+    "myanimelist/anime": "11679"
+  }
+}

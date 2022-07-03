@@ -1,0 +1,27 @@
+{
+  "slug": "stand-my-heroes-ova",
+  "synopsis": "The OVA will be based on the Narumi Seo character map story event that was featured in the smartphone game in April 2018. Seo, who has a unique memory disorder, will appear alongside other heroes of the Seo Research Laboratory in the OVA.\n\n(Source: MAL News)",
+  "title": {
+    "en": "Stand My Heroes OVA"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44543/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "josei",
+    "mystery",
+    "psychological",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44543",
+    "anilist/anime": "133892",
+    "myanimelist/anime": "48917"
+  }
+}

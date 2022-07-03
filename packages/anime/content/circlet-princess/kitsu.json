@@ -1,0 +1,27 @@
+{
+  "slug": "circlet-princess",
+  "synopsis": "The game follows a fictional near-future e-sport that utilizes a \"mixed reality system\" developed from augmented reality technology. The story centers on a fledgling team of high school girls from Saint Union Academy who pursue the sport of Circlet Bout.\n\n(Source: Anime News Network)",
+  "title": {
+    "jp": "Circlet Princess"
+  },
+  "releasedAt": "2019-01-08T00:00:00.000Z",
+  "finishedAt": "2019-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41996/original.png",
+  "categories": [
+    "action",
+    "high school",
+    "school life",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41996",
+    "anidb": "a14255",
+    "anilist/anime": "104008",
+    "myanimelist/anime": "38157"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "biohunter",
+  "synopsis": "Two scientists are attempting to distribute the cure for a demon virus that is affecting people all over Japan, however, things have become complicated. One of them has become infected. So begins his battle with himself, as he attempts to not only control his emerging demon side, but also to save the lives of others by wielding its great strength. ",
+  "title": {
+    "jp": "Bio Hunter"
+  },
+  "releasedAt": "1995-12-08T00:00:00.000Z",
+  "finishedAt": "1995-12-08T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1144/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1144/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "demon",
+    "earth",
+    "horror",
+    "japan",
+    "present",
+    "science fiction",
+    "super power",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1144",
+    "anidb": "914",
+    "anilist/anime": "1269",
+    "aozora": "13deK9y4RF",
+    "myanimelist/anime": "1269"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "yuru-camp",
+  "synopsis": "Rin likes to go camping by herself along the lakes that provide a scenic view of Mt. Fuji. Nadeshiko loves to take cycling trips by herself to places where she can see Mt. Fuji. After they meet, Rin and Nadeshiko take camping trips, eat cup ramen together, and enjoy the scenery.\n\n(Source: ANN)",
+  "title": {
+    "en": "Laid-Back Camp",
+    "jp": "Yuru Camp△"
+  },
+  "releasedAt": "2018-01-04T00:00:00.000Z",
+  "finishedAt": "2018-03-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13480/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13480/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/laid-back-camp"
+  ],
+  "relations": {
+    "kitsu": "13480",
+    "anilist/anime": "98444",
+    "aozora": "1AfQQjC7C9",
+    "myanimelist/anime": "34798",
+    "thetvdb": "330692/1"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "youkoso-japari-park",
+  "synopsis": "",
+  "title": {
+    "jp": "Youkoso Japari Park"
+  },
+  "releasedAt": "2018-08-10T00:00:00.000Z",
+  "finishedAt": "2020-09-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41933/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "juujin"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/welcome-to-the-japari-park"
+  ],
+  "relations": {
+    "kitsu": "41933",
+    "anidb": "14223",
+    "anilist/anime": "104187",
+    "myanimelist/anime": "37980"
+  }
+}

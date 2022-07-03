@@ -1,0 +1,35 @@
+{
+  "slug": "one-piece-3d-mugiwara-chase",
+  "synopsis": "According to Weekly Shonen Jump, 3D movies of One Piece and Toriko were announced to premiere on March 19th, 2011. One Piece 3D is an original story about the missing straw hat of Luffy. ",
+  "title": {
+    "jp": "One Piece 3D: Mugiwara Chase"
+  },
+  "releasedAt": "2011-03-19T00:00:00.000Z",
+  "finishedAt": "2011-03-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5987/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5987/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "navy",
+    "pirate",
+    "shounen",
+    "slapstick",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5987",
+    "anidb": "8010",
+    "anilist/anime": "9999",
+    "aozora": "TvugMrQE9E",
+    "myanimelist/anime": "9999"
+  }
+}

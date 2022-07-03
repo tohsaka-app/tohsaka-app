@@ -1,0 +1,31 @@
+{
+  "slug": "darwins-game",
+  "synopsis": "An unknowing Sudou Kaname is invited to try out a new mysterious mobile app game called Darwin's Game, but later realizes that he's in for more than he's bargained for when he finds out that there's no way to quit the game.\n\n(Source: MU)",
+  "title": {
+    "jp": "Darwin's Game"
+  },
+  "releasedAt": "2020-01-03T00:00:00.000Z",
+  "finishedAt": "2020-03-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42260/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42260/original.jpg",
+  "categories": [
+    "action",
+    "battle royale",
+    "mystery",
+    "science fiction",
+    "shounen",
+    "super power",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42260",
+    "anidb": "14476",
+    "anilist/anime": "105190",
+    "animenewsnetwork": "22301",
+    "myanimelist/anime": "38656"
+  }
+}

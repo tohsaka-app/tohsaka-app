@@ -1,0 +1,25 @@
+{
+  "slug": "gundam-uc-x-nike-sb",
+  "synopsis": "A special PV advertising Gundam Unicorn themed Nike Sneakers with original animation by Sunrise.",
+  "title": {
+    "en": "Gundam UC x Nike SB",
+    "jp": "Gundam UC x Nike SB"
+  },
+  "releasedAt": "2021-09-21T00:00:00.000Z",
+  "finishedAt": "2021-09-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45267/poster_image/65b4d34e3b3e0b3ac6dd563760856c13.jpg",
+  "categories": [
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45267",
+    "myanimelist/anime": "49941"
+  }
+}

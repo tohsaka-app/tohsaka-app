@@ -1,0 +1,38 @@
+[
+  {
+    "title": {
+      "jp": "Humming Bird"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1993-09-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Humming Bird '94 Natsu"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1994-06-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Humming Bird '95 Kaze no Uta"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1995-06-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Humming Bird '95 Yume no Basho e"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1995-12-01T00:00:00.000Z",
+    "content": {}
+  }
+]

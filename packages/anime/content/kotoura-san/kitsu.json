@@ -1,0 +1,43 @@
+{
+  "slug": "kotoura-san",
+  "synopsis": "A school love comedy. Kotoura Haruka is a 15-year-old girl who can read people's minds. She has been suffering from troubles caused by her mind-reading ability, and her parents got divorced as a result. She moves to a new high school but tries to keep away from her classmates. Manabe Yoshihisa, one of her classmates, accepts and appreciates her ability and she begins to interact with her friends with his help. \n(Source: MAL News)",
+  "title": {
+    "en": "The Troubled Life of Miss Kotoura",
+    "jp": "Kotoura-san"
+  },
+  "releasedAt": "2013-01-11T00:00:00.000Z",
+  "finishedAt": "2013-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7245/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7245/original.jpg",
+  "categories": [
+    "angst",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "friendship",
+    "japan",
+    "parental abandonment",
+    "romance",
+    "school clubs",
+    "school life",
+    "super deformed",
+    "thriller"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/kotoura-san",
+    "t"
+  ],
+  "relations": {
+    "kitsu": "7245",
+    "anidb": "9394",
+    "anilist/anime": "15379",
+    "aozora": "nnaBbKaM1J",
+    "myanimelist/anime": "15379",
+    "thetvdb": "264049/1",
+    "thetvdb/series": "264049",
+    "trakt": "68732"
+  }
+}

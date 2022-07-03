@@ -1,0 +1,39 @@
+{
+  "slug": "hokuto-no-ken-2",
+  "synopsis": "In the second series after Raoh has been defeated by Kenshiro a new rival appears. The Gentou Kouken warriors. Falco the successor of the Gentou Kouken takes orders from an evil ruler by the name of Jacko. He claims to be the man chosen by the Tentei and issues orders to his subordinates to capture anyone living in order to build up his Imperial Capital. Kenshiro once again rises out of the shadows and puts an end to his tyrannical ways. Amidst the mayhem Lynn gets captured and gets taken to the land of the Shura where only ruthless fighters exist. Now Kenshiro must pursue the captor and defeat the 3 Rasho of the land in order to escape with his life and with Lynn.",
+  "title": {
+    "en": "Fist of the North Star 2",
+    "jp": "Hokuto no Ken 2"
+  },
+  "releasedAt": "1987-03-12T00:00:00.000Z",
+  "finishedAt": "1988-02-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1210/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1210/original.png",
+  "categories": [
+    "action",
+    "drama",
+    "earth",
+    "martial arts",
+    "pirate",
+    "plot continuity",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "crunchyroll.com/fist-of-the-north-star",
+    "https://www.hulu.com/fist-of-the-north-star"
+  ],
+  "relations": {
+    "kitsu": "1210",
+    "anidb": "984",
+    "anilist/anime": "1356",
+    "aozora": "0oifGF7A3x",
+    "myanimelist/anime": "1356",
+    "thetvdb": "79156/1",
+    "thetvdb/series": "79156",
+    "trakt": "56032"
+  }
+}

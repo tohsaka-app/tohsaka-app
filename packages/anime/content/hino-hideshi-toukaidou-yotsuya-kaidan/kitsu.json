@@ -1,0 +1,24 @@
+{
+  "slug": "hino-hideshi-toukaidou-yotsuya-kaidan",
+  "synopsis": "Based on Kaidan Yotsuya (Classic Japanese ghost story).",
+  "title": {
+    "jp": "Hino Hideshi Toukaidou Yotsuya Kaidan"
+  },
+  "releasedAt": "2000-07-20T00:00:00.000Z",
+  "finishedAt": "2000-07-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8942/original.jpg",
+  "categories": [
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8942",
+    "anidb": "7917",
+    "anilist/anime": "17405",
+    "aozora": "Qk75D4h6Dz",
+    "myanimelist/anime": "17405"
+  }
+}

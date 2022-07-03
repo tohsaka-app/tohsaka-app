@@ -1,0 +1,25 @@
+{
+  "slug": "snowchild",
+  "synopsis": "Official music video for The Weeknd's single, \"Snowchild\"",
+  "title": {},
+  "releasedAt": "2020-07-22T00:00:00.000Z",
+  "finishedAt": "2020-07-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43423/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43423/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "contemporary fantasy",
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=G0JKdFjWkLA"
+  ],
+  "relations": {
+    "kitsu": "43423"
+  }
+}

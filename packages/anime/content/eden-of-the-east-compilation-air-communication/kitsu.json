@@ -1,0 +1,32 @@
+{
+  "slug": "eden-of-the-east-compilation-air-communication",
+  "synopsis": "A re-editing of the 11 television episodes of Higashi no Eden.",
+  "title": {
+    "en": "Eden of the East: Air Communication",
+    "jp": "Higashi no Eden: Air Communication"
+  },
+  "releasedAt": "2009-09-26T00:00:00.000Z",
+  "finishedAt": "2009-09-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4789/original.jpg",
+  "categories": [
+    "alternative present",
+    "comedy",
+    "conspiracy",
+    "earth",
+    "japan",
+    "mystery",
+    "present",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4789",
+    "anidb": "6763",
+    "anilist/anime": "6927",
+    "aozora": "YTZi4ww4iK",
+    "myanimelist/anime": "6927"
+  }
+}

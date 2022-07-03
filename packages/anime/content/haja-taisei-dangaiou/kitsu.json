@@ -1,0 +1,40 @@
+{
+  "slug": "haja-taisei-dangaiou",
+  "synopsis": "Four psychic teenagers—Mia Alice, Roll Kran, Lamba Nom and Pai Thunder—are brainwashed by the scientist Dr. Tarsan as pilots of his greatest experiment—the giant robot Dangaioh. But as their memories slowly return, these pilots use their abilities and Dangaioh to combat the tyranny of Captain Galimos and the Bunker Space Pirates. \n(Source: ANN)",
+  "title": {
+    "en": "Great Planet Evil-Destroyer Dangaio",
+    "jp": "Haja Taisei Dangaiou"
+  },
+  "releasedAt": "1987-09-28T00:00:00.000Z",
+  "finishedAt": "1989-07-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/458/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/458/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "angst",
+    "cyborg",
+    "drama",
+    "future",
+    "mecha",
+    "other planet",
+    "robot",
+    "science fiction",
+    "shipboard",
+    "space travel",
+    "super power",
+    "super robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "458",
+    "anidb": "919",
+    "anilist/anime": "498",
+    "aozora": "9RdGBvWum4",
+    "myanimelist/anime": "498"
+  }
+}

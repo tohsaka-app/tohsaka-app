@@ -1,0 +1,23 @@
+{
+  "slug": "socket",
+  "synopsis": "The main character is a woman that has electric current on her body. She is very lonely and nobody approaches her. Till, one day, a little boy is not afraid of her, and they turn friends.",
+  "title": {
+    "jp": "Socket"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4964/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4964",
+    "anilist/anime": "7416",
+    "aozora": "c9ThsqzWdu",
+    "myanimelist/anime": "7416"
+  }
+}

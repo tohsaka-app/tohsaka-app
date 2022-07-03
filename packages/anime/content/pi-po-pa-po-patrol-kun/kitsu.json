@@ -1,0 +1,27 @@
+{
+  "slug": "pi-po-pa-po-patrol-kun",
+  "synopsis": "A children's anime about police and their talking police cars. It has no steady plot.",
+  "title": {
+    "en": "Pi Po Pa Po Patrol",
+    "jp": "Pi Po Pa Po Patrol-kun"
+  },
+  "releasedAt": "2000-12-04T00:00:00.000Z",
+  "finishedAt": "2001-03-07T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3024/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "motorsport"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3024",
+    "anidb": "2128",
+    "anilist/anime": "3458",
+    "aozora": "EQc4LlNsmC",
+    "myanimelist/anime": "3458"
+  }
+}

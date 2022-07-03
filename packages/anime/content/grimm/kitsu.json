@@ -1,0 +1,19 @@
+{
+  "slug": "grimm",
+  "synopsis": "WIT Studio produced anime series based on Grimms’ fairy tales for Netflix with character design by CLAMP and screenplay by Michiko Yokote.",
+  "title": {
+    "en": "Grimm"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44745/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "44745",
+    "anilist/anime": "135643"
+  }
+}

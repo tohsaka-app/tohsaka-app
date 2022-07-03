@@ -1,0 +1,27 @@
+{
+  "slug": "high-score-girl-extra-stage",
+  "synopsis": "Episodes 13-15 of High Score Girl.",
+  "title": {
+    "jp": "High Score Girl: Extra Stage"
+  },
+  "releasedAt": "2019-03-20T00:00:00.000Z",
+  "finishedAt": "2019-03-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42200/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life",
+    "seinen"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80997338"
+  ],
+  "relations": {
+    "kitsu": "42200",
+    "anilist/anime": "104307",
+    "myanimelist/anime": "38422"
+  }
+}

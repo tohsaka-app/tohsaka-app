@@ -1,0 +1,23 @@
+{
+  "slug": "toumei-shounen-tantei-akira",
+  "synopsis": "Pilot episode of the anime Chargeman Ken.",
+  "title": {
+    "jp": "Toumei Shounen Tantei Akira"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6363/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6363",
+    "anilist/anime": "10812",
+    "aozora": "jTqiPVXWmv",
+    "myanimelist/anime": "10812"
+  }
+}

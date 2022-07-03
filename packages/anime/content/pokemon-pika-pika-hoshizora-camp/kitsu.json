@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-pika-pika-hoshizora-camp",
+  "synopsis": "Pikachu and some of the other pokemon camp out in the woods and help the Pichu brothers get on the train.",
+  "title": {
+    "en": "Pokemon: Camp Pikachu",
+    "jp": "Pokemon: Pika Pika Hoshizora Camp"
+  },
+  "releasedAt": "2002-07-13T00:00:00.000Z",
+  "finishedAt": "2002-07-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3789/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3789",
+    "anidb": "6800",
+    "anilist/anime": "4795",
+    "aozora": "hMJMd6Rb1g",
+    "myanimelist/anime": "4795"
+  }
+}

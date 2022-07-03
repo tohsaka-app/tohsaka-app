@@ -1,0 +1,30 @@
+{
+  "slug": "tomica-kizuna-gattai-earth-granner",
+  "synopsis": "The story centers on the battles between the mysterious alien enemy Dark Spinner and the secret defense unit Earth Granner over Earth Energy, the energy generated from the Earth's rotation.\n\n(Source: Anime News Network)",
+  "title": {
+    "jp": "Tomica Kizuna Gattai: Earth Granner"
+  },
+  "releasedAt": "2020-04-05T00:00:00.000Z",
+  "finishedAt": "2021-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43039/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "kids",
+    "mecha",
+    "science fiction",
+    "super robot",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43039",
+    "anidb": "15355",
+    "anilist/anime": "114717",
+    "animenewsnetwork": "23032",
+    "myanimelist/anime": "41062"
+  }
+}

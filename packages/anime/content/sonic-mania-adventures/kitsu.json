@@ -1,0 +1,25 @@
+{
+  "slug": "sonic-mania-adventures",
+  "synopsis": "Series of shorts based on the Sonic Mania Game.",
+  "title": {},
+  "releasedAt": "2018-03-30T00:00:00.000Z",
+  "finishedAt": "2018-07-17T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41160/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41160/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "fantasy",
+    "fantasy world"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41160",
+    "thetvdb": "345313/1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "i-wanna",
+  "synopsis": "Music video animated by Riri Yamashita for the song I Wanna by Minato Aqua.",
+  "title": {
+    "en": "I Wanna",
+    "jp": "I Wanna"
+  },
+  "releasedAt": "2022-02-18T00:00:00.000Z",
+  "finishedAt": "2022-02-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45906/poster_image/ab122b325a99d8b66ff15d00c3a8fee5.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=swX1O_a_vAk"
+  ],
+  "relations": {
+    "kitsu": "45906",
+    "anilist/anime": "145388",
+    "myanimelist/anime": "51084"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "youkai-watch-movie-3",
+  "synopsis": "Third Youkai Watch movie. ",
+  "title": {
+    "jp": "Youkai Watch Movie 3: Soratobu Kujira to Double Sekai no Daibouken da Nyan!"
+  },
+  "releasedAt": "2016-12-17T00:00:00.000Z",
+  "finishedAt": "2016-12-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12104/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12104",
+    "anidb": "11816",
+    "anilist/anime": "121663",
+    "aozora": "M5rityw8fg",
+    "myanimelist/anime": "32222"
+  }
+}

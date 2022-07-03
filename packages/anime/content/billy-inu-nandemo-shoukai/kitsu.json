@@ -1,0 +1,25 @@
+{
+  "slug": "billy-inu-nandemo-shoukai",
+  "synopsis": "The sequel to Biriken series.",
+  "title": {
+    "jp": "Biriken Nandemo Shoukai"
+  },
+  "releasedAt": "1989-04-10T00:00:00.000Z",
+  "finishedAt": "1989-09-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5370/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5370",
+    "anidb": "2252",
+    "anilist/anime": "8521",
+    "aozora": "PZovWqA6bJ",
+    "myanimelist/anime": "8521"
+  }
+}

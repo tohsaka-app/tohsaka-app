@@ -1,0 +1,32 @@
+{
+  "slug": "hoshi-no-ko-chobin",
+  "synopsis": "Chobin is a cute little alien prince from another planet, who crash landed on earth. Looking for his mother, he has a magical bracelet that will help him on his quest.",
+  "title": {
+    "en": "Starchild Chobin",
+    "jp": "Hoshi no Ko Chobin"
+  },
+  "releasedAt": "1974-04-05T00:00:00.000Z",
+  "finishedAt": "1974-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3286/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "comedy",
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3286",
+    "anidb": "5238",
+    "anilist/anime": "3834",
+    "aozora": "nck3m16OwW",
+    "myanimelist/anime": "3834",
+    "thetvdb": "146491",
+    "trakt": "65786"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "breakage",
+  "synopsis": "In 2007, the inhabitants of Danger Planet II fight their battles using remote-controlled robots or \"virtual puppets.\" Kirio Nimura is a high school student and the strongest puppeteer on the planet, until he falls for Sairi Takahara, who insists that nobody may make advances until they have beaten her puppet, Benkei.\n(Source: Anime Encyclopedia)",
+  "title": {
+    "jp": "Break-Age"
+  },
+  "releasedAt": "1999-09-25T00:00:00.000Z",
+  "finishedAt": "1999-09-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4565/original.jpg",
+  "categories": [
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4565",
+    "anidb": "6405",
+    "anilist/anime": "6447",
+    "aozora": "y3a7k2W5Hc",
+    "myanimelist/anime": "6447"
+  }
+}

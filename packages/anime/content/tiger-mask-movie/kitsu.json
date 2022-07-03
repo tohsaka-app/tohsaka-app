@@ -1,0 +1,25 @@
+{
+  "slug": "tiger-mask-movie",
+  "synopsis": "Re-edit of Episode 9&amp;10.",
+  "title": {
+    "jp": "Tiger Mask (Movie)"
+  },
+  "releasedAt": "1970-03-17T00:00:00.000Z",
+  "finishedAt": "1970-03-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9670/original.jpg",
+  "categories": [
+    "sports",
+    "wrestling"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9670",
+    "anidb": "7647",
+    "anilist/anime": "18061",
+    "aozora": "8rXJypQWKR",
+    "myanimelist/anime": "18061"
+  }
+}

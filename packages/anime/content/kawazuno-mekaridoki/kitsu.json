@@ -1,0 +1,23 @@
+{
+  "slug": "kawazuno-mekaridoki",
+  "synopsis": "The official music video for Touyu's song \"Kawazuno Mekaridoki.\" ",
+  "title": {
+    "jp": "Kawazuno Mekaridoki"
+  },
+  "releasedAt": "2016-11-23T00:00:00.000Z",
+  "finishedAt": "2016-11-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12961/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12961",
+    "anilist/anime": "104447",
+    "aozora": "jl4VUYlCnM",
+    "myanimelist/anime": "34657"
+  }
+}

@@ -1,0 +1,574 @@
+[
+  {
+    "title": {
+      "jp": "Fallen"
+    },
+    "synopsis": "When Cybertron is threatened by a colossal black hole, Optimus Prime and the Autobots give the order to evacuate the planet. However, a mysterious stranger holds one last hope...\n",
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17146/original.jpg",
+    "releasedAt": "2005-09-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Haven"
+    },
+    "synopsis": "With the help of their human friends, the Autobots construct a new HQ on Earth, but will Megatron discover their secret base before it's finished...\n",
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17147/original.jpg",
+    "releasedAt": "2005-09-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hidden"
+    },
+    "synopsis": "The Autobots attempt to blend in by assuming alternate transformation modes suitible for Earth. Meanwhile, the Decepticons enagage human military forces, and the Autobots are forced to intervene.\n",
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17148/original.jpg",
+    "releasedAt": "2005-07-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Landmine"
+    },
+    "synopsis": "Landmine tries to adjust to life on Earth while recovering from the injury Starscream's null cannons inflicted on him. Meanwhile, the Autobots discover what planet the second cyber planet key is hidden on, and Hot Shot and Red Alert are sent to seek it out.\n",
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17149/original.jpg",
+    "releasedAt": "2005-07-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Space"
+    },
+    "synopsis": "Bud is taken into space so he can see what the Earth is really like, but trouble occurs when he and Scattershot must be saved while the others are fighting against Thundercracker and Starscream. Meanwhile Red Alert and Hot Shot try to remain hidden on the Race Planet while Megatron reveals himself to Override.\n",
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17150/original.jpg",
+    "releasedAt": "2005-07-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rush"
+    },
+    "synopsis": "Hotshot and Megatron race against Override in an attempt to win the first cyber planet key. Will either win when Crumplezone and Ransack are interferring?\n",
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17151/original.jpg",
+    "releasedAt": "2005-07-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Speed"
+    },
+    "synopsis": "Starscream plots how he can defend his title as Megatron's right-hand man while Thundercracker lures the Autobots into a trap. Meanwhile, Hot Shot tries another attempt to beat Override.\n",
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17152/original.jpg",
+    "releasedAt": "2005-07-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Collapse"
+    },
+    "synopsis": "Megatron searches for the Cyber Planet Key with extreme force, while the Autobots try to stop the massive earthquakes that are threatening the city.\n",
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17153/original.jpg",
+    "releasedAt": "2005-08-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Time"
+    },
+    "synopsis": "Red Alert becomes concerned at the desperate measures Hot Shot is taking to beat Override, while Vector Prime and the kids travel to the Sahara in search of the Omega Lock.\n",
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17154/original.jpg",
+    "releasedAt": "2005-08-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Search"
+    },
+    "synopsis": "The Autobots join Vector Prime to search for the Omega Lock, while Overhaul is left stranded by a surprise attack by Megatron and Starscream.\n",
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17155/original.jpg",
+    "releasedAt": "2005-08-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Deep"
+    },
+    "synopsis": "Overhaul and Megatron try to convince inhabitants of the Jungle Planet of their 'good' intentions, while the Autobots investigate the appearance of a new Atlantean symbol.\n",
+    "season": 1,
+    "number": 11,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17156/original.jpg",
+    "releasedAt": "2005-08-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ship"
+    },
+    "synopsis": "After the \"Atlantis\" ship disappeared, Optimus Prime and Megatron head to the moon where it's hiding while Vector Prime and the kids locate the Omega Lock. Will the Autobots prevent the Decepticons from getting the Omega Lock? And what does a side-changing Transformer named Sideways have planned?\n",
+    "season": 1,
+    "number": 12,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17157/original.jpg",
+    "releasedAt": "2005-09-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hero"
+    },
+    "synopsis": "Optimus discovers that Hot Shot has disobeyed his orders while Red Alert has covered for him. However, he is forced to put his trust into Hot Shot to win the Cyber Key from Override.\n",
+    "season": 1,
+    "number": 13,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17158/original.jpg",
+    "releasedAt": "2005-09-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Race"
+    },
+    "synopsis": "Hot Shot and the Autobots battle Ransack and Crumplezone in the first round, while Starscream continues to build his forces when he recruits Mudflap and Lori and Bud uncover information on the Ancients' prehistoric visit to Earth.\n",
+    "season": 1,
+    "number": 14,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17159/original.jpg",
+    "releasedAt": "2005-09-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Detour"
+    },
+    "synopsis": "As the race for the Speed Planet Cup continues, Hot Shot teaches Override the Autobots' code of honour, while Overhaul faces Scourge on the Jungle Planet.\n",
+    "season": 1,
+    "number": 15,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17160/original.jpg",
+    "releasedAt": "2005-10-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Savage"
+    },
+    "synopsis": "Koby helps Hot Shot to train for the gruelling next leg of the Speed Planet Cup, while Optimus Prime and Vector Prime answer a distress call from the Jungle Planet.\n",
+    "season": 1,
+    "number": 16,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17161/original.jpg",
+    "releasedAt": "2005-10-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sand"
+    },
+    "synopsis": "Hot Shot takes a dangerous gamble in the next round of the Speed Planet Cup, while Sideways tries to pit the Autobots against the Decepticons against each other...\n\n\n",
+    "season": 1,
+    "number": 17,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17162/original.jpg",
+    "releasedAt": "2005-10-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Champion"
+    },
+    "synopsis": "After the terrible injuries sustained in the last race, Hot Shot cannot finish the final race on his own... Leaving Koby to enter the tournament as Hot Shot's driver.\n\n",
+    "season": 1,
+    "number": 18,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17163/original.jpg",
+    "releasedAt": "2005-10-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ice"
+    },
+    "synopsis": "Bud, Lori and Koby encounter government scientist Professor Suzuki while investigating strange phenomena at the North Pole, while Starscream plans a new attack.\n\n",
+    "season": 1,
+    "number": 19,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17164/original.jpg",
+    "releasedAt": "2005-10-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Honor"
+    },
+    "synopsis": "Leobreaker disobeys Optimus' direct orders and attacks Scourge. Although Scourge now respects Leobreaker, the incident has caused a rift between him and Optimus...\n",
+    "season": 1,
+    "number": 20,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17165/original.jpg",
+    "releasedAt": "2005-10-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Primal"
+    },
+    "synopsis": "Scourge and Optimus Prime battle each other for the Jungle Planet Cyber Key with Override from Speed Planet and Lori from earth being the guest viewers.\n",
+    "season": 1,
+    "number": 21,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17166/original.jpg",
+    "releasedAt": "2005-10-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Trust"
+    },
+    "synopsis": "In an attempt to confuse the Decepticons, Optimus makes duplicate cyber keys for each Autobot. Meanwhile Dr. Suzuki makes an amazing discovery at the North Pole.\n",
+    "season": 1,
+    "number": 22,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17167/original.jpg",
+    "releasedAt": "2005-10-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Trap"
+    },
+    "synopsis": "The secret history of Earth and Cybertron is revealed with the awakening of monster-hunting Autobot Smokescreen. Meanwhile the Autobots are drawn into a cavern filled with ancient Decepticons...\n",
+    "season": 1,
+    "number": 23,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17168/original.jpg",
+    "releasedAt": "2005-10-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Invasion"
+    },
+    "synopsis": "Starscream unleashes the ancient Decepticons in an attempt to find Earth's Cyber Planet Key, Optimus leads the Autobots in battle...\n\n",
+    "season": 1,
+    "number": 24,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17169/original.jpg",
+    "releasedAt": "2005-10-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Retreat"
+    },
+    "synopsis": "The Minicons rescue the kids from the military, while Sideways learns the location of the Autobots' Earth base and leads every Decepticon to Coby's home town...\n\n",
+    "season": 1,
+    "number": 25,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17170/original.jpg",
+    "releasedAt": "2005-10-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Revelation"
+    },
+    "synopsis": "Scourge frees Megatron from Starscream's trap and heads toward Earth. The Autobots must deal with Megatron and locating Starscream's location at the same time.\n",
+    "season": 1,
+    "number": 26,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17171/original.jpg",
+    "releasedAt": "2005-10-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Critical"
+    },
+    "synopsis": "Just as all hope is lost, the light of Primus shines down on the fallen Autobot warriors (Scattershot, Red Alert, and Hot Shot) and resurrects them.\n",
+    "season": 1,
+    "number": 27,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17172/original.jpg",
+    "releasedAt": "2006-03-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Assault"
+    },
+    "synopsis": "A three-way battle unfolds between the Decepticons, the Autobots, and Starscream's forces. Then, an Autobot warrior named Wing Saber appears.\n",
+    "season": 1,
+    "number": 28,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17173/original.jpg",
+    "releasedAt": "2006-03-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Starscream"
+    },
+    "synopsis": "With the Autobots closing in, Starscream unleashes the Omega Lock's power and grows to a tremendous size. Meanwhile, the Cybertron Defense Team is sent to check on Cybertron, but they find it infested with hundreds of spider-like transformers called Scrapmetal drones.\n",
+    "season": 1,
+    "number": 29,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17174/original.jpg",
+    "releasedAt": "2006-03-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "United"
+    },
+    "synopsis": "Override, EVAC, and Leobreaker are sent to help the Cybertron Defense team on Cybertron. Megatron's Decepticons follow as well as Thunderblast who joins Megatron. Optimus and Wing Saber combine and overpower Starscream.\n",
+    "season": 1,
+    "number": 30,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17175/original.jpg",
+    "releasedAt": "2006-04-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cybertron"
+    },
+    "synopsis": "The Autobots are finally able to destroy Megatron. They then try to revive Cybertron using the Omega Lock, but it triggers a reaction that seemingly begins to tear apart the planet!\n",
+    "season": 1,
+    "number": 31,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17176/original.jpg",
+    "releasedAt": "2006-04-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Balance"
+    },
+    "synopsis": "The true form of planet Cybertron is revealed as the planet sized transformer, Primus. Jolt is used as the device to connect and relay the messages of Primus, who begins to speak of things that have long since passed.\n",
+    "season": 1,
+    "number": 32,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17177/original.jpg",
+    "releasedAt": "2006-04-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Darkness"
+    },
+    "synopsis": "The Autobots search for Jolt and the kids who have been kidnapped by Sideways and Starscream, but Megatron has discovered new information regarding Unicron's dark power that could alter the effects of the war.\n",
+    "season": 1,
+    "number": 33,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17178/original.jpg",
+    "releasedAt": "2006-09-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Memory"
+    },
+    "synopsis": "The kids are forced to use trickery to keep Sidewways and Starscream from deleting Jolt's memory, but the Autobots are getting closer with every minute.\n",
+    "season": 1,
+    "number": 34,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17179/original.jpg",
+    "releasedAt": "2006-09-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Escape"
+    },
+    "synopsis": "Jolt and the kids manage to get off a distress call, but Megatron refuses to let Optimus out of battle forcing Vector Prime to lead the rescue team with one big question: will they arrive on time?\n",
+    "season": 1,
+    "number": 35,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17180/original.jpg",
+    "releasedAt": "2006-09-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Family"
+    },
+    "synopsis": "In order to rescue his brother, Coby decides to go to Giant Planet. But before he leaves, he tries to tell his parents about the Transformers.\n",
+    "season": 1,
+    "number": 36,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17181/original.jpg",
+    "releasedAt": "2006-09-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Titans"
+    },
+    "synopsis": "Primus tries to use his spark energy to stop the black hole but Starscream interferes by throwing himself into Primus's spark energy, this causes him to grow to planet size. He then decides to take on Primus.\n",
+    "season": 1,
+    "number": 37,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17182/original.jpg",
+    "releasedAt": "2006-09-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Warp"
+    },
+    "synopsis": "The Autobots travel to the Giant Planet on the old Atlantian ship Ogygia, but in the space bridge they must face off with the very mind of Atlantis itself.\n",
+    "season": 1,
+    "number": 38,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17183/original.jpg",
+    "releasedAt": "2006-09-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Giant"
+    },
+    "synopsis": "The Autobots must convience giant Transformers who are only interested in building new buildings to assist them in their search for the Cyber Planet Key.\n",
+    "season": 1,
+    "number": 39,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17184/original.jpg",
+    "releasedAt": "2006-09-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fury"
+    },
+    "synopsis": "The Autobots begin the search for the missing Cyber Planet Key, but there about to have bigger problems on hand as Megatron is resurrected into the mighty Galvatron.\n",
+    "season": 1,
+    "number": 40,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17185/original.jpg",
+    "releasedAt": "2006-09-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "City"
+    },
+    "synopsis": "Optimus and company rescue Bud and the Minicons, but Ransack and Crumplezone will do everything possible to prevent them from finding the Cyber Planet Key.\n",
+    "season": 1,
+    "number": 41,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17186/original.jpg",
+    "releasedAt": "2006-09-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ambush"
+    },
+    "synopsis": "The Autobots divide into teams and journeys to the depths of Giant Planet. However, they face a difficult battle against an attack from a strange underground structure and Decepticon. Lori's party appears and runs into the team of Scourge and furthermore, Thunderblast.\n",
+    "season": 1,
+    "number": 42,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17187/original.jpg",
+    "releasedAt": "2006-09-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Challenge"
+    },
+    "synopsis": "The black hole expands even further and the crisis has approached Jungle Planet. Leobreaker and Snarl wager the leader's throne and challenge Scourge. Meanwhile Lori discovers an image that depicts the past when Giant Planet was concealed. Giant Planet was attacked by a countless numbers of Sideways drones that came from Planet X.\n",
+    "season": 1,
+    "number": 43,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17188/original.jpg",
+    "releasedAt": "2006-09-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Scourge"
+    },
+    "synopsis": "Although Scourge is the winner of the fight, Scourge's emotion causes him to hesitate. Among such, he encounters by chance Bud, who has formed the Mini-Con Recon Team. Meanwhile, the Cybertron Defense Team shifts into action and takes on Galvatron.\n",
+    "season": 1,
+    "number": 44,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17189/original.jpg",
+    "releasedAt": "2006-09-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Optimus"
+    },
+    "synopsis": "The Autobots and Decepticons finally reach the lowest depths of Giant Planet. Coby and Landmine head to the spaceship Lemuria where the Planet Key is located. Meanwhile Galvatron arrives and confronts Optimus, who is doubting himself after the defeat of the Cybertron Defense Team.\n",
+    "season": 1,
+    "number": 45,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17190/original.jpg",
+    "releasedAt": "2006-09-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Showdown"
+    },
+    "synopsis": "Starscream and Galvatron battle for possession of the Omega Lock and the four Planet Keys. Though the Autobots try to intervene, Soundwave and Sideways get in their way and hope to see the battle through to the end.\n",
+    "season": 1,
+    "number": 46,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17191/original.jpg",
+    "releasedAt": "2006-09-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Guardian"
+    },
+    "synopsis": "Wing Saber hurries to the space bridge in the sky. However, he was not there in time and the space bridge begins to fall apart due to the battle that had just occurred. Lori grieves that she cannot return to her home world. The Autobots who were not able to return to their original dimension because of the collapse of the space bridge attempt to artificially create a space bridge of their own but only fail. Vector Prime then decides that he must act to save the universe and destroy the black hole.\n",
+    "season": 1,
+    "number": 47,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17192/original.jpg",
+    "releasedAt": "2006-09-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Homecoming"
+    },
+    "synopsis": "Galvatron uses his might to pull Earth, the Speed Planet, and the Jungle Planet through space bridges forcing all Transformers to unite and fight against him.\n",
+    "season": 1,
+    "number": 48,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17193/original.jpg",
+    "releasedAt": "2006-09-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "End"
+    },
+    "synopsis": "Optimus approaches Galvatron to take the Omega Lock and Planet Keys. However, Galvatron is drawing out the power of the Planet Keys, and Thundercracker, Thunderblast, Ransack, and Crumplezone grow to giant size. In the midst of the battle between the Transformer forces, the Leaders of each planet face Galvatron.\n",
+    "season": 1,
+    "number": 49,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17194/original.jpg",
+    "releasedAt": "2006-09-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Unfinished"
+    },
+    "synopsis": "Galvatron who is worn out and without power wanders through the universe. At that time, something shining catches his eye. The voice of Starscream is heard and asks \"Have You Given Up? Meanwhile Jungle Planet has gotten caught in Cybertron's gravitational field causing a new crisis to form, and Optimus sets out to confront Galvatron for one final battle.\n",
+    "season": 1,
+    "number": 50,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17195/original.jpg",
+    "releasedAt": "2006-09-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Beginning"
+    },
+    "synopsis": "Representatives of each planet have successively gathered together on Cybertron. The first Space Peace Conference opens with Optimus Prime. Optimus Prime makes a proposal for the construction plan of a new space bridge, but the time has come for old friends to finally seperate.\n",
+    "season": 1,
+    "number": 51,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17196/original.jpg",
+    "releasedAt": "2006-09-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Inferno"
+    },
+    "synopsis": "In the final episode of Cybertron peace has settled on the Earth, but new information will reveal why Landmine arrived on Earth and not elsewhere and why Scattershot had such unusual reading when they arrived.\n",
+    "season": 1,
+    "number": 52,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/17197/original.jpg",
+    "releasedAt": "2006-10-02T00:00:00.000Z",
+    "content": {}
+  }
+]

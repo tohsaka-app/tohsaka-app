@@ -1,0 +1,24 @@
+{
+  "slug": "reflection-of-crescent",
+  "synopsis": "A short video released to promote the Chinese production, Reflection of Crescent.",
+  "title": {
+    "jp": "Xian Yue Meng Ying"
+  },
+  "releasedAt": "2010-08-28T00:00:00.000Z",
+  "finishedAt": "2010-08-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13156/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "shounen ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13156",
+    "anilist/anime": "143643",
+    "myanimelist/anime": "33295"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "sword-art-online-extra-edition",
+  "synopsis": "Yui wants to see a whale so Kirito suggests a quest where she can meet them. However, it turns out that Leafa cannot swim so Asuna and the other female characters decide to train Suguha in a real-world pool in preparation for the aforementioned quest. Meanwhile, Kirito meets a certain someone. ",
+  "title": {
+    "en": "Sword Art Online: Extra Edition",
+    "jp": "Sword Art Online: Extra Edition"
+  },
+  "releasedAt": "2013-12-31T00:00:00.000Z",
+  "finishedAt": "2013-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7914/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7914/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "angst",
+    "fantasy",
+    "high fantasy",
+    "magic",
+    "romance",
+    "science fiction",
+    "swordplay",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/sword-art-online",
+    "https://www.hulu.com/watch/587876",
+    "vrv.co/series/GR49G9VP6/Sword-Art-Online"
+  ],
+  "relations": {
+    "kitsu": "7914",
+    "anidb": "10022",
+    "anilist/anime": "20021",
+    "aozora": "b3EoMM5vTF",
+    "myanimelist/anime": "20021",
+    "trakt": "45529"
+  }
+}

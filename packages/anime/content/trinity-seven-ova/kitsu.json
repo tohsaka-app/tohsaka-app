@@ -1,0 +1,32 @@
+{
+  "slug": "trinity-seven-ova",
+  "synopsis": "Arata is set to be expelled! The only way to save himself is to be taught more about the magic archives from the Trinity Seven themselves.",
+  "title": {
+    "jp": "Trinity Seven: Nanatsu no Taizai to Nana Madoushi"
+  },
+  "releasedAt": "2015-03-25T00:00:00.000Z",
+  "finishedAt": "2015-03-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10014/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10014/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "magic",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10014",
+    "anidb": "10914",
+    "anilist/anime": "21064",
+    "aozora": "CMspRvNjwl",
+    "myanimelist/anime": "28285"
+  }
+}

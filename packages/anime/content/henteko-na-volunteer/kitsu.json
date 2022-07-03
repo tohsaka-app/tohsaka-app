@@ -1,0 +1,24 @@
+{
+  "slug": "henteko-na-volunteer",
+  "synopsis": "An educational film about the merits of volunteer work. A group of children help achieve a grandmother's dream of learning how to read and write.",
+  "title": {
+    "jp": "Henteko na Volunteer"
+  },
+  "releasedAt": "1993-01-01T00:00:00.000Z",
+  "finishedAt": "1993-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10108/original.jpg",
+  "categories": [
+    "drama",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10108",
+    "anidb": "10127",
+    "aozora": "R7MBz7WnAS",
+    "myanimelist/anime": "28353"
+  }
+}

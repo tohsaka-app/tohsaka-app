@@ -1,0 +1,42 @@
+{
+  "slug": "cat-s-eye",
+  "synopsis": "The three Kisugi sisters—Rui, Hitomi and Ai—during the day run a small cafe called \"Cat's Eye.\" To discover the whereabouts of their father, the artist Michael Heintz, who has disappeared, Hitomi and her sisters rob art galleries as the smart and mysterious thief \"Cat's Eye\" in the hope that his works can give them clues about his vanishing. The crucial point is that Hitomi has a relationship with Toshi, a police inspector who has sworn to catch \"Cat's Eye\"—and of course he has no idea about Hitomi's double life.\n(Source: ANN)",
+  "title": {
+    "jp": "Cat's Eye"
+  },
+  "releasedAt": "1983-07-11T00:00:00.000Z",
+  "finishedAt": "1985-07-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1842/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1842/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "comedy",
+    "crime",
+    "detective",
+    "earth",
+    "japan",
+    "mystery",
+    "present",
+    "romance",
+    "thievery"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/cats-eye"
+  ],
+  "relations": {
+    "kitsu": "1842",
+    "anidb": "1025",
+    "anilist/anime": "2043",
+    "aozora": "Bl3uWdyMi3",
+    "hulu": "50008392",
+    "myanimelist/anime": "2043",
+    "thetvdb": "79835/1",
+    "thetvdb/series": "79835",
+    "trakt": "33967"
+  }
+}

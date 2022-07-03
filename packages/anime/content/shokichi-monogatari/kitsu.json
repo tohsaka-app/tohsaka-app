@@ -1,0 +1,25 @@
+{
+  "slug": "shokichi-monogatari",
+  "synopsis": "A music video created by married artist unit Uruma Delvi about a stray dog named Shokichi.",
+  "title": {
+    "jp": "Shokichi Monogatari"
+  },
+  "releasedAt": "2009-11-11T00:00:00.000Z",
+  "finishedAt": "2009-11-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5936/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5936",
+    "anidb": "8433",
+    "anilist/anime": "9910",
+    "aozora": "mTBAiOzOzo",
+    "myanimelist/anime": "9910"
+  }
+}

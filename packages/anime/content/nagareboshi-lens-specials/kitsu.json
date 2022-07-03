@@ -1,0 +1,23 @@
+{
+  "slug": "nagareboshi-lens-specials",
+  "synopsis": "Three episodes aired on TV as part of the Ribon x Oha Suta specials. ",
+  "title": {
+    "jp": "Nagareboshi Lens Specials"
+  },
+  "releasedAt": "2012-10-02T00:00:00.000Z",
+  "finishedAt": "2012-10-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7297/original.jpg",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7297",
+    "anilist/anime": "15717",
+    "aozora": "qe1jHcunQg",
+    "myanimelist/anime": "15717"
+  }
+}

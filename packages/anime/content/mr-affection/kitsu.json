@@ -1,0 +1,23 @@
+{
+  "slug": "mr-affection",
+  "synopsis": "Official music video for IDOLiSH7's song \"Mr.AFFECTiON\" for the 2019 BĻACK OR WHiTE event.\n",
+  "title": {
+    "en": "Mr. Affection",
+    "jp": "Mr.AFFECTiON"
+  },
+  "releasedAt": "2019-12-19T00:00:00.000Z",
+  "finishedAt": "2019-12-19T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43012/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43012",
+    "anilist/anime": "114434",
+    "myanimelist/anime": "40900"
+  }
+}

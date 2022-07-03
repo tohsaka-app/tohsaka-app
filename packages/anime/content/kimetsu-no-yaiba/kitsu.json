@@ -1,0 +1,38 @@
+{
+  "slug": "kimetsu-no-yaiba",
+  "synopsis": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Demon Slayer: Kimetsu no Yaiba",
+    "jp": "Kimetsu no Yaiba"
+  },
+  "releasedAt": "2019-04-06T00:00:00.000Z",
+  "finishedAt": "2019-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41370/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/41370/cover_image/7958f9c01b57c980636386d124553791.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "historical",
+    "japan",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [
+    "https://vrv.co/series/GY5P48XEY/Demon-Slayer-Kimetsu-no-Yaiba",
+    "https://www.crunchyroll.com/demon-slayer-kimetsu-no-yaiba",
+    "https://www.funimation.com/shows/demon-slayer-kimetsu-no-yaiba/",
+    "https://www.hulu.com/demon-slayer-kimetsu-no-yaiba",
+    "https://www.netflix.com/watch/81091413"
+  ],
+  "relations": {
+    "kitsu": "41370",
+    "anidb": "14107",
+    "anilist/anime": "101922",
+    "myanimelist/anime": "38000"
+  }
+}

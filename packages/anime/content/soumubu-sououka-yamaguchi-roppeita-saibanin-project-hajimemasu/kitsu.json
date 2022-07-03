@@ -1,0 +1,23 @@
+{
+  "slug": "soumubu-sououka-yamaguchi-roppeita-saibanin-project-hajimemasu",
+  "synopsis": "An educational anime about the lay judge system which was implemented in Japan the following year using Soumubu Sououka Yamaguchi Roppeita, a manga which had been running since 1986.",
+  "title": {
+    "jp": "Soumubu Sououka Yamaguchi Roppeita: Saibanin Project Hajimemasu!"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10992/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10992",
+    "anidb": "11301",
+    "aozora": "jvrR3Kvxph",
+    "myanimelist/anime": "30762"
+  }
+}

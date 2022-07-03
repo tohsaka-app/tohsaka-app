@@ -1,0 +1,32 @@
+{
+  "slug": "made-in-abyss-hourou-suru-tasogare",
+  "synopsis": "Second of two films recapping the first season of the TV anime.",
+  "title": {
+    "en": "Made in Abyss: Wandering Twilight",
+    "jp": "Made in Abyss: Hourou suru Tasogare"
+  },
+  "releasedAt": "2019-01-18T00:00:00.000Z",
+  "finishedAt": "2019-01-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41081/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41081/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "mystery",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/made-in-abyss-wandering-twilight"
+  ],
+  "relations": {
+    "kitsu": "41081",
+    "anidb": "13941",
+    "anilist/anime": "101344",
+    "myanimelist/anime": "37515"
+  }
+}

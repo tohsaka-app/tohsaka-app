@@ -1,0 +1,22 @@
+{
+  "slug": "taka-no-tsume-x-megane-super",
+  "synopsis": "A collaboration anime between Taka no Tsume and Megane Super, an eyeglasses company in Japan.",
+  "title": {
+    "jp": "Taka no Tsume x Megane Super"
+  },
+  "releasedAt": "2016-06-30T00:00:00.000Z",
+  "finishedAt": "2016-11-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13112/original.jpg",
+  "categories": [
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13112",
+    "aozora": "5NRYoHgJ9G",
+    "myanimelist/anime": "33945"
+  }
+}

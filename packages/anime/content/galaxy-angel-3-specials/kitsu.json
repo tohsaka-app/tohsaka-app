@@ -1,0 +1,26 @@
+{
+  "slug": "galaxy-angel-3-specials",
+  "synopsis": "Specials from Galaxy Angel 3 DVDs.",
+  "title": {
+    "jp": "Galaxy Angel 3 Specials"
+  },
+  "releasedAt": "2003-11-28T00:00:00.000Z",
+  "finishedAt": "2003-11-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/602/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/galaxy-angel/?qid=None"
+  ],
+  "relations": {
+    "kitsu": "602",
+    "anilist/anime": "654",
+    "aozora": "ja4vQhnnvi",
+    "myanimelist/anime": "654"
+  }
+}

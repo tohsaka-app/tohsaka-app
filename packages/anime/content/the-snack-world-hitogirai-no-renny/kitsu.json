@@ -1,0 +1,26 @@
+{
+  "slug": "the-snack-world-hitogirai-no-renny",
+  "synopsis": "The Snack World follows a ragtag group of friends who embark on an adventure together. They live in a land similar to traditional fantasy settings but with certain modern twists like cell phones and convenience stores.",
+  "title": {
+    "jp": "The Snack World: Hitogirai no Renny"
+  },
+  "releasedAt": "2016-12-17T00:00:00.000Z",
+  "finishedAt": "2016-12-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12848/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12848",
+    "anidb": "12559",
+    "aozora": "jwSLO30YxR",
+    "myanimelist/anime": "34416"
+  }
+}

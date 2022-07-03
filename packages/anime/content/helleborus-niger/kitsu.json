@@ -1,0 +1,25 @@
+{
+  "slug": "helleborus-niger",
+  "synopsis": "A story of a father and a daughter. He projects the images of former himself on his daughter. Their feelings start to merge as their memories clearer.\n\nGraduate Work 2015 by Kohei Takeda, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Helleborus Niger",
+    "jp": "Helleborus Niger"
+  },
+  "releasedAt": "2015-03-07T00:00:00.000Z",
+  "finishedAt": "2015-03-07T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45679/poster_image/43a62dd4072a5929ef83229efd630239.jpg",
+  "categories": [
+    "psychological",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/hnapXumM0JQ"
+  ],
+  "relations": {
+    "kitsu": "45679",
+    "anilist/anime": "106548"
+  }
+}

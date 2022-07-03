@@ -1,0 +1,29 @@
+{
+  "slug": "xevious",
+  "synopsis": "In the year 2150 A.D. space pilot Takeru and human computer Martha come across a giant ship which contains two mechanical beings called Sara and Ru Mi. They warn Takeru and Martha of the Gump, an alien race that is heading to Earth so that it can take over the planet. With only 40 mintues remaining until Earth's invasion, Takeru enters the Solvalou, a combat aircraft, and heads to the Gump's base on the planet Andoa.\n(Source: ANN)",
+  "title": {
+    "jp": "Xevious"
+  },
+  "releasedAt": "2002-08-03T00:00:00.000Z",
+  "finishedAt": "2002-08-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6817/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "earth",
+    "science fiction",
+    "space",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6817",
+    "anidb": "3359",
+    "anilist/anime": "12799",
+    "aozora": "krvN8MHFAZ",
+    "myanimelist/anime": "12799"
+  }
+}

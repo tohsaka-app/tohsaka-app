@@ -1,0 +1,24 @@
+{
+  "slug": "kochinpa-dainiki",
+  "synopsis": "The second season of KochinPa!",
+  "title": {
+    "jp": "KochinPa! Dainiki"
+  },
+  "releasedAt": "2016-12-06T00:00:00.000Z",
+  "finishedAt": "2017-05-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12825/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12825",
+    "anidb": "12617",
+    "anilist/anime": "98090",
+    "aozora": "lKuzIZldax",
+    "myanimelist/anime": "34503"
+  }
+}

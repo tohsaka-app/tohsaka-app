@@ -1,0 +1,23 @@
+{
+  "slug": "nonbiri-to",
+  "synopsis": "Music vid for the song Nonbiri to, by AZKi.",
+  "title": {
+    "jp": "Nonbiri to,"
+  },
+  "releasedAt": "2020-01-22T00:00:00.000Z",
+  "finishedAt": "2020-01-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43979/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=7W2oVgMpmzs&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43979"
+  }
+}

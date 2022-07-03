@@ -1,0 +1,21 @@
+{
+  "slug": "just-be-friends",
+  "synopsis": "",
+  "title": {
+    "jp": "Just Be Friends"
+  },
+  "releasedAt": "2009-08-28T00:00:00.000Z",
+  "finishedAt": "2009-08-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42254/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42254/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42254"
+  }
+}

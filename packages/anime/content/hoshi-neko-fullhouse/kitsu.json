@@ -1,0 +1,32 @@
+{
+  "slug": "hoshi-neko-fullhouse",
+  "synopsis": "This slapstick comedy is about three pretty girls struggling to earn a living as pilots of the Iron Goblin delivery vessel. The computer answers back, the space pirates are on their tail, and romantic entanglements with their clients cause friction in the trio. The final episode throws the alien Eterna race in to the mix.\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "en": "Star Cat Fullhouse",
+    "jp": "Hoshi Neko Fullhouse"
+  },
+  "releasedAt": "1989-06-16T00:00:00.000Z",
+  "finishedAt": "1989-12-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4344/original.jpg",
+  "categories": [
+    "alien",
+    "comedy",
+    "future",
+    "idol",
+    "romance",
+    "science fiction",
+    "shipboard",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4344",
+    "anidb": "3603",
+    "anilist/anime": "5927",
+    "aozora": "O23DHHyAmx",
+    "myanimelist/anime": "5927"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "detective-conan-ova-02-16-suspects",
+  "synopsis": "Conan Edogawa and the rest of the gang are invited to Inspector Ninzaburou Shiratori's villa for a small gathering. The party's highlight is Shiratori's prized wine collection—including his most expensive vintage—and a bottle from it will be served for the evening. However, just as this wine is to be brought out, Shiratori finds the bottle smashed on the floor—and the culprit can only be among the 16 people present in the gathering.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Case Closed OVA 02: 16 Suspects",
+    "jp": "Detective Conan OVA 02: 16 Suspects"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2278/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "cops",
+    "countryside",
+    "detective",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2278",
+    "anidb": "3591",
+    "anilist/anime": "2512",
+    "aozora": "1JfRwB3laY",
+    "myanimelist/anime": "2512",
+    "trakt": "30849"
+  }
+}

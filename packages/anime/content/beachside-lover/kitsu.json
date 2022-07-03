@@ -1,0 +1,20 @@
+{
+  "slug": "beachside-lover",
+  "synopsis": "",
+  "title": {
+    "jp": "Beachside Lover"
+  },
+  "releasedAt": "2016-09-05T00:00:00.000Z",
+  "finishedAt": "2016-09-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41622/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41622",
+    "anilist/anime": "102314",
+    "myanimelist/anime": "36489"
+  }
+}

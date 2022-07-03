@@ -1,0 +1,39 @@
+{
+  "slug": "sakura-taisen",
+  "synopsis": "Sakura travels to the capital with aspirations of defending the city from the demonic forces of the Black Sanctum Council like her father before her. However, things are not as she imagined as in addition to using her great spiritual energy to pilot a mech called a Kobu, she must also perform on stage as an actor as The Imperial Flower Division's cover is an art theater. Making a fool of herself and ruining a production gets her on everyone's bad side and somehow she must learn to work with them as well as prevent the enemy from destroying several shrines which protect the city.\n(Source: ANN)",
+  "title": {
+    "en": "Sakura Wars",
+    "jp": "Sakura Taisen"
+  },
+  "releasedAt": "2000-04-08T00:00:00.000Z",
+  "finishedAt": "2000-09-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/518/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative past",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "mecha",
+    "past",
+    "science fiction",
+    "steampunk"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/sakura-wars"
+  ],
+  "relations": {
+    "kitsu": "518",
+    "anidb": "400",
+    "anilist/anime": "561",
+    "aozora": "0J6YETFDcw",
+    "hulu": "50014939",
+    "myanimelist/anime": "561",
+    "thetvdb/series": "249623"
+  }
+}

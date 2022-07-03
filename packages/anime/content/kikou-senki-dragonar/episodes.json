@@ -1,0 +1,434 @@
+[
+  {
+    "title": {
+      "jp": "Day of Fire"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1987-02-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Battle in the Ruins"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1987-02-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Blue Eagle of Giganos"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1987-02-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Men's Battlefield"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1987-02-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Battle of Promise"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1987-03-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Training for Warriors"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1987-03-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Goodbye Japther"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1987-03-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Battle: Retrieve Prisoners [Part One]"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1987-03-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Battle: Retrieve Prisoners [Part Two]"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1987-04-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Intense Battle"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1987-04-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Land of Feverish Hope"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1987-04-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "To Each Their Own Path"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1987-05-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Countdown to Mass Driver"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1987-05-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A New Journey"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1987-05-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dragonar's Close Shave"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1987-05-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Trap of the Replenishment Base"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1987-06-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Destruction Grant"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1987-06-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Blue Eagle's Suprise Attack"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1987-06-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Flight Weapon D (Dragonar)"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1987-06-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Meeting Again on the Ocean"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1987-07-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Enemy MA (Metal Armor) Capture Maneuvers"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1987-07-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Giganos Fortress Destruction Order"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1987-07-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Confrontation with Maio Plato"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1987-07-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": " \t Large Shanghai Flight"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1987-08-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "D-Weapon Re-Planning"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1987-08-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fear of Gun Jiem"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1987-08-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Seeing! Dragonar Guerrilla Warfare Party"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1987-08-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Threatening Viper Unit"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1987-08-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Disappearance! Rescue Linda"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1987-09-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Necessary Shooting! Chain Saw Attack"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1987-09-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Assassins from the Moon"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1987-09-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sniper of Vengeance"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "1987-09-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Betrayal of Giganos"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "1987-10-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Close Attack! Earth Spider Maneuvers"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "1987-10-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fear! Infinite Movement Gun"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "1987-10-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": " Super Attack! Gun Jiem's Anger"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "1987-10-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Overthrow! Viper Seiryuu sword"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "1987-11-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Appearance! Ultimate MA (Metal Armor)"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "1987-11-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Heroic! Gun Jiem's Last Moments"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "1987-11-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cunning! Major Haidel Nekken"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "1987-11-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Revival! Blue Eagle of Giganos"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "1987-12-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Move! Giganos' Invincible Fortress"
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "1987-12-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Decision! Enormous Fortress Attack Order"
+    },
+    "season": 1,
+    "number": 43,
+    "releasedAt": "1987-12-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Heartless! Dragonar vs. Dragonar"
+    },
+    "season": 1,
+    "number": 44,
+    "releasedAt": "1987-12-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Special Attack! Blue Eagle's Vengeance"
+    },
+    "season": 1,
+    "number": 45,
+    "releasedAt": "1988-01-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Break In! Rescue Aoi Wakaba"
+    },
+    "season": 1,
+    "number": 46,
+    "releasedAt": "1988-01-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Pressing Hard! Captain Min's Pursuit"
+    },
+    "season": 1,
+    "number": 47,
+    "releasedAt": "1988-01-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Universal (Heavenly) Victory"
+    },
+    "season": 1,
+    "number": 48,
+    "releasedAt": "1988-01-30T00:00:00.000Z",
+    "content": {}
+  }
+]

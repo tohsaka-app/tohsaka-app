@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-pikachu-no-natsuyasumi",
+  "synopsis": "Ash and his friends arrive at a Pokémon-only park. They set all their Pokémon loose and, after Ash tells Pikachu to watch over Togepi, they enter for a day of fun and relaxation. Unfortunately, it's not going to turn out the way they had hoped.\n(Source: Serebii)",
+  "title": {
+    "en": "Pokemon: Pikachu's Summer Vacation",
+    "jp": "Pokemon: Pikachu no Natsuyasumi"
+  },
+  "releasedAt": "1998-07-18T00:00:00.000Z",
+  "finishedAt": "1998-07-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4136/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4136/original.jpeg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4136",
+    "anidb": "6796",
+    "anilist/anime": "5526",
+    "aozora": "iLhIOAR038",
+    "myanimelist/anime": "5526"
+  }
+}

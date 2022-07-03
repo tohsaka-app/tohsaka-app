@@ -1,0 +1,30 @@
+{
+  "slug": "shokugeki-no-souma-gou-no-sara",
+  "synopsis": "In the heated final season of Food Wars! Shokugeki no Soma, Yukihira Soma and the Totsuki Academy compete in The Blue!(Source: Crunchyroll)",
+  "title": {
+    "jp": "Shokugeki no Souma: Gou no Sara"
+  },
+  "releasedAt": "2020-04-11T00:00:00.000Z",
+  "finishedAt": "2020-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42921/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42921/original.png",
+  "categories": [
+    "action",
+    "comedy",
+    "cooking",
+    "ecchi",
+    "school life",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/food-wars-shokugeki-no-soma"
+  ],
+  "relations": {
+    "kitsu": "42921",
+    "anilist/anime": "114043",
+    "myanimelist/anime": "40902"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "eden-of-the-east-movie-ii-paradise-lost",
+  "synopsis": "The story of political and subversive intrigue in the series finally reaches endgame. Even as the law enforcement net tightens around Saki and her fellow Eden of the East associates over alleged terrorist activities, the complex web surrounding the mysterious Mr. Outside is finally untangled as the remaining Selecao attempt to outmaneuver one another. Takizawa's memories and identity are also finally revealed including his association with a former Prime Minister and his request to be the King of Eden.\n\n(Source: ANN)",
+  "title": {
+    "en": "Eden of the East: Paradise Lost",
+    "jp": "Higashi no Eden Movie II: Paradise Lost"
+  },
+  "releasedAt": "2010-03-13T00:00:00.000Z",
+  "finishedAt": "2010-03-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4646/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4646/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "asia",
+    "battle royale",
+    "comedy",
+    "earth",
+    "japan",
+    "mystery",
+    "romance",
+    "thriller"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/eden-of-the-east"
+  ],
+  "relations": {
+    "kitsu": "4646",
+    "anidb": "6637",
+    "anilist/anime": "6637",
+    "aozora": "Mfnmh9TgCK",
+    "hulu": "50010625",
+    "myanimelist/anime": "6637"
+  }
+}

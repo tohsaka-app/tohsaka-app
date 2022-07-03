@@ -1,0 +1,28 @@
+{
+  "slug": "piststar",
+  "synopsis": "The Nagoya Keirin Golden Dolphin Competition is a bicycle race—specifically a Japanese style track cycling event held in a velodrome—and this year's 62nd annual competition will be supporting areas affected by the 2011 earthquake. An anime clip was created as part of a promotional campaign.",
+  "title": {
+    "jp": "PistStar"
+  },
+  "releasedAt": "2012-03-19T00:00:00.000Z",
+  "finishedAt": "2012-03-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6945/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6945/original.jpg",
+  "categories": [
+    "japan",
+    "magic",
+    "magical girl",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6945",
+    "anidb": "9118",
+    "anilist/anime": "13359",
+    "aozora": "073qUtmElV",
+    "myanimelist/anime": "13359"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "hana-wa-saku",
+  "synopsis": "\"Hana wa Saku\" is a song written by Shunji Iwai and Yoko Kanno to support NHK's reconstruction efforts in the areas hardest hit by the 2011 Great Eastern Japan Earthquake. An animated music video was created in commemoration of the two-year anniversary of the disaster and broadcast on NHK G.",
+  "title": {
+    "en": "Flowers Will Bloom",
+    "jp": "Hana wa Saku"
+  },
+  "releasedAt": "2013-03-20T00:00:00.000Z",
+  "finishedAt": "2013-03-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8834/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8834/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8834",
+    "anidb": "11006",
+    "anilist/anime": "17897",
+    "aozora": "Oqtzm6a28t",
+    "myanimelist/anime": "17897"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "teekyuu-2",
+  "synopsis": "Second season of Teekyu series.",
+  "title": {
+    "en": "Teekyu 2",
+    "jp": "Teekyuu 2"
+  },
+  "releasedAt": "2013-07-07T00:00:00.000Z",
+  "finishedAt": "2013-09-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7718/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7718/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "school clubs",
+    "school life",
+    "sports",
+    "tennis"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/teekyu"
+  ],
+  "relations": {
+    "kitsu": "7718",
+    "anidb": "9805",
+    "anilist/anime": "18121",
+    "aozora": "arxJDdsFcZ",
+    "myanimelist/anime": "18121",
+    "thetvdb": "262856/2",
+    "thetvdb/season": "516256",
+    "thetvdb/series": "262856",
+    "trakt": "67893"
+  }
+}

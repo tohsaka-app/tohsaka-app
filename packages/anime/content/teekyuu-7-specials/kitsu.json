@@ -1,0 +1,24 @@
+{
+  "slug": "teekyuu-7-specials",
+  "synopsis": "Unaired specials included in the Blu-ray and DVD release.",
+  "title": {
+    "jp": "Teekyuu 7 Specials"
+  },
+  "releasedAt": "2016-05-27T00:00:00.000Z",
+  "finishedAt": "2016-05-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13114/original.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13114",
+    "anilist/anime": "98760",
+    "aozora": "5N6HvGqNHE",
+    "myanimelist/anime": "32817"
+  }
+}

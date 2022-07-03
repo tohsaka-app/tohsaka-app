@@ -1,0 +1,24 @@
+{
+  "slug": "fate-grand-order-moonlight-lostroom",
+  "synopsis": "Short centering on a \"Lost Room\" where you can find what was lost — or those who lost. This room, which belongs to no one, lies forgotten in a corner of Chaldea.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Fate/Grand Order: Moonlight/Lostroom"
+  },
+  "releasedAt": "2017-12-31T00:00:00.000Z",
+  "finishedAt": "2017-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14096/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14096",
+    "anilist/anime": "100728",
+    "myanimelist/anime": "36915"
+  }
+}

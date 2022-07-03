@@ -1,0 +1,26 @@
+{
+  "slug": "king-s-raid-ishi-wo-tsugumono-tachi",
+  "synopsis": "The story is set in a world of sword and sorcery a century after King Kairu of Orvelia defeated the demon king Angumundo. The squire Kasel lives in these peaceful times. However, Kasel's destiny is set in motion when he hears of the demons reappearing on his land. Guided by a great wise man, Kasel embarks on an adventure with his companions to drive back the darkness threatening his once peaceful land and become the Chosen Warrior of the Holy Sword Aea.(Source: ANN)",
+  "title": {
+    "en": "King's Raid: Successors of the Will",
+    "jp": "King's Raid: Ishi wo Tsugumono-tachi"
+  },
+  "releasedAt": "2020-10-03T00:00:00.000Z",
+  "finishedAt": "2021-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43552/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43552",
+    "anilist/anime": "118376",
+    "myanimelist/anime": "41834"
+  }
+}

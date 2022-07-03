@@ -1,0 +1,25 @@
+{
+  "slug": "oretacha-youkai-ningen",
+  "synopsis": "",
+  "title": {
+    "jp": "Oretacha Youkai Ningen"
+  },
+  "releasedAt": "2017-10-04T00:00:00.000Z",
+  "finishedAt": "2018-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13916/original.jpg",
+  "categories": [
+    "demon",
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13916",
+    "anidb": "13389",
+    "anilist/anime": "99856",
+    "aozora": "65iyj12aYV",
+    "myanimelist/anime": "36135"
+  }
+}

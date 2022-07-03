@@ -1,0 +1,20 @@
+{
+  "slug": "avabel-online",
+  "synopsis": " ",
+  "title": {
+    "jp": "Avabel Online"
+  },
+  "releasedAt": "0000-01-03T00:00:00.000Z",
+  "finishedAt": "0000-01-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40603",
+    "anilist/anime": "21801",
+    "aozora": "1BkuMgRlNk",
+    "myanimelist/anime": "33224"
+  }
+}

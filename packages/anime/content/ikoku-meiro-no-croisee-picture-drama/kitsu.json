@@ -1,0 +1,26 @@
+{
+  "slug": "ikoku-meiro-no-croisee-picture-drama",
+  "synopsis": "Ikoku Meiro no Croisée Picture Drama.",
+  "title": {
+    "en": "La croisée dans un labyrinthe étranger Picture Drama",
+    "jp": "Ikoku Meiro no Croisée Picture Drama"
+  },
+  "releasedAt": "2011-10-26T00:00:00.000Z",
+  "finishedAt": "2012-03-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6400/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6400/original.jpg",
+  "categories": [
+    "historical",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6400",
+    "anilist/anime": "10905",
+    "aozora": "Vh8DgucKqA",
+    "myanimelist/anime": "10905"
+  }
+}

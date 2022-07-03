@@ -1,0 +1,24 @@
+{
+  "slug": "mukougaoka-chisato-wa-tada-mitsumeteita-no-datta",
+  "synopsis": "A portrait of emotion. Chisato tries to remember and stay at a moment, through music.",
+  "title": {
+    "jp": "Mukougaoka Chisato wa Tada Mitsumeteita no Datta"
+  },
+  "releasedAt": "2009-06-30T00:00:00.000Z",
+  "finishedAt": "2009-06-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4963/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4963",
+    "anidb": "9325",
+    "anilist/anime": "7415",
+    "aozora": "zDNNypC5n6",
+    "myanimelist/anime": "7415"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "galaxy-express-999",
+  "synopsis": "In the distant future, humanity has found a way to live forever by purchasing mechanical bodies, but this way to immortality is extraordinarily expensive. An impoverished boy, Tetsurou Hoshino, desires to purchase a pass on the Galaxy Express 999—a train that travels throughout the universe—because it is said that at the end of the line, those aboard can obtain a mechanical body for free. When Tetsurou's mother is gunned down by the villainous machine-man hybrid Count Mecha, however, all seems lost.\nTetsurou is then saved from certain death by the mysterious Maetel, a tall woman with blonde hair and a striking resemblance to his mother. She gives him a pass to the Galaxy Express under one condition: that they travel together. Thus, Tetsurou begins his journey across the universe to many unique planets and thrilling adventures, in hopes of being able to attain that which he most desires.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Galaxy Express 999",
+    "jp": "Ginga Tetsudou 999"
+  },
+  "releasedAt": "1978-09-14T00:00:00.000Z",
+  "finishedAt": "1981-04-09T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1337/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1337/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "coming of age",
+    "cyborg",
+    "drama",
+    "dystopia",
+    "future",
+    "gunfights",
+    "human enhancement",
+    "other planet",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space travel"
+  ],
+  "externals": [
+    "http://tubitv.com/series/1834",
+    "http://www.crunchyroll.com/galaxy-express-999",
+    "http://www.funimation.com/shows/galaxy-express-999/videos/episodes",
+    "http://www.hulu.com/galaxy-express-999"
+  ],
+  "relations": {
+    "kitsu": "1337",
+    "anidb": "484",
+    "anilist/anime": "1491",
+    "aozora": "kEjrq1gq9R",
+    "myanimelist/anime": "1491",
+    "thetvdb": "100171/1",
+    "thetvdb/series": "100171",
+    "trakt": "31571"
+  }
+}

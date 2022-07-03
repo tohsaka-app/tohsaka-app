@@ -1,0 +1,24 @@
+{
+  "slug": "bear-bear-bear-kuma",
+  "synopsis": "Mini anime for Kuma Kuma Kuma Bear released weekly on the Kadokawa Anime YouTube channel.",
+  "title": {
+    "jp": "Bear Bear Bear Kuma!"
+  },
+  "releasedAt": "2020-10-09T00:00:00.000Z",
+  "finishedAt": "2020-12-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43790/original.png",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43790",
+    "anidb": "15342",
+    "anilist/anime": "124896",
+    "myanimelist/anime": "43353"
+  }
+}

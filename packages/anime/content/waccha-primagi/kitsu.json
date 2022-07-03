@@ -1,0 +1,27 @@
+{
+  "slug": "waccha-primagi",
+  "synopsis": "Matsuri Hibino spends her days in middle school dreaming about PriMagi, the sparkling stage show that combines song, dance and fashion with actual magic. She’d love to star in the PriMagi one day, and when the spirited troublemaker Myamu appears from another, magical world to scout Matsuri as her PriMagi partner, the pair takes to the stage to become the top stars of PriMagi hand in hand!\n\n(Source: Sentai Filmworks)",
+  "title": {
+    "jp": "Waccha PriMagi!"
+  },
+  "releasedAt": "2021-10-03T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44814/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/44814/cover_image/62677a545304b21ab74a69ea634b2c80.png",
+  "categories": [
+    "idol",
+    "magic",
+    "music"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/waccha-primagi"
+  ],
+  "relations": {
+    "kitsu": "44814",
+    "anilist/anime": "136119",
+    "myanimelist/anime": "49285"
+  }
+}

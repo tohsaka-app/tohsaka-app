@@ -1,0 +1,33 @@
+{
+  "slug": "kizuna-ichigeki",
+  "synopsis": "Kizuna Todoroki is a young girl who fights using the teachings of the Wadachi Ju-ken school. After winning a big tournament, the day still isn't over for the Kizuna's family.\nKizuna's family are visited by a woman journalist for an interview but are interrupted by a new group of challengers.",
+  "title": {
+    "jp": "Kizuna Ichigeki"
+  },
+  "releasedAt": "2011-03-05T00:00:00.000Z",
+  "finishedAt": "2011-03-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5996/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "combat",
+    "comedy",
+    "earth",
+    "family",
+    "japan",
+    "martial arts",
+    "present",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5996",
+    "anidb": "8255",
+    "anilist/anime": "10016",
+    "aozora": "SS5FQToh0G",
+    "myanimelist/anime": "10016"
+  }
+}

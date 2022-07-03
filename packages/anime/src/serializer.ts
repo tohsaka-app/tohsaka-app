@@ -29,8 +29,8 @@ export function serialize(data: any): Show {
 
 		kind: data.subtype.toLowerCase(),
 		status: data.status.toLowerCase(),
-		rating: data.ageRating.toLowerCase(),
-		posterUrl: data.posterImage.original,
+		rating: data.ageRating?.toLowerCase() || "g",
+		posterUrl: data.posterImage?.original,
 		coverUrl: data.coverImage?.original,
 		categories: data.categories.data.map((value: any) => value.title.toLowerCase()).sort(),
 		externals: data.streamingLinks.data.map((value: any) => value.url).sort(),

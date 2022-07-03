@@ -1,0 +1,24 @@
+{
+  "slug": "look-at-me",
+  "synopsis": "Graduate Work 2012 from Senri IIDA, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\nA high-school girl came to an amusement park in the afternoon. She lost her bear key-holder when she changed key-holders. Misunderstanding to be abandoned, the bear tries to follow her. Can he really regain her love?\n\n(Source: GEIDAI ANIMATION)",
+  "title": {
+    "en": "Look at Me!",
+    "jp": "Look at Me!"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45294/poster_image/788a49470bff8c605834c101f61c143f.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [
+    "https://youtu.be/wmlg0EuhqjI"
+  ],
+  "relations": {
+    "kitsu": "45294",
+    "anilist/anime": "113261"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "kishin-taisen-gigantic-formula",
+  "synopsis": "2035 A.D. The heads of ancient giant idols were excavated all over the world. Using those twelve stones statues, Humanity had barely overcome the threat of extinction called the \"Equatorial Winter\". But the stone statues had forced Humanity to construct colossal suits of armor as their bodies and demanded that the humans fight each other.\n(Source: ANN)",
+  "title": {
+    "jp": "Kishin Taisen Gigantic Formula"
+  },
+  "releasedAt": "2007-04-05T00:00:00.000Z",
+  "finishedAt": "2007-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2006/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "conspiracy",
+    "earth",
+    "future",
+    "japan",
+    "mecha",
+    "military",
+    "piloted robot",
+    "plot continuity",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2006",
+    "anidb": "4909",
+    "anilist/anime": "2215",
+    "aozora": "sdKx8nIiXu",
+    "myanimelist/anime": "2215",
+    "thetvdb": "80278/1",
+    "thetvdb/series": "80278",
+    "trakt": "36203"
+  }
+}

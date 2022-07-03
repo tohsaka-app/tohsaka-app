@@ -1,0 +1,26 @@
+{
+  "slug": "phoenix-king",
+  "synopsis": "",
+  "title": {
+    "en": "Defenders of Space",
+    "jp": "Bulsajo Robot Phoenix King"
+  },
+  "releasedAt": "1984-01-01T00:00:00.000Z",
+  "finishedAt": "1984-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7517/original.jpg",
+  "categories": [
+    "action",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7517",
+    "anidb": "8950",
+    "anilist/anime": "16786",
+    "aozora": "ZQiIrMBHxM",
+    "myanimelist/anime": "16786"
+  }
+}

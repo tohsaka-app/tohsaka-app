@@ -1,0 +1,25 @@
+{
+  "slug": "answer",
+  "synopsis": "A music video for \"Answer\", a song by Red Dracul Scar Tissue and Jazztronik.",
+  "title": {
+    "jp": "Answer"
+  },
+  "releasedAt": "2012-11-30T00:00:00.000Z",
+  "finishedAt": "2012-11-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12206/original.jpg",
+  "categories": [
+    "fantasy",
+    "music",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12206",
+    "anilist/anime": "103514",
+    "aozora": "MMlrfDuUrz",
+    "myanimelist/anime": "32789"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "shizukanaru-don-yakuza-side-story",
+  "synopsis": "This manga depicts the life of Shizuya Kondou, a man who designs underwear by day and is \"don\" of a gang at night.\n(Source: ANN)",
+  "title": {
+    "jp": "Shizukanaru Don: Yakuza Side Story"
+  },
+  "releasedAt": "1991-04-12T00:00:00.000Z",
+  "finishedAt": "1991-04-12T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5696/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "mafia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5696",
+    "anidb": "3135",
+    "anilist/anime": "9349",
+    "aozora": "wiSfZcaUKS",
+    "myanimelist/anime": "9349"
+  }
+}

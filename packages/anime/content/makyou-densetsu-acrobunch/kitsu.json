@@ -1,0 +1,30 @@
+{
+  "slug": "makyou-densetsu-acrobunch",
+  "synopsis": "Led by scientist Tatsuya Randou, the Randou family undertakes a journey around the globe in order to search out ancient ruins to uncover the legend of Quetzalcoatl, which unlocks the key to a fabulous treasure. However, tailing the Randou family is Gopurin, an evil organisation that covets the legendary treasure for itself. The Randou family has the secret weapon of super robot Acrobunch. It becomes a race around the world of who finds the treasure first. \n(Source: Wikipedia) ",
+  "title": {
+    "jp": "Makyou Densetsu Acrobunch"
+  },
+  "releasedAt": "1982-05-05T00:00:00.000Z",
+  "finishedAt": "1982-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3320/original.jpg",
+  "categories": [
+    "mecha",
+    "robot",
+    "science fiction",
+    "super robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3320",
+    "anidb": "3052",
+    "anilist/anime": "3880",
+    "aozora": "tJ0t2HvJYG",
+    "myanimelist/anime": "3880",
+    "thetvdb": "251754/1",
+    "thetvdb/series": "251754",
+    "trakt": "20106"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "the-good-witch-of-the-west",
+  "synopsis": "On Filiel's 15th birthday, she received her mother's necklace as a memento from her obstinate astronomer father. Her common and tedious life was turned into a life of conspiracies. With her new life, many adventures await.\n(Source: ANN)",
+  "title": {
+    "en": "The Good Witch Of The West",
+    "jp": "Nishi no Yoki Majo: Astraea Testament"
+  },
+  "releasedAt": "2006-04-08T00:00:00.000Z",
+  "finishedAt": "2006-07-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/838/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/838/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "mystery",
+    "parallel universe",
+    "past",
+    "plot continuity",
+    "romance"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/the-good-witch-of-the-west"
+  ],
+  "relations": {
+    "kitsu": "838",
+    "anidb": "4172",
+    "anilist/anime": "942",
+    "aozora": "toqlgFaccw",
+    "myanimelist/anime": "942",
+    "thetvdb": "83619",
+    "thetvdb/series": "83619",
+    "trakt": "64765"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "fushigina-ano-ko-wa-sutekina-kono-ko",
+  "synopsis": "An NHK toddler's anime following animals and their adventures.",
+  "title": {
+    "jp": "Fushigina Ano Ko wa Sutekina Kono Ko"
+  },
+  "releasedAt": "1994-04-04T00:00:00.000Z",
+  "finishedAt": "1997-04-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10661/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10661",
+    "aozora": "9ojXTuJpYg",
+    "myanimelist/anime": "30121"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "passion",
+  "synopsis": "Hikaru Utada's animated music video produced by Studio 4°C.",
+  "title": {
+    "jp": "Passion"
+  },
+  "releasedAt": "2005-12-14T00:00:00.000Z",
+  "finishedAt": "2005-12-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4653/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4653",
+    "anidb": "8437",
+    "anilist/anime": "6666",
+    "aozora": "Agnrn7knP9",
+    "myanimelist/anime": "6666"
+  }
+}

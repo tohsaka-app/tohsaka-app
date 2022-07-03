@@ -1,0 +1,35 @@
+{
+  "slug": "kanata-no-astra",
+  "synopsis": "In the year 2063, eight high school students and a kid are flown out to Planet Camp, tasked with surviving on their own for a few days. But shortly after arriving, an ominous glowing orb warps them to an unknown quadrant of space, nearly 5,012 light years away. Now, the only way back home is a slow, dangerous trek across the universe—a journey that’ll test them in ways Planet Camp never could.\n\n(Source: Funimation)",
+  "title": {
+    "en": "ASTRA LOST IN SPACE",
+    "jp": "Kanata no Astra"
+  },
+  "releasedAt": "2019-07-03T00:00:00.000Z",
+  "finishedAt": "2019-09-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42148/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42148/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "conspiracy",
+    "other planet",
+    "science fiction",
+    "shipboard",
+    "shounen",
+    "space",
+    "space travel"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/astra-lost-in-space/",
+    "https://www.hulu.com/astra-lost-in-space"
+  ],
+  "relations": {
+    "kitsu": "42148",
+    "anilist/anime": "107663",
+    "myanimelist/anime": "39198"
+  }
+}

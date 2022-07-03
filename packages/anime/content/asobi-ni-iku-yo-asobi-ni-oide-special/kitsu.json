@@ -1,0 +1,22 @@
+{
+  "slug": "asobi-ni-iku-yo-asobi-ni-oide-special",
+  "synopsis": "Short special bundled with Asobi ni Iku yo! Asobi ni Oide OVA.",
+  "title": {
+    "jp": "Asobi ni Iku yo!: Asobi ni Oide - Owari"
+  },
+  "releasedAt": "2011-06-15T00:00:00.000Z",
+  "finishedAt": "2011-06-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10584/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10584",
+    "aozora": "ahx6WOUdXH",
+    "myanimelist/anime": "29998"
+  }
+}

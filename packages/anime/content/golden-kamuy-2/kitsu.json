@@ -1,0 +1,31 @@
+{
+  "slug": "golden-kamuy-2",
+  "synopsis": "The second season of Golden Kamuy.",
+  "title": {
+    "en": "Golden Kamuy 2",
+    "jp": "Golden Kamuy 2"
+  },
+  "releasedAt": "2018-10-08T00:00:00.000Z",
+  "finishedAt": "2018-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41442/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41442/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "historical",
+    "japan",
+    "seinen"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/golden-kamuy",
+    "https://www.funimation.com/shows/golden-kamuy/"
+  ],
+  "relations": {
+    "kitsu": "41442",
+    "anilist/anime": "102977",
+    "myanimelist/anime": "37989"
+  }
+}

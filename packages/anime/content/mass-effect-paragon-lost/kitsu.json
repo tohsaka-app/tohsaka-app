@@ -1,0 +1,38 @@
+{
+  "slug": "mass-effect-paragon-lost",
+  "synopsis": "Mass Effect: Paragon Lost is the prequel to the highly-anticipated Mass Effect 3 and follows the early career of Alliance Marine, James Vega. Vega leads an elite Special Forces squad into battle against a mysterious alien threat known as The Collectors. Stationed at a colony in a remote star system, Vega and his soldiers must protect the civilians from a ruthless invasion determined to capture the population for unknown purposes. Learn more about the Mass Effect universe with an unprecedented glimpse into the haunted past of Mass Effect's newest hero! \n(Source: masseffectparagonlost.com) ",
+  "title": {
+    "en": "Mass Effect: Paragon Lost",
+    "jp": "Mass Effect: Paragon Lost"
+  },
+  "releasedAt": "2012-11-29T00:00:00.000Z",
+  "finishedAt": "2012-11-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6919/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "disaster",
+    "drama",
+    "future",
+    "gunfights",
+    "humanoid alien",
+    "other planet",
+    "science fiction",
+    "space",
+    "stereotypes",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6919",
+    "anidb": "8674",
+    "anilist/anime": "13239",
+    "aozora": "5Y3EmWKud4",
+    "hulu": "50011504",
+    "myanimelist/anime": "13239"
+  }
+}

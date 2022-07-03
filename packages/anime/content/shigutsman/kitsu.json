@@ -1,0 +1,24 @@
+{
+  "slug": "shigutsman",
+  "synopsis": "A Shiga prefecture promotional anime. It stars a superhero named Shigutsman, a portmanteau of \"shiga\" prefecture, \"guts,\" and \"man\" who lives in Shiga prefecture with other superheroes. Because there is so much peace, the superheroes don't have much to do besides go to community center meetings.\n",
+  "title": {
+    "en": "Shigutsman",
+    "jp": "Shigutsman"
+  },
+  "releasedAt": "2009-11-08T00:00:00.000Z",
+  "finishedAt": "2009-11-08T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41314/original.jpg",
+  "categories": [
+    "kids",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41314",
+    "myanimelist/anime": "37892"
+  }
+}

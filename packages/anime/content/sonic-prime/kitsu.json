@@ -1,0 +1,23 @@
+{
+  "slug": "sonic-prime",
+  "synopsis": "In the series, the fate of a multiverse \"rests in Sonic's gloved hands\".",
+  "title": {
+    "en": "Sonic Prime"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44023/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44023"
+  }
+}

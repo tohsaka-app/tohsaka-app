@@ -1,0 +1,23 @@
+{
+  "slug": "kaginado-season-2",
+  "synopsis": "The second season of Kaginado.",
+  "title": {
+    "en": "Kaginado Season 2"
+  },
+  "releasedAt": "2022-04-12T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45699/poster_image/9ba7c2776882d7d70adcc0be30677854.jpg",
+  "categories": [
+    "comedy",
+    "slice of life",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45699",
+    "anilist/anime": "143150"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "one-piece-taose-kaizoku-ganzack",
+  "synopsis": "While Luffy and his crew of Zoro and Nami are starving on their small boat, they are attacked by a large monster. Nami is taken away, while Luffy and Zoro wash up on shore. There they meet a young girl, Medaka, and learn of the sad history of the island. The evil Pirate Ganzack has taken away all the men in the village and enslaved them, including Medaka's father. Now Luffy, Zoro, and Medaka must infiltrate Ganzack's base in order to rescue the villagers and Nami. \n(Source: ANN)",
+  "title": {
+    "en": "One Piece: Defeat the Pirate Ganzack!",
+    "jp": "One Piece: Taose! Kaizoku Ganzack"
+  },
+  "releasedAt": "1998-07-26T00:00:00.000Z",
+  "finishedAt": "1998-07-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/428/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/428/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "crime",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "past",
+    "pirate",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "428",
+    "anidb": "2736",
+    "anilist/anime": "466",
+    "aozora": "CPawTVSxNf",
+    "myanimelist/anime": "466"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "ganbare-goemon-chikyuu-kyuushutsu-daisakusen",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Ganbare Goemon: Chikyuu Kyuushutsu Daisakusen"
+  },
+  "releasedAt": "1998-11-21T00:00:00.000Z",
+  "finishedAt": "1998-11-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5742/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5742",
+    "anidb": "7402",
+    "anilist/anime": "9464",
+    "aozora": "IgsRU6a8GF",
+    "myanimelist/anime": "9464"
+  }
+}

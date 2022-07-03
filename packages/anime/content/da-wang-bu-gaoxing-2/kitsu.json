@@ -1,0 +1,26 @@
+{
+  "slug": "da-wang-bu-gaoxing-2",
+  "synopsis": "Second season of Da Wang Bu Gaoxing.",
+  "title": {
+    "en": "The Furious Yama 2"
+  },
+  "releasedAt": "2020-07-21T00:00:00.000Z",
+  "finishedAt": "2020-09-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43501/original.jpg",
+  "categories": [
+    "comedy",
+    "demon",
+    "fantasy",
+    "magic",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43501",
+    "anilist/anime": "117014",
+    "myanimelist/anime": "42302"
+  }
+}

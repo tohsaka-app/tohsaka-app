@@ -1,0 +1,47 @@
+{
+  "slug": "hakuouki-hekketsuroku",
+  "synopsis": "The continuation of Hakuoki. \nThe Edo Era has ended after 260 years of history and the Meiji Era begins. However, bitter strife still continues between the soldiers of the new government and former Tokugawa retainers. This is the stage in which the surviving members of the Shinsengumi find themselves upon their return to Edo following their defeat at Tobafushimi. \n(Sources: ANN, AniDB)",
+  "title": {
+    "en": "Hakuoki ~Demon of the Fleeting Blossom~ Record of the Jade Blood",
+    "jp": "Hakuouki Hekketsuroku"
+  },
+  "releasedAt": "2010-10-04T00:00:00.000Z",
+  "finishedAt": "2010-12-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5593/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5593/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "bakumatsu   meiji period",
+    "bishounen",
+    "earth",
+    "historical",
+    "japan",
+    "josei",
+    "past",
+    "reverse harem",
+    "samurai",
+    "shinsengumi",
+    "swordplay",
+    "tokugawa period",
+    "violence"
+  ],
+  "externals": [
+    "http://www.hulu.com/hakuoki-record-of-the-jade-blood"
+  ],
+  "relations": {
+    "kitsu": "5593",
+    "anidb": "7932",
+    "anilist/anime": "9065",
+    "aozora": "K6D3sKAm0K",
+    "hulu": "50012332",
+    "myanimelist/anime": "9065",
+    "thetvdb": "151281/2",
+    "thetvdb/season": "335311",
+    "thetvdb/series": "151281",
+    "trakt": "44073"
+  }
+}

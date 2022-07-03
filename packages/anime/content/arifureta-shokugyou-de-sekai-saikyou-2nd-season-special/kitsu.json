@@ -1,0 +1,31 @@
+{
+  "slug": "arifureta-shokugyou-de-sekai-saikyou-2nd-season-special",
+  "synopsis": "Unaired episode included in the first Blu-ray volume.",
+  "title": {
+    "en": "Arifureta: From Commonplace to World's Strongest Season 2 Special",
+    "jp": "Arifureta Shokugyou de Sekai Saikyou 2nd Season Special"
+  },
+  "releasedAt": "2022-03-23T00:00:00.000Z",
+  "finishedAt": "2022-03-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46047/poster_image/65f7ec899328d5d8cccda0ebe55ad66a.png",
+  "categories": [
+    "action",
+    "adventure",
+    "harem",
+    "isekai",
+    "magic",
+    "psychological",
+    "vampire"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/arifureta-from-commonplace-to-worlds-strongest/"
+  ],
+  "relations": {
+    "kitsu": "46047",
+    "anilist/anime": "143846",
+    "myanimelist/anime": "50916"
+  }
+}

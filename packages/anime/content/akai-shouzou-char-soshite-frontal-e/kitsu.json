@@ -1,0 +1,30 @@
+{
+  "slug": "akai-shouzou-char-soshite-frontal-e",
+  "synopsis": "A recap of Gundam, Gundam Z, Gundam ZZ, and Char's Counterattack as experienced by Char Aznable, as well as a precursor to Gundam Unicorn. \nOriginally a live event consisting of a public recitation done by Char's voice actor with simultaneous screenings of the anime, the DVD version fades to and from the recitation and the anime. ",
+  "title": {
+    "en": "Portrait of the Red",
+    "jp": "Akai Shouzou: Char, Soshite Frontal e"
+  },
+  "releasedAt": "2010-08-13T00:00:00.000Z",
+  "finishedAt": "2010-08-13T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7067/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7067/original.jpg",
+  "categories": [
+    "future",
+    "mecha",
+    "military",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7067",
+    "anidb": "11207",
+    "anilist/anime": "14007",
+    "aozora": "lmTmbwLF00",
+    "myanimelist/anime": "14007"
+  }
+}

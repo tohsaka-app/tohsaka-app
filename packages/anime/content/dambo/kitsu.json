@@ -1,0 +1,24 @@
+{
+  "slug": "dambo",
+  "synopsis": "The haunting, hallucinatory, and oddly cute journey of a young woman into a fantastical world called \"dambo\", lovingly crafted in stop-motion animation. Music by the Japanese electro-pop band, Electrical Lovers.",
+  "title": {
+    "jp": "Dambo"
+  },
+  "releasedAt": "2004-12-08T00:00:00.000Z",
+  "finishedAt": "2004-12-08T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5010/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5010",
+    "anilist/anime": "7512",
+    "aozora": "Gteb4UGJcK",
+    "myanimelist/anime": "7512"
+  }
+}

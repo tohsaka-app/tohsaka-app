@@ -1,0 +1,30 @@
+{
+  "slug": "kuroko-no-basket-movie-3",
+  "synopsis": "Third of three compilation films of Kuroko no Basket.",
+  "title": {
+    "en": "Winter Cup Highlights -Crossing the Door- (Part3)",
+    "jp": "Kuroko no Basket Movie 3: Winter Cup - Tobira no Mukou"
+  },
+  "releasedAt": "2016-12-03T00:00:00.000Z",
+  "finishedAt": "2016-12-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11891/original.jpg",
+  "categories": [
+    "basketball",
+    "comedy",
+    "shounen",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/kurokos-basketball"
+  ],
+  "relations": {
+    "kitsu": "11891",
+    "anilist/anime": "102839",
+    "aozora": "gxsiHS8rDW",
+    "myanimelist/anime": "32871",
+    "trakt": "66153"
+  }
+}

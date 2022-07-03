@@ -1,0 +1,20 @@
+{
+  "slug": "koyomi-history",
+  "synopsis": "",
+  "title": {
+    "jp": "Koyomi History"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41733/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41733",
+    "anilist/anime": "104434",
+    "myanimelist/anime": "37139"
+  }
+}

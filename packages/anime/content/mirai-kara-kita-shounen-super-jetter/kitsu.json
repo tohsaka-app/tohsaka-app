@@ -1,0 +1,27 @@
+{
+  "slug": "mirai-kara-kita-shounen-super-jetter",
+  "synopsis": "A time patroller from the 30th century goes back to the 20th century to stop a meteor from destroying the world.",
+  "title": {
+    "jp": "Mirai Kara Kita Shounen Super Jetter"
+  },
+  "releasedAt": "1965-01-07T00:00:00.000Z",
+  "finishedAt": "1966-01-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7380/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7380",
+    "anidb": "1776",
+    "anilist/anime": "16159",
+    "aozora": "AyKHd5JUnv",
+    "myanimelist/anime": "16159"
+  }
+}

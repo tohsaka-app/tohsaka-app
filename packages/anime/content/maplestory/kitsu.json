@@ -1,0 +1,28 @@
+{
+  "slug": "maplestory",
+  "synopsis": "Ten years ago, the World Tree that protected peace and order of the world was being targeted by an evil organization called the Zakum. The Human race led four other races: the brave warriors, the intelligent magicians, the agile archers and the sly thieves in a fight against the Zakums. In the end, the World Tree activated self-destruction to protect itself. However, the other races thought it was the Human race that destroyed the World Tree. When the World Tree was destroyed most of the races had nothing left, so a number of them went to Maple Island thinking the ones who stayed would die. They escaped Victoria and lived on Maple Island where living is getting harder and harder. Since then, a never-ending war between the different races began.\nTen years later, the main protagonist, Al, is determined to revive the World Tree. Al and his companions begin their journey to seek the seeds of the World Tree. At the same time, the Zakums reappear…\n(Source: Wikipedia)",
+  "title": {
+    "jp": "MapleStory"
+  },
+  "releasedAt": "2007-10-07T00:00:00.000Z",
+  "finishedAt": "2008-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2480/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "kids",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2480",
+    "anidb": "5402",
+    "anilist/anime": "2719",
+    "aozora": "0W1oG6bxDw",
+    "myanimelist/anime": "2719"
+  }
+}

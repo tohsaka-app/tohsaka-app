@@ -1,0 +1,29 @@
+{
+  "slug": "gundress",
+  "synopsis": "In 2100, the newly built Bayside City serves as Japan's premier international port. The Angel Arms Company is established by a former policewoman named Takako, to help wage war on terrorism with armed security suits. When the mayor is assassinated, the women of Angel Arms end up protecting the evil crime-lord Hassan, in hopes that his information will help bring down a global terror ring. Takako's back is to the wall as a band of criminals plot to kill Hassan, and the organization's leader is revealed to be the former lover of Angel Arms' own Alisa.\n(Source: ANN)",
+  "title": {
+    "jp": "Gundress"
+  },
+  "releasedAt": "1999-03-20T00:00:00.000Z",
+  "finishedAt": "1999-03-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1041/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "gunfights",
+    "mecha",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1041",
+    "anidb": "1304",
+    "anilist/anime": "1160",
+    "aozora": "flXu3nTzEv",
+    "myanimelist/anime": "1160"
+  }
+}

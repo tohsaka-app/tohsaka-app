@@ -1,0 +1,20 @@
+{
+  "slug": "jin-guang-yu-jiu-jie-zhanxue-tiandao",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2019-05-02T00:00:00.000Z",
+  "finishedAt": "2020-07-09T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44321/original.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44321",
+    "anilist/anime": "131892"
+  }
+}

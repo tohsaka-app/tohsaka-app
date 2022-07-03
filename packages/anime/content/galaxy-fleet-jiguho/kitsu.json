@@ -1,0 +1,28 @@
+{
+  "slug": "galaxy-fleet-jiguho",
+  "synopsis": "After the pollution of the Earth's environment reaches a critical level, a small group of people embark on a journey through space to find a new home for humanity.",
+  "title": {
+    "jp": "Eunhahamdae Jiguho"
+  },
+  "releasedAt": "1979-07-22T00:00:00.000Z",
+  "finishedAt": "1979-07-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7532/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "kids",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7532",
+    "anidb": "9611",
+    "anilist/anime": "16818",
+    "aozora": "Xl4qtgIppX",
+    "myanimelist/anime": "16818"
+  }
+}

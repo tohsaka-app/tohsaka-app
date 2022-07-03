@@ -1,0 +1,41 @@
+{
+  "slug": "tokyo-ravens",
+  "synopsis": "Onmyoudou magic was once a powerful technique used by the Japanese during the second World War in order for them to gain the upper hand and establish their nation as a formidable force. But Japan was quickly defeated after the revered onmyouji Yakou Tsuchimikado caused the \"Great Spiritual Disaster,\" an event which plagues Tokyo to this very day. As a result of this mishap, the Onmyou Agency was established in order to exorcise further spiritual disasters and combat the demons that would make their way into the world.\nNow, Onmyoudou has become far more modern, simplified, and refined for use in a wide variety of applications such as medicine and technology. However, not everyone is able to utilize the magic, as is the case with Harutora, a member of the Tsuchimikado's branch family. Despite an old promise to protect Natsume, the heir of the Tsuchimikado's main family and Yakou's supposed reincarnation, as her familiar, Harutora has no talent and chooses to live a normal life instead. But when a prominent member of the Onmyou Agency attempts to recreate the same experiment which led to Japan's downfall, he decides to make good on his word and fight by Natsume's side.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Tokyo Ravens",
+    "jp": "Tokyo Ravens"
+  },
+  "releasedAt": "2013-10-09T00:00:00.000Z",
+  "finishedAt": "2014-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7359/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7359/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "japan",
+    "magic",
+    "school life",
+    "super power",
+    "tokyo"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/tokyo-ravens/videos/episodes",
+    "http://www.hulu.com/tokyo-ravens"
+  ],
+  "relations": {
+    "kitsu": "7359",
+    "anidb": "9481",
+    "anilist/anime": "16011",
+    "aozora": "7aMJrnuvlP",
+    "hulu": "50013412",
+    "myanimelist/anime": "16011",
+    "thetvdb": "272043/1",
+    "thetvdb/series": "272043",
+    "trakt": "72021"
+  }
+}

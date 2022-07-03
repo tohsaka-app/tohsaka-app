@@ -1,0 +1,30 @@
+{
+  "slug": "toaru-kagaku-no-railgun-entenka-no-satsuei-model-mo-raku-ja-arimasen-wa-ne",
+  "synopsis": "Special beach episode bundled with the official visual book.",
+  "title": {
+    "en": "A Certain Scientific Railgun: Episode 13' - Being a Photo Shoot Model Under the Hot Sun Isn't Easy, Is It?",
+    "jp": "Toaru Kagaku no Railgun: Entenka no Satsuei Model mo Raku Ja Arimasen wa ne."
+  },
+  "releasedAt": "2010-07-24T00:00:00.000Z",
+  "finishedAt": "2010-07-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5592/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5592/original.png",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "friendship",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5592",
+    "anidb": "10579",
+    "anilist/anime": "9063",
+    "aozora": "MLcxR5ezvr",
+    "myanimelist/anime": "9063"
+  }
+}

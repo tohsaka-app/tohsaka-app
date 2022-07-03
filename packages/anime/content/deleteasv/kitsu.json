@@ -1,0 +1,18 @@
+{
+  "slug": "deleteasv",
+  "synopsis": "DUP. TO BE DELETED. CORRECT LISTING HERE: https://kitsu.io/anime/koi-wo-shita-no-wa",
+  "title": {
+    "jp": "deleteasv"
+  },
+  "releasedAt": "2017-05-17T00:00:00.000Z",
+  "finishedAt": "2017-05-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41568/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41568"
+  }
+}

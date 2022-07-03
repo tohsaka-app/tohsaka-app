@@ -1,0 +1,25 @@
+{
+  "slug": "ujudaejang-aekkunun",
+  "synopsis": "n/a",
+  "title": {
+    "en": "Space Captain Cyclopean"
+  },
+  "releasedAt": "1980-01-01T00:00:00.000Z",
+  "finishedAt": "1980-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43339/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction",
+    "space",
+    "space battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43339",
+    "myanimelist/anime": "42215"
+  }
+}

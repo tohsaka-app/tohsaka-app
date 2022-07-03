@@ -1,0 +1,24 @@
+{
+  "slug": "himitsukessha-taka-no-tsume-christmas-daisakusen",
+  "synopsis": "A DVD special of Himitsukessha Taka no Tsume for the Limited Edition Box Set only, chronologically it is episode 10.",
+  "title": {
+    "jp": "Himitsukessha Taka no Tsume: Christmas Daisakusen"
+  },
+  "releasedAt": "2007-10-11T00:00:00.000Z",
+  "finishedAt": "2007-10-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12981/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12981",
+    "aozora": "2pGbTQYCIt",
+    "myanimelist/anime": "34354"
+  }
+}

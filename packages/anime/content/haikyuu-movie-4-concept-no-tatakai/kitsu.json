@@ -1,0 +1,30 @@
+{
+  "slug": "haikyuu-movie-4-concept-no-tatakai",
+  "synopsis": "The finals of the Miyagi prelims for the Spring Tournament... After defeating Aoba Johsai, Karasuno head toward their next match to qualify for the Spring Tournament. Their opponent is the undefeated champion Shiratorizawa, led by the high school prodigy, Wakatoshi Ushijima. From the beginning of the match, Karasuno gets beat down by Ushijima’s ferocious spikes. Even though they try to turn the tables, they are also shut down due to Tendo’s precise blocks. Is this a wall they will not be able to get over? The one who holds the key to turning the tables is the master of blocking, Tsukishima. Hinata and Kageyama manage to increase their intensity due to his calm and precise defense. Despite both teams have completely different play concepts, their intensity is the same. Who will be the ones who will laugh after this desperate struggle?\n\n(Source: CR)",
+  "title": {
+    "en": "Haikyu!! The Movie: Battle of Concepts!!",
+    "jp": "Haikyuu!! Movie 4: Concept no Tatakai"
+  },
+  "releasedAt": "2017-09-29T00:00:00.000Z",
+  "finishedAt": "2017-09-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13656/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13656/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/haikyu"
+  ],
+  "relations": {
+    "kitsu": "13656",
+    "anidb": "12982",
+    "anilist/anime": "98885",
+    "myanimelist/anime": "35111"
+  }
+}

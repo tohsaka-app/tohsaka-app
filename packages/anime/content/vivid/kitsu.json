@@ -1,0 +1,24 @@
+{
+  "slug": "vivid",
+  "synopsis": "Music video for vivid by Hanabasami Kyo.",
+  "title": {
+    "en": "vivid",
+    "jp": "vivid"
+  },
+  "releasedAt": "2020-03-28T00:00:00.000Z",
+  "finishedAt": "2020-03-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44007/original.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/_XfnN0czmtg"
+  ],
+  "relations": {
+    "kitsu": "44007"
+  }
+}

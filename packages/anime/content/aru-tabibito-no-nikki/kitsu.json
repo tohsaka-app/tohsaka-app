@@ -1,0 +1,29 @@
+{
+  "slug": "aru-tabibito-no-nikki",
+  "synopsis": "Follow Tortov as he journeys through very surreal, magical, picturesque landscapes, meeting interesting characters and circumstances on the way. Accompanied by his long-legged pig friend, Tortov takes us on an on-going adventure of peaceful contemplation.\n(Source: ANN)",
+  "title": {
+    "jp": "Aru Tabibito no Nikki"
+  },
+  "releasedAt": "2003-03-19T00:00:00.000Z",
+  "finishedAt": "2003-06-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1083/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1083/original.png",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "present",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1083",
+    "anidb": "3464",
+    "anilist/anime": "1205",
+    "aozora": "3AyOEuguWm",
+    "myanimelist/anime": "1205"
+  }
+}

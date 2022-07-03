@@ -1,0 +1,21 @@
+{
+  "slug": "shura-ga-yuku-2",
+  "synopsis": "Based on a Yakuza drama manga by Kawabe Yuu and Yamaguchi Masato.",
+  "title": {
+    "jp": "Shura ga Yuku 2"
+  },
+  "releasedAt": "1995-05-21T00:00:00.000Z",
+  "finishedAt": "1995-05-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13172/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13172",
+    "myanimelist/anime": "34265"
+  }
+}

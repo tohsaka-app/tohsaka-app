@@ -1,0 +1,22 @@
+{
+  "slug": "itekoma-hits",
+  "synopsis": "Otoboke Beaver's new album ITEKOMA HITS features six new tracks, two re-recorded songs, and the contents from their Love Is Short and Bakuro Book EPs. To promote the album, an animated summary video was made by Naoyuki Asano. (Source: MAL)",
+  "title": {
+    "en": "Itekoma Hits"
+  },
+  "releasedAt": "2019-06-04T00:00:00.000Z",
+  "finishedAt": "2019-06-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43674/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43674",
+    "myanimelist/anime": "40598"
+  }
+}

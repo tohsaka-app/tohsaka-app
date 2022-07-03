@@ -1,0 +1,19 @@
+{
+  "slug": "nose",
+  "synopsis": "Trailer for SICAFSeoul International Cartoon and Animation Festival 2004.",
+  "title": {
+    "en": "",
+    "jp": "Nose"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12688/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "12688"
+  }
+}

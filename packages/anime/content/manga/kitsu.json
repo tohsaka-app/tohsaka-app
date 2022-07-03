@@ -1,0 +1,24 @@
+{
+  "slug": "manga",
+  "synopsis": "Short experimental animation from Yoji Kuri.",
+  "title": {
+    "jp": "Manga"
+  },
+  "releasedAt": "1977-01-01T00:00:00.000Z",
+  "finishedAt": "1977-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4840/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4840",
+    "anidb": "8579",
+    "anilist/anime": "7027",
+    "aozora": "vNyIYetNnO",
+    "myanimelist/anime": "7027"
+  }
+}

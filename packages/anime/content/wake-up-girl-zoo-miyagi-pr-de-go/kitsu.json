@@ -1,0 +1,23 @@
+{
+  "slug": "wake-up-girl-zoo-miyagi-pr-de-go",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Wake Up, Girl Zoo! Miyagi PR de Go!"
+  },
+  "releasedAt": "2016-02-11T00:00:00.000Z",
+  "finishedAt": "2016-02-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12027/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12027",
+    "aozora": "ULWod0YD6d",
+    "myanimelist/anime": "33105"
+  }
+}

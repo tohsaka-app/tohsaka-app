@@ -1,0 +1,106 @@
+[
+  {
+    "title": {
+      "jp": "Cooking Machine"
+    },
+    "season": 4,
+    "number": 1,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cleaning Machine"
+    },
+    "season": 4,
+    "number": 2,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Merge Machine"
+    },
+    "season": 4,
+    "number": 3,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Washing Machine"
+    },
+    "season": 4,
+    "number": 4,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dance Machine"
+    },
+    "season": 4,
+    "number": 5,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Refrigerator Machine"
+    },
+    "season": 4,
+    "number": 6,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Washroom Machine"
+    },
+    "season": 4,
+    "number": 7,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Game Machine"
+    },
+    "season": 4,
+    "number": 8,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "TV Phone Machine"
+    },
+    "season": 4,
+    "number": 9,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Magic Machine"
+    },
+    "season": 4,
+    "number": 10,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Broken Machine"
+    },
+    "season": 4,
+    "number": 11,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Window Wipe Machine"
+    },
+    "season": 4,
+    "number": 12,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Car Machine"
+    },
+    "season": 4,
+    "number": 13,
+    "content": {}
+  }
+]

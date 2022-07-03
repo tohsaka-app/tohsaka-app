@@ -1,0 +1,30 @@
+{
+  "slug": "oyayubi-hime",
+  "synopsis": "A bratty girl named Mia is given a book, Thumbelina, which upon reading she is shrunk and transported into the world of the book. She embarks on a journey to return home, and to normal size making friends and learning lessons on the way, but that's only the beginning of her adventures.\n(Source: ANN)",
+  "title": {
+    "en": "Thumbelina: A Magical Story",
+    "jp": "Oyayubi Hime Monogatari"
+  },
+  "releasedAt": "1992-03-31T00:00:00.000Z",
+  "finishedAt": "1992-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2539/original.png",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2539",
+    "anidb": "3672",
+    "anilist/anime": "2783",
+    "aozora": "4MtDiNCI7T",
+    "myanimelist/anime": "2783"
+  }
+}

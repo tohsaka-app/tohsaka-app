@@ -1,0 +1,25 @@
+{
+  "slug": "the-flight-of-dragons",
+  "synopsis": "The film centres upon a quest undertaken to stop an evil wizard who plans to rule the world by dark magic. A major theme within the story is the question of whether science and magic can co-exist. This is told mostly through the experience of character Peter Dickinson (as he befriends and fights against many magical creatures) drawn from the 20th Century into the magical realm due to the prophecy of a young woman he becomes connected with. Set in a time before magic was separated from humans logical world. (Source: Wikipedia)",
+  "title": {
+    "en": "The Flight Of Dragons"
+  },
+  "releasedAt": "1982-08-17T00:00:00.000Z",
+  "finishedAt": "1982-08-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43639/original.jpg",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "contemporary fantasy",
+    "dragon",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43639"
+  }
+}

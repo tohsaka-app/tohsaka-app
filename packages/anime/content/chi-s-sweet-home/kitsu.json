@@ -1,0 +1,36 @@
+{
+  "slug": "chi-s-sweet-home",
+  "synopsis": "A grey and white kitten with black stripes wanders away from her mother and siblings one day while enjoying a walk outside. Lost in her surroundings, the kitten struggles to find her family and instead is found by a young boy, Youhei, and his mother. They take the kitten home, but pets are not allowed in their housing complex, so they try to find a new home for the kitten. This proves to be difficult, and the family eventually decides to keep the kitten, naming her \"Chi.\"\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Chi's Sweet Home"
+  },
+  "releasedAt": "2008-03-31T00:00:00.000Z",
+  "finishedAt": "2008-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3293/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3293/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/chis-sweet-home-chis-new-address"
+  ],
+  "relations": {
+    "kitsu": "3293",
+    "anidb": "5801",
+    "anilist/anime": "3841",
+    "aozora": "wT5KS7t4cl",
+    "myanimelist/anime": "3841",
+    "thetvdb": "81844/1",
+    "thetvdb/season": "32013",
+    "thetvdb/series": "81844",
+    "trakt": "34039"
+  }
+}

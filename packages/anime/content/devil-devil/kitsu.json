@@ -1,0 +1,26 @@
+{
+  "slug": "devil-devil",
+  "synopsis": "Devil and Devil commercial for Shounen Sunday magazine.",
+  "title": {
+    "jp": "Devil & Devil"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42593/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "demon",
+    "shounen",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42593",
+    "myanimelist/anime": "40345"
+  }
+}

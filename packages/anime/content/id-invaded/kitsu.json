@@ -1,0 +1,29 @@
+{
+  "slug": "id-invaded",
+  "synopsis": "Sakaido is a detective looking to solve the grisly murder of Kaeru, a young girl. But solving this case is unlike any other as the world begins to twist and turn around Sakaido, challenging what he thinks and believes.\n\n(Source: ANN)",
+  "title": {
+    "jp": "ID:INVADED"
+  },
+  "releasedAt": "2020-01-05T00:00:00.000Z",
+  "finishedAt": "2020-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42436/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42436/original.jpg",
+  "categories": [
+    "action",
+    "detective",
+    "mystery",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/id-invaded/"
+  ],
+  "relations": {
+    "kitsu": "42436",
+    "anidb": "14987",
+    "anilist/anime": "110350",
+    "myanimelist/anime": "40046"
+  }
+}

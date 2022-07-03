@@ -1,0 +1,22 @@
+{
+  "slug": "cherry-blossom-music",
+  "synopsis": "A short video advertising the release of Toshl's album Cherry Blossom. ",
+  "title": {
+    "jp": "Cherry Blossom (Music)"
+  },
+  "releasedAt": "2013-03-22T00:00:00.000Z",
+  "finishedAt": "2013-03-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12186/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12186",
+    "aozora": "VSu4xr5kNq",
+    "myanimelist/anime": "32765"
+  }
+}

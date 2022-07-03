@@ -1,0 +1,31 @@
+{
+  "slug": "wrestler-gundan-seisenshi-robin-jr",
+  "synopsis": "Robin Jr. and his friends fight to save the solar system.",
+  "title": {
+    "jp": "Wrestler Gundan Seisenshi Robin Jr."
+  },
+  "releasedAt": "1989-10-19T00:00:00.000Z",
+  "finishedAt": "1990-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4965/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "parody",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4965",
+    "anidb": "6029",
+    "anilist/anime": "7419",
+    "aozora": "fiNFnBYz6x",
+    "myanimelist/anime": "7419"
+  }
+}

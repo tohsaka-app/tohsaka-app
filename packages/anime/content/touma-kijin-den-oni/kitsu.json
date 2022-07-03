@@ -1,0 +1,24 @@
+{
+  "slug": "touma-kijin-den-oni",
+  "synopsis": "Shuramaru is hated and feared by the villagers for his unusual powers. He thinks he is human, but... is he?\n(Source: AniDB)",
+  "title": {
+    "jp": "Touma Kishinden Oni"
+  },
+  "releasedAt": "1995-10-05T00:00:00.000Z",
+  "finishedAt": "1996-03-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2144/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2144",
+    "anidb": "2554",
+    "anilist/anime": "2366",
+    "aozora": "zF4ZseGThv",
+    "myanimelist/anime": "2366"
+  }
+}

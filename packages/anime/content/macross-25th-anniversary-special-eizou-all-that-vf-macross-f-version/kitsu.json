@@ -1,0 +1,25 @@
+{
+  "slug": "macross-25th-anniversary-special-eizou-all-that-vf-macross-f-version",
+  "synopsis": "Short movie about the Variable Fighters in Macross F.",
+  "title": {
+    "jp": "Macross 25th Anniversary: All That VF Macross F Version"
+  },
+  "releasedAt": "2008-08-01T00:00:00.000Z",
+  "finishedAt": "2008-08-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3962/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3962",
+    "anilist/anime": "5165",
+    "aozora": "WUFH0xxhDM",
+    "myanimelist/anime": "5165"
+  }
+}

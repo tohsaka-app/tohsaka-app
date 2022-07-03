@@ -1,0 +1,23 @@
+{
+  "slug": "inaka-nezumi-to-machi-nezumi",
+  "synopsis": "A short movie by Kazuhiko Watanabe.",
+  "title": {
+    "jp": "Inaka Nezumi to Machi Nezumi"
+  },
+  "releasedAt": "1959-01-01T00:00:00.000Z",
+  "finishedAt": "1959-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10551/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10551",
+    "anilist/anime": "114306",
+    "aozora": "xKf6Z7qW9g",
+    "myanimelist/anime": "29926"
+  }
+}

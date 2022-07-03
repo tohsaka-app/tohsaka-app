@@ -1,0 +1,23 @@
+{
+  "slug": "1-100-shibuya-crossing",
+  "synopsis": "A 1/100 scale of the famous Shibuya scramble crossing done with paper stop-motion.",
+  "title": {
+    "en": "1/100 SHIBUYA Crossing",
+    "jp": "1/100 Shibuya Crossing"
+  },
+  "releasedAt": "2015-06-28T00:00:00.000Z",
+  "finishedAt": "2015-06-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14231/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14231",
+    "anilist/anime": "103464",
+    "myanimelist/anime": "36746"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "wan-jie-xian-zong-5",
+  "synopsis": "The fifth season of Wanjie Xianzong.",
+  "title": {},
+  "releasedAt": "2021-06-28T00:00:00.000Z",
+  "finishedAt": "2021-12-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45036/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45036",
+    "anilist/anime": "136146"
+  }
+}

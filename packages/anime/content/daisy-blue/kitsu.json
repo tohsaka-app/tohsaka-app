@@ -1,0 +1,23 @@
+{
+  "slug": "daisy-blue",
+  "synopsis": "Single from Kano's second album, 'Alstroemeria'.",
+  "title": {
+    "jp": "Daisy Blue"
+  },
+  "releasedAt": "2017-12-13T00:00:00.000Z",
+  "finishedAt": "2017-12-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43123/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=DdedCMxUBl8"
+  ],
+  "relations": {
+    "kitsu": "43123",
+    "myanimelist/anime": "39187"
+  }
+}

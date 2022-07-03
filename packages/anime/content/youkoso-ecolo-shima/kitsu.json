@@ -1,0 +1,20 @@
+{
+  "slug": "youkoso-ecolo-shima",
+  "synopsis": "An environmental educational anime.",
+  "title": {
+    "jp": "Youkoso! Ecolo Shima"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40735/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40735",
+    "aozora": "LPVoRUGQcI",
+    "myanimelist/anime": "35279"
+  }
+}

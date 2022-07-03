@@ -1,0 +1,29 @@
+{
+  "slug": "gegege-no-kitarou-1971",
+  "synopsis": "Kitarou, a ghost, spends his afterlife helping humans in need of his skills. He thwarts the plans of evil spirits who live to torment humanity.",
+  "title": {
+    "jp": "Gegege no Kitarou (1971)"
+  },
+  "releasedAt": "1971-10-07T00:00:00.000Z",
+  "finishedAt": "1972-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4812/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "demon",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4812",
+    "anidb": "1452",
+    "anilist/anime": "6971",
+    "aozora": "ULfBv9eMHW",
+    "myanimelist/anime": "6971",
+    "thetvdb": "265216",
+    "trakt": "36987"
+  }
+}

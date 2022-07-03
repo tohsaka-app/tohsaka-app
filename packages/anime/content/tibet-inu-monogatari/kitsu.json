@@ -1,0 +1,31 @@
+{
+  "slug": "tibet-inu-monogatari",
+  "synopsis": "After the death of his mother, Tenzin decided to leave town to live with his father in the Tibetan grasslands. Life is tough at first, until one day the young man witnesses a fight between Tibetan guard dogs and a dog with golden hairs outside the pack.",
+  "title": {
+    "en": "The Tibetan Dog",
+    "jp": "Tibet Inu Monogatari"
+  },
+  "releasedAt": "2011-06-06T00:00:00.000Z",
+  "finishedAt": "2011-06-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6273/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "coming of age",
+    "earth",
+    "historical"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/the-tibetan-dog"
+  ],
+  "relations": {
+    "kitsu": "6273",
+    "anidb": "8388",
+    "anilist/anime": "10629",
+    "aozora": "Gh2kzdEXdI",
+    "myanimelist/anime": "10629"
+  }
+}

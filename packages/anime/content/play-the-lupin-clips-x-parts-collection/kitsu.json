@@ -1,0 +1,25 @@
+{
+  "slug": "play-the-lupin-clips-x-parts-collection",
+  "synopsis": "Music videos included on the Play the Lupin \"clips x parts collection\" animation DVD.",
+  "title": {
+    "en": "Play the Lupin: Clips x Parts Collection",
+    "jp": "Play the Lupin: Clips x Parts Collection"
+  },
+  "releasedAt": "2009-04-22T00:00:00.000Z",
+  "finishedAt": "2009-04-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45289/poster_image/9170fcb2cfaed223bb27b255e62b3ee5.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "music",
+    "seinen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45289",
+    "myanimelist/anime": "49368"
+  }
+}

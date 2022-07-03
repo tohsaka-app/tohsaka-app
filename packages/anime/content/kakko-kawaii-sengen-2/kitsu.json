@@ -1,0 +1,24 @@
+{
+  "slug": "kakko-kawaii-sengen-2",
+  "synopsis": "Second season of Kakko Kawaii Sengen! ",
+  "title": {
+    "jp": "Kakko Kawaii Sengen! 2"
+  },
+  "releasedAt": "2011-08-26T00:00:00.000Z",
+  "finishedAt": "2011-12-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6402/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6402",
+    "anidb": "8634",
+    "anilist/anime": "10908",
+    "aozora": "CXd0Ou6tIo",
+    "myanimelist/anime": "10908"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "eureka-seven-ao-jungfrau-no-hanabana-tachi",
+  "synopsis": "An original video anime, released on Blu-ray in a combined Hybrid Disc that also hold an Eureka Seven AO game for the PlayStation 3. \nThe OVA is set between episodes eight and nine of the series. ",
+  "title": {
+    "jp": "Eureka Seven AO: Jungfrau no Hanabana-tachi"
+  },
+  "releasedAt": "2012-09-20T00:00:00.000Z",
+  "finishedAt": "2012-09-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7178/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "europe",
+    "future",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7178",
+    "anidb": "9147",
+    "anilist/anime": "14875",
+    "aozora": "z6N0weu2uT",
+    "myanimelist/anime": "14875"
+  }
+}

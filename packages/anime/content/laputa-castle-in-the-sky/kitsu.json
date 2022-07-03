@@ -1,0 +1,35 @@
+{
+  "slug": "laputa-castle-in-the-sky",
+  "synopsis": "Tenkuu no Shiro Laputa takes place in a world where humanity once built great flying cities. A catastrophe later destroyed all of these majestic creations, forcing the human race to once again live on the ground. Despite these setbacks, humanity still has a passion for flight and explores the skies with planes and airships. A young girl named Sheeta is on one such airship, having been abducted by the government agent Muska. When the ship is attacked by the air pirate Captain Dola, Sheeta takes the opportunity to escape.\nSaved by the grace of luck and magic, Sheeta is found by a young boy named Pazu. The two later discover that Sheeta's amulet is the key to finding Laputa—a legendary castle that is said to be the greatest of the flying cities. Together these new friends head out to find the castle and unravel its mysteries before the greedy and evil people of the world do.",
+  "title": {
+    "en": "Castle in the Sky",
+    "jp": "Tenkuu no Shiro Laputa"
+  },
+  "releasedAt": "1986-08-02T00:00:00.000Z",
+  "finishedAt": "1986-08-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/472/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/472/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "android",
+    "fantasy",
+    "floating island",
+    "mecha",
+    "romance",
+    "science fiction",
+    "steampunk",
+    "sudden girlfriend appearance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "472",
+    "anidb": "331",
+    "anilist/anime": "513",
+    "aozora": "tKdqmQ4PIm",
+    "myanimelist/anime": "513"
+  }
+}

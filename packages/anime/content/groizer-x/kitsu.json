@@ -1,0 +1,31 @@
+{
+  "slug": "groizer-x",
+  "synopsis": "The Gaira aliens, hidden in the Arctic, plan to conquer Earth. Captured and forced to work for the aliens, Dr. Yan creates the ultimate weapon, a transformable aerial robot called Gloizer X. Entrusted to his daughter Rita, Gloizer X escapes the clutches of the Gaira and lands in Japan, where pilot Jo Kaisaka meets a wounded Rita. Taking up the controls of Gloizer X, Jo and Rita fight against the Gaira invasion.",
+  "title": {
+    "en": "Gloizer X",
+    "jp": "Groizer X"
+  },
+  "releasedAt": "1976-07-01T00:00:00.000Z",
+  "finishedAt": "1977-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3941/original.jpg",
+  "categories": [
+    "mecha",
+    "robot",
+    "science fiction",
+    "super robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3941",
+    "anidb": "2237",
+    "anilist/anime": "5131",
+    "aozora": "YAKi3IAvts",
+    "myanimelist/anime": "5131",
+    "thetvdb": "138421/1",
+    "thetvdb/series": "138421",
+    "trakt": "20105"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "the-fly-band",
+  "synopsis": "The FLY BanD is a group of funky, fashionable musicians from NY who have an outstanding sense of rhythm and groove. They start another music session using daily products somewhere in the world.\n(Source: Official Youtube channel)",
+  "title": {
+    "en": "the FLY BanD!",
+    "jp": "the FLY BanD!"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12931/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12931",
+    "anilist/anime": "102566",
+    "aozora": "EZwTHVe6YE",
+    "myanimelist/anime": "34719"
+  }
+}

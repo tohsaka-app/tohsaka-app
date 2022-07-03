@@ -1,0 +1,25 @@
+{
+  "slug": "koi-to-uso-ova",
+  "synopsis": "Bundled with the limited edition of the 8th manga volume.\n",
+  "title": {
+    "en": "Love and Lies OVA",
+    "jp": "Koi to Uso OVA"
+  },
+  "releasedAt": "2018-11-09T00:00:00.000Z",
+  "finishedAt": "2018-11-09T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41253/original.jpg",
+  "categories": [
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41253",
+    "anidb": "14024",
+    "anilist/anime": "101501",
+    "myanimelist/anime": "37711"
+  }
+}

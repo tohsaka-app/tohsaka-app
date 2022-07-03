@@ -1,0 +1,985 @@
+[
+  {
+    "title": {
+      "jp": "A Thing For Musicians"
+    },
+    "synopsis": "The much pursued Dragon Ball ends up in the possession of the great and powerful Ox-King - who just happens to be busy planning his daughter's wedding.",
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/171740/original.jpg",
+    "releasedAt": "2001-11-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Stuck in the Middle Ages with You"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5449/original.jpg",
+    "releasedAt": "2001-11-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/171739/original.jpg",
+    "releasedAt": "2001-11-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Getaway"
+    },
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/171738/original.jpg",
+    "releasedAt": "2001-11-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 5,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Child's Play"
+    },
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5447/original.jpg",
+    "releasedAt": "2001-12-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Eraser"
+    },
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5448/original.jpg",
+    "releasedAt": "2001-12-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Fugitives"
+    },
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5486/original.jpg",
+    "releasedAt": "2001-12-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Abductions"
+    },
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5485/original.jpg",
+    "releasedAt": "2002-01-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Model Citizens"
+    },
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5484/original.jpg",
+    "releasedAt": "2002-01-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Spy Gladiators"
+    },
+    "season": 1,
+    "number": 11,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5404/original.jpg",
+    "releasedAt": "2002-01-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Silicon Valley Girls"
+    },
+    "season": 1,
+    "number": 12,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5403/original.jpg",
+    "releasedAt": "2002-01-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Queen for a Day"
+    },
+    "season": 1,
+    "number": 13,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5402/original.jpg",
+    "releasedAt": "2002-02-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 14,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 15,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 16,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 17,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 18,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 19,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 20,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 21,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 22,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 23,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 24,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 25,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 26,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 27,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 28,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 29,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 30,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 31,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 32,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 33,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 34,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 35,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 36,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 37,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 38,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 39,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 40,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 41,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 42,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 43,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 44,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 45,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 46,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 47,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 48,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 49,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 50,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 51,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 52,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 53,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 54,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 55,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 56,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 57,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 58,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 59,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 60,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 61,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 62,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 63,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 64,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 65,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 66,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 67,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 68,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 69,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 70,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 71,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 72,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 73,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 74,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 75,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 76,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 77,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 78,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 79,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 80,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 81,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 82,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 83,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 84,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 85,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 86,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 87,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 88,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 89,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 90,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 91,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 92,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 93,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 94,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 95,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 96,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 97,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 98,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 99,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 100,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 101,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 102,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 103,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 104,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 105,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 106,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 107,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 108,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 109,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 110,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 111,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 112,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 113,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 114,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 115,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 116,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 117,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 118,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 119,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 120,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 121,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 122,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 123,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 124,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 125,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 126,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 127,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 128,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 129,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 130,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 131,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 132,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 133,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 134,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 135,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 136,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 137,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 138,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 139,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 140,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 141,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 142,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 143,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 144,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 145,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 146,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 147,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 148,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 149,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 150,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 151,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 152,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 153,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 154,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 155,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 156,
+    "content": {}
+  }
+]

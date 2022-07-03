@@ -1,0 +1,22 @@
+{
+  "slug": "kabushikigaisha-global-market-cms",
+  "synopsis": "Animated commercials for Japanese real estate company Global Market.",
+  "title": {
+    "jp": "Kabushikigaisha Global Market CMs"
+  },
+  "releasedAt": "2015-09-30T00:00:00.000Z",
+  "finishedAt": "2019-12-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43346/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43346",
+    "myanimelist/anime": "42109"
+  }
+}

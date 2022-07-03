@@ -1,0 +1,39 @@
+{
+  "slug": "bubblegum-crisis",
+  "synopsis": "In the near future, Tokyo was left flattened as a result from a great earthquake. A new city, MegaTokyo, was then recreated due in no small part from the aid of a multi-million dollar company, Genom Corp. Genom created and mass-produced biomechanical creatures called Boomers to aid in the restoration of MegaTokyo. When the Boomers began to run out of control, the ADPolice at first tried to stop them, but they proved to be far more difficult to deal with than was first imagined. Under the ever looming Boomer threat, a group of four girls from varying degrees of society banded together. Calling themselves The Knight Sabers, they were the only ones with enough firepower and resourcefullness to defend the fledgling MegaTokyo from Genom and it's berserk Boomers. \n(Source: ANN)",
+  "title": {
+    "jp": "Bubblegum Crisis"
+  },
+  "releasedAt": "1987-02-25T00:00:00.000Z",
+  "finishedAt": "1991-01-30T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1202/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1202/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "cyberpunk",
+    "earth",
+    "future",
+    "japan",
+    "mecha",
+    "power suit",
+    "science fiction",
+    "tokyo",
+    "violence"
+  ],
+  "externals": [
+    "http://www.hulu.com/bubblegum-crisis",
+    "https://www.contv.com/details-movie/CEG10027439/bubblegum-crisis---season-1"
+  ],
+  "relations": {
+    "kitsu": "1202",
+    "anidb": "68",
+    "anilist/anime": "1347",
+    "aozora": "czu9kv27eF",
+    "myanimelist/anime": "1347"
+  }
+}

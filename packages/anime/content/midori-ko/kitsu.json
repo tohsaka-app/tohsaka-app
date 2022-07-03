@@ -1,0 +1,26 @@
+{
+  "slug": "midori-ko",
+  "synopsis": "One of the must-see gems making its premiere at our festival, Midori-Ko is adored Japanese animator Kurosaka Keita's whimsically nightmarish vision of 21st-century Tokyo on the brink of apocalypse. Ten years in the making and entirely, single-handedly rendered in colored pencil, Kurosaka's fantastical labor of love is a marvel to behold. Emerging from the staggering detail and craft flooding every frame is the story of a young woman who sets out to engineer a dream-food that can put an end to the world's famine. Synthesizing Frederic Back's subtle, haptic textures with Bill Plympton's frenetic mutations and David Lynch's haunting wormholes, Kurosaka’s work still retains its own singular, luminous potency.\n(Source: Los Angeles Animation Festival summary)",
+  "title": {
+    "en": "Midori-ko",
+    "jp": "Midori-ko"
+  },
+  "releasedAt": "2010-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5982/original.jpg",
+  "categories": [
+    "dementia",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5982",
+    "anidb": "8086",
+    "anilist/anime": "9990",
+    "aozora": "kUV4tiuN6m",
+    "myanimelist/anime": "9990"
+  }
+}

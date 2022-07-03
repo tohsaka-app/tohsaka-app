@@ -1,0 +1,36 @@
+{
+  "slug": "sakura-taisen-katsudou-shashin",
+  "synopsis": "Since a new branch of division to New York has been created, Ohgami has now been assigned to the Paris Division. Now the Flower Division must be able to survive on their own, with the help of their new American-cultured leader.\n(Source: ANN)",
+  "title": {
+    "en": "Sakura Wars: The Movie",
+    "jp": "Sakura Taisen: Katsudou Shashin"
+  },
+  "releasedAt": "2001-12-22T00:00:00.000Z",
+  "finishedAt": "2001-12-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/563/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative past",
+    "asia",
+    "earth",
+    "japan",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "steampunk"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/48602/"
+  ],
+  "relations": {
+    "kitsu": "563",
+    "anidb": "415",
+    "anilist/anime": "608",
+    "aozora": "5Umxkl8WgF",
+    "myanimelist/anime": "608"
+  }
+}

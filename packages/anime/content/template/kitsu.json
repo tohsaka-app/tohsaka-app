@@ -1,0 +1,27 @@
+{
+  "slug": "template",
+  "synopsis": "Music video directed by Mizuki for the song TEMPLATE by Suisei Hoshimachi.",
+  "title": {
+    "en": "TEMPLATE",
+    "jp": "TEMPLATE"
+  },
+  "releasedAt": "2022-03-31T00:00:00.000Z",
+  "finishedAt": "2022-03-31T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/46023/poster_image/911eafe6760c636cde02693b1ca6e323.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "psychological"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=mBuHQeL-OO8&ab_channel=SuiseiChannel"
+  ],
+  "relations": {
+    "kitsu": "46023",
+    "anilist/anime": "146934",
+    "myanimelist/anime": "51494"
+  }
+}

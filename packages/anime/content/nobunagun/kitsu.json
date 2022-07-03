@@ -1,0 +1,42 @@
+{
+  "slug": "nobunagun",
+  "synopsis": "Shio Ogura is a Japanese high school student, who is visiting Taiwan on a school trip when she is suddenly attacked by monsters. Agents known as \"E-Gene Holders\" from the government agency DOGOO also arrive, who wield weapons infused with the spirits of historical figures. Shio is revealed to also be an E-Gene Holder when the soul of Oda Nobunaga awakens after she tries to rescue a friend.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Nobunagun",
+    "jp": "Nobunagun"
+  },
+  "releasedAt": "2014-01-05T00:00:00.000Z",
+  "finishedAt": "2014-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7771/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7771/original.png",
+  "categories": [
+    "action",
+    "alien",
+    "alternative present",
+    "mecha",
+    "parasite",
+    "power suit",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/nobunagun",
+    "http://www.funimation.com/shows/nobunagun/videos/episodes",
+    "http://www.hulu.com/nobunagun",
+    "https://tubitv.com/series/2270/nobunagun"
+  ],
+  "relations": {
+    "kitsu": "7771",
+    "anidb": "9882",
+    "anilist/anime": "19855",
+    "aozora": "Tm9dk5rvFs",
+    "hulu": "50014611",
+    "myanimelist/anime": "19855",
+    "thetvdb": "275581/1",
+    "thetvdb/series": "275581",
+    "trakt": "74179"
+  }
+}

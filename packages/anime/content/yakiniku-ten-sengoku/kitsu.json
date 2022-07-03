@@ -1,0 +1,20 @@
+{
+  "slug": "yakiniku-ten-sengoku",
+  "synopsis": "",
+  "title": {
+    "jp": "Yakiniku-ten Sengoku"
+  },
+  "releasedAt": "2017-12-17T00:00:00.000Z",
+  "finishedAt": "2018-02-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41633/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41633",
+    "anilist/anime": "103181",
+    "myanimelist/anime": "36626"
+  }
+}

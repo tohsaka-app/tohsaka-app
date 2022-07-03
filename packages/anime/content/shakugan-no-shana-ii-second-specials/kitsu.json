@@ -1,0 +1,25 @@
+{
+  "slug": "shakugan-no-shana-ii-second-specials",
+  "synopsis": "Shana-tan specials bundled with the limited edition first and fifth volumes of the Shakugan no Shana II (Second) DVD and the limited edition Shakugan no Shana II (Second) guide book.Episodes\n#1: Shakugan no Shana-tan Begins\n#2: Shakugan no Shana-tan &amp; Yoshida: Konoe Fumina no Gyakushuu\n#3: Shakugan no Shana-tan Revenge",
+  "title": {
+    "jp": "Shakugan no Shana II (Second) Specials"
+  },
+  "releasedAt": "2008-01-25T00:00:00.000Z",
+  "finishedAt": "2009-10-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3377/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3377/original.png",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3377",
+    "anilist/anime": "3956",
+    "aozora": "fNzVliRoIF",
+    "myanimelist/anime": "3956"
+  }
+}

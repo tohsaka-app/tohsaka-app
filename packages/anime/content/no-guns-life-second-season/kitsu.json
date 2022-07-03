@@ -1,0 +1,32 @@
+{
+  "slug": "no-guns-life-second-season",
+  "synopsis": "Juzo Inui’s next mission is to rescue Rosa McMahon, a girl who holds a valuable piece of data the Berühren Corporation is after. Still reeling from Colt’s death, Tetsuro swears to never hesitate again.And somewhere in the city, Pepper is determined to make Juzo her property along with her current Gun Slave Unit, Seven.(Source: Funimation)",
+  "title": {
+    "jp": "No Guns Life 2nd Season"
+  },
+  "releasedAt": "2020-07-10T00:00:00.000Z",
+  "finishedAt": "2020-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42880/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42880/original.png",
+  "categories": [
+    "action",
+    "cyberpunk",
+    "cyborg",
+    "dystopia",
+    "gunfights",
+    "science fiction",
+    "seinen"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/no-guns-life/"
+  ],
+  "relations": {
+    "kitsu": "42880",
+    "anidb": "15143",
+    "anilist/anime": "112803",
+    "myanimelist/anime": "40529"
+  }
+}

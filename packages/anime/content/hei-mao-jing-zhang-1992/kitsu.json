@@ -1,0 +1,29 @@
+{
+  "slug": "hei-mao-jing-zhang-1992",
+  "synopsis": "The series follows Officer Black Cat's adventures around the forest neighbourhood, apprehending criminals, dealing justice, and solving crimes.",
+  "title": {
+    "en": "Black Cat Detective",
+    "jp": "Hei Mao Jing Zhang (1992)"
+  },
+  "releasedAt": "1992-01-01T00:00:00.000Z",
+  "finishedAt": "1992-12-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12797/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "cops",
+    "kids",
+    "motorsport"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12797",
+    "anilist/anime": "121182",
+    "aozora": "ks3CtsyKGi",
+    "myanimelist/anime": "34511"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "hungry-to-win",
+  "synopsis": "A short commercial created by global partners Manchester United and Nissin Food. It features Wayne Rooney, Robin van Persie, and Angel Di Maria.",
+  "title": {
+    "jp": "Hungry to Win"
+  },
+  "releasedAt": "2014-11-08T00:00:00.000Z",
+  "finishedAt": "2014-11-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12039/original.jpg",
+  "categories": [
+    "action",
+    "soccer",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12039",
+    "anilist/anime": "103329",
+    "aozora": "0lXxNLFArx",
+    "myanimelist/anime": "32831"
+  }
+}

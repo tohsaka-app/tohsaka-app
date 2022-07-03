@@ -1,0 +1,25 @@
+{
+  "slug": "ashita-no-joe-pilots",
+  "synopsis": "Pilot episodes.",
+  "title": {
+    "jp": "Ashita no Joe Pilots"
+  },
+  "releasedAt": "1969-11-06T00:00:00.000Z",
+  "finishedAt": "1969-12-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8509/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8509/original.jpg",
+  "categories": [
+    "drama",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8509",
+    "anilist/anime": "19973",
+    "aozora": "OxJqda74AC",
+    "myanimelist/anime": "19973"
+  }
+}

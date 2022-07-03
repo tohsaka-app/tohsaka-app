@@ -1,0 +1,29 @@
+{
+  "slug": "uchuu-kyoudai-number-zero",
+  "synopsis": "It will be a prequel to the TV anime series and will be titled Uchuu Kyoudai #0 (Number Zero). The mangaka also added that the movie will revolve around the \"origin of the dream.\"",
+  "title": {
+    "jp": "Uchuu Kyoudai: Number Zero"
+  },
+  "releasedAt": "2014-08-09T00:00:00.000Z",
+  "finishedAt": "2014-08-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8358/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "slice of life",
+    "space"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/space-brothers-0"
+  ],
+  "relations": {
+    "kitsu": "8358",
+    "anidb": "10320",
+    "anilist/anime": "20559",
+    "aozora": "iZ1aRRkmuy",
+    "myanimelist/anime": "22583"
+  }
+}

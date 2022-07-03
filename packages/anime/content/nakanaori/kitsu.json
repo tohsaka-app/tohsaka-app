@@ -1,0 +1,26 @@
+{
+  "slug": "nakanaori",
+  "synopsis": "Short animation by Rapparu.",
+  "title": {
+    "en": "Reconciliation",
+    "jp": "Nakanaori"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12070/original.jpg",
+  "categories": [
+    "action",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12070",
+    "anidb": "12222",
+    "anilist/anime": "104130",
+    "aozora": "0qkYSaLrp7",
+    "myanimelist/anime": "32298"
+  }
+}

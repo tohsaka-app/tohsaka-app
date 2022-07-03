@@ -1,0 +1,25 @@
+{
+  "slug": "meitantei-rascal",
+  "synopsis": "Assistant Detective Rascal travels around the world with Uncle Po to check various mysteries.",
+  "title": {
+    "jp": "Meitantei Rascal"
+  },
+  "releasedAt": "2014-01-09T00:00:00.000Z",
+  "finishedAt": "2014-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9024/original.jpg",
+  "categories": [
+    "adventure",
+    "kids",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9024",
+    "anidb": "10294",
+    "aozora": "LK6hmpdCm3",
+    "myanimelist/anime": "21447"
+  }
+}

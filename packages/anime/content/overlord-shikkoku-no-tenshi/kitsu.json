@@ -1,0 +1,31 @@
+{
+  "slug": "overlord-shikkoku-no-tenshi",
+  "synopsis": "Second Overlord recap film.",
+  "title": {
+    "en": "Overlord: The Dark Warrior",
+    "jp": "Overlord Movie 2: Shikkoku no Eiyuu"
+  },
+  "releasedAt": "2017-03-11T00:00:00.000Z",
+  "finishedAt": "2017-03-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12915/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12915/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "violence",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12915",
+    "anilist/anime": "98874",
+    "aozora": "cLneTzUfP8",
+    "myanimelist/anime": "34428"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "bihada-ichizoku",
+  "synopsis": "There is a World Beautiful-Skin Competition (WBC) to which the 3 billion women of the world aspire. Carrying on the 300-year legacy of the competition are the twin Bihada sisters, Sara and Saki.",
+  "title": {
+    "jp": "Bihada Ichizoku"
+  },
+  "releasedAt": "2008-10-07T00:00:00.000Z",
+  "finishedAt": "2008-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3845/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "japan",
+    "parody",
+    "present",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3845",
+    "anidb": "6172",
+    "anilist/anime": "4908",
+    "aozora": "UK1Gf1gb8A",
+    "myanimelist/anime": "4908",
+    "thetvdb": "250886/1",
+    "thetvdb/series": "250886",
+    "trakt": "70414"
+  }
+}

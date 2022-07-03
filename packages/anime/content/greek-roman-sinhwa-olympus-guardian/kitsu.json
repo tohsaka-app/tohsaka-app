@@ -1,0 +1,26 @@
+{
+  "slug": "greek-roman-sinhwa-olympus-guardian",
+  "synopsis": "The animated form of the Korean manhwa. ",
+  "title": {
+    "jp": "Greek Roman Sinhwa: Olympus Guardian"
+  },
+  "releasedAt": "2002-12-11T00:00:00.000Z",
+  "finishedAt": "2003-07-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7362/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7362",
+    "anidb": "7941",
+    "anilist/anime": "16027",
+    "aozora": "EKzV6fb7xE",
+    "myanimelist/anime": "16027"
+  }
+}

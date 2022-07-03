@@ -1,0 +1,35 @@
+{
+  "slug": "koufuku-graffiti",
+  "synopsis": "The main protagonist of Koufuku Graffiti is a girl named Ryou Machiko who lives alone while attending art school. Ryou absolutely loves to cook (she learned how to from her grandmother who wanted her to grow up to be a fine wife) but lately, all of her dishes have been tasting horrible to her. One day, she gets a sudden call from her aunt who tells her that her second cousin Kirin will be staying with her on the weekends because she wants to attend the same art school as her.\nSoon after Kirin arrives, Ryou learns a valuable lesson and completely changes her perspective on cooking which is that good meals are meant to be eaten with loved ones and that's what makes them taste great. Over the course of the series, Ryou cooks a variety of dishes for her cousin, friends, neighbors and anyone else who drops by her apartment! This is not a series that you'll want to watch on an empty stomach!",
+  "title": {
+    "en": "Gourmet Girl Graffiti",
+    "jp": "Koufuku Graffiti"
+  },
+  "releasedAt": "2015-01-09T00:00:00.000Z",
+  "finishedAt": "2015-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8647/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8647/original.png",
+  "categories": [
+    "comedy",
+    "cooking",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/gourmet-girl-graffiti",
+    "https://www.hidive.com/tv/gourmet-girl-graffiti"
+  ],
+  "relations": {
+    "kitsu": "8647",
+    "anidb": "10684",
+    "anilist/anime": "20744",
+    "aozora": "4zETOyUpJo",
+    "hulu": "50020266",
+    "myanimelist/anime": "24629",
+    "thetvdb": "284794/1",
+    "thetvdb/series": "284794",
+    "trakt": "79690"
+  }
+}

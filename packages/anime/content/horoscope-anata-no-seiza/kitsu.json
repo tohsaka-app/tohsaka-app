@@ -1,0 +1,23 @@
+{
+  "slug": "horoscope-anata-no-seiza",
+  "synopsis": "Music video for the song by Sakakibara Ikue that was featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Horoscope: Anata no Seiza"
+  },
+  "releasedAt": "1978-12-01T00:00:00.000Z",
+  "finishedAt": "1978-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10692/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10692",
+    "anidb": "12609",
+    "aozora": "6Yr0XxZq1c",
+    "myanimelist/anime": "30161"
+  }
+}

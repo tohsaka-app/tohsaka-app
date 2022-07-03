@@ -1,0 +1,18 @@
+{
+  "slug": "the-delete-movie",
+  "synopsis": "",
+  "title": {
+    "jp": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43482/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "43482"
+  }
+}

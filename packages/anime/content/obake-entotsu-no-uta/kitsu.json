@@ -1,0 +1,25 @@
+{
+  "slug": "obake-entotsu-no-uta",
+  "synopsis": "One day in 1945, children in Tokyo mistake the distant factory smoke of Shitamachi for ghosts in the sky, though their happy playtime is soon destroyed by the arrival of American bombers.\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "jp": "Obake Entotsu no Uta"
+  },
+  "releasedAt": "1993-05-29T00:00:00.000Z",
+  "finishedAt": "1993-05-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9498/original.jpg",
+  "categories": [
+    "historical",
+    "kids",
+    "world war ii"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9498",
+    "anidb": "8609",
+    "aozora": "u3Dil3CbuU",
+    "myanimelist/anime": "26033"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "the-aurora",
+  "synopsis": "Deep-sea archeologist Hiroshi Ibuki is the member of the digging team working at the bottom of the sea hoping to uncover the origins of Earth's existence but instead uncovers a mysterious colony of bacteria which gives off light similar to the Aurora Borealis. The ancient bacteria, once revived, attempt to make the world habitable for themselves —a process that would bring Earth back to its early primal form, killing all current life in the process. \n(Source: AnimeNFO) ",
+  "title": {
+    "en": "The Aurora",
+    "jp": "The Aurora: Umi no Aurora"
+  },
+  "releasedAt": "2000-08-05T00:00:00.000Z",
+  "finishedAt": "2000-08-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4356/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4356",
+    "anidb": "3681",
+    "anilist/anime": "5943",
+    "aozora": "SaT3S2eZWd",
+    "myanimelist/anime": "5943"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "gold-pencil-and-alien-boy",
+  "synopsis": "A Korean animated movie about the boy and his alien friend possessing supernatural powers.",
+  "title": {
+    "jp": "Gold Pencil And Alien Boy"
+  },
+  "releasedAt": "1983-01-01T00:00:00.000Z",
+  "finishedAt": "1983-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7513/original.jpg",
+  "categories": [
+    "adventure",
+    "kids",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7513",
+    "anidb": "9635",
+    "anilist/anime": "16778",
+    "aozora": "3Mg5oo14uq",
+    "myanimelist/anime": "16778"
+  }
+}

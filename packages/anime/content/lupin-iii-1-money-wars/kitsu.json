@@ -1,0 +1,34 @@
+{
+  "slug": "lupin-iii-1-money-wars",
+  "synopsis": "Lupin &amp; co. compete with a greedy bank president and her goons to solve the mystery leading to a broach, a treasure said to be behind the success of history's most powerful rulers. \n(Source: ANN)",
+  "title": {
+    "en": "Lupin the Third: Missed by a Dollar",
+    "jp": "Lupin III: $1 Money Wars"
+  },
+  "releasedAt": "2000-07-28T00:00:00.000Z",
+  "finishedAt": "2000-07-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1275/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "americas",
+    "comedy",
+    "crime",
+    "earth",
+    "present",
+    "slapstick",
+    "thievery",
+    "united states"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1275",
+    "anidb": "2136",
+    "anilist/anime": "1422",
+    "aozora": "jMKhV1LM7e",
+    "myanimelist/anime": "1422"
+  }
+}

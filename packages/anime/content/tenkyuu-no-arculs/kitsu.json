@@ -1,0 +1,21 @@
+{
+  "slug": "tenkyuu-no-arculs",
+  "synopsis": "The animated opening for Square Enix's Tenkyuu no Arculs RPG mobile game which launched for Android and iOS on July 21, 2016. The game had a short lived run and was terminated on January 11, 2017.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Tenkyuu no Arculs"
+  },
+  "releasedAt": "2016-06-16T00:00:00.000Z",
+  "finishedAt": "2016-06-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41639/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41639",
+    "myanimelist/anime": "36638"
+  }
+}

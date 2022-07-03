@@ -1,0 +1,24 @@
+{
+  "slug": "miku-miku-miku-miku-mi",
+  "synopsis": "Music video for the Vocaloid song Miku Miku Miku Miku Mi by Kinoshita",
+  "title": {
+    "jp": "Miku Miku Miku Miku Mi"
+  },
+  "releasedAt": "2016-12-04T00:00:00.000Z",
+  "finishedAt": "2016-12-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46125/poster_image/6240d70df541cd6dd3d179762f979769.png",
+  "coverUrl": "https://media.kitsu.io/anime/46125/cover_image/6f6c2eb44b014897e93264f5992d517a.jpg",
+  "categories": [
+    "comedy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=vs6g3KHq8uI"
+  ],
+  "relations": {
+    "kitsu": "46125"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "memories-younenki-no-joukei",
+  "synopsis": "Film by Tanaami Keiichi.",
+  "title": {
+    "en": "Scenes of My Childhood",
+    "jp": "Memories: Younenki no Joukei"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10929/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10929",
+    "anilist/anime": "102506",
+    "aozora": "2nJCOU6Qoh",
+    "myanimelist/anime": "30666"
+  }
+}

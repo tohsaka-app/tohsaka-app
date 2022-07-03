@@ -1,0 +1,27 @@
+{
+  "slug": "saiyuki-ova",
+  "synopsis": "The story of Sanzo and his three companions in their quest to the west, to stop the resurrection of Gyuumao. On the way they are fighting youkai, getting into trouble and helping the townspeople.",
+  "title": {
+    "jp": "Gensoumaden Saiyuuki OVA"
+  },
+  "releasedAt": "1999-04-23T00:00:00.000Z",
+  "finishedAt": "1999-08-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2862/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "present",
+    "reverse harem"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2862",
+    "anidb": "2446",
+    "anilist/anime": "3218",
+    "aozora": "Br2o0ceq4W",
+    "myanimelist/anime": "3218"
+  }
+}

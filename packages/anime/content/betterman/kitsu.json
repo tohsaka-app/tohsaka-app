@@ -1,0 +1,43 @@
+{
+  "slug": "betterman",
+  "synopsis": "A deadly virus known as \"Algernon\" has attacked humanity with vicious meaning. At the forefront of the battle is the mystifying Akamatsu Industries - disguised as a heavy machine factory in Tokyo, this undercover organization uses neural enhanced weapons known as NeuroNoids to battle Algernon. Also helping with their secret efforts is the mysterious mutant who is only known as \"Betterman\".\n(Source: ANN)",
+  "title": {
+    "jp": "Betterman"
+  },
+  "releasedAt": "1999-04-02T00:00:00.000Z",
+  "finishedAt": "1999-10-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1017/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1017/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "comedy",
+    "conspiracy",
+    "earth",
+    "genetic modification",
+    "horror",
+    "japan",
+    "mecha",
+    "mystery",
+    "piloted robot",
+    "psychological",
+    "science fiction",
+    "super power",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1017",
+    "anidb": "745",
+    "anilist/anime": "1136",
+    "aozora": "7jd871eEru",
+    "myanimelist/anime": "1136",
+    "thetvdb": "71654/1",
+    "thetvdb/series": "71654",
+    "trakt": "34684"
+  }
+}

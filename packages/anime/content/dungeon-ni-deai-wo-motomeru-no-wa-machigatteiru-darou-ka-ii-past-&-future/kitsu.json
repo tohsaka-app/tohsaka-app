@@ -1,0 +1,27 @@
+{
+  "slug": "dungeon-ni-deai-wo-motomeru-no-wa-machigatteiru-darou-ka-ii-past-&-future",
+  "synopsis": "Recap of the first season of Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka.",
+  "title": {
+    "en": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Past & Future",
+    "jp": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II: Past & Future"
+  },
+  "releasedAt": "2019-07-06T00:00:00.000Z",
+  "finishedAt": "2019-07-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42441/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon"
+  ],
+  "relations": {
+    "kitsu": "42441",
+    "myanimelist/anime": "40064"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "hello-kitty",
+  "synopsis": "The adventures of a young kitten named Kitty with her twin sister Mimi. It's a variety of adventures, including Kitty in some fairy tales as well.",
+  "title": {
+    "jp": "Daisuki! Hello Kitty"
+  },
+  "releasedAt": "1993-10-05T00:00:00.000Z",
+  "finishedAt": "1994-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2854/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2854",
+    "anidb": "5874",
+    "anilist/anime": "3202",
+    "aozora": "yFn8R8YL4R",
+    "myanimelist/anime": "3202",
+    "thetvdb": "78169/1",
+    "thetvdb/series": "78169"
+  }
+}

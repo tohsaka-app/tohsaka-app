@@ -1,0 +1,26 @@
+{
+  "slug": "doupo-cangqiong-2nd-season",
+  "synopsis": "The second season of Doupo Cangqiong.\n",
+  "title": {
+    "jp": "Doupo Cangqiong 2nd Season"
+  },
+  "releasedAt": "2018-03-03T00:00:00.000Z",
+  "finishedAt": "2018-05-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41206/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41206",
+    "anilist/anime": "102463",
+    "myanimelist/anime": "37176"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "escaflowne",
+  "synopsis": "Hitomi Kanzaki is just an ordinary 15-year-old schoolgirl with an interest in tarot cards and fortune telling, but one night, a boy named Van Fanel suddenly appears from the sky along with a vicious dragon. Thanks to a premonition from Hitomi, Van successfully kills the dragon, but a pillar of light appears and envelopes them both. As a result, Hitomi finds herself transported to the world of Gaea, a mysterious land where the Earth hangs in the sky.\nIn this new land, Hitomi soon discovers that Van is a prince of the Kingdom of Fanelia, which soon falls under attack by the evil empire of Zaibach. In an attempt to fight them off, Van boards his family's ancient guymelef Escaflowne—a mechanized battle suit—but fails to defeat them, and Fanelia ends up destroyed. Now on the run, Hitomi and Van encounter a handsome Asturian knight named Allen Schezar, whom Hitomi is shocked to find looks exactly like her crush from Earth. With some new allies on their side, Van and Hitomi fight back against the forces of Zaibach as the empire strives to revive an ancient power.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "The Vision of Escaflowne",
+    "jp": "Tenkuu no Escaflowne"
+  },
+  "releasedAt": "1996-04-02T00:00:00.000Z",
+  "finishedAt": "1996-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/159/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/159/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "angst",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "mecha",
+    "parallel universe",
+    "piloted robot",
+    "romance",
+    "science fiction",
+    "steampunk",
+    "transforming craft"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-vision-of-escaflowne",
+    "https://www.funimation.com/shows/143426/"
+  ],
+  "relations": {
+    "kitsu": "159",
+    "anidb": "184",
+    "anilist/anime": "182",
+    "aozora": "wxbM7ZVNLK",
+    "myanimelist/anime": "182",
+    "thetvdb": "77248/1",
+    "thetvdb/series": "77248",
+    "trakt": "8733"
+  }
+}

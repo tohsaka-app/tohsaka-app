@@ -1,0 +1,23 @@
+{
+  "slug": "kaden-manzai-john-tv-show",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Kaden Manzai John TV Show!"
+  },
+  "releasedAt": "2008-04-06T00:00:00.000Z",
+  "finishedAt": "2008-08-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10402/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10402",
+    "aozora": "fYSDYrJSYD",
+    "myanimelist/anime": "29746"
+  }
+}

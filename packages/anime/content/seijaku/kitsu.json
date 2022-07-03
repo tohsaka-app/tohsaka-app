@@ -1,0 +1,23 @@
+{
+  "slug": "seijaku",
+  "synopsis": "Someone who can't concentrate late at night because of the noise of the TV next door. Eventually, he falls asleep and has a strange dream.\n\n1st year work Tokyo University of the Arts 2016\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Silence",
+    "jp": "Seijaku"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45251/poster_image/867f9e46319ab61fa316d2a53f1599b8.jpg",
+  "categories": [
+    "psychological",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45251",
+    "anilist/anime": "117805"
+  }
+}

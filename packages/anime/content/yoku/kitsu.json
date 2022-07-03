@@ -1,0 +1,21 @@
+{
+  "slug": "yoku",
+  "synopsis": "Music video directed by Mai Yoneyama for the song YOKU by Eve. The song is inspired by the KATE YOKU Collection makeup line from KATE TOKYO.",
+  "title": {
+    "en": "Yoku",
+    "jp": "YOKU"
+  },
+  "releasedAt": "2022-03-18T00:00:00.000Z",
+  "finishedAt": "2022-03-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45970/poster_image/f1402bff3c4c05adf9dc6b3f6b9afcb9.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45970/cover_image/959bb2e485692481b831ba2319f84f1b.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "45970",
+    "anilist/anime": "146443"
+  }
+}

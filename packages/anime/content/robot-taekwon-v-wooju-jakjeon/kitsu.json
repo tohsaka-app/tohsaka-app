@@ -1,0 +1,27 @@
+{
+  "slug": "robot-taekwon-v-wooju-jakjeon",
+  "synopsis": "The second movie in the popular Korean movie series Robot Taekwon V.",
+  "title": {
+    "jp": "Robot Taekwon V: Wooju Jakjeon"
+  },
+  "releasedAt": "1976-12-13T00:00:00.000Z",
+  "finishedAt": "1976-12-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7459/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7459",
+    "anidb": "10247",
+    "anilist/anime": "16562",
+    "aozora": "rRuOmbaea1",
+    "myanimelist/anime": "16562"
+  }
+}

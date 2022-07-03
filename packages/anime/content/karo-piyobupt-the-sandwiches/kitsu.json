@@ -1,0 +1,24 @@
+{
+  "slug": "karo-piyobupt-the-sandwiches",
+  "synopsis": "A short film by Koji Yamamura.",
+  "title": {
+    "en": "Karo & Piyobupt: The Sandwiches",
+    "jp": "Karo to Piyobupt: Sandwich"
+  },
+  "releasedAt": "1992-01-01T00:00:00.000Z",
+  "finishedAt": "1992-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4973/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4973",
+    "anilist/anime": "7446",
+    "aozora": "zmFmB6koeb",
+    "myanimelist/anime": "7446"
+  }
+}

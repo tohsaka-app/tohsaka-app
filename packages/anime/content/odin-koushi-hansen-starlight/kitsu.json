@@ -1,0 +1,29 @@
+{
+  "slug": "odin-koushi-hansen-starlight",
+  "synopsis": "In the year 2099, mankind has colonized parts of the Solar System thanks to the evolution of space travel. To venture further beyond what man has accomplished, the space vessel Starlight is launched. After rescuing a mysterious girl from a wreckage near the asteroid fields, the crew of the Starlight plot a perilous journey towards the Canopus system in search of the planet known only as \"Odin\" - the possible key to all forms of life. \n(Source: ANN)",
+  "title": {
+    "en": "Odin: Starlight Mutiny",
+    "jp": "Odin: Koushi Hansen Starlight"
+  },
+  "releasedAt": "1985-08-10T00:00:00.000Z",
+  "finishedAt": "1985-08-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1161/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction",
+    "shipboard",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1161",
+    "anidb": "1414",
+    "anilist/anime": "1287",
+    "aozora": "0lNrVfAqZF",
+    "myanimelist/anime": "1287"
+  }
+}

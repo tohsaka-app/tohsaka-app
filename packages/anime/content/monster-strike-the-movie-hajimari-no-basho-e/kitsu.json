@@ -1,0 +1,26 @@
+{
+  "slug": "monster-strike-the-movie-hajimari-no-basho-e",
+  "synopsis": "The Monster Strike film will feature a character named Lucifer.",
+  "title": {
+    "jp": "Monster Strike The Movie: Hajimari no Basho e"
+  },
+  "releasedAt": "2016-12-10T00:00:00.000Z",
+  "finishedAt": "2016-12-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12504/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12504",
+    "anidb": "12284",
+    "anilist/anime": "87499",
+    "aozora": "vMJm3wib3i",
+    "myanimelist/anime": "33724"
+  }
+}

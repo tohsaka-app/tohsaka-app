@@ -1,0 +1,24 @@
+{
+  "slug": "oz-no-mahou-tsukai-no-koutsuu-anzen-no-tabi",
+  "synopsis": "An educational film about traffic safety staring the The Wizard of Oz cast.",
+  "title": {
+    "jp": "Oz no Mahoutsukai no Koutsuu Anzen no Tabi"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11041/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11041",
+    "aozora": "107ZV554PV",
+    "myanimelist/anime": "30932"
+  }
+}

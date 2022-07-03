@@ -1,0 +1,21 @@
+{
+  "slug": "saraba-jamaica",
+  "synopsis": "An uplifting song about the beautiful country of Jamaica. ",
+  "title": {
+    "jp": "Saraba Jamaica"
+  },
+  "releasedAt": "1973-06-01T00:00:00.000Z",
+  "finishedAt": "1973-06-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40815/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40815",
+    "anilist/anime": "140184",
+    "aozora": "CTFex10VeN",
+    "myanimelist/anime": "35669"
+  }
+}

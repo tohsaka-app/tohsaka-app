@@ -1,0 +1,19 @@
+{
+  "slug": "daicon-film-33",
+  "synopsis": "The sequel to \"Daicon Opening Animations,\" originally produced as Gainax's first work when it still operated as a university club.",
+  "title": {
+    "jp": "Daicon Film 33"
+  },
+  "releasedAt": "2014-01-08T00:00:00.000Z",
+  "finishedAt": "2014-01-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8131/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "8131",
+    "myanimelist/anime": "21767"
+  }
+}

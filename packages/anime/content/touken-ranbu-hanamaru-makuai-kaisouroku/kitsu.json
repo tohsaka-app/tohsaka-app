@@ -1,0 +1,21 @@
+{
+  "slug": "touken-ranbu-hanamaru-makuai-kaisouroku",
+  "synopsis": "Recap of <i>Touken Ranbu: Hanamaru</i>. ",
+  "title": {
+    "jp": "Touken Ranbu: Hanamaru - Makuai Kaisouroku"
+  },
+  "releasedAt": "2017-12-01T00:00:00.000Z",
+  "finishedAt": "2017-12-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40951/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40951",
+    "anilist/anime": "103809",
+    "aozora": "RmSJFbOO3T",
+    "myanimelist/anime": "36444"
+  }
+}

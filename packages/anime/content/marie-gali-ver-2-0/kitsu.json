@@ -1,0 +1,26 @@
+{
+  "slug": "marie-gali-ver-2-0",
+  "synopsis": "The second season of Marie &amp; Gali.",
+  "title": {
+    "jp": "Marie & Gali ver. 2.0"
+  },
+  "releasedAt": "2010-03-20T00:00:00.000Z",
+  "finishedAt": "2011-03-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5325/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy world",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5325",
+    "anidb": "7427",
+    "anilist/anime": "8409",
+    "aozora": "UW1JEfOhJr",
+    "myanimelist/anime": "8409"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "eden-of-the-east-falling-down",
+  "synopsis": "Music video by Oasis, animated by Production I.G\nThe song is also featured as the opening theme song in the anime series, Higashi no Eden, which is also animated by Production I.G.",
+  "title": {
+    "jp": "Higashi no Eden: Falling Down"
+  },
+  "releasedAt": "2009-05-27T00:00:00.000Z",
+  "finishedAt": "2009-05-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4547/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4547/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4547",
+    "anilist/anime": "6399",
+    "aozora": "3LTw36TQSR",
+    "myanimelist/anime": "6399"
+  }
+}

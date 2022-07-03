@@ -1,0 +1,26 @@
+{
+  "slug": "himitsukessha-taka-no-tsume-the-movie-3-http-takanotsume-jp-wa-eien-ni",
+  "synopsis": "The third Eagle Talon movie.",
+  "title": {
+    "jp": "Himitsukessha Taka no Tsume The Movie 3: http://takanotsume.jp wa Eien ni"
+  },
+  "releasedAt": "2010-01-16T00:00:00.000Z",
+  "finishedAt": "2010-01-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5306/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5306",
+    "anidb": "6958",
+    "anilist/anime": "8357",
+    "aozora": "Vm2YwZPRbf",
+    "myanimelist/anime": "8357"
+  }
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "title": {
+      "jp": "I am Mito!"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1999-01-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Call Me Mom"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1999-01-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sabu and Shin!"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1999-01-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Trouble at the Firefly Festival!"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1999-01-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Romance Starts With A Blush?"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1999-02-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Love Gone Astray?"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1999-02-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Inviting Disaster!"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1999-02-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Broken Heart!"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1999-02-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ranban and Mito!"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1999-03-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Disaster Revisited!"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1999-03-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Fear and Power!"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1999-03-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Our Seal!"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1999-03-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Pillage! Grand Finale!"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1999-03-29T00:00:00.000Z",
+    "content": {}
+  }
+]

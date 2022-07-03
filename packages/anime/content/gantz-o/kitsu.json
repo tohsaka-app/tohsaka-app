@@ -1,0 +1,33 @@
+{
+  "slug": "gantz-o",
+  "synopsis": "The 3DCG film will cover the manga's Osaka Arc.",
+  "title": {
+    "jp": "Gantz:O"
+  },
+  "releasedAt": "2016-10-14T00:00:00.000Z",
+  "finishedAt": "2016-10-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11498/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11498/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "ecchi",
+    "fantasy",
+    "horror",
+    "psychological",
+    "science fiction",
+    "seinen",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11498",
+    "anidb": "11778",
+    "anilist/anime": "21496",
+    "aozora": "KOHb5WlnM6",
+    "myanimelist/anime": "32071"
+  }
+}

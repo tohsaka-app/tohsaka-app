@@ -1,0 +1,26 @@
+{
+  "slug": "psychogram",
+  "synopsis": "Music video for the song Psychogram from DECO*27 6th Album.",
+  "title": {
+    "en": "Psychogram",
+    "jp": "Psychogram"
+  },
+  "releasedAt": "2019-08-09T00:00:00.000Z",
+  "finishedAt": "2019-08-09T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46130/poster_image/3a1db0445623b1374a0d39d4d73a89fc.jpg",
+  "categories": [
+    "music",
+    "psychological"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=VE4wegMHIMk"
+  ],
+  "relations": {
+    "kitsu": "46130",
+    "anilist/anime": "112657",
+    "myanimelist/anime": "41011"
+  }
+}

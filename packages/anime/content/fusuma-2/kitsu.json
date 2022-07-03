@@ -1,0 +1,22 @@
+{
+  "slug": "fusuma-2",
+  "synopsis": "Short film by Yoriko Mizushiri.",
+  "title": {
+    "en": "Sliding Door 2",
+    "jp": "Fusuma 2"
+  },
+  "releasedAt": "2010-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45210/poster_image/49b89359c39771b4f509b4d385c677d6.png",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45210",
+    "anilist/anime": "136616"
+  }
+}

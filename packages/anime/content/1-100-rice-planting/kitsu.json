@@ -1,0 +1,23 @@
+{
+  "slug": "1-100-rice-planting",
+  "synopsis": "A 1/100 scale of rice planting in a field done with paper stop-motion.",
+  "title": {
+    "en": "1/100 RICE Planting",
+    "jp": "1/100 Rice Planting"
+  },
+  "releasedAt": "2016-06-26T00:00:00.000Z",
+  "finishedAt": "2016-06-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14222/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14222",
+    "anilist/anime": "102528",
+    "myanimelist/anime": "36745"
+  }
+}

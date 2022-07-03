@@ -1,0 +1,23 @@
+{
+  "slug": "panpaka-pants",
+  "synopsis": "A series of shorts about pigs who wear underpants.",
+  "title": {
+    "jp": "Panpaka Pants"
+  },
+  "releasedAt": "2008-10-01T00:00:00.000Z",
+  "finishedAt": "2015-10-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12395/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12395",
+    "aozora": "RWAdTNo26u",
+    "myanimelist/anime": "32842"
+  }
+}

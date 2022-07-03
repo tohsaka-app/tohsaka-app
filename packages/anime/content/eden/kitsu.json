@@ -1,0 +1,23 @@
+{
+  "slug": "eden",
+  "synopsis": "Music video for the track EDEN by ATOLS from the album MUSIC OF SCIENCE.",
+  "title": {
+    "jp": "EDEN"
+  },
+  "releasedAt": "2011-10-15T00:00:00.000Z",
+  "finishedAt": "2011-10-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8612/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8612",
+    "anilist/anime": "19137",
+    "aozora": "YOB8mjPCWN",
+    "myanimelist/anime": "19137"
+  }
+}

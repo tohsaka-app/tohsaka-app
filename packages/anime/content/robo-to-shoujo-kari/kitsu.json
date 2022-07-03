@@ -1,0 +1,30 @@
+{
+  "slug": "robo-to-shoujo-kari",
+  "synopsis": "Bomahead is about a girl and a robot who live in a junkyard. The robot claims he wants to fight for justice with hero-like abilities, but everything always turns out wrong. The mystery behind the girl and the robot are unraveled through a rapid succession of unexpected turn of events.",
+  "title": {
+    "jp": "Robo to Shoujo (Kari)"
+  },
+  "releasedAt": "2010-06-16T00:00:00.000Z",
+  "finishedAt": "2011-06-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6555/original.jpg",
+  "categories": [
+    "action",
+    "android",
+    "comedy",
+    "mecha",
+    "robot",
+    "robot helper",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6555",
+    "anidb": "8766",
+    "anilist/anime": "11661",
+    "aozora": "dqtxVGKXLM",
+    "myanimelist/anime": "11661"
+  }
+}

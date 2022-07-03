@@ -1,0 +1,25 @@
+{
+  "slug": "tsurune-hajimari-no-issha",
+  "synopsis": "Movie adaptation of Tsurune: Kazemai Koukou Kyuudoubu.",
+  "title": {
+    "en": "Tsurune The Movie: The Beginning Arrow",
+    "jp": "Tsurune: Hajimari no Issha"
+  },
+  "releasedAt": "2022-08-19T00:00:00.000Z",
+  "finishedAt": "2022-08-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "upcoming",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45942/poster_image/521377b01775e6e85feb4e026a123d28.jpg",
+  "categories": [
+    "drama",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45942",
+    "anilist/anime": "125261",
+    "myanimelist/anime": "43556"
+  }
+}

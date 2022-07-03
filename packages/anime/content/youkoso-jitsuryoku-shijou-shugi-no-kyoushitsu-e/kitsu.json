@@ -1,0 +1,26 @@
+{
+  "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e",
+  "synopsis": "Promotion video for Shougo Kinugasa and Shunsaku Tomose's light novel Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e.",
+  "title": {
+    "en": "Classroom of the Elite",
+    "jp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e"
+  },
+  "releasedAt": "2015-05-22T00:00:00.000Z",
+  "finishedAt": "2015-05-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11001/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11001/original.jpg",
+  "categories": [
+    "comedy",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11001",
+    "aozora": "brYwy9hyM3",
+    "myanimelist/anime": "30813"
+  }
+}

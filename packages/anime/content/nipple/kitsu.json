@@ -1,0 +1,22 @@
+{
+  "slug": "nipple",
+  "synopsis": "Indie animation by HARUKA SUZUKI.",
+  "title": {
+    "en": "Nipple!!",
+    "jp": "Nipple!!"
+  },
+  "releasedAt": "2009-08-01T00:00:00.000Z",
+  "finishedAt": "2009-08-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45643/poster_image/f0f6b2d17352d2c8ed7b4bd6b5a04fed.png",
+  "categories": [],
+  "externals": [
+    "https://www.youtube.com/watch?v=Sk1OtN89M9c"
+  ],
+  "relations": {
+    "kitsu": "45643",
+    "anilist/anime": "127980"
+  }
+}

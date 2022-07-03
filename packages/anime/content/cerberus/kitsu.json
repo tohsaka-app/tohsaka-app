@@ -1,0 +1,21 @@
+{
+  "slug": "cerberus",
+  "synopsis": "Official music video for the band Soutaisei Riron from their Tensei Jingle album.",
+  "title": {
+    "jp": "Cerberus"
+  },
+  "releasedAt": "2016-12-24T00:00:00.000Z",
+  "finishedAt": "2016-12-24T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13962/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "13962",
+    "anilist/anime": "103796",
+    "aozora": "wMCkIMZKQE",
+    "myanimelist/anime": "34889"
+  }
+}

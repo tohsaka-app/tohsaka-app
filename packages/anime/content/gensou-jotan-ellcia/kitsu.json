@@ -1,0 +1,33 @@
+{
+  "slug": "gensou-jotan-ellcia",
+  "synopsis": "The Sacred Book of the land of Eija has been rediscovered and with it the legends of a mysterious and all powerful ship. Now Princess Crystal of Megaronia has set forth on a quest to recover the ship and its ultimate weaponry. All that stands between her and total domination of the world is a small group of piratical misfits. Swords, sorcery and technology blend to form a mesmerizing tale of Good vs. Evil in Ellcia. (Source: ANN)",
+  "title": {
+    "en": "Ellcia",
+    "jp": "Gensou Jotan Ellcia"
+  },
+  "releasedAt": "1992-10-23T00:00:00.000Z",
+  "finishedAt": "1993-09-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3026/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "island",
+    "pirate",
+    "plot continuity",
+    "swordplay",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3026",
+    "anidb": "2331",
+    "anilist/anime": "3461",
+    "aozora": "sAj4mMDgOE",
+    "myanimelist/anime": "3461"
+  }
+}

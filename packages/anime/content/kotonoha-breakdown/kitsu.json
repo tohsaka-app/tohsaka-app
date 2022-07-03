@@ -1,0 +1,24 @@
+{
+  "slug": "kotonoha-breakdown",
+  "synopsis": "“Kotonoha Breakdown” is a song based on the motif of happenings around the Internet following the clear memories of 3.11 (The Great Tohoku Earthquake of March 11, 2011).\n\nThis song expresses the sudden change to ordinary lives, the vanity of the meanings and the power of words that were being interpreted incorrectly and spread by people who may not have properly understood them, as expressed through the personalities of fhána's members with their vivid imagery and sound.",
+  "title": {
+    "en": "Kotonoha Breakdown",
+    "jp": "Kotonoha Breakdown"
+  },
+  "releasedAt": "2014-03-11T00:00:00.000Z",
+  "finishedAt": "2014-03-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42655/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42655",
+    "anilist/anime": "108933",
+    "myanimelist/anime": "39322"
+  }
+}

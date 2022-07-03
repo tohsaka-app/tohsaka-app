@@ -1,0 +1,32 @@
+{
+  "slug": "haiyoru-nyaruani-remember-my-love-craft-sensei",
+  "synopsis": "The story centers around Nyarlko, a formless Cthulhu deity who can take on the shape of anyone it wishes, but particularly the shape of a seemingly ordinary silver-haired girl. Mahiro Yasaka is a normal high school student who is chased by aliens one night, until \"Nyarlko\" saves him.\n(Source: ANN)",
+  "title": {
+    "en": "Haiyoru! Nyaruani: Remember My Mr. Lovecraft",
+    "jp": "Haiyoru! Nyaruani: Remember My Love(craft-sensei)"
+  },
+  "releasedAt": "2010-12-11T00:00:00.000Z",
+  "finishedAt": "2011-02-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7808/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/nyarko-san-another-crawling-chaos"
+  ],
+  "relations": {
+    "kitsu": "7808",
+    "anidb": "7992",
+    "anilist/anime": "9598",
+    "aozora": "hkrVfmIimb",
+    "myanimelist/anime": "9598",
+    "thetvdb": "214891/1",
+    "thetvdb/series": "214891",
+    "trakt": "64153"
+  }
+}

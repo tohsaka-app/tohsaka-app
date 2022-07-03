@@ -1,0 +1,28 @@
+{
+  "slug": "shingeki-no-kyojin-movie-2-jiyuu-no-tsubasa",
+  "synopsis": "Recap of episodes 14-25. ",
+  "title": {
+    "en": "Attack on Titan: Wings of Freedom",
+    "jp": "Shingeki no Kyojin Movie 2: Jiyuu no Tsubasa"
+  },
+  "releasedAt": "2015-06-27T00:00:00.000Z",
+  "finishedAt": "2015-06-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8673/original.png",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8673",
+    "anilist/anime": "20692",
+    "aozora": "53iyJwkw8r",
+    "myanimelist/anime": "23777"
+  }
+}

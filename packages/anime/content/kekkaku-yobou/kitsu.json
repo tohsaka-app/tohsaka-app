@@ -1,0 +1,23 @@
+{
+  "slug": "kekkaku-yobou",
+  "synopsis": "A tuberculosis history, awareness, and prevention informative anime.",
+  "title": {
+    "jp": "Kekkaku Yobou"
+  },
+  "releasedAt": "1933-01-01T00:00:00.000Z",
+  "finishedAt": "1933-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14005/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14005",
+    "anilist/anime": "103940",
+    "aozora": "wSPk7au6Ky",
+    "myanimelist/anime": "35387"
+  }
+}

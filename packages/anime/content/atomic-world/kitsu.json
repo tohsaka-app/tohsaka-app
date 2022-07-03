@@ -1,0 +1,24 @@
+{
+  "slug": "atomic-world",
+  "synopsis": "Yoshiki Imazu's graduation work at Musashino Art University.",
+  "title": {
+    "en": "Atomic World",
+    "jp": "ATOMIC WORLD"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43150/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43150",
+    "anilist/anime": "126873",
+    "myanimelist/anime": "40476"
+  }
+}

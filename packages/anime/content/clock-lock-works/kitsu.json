@@ -1,0 +1,24 @@
+{
+  "slug": "clock-lock-works",
+  "synopsis": "Music video for Kenshi Yonezu's song Clock Lock Works animated by Minakata Laboratory.",
+  "title": {
+    "jp": "Clock Lock Works"
+  },
+  "releasedAt": "2009-11-27T00:00:00.000Z",
+  "finishedAt": "2009-11-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13845/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13845",
+    "anilist/anime": "103774",
+    "aozora": "nDyPIMu8L8",
+    "myanimelist/anime": "36180"
+  }
+}

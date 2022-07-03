@@ -1,0 +1,28 @@
+{
+  "slug": "princess-principal-crown-handler-chapter-3",
+  "synopsis": "The third out of six movie sequels to the TV series.",
+  "title": {
+    "en": "Princess Principal: Crown Handler 3",
+    "jp": "Princess Principal: Crown Handler - Chapter 3"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44962/original.png",
+  "categories": [
+    "action",
+    "alternative past",
+    "historical",
+    "mystery",
+    "special squads",
+    "steampunk",
+    "united kingdom"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44962",
+    "anilist/anime": "137612"
+  }
+}

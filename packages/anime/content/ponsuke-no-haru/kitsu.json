@@ -1,0 +1,25 @@
+{
+  "slug": "ponsuke-no-haru",
+  "synopsis": "A family of tanuki dig for food in the snow. They find bamboo shoots and bring them home only to find them empty after peeling them. The bamboo shoots turn into spirits and curse the tanuki family, turning them into snow. \n(Source: AniDB)",
+  "title": {
+    "jp": "Ponsuke no Haru"
+  },
+  "releasedAt": "1934-08-01T00:00:00.000Z",
+  "finishedAt": "1934-08-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9542/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9542",
+    "anidb": "6851",
+    "anilist/anime": "104081",
+    "aozora": "drLN9hD1uZ",
+    "myanimelist/anime": "23089"
+  }
+}

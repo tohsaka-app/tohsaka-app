@@ -1,0 +1,27 @@
+{
+  "slug": "high-tide",
+  "synopsis": "Music video for the song High Tide by Moona Hoshinova",
+  "title": {
+    "en": "High Tide"
+  },
+  "releasedAt": "2022-02-15T00:00:00.000Z",
+  "finishedAt": "2022-02-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45937/poster_image/d46be85681541b6075473c4cb72cd306.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45937/cover_image/37597bb7c9e43a046ede78bab8c57619.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "fantasy",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=stmZAThUl64"
+  ],
+  "relations": {
+    "kitsu": "45937"
+  }
+}

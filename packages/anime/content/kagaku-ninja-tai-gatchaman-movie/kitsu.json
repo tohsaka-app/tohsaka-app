@@ -1,0 +1,28 @@
+{
+  "slug": "kagaku-ninja-tai-gatchaman-movie",
+  "synopsis": "The sinister mutant Berg Katse has launched armies of henchmen and giant weapons of mass destruction against Earth. But the forces of evil are about to meet their match! The Science Ninja Team stands ready to take the battle back to the bad guys. \n\n(Source: HIDIVE)",
+  "title": {
+    "jp": "Kagaku Ninja-tai Gatchaman (Movie)"
+  },
+  "releasedAt": "1978-07-15T00:00:00.000Z",
+  "finishedAt": "1978-07-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2826/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/gatchaman-the-movie"
+  ],
+  "relations": {
+    "kitsu": "2826",
+    "anidb": "5434",
+    "anilist/anime": "3153",
+    "aozora": "oaQhL8I1RT",
+    "myanimelist/anime": "3153"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "ginga-eiyuu-densetsu-gaiden-senoku-no-hoshi-senoku-no-hikari",
+  "synopsis": "Prequel to the original series, focusing on Reinhard and his steps up the chain of command in the Galactic Empire.",
+  "title": {
+    "en": "Legend of the Galactic Heroes Gaiden",
+    "jp": "Ginga Eiyuu Densetsu Gaiden"
+  },
+  "releasedAt": "1998-02-09T00:00:00.000Z",
+  "finishedAt": "1998-09-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2963/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2963/original.jpg",
+  "categories": [
+    "action",
+    "conspiracy",
+    "future",
+    "military",
+    "other planet",
+    "plot continuity",
+    "politics",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space opera",
+    "space travel",
+    "violence"
+  ],
+  "externals": [
+    "https://vrv.co/series/G6XJ423PR/Legend-of-the-Galactic-Heroes-Gaiden",
+    "https://www.hidive.com/tv/legend-of-the-galactic-heroes-gaiden"
+  ],
+  "relations": {
+    "kitsu": "2963",
+    "anidb": "1310",
+    "anilist/anime": "3371",
+    "aozora": "Q2DyFia9Nw",
+    "myanimelist/anime": "3371",
+    "thetvdb/series": "268996/1"
+  }
+}

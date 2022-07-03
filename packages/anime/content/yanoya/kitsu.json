@@ -1,0 +1,23 @@
+{
+  "slug": "yanoya",
+  "synopsis": "In 2011, Japanese musician Akiko Yano collaborated with students at Tokyo University of the Arts for a school festival. The origin of the project name \"Yanoya\" comes from the desire to have a festival-like character. Some of the works included artwork, a game demo, musical performance, and stage performance. This entry covers ShiShi Yamazaki's contribution to the event, which is believed to be the only work that was animated.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Yanoya"
+  },
+  "releasedAt": "2011-05-15T00:00:00.000Z",
+  "finishedAt": "2011-05-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44430/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44430",
+    "anilist/anime": "139051",
+    "myanimelist/anime": "40502"
+  }
+}

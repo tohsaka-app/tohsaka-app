@@ -1,0 +1,27 @@
+{
+  "slug": "kimi-ga-inakucha",
+  "synopsis": "Music video of the project band Hello, Happy World!.",
+  "title": {
+    "en": "I Need You!",
+    "jp": "Kimi ga Inakucha!"
+  },
+  "releasedAt": "2018-10-18T00:00:00.000Z",
+  "finishedAt": "2018-10-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43975/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43975/original.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=ZuPa85P19rw"
+  ],
+  "relations": {
+    "kitsu": "43975",
+    "anilist/anime": "113158",
+    "myanimelist/anime": "38986"
+  }
+}

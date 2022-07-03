@@ -1,0 +1,24 @@
+{
+  "slug": "bouken-korobokkuru",
+  "synopsis": "The adventures of a human and three little gnomes.\n(Source: AniDB)",
+  "title": {
+    "jp": "Bouken Korobokkuru"
+  },
+  "releasedAt": "1973-10-06T00:00:00.000Z",
+  "finishedAt": "1974-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5232/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5232",
+    "anidb": "4824",
+    "anilist/anime": "8183",
+    "aozora": "zBLEDVppNJ",
+    "myanimelist/anime": "8183"
+  }
+}

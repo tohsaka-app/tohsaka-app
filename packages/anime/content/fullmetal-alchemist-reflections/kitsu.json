@@ -1,0 +1,29 @@
+{
+  "slug": "fullmetal-alchemist-reflections",
+  "synopsis": "A reflection on what happened during the FMA TV series.",
+  "title": {
+    "en": "Fullmetal Alchemist: Reflections",
+    "jp": "Hagane no Renkinjutsushi: Reflections"
+  },
+  "releasedAt": "2005-03-19T00:00:00.000Z",
+  "finishedAt": "2005-03-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/609/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "military",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "609",
+    "anilist/anime": "664",
+    "aozora": "wS2uqxRQmx",
+    "myanimelist/anime": "664"
+  }
+}

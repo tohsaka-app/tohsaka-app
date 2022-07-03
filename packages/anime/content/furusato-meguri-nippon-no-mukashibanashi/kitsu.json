@@ -1,0 +1,25 @@
+{
+  "slug": "furusato-meguri-nippon-no-mukashibanashi",
+  "synopsis": "Sequel series to Furusato Saisei: Nihon no Mukashibanashi.",
+  "title": {
+    "jp": "Furusato Meguri: Nippon no Mukashibanashi"
+  },
+  "releasedAt": "2017-04-02T00:00:00.000Z",
+  "finishedAt": "2018-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13331/original.jpg",
+  "categories": [
+    "fantasy",
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13331",
+    "anilist/anime": "98751",
+    "aozora": "9HCQzmjq16",
+    "myanimelist/anime": "35303"
+  }
+}

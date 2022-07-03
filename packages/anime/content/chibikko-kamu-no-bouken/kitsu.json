@@ -1,0 +1,24 @@
+{
+  "slug": "chibikko-kamu-no-bouken",
+  "synopsis": "Based on the childrens' book by Kanzawa Toshiko.",
+  "title": {
+    "jp": "Chibikko Kamu no Bouken"
+  },
+  "releasedAt": "1976-09-15T00:00:00.000Z",
+  "finishedAt": "1976-09-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9226/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9226",
+    "anidb": "8641",
+    "aozora": "uKYifGjIYD",
+    "myanimelist/anime": "24923"
+  }
+}

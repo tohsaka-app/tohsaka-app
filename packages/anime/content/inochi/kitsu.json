@@ -1,0 +1,25 @@
+{
+  "slug": "inochi",
+  "synopsis": "An official music video for the musician Hiwa. It was also shown later at the 2015 Kyoto International Art and Film Festival.",
+  "title": {
+    "jp": "Inochi"
+  },
+  "releasedAt": "2015-09-05T00:00:00.000Z",
+  "finishedAt": "2015-09-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13005/original.jpg",
+  "categories": [
+    "drama",
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13005",
+    "anilist/anime": "102784",
+    "aozora": "zyO0Xk96Hs",
+    "myanimelist/anime": "34116"
+  }
+}

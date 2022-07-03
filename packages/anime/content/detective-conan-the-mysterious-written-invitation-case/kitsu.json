@@ -1,0 +1,21 @@
+{
+  "slug": "detective-conan-the-mysterious-written-invitation-case",
+  "synopsis": "The Mysterious Written Invitation Case",
+  "title": {
+    "en": "Case Closed - The Mysterious Written Invitation Case",
+    "jp": "Meitantei Conan - The Mysterious Written Invitation Case"
+  },
+  "releasedAt": "1998-09-09T00:00:00.000Z",
+  "finishedAt": "1998-09-09T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12900/original.jpg",
+  "categories": [
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12900"
+  }
+}

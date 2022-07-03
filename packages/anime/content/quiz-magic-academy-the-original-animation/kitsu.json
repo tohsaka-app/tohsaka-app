@@ -1,0 +1,32 @@
+{
+  "slug": "quiz-magic-academy-the-original-animation",
+  "synopsis": "There is a magical academy that is located on a floating island in the sky. This OVA is about the students of one of the academy's classes, who's only chance not to fail the semester is to win a competition where they must show off their magic skills.",
+  "title": {
+    "jp": "Quiz Magic Academy: The Original Animation"
+  },
+  "releasedAt": "2008-09-12T00:00:00.000Z",
+  "finishedAt": "2008-09-12T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3918/original.jpg",
+  "categories": [
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "fantasy world",
+    "female student",
+    "magic",
+    "parody",
+    "school life",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3918",
+    "anidb": "6071",
+    "anilist/anime": "5080",
+    "aozora": "ZO5B6b248v",
+    "myanimelist/anime": "5080"
+  }
+}

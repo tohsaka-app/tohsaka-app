@@ -1,0 +1,28 @@
+{
+  "slug": "sangokushi-dainibu-choukou-moyu",
+  "synopsis": "An anime based on the Romance of the Three Kingdoms novel. ",
+  "title": {
+    "en": "Great Conquest: Romance of Three Kingdoms",
+    "jp": "Sangokushi Dainibu Choukou Moyu"
+  },
+  "releasedAt": "1993-03-20T00:00:00.000Z",
+  "finishedAt": "1993-03-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5085/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "past",
+    "three kingdoms"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5085",
+    "anidb": "1232",
+    "anilist/anime": "7697",
+    "aozora": "kQvpsu1WUC",
+    "myanimelist/anime": "7697"
+  }
+}

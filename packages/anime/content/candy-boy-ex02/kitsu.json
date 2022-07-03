@@ -1,0 +1,26 @@
+{
+  "slug": "candy-boy-ex02",
+  "synopsis": "Final episode (designated as Episode 8) of Candy Boy which came with DVD volume 2.\nThe episode centres around a day at the pool.",
+  "title": {
+    "jp": "Candy Boy Episode: EX02 - Shiawase Kyouyuu Riron"
+  },
+  "releasedAt": "2009-06-24T00:00:00.000Z",
+  "finishedAt": "2009-06-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4575/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4575/original.jpg",
+  "categories": [
+    "romance",
+    "shoujo ai",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4575",
+    "anilist/anime": "6479",
+    "aozora": "N4YCn2ovDH",
+    "myanimelist/anime": "6479"
+  }
+}

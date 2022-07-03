@@ -1,0 +1,24 @@
+{
+  "slug": "tokyo-mikansei",
+  "synopsis": "The fifth anthology work by animation collective G9+1, about the forever unfinished city Tokyo.\n",
+  "title": {
+    "en": "tokyo UNFINISHED",
+    "jp": "Tokyo Mikansei"
+  },
+  "releasedAt": "2013-08-01T00:00:00.000Z",
+  "finishedAt": "2013-08-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42697/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42697/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42697",
+    "myanimelist/anime": "40673"
+  }
+}

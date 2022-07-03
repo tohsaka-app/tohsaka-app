@@ -1,0 +1,30 @@
+{
+  "slug": "diamond-no-ace-act-ii",
+  "synopsis": "Picking up the next year after the end of the fall tournament, Seidou High School baseball team battle it out with new and old faces as they begin their tournament run at Koshien.",
+  "title": {
+    "en": "Ace of Diamond: Act II",
+    "jp": "Diamond no Ace: Act II"
+  },
+  "releasedAt": "2019-04-02T00:00:00.000Z",
+  "finishedAt": "2020-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42160/original.jpeg",
+  "categories": [
+    "baseball",
+    "comedy",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/ace-of-the-diamond"
+  ],
+  "relations": {
+    "kitsu": "42160",
+    "anidb": "14504",
+    "anilist/anime": "105749",
+    "myanimelist/anime": "38731"
+  }
+}

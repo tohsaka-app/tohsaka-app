@@ -1,0 +1,42 @@
+[
+  {
+    "title": {
+      "jp": "Kiru Otoko"
+    },
+    "synopsis": "Episode of how Kenshin came under the wing of Soujiro Hiko the 13th, how he was trained and how he became a manslayer.",
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1999-02-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mayoi Neko"
+    },
+    "synopsis": "The second episode details Kenshin's role in the revolution, how he met Tomoe, and how the rebellion was almost quelled.",
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1999-04-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yoi no Satoyama"
+    },
+    "synopsis": "The third episode details how Kenshin lived with Tomoe and married her as a cover until his side replenished its forces to continue the rebellion.",
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1999-06-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Juuji Kizu"
+    },
+    "synopsis": "The fourth episode is about the betrayal against Kenshin, how he lived for the next few years as a manslayer, and the origin of his cross-shaped scar.",
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1999-09-22T00:00:00.000Z",
+    "content": {}
+  }
+]

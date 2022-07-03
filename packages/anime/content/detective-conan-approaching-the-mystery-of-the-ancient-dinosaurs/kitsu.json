@@ -1,0 +1,22 @@
+{
+  "slug": "detective-conan-approaching-the-mystery-of-the-ancient-dinosaurs",
+  "synopsis": "Approaching the Mystery of the Ancient Dinosaurs!",
+  "title": {
+    "en": "Case Closed - Approaching the Mystery of the Ancient Dinosaurs!",
+    "jp": "Meitantei Conan: Kodai Kyouryuu no Nazo ni Semare!"
+  },
+  "releasedAt": "2002-06-21T00:00:00.000Z",
+  "finishedAt": "2002-06-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13044/original.jpg",
+  "categories": [
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13044",
+    "myanimelist/anime": "33151"
+  }
+}

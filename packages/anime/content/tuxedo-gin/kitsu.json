@@ -1,0 +1,24 @@
+{
+  "slug": "tuxedo-gin",
+  "synopsis": "Tuxedo Gin commercial for Shounen Sunday magazine.",
+  "title": {
+    "jp": "Tuxedo Gin"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42592/original.jpg",
+  "categories": [
+    "action",
+    "anthropomorphism",
+    "shounen",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42592",
+    "myanimelist/anime": "40346"
+  }
+}

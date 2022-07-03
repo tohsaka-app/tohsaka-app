@@ -1,0 +1,27 @@
+{
+  "slug": "a-girl",
+  "synopsis": "Sisters Mariko and May, along with Mariko's bad-tempered boyfriend, become involved with Ichiro, an arrogant, womanising male model.",
+  "title": {
+    "en": "A-Girl",
+    "jp": "A-Girl"
+  },
+  "releasedAt": "1993-09-24T00:00:00.000Z",
+  "finishedAt": "1993-09-24T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4102/original.jpg",
+  "categories": [
+    "music",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4102",
+    "anidb": "5137",
+    "anilist/anime": "5447",
+    "aozora": "uWSOGyZaHQ",
+    "myanimelist/anime": "5447"
+  }
+}

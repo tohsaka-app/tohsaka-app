@@ -1,0 +1,22 @@
+{
+  "slug": "chanda-gou",
+  "synopsis": "Independent animation by Yanagihara Ryouhei, member of the Animation Sannin no Kai pioneer group of independent animation.",
+  "title": {
+    "en": "M.S. Chanda",
+    "jp": "Chanda Gou"
+  },
+  "releasedAt": "1964-01-01T00:00:00.000Z",
+  "finishedAt": "1964-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10497/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "10497",
+    "anilist/anime": "109351",
+    "aozora": "029UwSKnFB",
+    "myanimelist/anime": "29655"
+  }
+}

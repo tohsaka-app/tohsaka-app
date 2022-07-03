@@ -1,0 +1,30 @@
+{
+  "slug": "tsugumomo-ova",
+  "synopsis": "",
+  "title": {
+    "jp": "Tsugumomo OVA"
+  },
+  "releasedAt": "2020-01-22T00:00:00.000Z",
+  "finishedAt": "2020-01-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42181/original.png",
+  "categories": [
+    "action",
+    "comedy",
+    "contemporary fantasy",
+    "ecchi",
+    "fantasy",
+    "school life",
+    "seinen",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42181",
+    "anidb": "14729",
+    "anilist/anime": "108267",
+    "myanimelist/anime": "39470"
+  }
+}

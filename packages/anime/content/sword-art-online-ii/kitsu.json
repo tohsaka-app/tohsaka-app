@@ -1,0 +1,47 @@
+{
+  "slug": "sword-art-online-ii",
+  "synopsis": "A year after escaping Sword Art Online, Kazuto Kirigaya has been settling back into the real world. However, his peace is short-lived as a new incident occurs in a game called Gun Gale Online, where a player by the name of Death Gun appears to be killing people in the real world by shooting them in-game. Approached by officials to assist in investigating the murders, Kazuto assumes his persona of Kirito once again and logs into Gun Gale Online, intent on stopping the killer.\n\nOnce inside, Kirito meets Sinon, a highly skilled sniper afflicted by a traumatic past. She is soon dragged in his chase after Death Gun, and together they enter the Bullet of Bullets, a tournament where their target is sure to appear. Uncertain of Death Gun's real powers, Kirito and Sinon race to stop him before he has the chance to claim another life. Not everything goes smoothly, however, as scars from the past impede their progress. In a high-stakes game where the next victim could easily be one of them, Kirito puts his life on the line in the virtual world once more.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Sword Art Online II",
+    "jp": "Sword Art Online II"
+  },
+  "releasedAt": "2014-07-05T00:00:00.000Z",
+  "finishedAt": "2014-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8174/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8174/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "future",
+    "harem",
+    "isekai",
+    "plot continuity",
+    "romance",
+    "science fiction",
+    "swordplay",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/sword-art-online",
+    "http://www.hulu.com/sword-art-online-ii",
+    "https://vrv.co/series/GR49G9VP6/Sword-Art-Online",
+    "https://www.funimation.com/shows/sword-art-online/?qid=7c3700f465589fe1",
+    "https://www.netflix.com/title/80082107"
+  ],
+  "relations": {
+    "kitsu": "8174",
+    "anidb": "10376",
+    "anilist/anime": "20594",
+    "aozora": "gzjskgCaAw",
+    "myanimelist/anime": "21881",
+    "thetvdb": "259640/2",
+    "thetvdb/season": "571431",
+    "thetvdb/series": "259640",
+    "trakt": "45529"
+  }
+}

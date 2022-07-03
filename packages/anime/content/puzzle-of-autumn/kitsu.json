@@ -1,0 +1,25 @@
+{
+  "slug": "puzzle-of-autumn",
+  "synopsis": "A short 6-minute movie, containing flashing lights with images and drawings presented to the viewer.",
+  "title": {
+    "en": "Puzzle of Autumn",
+    "jp": "Aki no Puzzle"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9554/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9554",
+    "anidb": "11355",
+    "anilist/anime": "102363",
+    "aozora": "W0UUEiD7nR",
+    "myanimelist/anime": "22179"
+  }
+}

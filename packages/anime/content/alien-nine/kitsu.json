@@ -1,0 +1,41 @@
+{
+  "slug": "alien-nine",
+  "synopsis": "Yuri Ootani, a girl who has been afraid of aliens, has been chosen to be on the alien party with the class president Kumi Kawamura, whose only intention to join the alien party is to get out of presidential duties, as well as Kasumi Tomine who is perfect at everything she does, including fighting all the aliens that come in their way. But can they defeat a massive alien who has already abducted Kasumi?",
+  "title": {
+    "jp": "Alien 9"
+  },
+  "releasedAt": "2001-06-25T00:00:00.000Z",
+  "finishedAt": "2002-02-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1057/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1057/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "alternative present",
+    "angst",
+    "conspiracy",
+    "friendship",
+    "horror",
+    "japan",
+    "parasite",
+    "present",
+    "school life",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [
+    "http://www.hulu.com/alien-9",
+    "https://tubitv.com/series/1944"
+  ],
+  "relations": {
+    "kitsu": "1057",
+    "anidb": "58",
+    "anilist/anime": "1177",
+    "aozora": "SI6Li3E4to",
+    "hulu": "50020364",
+    "myanimelist/anime": "1177"
+  }
+}

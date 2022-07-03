@@ -1,0 +1,28 @@
+{
+  "slug": "mahou-shoujo-nante-mou-ii-desukara-2nd-season",
+  "synopsis": "Second season of Mahou Shoujo Nante Mou Ii Desukara.",
+  "title": {
+    "en": "Mahou Shoujo Nante Mouiidesukara Second Season",
+    "jp": "Mahou Shoujo Nante Mou Ii Desukara. Second Season"
+  },
+  "releasedAt": "2016-10-05T00:00:00.000Z",
+  "finishedAt": "2016-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12467/original.jpg",
+  "categories": [
+    "comedy",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12467",
+    "anidb": "12317",
+    "anilist/anime": "21892",
+    "aozora": "VpDUY61TGL",
+    "myanimelist/anime": "33795",
+    "thetvdb": "304110/2"
+  }
+}

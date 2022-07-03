@@ -1,0 +1,28 @@
+{
+  "slug": "tobe-pegasus-kokoro-no-goal-ni-shoot",
+  "synopsis": "The movie is about the soccer team Pegasus created from the visually impaired children studying in the Chiba Prefectural School for the Blind.\n(Source: allcinema)",
+  "title": {
+    "jp": "Tobe! Pegasus Kokoro no Goal ni Shoot"
+  },
+  "releasedAt": "1995-06-03T00:00:00.000Z",
+  "finishedAt": "1995-06-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7800/original.jpg",
+  "categories": [
+    "japan",
+    "present",
+    "school life",
+    "soccer",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7800",
+    "anidb": "8665",
+    "anilist/anime": "19049",
+    "aozora": "m8gOSL9Ekl",
+    "myanimelist/anime": "19049"
+  }
+}

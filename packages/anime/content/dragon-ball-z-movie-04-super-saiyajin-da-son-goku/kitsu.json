@@ -1,0 +1,30 @@
+{
+  "slug": "dragon-ball-z-movie-04-super-saiyajin-da-son-goku",
+  "synopsis": "A Super Namekian named Slug comes to invade Earth. But the Z Warriors do their best to stop Slug and his gang. \n(Source: ANN)",
+  "title": {
+    "en": "Dragon Ball Z Movie 04: Lord Slug",
+    "jp": "Dragon Ball Z Movie 04: Super Saiyajin da Son Gokuu"
+  },
+  "releasedAt": "1991-03-19T00:00:00.000Z",
+  "finishedAt": "1991-03-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/797/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/797/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "797",
+    "anidb": "763",
+    "anilist/anime": "897",
+    "aozora": "PLamZyh2aW",
+    "myanimelist/anime": "897"
+  }
+}

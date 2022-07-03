@@ -1,0 +1,23 @@
+{
+  "slug": "mobile-suit-gundam-seed-movie",
+  "synopsis": "New Gundam SEED Movie Project.",
+  "title": {
+    "en": "Mobile Suit Gundam Seed Movie",
+    "jp": "Kidou Senshi Gundam Seed Movie"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44632/original.jpeg",
+  "categories": [
+    "mecha",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44632",
+    "anilist/anime": "134761"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "monster-musume-no-iru-nichijou-ova",
+  "synopsis": "Bundled with the 11th and 12th volumes of the manga.\nThe OAD adapted the manga's chapter 17 from the fourth volume, where Miia, Cerea, Mero, and Kurusu go to the gym's pool.",
+  "title": {
+    "en": "Everyday Life with Monster Girls OVA",
+    "jp": "Monster Musume no Iru Nichijou OVA"
+  },
+  "releasedAt": "2016-11-12T00:00:00.000Z",
+  "finishedAt": "2017-04-13T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11836/original.png",
+  "categories": [
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "japan",
+    "parental abandonment",
+    "present",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11836",
+    "anidb": "11926",
+    "anilist/anime": "21650",
+    "aozora": "pQ094FfAGC",
+    "myanimelist/anime": "32698"
+  }
+}

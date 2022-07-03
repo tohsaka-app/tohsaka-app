@@ -1,0 +1,25 @@
+{
+  "slug": "vocaloid-culture",
+  "synopsis": "The newest MV from Mitchie M. In this clip Miku plays around at being a DJ and creating this song by using various samples and effects used in many other vocaloid songs. The list of used samples is at the end of the video.\n\n(Source: AniList)",
+  "title": {
+    "en": "Vocaloid Culture",
+    "jp": "Vocaloid Culture"
+  },
+  "releasedAt": "2018-06-30T00:00:00.000Z",
+  "finishedAt": "2018-06-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44558/original.png",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=YXpZ0uRMDR0"
+  ],
+  "relations": {
+    "kitsu": "44558",
+    "anilist/anime": "103071"
+  }
+}

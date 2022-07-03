@@ -1,0 +1,31 @@
+{
+  "slug": "pretty-rhythm-aurora-dream",
+  "synopsis": "Prism Stars are performers on the new popular ice show, Prism Show. They are superidols whose techniques, singing and fashion sense are a cut above all others. Aira and Rizumu are two Prism Stars whose goal is to become the best, the Prism Queen; however, the road to success is bumpy.\n(Source: AniDB)",
+  "title": {
+    "jp": "Pretty Rhythm: Aurora Dream"
+  },
+  "releasedAt": "2011-04-09T00:00:00.000Z",
+  "finishedAt": "2012-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6101/original.jpg",
+  "categories": [
+    "comedy",
+    "music",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6101",
+    "anidb": "8240",
+    "anilist/anime": "10257",
+    "aozora": "xTWmWJQWEo",
+    "myanimelist/anime": "10257",
+    "thetvdb": "255925/1",
+    "thetvdb/season": "484672",
+    "thetvdb/series": "255925",
+    "trakt": "67145"
+  }
+}

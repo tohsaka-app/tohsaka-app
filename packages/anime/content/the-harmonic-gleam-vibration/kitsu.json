@@ -1,0 +1,24 @@
+{
+  "slug": "the-harmonic-gleam-vibration",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "The Harmonic Gleam Vibration"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9669/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9669",
+    "anilist/anime": "102684",
+    "aozora": "vGKxtQJZWj",
+    "myanimelist/anime": "22175"
+  }
+}

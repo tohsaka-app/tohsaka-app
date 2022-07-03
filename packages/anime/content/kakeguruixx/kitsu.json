@@ -1,0 +1,29 @@
+{
+  "slug": "kakeguruixx",
+  "synopsis": "Second season of Kakegurui.",
+  "title": {
+    "jp": "Kakegurui××"
+  },
+  "releasedAt": "2019-01-09T00:00:00.000Z",
+  "finishedAt": "2019-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14172/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14172/original.jpg",
+  "categories": [
+    "card games",
+    "mystery",
+    "psychological",
+    "school life"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80175351"
+  ],
+  "relations": {
+    "kitsu": "14172",
+    "anidb": "13718",
+    "anilist/anime": "100876",
+    "myanimelist/anime": "37086"
+  }
+}

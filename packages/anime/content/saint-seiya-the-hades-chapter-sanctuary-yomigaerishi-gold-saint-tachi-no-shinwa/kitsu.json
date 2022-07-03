@@ -1,0 +1,30 @@
+{
+  "slug": "saint-seiya-the-hades-chapter-sanctuary-yomigaerishi-gold-saint-tachi-no-shinwa",
+  "synopsis": "Is a summary of the Saga Hades Sanctuary from the perspective of the golden knights resurrected, especially Shura, Camus and Saga.",
+  "title": {
+    "jp": "Saint Seiya: The Hades Chapter Sanctuary - Yomigaerishi Gold Saint-tachi no Shinwa"
+  },
+  "releasedAt": "2003-01-01T00:00:00.000Z",
+  "finishedAt": "2003-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4450/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4450/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "deity",
+    "fantasy",
+    "henshin",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4450",
+    "anilist/anime": "6154",
+    "aozora": "QRYDCbxwKC",
+    "myanimelist/anime": "6154"
+  }
+}

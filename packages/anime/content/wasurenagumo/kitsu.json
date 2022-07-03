@@ -1,0 +1,35 @@
+{
+  "slug": "wasurenagumo",
+  "synopsis": "This story involves the shopkeeper Suzuri of Kokumondou who sells historic books and Mizuki, granddaughter of the land owner. When Mizuki releases a somewhat cute young spider demon out of a sealed book, the pair investigate the origins behind it.\n(Source: BakaBT)",
+  "title": {
+    "en": "Li'l Spider Girl",
+    "jp": "Wasurenagumo"
+  },
+  "releasedAt": "2012-03-12T00:00:00.000Z",
+  "finishedAt": "2012-03-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6901/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6901/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "comedy",
+    "countryside",
+    "drama",
+    "earth",
+    "horror",
+    "japan",
+    "juujin",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6901",
+    "anidb": "8468",
+    "anilist/anime": "13171",
+    "aozora": "7HBgp3iHwG",
+    "myanimelist/anime": "13171"
+  }
+}

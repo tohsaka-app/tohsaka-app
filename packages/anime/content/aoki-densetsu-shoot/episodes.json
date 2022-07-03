@@ -1,0 +1,524 @@
+[
+  {
+    "title": {
+      "jp": "Kick Off"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1993-11-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Offside"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1993-11-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ace Number"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1993-11-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rival"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1993-11-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Regulars"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1993-12-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Goalkeeper"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1993-12-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Team Play"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1993-12-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chance"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1993-12-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Penalty Kick"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1994-01-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Triangle"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1994-01-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Decoy Run"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1994-01-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Striker"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1994-01-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Left"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1994-02-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Best Eight"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1994-02-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Eye Contact"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1994-02-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Secret Weapon"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1994-02-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Counter-Attack"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1994-03-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Legend"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1994-03-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sudden Death"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1994-03-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Requiem"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1994-03-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "New Face"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1994-04-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Proposal"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1994-04-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yellow Card"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1994-04-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Start"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1994-04-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Uniform"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1994-05-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Madonna Shot"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1994-05-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Red Card"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1994-05-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Manager"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1994-05-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hat Trick"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1994-05-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Intercept"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1994-06-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "My Way"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1994-06-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Technician"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "1994-06-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dream"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "1994-06-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Magician"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "1994-07-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Trick"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "1994-07-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "J League"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "1994-07-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Spotlight"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "1994-07-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Flash Pass"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "1994-08-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Misanga"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "1994-08-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Final"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "1994-08-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Boxer"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "1994-08-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Even"
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "1994-08-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Counter Shoot"
+    },
+    "season": 1,
+    "number": 43,
+    "releasedAt": "1994-09-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Challenge"
+    },
+    "season": 1,
+    "number": 44,
+    "releasedAt": "1994-09-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Miracle Team"
+    },
+    "season": 1,
+    "number": 45,
+    "releasedAt": "1994-09-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Audition"
+    },
+    "season": 1,
+    "number": 46,
+    "releasedAt": "1994-10-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "All-Stars"
+    },
+    "season": 1,
+    "number": 47,
+    "releasedAt": "1994-10-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kaiser"
+    },
+    "season": 1,
+    "number": 48,
+    "releasedAt": "1994-10-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Libero"
+    },
+    "season": 1,
+    "number": 49,
+    "releasedAt": "1994-10-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Magic Scissors"
+    },
+    "season": 1,
+    "number": 50,
+    "releasedAt": "1994-10-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kiss"
+    },
+    "season": 1,
+    "number": 51,
+    "releasedAt": "1994-11-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Promise"
+    },
+    "season": 1,
+    "number": 52,
+    "releasedAt": "1994-11-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Wolf"
+    },
+    "season": 1,
+    "number": 53,
+    "releasedAt": "1994-11-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Offside Trap"
+    },
+    "season": 1,
+    "number": 54,
+    "releasedAt": "1994-11-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Bicycle Shoot"
+    },
+    "season": 1,
+    "number": 55,
+    "releasedAt": "1994-12-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Last Stage"
+    },
+    "season": 1,
+    "number": 56,
+    "releasedAt": "1994-12-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Love Letter"
+    },
+    "season": 1,
+    "number": 57,
+    "releasedAt": "1994-12-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tomorrow"
+    },
+    "season": 1,
+    "number": 58,
+    "releasedAt": "1994-12-25T00:00:00.000Z",
+    "content": {}
+  }
+]

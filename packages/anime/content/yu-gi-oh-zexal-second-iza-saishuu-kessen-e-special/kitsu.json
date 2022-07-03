@@ -1,0 +1,28 @@
+{
+  "slug": "yu-gi-oh-zexal-second-iza-saishuu-kessen-e-special",
+  "synopsis": "Recap aired between episodes 58 and 59.",
+  "title": {
+    "jp": "Yu☆Gi☆Oh! Zexal Second: Iza! Saishuu Kessen e!! Special"
+  },
+  "releasedAt": "2013-12-05T00:00:00.000Z",
+  "finishedAt": "2013-12-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8250/original.jpg",
+  "categories": [
+    "action",
+    "card games",
+    "fantasy",
+    "friendship",
+    "science fiction",
+    "shounen",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8250",
+    "aozora": "kZTTOoxXiu",
+    "myanimelist/anime": "21595"
+  }
+}

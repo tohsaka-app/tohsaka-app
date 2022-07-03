@@ -1,0 +1,27 @@
+{
+  "slug": "bravest-warriors-season-3",
+  "synopsis": "Third season of Bravest Warriors aired on Cartoon Hangover.",
+  "title": {},
+  "releasedAt": "2017-01-10T00:00:00.000Z",
+  "finishedAt": "2017-03-07T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14111/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14111/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "future",
+    "space"
+  ],
+  "externals": [
+    "https://vrv.co/series/GYP8VJJQY/Bravest-Warriors"
+  ],
+  "relations": {
+    "kitsu": "14111",
+    "thetvdb": "263975/3"
+  }
+}

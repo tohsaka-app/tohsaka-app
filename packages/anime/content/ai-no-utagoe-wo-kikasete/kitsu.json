@@ -1,0 +1,28 @@
+{
+  "slug": "ai-no-utagoe-wo-kikasete",
+  "synopsis": "The film tells the story of a new transfer student interested in her surroundings, and a song that brings happiness to her and her classmates.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Sing a Bit of Harmony",
+    "jp": "Ai no Utagoe wo Kikasete"
+  },
+  "releasedAt": "2021-10-29T00:00:00.000Z",
+  "finishedAt": "2021-10-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43537/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43537/original.png",
+  "categories": [
+    "high school",
+    "music",
+    "school life",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43537",
+    "anidb": "15722",
+    "anilist/anime": "123899",
+    "myanimelist/anime": "42847"
+  }
+}

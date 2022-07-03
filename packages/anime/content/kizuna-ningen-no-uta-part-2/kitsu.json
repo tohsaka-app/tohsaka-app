@@ -1,0 +1,24 @@
+{
+  "slug": "kizuna-ningen-no-uta-part-2",
+  "synopsis": "An educational film about marriage discrimination; how hard it is for a lower class person to marry into upper class.",
+  "title": {
+    "jp": "Kizuna: Ningen no Uta Part 2"
+  },
+  "releasedAt": "1990-01-01T00:00:00.000Z",
+  "finishedAt": "1990-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11084/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11084",
+    "anilist/anime": "121881",
+    "aozora": "BRquUG0BBk",
+    "myanimelist/anime": "31000"
+  }
+}

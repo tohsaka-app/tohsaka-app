@@ -1,0 +1,29 @@
+{
+  "slug": "mahou-tsukai-jiji",
+  "synopsis": "\"Mahou Tsukai Jiji\" was created as part of a project promoting the relation between young and old people.",
+  "title": {
+    "jp": "Mahoutsukai Jiji"
+  },
+  "releasedAt": "2011-12-24T00:00:00.000Z",
+  "finishedAt": "2011-12-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6804/original.jpg",
+  "categories": [
+    "fantasy",
+    "japan",
+    "magic",
+    "music",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6804",
+    "anidb": "8906",
+    "anilist/anime": "12755",
+    "aozora": "7pWdMfu2NP",
+    "myanimelist/anime": "12755"
+  }
+}

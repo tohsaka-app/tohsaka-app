@@ -1,0 +1,29 @@
+{
+  "slug": "starship-troopers-traitor-of-mars",
+  "synopsis": "Federation trooper Johnny Rico is ordered to work with a group of new recruits on a satellite station on Mars, where giant bugs have decided to target their next attack.",
+  "title": {
+    "jp": "Starship Troopers: Traitor of Mars"
+  },
+  "releasedAt": "2017-08-21T00:00:00.000Z",
+  "finishedAt": "2017-08-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13744/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "future",
+    "military",
+    "science fiction",
+    "space",
+    "space travel",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13744",
+    "anilist/anime": "101913",
+    "myanimelist/anime": "36194"
+  }
+}

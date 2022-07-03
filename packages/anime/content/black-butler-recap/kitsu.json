@@ -1,0 +1,25 @@
+{
+  "slug": "black-butler-recap",
+  "synopsis": "A recap episode of the first half of Kuroshituji told by Tanaka-san, aka episode 13.5. Including this recap episode, the series is 25 episodes long. ",
+  "title": {
+    "jp": "Kuroshitsuji Recap"
+  },
+  "releasedAt": "2009-01-09T00:00:00.000Z",
+  "finishedAt": "2009-01-09T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4453/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "fantasy",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4453",
+    "aozora": "nOa27fZsmm",
+    "myanimelist/anime": "6163"
+  }
+}

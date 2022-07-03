@@ -1,0 +1,20 @@
+{
+  "slug": "heartbreak-monochrome",
+  "synopsis": "",
+  "title": {
+    "jp": "Heartbreak Monochrome"
+  },
+  "releasedAt": "2014-02-16T00:00:00.000Z",
+  "finishedAt": "2014-02-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13347/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13347"
+  }
+}

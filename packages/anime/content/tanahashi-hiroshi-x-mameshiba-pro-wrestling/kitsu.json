@@ -1,0 +1,24 @@
+{
+  "slug": "tanahashi-hiroshi-x-mameshiba-pro-wrestling",
+  "synopsis": "A collaboration between New Japan Pro Wrestling, Inc. and Mameshiba.",
+  "title": {
+    "jp": "Tanahashi Hiroshi X Mameshiba Pro Wrestling"
+  },
+  "releasedAt": "2013-07-09T00:00:00.000Z",
+  "finishedAt": "2014-08-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12494/original.jpg",
+  "categories": [
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12494",
+    "anidb": "12413",
+    "aozora": "Vd7GFdDmXW",
+    "myanimelist/anime": "33543"
+  }
+}

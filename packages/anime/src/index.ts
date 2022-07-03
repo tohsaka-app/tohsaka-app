@@ -37,7 +37,7 @@ export interface Show {
 	status: Status;
 	rating: Rating;
 
-	posterUrl: string;
+	posterUrl?: string;
 	coverUrl?: string;
 	categories: Array<string>;
 	externals: Array<string>;

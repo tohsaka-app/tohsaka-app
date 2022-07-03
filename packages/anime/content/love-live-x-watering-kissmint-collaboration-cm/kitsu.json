@@ -1,0 +1,23 @@
+{
+  "slug": "love-live-x-watering-kissmint-collaboration-cm",
+  "synopsis": "A Collaboration Commercial for Glico's Watering KissMint chewing gum with characters from Love Live! School Idol Project.",
+  "title": {
+    "jp": "Love Live! x Watering KissMint Collaboration CM"
+  },
+  "releasedAt": "2016-02-11T00:00:00.000Z",
+  "finishedAt": "2016-02-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11845/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11845/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11845",
+    "aozora": "PifHFOdlPm",
+    "myanimelist/anime": "32730"
+  }
+}

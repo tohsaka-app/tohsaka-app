@@ -1,0 +1,24 @@
+{
+  "slug": "chiisana-kinomi-1995",
+  "synopsis": "A music video for the song by Fumiko Kanbara that was featured on NHK's Minna no Uta Program.",
+  "title": {
+    "jp": "Chiisana Kinomi (1995)"
+  },
+  "releasedAt": "1995-10-01T00:00:00.000Z",
+  "finishedAt": "1995-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10695/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10695",
+    "anilist/anime": "139175",
+    "aozora": "JNBOw3CSNB",
+    "myanimelist/anime": "30164"
+  }
+}

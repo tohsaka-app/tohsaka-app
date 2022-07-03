@@ -1,0 +1,25 @@
+{
+  "slug": "hellsing-psalm-of-darkness",
+  "synopsis": "Special that can be found on DVD. Contains animation not reused in the TV series.",
+  "title": {
+    "jp": "Hellsing: Psalm of Darkness"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5099/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5099",
+    "anilist/anime": "7728",
+    "aozora": "Ufijd2p5Qe",
+    "myanimelist/anime": "7728"
+  }
+}

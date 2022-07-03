@@ -1,0 +1,23 @@
+{
+  "slug": "tanita-shokudou",
+  "synopsis": "Commercial for Marukome brand foods partnership with Tanita cafeterias.",
+  "title": {
+    "jp": "Tanita Shokudou"
+  },
+  "releasedAt": "2015-05-14T00:00:00.000Z",
+  "finishedAt": "2015-05-14T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11062/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11062",
+    "anilist/anime": "103411",
+    "aozora": "Fag1wuCiWT",
+    "myanimelist/anime": "30971"
+  }
+}

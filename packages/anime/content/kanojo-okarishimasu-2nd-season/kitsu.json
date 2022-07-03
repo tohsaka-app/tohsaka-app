@@ -1,0 +1,28 @@
+{
+  "slug": "kanojo-okarishimasu-2nd-season",
+  "synopsis": "Second season of Kanojo, Okarishimasu.",
+  "title": {
+    "en": "Rent-a-Girlfriend 2nd Season",
+    "jp": "Kanojo, Okarishimasu 2nd Season"
+  },
+  "releasedAt": "2022-07-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/43588/poster_image/2f7899f5a11e5757c7bbea8d3b891192.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43588/original.png",
+  "categories": [
+    "comedy",
+    "harem",
+    "romance",
+    "school life",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43588",
+    "anilist/anime": "124410",
+    "myanimelist/anime": "42963"
+  }
+}

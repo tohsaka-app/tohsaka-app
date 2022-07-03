@@ -1,0 +1,22 @@
+{
+  "slug": "magic-the-gathering",
+  "synopsis": "Netflix original series based on the card game, Magic: The Gathering.",
+  "title": {},
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42383/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "fantasy",
+    "fantasy world",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42383"
+  }
+}

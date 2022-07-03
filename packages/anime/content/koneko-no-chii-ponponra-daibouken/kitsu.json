@@ -1,0 +1,32 @@
+{
+  "slug": "koneko-no-chii-ponponra-daibouken",
+  "synopsis": "A new 3D CG anime of Kanata Konami's slice-of-life manga Chi's Sweet Home.",
+  "title": {
+    "en": "Chi's Sweet Adventure",
+    "jp": "Koneko no Chii: Ponponra Daibouken"
+  },
+  "releasedAt": "2016-10-02T00:00:00.000Z",
+  "finishedAt": "2017-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12154/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12154/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12154",
+    "anidb": "12103",
+    "anilist/anime": "21796",
+    "aozora": "OnTGXBYUH0",
+    "myanimelist/anime": "33240",
+    "trakt": "34039"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "tokyo-revengers-seiya-kessen-hen",
+  "synopsis": "The second season of Tokyo Revengers.",
+  "title": {
+    "en": "Tokyo Revengers: Christmas Showdown Arc",
+    "jp": "Tokyo Revengers: Seiya Kessen-hen"
+  },
+  "releasedAt": "2023-01-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/45607/poster_image/9213a1f2c285b0c9431665a44ce1368f.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45607/cover_image/869e10ab1ff545ba1864978ca539bbe3.jpg",
+  "categories": [
+    "action",
+    "crime",
+    "delinquent",
+    "drama",
+    "school life",
+    "shounen",
+    "time travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45607",
+    "anilist/anime": "142853"
+  }
+}

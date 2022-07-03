@@ -1,0 +1,26 @@
+{
+  "slug": "yakyuukyou-no-uta-kita-no-ookami-minami-no-tora",
+  "synopsis": "A re-edited version of episodes 13 and 14 of the TV series. Double billed with Mirai Shounen Conan movie in the cinemas.\n(Source: AniDB)",
+  "title": {
+    "jp": "Yakyuukyou no Uta: Kita no Ookami Minami no Tora"
+  },
+  "releasedAt": "1979-09-15T00:00:00.000Z",
+  "finishedAt": "1979-09-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6242/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6242",
+    "anidb": "7663",
+    "anilist/anime": "10563",
+    "aozora": "fJBLpPNMh6",
+    "myanimelist/anime": "10563"
+  }
+}

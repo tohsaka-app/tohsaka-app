@@ -1,0 +1,24 @@
+{
+  "slug": "touhou-pvd-2",
+  "synopsis": "2nd Touhou fan-made music videos released by Sound Holic on the Japanese Comiket 80 convention.",
+  "title": {
+    "en": "",
+    "jp": "Touhou PVD 2"
+  },
+  "releasedAt": "2011-08-13T00:00:00.000Z",
+  "finishedAt": "2011-08-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11531/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11531/original.jpg",
+  "categories": [
+    "action",
+    "magic",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11531"
+  }
+}

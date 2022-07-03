@@ -1,0 +1,24 @@
+{
+  "slug": "fujilog",
+  "synopsis": "The story follows the hapless life of Osamu Fujiyama, 33 years old and NEET (Not in Education, Employment or Training).\n(Source: AniDB)",
+  "title": {
+    "jp": "Fujilog"
+  },
+  "releasedAt": "2011-04-04T00:00:00.000Z",
+  "finishedAt": "2011-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6228/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6228",
+    "anidb": "8176",
+    "anilist/anime": "10533",
+    "aozora": "zuRWQuMiKl",
+    "myanimelist/anime": "10533"
+  }
+}

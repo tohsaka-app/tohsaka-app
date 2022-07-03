@@ -1,0 +1,25 @@
+{
+  "slug": "fukashigi-no-kazoekata",
+  "synopsis": "An anime commissioned by The National Museum of Emerging Science and Innovation (Miraikan for short) for its \"The Art of 10^64 -Understanding Vastness-\" exhibition which ran from August 1, 2012 to April 15, 2013.\nThis is an example about combinatorial explosion.\n\"I want to demonstrate how amazing combinatorial explosion is! Please don't stop me!\"\nTeacher and children tell you how difficult it is.\n(Source: Official YouTube Page)",
+  "title": {
+    "en": "The Art of 10^64 -Understanding Vastness-",
+    "jp": "Fukashigi no Kazoekata"
+  },
+  "releasedAt": "2012-09-10T00:00:00.000Z",
+  "finishedAt": "2012-09-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10653/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10653",
+    "anidb": "11588",
+    "anilist/anime": "138990",
+    "aozora": "9avXTYN8zV",
+    "myanimelist/anime": "30105"
+  }
+}

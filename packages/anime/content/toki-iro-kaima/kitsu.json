@@ -1,0 +1,24 @@
+{
+  "slug": "toki-iro-kaima",
+  "synopsis": "Anime adaptation of the same name horror manga by Suzumiya Wayu, serialized in Shogakuan's Weekly Shonen Sunday special issue.",
+  "title": {
+    "jp": "Toki-iro Kaima"
+  },
+  "releasedAt": "1989-04-20T00:00:00.000Z",
+  "finishedAt": "1990-02-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9675/original.jpg",
+  "categories": [
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9675",
+    "anidb": "5944",
+    "anilist/anime": "19513",
+    "aozora": "ZNNJv0wNve",
+    "myanimelist/anime": "19513"
+  }
+}

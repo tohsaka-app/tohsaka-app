@@ -1,0 +1,24 @@
+{
+  "slug": "henkei-sakuhin-dai-1-ban",
+  "synopsis": "Short film by Kurosaka Keita.",
+  "title": {
+    "en": "Metamorphose Works No.1",
+    "jp": "Henkei Sakuhin Dai 1-ban"
+  },
+  "releasedAt": "1984-01-01T00:00:00.000Z",
+  "finishedAt": "1984-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11434/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11434",
+    "anilist/anime": "103459",
+    "aozora": "fw2ozU1NYQ",
+    "myanimelist/anime": "31584"
+  }
+}

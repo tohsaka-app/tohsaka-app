@@ -1,0 +1,27 @@
+{
+  "slug": "sabaku-no-kuni-no-oujosama",
+  "synopsis": "When the spring that supplies water to her kingdom dries up, the Princess decides to go into the desert in search of a faraway oasis that is said to exist. The Princess and her animal friends face many challenges in their journey to save the draught-stricken kingdom.",
+  "title": {
+    "en": "The Princess of the Desert Kingdom",
+    "jp": "Sabaku no Kuni no Oujosama"
+  },
+  "releasedAt": "2001-03-01T00:00:00.000Z",
+  "finishedAt": "2001-03-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9560/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "middle east",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9560",
+    "anidb": "9056",
+    "aozora": "oRH5fSaLgI",
+    "myanimelist/anime": "23707"
+  }
+}

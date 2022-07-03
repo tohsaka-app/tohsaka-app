@@ -1,0 +1,25 @@
+{
+  "slug": "mega-man-fully-charged",
+  "synopsis": "The series follows Aki Light, an advanced robot who looks like and lives the routine of a human schoolboy. He was built by scientist Dr. Light as his son and lives with his biologically human sister Suna Light. They live in Silicon City, a town co-inhabited by robots and humans rather peacefully, though is currently seeing new attacks from rogue robots.\n\n(Source: Wikipedia)",
+  "title": {
+    "en": "Mega Man: Fully Charged"
+  },
+  "releasedAt": "2018-08-05T00:00:00.000Z",
+  "finishedAt": "2019-05-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44704/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "kids",
+    "mecha",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44704"
+  }
+}

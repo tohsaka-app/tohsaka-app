@@ -1,0 +1,26 @@
+{
+  "slug": "twenty-one-emon-uchuu-e-irasshai",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "21 Emon Uchuu e Irasshai!"
+  },
+  "releasedAt": "1981-08-01T00:00:00.000Z",
+  "finishedAt": "1981-08-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4413/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4413",
+    "anidb": "5323",
+    "anilist/anime": "6073",
+    "aozora": "its2CBZ2f9",
+    "myanimelist/anime": "6073"
+  }
+}

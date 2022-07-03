@@ -1,0 +1,24 @@
+{
+  "slug": "offside-ova",
+  "synopsis": "",
+  "title": {
+    "jp": "Offside"
+  },
+  "releasedAt": "1993-01-22T00:00:00.000Z",
+  "finishedAt": "1993-01-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14228/original.jpg",
+  "categories": [
+    "action",
+    "soccer",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14228",
+    "aozora": "yXrpqgs2Uy",
+    "myanimelist/anime": "31575"
+  }
+}

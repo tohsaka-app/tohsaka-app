@@ -1,0 +1,22 @@
+{
+  "slug": "fam-fam-time",
+  "synopsis": "MV for Dokuzuhonsha's song, Fam☆Fam☆Time!",
+  "title": {
+    "en": "Fam☆Fam☆Time!",
+    "jp": "Fam☆Fam☆Time!"
+  },
+  "releasedAt": "2019-09-21T00:00:00.000Z",
+  "finishedAt": "2019-09-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43887/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43887/original.jpg",
+  "categories": [],
+  "externals": [
+    "https://www.youtube.com/watch?v=RfLg_gcLVv4&ab_channel=%E6%9C%AC%E9%96%93%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A-HimawariHonma-"
+  ],
+  "relations": {
+    "kitsu": "43887"
+  }
+}

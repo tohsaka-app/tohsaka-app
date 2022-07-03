@@ -1,0 +1,25 @@
+{
+  "slug": "movie-1946",
+  "synopsis": "An adaptation of the classic tale of the spider silk, where a man sentenced in Hell tries to escape by climbing a string of spider silk hanging from above.",
+  "title": {
+    "en": "Spider Silk",
+    "jp": "Kumo no Ito"
+  },
+  "releasedAt": "1946-01-01T00:00:00.000Z",
+  "finishedAt": "1946-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13218/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13218",
+    "anidb": "10734",
+    "anilist/anime": "109364",
+    "aozora": "lP2LgjlFAn",
+    "myanimelist/anime": "28053"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "landlock",
+  "synopsis": "The land of Zer’lue is in turmoil, ravaged by the technological might of Chairman Sana'ku and his evil, militaristic Zul’earth forces. In a rapidly unfolding story of treachery, deceit and betrayal, only one boy holds the power to defeat such overwhelming odds... a boy named Lue'der, who possesses a mysterious red eye and the ability to control the power of the wind itself. With the fate of the world at stake, Lue'der must learn to unlock his legendary power and battle against the evil which threatens to engulf his planet.\n(Source: ANN)",
+  "title": {
+    "jp": "Landlock"
+  },
+  "releasedAt": "1996-06-21T00:00:00.000Z",
+  "finishedAt": "1996-09-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1877/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "gunfights",
+    "military",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1877",
+    "anidb": "1732",
+    "anilist/anime": "2078",
+    "aozora": "r7uADKgUrh",
+    "myanimelist/anime": "2078"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "hard-loose",
+  "synopsis": "Based on the manga by Tsuchiya Garon (aka Marley Carib), art by Kawaguchi Kaiji, serialised in Action in the 80s. ",
+  "title": {
+    "jp": "Shiritsutantei: Toki Shouzou Trouble Note - Hard & Loose"
+  },
+  "releasedAt": "1992-01-07T00:00:00.000Z",
+  "finishedAt": "1992-01-07T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4421/original.jpg",
+  "categories": [
+    "action",
+    "detective",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4421",
+    "anidb": "4482",
+    "anilist/anime": "6091",
+    "aozora": "9lOIw3MlNH",
+    "myanimelist/anime": "6091"
+  }
+}

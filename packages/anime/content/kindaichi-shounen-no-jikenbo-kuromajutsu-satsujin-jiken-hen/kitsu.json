@@ -1,0 +1,24 @@
+{
+  "slug": "kindaichi-shounen-no-jikenbo-kuromajutsu-satsujin-jiken-hen",
+  "synopsis": "Kindaichi is back with another mystery to solve.",
+  "title": {
+    "jp": "Kindaichi Shounen no Jikenbo: Kuromajutsu Satsujin Jiken-hen"
+  },
+  "releasedAt": "2012-12-17T00:00:00.000Z",
+  "finishedAt": "2013-03-15T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7318/original.jpg",
+  "categories": [
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7318",
+    "anidb": "9248",
+    "anilist/anime": "15819",
+    "aozora": "ZbeY9aCuhc",
+    "myanimelist/anime": "15819"
+  }
+}

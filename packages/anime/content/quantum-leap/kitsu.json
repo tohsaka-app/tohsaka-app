@@ -1,0 +1,24 @@
+{
+  "slug": "quantum-leap",
+  "synopsis": "Music video by m-flo from their DVD album 'Tunnel Vision'.",
+  "title": {
+    "jp": "Quantum Leap"
+  },
+  "releasedAt": "2000-06-28T00:00:00.000Z",
+  "finishedAt": "2000-06-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8868/original.jpg",
+  "categories": [
+    "action",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8868",
+    "anilist/anime": "106925",
+    "aozora": "sOo7gwaSg0",
+    "myanimelist/anime": "22417"
+  }
+}

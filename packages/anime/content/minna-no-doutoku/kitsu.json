@@ -1,0 +1,26 @@
+{
+  "slug": "minna-no-doutoku",
+  "synopsis": "DVD collections that feature various stories with morals aimed at children. The DVDs come with supplementary reading as these videos are meant for a classroom setting.",
+  "title": {
+    "jp": "Minna no Doutoku"
+  },
+  "releasedAt": "2010-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9457/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "historical",
+    "kids",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9457",
+    "aozora": "EHRciXN9Bm",
+    "myanimelist/anime": "26337"
+  }
+}

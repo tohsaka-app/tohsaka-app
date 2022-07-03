@@ -1,0 +1,27 @@
+{
+  "slug": "sword-art-online-sword-art-offline-extra-edition",
+  "synopsis": "Extra episode of Sword Art Offline included in the Sword Art Online: Extra Edition Blu-ray and DVD.",
+  "title": {
+    "jp": "Sword Art Online: Sword Art Offline - Extra Edition"
+  },
+  "releasedAt": "2014-04-23T00:00:00.000Z",
+  "finishedAt": "2014-04-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8196/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8196/original.png",
+  "categories": [
+    "comedy",
+    "isekai",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8196",
+    "anilist/anime": "20895",
+    "aozora": "sApF3tkWIT",
+    "myanimelist/anime": "21879",
+    "trakt": "45529"
+  }
+}

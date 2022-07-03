@@ -1,0 +1,26 @@
+{
+  "slug": "nichijou-tanken-nichijou-no-machi",
+  "synopsis": "Special episodes from Blu-ray and DVD.",
+  "title": {
+    "en": "My Ordinary Life Specials",
+    "jp": "Nichijou: Original Jikai Yokoku"
+  },
+  "releasedAt": "2011-06-24T00:00:00.000Z",
+  "finishedAt": "2012-06-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6360/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6360",
+    "anilist/anime": "10807",
+    "aozora": "92NFnLudUG",
+    "myanimelist/anime": "10807"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "nice-to-see-you",
+  "synopsis": "Furukawa Taku film.",
+  "title": {
+    "jp": "Nice to See You"
+  },
+  "releasedAt": "1975-01-01T00:00:00.000Z",
+  "finishedAt": "1975-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10774/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10774",
+    "anilist/anime": "102669",
+    "aozora": "awjW4hRqUh",
+    "myanimelist/anime": "30329"
+  }
+}

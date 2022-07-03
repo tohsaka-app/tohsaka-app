@@ -1,0 +1,22 @@
+{
+  "slug": "zunda-horizon",
+  "synopsis": "Part of Anime Tamago 2017 young animator training projects. ",
+  "title": {
+    "jp": "Zunda Horizon"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12447/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "12447",
+    "anidb": "12156",
+    "anilist/anime": "21846",
+    "aozora": "899E9KbTTv",
+    "myanimelist/anime": "33390"
+  }
+}

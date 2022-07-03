@@ -1,0 +1,27 @@
+{
+  "slug": "crossfire-project-ghost",
+  "synopsis": "",
+  "title": {
+    "en": "CrossFire: Project Ghost"
+  },
+  "releasedAt": "2019-07-12T00:00:00.000Z",
+  "finishedAt": "2019-07-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42968/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "law and order",
+    "military",
+    "shounen",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42968",
+    "anilist/anime": "121218",
+    "myanimelist/anime": "40484"
+  }
+}

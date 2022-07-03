@@ -1,0 +1,25 @@
+{
+  "slug": "bakuten-movie",
+  "synopsis": "Follow-up anime film for Bakuten!!",
+  "title": {
+    "en": "Backflip!! Movie",
+    "jp": "Bakuten!! Movie"
+  },
+  "releasedAt": "2022-07-31T00:00:00.000Z",
+  "finishedAt": "2022-07-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "upcoming",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44811/poster_image/e80a6140ff8c07663557fc0c1667976a.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44811",
+    "anilist/anime": "136064",
+    "myanimelist/anime": "49283"
+  }
+}

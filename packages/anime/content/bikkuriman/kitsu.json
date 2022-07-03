@@ -1,0 +1,25 @@
+{
+  "slug": "bikkuriman",
+  "synopsis": "In a world divided between angels and evil creatures, only the young hero Yamato Shintei has the power to defeat the demons...",
+  "title": {
+    "jp": "Bikkuriman"
+  },
+  "releasedAt": "1987-10-11T00:00:00.000Z",
+  "finishedAt": "1989-04-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3340/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3340",
+    "anidb": "2074",
+    "anilist/anime": "3909",
+    "aozora": "H3o9eX12z3",
+    "myanimelist/anime": "3909"
+  }
+}

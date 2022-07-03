@@ -1,0 +1,32 @@
+{
+  "slug": "Shinchou-Yuusha-Kono-Yuusha-ga-Ore-Tueee-Kuse-ni-Shinchou-Sugiru-Recap",
+  "synopsis": "A recap episode that covers episodes 1-6 of Cautious Hero: The Hero Is Overpowered but Overly Cautious.",
+  "title": {
+    "en": "Cautious Hero: The Hero Is Overpowered but Overly Cautious Recap",
+    "jp": "Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru Recap"
+  },
+  "releasedAt": "2019-12-11T00:00:00.000Z",
+  "finishedAt": "2019-12-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42889/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "demon",
+    "fantasy",
+    "isekai",
+    "magic"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/cautious-hero-the-hero-is-overpowered-but-overly-cautious/",
+    "https://www.hulu.com/series/cautious-hero-the-hero-is-overpowered-but-overly-cautious-bf1ecfd8-879a-4ccf-b0c9-ca4f05848f50"
+  ],
+  "relations": {
+    "kitsu": "42889",
+    "anidb": "14477",
+    "myanimelist/anime": "40849"
+  }
+}

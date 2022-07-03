@@ -1,0 +1,281 @@
+[
+  {
+    "title": {
+      "jp": "The codename is J.J."
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1987-04-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The codename is J.J."
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1987-04-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Attack the enemy of the high skies"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1987-04-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The chance is 0.1 second!"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1987-04-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Trap of the shapeless ninja squadron"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1987-05-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Apple order violation!?"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1987-05-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Take off, Tricharger"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1987-05-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Struggle till death! J.J. Versus Ricks"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1987-05-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Strike the oceanfloor base!"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1987-05-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Stolen Zillion"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1987-06-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Flames! Ricks' counterattack"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1987-06-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Birth of new zillion!"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1987-06-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Attack! Triple shoot"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1987-06-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Angry shutter chance"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1987-07-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nightingale of the battlefield"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1987-07-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Life Or Death!? Confrontation of fate - Part I"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1987-07-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Life Or Death!? Confrontation of fate - Part II"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1987-07-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tears! Let's search J.J."
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1987-09-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The beautiful noza's challenge"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1987-09-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Match! Let's throw the coin"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1987-09-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kick with a broken heart"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1987-09-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Clash! The sniper"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1987-10-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great victory from a lie!"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1987-10-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Terror! Demon's bio weapon"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1987-10-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Great adventure! Warrior Opa-Opa"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1987-10-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gentle fugitive Apple"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1987-11-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Revenge demon ninja!"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1987-11-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Extraordinary Rebel Ricks"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1987-11-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mystery!? Zillion power"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1987-11-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Heroic! Ricks dies!?"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1987-11-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Planet Maris on the corner!"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1987-12-06T00:00:00.000Z",
+    "content": {}
+  }
+]

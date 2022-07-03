@@ -1,0 +1,25 @@
+{
+  "slug": "tasukeai-no-rekishi-inochi-hoken-no-hajimari",
+  "synopsis": "An educational film about the history of life insurance. ",
+  "title": {
+    "jp": "Tasukeai no Rekishi: Inochi Hoken no Hajimari"
+  },
+  "releasedAt": "1976-01-01T00:00:00.000Z",
+  "finishedAt": "1976-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9770/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9770",
+    "anilist/anime": "121665",
+    "aozora": "Q19UYTEfHJ",
+    "myanimelist/anime": "26311"
+  }
+}

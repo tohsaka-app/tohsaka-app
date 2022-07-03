@@ -1,0 +1,24 @@
+{
+  "slug": "manga-hajimete-omoshiro-juku-ova",
+  "synopsis": "Compilation OVA of the Manga Hajimete Omoshiro Juku series.",
+  "title": {
+    "en": null,
+    "jp": "Manga Hajimete Omoshiro Juku OVA"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10825/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10825",
+    "aozora": "usxycpl8gP",
+    "myanimelist/anime": "30312"
+  }
+}

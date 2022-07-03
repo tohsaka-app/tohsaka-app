@@ -1,0 +1,26 @@
+{
+  "slug": "aruite-mikka",
+  "synopsis": "Short CGI music video by George Tokoro featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Aruite Mikka!"
+  },
+  "releasedAt": "1999-01-01T00:00:00.000Z",
+  "finishedAt": "1999-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10237/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10237",
+    "anidb": "11503",
+    "anilist/anime": "103324",
+    "aozora": "9pKLxJQ69d",
+    "myanimelist/anime": "29105"
+  }
+}

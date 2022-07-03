@@ -1,0 +1,29 @@
+{
+  "slug": "upotte-ova",
+  "synopsis": "OVA bundled with 4th volume of manga.",
+  "title": {
+    "jp": "Upotte!! OVA"
+  },
+  "releasedAt": "2012-10-13T00:00:00.000Z",
+  "finishedAt": "2012-10-13T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7089/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "military",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7089",
+    "anidb": "8991",
+    "anilist/anime": "14173",
+    "aozora": "V7ajaja904",
+    "myanimelist/anime": "14173",
+    "thetvdb": "257887",
+    "trakt": "44942"
+  }
+}

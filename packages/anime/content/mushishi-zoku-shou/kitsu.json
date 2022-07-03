@@ -1,0 +1,41 @@
+{
+  "slug": "mushishi-zoku-shou",
+  "synopsis": "They existed long before anyone can remember. They are simple and strange in nature, not resembling any other plant or animal in this world. In ancient times, people revered these bizarre creatures and called them \"Mushi.\"\nPeople once again began to believe in the existence of these \"Mushi\" when they began affecting their lives in inexplicable ways.\nThe one who connects the world of \"Mushi\" to the world of humans—they were called the \"Mushi-shi.\"\nAll life exists not to hinder others in this world.\nThey are simply there to live as they were meant to.\n(Source: Aniplex USA)",
+  "title": {
+    "en": "MUSHI-SHI -Next Passage-",
+    "jp": "Mushishi Zoku Shou"
+  },
+  "releasedAt": "2014-04-05T00:00:00.000Z",
+  "finishedAt": "2014-06-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8204/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8204/original.png",
+  "categories": [
+    "adventure",
+    "buddhism",
+    "contemporary fantasy",
+    "countryside",
+    "detective",
+    "fantasy",
+    "historical",
+    "japan",
+    "mystery",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/mushi-shi",
+    "https://www.amazon.com/Hidden-Cove/dp/B01N0Z7HHL",
+    "https://www.hulu.com/mushi-shi--next-passage-"
+  ],
+  "relations": {
+    "kitsu": "8204",
+    "anidb": "10384",
+    "anilist/anime": "20595",
+    "aozora": "64msx7JFPb",
+    "myanimelist/anime": "21939",
+    "thetvdb": "79214",
+    "trakt": "26750"
+  }
+}

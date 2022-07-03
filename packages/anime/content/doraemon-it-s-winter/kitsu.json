@@ -1,0 +1,27 @@
+{
+  "slug": "doraemon-it-s-winter",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "en": "Doraemon: It's Winter!",
+    "jp": "Doraemon: It's Winter!"
+  },
+  "releasedAt": "1986-04-04T00:00:00.000Z",
+  "finishedAt": "1986-04-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2405/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2405",
+    "anilist/anime": "2641",
+    "aozora": "rGdMTovjyO",
+    "myanimelist/anime": "2641"
+  }
+}

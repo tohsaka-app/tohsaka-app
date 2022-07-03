@@ -1,0 +1,24 @@
+{
+  "slug": "mr-empty",
+  "synopsis": "An animated music video for Denki Groove's song \"Mr.EMPTY\".",
+  "title": {
+    "en": "Mr. Empty",
+    "jp": "Mr. Empty"
+  },
+  "releasedAt": "2004-12-22T00:00:00.000Z",
+  "finishedAt": "2004-12-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10827/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10827",
+    "anilist/anime": "120871",
+    "aozora": "4epmkDHLiB",
+    "myanimelist/anime": "30427"
+  }
+}

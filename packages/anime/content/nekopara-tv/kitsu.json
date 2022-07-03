@@ -1,0 +1,26 @@
+{
+  "slug": "nekopara-tv",
+  "synopsis": "Based on a series of adult visual novels developed by Neko Works.\n\nMinazuki Kashou, a son of a long line of Japanese confection makers, moved out to open his own patisserie \"La Soleil\". When unpacking his stuff, Kashou found two of the catgirls (\"neko\") that his family had been raising hiding in the boxes: Chocola and Vanilla. He tried to send them back initially, but they begged and pleaded until he gave in. Now they run La Soleil together. They spent some great time with the help of Shigure, sister of Kashou, and other catgirls in their family: Azuki, Maple, Cinnamon and Coconut.\n\nOne day, when Chocola goes out to run some errands, she meets a kitten. The story starts with their encounter...\n\n(Source: Official website via AniDB)",
+  "title": {
+    "jp": "Nekopara (TV)"
+  },
+  "releasedAt": "2020-01-09T00:00:00.000Z",
+  "finishedAt": "2020-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42072/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42072/original.png",
+  "categories": [
+    "comedy",
+    "harem",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42072",
+    "anilist/anime": "106863",
+    "myanimelist/anime": "38924"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "neko-neko-nihonshi-2nd-season",
+  "synopsis": "Second season of Neko Neko Nihonshi.",
+  "title": {
+    "jp": "Neko Neko Nihonshi 2nd Season"
+  },
+  "releasedAt": "2017-04-05T00:00:00.000Z",
+  "finishedAt": "2018-02-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13332/original.jpg",
+  "categories": [
+    "historical",
+    "kids",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13332",
+    "anilist/anime": "98586",
+    "aozora": "QZDgkflzY9",
+    "myanimelist/anime": "35302"
+  }
+}

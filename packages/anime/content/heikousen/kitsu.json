@@ -1,0 +1,27 @@
+{
+  "slug": "heikousen",
+  "synopsis": "Music video for Eve and suis' song Heikousen, also used as commercial for the Lotte Ghana Valentine Present campaign.",
+  "title": {
+    "jp": "Heikousen"
+  },
+  "releasedAt": "2021-02-05T00:00:00.000Z",
+  "finishedAt": "2021-02-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44036/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44036/original.jpg",
+  "categories": [
+    "music",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=lxw4Y8qzq4w&feature=youtu.be&ab_channel=Eve"
+  ],
+  "relations": {
+    "kitsu": "44036",
+    "anilist/anime": "129462",
+    "myanimelist/anime": "47402"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "mushi-mushi-mura-no-bousai-kunren-jikan",
+  "synopsis": "An educational disaster safety video for kids featuring talking insects.",
+  "title": {
+    "jp": "Jishin ga Kitarou Dousuru? Mushi Mushi Mura no Bousai Kunren"
+  },
+  "releasedAt": "2012-01-01T00:00:00.000Z",
+  "finishedAt": "2012-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10127/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10127",
+    "aozora": "2vX5a0VcVd",
+    "myanimelist/anime": "28549"
+  }
+}

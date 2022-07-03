@@ -1,0 +1,24 @@
+{
+  "slug": "ai-shoujo-pollyanna-monogatari-specials",
+  "synopsis": "A summary of Ai Shoujo Pollyanna Monogatari full series aired as TV Specials in 2001.",
+  "title": {
+    "jp": "Ai Shoujo Pollyanna Story Specials"
+  },
+  "releasedAt": "2001-04-01T00:00:00.000Z",
+  "finishedAt": "2001-04-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8954/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8954",
+    "aozora": "UUa7kf6Ah7",
+    "myanimelist/anime": "24645"
+  }
+}

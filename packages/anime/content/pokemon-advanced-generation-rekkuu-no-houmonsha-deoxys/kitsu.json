@@ -1,0 +1,30 @@
+{
+  "slug": "pokemon-advanced-generation-rekkuu-no-houmonsha-deoxys",
+  "synopsis": "Satoshi and his friends travel to LaRousse, where they meet a boy named Tooi who is afraid of Pokemon due to an incident that happened four years earlier. Meanwhile, Deoxys, a Pokemon from space, has reappeared, putting a barrier around the city and kidnapping people. Rayquaza, a Pokemon that lives in the atmosphere, comes to fight it.\n(Source: ANN)",
+  "title": {
+    "en": "Pokemon: Destiny Deoxys",
+    "jp": "Pokemon Advanced Generation: Rekkuu no Houmonsha Deoxys"
+  },
+  "releasedAt": "2004-07-17T00:00:00.000Z",
+  "finishedAt": "2004-07-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1006/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1006",
+    "anidb": "2371",
+    "anilist/anime": "1122",
+    "aozora": "IwIq15zvTc",
+    "myanimelist/anime": "1122"
+  }
+}

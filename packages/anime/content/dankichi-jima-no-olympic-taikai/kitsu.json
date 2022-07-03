@@ -1,0 +1,30 @@
+{
+  "slug": "dankichi-jima-no-olympic-taikai",
+  "synopsis": "Short movie from 1932.",
+  "title": {
+    "en": "Olympic Games on Dankichi Island",
+    "jp": "Dankichi-jima no Olympic Taikai"
+  },
+  "releasedAt": "1932-01-01T00:00:00.000Z",
+  "finishedAt": "1932-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4286/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "earth",
+    "slapstick",
+    "sports",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4286",
+    "anidb": "6711",
+    "anilist/anime": "5814",
+    "aozora": "grRmBdEHhy",
+    "myanimelist/anime": "5814"
+  }
+}

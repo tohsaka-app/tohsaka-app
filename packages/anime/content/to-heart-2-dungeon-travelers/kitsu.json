@@ -1,0 +1,31 @@
+{
+  "slug": "to-heart-2-dungeon-travelers",
+  "synopsis": "According to Amazon Japan, a two-volume OVA series \"ToHeart 2 Dungeon Travelers\" was announced.  \"ToHeart 2 Dungeon Travelers\" is an RPG game on PlayStaion Portable released in 2011.",
+  "title": {
+    "jp": "To Heart 2: Dungeon Travelers"
+  },
+  "releasedAt": "2012-02-22T00:00:00.000Z",
+  "finishedAt": "2012-07-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6596/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "magic",
+    "parody",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6596",
+    "anidb": "8690",
+    "anilist/anime": "11773",
+    "aozora": "0PAZQPLj7B",
+    "myanimelist/anime": "11773"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "sekai-no-ouja-king-kong-taikai",
+  "synopsis": "Recap of the first episodes of the TV Series.",
+  "title": {
+    "jp": "Sekai no Ouja: King Kong Taikai"
+  },
+  "releasedAt": "1966-12-31T00:00:00.000Z",
+  "finishedAt": "1966-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9572/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9572",
+    "aozora": "qLbEXsuZee",
+    "myanimelist/anime": "27379"
+  }
+}

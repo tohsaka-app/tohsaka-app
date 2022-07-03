@@ -1,0 +1,28 @@
+{
+  "slug": "otohime-connection",
+  "synopsis": "Special based on the manga by Ooya Kazumi, published in Betsukomi Flower Comics.\nAn all-male pop group doubles as a detective agency. The cute girl member of the agency is kidnapped when one of the men's past returns to trouble them all in the present.\n(Source: sandg-anime)",
+  "title": {
+    "en": "Princess Connection",
+    "jp": "Otohime Connection"
+  },
+  "releasedAt": "1991-12-01T00:00:00.000Z",
+  "finishedAt": "1991-12-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6200/original.jpg",
+  "categories": [
+    "musical band",
+    "mystery",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6200",
+    "anidb": "2755",
+    "anilist/anime": "10481",
+    "aozora": "zAZNa4QWLH",
+    "myanimelist/anime": "10481"
+  }
+}

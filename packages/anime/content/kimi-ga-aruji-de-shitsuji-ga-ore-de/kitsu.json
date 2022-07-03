@@ -1,0 +1,39 @@
+{
+  "slug": "kimi-ga-aruji-de-shitsuji-ga-ore-de",
+  "synopsis": "Based On a Visual Novel developed by Minato Soft.\nDue to family troubles, Ren Uesugi and his sister, Mihato, leave their home. They end up moving to the city but find themselves with a lack of money. Somehow they are able to find work in the form of the Kuonji family's mansion, being employed as servants to the three sisters of the Kuonji family: Shinra, Miyu, and Yume. Being a servant also associates Ren with the mansion's additional servants and the Kuonji sisters' friends.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Kimi ga Aruji de Shitsuji ga Ore de"
+  },
+  "releasedAt": "2008-01-06T00:00:00.000Z",
+  "finishedAt": "2008-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2872/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2872/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "harem",
+    "japan",
+    "maid",
+    "parody",
+    "present",
+    "romance",
+    "slice of life",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2872",
+    "anidb": "5235",
+    "anilist/anime": "3229",
+    "aozora": "DhLnvHjVUJ",
+    "myanimelist/anime": "3229",
+    "thetvdb": "81702/1",
+    "thetvdb/series": "81702",
+    "trakt": "63262"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "osamu-to-musashi",
+  "synopsis": "The animation was produced for the Tezuka Osamu Manga Museum, thus it features scenes from the \"life and nature\" of Tezuka Osamu's childhood, themes that are central to the museum as a whole, through exchanges between the boy Osamu and the carabid beetle (Osamushi) who provided the origin for the artist's name.\n(Source: tezukaosamu.net)",
+  "title": {
+    "en": "Osamu and Musashi",
+    "jp": "Osamu to Musashi"
+  },
+  "releasedAt": "1994-04-25T00:00:00.000Z",
+  "finishedAt": "1994-04-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9029/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "fantasy",
+    "japan",
+    "kids",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9029",
+    "anidb": "10209",
+    "anilist/anime": "19731",
+    "aozora": "CFECW5GnA7",
+    "myanimelist/anime": "19731"
+  }
+}

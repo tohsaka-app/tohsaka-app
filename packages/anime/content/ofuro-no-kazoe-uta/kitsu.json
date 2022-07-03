@@ -1,0 +1,24 @@
+{
+  "slug": "ofuro-no-kazoe-uta",
+  "synopsis": "A music video featured in the Minna no Uta program teaching kids the steps to taking a bath.",
+  "title": {
+    "jp": "Ofuro no Kazoe Uta"
+  },
+  "releasedAt": "1980-01-01T00:00:00.000Z",
+  "finishedAt": "1980-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9997/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9997",
+    "anidb": "12611",
+    "aozora": "DBMFNYIykC",
+    "myanimelist/anime": "28197"
+  }
+}

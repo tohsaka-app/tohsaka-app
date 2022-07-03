@@ -1,0 +1,24 @@
+{
+  "slug": "chokotto-anime-kemono-friends-3",
+  "synopsis": "A series of anime shorts for the Kemono Friends 3 arcade and smartphone game.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Chokotto Anime Kemono Friends 3"
+  },
+  "releasedAt": "2019-04-02T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42617/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42617",
+    "anilist/anime": "115238",
+    "myanimelist/anime": "39653"
+  }
+}

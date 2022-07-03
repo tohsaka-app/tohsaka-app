@@ -1,0 +1,25 @@
+{
+  "slug": "sangokushi-daiichibu-eiyuu-tachi-no-yoake",
+  "synopsis": "An anime based on the Romance of the Three Kingdoms novel. \n(Source: ANN) ",
+  "title": {
+    "jp": "Sangokushi Daiichibu Eiyuu-tachi no Yoake"
+  },
+  "releasedAt": "1992-01-25T00:00:00.000Z",
+  "finishedAt": "1992-01-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5084/original.jpg",
+  "categories": [
+    "historical",
+    "three kingdoms"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5084",
+    "anidb": "5407",
+    "anilist/anime": "7696",
+    "aozora": "p1WwYUYEGX",
+    "myanimelist/anime": "7696"
+  }
+}

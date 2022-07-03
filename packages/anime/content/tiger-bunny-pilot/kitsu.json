@@ -1,0 +1,26 @@
+{
+  "slug": "tiger-bunny-pilot",
+  "synopsis": "The pilot episode for Tiger &amp; Bunny released on the first DVD &amp; BD volume.",
+  "title": {
+    "en": "Tiger & Bunny Pilot",
+    "jp": "Tiger & Bunny Pilot"
+  },
+  "releasedAt": "2011-05-27T00:00:00.000Z",
+  "finishedAt": "2011-05-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6459/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6459",
+    "anilist/anime": "11099",
+    "aozora": "YGlvp3JhF9",
+    "myanimelist/anime": "11099"
+  }
+}

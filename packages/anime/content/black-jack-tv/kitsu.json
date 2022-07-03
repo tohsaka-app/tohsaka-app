@@ -1,0 +1,34 @@
+{
+  "slug": "black-jack-tv",
+  "synopsis": "Black Jack is an \"unregistered\" doctor with a clouded, mysterious past. He works with his little assistant Pinoko (who has a massive crush on the doctor), dealing with medical cases not very well known, which can be strange, dangerous, or not known at all. But he is a genius, and can save almost any of his patients' life (as long as they have the money for it, that is), and is known to many around the world, especially to those of medicine and science. He's a man of science himself, and does not believe much until he has seen it, yet it is many times he is surprised by love and nature often overpowering the science he bases his life in.  \n(Source: ANN)",
+  "title": {
+    "jp": "Black Jack (TV)"
+  },
+  "releasedAt": "2004-10-11T00:00:00.000Z",
+  "finishedAt": "2006-03-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2004/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "comedy",
+    "crime",
+    "earth",
+    "love polygon"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/black-jack"
+  ],
+  "relations": {
+    "kitsu": "2004",
+    "anidb": "2389",
+    "anilist/anime": "2213",
+    "aozora": "cKoCvd2Ks7",
+    "myanimelist/anime": "2213",
+    "thetvdb": "81092/1",
+    "thetvdb/series": "81092",
+    "trakt": "43894"
+  }
+}

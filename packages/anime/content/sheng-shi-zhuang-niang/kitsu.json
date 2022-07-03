@@ -1,0 +1,23 @@
+{
+  "slug": "sheng-shi-zhuang-niang",
+  "synopsis": "A beauty blogger is trapped in a game where she has to do makeup for the royal family.",
+  "title": {
+    "en": "The Beauty Blogger"
+  },
+  "releasedAt": "2018-07-24T00:00:00.000Z",
+  "finishedAt": "2018-11-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41037/original.jpeg",
+  "categories": [
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41037",
+    "anilist/anime": "102446",
+    "myanimelist/anime": "37209"
+  }
+}

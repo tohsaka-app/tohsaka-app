@@ -1,0 +1,26 @@
+{
+  "slug": "yeonghongibyeong-lazenca",
+  "synopsis": "In the beginning of the 22nd Century, nuclear war has devastated the Earth and turned it into a wasteland. The few survivors gather and raise the city-state Setos, and while progressing a revival plan for mankind, come into contact with the Atman lifeforms sleeping in the planet's mantle.",
+  "title": {
+    "jp": "Yeonghongibyeong Lazenca"
+  },
+  "releasedAt": "1997-11-03T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10010/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10010",
+    "anilist/anime": "120124",
+    "aozora": "FE83Vkk2jv",
+    "myanimelist/anime": "28201"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "frosty-the-snowman",
+  "synopsis": "Frosty the Snowman is a 1969 animated Christmas television special based on the song \"Frosty the Snowman\". The program, which first aired on December 7, 1969 on CBS (where it continues to air annually), was produced for television by Rankin/Bass Productions and featured the voices of comedians Jimmy Durante as the film's narrator (Durante's final performance in a film) and Jackie Vernon as the title character.\n\n(Source: Wikipedia)",
+  "title": {},
+  "releasedAt": "1969-12-07T00:00:00.000Z",
+  "finishedAt": "1969-12-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41475/original.jpg",
+  "categories": [
+    "anime influenced",
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41475"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "ying-yang-yo",
+  "synopsis": "",
+  "title": {},
+  "releasedAt": "2006-08-26T00:00:00.000Z",
+  "finishedAt": "2009-04-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41476/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41476/original.png",
+  "categories": [
+    "action",
+    "anime influenced",
+    "anthropomorphism",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41476"
+  }
+}

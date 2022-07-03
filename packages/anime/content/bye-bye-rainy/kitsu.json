@@ -1,0 +1,26 @@
+{
+  "slug": "bye-bye-rainy",
+  "synopsis": "Music video animated by hmng for the song Bye Bye Rainy performed by Suisei Hoshimachi.",
+  "title": {
+    "en": "Bye Bye Rainy",
+    "jp": "Bye Bye Rainy"
+  },
+  "releasedAt": "2021-12-25T00:00:00.000Z",
+  "finishedAt": "2021-12-25T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45663/poster_image/cef629295227d8b1aaf8419768f4dce3.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=3DrYQMK4hJE"
+  ],
+  "relations": {
+    "kitsu": "45663",
+    "anilist/anime": "143083",
+    "myanimelist/anime": "50669"
+  }
+}

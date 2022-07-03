@@ -1,0 +1,24 @@
+{
+  "slug": "20-55",
+  "synopsis": "Music video for the song 20:55 by Eleki Antares",
+  "title": {
+    "en": "20:55",
+    "jp": "20:55"
+  },
+  "releasedAt": "2020-07-20T00:00:00.000Z",
+  "finishedAt": "2020-07-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44059/original.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=MRjUAdYRIEM"
+  ],
+  "relations": {
+    "kitsu": "44059"
+  }
+}

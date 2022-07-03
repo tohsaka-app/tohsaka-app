@@ -1,0 +1,26 @@
+{
+  "slug": "joshikousei-nobunaga-chan",
+  "synopsis": "The 16th-century shogun Oda Nobunaga wakes up in a high school girl's body.",
+  "title": {
+    "jp": "Joshikousei Nobunaga-chan!!"
+  },
+  "releasedAt": "2010-08-12T00:00:00.000Z",
+  "finishedAt": "2012-02-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8075/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8075",
+    "anidb": "9908",
+    "anilist/anime": "20493",
+    "aozora": "6Abbh9fNiX",
+    "myanimelist/anime": "20835"
+  }
+}

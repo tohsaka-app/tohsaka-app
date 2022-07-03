@@ -1,0 +1,27 @@
+{
+  "slug": "mahou-shoujo-lyrical-nanoha-picture-drama",
+  "synopsis": "A picture drama released on the BD Box Set of Mahou Shoujo Lyrical Nanoha. Subaru, Teana, Vivio host a radio show promoting their own BD Box Sets. They state that this episode contains content that spoils part of Mahou Shoujo Lyrical Nanoha A's and recommend that the view have seen either the A's TV series or the A's film before watching this picture drama.\n",
+  "title": {
+    "en": "Magical Girl Lyrical Nanoha Picture Drama",
+    "jp": "Mahou Shoujo Lyrical Nanoha Picture Drama"
+  },
+  "releasedAt": "2014-10-01T00:00:00.000Z",
+  "finishedAt": "2014-10-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41334/original.jpg",
+  "categories": [
+    "comedy",
+    "magic",
+    "magical girl",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41334",
+    "anidb": "2430",
+    "anilist/anime": "107340",
+    "myanimelist/anime": "35501"
+  }
+}

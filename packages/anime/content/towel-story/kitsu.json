@@ -1,0 +1,24 @@
+{
+  "slug": "towel-story",
+  "synopsis": "Sentimental commercials involving towels told in a cyclic manner.",
+  "title": {
+    "en": "Towel Story",
+    "jp": "Towel Story"
+  },
+  "releasedAt": "2011-08-24T00:00:00.000Z",
+  "finishedAt": "2013-06-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13046/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13046",
+    "anilist/anime": "103522",
+    "aozora": "Q0tip0Paw3",
+    "myanimelist/anime": "33941"
+  }
+}

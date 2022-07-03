@@ -1,0 +1,27 @@
+{
+  "slug": "bikini-warriors-special",
+  "synopsis": "According to the official Hobby Japan website, an unaired episode of Bikini Warriors will be bundled with the Blu-ray volume to be released on December 9th, 2015. \n(Source: Hobby Japan)",
+  "title": {
+    "jp": "Bikini Warriors Special"
+  },
+  "releasedAt": "2015-12-09T00:00:00.000Z",
+  "finishedAt": "2015-12-09T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11216/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11216/original.jpeg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11216",
+    "anilist/anime": "21387",
+    "aozora": "ZPntXh8DS4",
+    "myanimelist/anime": "31283"
+  }
+}

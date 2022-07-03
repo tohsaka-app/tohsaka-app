@@ -1,0 +1,32 @@
+{
+  "slug": "mushoku-tensei-isekai-ittara-honki-dasu-part-2",
+  "synopsis": "The second cour of Mushoku Tensei: Isekai Ittara Honki Dasu.\n\nRudy, Eris, and Rujierd head for the Asura Kingdom in search of answers. Meanwhile, Roxy sets out across the Demon Continent to find Rudy.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Mushoku Tensei: Jobless Reincarnation Part 2",
+    "jp": "Mushoku Tensei: Isekai Ittara Honki Dasu Part 2"
+  },
+  "releasedAt": "2021-10-03T00:00:00.000Z",
+  "finishedAt": "2021-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/43907/poster_image/d0acde74af3334d0aec097f905ada1aa.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43907/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "magic"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/mushoku-tensei-jobless-reincarnation",
+    "https://www.funimation.com/shows/mushoku-tensei-jobless-reincarnation/"
+  ],
+  "relations": {
+    "kitsu": "43907",
+    "anidb": "15954",
+    "anilist/anime": "127720",
+    "myanimelist/anime": "45576"
+  }
+}

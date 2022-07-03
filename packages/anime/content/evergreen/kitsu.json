@@ -1,0 +1,24 @@
+{
+  "slug": "evergreen",
+  "synopsis": "Music video for the song Evergreen by Ryushen.",
+  "title": {
+    "en": "Ever Green",
+    "jp": "Evergreen"
+  },
+  "releasedAt": "2019-11-22T00:00:00.000Z",
+  "finishedAt": "2019-11-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43961/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=D9s7Bdpc1-8&ab_channel=%E7%B7%91%E4%BB%99channel"
+  ],
+  "relations": {
+    "kitsu": "43961"
+  }
+}

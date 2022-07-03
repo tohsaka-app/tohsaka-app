@@ -1,0 +1,25 @@
+{
+  "slug": "chinese-idiom-anime",
+  "synopsis": "A Hong-Kong animation that teaches Chinese idioms.",
+  "title": {
+    "jp": "Chengyu Donghua Lang"
+  },
+  "releasedAt": "1987-01-01T00:00:00.000Z",
+  "finishedAt": "1988-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5911/original.jpg",
+  "categories": [
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5911",
+    "anidb": "11060",
+    "anilist/anime": "9868",
+    "aozora": "faAFSQWsuY",
+    "myanimelist/anime": "9868"
+  }
+}

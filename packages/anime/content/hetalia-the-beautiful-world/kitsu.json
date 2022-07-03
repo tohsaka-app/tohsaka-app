@@ -1,0 +1,34 @@
+{
+  "slug": "hetalia-the-beautiful-world",
+  "synopsis": "The fifth season of Hetalia.",
+  "title": {
+    "en": "Hetalia: The Beautiful World",
+    "jp": "Hetalia: The Beautiful World"
+  },
+  "releasedAt": "2013-01-25T00:00:00.000Z",
+  "finishedAt": "2013-06-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7226/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7226/original.jpeg",
+  "categories": [
+    "comedy",
+    "historical",
+    "parody"
+  ],
+  "externals": [
+    "https://tubitv.com/series/2239/hetalia",
+    "https://www.funimation.com/shows/33738/"
+  ],
+  "relations": {
+    "kitsu": "7226",
+    "anidb": "9339",
+    "anilist/anime": "15195",
+    "aozora": "ECJXOfTeUW",
+    "hulu": "50010632",
+    "myanimelist/anime": "15195",
+    "thetvdb": "88161",
+    "trakt": "61580"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "korekuraide-utau",
+  "synopsis": "Award-nominated independent artist, Kousuke Sugimoto, animates Handsome Kenya's song \"Korekuraide Utau\" in HD.",
+  "title": {
+    "jp": "Korekuraide Utau"
+  },
+  "releasedAt": "2011-05-17T00:00:00.000Z",
+  "finishedAt": "2011-05-17T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6317/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6317/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "earth",
+    "japan",
+    "music",
+    "present",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6317",
+    "anidb": "8420",
+    "anilist/anime": "10720",
+    "aozora": "yppuOnmE5q",
+    "myanimelist/anime": "10720"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "suna-no-akari",
+  "synopsis": "The world's first 4K anime.\n\nThe short's story centers on a boy who finds something shining in a gloomy desert. It gives him a power of light. Guided by the light, the boy is drawn into the connection between the girl he meets and a new world.\n\nIt was made in collaboration with with Singapore-based blockchain company BlockPunk. The short utilized a new type of production system with blockchain crowdfunding.\n\n(Source: ANN)",
+  "title": {
+    "en": "Lights of Sand",
+    "jp": "Suna no Akari"
+  },
+  "releasedAt": "2017-06-28T00:00:00.000Z",
+  "finishedAt": "2017-06-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42985/original.jpeg",
+  "categories": [
+    "fantasy",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42985",
+    "anilist/anime": "125575",
+    "myanimelist/anime": "41102"
+  }
+}

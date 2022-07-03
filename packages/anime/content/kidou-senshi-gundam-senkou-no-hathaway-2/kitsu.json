@@ -1,0 +1,29 @@
+{
+  "slug": "kidou-senshi-gundam-senkou-no-hathaway-2",
+  "synopsis": "Second movie in trilogy celebrating the Gundam franchise's 40th anniversary, and the second project in the \"UC NexT 0100 Project\" that will tackle the future of the UC timeline.",
+  "title": {
+    "en": "Mobile Suit Gundam: Hathaway 2",
+    "jp": "Kidou Senshi Gundam: Senkou no Hathaway 2"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44536/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "mecha",
+    "military",
+    "science fiction",
+    "space",
+    "space battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44536",
+    "anilist/anime": "113971",
+    "myanimelist/anime": "38716"
+  }
+}

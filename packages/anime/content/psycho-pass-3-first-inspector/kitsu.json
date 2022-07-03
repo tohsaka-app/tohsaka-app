@@ -1,0 +1,29 @@
+{
+  "slug": "psycho-pass-3-first-inspector",
+  "synopsis": "The film will conclude the story of season 3 on the case of the \"Foxes\" being pursued by Unit 1, the Bifrost mystery, and Arata and Kei's battle.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Psycho-Pass 3 Movie: First Inspector"
+  },
+  "releasedAt": "2020-03-26T00:00:00.000Z",
+  "finishedAt": "2020-03-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42936/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42936/original.jpg",
+  "categories": [
+    "action",
+    "cops",
+    "law and order",
+    "psychological",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.amazon.com/dp/B0869P16XW"
+  ],
+  "relations": {
+    "kitsu": "42936",
+    "anilist/anime": "113917",
+    "myanimelist/anime": "40858"
+  }
+}

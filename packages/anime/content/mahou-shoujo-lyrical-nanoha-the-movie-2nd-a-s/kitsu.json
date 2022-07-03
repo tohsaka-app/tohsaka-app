@@ -1,0 +1,38 @@
+{
+  "slug": "mahou-shoujo-lyrical-nanoha-the-movie-2nd-a-s",
+  "synopsis": "Sequel of Mahou Shoujo Lyrical Nanoha The Movie 1st.",
+  "title": {
+    "en": "Magical Girl Lyrical Nanoha: The Movie 2nd A's",
+    "jp": "Mahou Shoujo Lyrical Nanoha: The Movie 2nd A's"
+  },
+  "releasedAt": "2012-07-14T00:00:00.000Z",
+  "finishedAt": "2012-07-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6056/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6056/original.png",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "earth",
+    "fantasy",
+    "humanoid alien",
+    "japan",
+    "magic",
+    "magical girl",
+    "present",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6056",
+    "anidb": "8821",
+    "anilist/anime": "10153",
+    "aozora": "DoQknkYOoC",
+    "myanimelist/anime": "10153"
+  }
+}

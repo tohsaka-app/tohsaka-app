@@ -1,0 +1,19 @@
+{
+  "slug": "chaechaepong-kimchipong",
+  "synopsis": "",
+  "title": {
+    "jp": "ChaeChaepong Kimchipong"
+  },
+  "releasedAt": "2002-08-09T00:00:00.000Z",
+  "finishedAt": "2003-02-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41849/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41849",
+    "myanimelist/anime": "37798"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "kaikan-phrase",
+  "synopsis": "After the break up of their old band, guitarist Yuki &amp; drummer Santa decide to form a new one. They recruit bass player Towa, young guitarist Atsuro, and after much persuasion, vocalist Sakuya. Together they form Lucifer and they struggle to make it in the music business, and also to stay together. As well, they have to deal with personal issues, such as parental objections, and watching their old bands succeed ahead of them. Sakuya is the most troubled band member, as he has to deal with his tragic past, and his relationship with teenaged lyricist Aine.",
+  "title": {
+    "jp": "Kaikan Phrase"
+  },
+  "releasedAt": "1999-04-20T00:00:00.000Z",
+  "finishedAt": "2000-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/911/original.jpg",
+  "categories": [
+    "asia",
+    "bishounen",
+    "earth",
+    "japan",
+    "music",
+    "musical band",
+    "plot continuity",
+    "present",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "911",
+    "anidb": "843",
+    "anilist/anime": "1021",
+    "aozora": "I6rXzR2RXc",
+    "myanimelist/anime": "1021",
+    "thetvdb": "120331/1",
+    "thetvdb/series": "120331",
+    "trakt": "44416"
+  }
+}

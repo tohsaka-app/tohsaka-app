@@ -1,0 +1,26 @@
+{
+  "slug": "kangaroo-no-tanjoubi",
+  "synopsis": "A baby kangaroo's family and friends try to save him from a bad old wolf.  Short film from 1940.",
+  "title": {
+    "en": "Baby Kangaroo's Birthday Surprise",
+    "jp": "Kangaroo no Tanjoubi"
+  },
+  "releasedAt": "1941-02-01T00:00:00.000Z",
+  "finishedAt": "1941-02-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4745/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4745/original.png",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4745",
+    "anidb": "6729",
+    "anilist/anime": "6843",
+    "aozora": "CL6B0ETLFm",
+    "myanimelist/anime": "6843"
+  }
+}

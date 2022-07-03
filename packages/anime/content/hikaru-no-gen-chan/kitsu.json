@@ -1,0 +1,25 @@
+{
+  "slug": "hikaru-no-gen-chan",
+  "synopsis": "Celebrating the 1,000th anniversary of Hikaru Genji, the protagonist of The Tale of Genji.",
+  "title": {
+    "jp": "Hikaru no Gen-chan"
+  },
+  "releasedAt": "2008-05-04T00:00:00.000Z",
+  "finishedAt": "2008-05-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12661/original.jpg",
+  "categories": [
+    "historical",
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12661",
+    "anilist/anime": "103544",
+    "aozora": "ccSCX4jBlT",
+    "myanimelist/anime": "33580"
+  }
+}

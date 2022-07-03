@@ -1,0 +1,24 @@
+{
+  "slug": "itsumo-kokoro-ni-ho",
+  "synopsis": "An Aiful (consumer finance company) commissioned commercial from Tekken set to Love is in the Air by The Afters where people try to beat their aggression with balls of happy thoughts. ",
+  "title": {
+    "jp": "Itsumo Kokoro ni Ho"
+  },
+  "releasedAt": "2013-08-01T00:00:00.000Z",
+  "finishedAt": "2013-08-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12603/original.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12603",
+    "anilist/anime": "102789",
+    "aozora": "BNwFUoQprM",
+    "myanimelist/anime": "34121"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "utawarerumono-itsuwari-no-kamen",
+  "synopsis": "When I came to, I realized I was standing in the middle of a vast, snowy plain I knew nothing of. I didn't know how I got there. And to add to that, I couldn't remember anything, not even my name. I stood there, dumbfounded at my absurd situation. But then, as if to spite me further, a gigantic monster suddenly appeared, an insect-like creature that began to bear down on me. I tried desperately to run, but it cornered me into a hopeless situation. It was then that the girl appeared. Her name was Kuon. It was this beautiful girl, who bore an animal's ears and tail, that saved my life.\n(Source: ANN)",
+  "title": {
+    "en": "Utawarerumono: The False Faces",
+    "jp": "Utawarerumono: Itsuwari no Kamen"
+  },
+  "releasedAt": "2015-10-04T00:00:00.000Z",
+  "finishedAt": "2016-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11021/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11021/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "harem",
+    "juujin"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/utawarerumono-the-false-faces",
+    "https://tubitv.com/series/2495",
+    "https://www.hidive.com/tv/utawarerumono-the-false-faces-",
+    "https://www.hulu.com/utawarerumono-the-false-faces"
+  ],
+  "relations": {
+    "kitsu": "11021",
+    "anidb": "11272",
+    "anilist/anime": "21218",
+    "aozora": "epPtzefiyZ",
+    "hulu": "50023854",
+    "myanimelist/anime": "30901",
+    "thetvdb": "79880/2",
+    "trakt": "46153"
+  }
+}

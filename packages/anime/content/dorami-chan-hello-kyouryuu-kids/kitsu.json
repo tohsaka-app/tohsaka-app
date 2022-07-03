@@ -1,0 +1,24 @@
+{
+  "slug": "dorami-chan-hello-kyouryuu-kids",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Dorami-chan: Hello Kyouryuu Kids!!"
+  },
+  "releasedAt": "1993-03-06T00:00:00.000Z",
+  "finishedAt": "1993-03-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2403/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2403",
+    "anidb": "7011",
+    "anilist/anime": "2639",
+    "aozora": "7GjoQaW8rS",
+    "myanimelist/anime": "2639"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "ougon-senshi-gold-raitan",
+  "synopsis": "When a young boy called Hiro finds what appears to be a broken lighter in an empty field, it changes his life forever. This lighter is actually the Gold Lightan, a robot that fell to Earth from the Robot Dimension. When called upon to defend the Earth from Ivalda the Great's evil robots, Gold Lightan transforms into a giant super robot, known as the Golden Warrior. Gold Lightan joins forces with Hiro's and his gang, the One Pack Rangers to protect the Earth from the evil schemes of Ivalda the Great and his armored forces.",
+  "title": {
+    "en": "Golden Warrior: The Gold Lightan",
+    "jp": "Ougon Senshi Gold Lightan"
+  },
+  "releasedAt": "1981-03-01T00:00:00.000Z",
+  "finishedAt": "1982-02-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4867/original.jpg",
+  "categories": [
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/gold-lightan-golden-warrior"
+  ],
+  "relations": {
+    "kitsu": "4867",
+    "anidb": "1782",
+    "anilist/anime": "7106",
+    "aozora": "hOj0Lc8tCp",
+    "myanimelist/anime": "7106"
+  }
+}

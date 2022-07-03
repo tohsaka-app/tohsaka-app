@@ -1,0 +1,30 @@
+{
+  "slug": "haruwo",
+  "synopsis": "In a violent post-apocalyptic Japan, a reckless juvenile delinquent named Haruwo takes on the Yakuza, but their new bouncer may be more than he can handle... \nOver a year in the making, this half-hour short was entirely the work of one person--even the music! \"Haruwo\" animator Shao Guee writes, \"I didn't make this film for money, just for fun. I hope people all over the world will have a chance to see it. If you like it, please tell your friends about it. That's all I want. My thanks to everyone who helped me make this project a reality.\"",
+  "title": {
+    "jp": "Haruwo"
+  },
+  "releasedAt": "2005-05-05T00:00:00.000Z",
+  "finishedAt": "2005-05-05T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4381/original.jpg",
+  "categories": [
+    "action",
+    "crime",
+    "disaster",
+    "future",
+    "japan",
+    "post apocalypse",
+    "rotten world"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4381",
+    "anidb": "8858",
+    "anilist/anime": "6000",
+    "aozora": "sDKCT0eZUS",
+    "myanimelist/anime": "6000"
+  }
+}

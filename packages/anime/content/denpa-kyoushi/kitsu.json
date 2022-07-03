@@ -1,0 +1,26 @@
+{
+  "slug": "denpa-kyoushi",
+  "synopsis": "Two short anime clips, produced by A-1 Pictures and serving as promotion for the manga.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Denpa Kyoushi"
+  },
+  "releasedAt": "2012-10-02T00:00:00.000Z",
+  "finishedAt": "2013-02-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8791/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8791/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8791",
+    "anidb": "10349",
+    "anilist/anime": "102471",
+    "aozora": "ANPK9wtGOt",
+    "myanimelist/anime": "21495"
+  }
+}

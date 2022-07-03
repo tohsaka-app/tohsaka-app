@@ -1,0 +1,26 @@
+{
+  "slug": "kaminari-boy-pikkaribee",
+  "synopsis": "A comedy about a mischievous boy. Each episode contains 2 stories.\nBased on a manga by Murotani Tsunezou.\n(Source: AniDB)",
+  "title": {
+    "jp": "Kaminari Boy Pikkaribee★"
+  },
+  "releasedAt": "1967-04-01T00:00:00.000Z",
+  "finishedAt": "1968-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9362/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9362",
+    "anidb": "5090",
+    "anilist/anime": "19993",
+    "aozora": "cMmSCl0HXU",
+    "myanimelist/anime": "19993"
+  }
+}

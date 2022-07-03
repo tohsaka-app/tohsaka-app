@@ -1,0 +1,26 @@
+{
+  "slug": "robot-town-sagami-2028",
+  "synopsis": "A promotional anime made with Tezuka Productions and Kanagawa's Industrial Labor Bureau to showcase a future where there is harmony between humans and robots.",
+  "title": {
+    "en": "Robot Town Sagami 2028",
+    "jp": "Robot Town Sagami 2028"
+  },
+  "releasedAt": "2016-04-12T00:00:00.000Z",
+  "finishedAt": "2016-04-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12179/original.jpg",
+  "categories": [
+    "future",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12179",
+    "anidb": "12082",
+    "anilist/anime": "97958",
+    "aozora": "HqotxyhaDJ",
+    "myanimelist/anime": "33192"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "teen-titans-go-to-the-movies",
+  "synopsis": "In Jump City, the Teen Titans arrive to stop Balloon Man. When he fails to recognize them, the Teen Titans jump into a rap song to introduce themselves (\"GO!\") and become distracted, forcing the Justice League — Superman, Green Lantern and Wonder Woman — to intervene and defeat him. They criticize the Titans for their childishness and inability to take their positions as superheroes seriously, while raising the fact that they do not have a feature-length film to prove their legitimacy as superheroes. (Source: Wikipedia)",
+  "title": {
+    "en": "Teen Titans Go! To the Movies"
+  },
+  "releasedAt": "2018-07-27T00:00:00.000Z",
+  "finishedAt": "2018-07-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43699/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43699/original.jpeg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "kids",
+    "parody",
+    "super deformed",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43699"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "gunjou-sanka",
+  "synopsis": "Music video animated by Kukka for the song Gunjou Sanka by Eve featuring Hatsune Miku. This song was made to celebrate the first anniversary of the Project SEKAI COLORFUL STAGE! feat. Hatsune Miku rhythm game.\n\nNote: There exists two versions of this song; one by Eve ft. Hatsune Miku on Eve's YouTube channel, and the other a Hatsune Miku only version on Eve's Niconico account, which was released on the same day.",
+  "title": {
+    "en": "Gunjo-san?",
+    "jp": "Gunjou Sanka"
+  },
+  "releasedAt": "2021-09-30T00:00:00.000Z",
+  "finishedAt": "2021-09-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45266/poster_image/0c19c13b13e36406d61300594b00a151.png",
+  "categories": [
+    "fantasy",
+    "music",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/sgZjbk9eH6g"
+  ],
+  "relations": {
+    "kitsu": "45266",
+    "anilist/anime": "139772",
+    "myanimelist/anime": "49964"
+  }
+}

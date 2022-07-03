@@ -1,0 +1,21 @@
+{
+  "slug": "yuan-shen-haojie",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2021-07-05T00:00:00.000Z",
+  "finishedAt": "2022-06-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44815/original.png",
+  "categories": [
+    "action",
+    "mystery",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44815",
+    "anilist/anime": "135801"
+  }
+}

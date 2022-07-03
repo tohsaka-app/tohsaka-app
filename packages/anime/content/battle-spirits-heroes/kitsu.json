@@ -1,0 +1,24 @@
+{
+  "slug": "battle-spirits-heroes",
+  "synopsis": "An anime project adapted from an original trading card game, in which cards represent dragons, demons, birds, insects, and other spirits that the players can control in battles.",
+  "title": {
+    "jp": "Battle Spirits: Heroes"
+  },
+  "releasedAt": "2011-09-18T00:00:00.000Z",
+  "finishedAt": "2012-09-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6440/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6440",
+    "anidb": "8629",
+    "anilist/anime": "11017",
+    "aozora": "kexL2EJx9d",
+    "myanimelist/anime": "11017"
+  }
+}

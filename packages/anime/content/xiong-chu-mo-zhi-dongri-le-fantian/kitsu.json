@@ -1,0 +1,25 @@
+{
+  "slug": "xiong-chu-mo-zhi-dongri-le-fantian",
+  "synopsis": "Fifth season of Boonie Bears.",
+  "title": {
+    "en": "Boonie Bears: Snow Daze",
+    "jp": "Xiong Chumo Zhi: Dongri Le Fantian"
+  },
+  "releasedAt": "2015-07-10T00:00:00.000Z",
+  "finishedAt": "2015-07-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11865/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11865",
+    "anidb": "12536",
+    "aozora": "Eqzs14iTgG",
+    "myanimelist/anime": "32821"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "i-fantasy",
+  "synopsis": "Music video for the song \"I=Fantasy\" by \"hitman\" bang. featuring SeeU.",
+  "title": {
+    "en": "I=Fantasy"
+  },
+  "releasedAt": "2011-10-21T00:00:00.000Z",
+  "finishedAt": "2011-10-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45635/poster_image/c50fb8dc787c4309328a7c5cb6dd70b0.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "\"hitman\" bang: I=Fantasy"
+  ],
+  "relations": {
+    "kitsu": "45635"
+  }
+}

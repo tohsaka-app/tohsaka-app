@@ -1,0 +1,24 @@
+{
+  "slug": "doubutsu-mura-monogatari",
+  "synopsis": "A short kids series featuring cute animal stories.\n(Source: AniDB)",
+  "title": {
+    "jp": "Doubutsu Mura Monogatari"
+  },
+  "releasedAt": "1970-03-30T00:00:00.000Z",
+  "finishedAt": "1970-07-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9819/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9819",
+    "anidb": "3518",
+    "anilist/anime": "20009",
+    "aozora": "Dy1RR4lzxR",
+    "myanimelist/anime": "20009"
+  }
+}

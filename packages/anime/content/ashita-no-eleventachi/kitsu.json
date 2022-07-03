@@ -1,0 +1,25 @@
+{
+  "slug": "ashita-no-eleventachi",
+  "synopsis": "A boy from the farm with amazing running speed is asked to join a newly formed national soccer team and discovers a natural talent for the game. The movie is inspired by Japan's hosting of the world soccer championships that year.\n(Source: AniDB)",
+  "title": {
+    "jp": "Ashita no Eleventachi"
+  },
+  "releasedAt": "1979-01-07T00:00:00.000Z",
+  "finishedAt": "1979-01-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7058/original.jpg",
+  "categories": [
+    "soccer",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7058",
+    "anidb": "6985",
+    "anilist/anime": "13947",
+    "aozora": "jEAHiRVEX9",
+    "myanimelist/anime": "13947"
+  }
+}

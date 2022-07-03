@@ -1,0 +1,23 @@
+{
+  "slug": "dengeki-bunko-2007-movie-festival-special",
+  "synopsis": "Played at Dengeki Bunko's Movie Festival on 21 April 2007 before the Shakugan no Shana, Inukami! and Kino no Tabi movies. It was later released on DVD and sold at Dengeki's 15th Anniversary event.",
+  "title": {
+    "jp": "Dengeki Bunko 2007 Movie Festival Special"
+  },
+  "releasedAt": "2007-04-21T00:00:00.000Z",
+  "finishedAt": "2007-04-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4639/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4639",
+    "anilist/anime": "6628",
+    "aozora": "fznx0IeABW",
+    "myanimelist/anime": "6628"
+  }
+}

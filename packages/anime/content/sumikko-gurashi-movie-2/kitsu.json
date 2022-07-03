@@ -1,0 +1,23 @@
+{
+  "slug": "sumikko-gurashi-movie-2",
+  "synopsis": null,
+  "title": {
+    "jp": "Sumikko Gurashi Movie 2"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43774/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43774",
+    "anidb": "15843",
+    "anilist/anime": "125931",
+    "myanimelist/anime": "43780"
+  }
+}

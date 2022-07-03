@@ -1,0 +1,26 @@
+{
+  "slug": "senki-zesshou-symphogear-axz-senki-zesshou-shinai-symphogear",
+  "synopsis": "Original short episodes featuring characters in super-deformed style. Bundled with Blu-ray/DVD volumes 3 to 6 of the anime.\n",
+  "title": {
+    "jp": "Senki Zesshou Symphogear AXZ: Senki Zesshou Shinai Symphogear"
+  },
+  "releasedAt": "2017-11-29T00:00:00.000Z",
+  "finishedAt": "2018-02-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40594/original.jpg",
+  "categories": [
+    "comedy",
+    "music",
+    "science fiction",
+    "space opera",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40594",
+    "anilist/anime": "101104",
+    "myanimelist/anime": "36692"
+  }
+}

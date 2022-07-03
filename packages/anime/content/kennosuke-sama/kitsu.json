@@ -1,0 +1,25 @@
+{
+  "slug": "kennosuke-sama",
+  "synopsis": "A comedy about a family of old-fashioned samurai living in modern-day Tokyo whose young son has to head out for an important date.\n(Source: The Anime Encyclopedia)",
+  "title": {
+    "jp": "Kennosuke-sama"
+  },
+  "releasedAt": "1990-07-07T00:00:00.000Z",
+  "finishedAt": "1990-07-07T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9375/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9375",
+    "anidb": "4118",
+    "anilist/anime": "18603",
+    "aozora": "MGTL3Dsuo5",
+    "myanimelist/anime": "18603"
+  }
+}

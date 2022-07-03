@@ -1,0 +1,28 @@
+{
+  "slug": "fatal-fury-2-the-new-battle",
+  "synopsis": "After defeating Geese Howard, legendary fighter Terry Bogard faces German warrior Wolfgang Krauser, only to suffer a humiliating defeat. Depressed by his loss, Terry wanders around the country, wasting his life through drinking. Only a young boy named Tony can convince Terry to go back to his winning ways, conquer his fears, and once again face Krauser.\n(Source: ANN)\nBased on the Neo Geo SNK video game Fatal Fury 2.",
+  "title": {
+    "en": "Fatal Fury 2: The New Battle",
+    "jp": "Fatal Fury 2: The New Battle"
+  },
+  "releasedAt": "1993-07-31T00:00:00.000Z",
+  "finishedAt": "1993-07-31T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1620/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1620/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1620",
+    "anidb": "2121",
+    "anilist/anime": "1800",
+    "aozora": "hjmOvqbBc3",
+    "myanimelist/anime": "1800"
+  }
+}

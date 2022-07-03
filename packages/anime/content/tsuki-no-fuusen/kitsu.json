@@ -1,0 +1,22 @@
+{
+  "slug": "tsuki-no-fuusen",
+  "synopsis": "Music video for the song Tsuki no Fuusen by Youko Takahashi that was featured on NHK's Minna no Uta program. The video was animated by Akira Maeda.\n\n(Source: MAL)",
+  "title": {
+    "jp": "Tsuki no Fuusen"
+  },
+  "releasedAt": "1998-10-02T00:00:00.000Z",
+  "finishedAt": "1998-10-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44770/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44770",
+    "myanimelist/anime": "42638"
+  }
+}

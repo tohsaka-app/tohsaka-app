@@ -1,0 +1,39 @@
+{
+  "slug": "ninja-senshi-tobikage",
+  "synopsis": "Ninja Senshi Tobikage tells the story of a boy named Joe Maya. One day, Joe, who lives on Mars, witnesses a battle between aliens. Those from Planet Zaboom are attacking the princess of Planet Radorio, she has escaped from the emperor of Zaboom who is scheming to conquer the universe and has crash landed on mars. \nJoe stumbles aboard the princesses ship, this starts a chain reaction of events that will alter their lives. Joe and his friends wield three powerful mecha beasts against the emperor of Zaboom and his forces, but the odds are stacked heavily against them. When all hope seems to be lost a mysterious ninja robot named Tobikage appears as if from nowhere to provide assitance, able to combine with the 3 mechanical beasts provides Tobikage with unmatched power, with his aide Joe fights the forces of Zaboom... \n(Source: ANN)",
+  "title": {
+    "en": "Ninja Robots",
+    "jp": "Ninja Senshi Tobikage"
+  },
+  "releasedAt": "1985-10-06T00:00:00.000Z",
+  "finishedAt": "1986-07-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2758/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "earth",
+    "future",
+    "humanoid alien",
+    "martial arts",
+    "mecha",
+    "ninja",
+    "piloted robot",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2758",
+    "anidb": "1959",
+    "anilist/anime": "3059",
+    "aozora": "1cevCoVqFK",
+    "myanimelist/anime": "3059",
+    "thetvdb": "83587/1",
+    "thetvdb/series": "83587",
+    "trakt": "9121"
+  }
+}

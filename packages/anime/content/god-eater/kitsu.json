@@ -1,0 +1,45 @@
+{
+  "slug": "god-eater",
+  "synopsis": "The year is 2071. Humanity has been pushed to the brink of extinction following the emergence of man-eating monsters called \"Aragami\" that boast an immunity to conventional weaponry. They ravaged the land, consuming almost everything in their path and leaving nothing in their wake. To combat them, an organization named Fenrir was formed as a last-ditch effort to save humanity through the use of \"God Eaters\"—special humans infused with Oracle cells, allowing them to wield the God Arc, the only known weapon capable of killing an Aragami. One such God Eater is Lenka Utsugi, a New-Type whose God Arc takes the form of both blade and gun.\nNow, as one of Fenrir's greatest weapons, Lenka must master his God Arc if he is to fulfill his desire of wiping out the Aragami once and for all. The monsters continue to be born en masse while the remnants of humanity struggle to survive the night. Only God Eaters stand between the Aragami and complete and total annihilation of the human race.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "God Eater",
+    "jp": "God Eater"
+  },
+  "releasedAt": "2015-07-12T00:00:00.000Z",
+  "finishedAt": "2016-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9130/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9130/original.jpg",
+  "categories": [
+    "action",
+    "dark fantasy",
+    "disaster",
+    "drama",
+    "earth",
+    "fantasy",
+    "future",
+    "human enhancement",
+    "military",
+    "plot continuity",
+    "post apocalypse",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/god-eater",
+    "http://www.hulu.com/god-eater",
+    "https://www.netflix.com/title/80145805"
+  ],
+  "relations": {
+    "kitsu": "9130",
+    "anidb": "10842",
+    "anilist/anime": "20849",
+    "aozora": "01CNxftGXM",
+    "hulu": "50022484",
+    "myanimelist/anime": "27631",
+    "thetvdb": "295224/1",
+    "trakt": "98733"
+  }
+}

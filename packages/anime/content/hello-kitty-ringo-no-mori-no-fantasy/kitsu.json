@@ -1,0 +1,28 @@
+{
+  "slug": "hello-kitty-ringo-no-mori-no-fantasy",
+  "synopsis": "Kitty and Mimmy come upon the Apple Forest thanks to the help of a forest fairy. The fairy kingdom welcomes them as the \"Twin Heroines\" and ask that they save the princess. The key to the rescue is a golden apple and so the sisters' adventure beings.",
+  "title": {
+    "jp": "Hello Kitty: Ringo no Mori no Fantasy"
+  },
+  "releasedAt": "2006-04-04T00:00:00.000Z",
+  "finishedAt": "2006-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6526/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6526",
+    "anidb": "7174",
+    "anilist/anime": "11521",
+    "aozora": "RUPIMwXhZ1",
+    "myanimelist/anime": "11521",
+    "thetvdb": "267089",
+    "trakt": "75888"
+  }
+}

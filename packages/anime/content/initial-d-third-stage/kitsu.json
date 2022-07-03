@@ -1,0 +1,40 @@
+{
+  "slug": "initial-d-third-stage",
+  "synopsis": "Shortly after graduating from high school, Takumi is approached by RedSuns leader Ryosuke Takahashi and offered to join him in forming a professional racing team. Before coming up with an answer to the proposal, Takumi seeks retribution by issuing a rematch to Emperor leader Kyouichi Sudou, who previously defeated him due to an engine failure. He is also challenged by Kai Kogashiwa, a second-generation street racer whose father was once a fierce rival of Takumi's father Bunta. ",
+  "title": {
+    "jp": "Initial D Third Stage"
+  },
+  "releasedAt": "2001-01-13T00:00:00.000Z",
+  "finishedAt": "2001-01-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/164/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/164/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "drifting",
+    "earth",
+    "high school",
+    "japan",
+    "motorsport",
+    "plot continuity",
+    "present",
+    "school life",
+    "seinen",
+    "sports",
+    "street racing"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/initial-d/"
+  ],
+  "relations": {
+    "kitsu": "164",
+    "anidb": "625",
+    "anilist/anime": "187",
+    "aozora": "OOQHv4zW4v",
+    "hulu": "50002421",
+    "myanimelist/anime": "187"
+  }
+}

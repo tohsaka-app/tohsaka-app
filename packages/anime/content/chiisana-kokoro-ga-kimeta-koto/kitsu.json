@@ -1,0 +1,22 @@
+{
+  "slug": "chiisana-kokoro-ga-kimeta-koto",
+  "synopsis": "MV for AZKi's song Chiisana Kokoro ga Kimeta Koto.",
+  "title": {
+    "jp": "Chiisana Kokoro ga Kimeta Koto"
+  },
+  "releasedAt": "2019-11-05T00:00:00.000Z",
+  "finishedAt": "2019-11-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43968/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=M0-MFPxMrqE&feature=youtu.be&ab_channel=AZKiChannel"
+  ],
+  "relations": {
+    "kitsu": "43968"
+  }
+}

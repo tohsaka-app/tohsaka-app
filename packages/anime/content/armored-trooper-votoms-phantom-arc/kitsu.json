@@ -1,0 +1,35 @@
+{
+  "slug": "armored-trooper-votoms-phantom-arc",
+  "synopsis": "For their silver anniversary, Vanilla and Coconna return to Uoodo along with Gotho in the hopes of reuniting with Chirico. Once there they find a red shouldered AT at the Battling arena.",
+  "title": {
+    "en": "Armored Trooper Votoms: Phantom Arc",
+    "jp": "Soukou Kihei Votoms: Gen-ei Hen"
+  },
+  "releasedAt": "2010-03-26T00:00:00.000Z",
+  "finishedAt": "2010-10-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5172/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "mecha",
+    "military",
+    "other planet",
+    "piloted robot",
+    "science fiction",
+    "space",
+    "space travel"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/armored-trooper-votoms-genei-phantom-arc"
+  ],
+  "relations": {
+    "kitsu": "5172",
+    "anidb": "7279",
+    "anilist/anime": "8017",
+    "aozora": "XXAotr41c9",
+    "myanimelist/anime": "8017"
+  }
+}

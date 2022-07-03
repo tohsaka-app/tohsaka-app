@@ -1,0 +1,27 @@
+{
+  "slug": "fiction",
+  "synopsis": "Official music video for Roboco's original song in collaboration with CLiONE &amp; キツネDJ. It contains many sci-fi elements relevant to her character, as well as retro 80's aesthetics and other themes common with the genre.",
+  "title": {
+    "en": "FICTION",
+    "jp": "FICTION"
+  },
+  "releasedAt": "2019-04-28T00:00:00.000Z",
+  "finishedAt": "2019-04-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43786/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43786/original.jpg",
+  "categories": [
+    "android",
+    "idol",
+    "music",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=UXuMSLOUhgs"
+  ],
+  "relations": {
+    "kitsu": "43786"
+  }
+}

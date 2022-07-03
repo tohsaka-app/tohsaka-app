@@ -1,0 +1,27 @@
+{
+  "slug": "cosmos-trailer",
+  "synopsis": "Animated trailer for Chronicle's song Cosmos.",
+  "title": {
+    "jp": "Cosmos Trailer"
+  },
+  "releasedAt": "2019-06-06T00:00:00.000Z",
+  "finishedAt": "2019-06-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43259/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43259/original.jpg",
+  "categories": [
+    "music",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?time_continue=2&v=eEJVJyAMH-c&feature=emb_title"
+  ],
+  "relations": {
+    "kitsu": "43259",
+    "anilist/anime": "137138",
+    "myanimelist/anime": "42317"
+  }
+}

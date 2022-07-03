@@ -1,0 +1,42 @@
+{
+  "slug": "ookiku-furikabutte",
+  "synopsis": "Ren Mihashi was the ace of his middle school's baseball team, but due to his poor pitching, they could never win. Constant losses eventually lead to his teammates bullying him and reached the point where his teammates no longer tried to win, causing Mihashi to graduate with little self-esteem. As a result, Mihashi decides to go to a high school in a different prefecture where he has no intention of playing baseball. Unfortunately, upon his arrival at Nishiura High, he is dragged into joining their new team as the starting pitcher.\nAlthough unwilling at first, Mihashi realizes that this is a place where he will be accepted for who he is; with help from the catcher Takaya Abe, he starts to have more confidence in his own abilities. Abe, seeing the potential in Mihashi, makes it a goal to help him become a pitcher worthy of being called an ace.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Big Windup!",
+    "jp": "Ookiku Furikabutte"
+  },
+  "releasedAt": "2007-04-13T00:00:00.000Z",
+  "finishedAt": "2007-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7729/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7729/original.jpg",
+  "categories": [
+    "asia",
+    "baseball",
+    "comedy",
+    "coming of age",
+    "earth",
+    "japan",
+    "plot continuity",
+    "present",
+    "sports"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/big-windup/videos/episodes",
+    "http://www.hulu.com/big-windup"
+  ],
+  "relations": {
+    "kitsu": "7729",
+    "anidb": "4923",
+    "anilist/anime": "2159",
+    "aozora": "ZWKAbFKGeO",
+    "hulu": "11411",
+    "myanimelist/anime": "2159",
+    "thetvdb": "81108/1",
+    "thetvdb/season": "34143",
+    "thetvdb/series": "81108",
+    "trakt": "45280"
+  }
+}

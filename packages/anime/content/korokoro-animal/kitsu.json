@@ -1,0 +1,23 @@
+{
+  "slug": "korokoro-animal",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Korokoro Animal"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-07-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10406/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10406",
+    "aozora": "zWnZLfZr1T",
+    "myanimelist/anime": "29745"
+  }
+}

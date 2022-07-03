@@ -1,0 +1,25 @@
+{
+  "slug": "ooi-hanimaru",
+  "synopsis": "Music video about Hanimaru and his horse.",
+  "title": {
+    "en": null,
+    "jp": "Ooi! Hanimaru"
+  },
+  "releasedAt": "1983-01-02T00:00:00.000Z",
+  "finishedAt": "1983-01-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10424/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10424",
+    "anilist/anime": "104069",
+    "aozora": "d08echKR4s",
+    "myanimelist/anime": "29888"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "detective-conan-movie-8-pre-release-special",
+  "synopsis": "Professor Agasa has created a computer program that can give you the identity of anyone in the world. He decides to use it on figuring out who Kaitou Kid is. Before he does, the program gives him a history of the Kid, as well as preview clips of the eighth movie. When he is about to finally figure out who the Kid is, Kid appears on the computer screen, announcing he has hacked the program. \n(Source: detectiveconanworld) ",
+  "title": {
+    "en": "Case Closed Movie 8 Pre-Release Special",
+    "jp": "Meitantei Conan Movie 8 Special"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7185/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7185"
+  }
+}

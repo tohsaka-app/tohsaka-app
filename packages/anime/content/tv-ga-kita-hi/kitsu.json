@@ -1,0 +1,23 @@
+{
+  "slug": "tv-ga-kita-hi",
+  "synopsis": "Four dancers celebrate the wonders of TV.",
+  "title": {
+    "jp": "TV ga Kita hi"
+  },
+  "releasedAt": "2003-04-01T00:00:00.000Z",
+  "finishedAt": "2003-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14200/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14200",
+    "aozora": "QEM6b37pcI",
+    "myanimelist/anime": "36359"
+  }
+}

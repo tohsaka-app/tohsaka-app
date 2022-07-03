@@ -1,0 +1,21 @@
+{
+  "slug": "nanatsu-no-umi",
+  "synopsis": "Anxiety and loneliness is like crossing an endless sea. Endeavor to reach your hopes and dreams.",
+  "title": {
+    "jp": "Nanatsu no Umi"
+  },
+  "releasedAt": "2013-12-01T00:00:00.000Z",
+  "finishedAt": "2013-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40787/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40787",
+    "anilist/anime": "103946",
+    "aozora": "oVV15X0NCK",
+    "myanimelist/anime": "35533"
+  }
+}

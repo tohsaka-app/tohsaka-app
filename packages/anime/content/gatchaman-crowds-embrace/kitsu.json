@@ -1,0 +1,25 @@
+{
+  "slug": "gatchaman-crowds-embrace",
+  "synopsis": "Director's cut of episode 12 included with the BD/DVD box release. Contains about 15 minutes of new content. ",
+  "title": {
+    "jp": "Gatchaman Crowds: Embrace"
+  },
+  "releasedAt": "2014-01-22T00:00:00.000Z",
+  "finishedAt": "2014-01-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8424/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8424/original.jpg",
+  "categories": [
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8424",
+    "anilist/anime": "20759",
+    "aozora": "tEgvW2cokV",
+    "myanimelist/anime": "23703"
+  }
+}

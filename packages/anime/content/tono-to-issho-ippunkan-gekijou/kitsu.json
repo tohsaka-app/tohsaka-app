@@ -1,0 +1,33 @@
+{
+  "slug": "tono-to-issho-ippunkan-gekijou",
+  "synopsis": "Comedy parodying famous samurai generals and historical events.",
+  "title": {
+    "jp": "Tono to Issho: Ippunkan Gekijou"
+  },
+  "releasedAt": "2010-07-06T00:00:00.000Z",
+  "finishedAt": "2010-09-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5553/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "parody",
+    "past",
+    "samurai",
+    "sengoku period"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/tono-to-issho"
+  ],
+  "relations": {
+    "kitsu": "5553",
+    "anidb": "7598",
+    "anilist/anime": "8961",
+    "aozora": "A1tY6KKAPK",
+    "myanimelist/anime": "8961",
+    "thetvdb": "168561",
+    "trakt": "36573"
+  }
+}

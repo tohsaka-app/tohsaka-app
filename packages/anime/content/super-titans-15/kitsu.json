@@ -1,0 +1,24 @@
+{
+  "slug": "super-titans-15",
+  "synopsis": "A group of kids try to save the galaxy with their giant robot.",
+  "title": {
+    "jp": "Super Titans 15"
+  },
+  "releasedAt": "1982-01-01T00:00:00.000Z",
+  "finishedAt": "1982-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7526/original.jpg",
+  "categories": [
+    "action",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7526",
+    "anilist/anime": "16806",
+    "aozora": "6wsHieKKqq",
+    "myanimelist/anime": "16806"
+  }
+}

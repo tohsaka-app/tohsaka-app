@@ -1,0 +1,25 @@
+{
+  "slug": "ponta-to-ensoku",
+  "synopsis": "The short revolves around a kitten named Ponta and Kenta, a second-grade boy who goes on a school trip.",
+  "title": {
+    "jp": "Ponta to Ensoku"
+  },
+  "releasedAt": "2012-05-25T00:00:00.000Z",
+  "finishedAt": "2012-05-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6883/original.jpg",
+  "categories": [
+    "adventure",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6883",
+    "anidb": "10035",
+    "anilist/anime": "13103",
+    "aozora": "wnywJQxG8B",
+    "myanimelist/anime": "13103"
+  }
+}

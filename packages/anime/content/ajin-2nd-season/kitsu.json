@@ -1,0 +1,31 @@
+{
+  "slug": "ajin-2nd-season",
+  "synopsis": "Second cour of Ajin.",
+  "title": {
+    "jp": "Ajin 2nd Season"
+  },
+  "releasedAt": "2016-10-08T00:00:00.000Z",
+  "finishedAt": "2016-12-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12115/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "horror",
+    "mystery"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80043576"
+  ],
+  "relations": {
+    "kitsu": "12115",
+    "anidb": "12111",
+    "anilist/anime": "21799",
+    "aozora": "kPzNPBiE9N",
+    "myanimelist/anime": "33253",
+    "thetvdb": "300835/2",
+    "trakt": "102203"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "lunn-wa-kaze-no-naka",
+  "synopsis": "This is the third episode in the Lion Books Series, in which a boy who has fallen in love with a girl on a poster on the wall starts to look for her. This story depicts the heartache of adolescent first love in a low-key manner.",
+  "title": {
+    "jp": "Lunn wa Kaze no Naka"
+  },
+  "releasedAt": "1985-04-13T00:00:00.000Z",
+  "finishedAt": "1985-04-13T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7103/original.jpg",
+  "categories": [
+    "japan",
+    "present",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7103",
+    "anidb": "3615",
+    "anilist/anime": "14247",
+    "aozora": "kAj5NIJyZa",
+    "myanimelist/anime": "14247"
+  }
+}

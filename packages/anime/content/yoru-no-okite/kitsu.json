@@ -1,0 +1,25 @@
+{
+  "slug": "yoru-no-okite",
+  "synopsis": "\"Yoru no Okite\" takes us to the sky (or to hell) to accompany the delirium of a man who is assassinated. A different take on a spirit who is adrift after being murdered. This restless spirit takes us on a surreal journey through death, the after life, and back to the land of the living again.",
+  "title": {
+    "en": "A Rule Of Dreams",
+    "jp": "Yoru no Okite"
+  },
+  "releasedAt": "1995-01-01T00:00:00.000Z",
+  "finishedAt": "1995-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5132/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5132",
+    "anidb": "6993",
+    "anilist/anime": "7811",
+    "aozora": "EFPXbgUM6L",
+    "myanimelist/anime": "7811"
+  }
+}

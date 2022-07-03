@@ -1,0 +1,25 @@
+{
+  "slug": "nanbaka-special",
+  "synopsis": "The official website for the Nanbaka television anime announced that the \"Nanfes\" event in April will screen a previously unreleased anime special.",
+  "title": {
+    "jp": "Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!"
+  },
+  "releasedAt": "2017-04-29T00:00:00.000Z",
+  "finishedAt": "2017-04-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13208/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13208",
+    "anilist/anime": "100227",
+    "aozora": "c0H4ecVkzo",
+    "myanimelist/anime": "34533"
+  }
+}

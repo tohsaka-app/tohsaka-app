@@ -1,0 +1,25 @@
+{
+  "slug": "ark-ix",
+  "synopsis": "The world has been divided into two halves by a giant wall to prevent the epidemic of \"Dark mist\". In order to shelter the refugees, artificial cities called \"Arks\" were built. Shido Enishi is a private detective, who works at the ninth Ark. One day, he is asked to capture a burglar. The seemingly simple case leads him to a great conspiracy.",
+  "title": {
+    "en": "Ark Nine",
+    "jp": "Ark IX"
+  },
+  "releasedAt": "2013-07-02T00:00:00.000Z",
+  "finishedAt": "2013-07-02T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7686/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7686",
+    "anidb": "9534",
+    "anilist/anime": "17395",
+    "aozora": "mYjijLijbZ",
+    "myanimelist/anime": "17395"
+  }
+}

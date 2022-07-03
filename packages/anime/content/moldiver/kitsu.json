@@ -1,0 +1,34 @@
+{
+  "slug": "moldiver",
+  "synopsis": "Hiroshi Ozora invents the Mol Unit, a device that makes its user invincible. His plans of becoming a super hero are short lived however when his sister, Mirai, accidently modifies the suit configuration. Now she is forced to save Tokyo by herself from the evil Machinegal and his gang of all-female androids. \n(Source: ANN)",
+  "title": {
+    "jp": "Moldiver"
+  },
+  "releasedAt": "1993-02-25T00:00:00.000Z",
+  "finishedAt": "1993-11-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/528/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "earth",
+    "future",
+    "japan",
+    "magic",
+    "mecha",
+    "power suit",
+    "romance",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "528",
+    "anidb": "693",
+    "anilist/anime": "571",
+    "aozora": "S9CayHUlfE",
+    "myanimelist/anime": "571"
+  }
+}

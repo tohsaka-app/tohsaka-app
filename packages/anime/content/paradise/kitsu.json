@@ -1,0 +1,25 @@
+{
+  "slug": "paradise",
+  "synopsis": "\"A highly energetic story told from outer space, battlefields, and dentist offices, over and around time and space.\"\n(Source: Image Forum Festival 2014 program)",
+  "title": {
+    "jp": "Paradise"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10428/original.jpg",
+  "categories": [
+    "adventure",
+    "psychological",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10428",
+    "anilist/anime": "142567",
+    "aozora": "fFp4GiADUb",
+    "myanimelist/anime": "29727"
+  }
+}

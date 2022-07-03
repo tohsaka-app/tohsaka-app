@@ -1,0 +1,27 @@
+{
+  "slug": "backkom-2",
+  "synopsis": "The continuation of the previous season with more of a focus on the female penguin Backkom fancies (even though she has a boyfriend).",
+  "title": {
+    "en": "Bernard 2",
+    "jp": "Backkom 2"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9205/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9205",
+    "aozora": "uzZpnmw76r",
+    "myanimelist/anime": "25965",
+    "thetvdb": "80029/3",
+    "thetvdb/season": "286961",
+    "thetvdb/series": "80029"
+  }
+}

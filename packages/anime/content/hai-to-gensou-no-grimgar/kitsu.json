@@ -1,0 +1,36 @@
+{
+  "slug": "hai-to-gensou-no-grimgar",
+  "synopsis": "Fear, survival, instinct. Thrown into a foreign land with nothing but hazy memories and the knowledge of their name, they can feel only these three emotions resonating deep within their souls. A group of strangers is given no other choice than to accept the only paying job in this game-like world—the role of a soldier in the Reserve Army—and eliminate anything that threatens the peace in their new world, Grimgar.\n\nWhen all of the stronger candidates join together, those left behind must create a party together to survive: Manato, a charismatic leader and priest; Haruhiro, a nervous thief; Yume, a cheerful hunter; Shihoru, a shy mage; Mogzo, a kind warrior; and Ranta, a rowdy dark knight. Despite its resemblance to one, this is no game—there are no redos or respawns; it is kill or be killed.\n\nIt is now up to this ragtag group of unlikely fighters to survive together in a world where life and death are separated only by a fine line.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Grimgar, Ashes and Illusions",
+    "jp": "Hai to Gensou no Grimgar"
+  },
+  "releasedAt": "2016-01-11T00:00:00.000Z",
+  "finishedAt": "2016-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11447/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11447/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "parallel universe",
+    "plot continuity"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/grimgar-ashes-and-illusions/",
+    "https://www.hulu.com/grimgar-ashes-and-illusions"
+  ],
+  "relations": {
+    "kitsu": "11447",
+    "anidb": "11712",
+    "anilist/anime": "21428",
+    "aozora": "sjSCurZ66n",
+    "hulu": "50024928",
+    "myanimelist/anime": "31859",
+    "thetvdb": "303868/1",
+    "trakt": "103804"
+  }
+}

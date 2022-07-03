@@ -1,0 +1,27 @@
+{
+  "slug": "the-closet",
+  "synopsis": "A young girl takes it into her head that her mother is taken by her newly born sister. Out of jealousy she hides her baby sister in darkness.\n\n1st year work 2014 by Satomi Maiya, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.",
+  "title": {
+    "en": "The closet",
+    "jp": "The closet"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43194/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/RM0hRNa5B9E"
+  ],
+  "relations": {
+    "kitsu": "43194",
+    "anilist/anime": "106562",
+    "myanimelist/anime": "39703"
+  }
+}

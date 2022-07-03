@@ -1,0 +1,20 @@
+{
+  "slug": "one-nyan-monogatari",
+  "synopsis": "A stray dog falls in love with a pampered cat.",
+  "title": {
+    "jp": "One Nyan Monogatari"
+  },
+  "releasedAt": "2002-12-01T00:00:00.000Z",
+  "finishedAt": "2002-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40934/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40934",
+    "aozora": "C9XqIsQwWq",
+    "myanimelist/anime": "36393"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "futari-zamurai-homare-no-kawakiri",
+  "synopsis": "Independent animation by Yanagihara Ryouhei, member of the Animation Sannin no Kai pioneer group of independent animation.",
+  "title": {
+    "en": "Two Samurai",
+    "jp": "Futari Zamurai Homare no Kawakiri"
+  },
+  "releasedAt": "1963-01-01T00:00:00.000Z",
+  "finishedAt": "1963-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10496/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10496",
+    "anilist/anime": "109349",
+    "aozora": "rYvXtQpKMT",
+    "myanimelist/anime": "29653"
+  }
+}

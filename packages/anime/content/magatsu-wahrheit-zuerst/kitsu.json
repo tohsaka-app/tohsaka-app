@@ -1,0 +1,25 @@
+{
+  "slug": "magatsu-wahrheit-zuerst",
+  "synopsis": "Based on the popular RPG game from KLab. In the Wahrheit Empire, humanity’s spirit remains fragmented from a disaster in the past where many lives were lost to bloodthirsty monsters who were once summoned. But the fate of the capital is about to drastically change when shy transport worker Inumael and naive Empire soldier Leocadio get caught up in a smuggling incident.(Source: Funimation)",
+  "title": {
+    "en": "MAGATSU WAHRHEIT",
+    "jp": "Magatsu Wahrheit: Zuerst"
+  },
+  "releasedAt": "2020-10-13T00:00:00.000Z",
+  "finishedAt": "2020-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43555/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43555",
+    "anilist/anime": "117755",
+    "myanimelist/anime": "37599"
+  }
+}

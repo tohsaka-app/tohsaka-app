@@ -1,0 +1,26 @@
+{
+  "slug": "katsura-hime",
+  "synopsis": "Short film about a princess being kidnapped.",
+  "title": {
+    "en": "Princess Katsura",
+    "jp": "Katsura Hime"
+  },
+  "releasedAt": "1937-01-01T00:00:00.000Z",
+  "finishedAt": "1937-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10193/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10193",
+    "anidb": "11183",
+    "anilist/anime": "110182",
+    "aozora": "lIjGi4TBcZ",
+    "myanimelist/anime": "28419"
+  }
+}

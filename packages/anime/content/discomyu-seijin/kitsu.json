@@ -1,0 +1,24 @@
+{
+  "slug": "discomyu-seijin",
+  "synopsis": "Official music video for the song Discommunication Alien by Akari Nanawo.",
+  "title": {
+    "en": "Discommunication Alien",
+    "jp": "Discomyu Seijin"
+  },
+  "releasedAt": "2016-12-07T00:00:00.000Z",
+  "finishedAt": "2016-12-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46221/poster_image/6674b3346e31e23ca38ab92134cae7cc.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/ZYwDEkO9sYk"
+  ],
+  "relations": {
+    "kitsu": "46221",
+    "myanimelist/anime": "51702"
+  }
+}

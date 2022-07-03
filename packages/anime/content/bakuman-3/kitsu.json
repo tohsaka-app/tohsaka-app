@@ -1,0 +1,41 @@
+{
+  "slug": "bakuman-3",
+  "synopsis": "Onto their third serialization, manga duo Moritaka Mashiro and Akito Takagi—also known by their pen name, Muto Ashirogi—are ever closer to their dream of an anime adaption. However, the real challenge is only just beginning: if they are unable to compete with the artist Eiji Niizuma in the rankings within the span of six months, they will be cancelled. To top it off, numerous rivals are close behind and declaring war. They don't even have enough time to spare thinking about an anime!\nIn Bakuman. 3rd Season, Muto Ashirogi must find a way to stay atop the colossal mountain known as the Shounen Jack rankings. With new problems and new assistants, the pair continue to strive for their dream.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Bakuman. 3",
+    "jp": "Bakuman. 3rd Season"
+  },
+  "releasedAt": "2012-10-06T00:00:00.000Z",
+  "finishedAt": "2013-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6714/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6714/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "coming of age",
+    "earth",
+    "japan",
+    "plot continuity",
+    "present",
+    "romance",
+    "the arts"
+  ],
+  "externals": [
+    "http://tubitv.com/series/1982",
+    "https://www.hulu.com/bakuman"
+  ],
+  "relations": {
+    "kitsu": "6714",
+    "anidb": "8836",
+    "anilist/anime": "12365",
+    "aozora": "iIEwzlIvnS",
+    "myanimelist/anime": "12365",
+    "thetvdb": "193811/3",
+    "thetvdb/season": "481704",
+    "thetvdb/series": "193811",
+    "trakt": "60951"
+  }
+}

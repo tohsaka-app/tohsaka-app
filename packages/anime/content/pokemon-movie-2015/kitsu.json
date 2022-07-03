@@ -1,0 +1,30 @@
+{
+  "slug": "pokemon-movie-2015",
+  "synopsis": "One hundred years ago, Dahara City was beset by a terrible calamity brought on by a great power. The city was saved when a mysterious man sealed that power in the Prison Bottle, and became peaceful.\nIn the present, Ash and his friends arrive in Dahara City, where they meet the mischievous Pokémon Hoopa as well as its human companion Mary. However, when Mary's elder brother Barza discovers the Prison Bottle in the desert and multiple Legendary Pokémon appear in the city, the battle of a century ago restarts, triggering a cataclysm that forces the appearance of even more Legendary Pokémon, drawing Arceus into the fray.\n(Source: Bulbapedia)",
+  "title": {
+    "en": "Pokemon the Movie: Hoopa and the Clash of Ages",
+    "jp": "Pokemon the Movie XY: Ring no Choumajin Hoopa"
+  },
+  "releasedAt": "2015-07-18T00:00:00.000Z",
+  "finishedAt": "2015-07-18T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8903/original.png",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80094198"
+  ],
+  "relations": {
+    "kitsu": "8903",
+    "anidb": "10966",
+    "anilist/anime": "21266",
+    "aozora": "ONWKhYa5IH",
+    "myanimelist/anime": "25805"
+  }
+}

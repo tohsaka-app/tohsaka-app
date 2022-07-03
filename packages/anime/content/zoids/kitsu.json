@@ -1,0 +1,34 @@
+{
+  "slug": "zoids",
+  "synopsis": "Zoids are beast-like fighting machines used in both everyday use such as transportation, and special use such as war. Some types of Zoids, know as Organoids, are miniature Zoids that are living organisms. These Organoids have the capability to fuse with a non-living Zoid and make it much more powerful.\nVan (Ban) Freiheit discovers a Zoid Organoid in an abandoned laboratory while running from two strangers piloting Zoids. Also in the laboratory, in an animated suspension tube is a strange girl. He breaks the tube open and takes her and the Organoid with him. Spotting a ruined Shield Liger Zoid outside nearby, the Organoid fuses with it and repairs the damages. Making his escape, Van names the Organoid Zeke, and decides to keep him as a friend. The girl, who says her name is Fiona, wants to find something called Zoids Eve, and so Van, Zeke, and Fiona begin their adventure.\n(Source: AniDB)",
+  "title": {
+    "en": "Zoids",
+    "jp": "Zoids"
+  },
+  "releasedAt": "1999-09-04T00:00:00.000Z",
+  "finishedAt": "2000-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/685/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy world",
+    "mecha",
+    "piloted robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "685",
+    "anidb": "1382",
+    "anilist/anime": "763",
+    "aozora": "MLyVE8UTLP",
+    "myanimelist/anime": "763",
+    "thetvdb": "77907/1",
+    "thetvdb/series": "77907",
+    "trakt": "61029"
+  }
+}

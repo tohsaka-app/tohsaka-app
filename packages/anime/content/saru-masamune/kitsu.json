@@ -1,0 +1,26 @@
+{
+  "slug": "saru-masamune",
+  "synopsis": "Short movie from 1930 about a soldier traveling a great distance to deliver a letter. Along the way he receives a sword from a monkey. ",
+  "title": {
+    "en": "The Monkey Sword Masamune",
+    "jp": "Saru Masamune"
+  },
+  "releasedAt": "1931-01-01T00:00:00.000Z",
+  "finishedAt": "1931-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3587/original.jpg",
+  "categories": [
+    "adventure",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3587",
+    "anidb": "6706",
+    "anilist/anime": "4391",
+    "aozora": "Ro9gJuS51X",
+    "myanimelist/anime": "4391"
+  }
+}

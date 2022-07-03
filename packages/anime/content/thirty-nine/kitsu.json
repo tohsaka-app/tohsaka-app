@@ -1,0 +1,23 @@
+{
+  "slug": "thirty-nine",
+  "synopsis": "",
+  "title": {
+    "jp": "39"
+  },
+  "releasedAt": "2012-07-31T00:00:00.000Z",
+  "finishedAt": "2012-07-31T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13325/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13325/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=ecU_uJRzhfk"
+  ],
+  "relations": {
+    "kitsu": "13325"
+  }
+}

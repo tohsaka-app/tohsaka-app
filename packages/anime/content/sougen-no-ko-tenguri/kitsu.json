@@ -1,0 +1,30 @@
+{
+  "slug": "sougen-no-ko-tenguri",
+  "synopsis": "The story surrounds a boy and a cow who have always lived their lives together. One winter, a famine strikes their village. The villagers resolve to the cow, but the boy secretly helped the cow escape. A few years ago, the boy (now grown-up) and the cow meet again...\n(Source: AniDB)",
+  "title": {
+    "jp": "Sougen no Ko Tenguri"
+  },
+  "releasedAt": "1977-01-01T00:00:00.000Z",
+  "finishedAt": "1977-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6537/original.jpg",
+  "categories": [
+    "adventure",
+    "asia",
+    "coming of age",
+    "earth",
+    "historical",
+    "kids",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6537",
+    "anidb": "6207",
+    "anilist/anime": "11561",
+    "aozora": "ORTAkmxFaa",
+    "myanimelist/anime": "11561"
+  }
+}

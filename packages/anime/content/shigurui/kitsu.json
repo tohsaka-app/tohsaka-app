@@ -1,0 +1,43 @@
+{
+  "slug": "shigurui",
+  "synopsis": "At the beginning of the Edo Era, when people enjoyed a time of peace, Lord Tokugawa Tadanaga holds a fighting tournament. In the past, matches were fought with wooden swords. This time, real swords will be used.\nOne-armed Fujiki Gennosuke and blind Irako Seigen will fight each other in this match. Both are disciples of Iwamoto Kogan, who is known as Japan's greatest swordsman. Each of them are determined to prove himself the successor of Iwamoto's school. However, there can only be one champion.\nSo begins a story of intertwining fates, conflict, and strange destinies.\n\n(Source: ANN)",
+  "title": {
+    "en": "Shigurui: Death Frenzy",
+    "jp": "Shigurui"
+  },
+  "releasedAt": "2007-07-19T00:00:00.000Z",
+  "finishedAt": "2007-10-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2007/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2007/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "earth",
+    "historical",
+    "japan",
+    "martial arts",
+    "past",
+    "samurai",
+    "swordplay",
+    "tokugawa period",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/shigurui-death-frenzy",
+    "https://www.funimation.com/shows/62647/"
+  ],
+  "relations": {
+    "kitsu": "2007",
+    "anidb": "5108",
+    "anilist/anime": "2216",
+    "aozora": "zWwIZuQ46L",
+    "hulu": "11299",
+    "myanimelist/anime": "2216",
+    "thetvdb": "109061/1",
+    "thetvdb/series": "109061",
+    "trakt": "33997"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "pico-my-little-summer-story",
+  "synopsis": "An edited version of the first OVA titled pico~ Boku no Chiisana Natsu Monogatari (pico: My Little Summer Story) was released on November 11, 2007. It is a re-edited version of the animation seen in the Boku no Pico OVA set to a new script, featuring content that is more appropriate for viewers under the age of 18. \n(Source: nekoshota.com)",
+  "title": {
+    "jp": "Pico: My Little Summer Story"
+  },
+  "releasedAt": "2007-11-11T00:00:00.000Z",
+  "finishedAt": "2007-11-11T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4603/original.jpg",
+  "categories": [
+    "yaoi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4603",
+    "anilist/anime": "6546",
+    "aozora": "X0uyPbEWKx",
+    "myanimelist/anime": "6546"
+  }
+}

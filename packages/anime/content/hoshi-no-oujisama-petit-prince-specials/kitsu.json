@@ -1,0 +1,24 @@
+{
+  "slug": "hoshi-no-oujisama-petit-prince-specials",
+  "synopsis": "Unaired episodes 36-39 of Hoshi no Oujisama Petit Prince.\nNOTE FOR MODS: I have no idea if it was released on home-video for VHS or LD. Basically anything earlier than the 2006 DVD release, ergo I put the DVD date as the release date since that's the only concrete evidence as given by Amazon.",
+  "title": {
+    "en": "The Adventures of the Little Prince",
+    "jp": "Hoshi no Oujisama Petit☆Prince Specials"
+  },
+  "releasedAt": "2006-12-22T00:00:00.000Z",
+  "finishedAt": "2006-12-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13207/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13207",
+    "anilist/anime": "126318",
+    "aozora": "RjnimF6o3Q",
+    "myanimelist/anime": "34014"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "force-live",
+  "synopsis": "",
+  "title": {
+    "jp": "Force Live"
+  },
+  "releasedAt": "2017-11-15T00:00:00.000Z",
+  "finishedAt": "2017-11-15T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41647/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41647",
+    "anilist/anime": "115052",
+    "myanimelist/anime": "36685"
+  }
+}

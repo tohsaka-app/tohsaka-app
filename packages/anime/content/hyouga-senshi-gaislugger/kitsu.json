@@ -1,0 +1,26 @@
+{
+  "slug": "hyouga-senshi-gaislugger",
+  "synopsis": "A cyborg warrior from an ancient Antarctic kingdom awakes 30000 years later from an accidental hibernation to find the Earth changed and an old alien enemy on the verge of invasion. It's up to Guyslugger to use his ancient technology to defeat the aliens. \n(Source: AniDB)",
+  "title": {
+    "jp": "Hyouga Senshi Gaislugger"
+  },
+  "releasedAt": "1977-04-12T00:00:00.000Z",
+  "finishedAt": "1977-08-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5864/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5864",
+    "anidb": "4036",
+    "anilist/anime": "9781",
+    "aozora": "t3E5sTkJiD",
+    "myanimelist/anime": "9781"
+  }
+}

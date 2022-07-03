@@ -1,0 +1,25 @@
+{
+  "slug": "hermes-winds-of-love",
+  "synopsis": "Thousands of years in the past, a young boy named Hermes is named as a future great hero in a prophecy. Hermes grows up to save a beautiful princess and face the evil king Minos of Crete.\nThe first title in the series of anime films by the Happy Science cult.",
+  "title": {
+    "en": "Hermes: Winds of Love",
+    "jp": "Hermes: Ai wa Kaze no Gotoku"
+  },
+  "releasedAt": "1997-04-12T00:00:00.000Z",
+  "finishedAt": "1997-04-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4793/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4793",
+    "anidb": "4275",
+    "anilist/anime": "6937",
+    "aozora": "huyXo2C0b0",
+    "myanimelist/anime": "6937"
+  }
+}

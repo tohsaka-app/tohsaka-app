@@ -1,0 +1,25 @@
+{
+  "slug": "ona-b7337975-35f2-4b90-a50a-580345bb4636",
+  "synopsis": "Season 2 of Blood of Zeus",
+  "title": {
+    "en": "Blood of Zeus Season 2"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44416/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anime influenced",
+    "dark fantasy",
+    "fantasy",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44416"
+  }
+}

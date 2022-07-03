@@ -1,0 +1,38 @@
+{
+  "slug": "overman-king-gainer",
+  "synopsis": "Sometime in the distant future, mankind is forced to live in domed cities while the rest of the world is left to recover from years of environmental hardships. In the Siberian Dome-polis, professional gamer Gainer Sanga and mercenary Gain Bijou commandeer an Overman and lead a mass exodus out of the city.\n(Source: ANN)",
+  "title": {
+    "jp": "Overman King Gainer"
+  },
+  "releasedAt": "2002-09-07T00:00:00.000Z",
+  "finishedAt": "2003-03-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1612/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "coming of age",
+    "earth",
+    "future",
+    "mecha",
+    "piloted robot",
+    "plot continuity",
+    "post apocalypse",
+    "russia",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1612",
+    "anidb": "609",
+    "anilist/anime": "1792",
+    "aozora": "E8Njno9wfS",
+    "myanimelist/anime": "1792",
+    "thetvdb": "75321/1",
+    "thetvdb/series": "75321",
+    "trakt": "34635"
+  }
+}

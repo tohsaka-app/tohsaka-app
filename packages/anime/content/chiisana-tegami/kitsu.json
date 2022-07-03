@@ -1,0 +1,24 @@
+{
+  "slug": "chiisana-tegami",
+  "synopsis": "Various people try to write a small letter to those significant in their lives. ",
+  "title": {
+    "jp": "Chiisana Tegami"
+  },
+  "releasedAt": "2000-08-01T00:00:00.000Z",
+  "finishedAt": "2000-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40942/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40942",
+    "anilist/anime": "111933",
+    "aozora": "mYRyggqmoQ",
+    "myanimelist/anime": "36402"
+  }
+}

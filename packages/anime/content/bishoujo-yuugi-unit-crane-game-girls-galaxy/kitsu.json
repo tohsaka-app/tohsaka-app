@@ -1,0 +1,27 @@
+{
+  "slug": "bishoujo-yuugi-unit-crane-game-girls-galaxy",
+  "synopsis": "Second season of Bishoujo Yuugi Unit Crane Game Girls.",
+  "title": {
+    "en": "Crane Game Girls Galaxy",
+    "jp": "Bishoujo Yuugi Unit Crane Game Girls Galaxy"
+  },
+  "releasedAt": "2016-10-05T00:00:00.000Z",
+  "finishedAt": "2016-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12465/original.jpg",
+  "categories": [
+    "comedy",
+    "space",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12465",
+    "anidb": "12254",
+    "anilist/anime": "21890",
+    "aozora": "eYEfiEo9I8",
+    "myanimelist/anime": "33541"
+  }
+}

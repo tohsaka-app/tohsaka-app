@@ -1,0 +1,23 @@
+{
+  "slug": "hane",
+  "synopsis": "Music video for 1000say's song Hane.",
+  "title": {
+    "jp": "Hane"
+  },
+  "releasedAt": "2011-08-10T00:00:00.000Z",
+  "finishedAt": "2011-08-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11849/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11849",
+    "anilist/anime": "103952",
+    "aozora": "eIwKlXihFX",
+    "myanimelist/anime": "32767"
+  }
+}

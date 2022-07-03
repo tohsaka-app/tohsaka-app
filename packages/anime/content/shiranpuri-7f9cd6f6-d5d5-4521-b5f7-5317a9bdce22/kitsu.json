@@ -1,0 +1,23 @@
+{
+  "slug": "shiranpuri-7f9cd6f6-d5d5-4521-b5f7-5317a9bdce22",
+  "synopsis": "An educational film about bullying.",
+  "title": {
+    "jp": "Shiranpuri"
+  },
+  "releasedAt": "1999-01-01T00:00:00.000Z",
+  "finishedAt": "1999-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11045/original.jpg",
+  "categories": [
+    "drama",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11045",
+    "aozora": "T9eLFtgQC4",
+    "myanimelist/anime": "30939"
+  }
+}

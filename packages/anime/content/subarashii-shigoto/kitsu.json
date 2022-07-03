@@ -1,0 +1,23 @@
+{
+  "slug": "Subarashii-Shigoto",
+  "synopsis": "An office worker observes and reports on the work of a certain dwarf. One day during lunch, an accident occurs.",
+  "title": {
+    "en": "Decent Work",
+    "jp": "Subarashii Shigoto"
+  },
+  "releasedAt": "2015-09-28T00:00:00.000Z",
+  "finishedAt": "2015-09-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42832/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42832",
+    "anilist/anime": "114470",
+    "myanimelist/anime": "40209"
+  }
+}

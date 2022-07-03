@@ -1,0 +1,24 @@
+{
+  "slug": "nimrod",
+  "synopsis": "An official music video of People In The Box.",
+  "title": {
+    "jp": "Nimrod"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8861/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8861",
+    "anilist/anime": "19237",
+    "aozora": "nLRYKJ0re3",
+    "myanimelist/anime": "19237"
+  }
+}

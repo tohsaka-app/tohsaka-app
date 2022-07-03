@@ -1,0 +1,29 @@
+{
+  "slug": "yu-gi-oh-zexal-special",
+  "synopsis": "A short special aired in the middle of information about Yu-Gi-Oh! with real people.\nKotori takes Yuma to the gymnastics club at their school to cheer on her friend. There they meet the ace of the club, Kimura Taiki, who plans to quit after a recent loss at a competition. To cheer him up, Yuma challenges him to a duel.",
+  "title": {
+    "jp": "Yu☆Gi☆Oh! Zexal Special"
+  },
+  "releasedAt": "2012-09-17T00:00:00.000Z",
+  "finishedAt": "2012-09-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7465/original.jpg",
+  "categories": [
+    "action",
+    "card games",
+    "fantasy",
+    "friendship",
+    "science fiction",
+    "shounen",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7465",
+    "anilist/anime": "16574",
+    "aozora": "HRRhwrxBcr",
+    "myanimelist/anime": "16574"
+  }
+}

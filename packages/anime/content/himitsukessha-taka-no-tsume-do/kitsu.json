@@ -1,0 +1,25 @@
+{
+  "slug": "himitsukessha-taka-no-tsume-do",
+  "synopsis": "Sequel to the previous season of the flash anime series.",
+  "title": {
+    "jp": "Himitsukessha Taka no Tsume DO"
+  },
+  "releasedAt": "2015-04-03T00:00:00.000Z",
+  "finishedAt": "2016-03-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10866/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10866",
+    "anilist/anime": "117285",
+    "aozora": "kTqZJ8orPN",
+    "myanimelist/anime": "30470"
+  }
+}

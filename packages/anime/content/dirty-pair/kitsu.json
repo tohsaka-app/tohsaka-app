@@ -1,0 +1,43 @@
+{
+  "slug": "dirty-pair",
+  "synopsis": "If you're in a big trouble, call the World Welfare Work Association or WWWA. They will send out a team of highly trained capable agents called Trouble Consultants who can solve your problems. But if the team they send you is the Dirty Pair, there will be a lot of collateral damage aside from solving your problems.\n(Source: AniDB)",
+  "title": {
+    "en": "Dirty Pair",
+    "jp": "Dirty Pair"
+  },
+  "releasedAt": "1985-07-15T00:00:00.000Z",
+  "finishedAt": "1985-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/388/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/388/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "bounty hunter",
+    "comedy",
+    "cops",
+    "detective",
+    "future",
+    "gunfights",
+    "other planet",
+    "science fiction",
+    "space",
+    "space travel",
+    "swordplay"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GKEH2G8ZJ/dirty-pair"
+  ],
+  "relations": {
+    "kitsu": "388",
+    "anidb": "401",
+    "anilist/anime": "424",
+    "aozora": "OBIDULxCwF",
+    "myanimelist/anime": "424",
+    "thetvdb": "72442/1",
+    "thetvdb/series": "72442",
+    "trakt": "9114"
+  }
+}

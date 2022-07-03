@@ -1,0 +1,24 @@
+{
+  "slug": "bokutachi-no-remake-recap",
+  "synopsis": "Recap of the first 6 episodes of Bokutachi no Remake.",
+  "title": {
+    "en": "Bokutachi no Remake Recap",
+    "jp": "Bokutachi no Remake Recap"
+  },
+  "releasedAt": "2021-08-14T00:00:00.000Z",
+  "finishedAt": "2021-08-14T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44990/original.jpg",
+  "categories": [
+    "drama",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44990",
+    "myanimelist/anime": "49550"
+  }
+}

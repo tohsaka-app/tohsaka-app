@@ -1,0 +1,21 @@
+{
+  "slug": "girl-electric",
+  "synopsis": "An music video for The Breakaways' song <i>Electric Girl</i> for their 1st mini album \"N.T.A.\".",
+  "title": {
+    "jp": "Girl Electric"
+  },
+  "releasedAt": "2016-08-11T00:00:00.000Z",
+  "finishedAt": "2016-08-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40793/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40793",
+    "anilist/anime": "102648",
+    "aozora": "b0llBI8rfD",
+    "myanimelist/anime": "35554"
+  }
+}

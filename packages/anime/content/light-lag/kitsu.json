@@ -1,0 +1,25 @@
+{
+  "slug": "light-lag",
+  "synopsis": "Music video from DECO*27.",
+  "title": {
+    "jp": "Light Lag"
+  },
+  "releasedAt": "2011-07-27T00:00:00.000Z",
+  "finishedAt": "2011-07-27T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6782/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6782",
+    "anidb": "8964",
+    "anilist/anime": "12661",
+    "aozora": "JzfTkjiL0S",
+    "myanimelist/anime": "12661"
+  }
+}

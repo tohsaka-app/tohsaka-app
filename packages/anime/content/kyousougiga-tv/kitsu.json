@@ -1,0 +1,40 @@
+{
+  "slug": "kyousougiga-tv",
+  "synopsis": "In Kyoto, nothing changes. No, not *that* Kyoto, but rather the \"Mirror Capital\" Kyoto, the world inside of a painting! Colorful, beautiful, but static, the people of this world live an idyllic, if boring life. That is, until Koto appears, like a wrecking ball slamming into still waters. \n\nKoto's never met her mother, and in search of clues about her missing parent, she winds up in the very place she's supposed to be, yet least expected. What unfolds is a tale of a crazy, mixed-up family, where the father has mysterious powers, the mother is a goddess, and the siblings have an intense rivalry that will finally see its conclusion... even if that conclusion brings about the attention of the Shrine, an organization dedicated to protecting the multiverse.\n\n(Source: Discotek Media)",
+  "title": {
+    "en": "Kyousougiga",
+    "jp": "Kyousou Giga (TV)"
+  },
+  "releasedAt": "2013-10-10T00:00:00.000Z",
+  "finishedAt": "2013-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7870/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7870/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anthropomorphism",
+    "coming of age",
+    "family",
+    "fantasy",
+    "fantasy world",
+    "parallel universe",
+    "parental abandonment"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/kyousougiga"
+  ],
+  "relations": {
+    "kitsu": "7870",
+    "anidb": "9992",
+    "anilist/anime": "19703",
+    "aozora": "gygrc1VLFf",
+    "myanimelist/anime": "19703",
+    "thetvdb": "254658/2",
+    "thetvdb/season": "526372",
+    "thetvdb/series": "254658",
+    "trakt": "65231"
+  }
+}

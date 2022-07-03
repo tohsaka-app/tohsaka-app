@@ -1,0 +1,20 @@
+{
+  "slug": "rettou-joutou",
+  "synopsis": "",
+  "title": {
+    "en": "BRING IT ON",
+    "jp": "Rettou Joutou"
+  },
+  "releasedAt": "2018-07-13T00:00:00.000Z",
+  "finishedAt": "2018-07-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42234/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42234/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "42234"
+  }
+}

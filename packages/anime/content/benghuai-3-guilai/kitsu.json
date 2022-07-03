@@ -1,0 +1,26 @@
+{
+  "slug": "benghuai-3-guilai",
+  "synopsis": "\"Can't recognize me anymore?\nKiana.\nI will reverse all creations.\"",
+  "title": {
+    "en": "Honkai Impact 3rd - Reawakening"
+  },
+  "releasedAt": "2020-09-25T00:00:00.000Z",
+  "finishedAt": "2020-09-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44066/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44066/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=WKlhEwTpSDw&feature=emb_title&ab_channel=HonkaiImpact3rd"
+  ],
+  "relations": {
+    "kitsu": "44066",
+    "anilist/anime": "129692"
+  }
+}

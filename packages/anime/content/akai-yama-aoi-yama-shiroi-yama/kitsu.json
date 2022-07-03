@@ -1,0 +1,24 @@
+{
+  "slug": "akai-yama-aoi-yama-shiroi-yama",
+  "synopsis": "Music video for Rumiko Koyanagi's rendition of Akai Yama Aoi Yama Shiroi Yama that was featured in NHK's Minna no Uta program. Warabe uta are traditional Japanese songs, similar to nursery rhymes, that has been passed down through the ages. This song originated from Hokkaido. The video was animated by Seiichi Hayashi and is his first contribution to the Minna no Uta program.\n",
+  "title": {
+    "en": "Red Mountain Blue Mountain White Mountain",
+    "jp": "Akai Yama Aoi Yama Shiroi Yama"
+  },
+  "releasedAt": "1974-10-03T00:00:00.000Z",
+  "finishedAt": "1974-10-03T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43262/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43262",
+    "anilist/anime": "115403",
+    "myanimelist/anime": "40531"
+  }
+}

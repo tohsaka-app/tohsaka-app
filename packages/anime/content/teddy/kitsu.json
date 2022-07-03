@@ -1,0 +1,23 @@
+{
+  "slug": "teddy",
+  "synopsis": "A short animation by Taku Furukawa.",
+  "title": {
+    "jp": "Teddy"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10839/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10839",
+    "anilist/anime": "102074",
+    "aozora": "bW0QlHuAyY",
+    "myanimelist/anime": "30394"
+  }
+}

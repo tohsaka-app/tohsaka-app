@@ -1,0 +1,30 @@
+{
+  "slug": "choubakumatsu-shounen-seiki-takamaru",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Choubakumatsu Shounen Seiki Takamaru"
+  },
+  "releasedAt": "1991-11-01T00:00:00.000Z",
+  "finishedAt": "1991-12-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9233/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "slapstick",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9233",
+    "anidb": "3370",
+    "anilist/anime": "119958",
+    "aozora": "JeP1bWttpo",
+    "myanimelist/anime": "21545"
+  }
+}

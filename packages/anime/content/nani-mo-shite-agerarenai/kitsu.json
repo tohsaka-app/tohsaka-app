@@ -1,0 +1,26 @@
+{
+  "slug": "nani-mo-shite-agerarenai",
+  "synopsis": "Nani Mo Shite Agerarenai (何もしてあげられない lit. I Can't Do Anything For You) is the fourth single by 22/7.\n\n(Source: 22/7 Fandom)",
+  "title": {
+    "jp": "Nani mo Shite Agerarenai"
+  },
+  "releasedAt": "2019-07-22T00:00:00.000Z",
+  "finishedAt": "2019-07-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42536/original.jpg",
+  "categories": [
+    "female student",
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=frO6XqKCeZ0"
+  ],
+  "relations": {
+    "kitsu": "42536",
+    "anilist/anime": "110787",
+    "myanimelist/anime": "40147"
+  }
+}

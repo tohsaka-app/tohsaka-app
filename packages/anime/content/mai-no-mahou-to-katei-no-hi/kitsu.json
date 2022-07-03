@@ -1,0 +1,31 @@
+{
+  "slug": "mai-no-mahou-to-katei-no-hi",
+  "synopsis": "The main character Tatsumi Mai is a girl who uses magic to understand the feelings of people.",
+  "title": {
+    "jp": "Mai no Mahou to Katei no Hi"
+  },
+  "releasedAt": "2011-02-20T00:00:00.000Z",
+  "finishedAt": "2011-02-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5952/original.jpg",
+  "categories": [
+    "asia",
+    "coming of age",
+    "earth",
+    "japan",
+    "magic",
+    "present",
+    "slice of life",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5952",
+    "anidb": "8087",
+    "anilist/anime": "9940",
+    "aozora": "vvypEE9a5x",
+    "myanimelist/anime": "9940"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "kurogane-communication",
+  "synopsis": "In the near future, Earth has been devastated by an immense war. Haruka, one of the few survivors, lives in the ruins of Japan. Knowing no other survivors, she lives with five robots. Spike, the youngest robot, serves as her best friend, Cleric advises her, and Angela destroys her enemies.\nWith Toriga, the world's angriest and least effective combat robot, and Reeves, the meanest-looking machine ever to wear a frilly pink apron, they protect her and search for other survivors.",
+  "title": {
+    "en": "Kurogane Communication",
+    "jp": "Kurogane Communication"
+  },
+  "releasedAt": "1998-10-05T00:00:00.000Z",
+  "finishedAt": "1999-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1491/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "android",
+    "asia",
+    "earth",
+    "mecha",
+    "post apocalypse",
+    "robot helper",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1491",
+    "anidb": "410",
+    "anilist/anime": "1660",
+    "aozora": "8pVKcw3K6P",
+    "myanimelist/anime": "1660",
+    "thetvdb": "113591/1",
+    "thetvdb/series": "113591",
+    "trakt": "34526"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "demon-dance-tokyo",
+  "synopsis": "An original song by Eve, animated by Mah. The song became popular enough to be included in Joysound, a Japanese karaoke company who specializes in song libraries.",
+  "title": {
+    "en": "Demon Dance Tokyo",
+    "jp": "Demon Dance Tokyo"
+  },
+  "releasedAt": "2016-11-28T00:00:00.000Z",
+  "finishedAt": "2016-11-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42287/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42287/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/BLgqyQMjd5s"
+  ],
+  "relations": {
+    "kitsu": "42287",
+    "anilist/anime": "107194",
+    "myanimelist/anime": "39204"
+  }
+}

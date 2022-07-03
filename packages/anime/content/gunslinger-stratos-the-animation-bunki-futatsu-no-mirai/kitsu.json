@@ -1,0 +1,23 @@
+{
+  "slug": "gunslinger-stratos-the-animation-bunki-futatsu-no-mirai",
+  "synopsis": "A special show explaining how the TV and web versions are different throughout the series. Also shows the Kikan/Kaze no Yukue ending.",
+  "title": {
+    "jp": "Gunslinger Stratos: The Animation - Bunki/Futatsu no Mirai"
+  },
+  "releasedAt": "2015-06-27T00:00:00.000Z",
+  "finishedAt": "2015-06-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11150/original.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11150",
+    "aozora": "24tVDhj43Z",
+    "myanimelist/anime": "31065"
+  }
+}

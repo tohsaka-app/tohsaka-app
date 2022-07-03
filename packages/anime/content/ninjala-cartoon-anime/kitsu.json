@@ -1,0 +1,29 @@
+{
+  "slug": "ninjala-cartoon-anime",
+  "synopsis": "Set in the year of 20XX, the series focuses on a group of 9 young rookie ninjas, called the Ninja Gum Kids, who are descendants of ninja clans who have mysteriously disappeared. The Ninja Gum Kids want to achieve one goal: to become master ninjas.",
+  "title": {
+    "en": "Ninjala 2D Cartoon Anime",
+    "jp": "Ninjala Cartoon Anime"
+  },
+  "releasedAt": "2020-07-23T00:00:00.000Z",
+  "finishedAt": "2021-01-07T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45765/poster_image/ac85a7b354d027709e488147df5e4091.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "kids",
+    "martial arts",
+    "ninja",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45765",
+    "anilist/anime": "123778",
+    "myanimelist/anime": "42658"
+  }
+}

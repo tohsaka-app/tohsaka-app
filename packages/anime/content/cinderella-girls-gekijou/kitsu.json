@@ -1,0 +1,29 @@
+{
+  "slug": "cinderella-girls-gekijou",
+  "synopsis": "Our IDOL friends are back again today! Get a rare look at how IDOLS spend their days off, as well as their comical interactions with each other in this hyper-fun-filled short anime.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "The iDOLM@STER Cinderella Girls Theater",
+    "jp": "Cinderella Girls Gekijou"
+  },
+  "releasedAt": "2017-04-04T00:00:00.000Z",
+  "finishedAt": "2017-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12671/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-idolmster-cinderella-girls-theater"
+  ],
+  "relations": {
+    "kitsu": "12671",
+    "anidb": "12483",
+    "anilist/anime": "97765",
+    "aozora": "iHyjSChrmP",
+    "myanimelist/anime": "34257",
+    "thetvdb": "326337/1"
+  }
+}

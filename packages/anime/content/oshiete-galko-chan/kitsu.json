@@ -1,0 +1,33 @@
+{
+  "slug": "oshiete-galko-chan",
+  "synopsis": "Galko, Otako and Ojou are a trio of unlikely friends in high school with three very different perspectives. Each episode embarks on a day in the life of a trendy girl, an otaku, and a lady, as they discuss their “girl problems.”\n\n(Source: CR)",
+  "title": {
+    "en": "Please tell me! Galko-chan",
+    "jp": "Oshiete! Galko-chan"
+  },
+  "releasedAt": "2016-01-08T00:00:00.000Z",
+  "finishedAt": "2016-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11487/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11487/original.jpg",
+  "categories": [
+    "comedy",
+    "high school",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/please-tell-me-galko-chan"
+  ],
+  "relations": {
+    "kitsu": "11487",
+    "anidb": "11756",
+    "anilist/anime": "21472",
+    "aozora": "g22YdIUxw1",
+    "myanimelist/anime": "32013",
+    "thetvdb": "304489/1",
+    "trakt": "104037"
+  }
+}

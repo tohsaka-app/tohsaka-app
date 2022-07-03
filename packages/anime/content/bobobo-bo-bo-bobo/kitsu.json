@@ -1,0 +1,37 @@
+{
+  "slug": "bobobo-bo-bo-bobo",
+  "synopsis": "Bobobo is a man with the incredible power of hearing the voices of hair and using his own to fight. He uses his power to fight off the Margarita Empire and all of Emperor Tsuru Tsurulina's minions who are stealing the hair off of anyone they find to power up their emperor. \n(Source: ANN) ",
+  "title": {
+    "en": "Bobobo-bo Bo-bobo",
+    "jp": "Bobobo-bo Bo-bobo"
+  },
+  "releasedAt": "2003-11-08T00:00:00.000Z",
+  "finishedAt": "2005-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/940/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/940/original.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "future",
+    "martial arts",
+    "parody",
+    "science fiction",
+    "slapstick",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "940",
+    "anidb": "1180",
+    "anilist/anime": "1050",
+    "aozora": "RMpoh7zqbm",
+    "myanimelist/anime": "1050",
+    "thetvdb": "79355/1",
+    "thetvdb/series": "79355",
+    "trakt": "35085"
+  }
+}

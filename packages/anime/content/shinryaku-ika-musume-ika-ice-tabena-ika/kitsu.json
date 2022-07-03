@@ -1,0 +1,24 @@
+{
+  "slug": "shinryaku-ika-musume-ika-ice-tabena-ika",
+  "synopsis": "MV bundled with the limited edition of the Ika Ice Tabena-ika? single.",
+  "title": {
+    "jp": "Shinryaku! Ika Musume: Ika Ice Tabena-ika?"
+  },
+  "releasedAt": "2011-07-06T00:00:00.000Z",
+  "finishedAt": "2011-07-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6381/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6381",
+    "anidb": "8510",
+    "anilist/anime": "10849",
+    "aozora": "0hUWfkfsL6",
+    "myanimelist/anime": "10849"
+  }
+}

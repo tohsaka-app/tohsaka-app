@@ -1,0 +1,23 @@
+{
+  "slug": "norasco-cinema-point-card-hen",
+  "synopsis": "Norasco episodes made for and screened at 109 Cinemas during previews. The films were fully included intermittently on the 4-disc DVD release of Norasco. The first and sixth episode were also posted on the official youtube page at later dates. ",
+  "title": {
+    "jp": "Norasco: Cinema Point Card-hen"
+  },
+  "releasedAt": "2014-04-25T00:00:00.000Z",
+  "finishedAt": "2015-03-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11098/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11098",
+    "aozora": "MCyYJCzEYt",
+    "myanimelist/anime": "31020"
+  }
+}

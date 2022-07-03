@@ -1,0 +1,25 @@
+{
+  "slug": "hanabi-chan-wa-okure-gachi",
+  "synopsis": null,
+  "title": {
+    "jp": "Hanabi-chan wa Okure-gachi"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44961/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "romance",
+    "seinen",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44961",
+    "anilist/anime": "137621"
+  }
+}

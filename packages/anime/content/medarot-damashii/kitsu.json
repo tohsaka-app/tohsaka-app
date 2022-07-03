@@ -1,0 +1,31 @@
+{
+  "slug": "medarot-damashii",
+  "synopsis": "The sequel to the famous Medabots series, following the continuing adventures of Ikki and Metabee. The two encountered a strange enemy named Jinkai and the so called Death Medabots. Along with Nae and Erica, they will defeat Jinkai and the Death Medabots.",
+  "title": {
+    "en": "Medabots Spirits",
+    "jp": "Medarot Damashii"
+  },
+  "releasedAt": "2000-07-07T00:00:00.000Z",
+  "finishedAt": "2001-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3432/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3432",
+    "anidb": "4694",
+    "anilist/anime": "4052",
+    "aozora": "qIU8Dkgj8Q",
+    "myanimelist/anime": "4052",
+    "thetvdb": "76906/3",
+    "thetvdb/season": "11685",
+    "thetvdb/series": "76906",
+    "trakt": "11183"
+  }
+}

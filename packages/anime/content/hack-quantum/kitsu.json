@@ -1,0 +1,35 @@
+{
+  "slug": "hack-quantum",
+  "synopsis": "Tobias, Mary, and Sakuya challenge the impregnable \"The One Sin\", but they lose their way in the maze and unintentionally trap other guild members. A mysterious cat is watching their blunder. Is it another player character or NPC? ",
+  "title": {
+    "jp": ".hack//Quantum"
+  },
+  "releasedAt": "2011-01-28T00:00:00.000Z",
+  "finishedAt": "2011-04-07T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5680/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "conspiracy",
+    "fantasy",
+    "fantasy world",
+    "plot continuity",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/hackquantum",
+    "http://www.funimation.com/shows/hackquantum"
+  ],
+  "relations": {
+    "kitsu": "5680",
+    "anidb": "7883",
+    "anilist/anime": "9332",
+    "aozora": "tmSys7Nmhh",
+    "hulu": "50005099",
+    "myanimelist/anime": "9332"
+  }
+}

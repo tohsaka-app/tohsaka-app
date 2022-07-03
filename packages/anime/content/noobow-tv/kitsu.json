@@ -1,0 +1,26 @@
+{
+  "slug": "noobow-tv",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Noobow"
+  },
+  "releasedAt": "1995-10-05T00:00:00.000Z",
+  "finishedAt": "1996-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9495/original.jpg",
+  "categories": [
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9495",
+    "anidb": "4647",
+    "anilist/anime": "18573",
+    "aozora": "FQ2Z3qj4GX",
+    "myanimelist/anime": "18573"
+  }
+}

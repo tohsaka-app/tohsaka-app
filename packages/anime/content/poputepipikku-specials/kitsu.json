@@ -1,0 +1,19 @@
+{
+  "slug": "poputepipikku-specials",
+  "synopsis": "",
+  "title": {
+    "jp": "Poputepipikku Specials"
+  },
+  "releasedAt": "2018-02-28T00:00:00.000Z",
+  "finishedAt": "2018-03-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41853/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41853",
+    "myanimelist/anime": "37842"
+  }
+}

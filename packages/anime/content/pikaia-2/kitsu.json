@@ -1,0 +1,27 @@
+{
+  "slug": "pikaia-2",
+  "synopsis": "The second season of Pikaia!.",
+  "title": {
+    "jp": "Pikaia!!"
+  },
+  "releasedAt": "2017-02-26T00:00:00.000Z",
+  "finishedAt": "2017-05-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40628/original.jpg",
+  "categories": [
+    "earth",
+    "future",
+    "kids",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40628",
+    "anilist/anime": "98224",
+    "aozora": "zFtNGnKm6K",
+    "myanimelist/anime": "34852"
+  }
+}

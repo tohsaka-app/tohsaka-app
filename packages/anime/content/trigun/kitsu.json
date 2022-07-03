@@ -1,0 +1,49 @@
+{
+  "slug": "trigun",
+  "synopsis": "Vash the Stampede is the man with a $$60,000,000 bounty on his head. The reason: he's a merciless villain who lays waste to all those that oppose him and flattens entire cities for fun, garnering him the title \"The Humanoid Typhoon.\" He leaves a trail of death and destruction wherever he goes, and anyone can count themselves dead if they so much as make eye contact—or so the rumors say. In actuality, Vash is a huge softie who claims to have never taken a life and avoids violence at all costs.\nWith his crazy doughnut obsession and buffoonish attitude in tow, Vash traverses the wasteland of the planet Gunsmoke, all the while followed by two insurance agents, Meryl Stryfe and Milly Thompson, who attempt to minimize his impact on the public. But soon, their misadventures evolve into life-or-death situations as a group of legendary assassins are summoned to bring about suffering to the trio. Vash's agonizing past will be unraveled and his morality and principles pushed to the breaking point.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Trigun",
+    "jp": "Trigun"
+  },
+  "releasedAt": "1998-04-01T00:00:00.000Z",
+  "finishedAt": "1998-09-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/3/poster_image/d49b13c258b7084769455749ba28d0b4.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "angst",
+    "comedy",
+    "desert",
+    "drama",
+    "future",
+    "gunfights",
+    "humanoid alien",
+    "law and order",
+    "other planet",
+    "post apocalypse",
+    "science fiction",
+    "shounen",
+    "slapstick",
+    "space",
+    "violence"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/trigun/videos/episodes",
+    "http://www.hulu.com/trigun"
+  ],
+  "relations": {
+    "kitsu": "3",
+    "anidb": "53",
+    "anilist/anime": "6",
+    "aozora": "nLYFL1757h",
+    "hulu": "50001712",
+    "myanimelist/anime": "6",
+    "thetvdb": "77680/1",
+    "thetvdb/series": "77680",
+    "trakt": "26336"
+  }
+}

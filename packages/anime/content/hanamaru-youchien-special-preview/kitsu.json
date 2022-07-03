@@ -1,0 +1,25 @@
+{
+  "slug": "hanamaru-youchien-special-preview",
+  "synopsis": "Preview for Hanamaru Kindergarten with a few scenes not included (or different) in the anime.",
+  "title": {
+    "jp": "Hanamaru Youchien Special Preview"
+  },
+  "releasedAt": "2009-10-16T00:00:00.000Z",
+  "finishedAt": "2009-10-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7503/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7503/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7503",
+    "anilist/anime": "16740",
+    "aozora": "SkvQS9zByV",
+    "myanimelist/anime": "16740"
+  }
+}

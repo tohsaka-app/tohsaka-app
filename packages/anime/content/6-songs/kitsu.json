@@ -1,0 +1,24 @@
+{
+  "slug": "6-songs",
+  "synopsis": "Music video directed by Ryoji Yamada for 6 SONGS by Mattia Coletti &amp; Oh Shu.",
+  "title": {
+    "en": "6 Songs",
+    "jp": "6 Songs"
+  },
+  "releasedAt": "2016-09-14T00:00:00.000Z",
+  "finishedAt": "2016-09-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44695/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44695",
+    "anilist/anime": "139507",
+    "myanimelist/anime": "49094"
+  }
+}

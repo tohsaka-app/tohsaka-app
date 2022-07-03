@@ -1,0 +1,38 @@
+{
+  "slug": "hanamaru-youchien",
+  "synopsis": "Anzu goes to a kindergarten with her friends, the shy Koume and the eccentric Hiiragi. Together they try to attract attention from their caretaker Tsuchida. However, he is clearly more interested in the pretty Yamamoto who supervises the class next door.",
+  "title": {
+    "en": "Hanamaru Kindergarten",
+    "jp": "Hanamaru Youchien"
+  },
+  "releasedAt": "2010-01-11T00:00:00.000Z",
+  "finishedAt": "2010-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4618/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4618/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "coming of age",
+    "countryside",
+    "earth",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/hanamaru-kindergarten"
+  ],
+  "relations": {
+    "kitsu": "4618",
+    "anidb": "6646",
+    "anilist/anime": "6574",
+    "aozora": "g0Zz5vkRTo",
+    "myanimelist/anime": "6574",
+    "thetvdb": "134581/1",
+    "thetvdb/series": "134581",
+    "trakt": "42185"
+  }
+}

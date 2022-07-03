@@ -1,0 +1,26 @@
+{
+  "slug": "hipira-kun-special",
+  "synopsis": "Last episode of Hipira-kun bundled with the DVD/Blu-ray release.",
+  "title": {
+    "jp": "Hipira-kun Special"
+  },
+  "releasedAt": "2014-01-29T00:00:00.000Z",
+  "finishedAt": "2014-01-29T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9004/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9004",
+    "anilist/anime": "104435",
+    "aozora": "2qbQ6AIOXv",
+    "myanimelist/anime": "22985"
+  }
+}

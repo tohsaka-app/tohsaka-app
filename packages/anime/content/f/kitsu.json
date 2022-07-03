@@ -1,0 +1,33 @@
+{
+  "slug": "f",
+  "synopsis": "Akagi Gunma is a young, impetuous and rash teenager who decides to move to the big city to fulfill his dream of racing a Formula One car. The story follows how this simple farmer boy from the country moves on to the city in pursuit of his dreams.\n(Source: ANN, edited)",
+  "title": {
+    "jp": "F"
+  },
+  "releasedAt": "1988-03-09T00:00:00.000Z",
+  "finishedAt": "1988-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4400/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "earth",
+    "formula racing",
+    "japan",
+    "motorsport",
+    "present",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4400",
+    "anidb": "3208",
+    "anilist/anime": "6055",
+    "aozora": "X1q8EoTmBf",
+    "myanimelist/anime": "6055",
+    "thetvdb": "265915/1",
+    "thetvdb/series": "265915"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "ganbare-tabuchi-kun-aa-tsuppari-jinsei",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Ganbare!! Tabuchi-kun!! Aa Tsuppari Jinsei"
+  },
+  "releasedAt": "1980-12-13T00:00:00.000Z",
+  "finishedAt": "1980-12-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12340/original.jpg",
+  "categories": [
+    "baseball",
+    "comedy",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12340",
+    "anidb": "3539",
+    "anilist/anime": "116033",
+    "aozora": "1eI0A7OzBO",
+    "myanimelist/anime": "33325"
+  }
+}

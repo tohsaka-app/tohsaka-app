@@ -1,0 +1,27 @@
+{
+  "slug": "pokemon-fushigi-no-dungeon-shutsudou-pokemon-kyuujotai-ganbaruzu",
+  "synopsis": "A human wakes up one day to discover that he has become a Squirtle in a world filled with natural disasters, where he meets Charmander and Chikorita of Team Go-Getters, a Pokemon rescue team. Squirtle joins Team Go-Getters for the task of saving Pichu's Brother Pikachu from Skarmory, however Gengar and his Team Meanies decide to interfere.\n(Source: ANN)",
+  "title": {
+    "en": "Pokemon Mystery Dungeon: Team Go-Getters Out of the Gate!",
+    "jp": "Pokemon Fushigi no Dungeon: Shutsudou Pokemon Kyuujotai Ganbaruzu!"
+  },
+  "releasedAt": "2006-09-08T00:00:00.000Z",
+  "finishedAt": "2006-09-08T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2596/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=rAOmQ-foqeg&t="
+  ],
+  "relations": {
+    "kitsu": "2596",
+    "anilist/anime": "2842",
+    "aozora": "zJxOgEmQ0J",
+    "myanimelist/anime": "2842"
+  }
+}

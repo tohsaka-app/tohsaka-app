@@ -1,0 +1,25 @@
+{
+  "slug": "sore-ike-anpanman-happy-no-daibouken",
+  "synopsis": "17th Anpanman movie.",
+  "title": {
+    "jp": "Sore Ike! Anpanman: Happy no Daibouken"
+  },
+  "releasedAt": "2005-07-16T00:00:00.000Z",
+  "finishedAt": "2005-07-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7608/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7608",
+    "anidb": "7561",
+    "anilist/anime": "17215",
+    "aozora": "33GSpuBqXY",
+    "myanimelist/anime": "17215"
+  }
+}

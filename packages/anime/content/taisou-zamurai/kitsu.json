@@ -1,0 +1,26 @@
+{
+  "slug": "taisou-zamurai",
+  "synopsis": "The story is set in the year 2002 in the once powerful Japanese men's gymnastics team. Shoutarou Aragaki, the former Japanese team member who devoted his life to gymnastics, is no longer able to compete to his expectations. Despite still training strenuously day after day, he is advised to retire by his coach Amakusa. However, a certain encounter alters Aragaki's fate. (Source: ANN)",
+  "title": {
+    "en": "Gymnastics Samurai",
+    "jp": "Taisou Zamurai"
+  },
+  "releasedAt": "2020-10-11T00:00:00.000Z",
+  "finishedAt": "2020-12-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43554/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43554/original.jpg",
+  "categories": [
+    "sports"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/the-gymnastics-samurai/"
+  ],
+  "relations": {
+    "kitsu": "43554",
+    "anilist/anime": "122807",
+    "myanimelist/anime": "42668"
+  }
+}

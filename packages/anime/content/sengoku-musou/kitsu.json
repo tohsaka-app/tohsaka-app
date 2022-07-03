@@ -1,0 +1,39 @@
+{
+  "slug": "sengoku-musou",
+  "synopsis": "Toyotomi Hideyoshi is on the verge of unifying the realm, and all that remains is the Odawara Castle protected by the \"Lion of Sagami\" Ujiyasu Houjou. Hideyoshi's personally trained generals—Ishida Mitsunari, Katou Kiyomasa, and Fukushima Masanori—as well as Ootani Yoshitsugu, Shima Sakon, and Naoe Kanetsugu are all on the frontline of the battle. Amidst the battle formation are the two young warriors of the Sanada household: older brother Nobuyuki and younger brother Yukimura. As the stalemate begins to break down, Sanada Yukimura rides on a lone horse into the fray. His brother follows him right after.\n(Source: ANN)",
+  "title": {
+    "jp": "Sengoku Musou"
+  },
+  "releasedAt": "2015-01-12T00:00:00.000Z",
+  "finishedAt": "2015-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10013/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10013/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "earth",
+    "historical",
+    "japan",
+    "past",
+    "samurai",
+    "sengoku period",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/samurai-warriors",
+    "http://www.funimation.com/shows/samurai-warriors",
+    "http://www.hulu.com/samurai-warriors"
+  ],
+  "relations": {
+    "kitsu": "10013",
+    "anidb": "10913",
+    "anilist/anime": "20944",
+    "aozora": "jWzaBXrm3k",
+    "myanimelist/anime": "28283",
+    "thetvdb": "290122",
+    "trakt": "94335"
+  }
+}

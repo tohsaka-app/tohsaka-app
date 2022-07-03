@@ -1,0 +1,27 @@
+{
+  "slug": "mizugumo-monmon",
+  "synopsis": "The short film's main character is a water spider who seems to have fallen in love with a water strider. Though she is scared of him at first, the water strider soon gets used to the presence of the spider. \n(Source: Wikipedia) ",
+  "title": {
+    "en": "Water Spider Monmon",
+    "jp": "Mizugumo Monmon"
+  },
+  "releasedAt": "2006-01-03T00:00:00.000Z",
+  "finishedAt": "2006-01-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3550/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3550",
+    "anidb": "4105",
+    "anilist/anime": "4306",
+    "aozora": "WvPHonXvND",
+    "myanimelist/anime": "4306"
+  }
+}

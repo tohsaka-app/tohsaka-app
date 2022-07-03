@@ -1,0 +1,470 @@
+[
+  {
+    "title": {
+      "jp": "Prince and Angel"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1967-04-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Devil Appears"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1967-04-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Military Arts Meet"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1967-04-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dance, Franz"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1967-04-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Monster Valleys"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1967-04-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dwarf and Giant"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1967-05-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Cursed Swan"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1967-05-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Phantom Horse"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1967-05-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Broken Doll"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1965-05-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sapphire`s Carnival"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1967-06-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Nymph of Sleepiness"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1967-06-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Ragged Prince"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1967-06-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rose Mansion"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1967-06-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Seven Kid Goats"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1967-07-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Golden Fox Hunting"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1967-07-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tink and Colette"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1967-07-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Goodbye, Ghost"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1967-07-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Mysterious Mirror"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1967-07-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Magic Pen"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1967-08-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Monster Kagera"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1967-08-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Best Snack in the World"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1967-08-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Coronation"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1967-08-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Princess Knight Appears"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1967-09-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Coffin Tower during a Storm"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1967-09-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Long Live the King!"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1967-09-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Queen of the Snow"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1967-09-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hurry up! Black Cloud Island"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1967-10-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Iron Lion"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1967-10-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Last Moment of the Queen of the Snow"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1967-10-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Flying Mysterious Thief"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1967-10-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tink and the Princess of the Sea"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1967-10-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sapphire`s Treasure"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "1967-11-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Phantom in the Pyramid"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "1967-11-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Giant Moose"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "1967-11-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Follow the Airship!"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "1967-11-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Grand Witch Returns"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "1967-12-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rescue Sapphire!"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "1967-12-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rule of Knights"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "1967-12-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Envy of Venus"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "1967-12-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Horrifying Empire X"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "1968-01-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Playful Teppy"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "1968-01-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Mice Catching Campaign"
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "1968-01-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sapphire Trapped"
+    },
+    "season": 1,
+    "number": 43,
+    "releasedAt": "1968-01-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Crying White Eagle"
+    },
+    "season": 1,
+    "number": 44,
+    "releasedAt": "1968-02-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tink and a Ghost Ship"
+    },
+    "season": 1,
+    "number": 45,
+    "releasedAt": "1968-02-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sapphire in the Wonder Woods"
+    },
+    "season": 1,
+    "number": 46,
+    "releasedAt": "1968-02-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Wandering Franz"
+    },
+    "season": 1,
+    "number": 47,
+    "releasedAt": "1968-02-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sapphire Disappears into the Sea"
+    },
+    "season": 1,
+    "number": 48,
+    "releasedAt": "1968-03-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Smile of Hekate"
+    },
+    "season": 1,
+    "number": 49,
+    "releasedAt": "1968-03-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Black Knight of the Babel Castle"
+    },
+    "season": 1,
+    "number": 50,
+    "releasedAt": "1968-03-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Burning Silverland"
+    },
+    "season": 1,
+    "number": 51,
+    "releasedAt": "1968-03-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Beautify Silverland"
+    },
+    "season": 1,
+    "number": 52,
+    "releasedAt": "1968-04-07T00:00:00.000Z",
+    "content": {}
+  }
+]

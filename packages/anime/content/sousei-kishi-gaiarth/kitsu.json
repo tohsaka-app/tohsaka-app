@@ -1,0 +1,30 @@
+{
+  "slug": "sousei-kishi-gaiarth",
+  "synopsis": "Gaiarth - a world devastated by a cataclysmic war, where pockets of humanity struggle to survive amidst the wreckage of technologies made magical by ignorance. \nGaiarth - a world where artificially intelligent machines doggedly pursue their programmed imperatives: to protect, or destroy, humanity. \nGaiarth - a world in which an old and terrible evil has reawakened, threatening to once again bring forth Armageddon!\n(Source: AniDB)",
+  "title": {
+    "jp": "Sousei Kishi Gaiarth"
+  },
+  "releasedAt": "1992-04-22T00:00:00.000Z",
+  "finishedAt": "1993-04-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1867/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "android",
+    "mecha",
+    "post apocalypse",
+    "science fiction",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1867",
+    "anidb": "2889",
+    "anilist/anime": "2068",
+    "aozora": "O5coQJRqS5",
+    "myanimelist/anime": "2068"
+  }
+}

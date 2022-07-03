@@ -1,0 +1,23 @@
+{
+  "slug": "seiken-densetsu-legend-of-mana-the-teardrop-crystal",
+  "synopsis": null,
+  "title": {
+    "en": "Legend of Mana: The Teardrop Crystal",
+    "jp": "Seiken Densetsu: Legend of Mana - The Teardrop Crystal"
+  },
+  "releasedAt": "2022-10-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/44822/poster_image/6d024bc2760b9da666ba3f4e0618abf2.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44822",
+    "anilist/manga": "136150"
+  }
+}

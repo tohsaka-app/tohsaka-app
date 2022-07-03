@@ -1,0 +1,23 @@
+{
+  "slug": "takano-kousaten",
+  "synopsis": "In a certain city, for just a moment in time, the lives of three strangers intersect.\n\n(Source: Official Youtube Description)",
+  "title": {
+    "en": "Takano Intersection",
+    "jp": "Takano Kousaten"
+  },
+  "releasedAt": "2021-09-17T00:00:00.000Z",
+  "finishedAt": "2021-09-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45725/poster_image/0e09a2a3515f0ef7043f812c9260b8e5.png",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=MJyGc_-dfxQ"
+  ],
+  "relations": {
+    "kitsu": "45725"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "one-piece-special-adventure-in-the-ocean-s-navel",
+  "synopsis": "The Straw Hats encounter a city in the middle of a whirlpool, called the Ocean's Navel, that is being destroyed by giant monsters. These monsters supposedly protect a treasure capable of granting wishes, but in the process of defeating these guardians, the crew ends up releasing another evil.  (aired after Episode 53)\n(Source: Wikipedia)",
+  "title": {
+    "jp": "One Piece: Umi no Heso no Daibouken-hen"
+  },
+  "releasedAt": "2000-12-20T00:00:00.000Z",
+  "finishedAt": "2000-12-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/979/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "friendship",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "979",
+    "anilist/anime": "1094",
+    "aozora": "KL9FZ5HOv3",
+    "myanimelist/anime": "1094"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "zhandou-wang-zhi-jufeng-zhan-hun-2",
+  "synopsis": "Second season of Zhandou Wang Zhi Jufeng Zhan Hun.",
+  "title": {
+    "en": "Infinity Nado 2",
+    "jp": "Zhandou Wang Zhi Jufeng Zhan Hun 2"
+  },
+  "releasedAt": "2013-10-01T00:00:00.000Z",
+  "finishedAt": "2014-02-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14065/original.jpg",
+  "categories": [
+    "action",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14065",
+    "anidb": "12958",
+    "anilist/anime": "103424",
+    "aozora": "H5PjlBdMlt",
+    "myanimelist/anime": "36425"
+  }
+}

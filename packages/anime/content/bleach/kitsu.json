@@ -1,0 +1,47 @@
+{
+  "slug": "bleach",
+  "synopsis": "Ichigo Kurosaki is an ordinary high schooler—until his family is attacked by a Hollow, a corrupt spirit that seeks to devour human souls. It is then that he meets a Soul Reaper named Rukia Kuchiki, who gets injured while protecting Ichigo's family from the assailant. To save his family, Ichigo accepts Rukia's offer of taking her powers and becomes a Soul Reaper as a result.\nHowever, as Rukia is unable to regain her powers, Ichigo is given the daunting task of hunting down the Hollows that plague their town. However, he is not alone in his fight, as he is later joined by his friends—classmates Orihime Inoue, Yasutora Sado, and Uryuu Ishida—who each have their own unique abilities. As Ichigo and his comrades get used to their new duties and support each other on and off the battlefield, the young Soul Reaper soon learns that the Hollows are not the only real threat to the human world.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Bleach",
+    "jp": "Bleach"
+  },
+  "releasedAt": "2004-10-05T00:00:00.000Z",
+  "finishedAt": "2012-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/244/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/244/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "fantasy world",
+    "friendship",
+    "japan",
+    "martial arts",
+    "parallel universe",
+    "plot continuity",
+    "present",
+    "shounen",
+    "super power",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/bleach",
+    "http://www.hulu.com/bleach",
+    "t"
+  ],
+  "relations": {
+    "kitsu": "244",
+    "anidb": "2369",
+    "anilist/anime": "269",
+    "aozora": "4n3TaKxKar",
+    "hulu": "10374",
+    "myanimelist/anime": "269",
+    "thetvdb": "74796/1",
+    "thetvdb/series": "74796",
+    "trakt": "30850"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "teen-titans-go-vs-teen-titans",
+  "synopsis": "Teen Titans Go! vs. Teen Titans is a direct-to-video animated superhero film, and a crossover between the television series Teen Titans Go! and Teen Titans, both of which are adapted from the DC Comics superhero team of the same name. Warner Bros. (Source: Wikipedia)",
+  "title": {
+    "en": "Teen Titans Go! vs. Teen Titans"
+  },
+  "releasedAt": "2019-09-24T00:00:00.000Z",
+  "finishedAt": "2019-09-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43700/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43700/original.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "kids",
+    "parody",
+    "super deformed",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43700"
+  }
+}

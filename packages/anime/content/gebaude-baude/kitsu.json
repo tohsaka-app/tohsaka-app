@@ -1,0 +1,28 @@
+{
+  "slug": "gebaude-baude",
+  "synopsis": "\"Final chapter\" of Disney's Fireball CG anime series. (Source: Livechart)",
+  "title": {
+    "en": "Gebäude Bäude",
+    "jp": "Gebäude Bäude"
+  },
+  "releasedAt": "2020-11-08T00:00:00.000Z",
+  "finishedAt": "2020-12-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43672/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "future",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43672",
+    "anidb": "15775",
+    "anilist/anime": "125491",
+    "myanimelist/anime": "43350"
+  }
+}

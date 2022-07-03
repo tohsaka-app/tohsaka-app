@@ -1,0 +1,24 @@
+{
+  "slug": "truth",
+  "synopsis": "Short film by Yoriko Mizushiri.",
+  "title": {
+    "en": "Truth",
+    "jp": "Truth"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45348/poster_image/8637580285159fad029a1879d59e9093.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/-nmnHl0pMxU"
+  ],
+  "relations": {
+    "kitsu": "45348",
+    "anilist/anime": "139133"
+  }
+}

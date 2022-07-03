@@ -1,0 +1,19 @@
+{
+  "slug": "anthology-no-1",
+  "synopsis": "\"A display of the artist’s drawings together with the occasional photograph.\"\n\n(Source: John Coulthart)",
+  "title": {
+    "en": null,
+    "jp": "Anthology No.1"
+  },
+  "releasedAt": "1964-01-01T00:00:00.000Z",
+  "finishedAt": "1964-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10161/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "10161"
+  }
+}

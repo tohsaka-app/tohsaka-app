@@ -1,0 +1,31 @@
+{
+  "slug": "tsukimonogatari",
+  "synopsis": "Koyomi Araragi is studying hard in preparation for his college entrance exams when he begins to notice something very strange: his reflection no longer appears in a mirror, a characteristic of a true vampire. Worried about the state of his body, he enlists the help of the human-like doll Yotsugi Ononoki and her master Yozuru Kagenui, an immortal oddity specialist.\n\nQuickly realizing what is wrong with him, Yozuru gives him two choices: either abstain from using the vampiric abilities he received from Shinobu Oshino, or lose his humanity forever.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Tsukimonogatari",
+    "jp": "Tsukimonogatari"
+  },
+  "releasedAt": "2014-12-31T00:00:00.000Z",
+  "finishedAt": "2014-12-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9961/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9961/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "mystery"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/tsukimonogatari",
+    "http://www.hulu.com/tsukimonogatari"
+  ],
+  "relations": {
+    "kitsu": "9961",
+    "anidb": "10891",
+    "anilist/anime": "20918",
+    "aozora": "67fNEBlNhm",
+    "myanimelist/anime": "28025"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "nanocore-3rd-season",
+  "synopsis": "Third season of Nanocore.",
+  "title": {
+    "jp": "Nanocore 3rd Season"
+  },
+  "releasedAt": "2017-08-02T00:00:00.000Z",
+  "finishedAt": "2017-12-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14122/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha",
+    "power suit",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14122",
+    "anilist/anime": "102777",
+    "myanimelist/anime": "36571"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "new-game-2",
+  "synopsis": "Second season of New Game.",
+  "title": {
+    "en": "New Game!!",
+    "jp": "New Game!!"
+  },
+  "releasedAt": "2017-07-11T00:00:00.000Z",
+  "finishedAt": "2017-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13236/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/new-game"
+  ],
+  "relations": {
+    "kitsu": "13236",
+    "anilist/anime": "98292",
+    "aozora": "2dUIv3V04k",
+    "myanimelist/anime": "34914",
+    "thetvdb": "309532/2"
+  }
+}

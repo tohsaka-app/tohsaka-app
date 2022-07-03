@@ -1,0 +1,23 @@
+{
+  "slug": "hanabira",
+  "synopsis": "A music video for Aki Akane's song \"Hanabira.\"",
+  "title": {
+    "jp": "Hanabira"
+  },
+  "releasedAt": "2011-10-06T00:00:00.000Z",
+  "finishedAt": "2011-10-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14034/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14034",
+    "anilist/anime": "103795",
+    "myanimelist/anime": "36780"
+  }
+}

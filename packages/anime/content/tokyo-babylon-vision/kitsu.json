@@ -1,0 +1,23 @@
+{
+  "slug": "tokyo-babylon-vision",
+  "synopsis": "Music video included as a bonus on a Premium Laser Disc release of the Tokyo Babylon OVA.",
+  "title": {
+    "jp": "Tokyo Babylon: Vision"
+  },
+  "releasedAt": "1992-12-21T00:00:00.000Z",
+  "finishedAt": "1992-12-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8874/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8874",
+    "aozora": "yOD1rID2my",
+    "myanimelist/anime": "24139"
+  }
+}

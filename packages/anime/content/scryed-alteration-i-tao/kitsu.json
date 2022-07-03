@@ -1,0 +1,27 @@
+{
+  "slug": "scryed-alteration-i-tao",
+  "synopsis": "Special recap of Scryed to commemorate the 10th anniversary of the anime; featuring digital remastering and some new footage.",
+  "title": {
+    "jp": "s.CRY.ed Alteration I: Tao"
+  },
+  "releasedAt": "2011-11-19T00:00:00.000Z",
+  "finishedAt": "2011-11-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6258/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6258",
+    "anidb": "8342",
+    "anilist/anime": "10592",
+    "aozora": "7efopKzXPp",
+    "myanimelist/anime": "10592"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "slug": "seikimatsu-leader-gaiden-takeshi",
+  "synopsis": "Based on the manga by Shimabukuro Mitsutoshi that ran in Shounen Jump.\n(Source: AniDB)",
+  "title": {
+    "jp": "Seikimatsu Leader Gaiden Takeshi!"
+  },
+  "releasedAt": "1998-07-26T00:00:00.000Z",
+  "finishedAt": "1998-07-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7392/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "elementary school",
+    "japan",
+    "school life",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7392",
+    "anidb": "3532",
+    "anilist/anime": "16245",
+    "aozora": "FpX7vmgvZV",
+    "myanimelist/anime": "16245"
+  }
+}

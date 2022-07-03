@@ -1,0 +1,35 @@
+{
+  "slug": "yoru-no-yatterman",
+  "synopsis": "Several generations after the original Yatterman series, Leopard lives with her mother and guardians, Dorothy, Voltkatze, and Elephantus, just outside the prosperous Yatter Kingdom. She lives a happy if impoverished life, unaware of her ancestral ties to the infamous Doronbow Gang, until she discovers a mural of Doronjo, Boyacky, and Tonzura in a sealed off area of her home. It turns out that Dorothy, Voltkatze, and Elephantus are descendants of the villainous gangsters, which is why they have been forbidden from entering the hero Yatterman's Kingdom!\nAt first, Leopard vows to never engage in villainous actions like her ancestors, but new circumstances may mean that she must go back on her word, donning the identity of villain in search of true justice. ",
+  "title": {
+    "en": "Yatterman Night",
+    "jp": "Yoru no Yatterman"
+  },
+  "releasedAt": "2015-01-11T00:00:00.000Z",
+  "finishedAt": "2015-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10011/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10011/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "drama"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/yatterman-night/videos/episodes",
+    "http://www.hulu.com/yatterman-night"
+  ],
+  "relations": {
+    "kitsu": "10011",
+    "anidb": "10897",
+    "anilist/anime": "20922",
+    "aozora": "kY6y4FG5Su",
+    "hulu": "50019923",
+    "myanimelist/anime": "28155",
+    "thetvdb": "289174",
+    "trakt": "82184"
+  }
+}

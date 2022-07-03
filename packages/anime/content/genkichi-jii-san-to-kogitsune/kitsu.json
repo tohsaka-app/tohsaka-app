@@ -1,0 +1,26 @@
+{
+  "slug": "genkichi-jii-san-to-kogitsune",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Genkichi Jiisan to Kogitsune"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2001-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9827/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9827",
+    "anidb": "10105",
+    "anilist/anime": "140024",
+    "aozora": "6dqcRjDrGw",
+    "myanimelist/anime": "27921"
+  }
+}

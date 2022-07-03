@@ -1,0 +1,26 @@
+{
+  "slug": "hanasaka-jiisan",
+  "synopsis": "Adaptation of Japanese fairy tale Hanasaka Jiisan.",
+  "title": {
+    "en": "The Blossom Man",
+    "jp": "Hanasaka Jiisan"
+  },
+  "releasedAt": "1928-07-01T00:00:00.000Z",
+  "finishedAt": "1928-07-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10638/original.jpg",
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10638",
+    "anidb": "12408",
+    "anilist/anime": "104545",
+    "aozora": "7k9CU6th1D",
+    "myanimelist/anime": "30086"
+  }
+}

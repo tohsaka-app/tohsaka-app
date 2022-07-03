@@ -1,0 +1,27 @@
+{
+  "slug": "komatta-jiisan",
+  "synopsis": "The comedy centers on an old man who pulls stereotypical ikemen (handsome man) actions on similarly old women and makes their hearts flutter.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Komatta Jiisan"
+  },
+  "releasedAt": "2020-04-08T00:00:00.000Z",
+  "finishedAt": "2020-07-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43116/original.png",
+  "categories": [
+    "adventure",
+    "comedy",
+    "drama",
+    "seinen",
+    "slice of life",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43116",
+    "anilist/anime": "115892",
+    "myanimelist/anime": "40893"
+  }
+}

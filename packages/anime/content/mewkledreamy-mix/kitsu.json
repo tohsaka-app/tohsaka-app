@@ -1,0 +1,26 @@
+{
+  "slug": "mewkledreamy-mix",
+  "synopsis": "Second season of Mewkledreamy.",
+  "title": {
+    "jp": "Mewkledreamy Mix!"
+  },
+  "releasedAt": "2021-04-11T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44172/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "magic",
+    "shoujo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44172",
+    "anilist/anime": "130777",
+    "myanimelist/anime": "44273"
+  }
+}

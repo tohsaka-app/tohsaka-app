@@ -1,0 +1,25 @@
+{
+  "slug": "anketo",
+  "synopsis": "An attitude survey on bullying was conducted at a junior high school. There was a question in that questionnaire if there was any cause on the part of the bullied. One student answered, “YES.” This became the top news of the school.\n\nGraduate Work 2016, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "The Question",
+    "jp": "Anketo"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45257/poster_image/60e45208976c073040ece9bf33a0e715.jpg",
+  "categories": [
+    "psychological",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/jVdUz8RUeHY"
+  ],
+  "relations": {
+    "kitsu": "45257",
+    "anilist/anime": "117569"
+  }
+}

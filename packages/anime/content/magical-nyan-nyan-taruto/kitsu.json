@@ -1,0 +1,35 @@
+{
+  "slug": "magical-nyan-nyan-taruto",
+  "synopsis": "Taruto is a little cat who has just moved to a new city with her master's family. Taruto spends her days making friends and exploring her new home town. She also has a knack for getting herself into trouble. And it turns out that Taruto just might be a legendary magical princess. Almost none of Taruto’s friends believe that she can use magic or that she’s a princess, but Taruto is determined to prove it to them. But Taruto's magic is so unpredictable, you never know what's going to happen when she uses it. \n(Source: ANN)",
+  "title": {
+    "en": "Magical Meow Meow Taruto",
+    "jp": "Magical Nyan Nyan Taruto"
+  },
+  "releasedAt": "2001-07-05T00:00:00.000Z",
+  "finishedAt": "2001-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/844/original.jpg",
+  "categories": [
+    "alternative present",
+    "comedy",
+    "juujin",
+    "magic",
+    "present",
+    "romance"
+  ],
+  "externals": [
+    "https://tubitv.com/series/2097/magical_meow_meow_taruto"
+  ],
+  "relations": {
+    "kitsu": "844",
+    "anidb": "187",
+    "anilist/anime": "952",
+    "aozora": "gH0ex01yPS",
+    "myanimelist/anime": "952",
+    "thetvdb": "75982/1",
+    "thetvdb/series": "75982",
+    "trakt": "65454"
+  }
+}

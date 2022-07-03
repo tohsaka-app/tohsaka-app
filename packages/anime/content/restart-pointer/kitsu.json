@@ -1,0 +1,23 @@
+{
+  "slug": "restart-pointer",
+  "synopsis": "Official music video for IDOLiSH7's song \"RESTART POiNTER.\"",
+  "title": {
+    "jp": "RESTART POiNTER"
+  },
+  "releasedAt": "2016-06-10T00:00:00.000Z",
+  "finishedAt": "2016-06-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12263/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12263",
+    "anilist/anime": "103393",
+    "aozora": "W0oWsxDN1f",
+    "myanimelist/anime": "33420"
+  }
+}

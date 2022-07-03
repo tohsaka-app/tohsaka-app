@@ -1,0 +1,23 @@
+{
+  "slug": "why-re-mix-2002",
+  "synopsis": "Film by Tanaami Keiichi.",
+  "title": {
+    "jp": "Why Re-Mix 2002"
+  },
+  "releasedAt": "2002-01-01T00:00:00.000Z",
+  "finishedAt": "2002-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10936/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10936",
+    "anilist/anime": "102705",
+    "aozora": "VOpQBRRrvZ",
+    "myanimelist/anime": "30669"
+  }
+}

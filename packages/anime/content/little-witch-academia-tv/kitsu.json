@@ -1,0 +1,33 @@
+{
+  "slug": "little-witch-academia-tv",
+  "synopsis": "Akko Kagari is an ordinary girl who joins the renowned witch academy for witch girls, Luna Nova Academy. When she was younger, she went to Magical Festa, a magic show hosted by a witch named Shiny Chariot. Akko was so mesmerized and inspired by Shiny Chariot's performance that she dreamed to someday be a \"cool\" witch like her. This young and impressionable Akko takes Shiny Chariot's words as her own motto: \"Never forget, a believing heart is your magic.“\n\n(Source: ANN)",
+  "title": {
+    "jp": "Little Witch Academia (TV)"
+  },
+  "releasedAt": "2017-01-09T00:00:00.000Z",
+  "finishedAt": "2017-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12272/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12272/original.png",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "magic",
+    "school life"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80156387"
+  ],
+  "relations": {
+    "kitsu": "12272",
+    "anidb": "12235",
+    "anilist/anime": "21858",
+    "aozora": "stIldswtJr",
+    "myanimelist/anime": "33489",
+    "thetvdb": "318161/1",
+    "trakt": "112197"
+  }
+}

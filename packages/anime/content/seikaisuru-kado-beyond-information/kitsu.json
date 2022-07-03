@@ -1,0 +1,24 @@
+{
+  "slug": "seikaisuru-kado-beyond-information",
+  "synopsis": "Recap episode of Seikaisuru Kado, also known as Episode 12.5.",
+  "title": {
+    "en": "KADO: The Right Answer – Beyond Information",
+    "jp": "Seikaisuru Kado: Beyond Information"
+  },
+  "releasedAt": "2018-05-22T00:00:00.000Z",
+  "finishedAt": "2018-05-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41390/original.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41390",
+    "anidb": "14101",
+    "anilist/anime": "119548",
+    "myanimelist/anime": "37922"
+  }
+}

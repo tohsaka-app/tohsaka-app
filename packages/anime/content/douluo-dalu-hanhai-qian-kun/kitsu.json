@@ -1,0 +1,26 @@
+{
+  "slug": "douluo-dalu-hanhai-qian-kun",
+  "synopsis": "Seventh part of Douluo Dalu.",
+  "title": {},
+  "releasedAt": "2020-11-21T00:00:00.000Z",
+  "finishedAt": "2021-02-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44617/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "romance",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44617",
+    "anilist/anime": "129351",
+    "myanimelist/anime": "44189"
+  }
+}

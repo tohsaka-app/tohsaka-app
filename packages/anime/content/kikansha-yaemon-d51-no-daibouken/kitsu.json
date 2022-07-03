@@ -1,0 +1,25 @@
+{
+  "slug": "kikansha-yaemon-d51-no-daibouken",
+  "synopsis": "Traditionally animated movie based on a bestseller picture book by Agawa Hiroyuki, illustrated by Okabe Fuyuhiko and published in 1959 by Iwanami Shoten Publishing.",
+  "title": {
+    "jp": "Kikansha Yaemon: D51 no Daibouken"
+  },
+  "releasedAt": "1974-03-16T00:00:00.000Z",
+  "finishedAt": "1974-03-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5359/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5359",
+    "anidb": "2219",
+    "anilist/anime": "8494",
+    "aozora": "SXA9pGJzAb",
+    "myanimelist/anime": "8494"
+  }
+}

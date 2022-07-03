@@ -1,0 +1,25 @@
+{
+  "slug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-zoku-hen",
+  "synopsis": "The second season of Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e.",
+  "title": {
+    "en": "Classroom of the Elite 2",
+    "jp": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e (Zoku-hen)"
+  },
+  "releasedAt": "2022-07-04T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "upcoming",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45925/poster_image/e40de98da1e08b0f3f91075b9d5e3749.jpg",
+  "categories": [
+    "drama",
+    "psychological",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45925",
+    "anilist/anime": "145545",
+    "myanimelist/anime": "51096"
+  }
+}

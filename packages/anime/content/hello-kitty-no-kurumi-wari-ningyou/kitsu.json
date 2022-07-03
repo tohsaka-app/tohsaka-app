@@ -1,0 +1,27 @@
+{
+  "slug": "hello-kitty-no-kurumi-wari-ningyou",
+  "synopsis": "Hello Kitty version of The Nutcracker.",
+  "title": {
+    "en": "Hello Kitty in The Nutcracker",
+    "jp": "Hello Kitty no Kurumi Wari Ningyou"
+  },
+  "releasedAt": "2001-10-26T00:00:00.000Z",
+  "finishedAt": "2001-10-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9308/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9308",
+    "anidb": "7818",
+    "anilist/anime": "18083",
+    "aozora": "ArYuEeewKQ",
+    "myanimelist/anime": "18083"
+  }
+}

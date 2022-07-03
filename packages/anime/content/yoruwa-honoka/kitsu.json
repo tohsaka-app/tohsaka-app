@@ -1,0 +1,25 @@
+{
+  "slug": "yoruwa-honoka",
+  "synopsis": "Music video for the song Yoru wa Honoka by Eve. Directed by Zemyata.",
+  "title": {
+    "en": "Night is Faint",
+    "jp": "Yoruwa Honoka"
+  },
+  "releasedAt": "2021-04-30T00:00:00.000Z",
+  "finishedAt": "2021-04-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44507/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=9Y0_CVX1hok"
+  ],
+  "relations": {
+    "kitsu": "44507",
+    "anilist/anime": "133410",
+    "myanimelist/anime": "48876"
+  }
+}

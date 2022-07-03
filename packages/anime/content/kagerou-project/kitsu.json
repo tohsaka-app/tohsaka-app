@@ -1,0 +1,26 @@
+{
+  "slug": "kagerou-project",
+  "synopsis": "Jin (Shizen no Teki-P)'s incredibly popular vocaloid song series (sung by IA and Hatsune Miku) with PV's done by mainly by Sidu and Wannyanpu.",
+  "title": {
+    "jp": "Mekakucity Days"
+  },
+  "releasedAt": "2011-02-17T00:00:00.000Z",
+  "finishedAt": "2013-08-02T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11122/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11122/original.jpg",
+  "categories": [
+    "fantasy",
+    "music",
+    "psychological",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11122",
+    "anilist/anime": "102621",
+    "myanimelist/anime": "30913"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "slug": "boku-wa-tomodachi-ga-sukunai-next",
+  "synopsis": "The Neighbor's Club—a club founded for the purpose of making friends, where misfortunate boys and girls with few friends live out their regrettable lives.\nAlthough Yozora Mikazuki faced a certain incident at the end of summer, the daily life of the Neighbor's Club goes on as usual. A strange nun, members of the student council and other new faces make an appearance, causing Kodaka Hasegawa's life to grow even busier.\nWhile they all enjoy going to the amusement park, playing games, celebrating birthdays, and challenging the \"school festival\"—a symbol of the school life normal people live—the relations amongst the members slowly begins to change...\nLet the next stage begin, on this unfortunate coming-of-age love comedy!!\n(Source: ANN)",
+  "title": {
+    "en": "Haganai: I don't have many friends NEXT",
+    "jp": "Boku wa Tomodachi ga Sukunai Next"
+  },
+  "releasedAt": "2013-01-11T00:00:00.000Z",
+  "finishedAt": "2013-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7190/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7190/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "female student",
+    "harem",
+    "japan",
+    "maid",
+    "present",
+    "romance",
+    "school clubs",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/haganai",
+    "http://www.funimation.com/shows/38425",
+    "https://www.hulu.com/haganai"
+  ],
+  "relations": {
+    "kitsu": "7190",
+    "anidb": "9342",
+    "anilist/anime": "14967",
+    "aozora": "gepu6cF9zK",
+    "myanimelist/anime": "14967",
+    "thetvdb": "251908/2",
+    "thetvdb/season": "500107",
+    "thetvdb/series": "251908",
+    "trakt": "64342"
+  }
+}

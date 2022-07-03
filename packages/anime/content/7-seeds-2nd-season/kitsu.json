@@ -1,0 +1,32 @@
+{
+  "slug": "7-seeds-2nd-season",
+  "synopsis": "The second season of 7 Seeds",
+  "title": {},
+  "releasedAt": "2020-03-26T00:00:00.000Z",
+  "finishedAt": "2020-03-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42639/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42639/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "horror",
+    "mystery",
+    "post apocalypse",
+    "psychological",
+    "romance",
+    "science fiction",
+    "shoujo"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80183051"
+  ],
+  "relations": {
+    "kitsu": "42639",
+    "anilist/anime": "112686",
+    "myanimelist/anime": "40602"
+  }
+}

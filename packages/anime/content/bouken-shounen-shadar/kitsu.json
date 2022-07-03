@@ -1,0 +1,26 @@
+{
+  "slug": "bouken-shounen-shadar",
+  "synopsis": "When Earth is threatened by the invading Ghostar, a young boy with nerves of steel and the strength of 50 men appears from a cave on Mount Fuji. He is Shadar, a boy of unknown origin who, with his faithful dog, Pinboke, fights to save the world. \n(Source: The Anime Encyclopedia) ",
+  "title": {
+    "en": "Adventure Boy Shadar",
+    "jp": "Bouken Shounen Shadar"
+  },
+  "releasedAt": "1967-09-18T00:00:00.000Z",
+  "finishedAt": "1968-03-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5231/original.jpg",
+  "categories": [
+    "adventure",
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5231",
+    "anidb": "3604",
+    "anilist/anime": "8182",
+    "aozora": "AvlzMeraI1",
+    "myanimelist/anime": "8182"
+  }
+}

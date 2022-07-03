@@ -1,0 +1,24 @@
+{
+  "slug": "wandering-days",
+  "synopsis": "Music video for Wandering Days by Tokino Sora.",
+  "title": {
+    "en": "Wandering Days",
+    "jp": "Wandering Days"
+  },
+  "releasedAt": "2018-11-12T00:00:00.000Z",
+  "finishedAt": "2018-11-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43999/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Z9oZ4r0cxME&feature=youtu.be&ab_channel=SoraCh.%E3%81%A8%E3%81%8D%E3%81%AE%E3%81%9D%E3%82%89%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB"
+  ],
+  "relations": {
+    "kitsu": "43999"
+  }
+}

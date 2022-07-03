@@ -1,0 +1,25 @@
+{
+  "slug": "digimon-survive-prologue-movie",
+  "synopsis": "A prologue movie released on Bandai Namco's official YouTube channels for the eventual 2020 release of the Digimon Survive game. The movie was first shown at the Anime Expo's panel \"The Future of Digimon\" and then later posted online.\n",
+  "title": {
+    "en": "Digimon Survive - Opening Movie",
+    "jp": "Digimon Survive: Prologue Movie"
+  },
+  "releasedAt": "2019-07-22T00:00:00.000Z",
+  "finishedAt": "2019-07-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42694/original.jpg",
+  "categories": [
+    "fantasy",
+    "mystery",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42694",
+    "anilist/anime": "110734",
+    "myanimelist/anime": "40156"
+  }
+}

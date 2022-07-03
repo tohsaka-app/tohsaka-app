@@ -1,0 +1,33 @@
+{
+  "slug": "enen-no-shouboutai",
+  "synopsis": "Tokyo is burning, and citizens are mysteriously suffering from spontaneous human combustion all throughout the city! Responsible for snuffing out this inferno is the Fire Force, and Shinra is ready to join their fight. Now, as part of Company 8, he’ll use his devil’s footprints to help keep the city from turning to ash! But his past and a burning secret behind the scenes could set everything ablaze.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Fire Force",
+    "jp": "Enen no Shouboutai"
+  },
+  "releasedAt": "2019-07-06T00:00:00.000Z",
+  "finishedAt": "2019-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42068/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/42068/cover_image/9a845de436c29fd185f978813aeab697.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "science fiction",
+    "shounen",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/fire-force",
+    "https://www.funimation.com/shows/fire-force/"
+  ],
+  "relations": {
+    "kitsu": "42068",
+    "anidb": "14488",
+    "anilist/anime": "105310",
+    "myanimelist/anime": "38671"
+  }
+}

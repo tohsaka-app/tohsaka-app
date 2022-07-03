@@ -1,0 +1,26 @@
+{
+  "slug": "gozonji-gekkou-kamen-kun",
+  "synopsis": "Gekkou Kamen is retired on the moon, so his trusty motorbike returns to Earth to find a new hero to take over the job of defending the Earth from alien invaders.",
+  "title": {
+    "jp": "Gozonji! Gekkou Kamen-kun"
+  },
+  "releasedAt": "1999-10-03T00:00:00.000Z",
+  "finishedAt": "2000-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4118/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4118",
+    "anidb": "1577",
+    "anilist/anime": "5477",
+    "aozora": "RxUnvjPY6d",
+    "myanimelist/anime": "5477"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "thunderbolt-fantasy-season-3",
+  "synopsis": "Season 3 of Thunderbolt Fantasy.",
+  "title": {
+    "en": "Thunderbolt Fantasy: Sword Seekers 3",
+    "jp": "Thunderbolt Fantasy: Touriken Yuuki 3"
+  },
+  "releasedAt": "2021-04-03T00:00:00.000Z",
+  "finishedAt": "2021-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43201/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "historical",
+    "martial arts",
+    "swordplay"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/thunderbolt-fantasy"
+  ],
+  "relations": {
+    "kitsu": "43201",
+    "anidb": "14556",
+    "anilist/anime": "119806"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "cosmo-warrior-zero",
+  "synopsis": "The long war between the planet Earth and the machine men is finally over, resulting in a peace that is more a victory for the machine men than the Earth. Warrius Zero lost his family in the war to the machine men but despite this he is still is a member of the Earth fleet that is now working in concert with the machine men. His ship, made up of both humans and machine men, has been given a near impossible task: capture the space pirate Captain Harlock. While Zero struggles to accomplish this task, evidence begins to surface that the peace between machine men and Earth may not be as it seems...\n(Source: ANN)",
+  "title": {
+    "jp": "Cosmo Warrior Zero"
+  },
+  "releasedAt": "2001-07-06T00:00:00.000Z",
+  "finishedAt": "2001-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1506/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1506/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "military",
+    "pirate",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space opera"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/cosmo-warrior-zero"
+  ],
+  "relations": {
+    "kitsu": "1506",
+    "anidb": "816",
+    "anilist/anime": "1676",
+    "aozora": "YNdo2en8xh",
+    "myanimelist/anime": "1676",
+    "thetvdb": "81741",
+    "trakt": "35082"
+  }
+}

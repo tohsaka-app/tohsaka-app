@@ -1,0 +1,34 @@
+{
+  "slug": "my-little-pony-friendship-is-magic-season-2",
+  "synopsis": "Season 2 of My Little Pony: Friendship is Magic",
+  "title": {
+    "en": "My Little Pony Friendship is Magic: Season 2",
+    "jp": "My Little Pony ~ Tomodachi wa Mahou ~ 2"
+  },
+  "releasedAt": "2011-09-17T00:00:00.000Z",
+  "finishedAt": "2012-04-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44268/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44268/original.jpeg",
+  "categories": [
+    "anime influenced",
+    "anthropomorphism",
+    "dragon",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "kids",
+    "magic",
+    "magical girl",
+    "slice of life"
+  ],
+  "externals": [
+    "Seen “My Little Pony: Friendship Is Magic” on Netflix yet?  https://www.netflix.com/title/70234440?s=i&trkid=13747225"
+  ],
+  "relations": {
+    "kitsu": "44268",
+    "thetvdb": "212171/2"
+  }
+}

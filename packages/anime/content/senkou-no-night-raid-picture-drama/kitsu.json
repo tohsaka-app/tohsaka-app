@@ -1,0 +1,25 @@
+{
+  "slug": "senkou-no-night-raid-picture-drama",
+  "synopsis": "Picture drama included with the 7th volume of the Blu-ray.",
+  "title": {
+    "jp": "Senkou no Night Raid Picture Drama"
+  },
+  "releasedAt": "2010-12-22T00:00:00.000Z",
+  "finishedAt": "2010-12-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6075/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6075",
+    "anilist/anime": "10201",
+    "aozora": "Q0J9hktQ24",
+    "myanimelist/anime": "10201"
+  }
+}

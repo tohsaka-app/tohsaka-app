@@ -1,0 +1,24 @@
+{
+  "slug": "gochuumon-wa-usagi-desu-ka-dear-my-sister",
+  "synopsis": " ",
+  "title": {
+    "en": "Is the order a rabbit?? Dear My Sister",
+    "jp": "Gochuumon wa Usagi desu ka??: Dear My Sister"
+  },
+  "releasedAt": "2017-11-11T00:00:00.000Z",
+  "finishedAt": "2017-11-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12138/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12138",
+    "anilist/anime": "21813",
+    "myanimelist/anime": "33280"
+  }
+}

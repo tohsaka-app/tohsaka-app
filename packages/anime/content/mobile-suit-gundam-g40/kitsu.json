@@ -1,0 +1,30 @@
+{
+  "slug": "mobile-suit-gundam-g40",
+  "synopsis": "U.C. 0079 - A squadron of Zakus from the Principality of Zeon invades a neutral space colony. Amuro Ray reluctantly pilots the Gundam G40 prototype mobile suit to combat the threat, as well as Zeon ace pilot Char Aznable and his custom red Zaku II.\n\n(Source: ANN)",
+  "title": {
+    "en": "Mobile Suit Gundam G40",
+    "jp": "Kidou Senshi Gundam G40"
+  },
+  "releasedAt": "2020-01-01T00:00:00.000Z",
+  "finishedAt": "2020-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42962/original.jpg",
+  "categories": [
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "space",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42962",
+    "anidb": "15346",
+    "anilist/anime": "114841",
+    "animenewsnetwork": "22961",
+    "myanimelist/anime": "41063"
+  }
+}

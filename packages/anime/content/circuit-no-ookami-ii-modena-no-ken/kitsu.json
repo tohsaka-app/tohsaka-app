@@ -1,0 +1,25 @@
+{
+  "slug": "circuit-no-ookami-ii-modena-no-ken",
+  "synopsis": "The adventures of Ken Ferrari, a former racer and motor journalist with an appetite for women. Based on the manga by Satoshi Ikezawa.",
+  "title": {
+    "jp": "Circuit no Ookami II: Modena no Ken"
+  },
+  "releasedAt": "1990-12-21T00:00:00.000Z",
+  "finishedAt": "1990-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6429/original.jpg",
+  "categories": [
+    "comedy",
+    "motorsport"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6429",
+    "anidb": "5942",
+    "anilist/anime": "10967",
+    "aozora": "ojMr9CbTfn",
+    "myanimelist/anime": "10967"
+  }
+}

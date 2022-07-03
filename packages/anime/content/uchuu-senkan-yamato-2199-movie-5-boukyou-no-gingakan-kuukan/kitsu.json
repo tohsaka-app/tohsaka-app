@@ -1,0 +1,25 @@
+{
+  "slug": "uchuu-senkan-yamato-2199-movie-5-boukyou-no-gingakan-kuukan",
+  "synopsis": "Compilation of episodes 15-18 of the Space Battleship Yamato 2199 TV anime.",
+  "title": {
+    "en": "Space Battleship Yamato 2199 Movie 5",
+    "jp": "Uchuu Senkan Yamato 2199 Movie 5: Boukyou no Gingakan Kuukan"
+  },
+  "releasedAt": "2013-04-13T00:00:00.000Z",
+  "finishedAt": "2013-04-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6755/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "military",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6755"
+  }
+}

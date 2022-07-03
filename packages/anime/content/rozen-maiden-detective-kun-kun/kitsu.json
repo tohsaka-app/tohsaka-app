@@ -1,0 +1,24 @@
+{
+  "slug": "rozen-maiden-detective-kun-kun",
+  "synopsis": "Extra animation from the PS2 game.",
+  "title": {
+    "jp": "Rozen Maiden: Meitantei Kunkun - Duell Walzer"
+  },
+  "releasedAt": "2006-04-27T00:00:00.000Z",
+  "finishedAt": "2006-04-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2028/original.jpg",
+  "categories": [
+    "comedy",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2028",
+    "anilist/anime": "2237",
+    "aozora": "dEzd5EYIf8",
+    "myanimelist/anime": "2237"
+  }
+}

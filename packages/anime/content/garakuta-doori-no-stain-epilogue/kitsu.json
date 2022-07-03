@@ -1,0 +1,24 @@
+{
+  "slug": "garakuta-doori-no-stain-epilogue",
+  "synopsis": "DVD only episode.",
+  "title": {
+    "en": "Mr. Stain on Junk Alley: Epilogue",
+    "jp": "Garakuta-doori no Stain: Epilogue"
+  },
+  "releasedAt": "2003-10-11T00:00:00.000Z",
+  "finishedAt": "2003-10-11T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6747/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6747",
+    "anilist/anime": "12497",
+    "aozora": "BlLj5SqPBv",
+    "myanimelist/anime": "12497"
+  }
+}

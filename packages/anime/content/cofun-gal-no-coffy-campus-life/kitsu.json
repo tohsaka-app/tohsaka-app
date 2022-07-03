@@ -1,0 +1,24 @@
+{
+  "slug": "cofun-gal-no-coffy-campus-life",
+  "synopsis": "The sequel to Cofun Gal no Coffy (TV). This is a college campus life comedy about 20-year-old college student Coffy, her boyfriend Nintoku-kun, her childhood friend Daniel, her love rival Dorothy, and Okehazama-sensei, who quit being a teacher and became the chief of the college mart.",
+  "title": {
+    "en": "Tumulus Gal Coffy Campus Life",
+    "jp": "Cofun Gal no Coffy Campus Life"
+  },
+  "releasedAt": "2009-10-07T00:00:00.000Z",
+  "finishedAt": "2009-12-16T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6980/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6980",
+    "anilist/anime": "13505",
+    "aozora": "QHH53jfDL8",
+    "myanimelist/anime": "13505"
+  }
+}

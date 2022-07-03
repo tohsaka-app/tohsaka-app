@@ -1,0 +1,24 @@
+{
+  "slug": "chichi-to-ko",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Chichi to Ko"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11184/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11184",
+    "anidb": "11337",
+    "aozora": "9uqTuok9U8",
+    "myanimelist/anime": "31129"
+  }
+}

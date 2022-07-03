@@ -1,0 +1,30 @@
+{
+  "slug": "code-geass-dakkan-no-z",
+  "synopsis": null,
+  "title": {
+    "en": "Code Geass: Z of the Recapture",
+    "jp": "Code Geass: Dakkan no Z"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43855/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "mecha",
+    "military",
+    "piloted robot",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43855",
+    "anidb": "15910",
+    "anilist/anime": "126830",
+    "myanimelist/anime": "44304"
+  }
+}

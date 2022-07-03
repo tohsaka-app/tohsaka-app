@@ -1,0 +1,20 @@
+{
+  "slug": "hashire-melos-special",
+  "synopsis": "A Gakken version of the <i>Run, Melos!</i>.",
+  "title": {
+    "jp": "Hashire Melos"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40776/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40776",
+    "aozora": "VwcMknNUq3",
+    "myanimelist/anime": "35497"
+  }
+}

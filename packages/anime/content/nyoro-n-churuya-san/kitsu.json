@@ -1,0 +1,31 @@
+{
+  "slug": "nyoro-n-churuya-san",
+  "synopsis": "An anime adaptation of the 4-panel strip manga release: Nyoron Churuya-san. Based on Suzumiya Haruhi's energetic and 'always up to go' character, Tsuruya.\nChuruya is a girl with a strong passion for smoked cheese. But Kyon and the rest of the crew know this, and they make use of the weakness. They make her do all kinds of things with smoked cheese as a possible reward. But Churuya isn't aware of this evil plot, thus she maintains the effort for the sake of cheese. Each day is a struggle to get the beloved smoked cheese, but it's much harder than she could ever imagine!",
+  "title": {
+    "en": "Nyoron! Churuya-san",
+    "jp": "Nyoro-n Churuya-san"
+  },
+  "releasedAt": "2009-02-13T00:00:00.000Z",
+  "finishedAt": "2009-05-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4362/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4362/original.jpg",
+  "categories": [
+    "comedy",
+    "high school",
+    "japan",
+    "present",
+    "school life",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4362",
+    "anidb": "6377",
+    "anilist/anime": "5957",
+    "aozora": "lF1xBHjAGc",
+    "myanimelist/anime": "5957"
+  }
+}

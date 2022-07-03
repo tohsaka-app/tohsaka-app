@@ -1,0 +1,27 @@
+{
+  "slug": "eunhajeonseol-tera",
+  "synopsis": "A 1983 Korean Space Opera.",
+  "title": {
+    "jp": "Eunhajeonseol Tera"
+  },
+  "releasedAt": "1983-01-03T00:00:00.000Z",
+  "finishedAt": "1983-01-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9741/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9741",
+    "anidb": "9634",
+    "anilist/anime": "18307",
+    "aozora": "uxOlPq4XJa",
+    "myanimelist/anime": "18307"
+  }
+}

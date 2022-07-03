@@ -1,0 +1,44 @@
+{
+  "slug": "getbackers",
+  "synopsis": "Mido Ban and Amano Ginji are known as the Get Backers, retrievers with a success rate of 100%. Whatever is lost or stolen, they can definitely get it back. Despite their powerful abilities and enthusiastic behavior, Ban and Ginji are terminally broke no matter what they do simply because few people would actually desire to hire them. As a result, the pair of them tend to do dangerous jobs, often leading to unwanted re-encounters with their old (and dangerous) friends.",
+  "title": {
+    "en": "Getbackers",
+    "jp": "GetBackers"
+  },
+  "releasedAt": "2002-10-05T00:00:00.000Z",
+  "finishedAt": "2003-09-20T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/111/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/111/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "drama",
+    "earth",
+    "japan",
+    "martial arts",
+    "mystery",
+    "present",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "https://www.amazon.com/Operation-Recover-the-Platinum/dp/B008RK04MY",
+    "https://www.hidive.com/tv/get-backers"
+  ],
+  "relations": {
+    "kitsu": "111",
+    "anidb": "272",
+    "anilist/anime": "132",
+    "aozora": "SFSZoSJMwy",
+    "myanimelist/anime": "132",
+    "thetvdb": "79056/1",
+    "thetvdb/series": "79056",
+    "trakt": "62219"
+  }
+}

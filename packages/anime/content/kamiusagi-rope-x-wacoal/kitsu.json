@@ -1,0 +1,23 @@
+{
+  "slug": "kamiusagi-rope-x-wacoal",
+  "synopsis": "Collaboration episodes between the undergarment brand Wacoal and the comedy anime franchise Kamiusagi Rope.\n",
+  "title": {
+    "jp": "Kamiusagi Rope x Wacoal"
+  },
+  "releasedAt": "2016-10-05T00:00:00.000Z",
+  "finishedAt": "2017-09-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41277/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41277",
+    "myanimelist/anime": "37851"
+  }
+}

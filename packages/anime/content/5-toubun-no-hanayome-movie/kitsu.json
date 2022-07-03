@@ -1,0 +1,29 @@
+{
+  "slug": "5-toubun-no-hanayome-movie",
+  "synopsis": "A sequel film to 5-Toubun no Hanayome ∬.",
+  "title": {
+    "en": "The Quintessential Quintuplets Movie",
+    "jp": "5-Toubun no Hanayome"
+  },
+  "releasedAt": "2022-05-20T00:00:00.000Z",
+  "finishedAt": "2022-05-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/44229/poster_image/1544ffe0e61a2616c5ff9ae8c065c585.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/44229/cover_image/8fd9f094d8de7b74aaa28fd42cbcf366.jpg",
+  "categories": [
+    "comedy",
+    "harem",
+    "romance",
+    "school life",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44229",
+    "anidb": "16165",
+    "anilist/anime": "131520",
+    "myanimelist/anime": "48548"
+  }
+}

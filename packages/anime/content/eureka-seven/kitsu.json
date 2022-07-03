@@ -1,0 +1,50 @@
+{
+  "slug": "eureka-seven",
+  "synopsis": "In the backwater town of Bellforest lives a 14-year-old boy named Renton Thurston. He desires to leave his home behind and join the mercenary group known as Gekkostate, hoping to find some adventure to brighten up his mundane life. However, stuck between his grandfather's insistence to become a mechanic like him and the pressure of his deceased father's legacy, the only excitement Renton finds is in his pastime of riding the Trapar wave particles that are dispersed throughout the air, an activity akin to surfing.\n\nEverything changes when an unknown object crashes through Renton's garage, discovered to be a Light Finding Operation—a robot capable of riding the Trapar waves—specifically known as the Nirvash typeZERO. Its pilot is a young girl named Eureka, a member of the Gekkostate, who requests a tune-up for the Nirvash. Their meeting sparks the beginning of Renton's involvement with the Gekkostate as he takes off alongside Eureka as the co-pilot of the Nirvash.\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Eureka Seven",
+    "jp": "Eureka Seven"
+  },
+  "releasedAt": "2005-04-17T00:00:00.000Z",
+  "finishedAt": "2006-04-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/212/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/212/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "air force",
+    "alien",
+    "angst",
+    "coming of age",
+    "drama",
+    "earth",
+    "future",
+    "mecha",
+    "military",
+    "piloted robot",
+    "plot continuity",
+    "post apocalypse",
+    "romance",
+    "science fiction",
+    "tone changes",
+    "violence"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/eureka-seven/"
+  ],
+  "relations": {
+    "kitsu": "212",
+    "anidb": "2826",
+    "anilist/anime": "237",
+    "aozora": "LAhysJmUCC",
+    "hulu": "50006569",
+    "myanimelist/anime": "237",
+    "thetvdb": "79360/1",
+    "thetvdb/season": "16405",
+    "thetvdb/series": "79360",
+    "trakt": "884"
+  }
+}

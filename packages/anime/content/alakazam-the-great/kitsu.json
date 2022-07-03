@@ -1,0 +1,28 @@
+{
+  "slug": "alakazam-the-great",
+  "synopsis": "Alakazam is a young and brave monkey who convinces all the other monkeys to make him their king. After attaining the throne and learning magic, he becomes so vain that he goes to heaven to challenge the gods. He is defeated by King Amo, and sentenced to serve as the bodyguard of Prince Amat in order to learn humility.",
+  "title": {
+    "en": "Alakazam the Great",
+    "jp": "Saiyuuki"
+  },
+  "releasedAt": "1960-08-14T00:00:00.000Z",
+  "finishedAt": "1960-08-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3635/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "fantasy",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3635",
+    "anidb": "2199",
+    "anilist/anime": "4481",
+    "aozora": "ca3Vf6PBka",
+    "myanimelist/anime": "4481"
+  }
+}

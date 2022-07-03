@@ -1,0 +1,31 @@
+{
+  "slug": "world-trigger-2",
+  "synopsis": "Second season of World Trigger.",
+  "title": {
+    "jp": "World Trigger 2"
+  },
+  "releasedAt": "2021-01-10T00:00:00.000Z",
+  "finishedAt": "2021-04-04T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42898/original.jpg",
+  "categories": [
+    "action",
+    "contemporary fantasy",
+    "fantasy",
+    "school life",
+    "science fiction",
+    "shounen",
+    "super power",
+    "supernatural",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42898",
+    "anidb": "15322",
+    "anilist/anime": "114087",
+    "myanimelist/anime": "40907"
+  }
+}

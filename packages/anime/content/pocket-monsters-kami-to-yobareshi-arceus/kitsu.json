@@ -1,0 +1,27 @@
+{
+  "slug": "pocket-monsters-kami-to-yobareshi-arceus",
+  "synopsis": "Special episodes of the Pocket Monsters anime distributed exclusively on Amazon Prime to promote the release of Pokémon LEGENDS: Arceus.",
+  "title": {
+    "en": "Pokémon: Arceus, the One Called a God",
+    "jp": "Pocket Monsters: Kami to Yobareshi Arceus"
+  },
+  "releasedAt": "2022-01-21T00:00:00.000Z",
+  "finishedAt": "2022-01-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45599/poster_image/c377baa7487dab75639cd027de53ac4b.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45599",
+    "anilist/anime": "142794"
+  }
+}

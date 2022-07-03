@@ -1,0 +1,33 @@
+{
+  "slug": "vampire-hunter",
+  "synopsis": "The world is a dark, brooding place populated by humans, but ruled in reality by powerful beings known as the Darkstalkers, and there is constant conflict between them as they try to determine who is the most powerful of them all. Zombies, vampires, werewolves - all of them compete in contests of strength and sheer will to attain their own personal goals. \nAll of this becomes moot when a race of Aztec robots called the Huitzil decide that humanity isn't worth saving, and start waging war on the world, while in the sky, a solar god from outer space plots the conquest of Earth. And the Darkstalkers must become unwilling allies in order to save the world. \n(Source: AnimeNfo)",
+  "title": {
+    "en": "Night Warriors: Darkstalkers' Revenge",
+    "jp": "Vampire Hunter"
+  },
+  "releasedAt": "1997-03-21T00:00:00.000Z",
+  "finishedAt": "1998-03-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1758/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "fantasy",
+    "present",
+    "super power",
+    "supernatural",
+    "vampire",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1758",
+    "anidb": "59",
+    "anilist/anime": "1952",
+    "aozora": "okNbOMlcgS",
+    "myanimelist/anime": "1952"
+  }
+}

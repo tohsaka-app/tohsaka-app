@@ -1,0 +1,23 @@
+{
+  "slug": "karneval-specials",
+  "synopsis": "Reproduction of ending scenes with the addition of new scenes.",
+  "title": {
+    "jp": "Karneval (TV) Specials"
+  },
+  "releasedAt": "2013-06-21T00:00:00.000Z",
+  "finishedAt": "2013-11-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8765/original.jpg",
+  "categories": [
+    "comedy",
+    "josei"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8765",
+    "aozora": "gBpLo6gxXv",
+    "myanimelist/anime": "23425"
+  }
+}

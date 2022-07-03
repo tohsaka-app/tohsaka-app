@@ -1,0 +1,23 @@
+{
+  "slug": "fake-style",
+  "synopsis": "A music video for the band Fake Type.'s song Fake Style.",
+  "title": {
+    "jp": "Fake Style"
+  },
+  "releasedAt": "2013-12-06T00:00:00.000Z",
+  "finishedAt": "2013-12-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12213/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12213",
+    "anilist/anime": "102403",
+    "aozora": "58SoM79bqt",
+    "myanimelist/anime": "32745"
+  }
+}

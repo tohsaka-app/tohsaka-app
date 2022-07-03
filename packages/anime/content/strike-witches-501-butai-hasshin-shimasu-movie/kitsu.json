@@ -1,0 +1,31 @@
+{
+  "slug": "strike-witches-501-butai-hasshin-shimasu-movie",
+  "synopsis": null,
+  "title": {
+    "en": "Strike Witches: 501st JOINT FIGHTER WING Take Off!",
+    "jp": "Strike Witches: 501 Butai Hasshin Shimasu! Movie"
+  },
+  "releasedAt": "2019-10-04T00:00:00.000Z",
+  "finishedAt": "2019-10-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43533/original.jpg",
+  "categories": [
+    "alien",
+    "contemporary fantasy",
+    "fantasy",
+    "magic",
+    "military"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/strike-witches-501st-joint-fighter-wing-take-off/strike-witches-501st-joint-fighter-wing-take-off-ova/?qid=undefined"
+  ],
+  "relations": {
+    "kitsu": "43533",
+    "anidb": "14965",
+    "anilist/anime": "112732",
+    "animenewsnetwork": "22342",
+    "myanimelist/anime": "39987"
+  }
+}

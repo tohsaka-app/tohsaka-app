@@ -1,0 +1,24 @@
+{
+  "slug": "meitantei-conan-zero-no-tea-time",
+  "synopsis": "The story focuses on the life of the triple agent as he attempts to keep all his different roles in check.",
+  "title": {
+    "en": "Detective Conan: Zero's Tea Time",
+    "jp": "Meitantei Conan: Zero no Tea Time"
+  },
+  "releasedAt": "2022-04-05T00:00:00.000Z",
+  "finishedAt": "2022-05-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45281/poster_image/7ca9ce9023c47dcb7182331500e3590a.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45281/cover_image/33478630a20ab3d032066a9f285bb087.jpg",
+  "categories": [
+    "cops",
+    "law and order",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45281"
+  }
+}

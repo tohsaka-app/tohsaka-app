@@ -1,0 +1,28 @@
+{
+  "slug": "super-lovers-ova",
+  "synopsis": "Bundled with manga's tenth and eleventh volume.",
+  "title": {
+    "jp": "Super Lovers OVA"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-09-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12055/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "romance",
+    "shounen ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12055",
+    "anidb": "12022",
+    "anilist/anime": "98642",
+    "aozora": "VSwyvsUvXe",
+    "myanimelist/anime": "33013",
+    "trakt": "104318"
+  }
+}

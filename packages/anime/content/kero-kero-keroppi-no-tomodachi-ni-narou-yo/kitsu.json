@@ -1,0 +1,26 @@
+{
+  "slug": "kero-kero-keroppi-no-tomodachi-ni-narou-yo",
+  "synopsis": "Wink is a lovely snake. He is Keroppi's friend. Keroppi wants to introduce Wink to his other friends. His friends deem Wink is a dangerous animal. Will they accept him finally?",
+  "title": {
+    "en": "Keroppi in Let's Be Friends",
+    "jp": "Kero Kero Keroppi no Tomodachi ni Narou yo"
+  },
+  "releasedAt": "1994-02-21T00:00:00.000Z",
+  "finishedAt": "1994-02-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9882/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9882",
+    "anidb": "7801",
+    "aozora": "IJhQmQ78Y8",
+    "myanimelist/anime": "22637"
+  }
+}

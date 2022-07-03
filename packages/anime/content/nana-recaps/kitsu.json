@@ -1,0 +1,26 @@
+{
+  "slug": "nana-recaps",
+  "synopsis": "Nana Episode 11.5: Junko's Room \nNana Episode 21.5: Junko's Room 2 \nNana Episode 36.5: Junko's Room 3 ",
+  "title": {
+    "jp": "Nana Recaps"
+  },
+  "releasedAt": "2006-06-21T00:00:00.000Z",
+  "finishedAt": "2007-01-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1686/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "music",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1686",
+    "aozora": "3vpgUtfVrb",
+    "myanimelist/anime": "1869"
+  }
+}

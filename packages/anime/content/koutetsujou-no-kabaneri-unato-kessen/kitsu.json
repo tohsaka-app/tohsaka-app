@@ -1,0 +1,32 @@
+{
+  "slug": "koutetsujou-no-kabaneri-unato-kessen",
+  "synopsis": "The film will take place half a year after the story of the original television anime series. Director Tetsuro Araki stated that the film isn't a spinoff but a sequel. The official website for the anime lists the film as the \"middle volume.\"\n\n(Source: ANN)",
+  "title": {
+    "en": "Kabaneri of the Iron Fortress Movie: The Battle of Unato",
+    "jp": "Koutetsujou no Kabaneri Movie: Unato Kessen"
+  },
+  "releasedAt": "2019-05-10T00:00:00.000Z",
+  "finishedAt": "2019-05-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13470/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13470/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "horror",
+    "post apocalypse",
+    "steampunk",
+    "zombie"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81095103"
+  ],
+  "relations": {
+    "kitsu": "13470",
+    "anilist/anime": "97918",
+    "myanimelist/anime": "34544"
+  }
+}

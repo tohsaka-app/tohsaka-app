@@ -1,0 +1,24 @@
+{
+  "slug": "yuuki-hitotsu-wo-tomo-ni-shite",
+  "synopsis": "The story of the Greek Icarus who wanted to escape the island by creating a pair of wings. Icarus, so enamored with the success of his wings, rose higher and higher toward the sun. Unfortunately, this results in the glue of the wings melting under the sun's heat.",
+  "title": {
+    "jp": "Yuuki Hitotsu wo Tomo ni Shite"
+  },
+  "releasedAt": "1975-10-01T00:00:00.000Z",
+  "finishedAt": "1975-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5467/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5467",
+    "anidb": "12592",
+    "anilist/anime": "8732",
+    "aozora": "s1wnMkywCm",
+    "myanimelist/anime": "8732"
+  }
+}

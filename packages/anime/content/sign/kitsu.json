@@ -1,0 +1,24 @@
+{
+  "slug": "sign",
+  "synopsis": "Music video for the song 'Sign' by Nobukazu Takemura\nAnimation done by Katsura Moshino",
+  "title": {
+    "jp": "Sign"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2001-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8872/original.jpg",
+  "categories": [
+    "music",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8872",
+    "anilist/anime": "18463",
+    "aozora": "j1iuYikvNr",
+    "myanimelist/anime": "18463"
+  }
+}

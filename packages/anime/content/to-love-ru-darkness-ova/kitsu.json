@@ -1,0 +1,41 @@
+{
+  "slug": "to-love-ru-darkness-ova",
+  "synopsis": "Bundled with the 5th, 6th, 8th, 9th, 12th and 13th limited-edition volume of the manga.",
+  "title": {
+    "jp": "To LOVE-Ru Darkness OVA"
+  },
+  "releasedAt": "2012-08-17T00:00:00.000Z",
+  "finishedAt": "2015-04-03T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7047/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7047/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "harem",
+    "humanoid alien",
+    "japan",
+    "parental abandonment",
+    "present",
+    "romance",
+    "school life",
+    "science fiction",
+    "slice of life",
+    "stereotypes",
+    "violent retribution for accidental infringement"
+  ],
+  "externals": [
+    "http://www.hulu.com/to-loveru-darkness-2"
+  ],
+  "relations": {
+    "kitsu": "7047",
+    "anidb": "9162",
+    "anilist/anime": "13851",
+    "aozora": "ETSt2pof2o",
+    "myanimelist/anime": "13851"
+  }
+}

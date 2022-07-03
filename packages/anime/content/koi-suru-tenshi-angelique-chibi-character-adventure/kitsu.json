@@ -1,0 +1,25 @@
+{
+  "slug": "koi-suru-tenshi-angelique-chibi-character-adventure",
+  "synopsis": "The nine guardians take a break from their daily lives and go on a little adventure together.",
+  "title": {
+    "en": "Loving Angel Angelique Chibi Adventure Special",
+    "jp": "Koisuru Tenshi Angelique: Chibi Character Adventure"
+  },
+  "releasedAt": "2006-09-22T00:00:00.000Z",
+  "finishedAt": "2006-09-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4275/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4275",
+    "anilist/anime": "5783",
+    "aozora": "VnBrnL0awb",
+    "myanimelist/anime": "5783"
+  }
+}

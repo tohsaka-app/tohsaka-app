@@ -1,0 +1,27 @@
+{
+  "slug": "doraemon-nobita-to-mirai-noto",
+  "synopsis": "Educational video produced by the New Energy and Industrial Technology Development Organization (NEDO) in 1994, it was later included on the 13th issue of Boku, Doraemon magazine released on August 20, 2004.\n(Source: AniDB)",
+  "title": {
+    "jp": "Doraemon: Nobita to Mirai Note"
+  },
+  "releasedAt": "1994-01-01T00:00:00.000Z",
+  "finishedAt": "1994-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7495/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7495",
+    "anidb": "9528",
+    "anilist/anime": "16702",
+    "aozora": "ZoMtEtRN2b",
+    "myanimelist/anime": "16702"
+  }
+}

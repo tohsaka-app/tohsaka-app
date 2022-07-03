@@ -1,0 +1,24 @@
+{
+  "slug": "hai-to-gensou-no-grimgar-special",
+  "synopsis": "Episode 2.5 of the series, which expands on the ending of episode 2.\n\nIncluded in the 1st volume of the Blu-ray/DVD releases. ",
+  "title": {
+    "en": "Grimgar, Ashes and Illusions Special",
+    "jp": "Hai to Gensou no Grimgar: Furo no Kabe ni Kaketa Seishun - One More Centimeter"
+  },
+  "releasedAt": "2016-03-16T00:00:00.000Z",
+  "finishedAt": "2016-03-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11790/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11790",
+    "anilist/anime": "21599",
+    "aozora": "B1dnKpJWxb",
+    "myanimelist/anime": "32561"
+  }
+}

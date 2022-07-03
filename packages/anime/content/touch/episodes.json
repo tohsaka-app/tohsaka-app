@@ -1,0 +1,921 @@
+[
+  {
+    "title": {
+      "jp": "Dare ga Nan to Iou to Oretachi Futago Desu!!"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/162521/original.jpg",
+    "releasedAt": "1985-03-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Women's intuition! Worried about Tatsuya's talent"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/162531/original.jpg",
+    "releasedAt": "1985-03-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Unexpectedly pitching for the first time! Kazuya's troublesome name!?"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/162542/original.jpg",
+    "releasedAt": "1985-04-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Did you see? Didn't you see?! Minami's diary!"
+    },
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/162555/original.jpg",
+    "releasedAt": "1985-04-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "High fever rally race! Such an accurate goal!?"
+    },
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/162565/original.jpg",
+    "releasedAt": "1985-04-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The rumour's true!? Minami & Kazuya's worried families"
+    },
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/162571/original.jpg",
+    "releasedAt": "1985-04-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Really! Tatsuya and Minami's wedding clothes!?"
+    },
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/162580/original.jpg",
+    "releasedAt": "1985-05-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tatsuya in a fight! The truth at the Kyodai showdown"
+    },
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/162587/original.jpg",
+    "releasedAt": "1985-05-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Be careful of Tatsuya & Harada's friendship!"
+    },
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/162595/original.jpg",
+    "releasedAt": "1985-05-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Everyone in the High School is worried!"
+    },
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/162601/original.jpg",
+    "releasedAt": "1985-05-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kitare baseball team! A subtle shift in Tatsuya's heart!"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1985-06-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "First practice! Vigorous Kazuya & worn-out Tatsuya!?"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1985-06-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kazuya worried! Dear Koutaru's slump"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1985-06-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Discontent? Minami & Kazuya are the best couple!?"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1985-06-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "This is trouble! Tatsuya slapped Minami!"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1985-06-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's painful! Kazuya's heart is lemon-colored!"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1985-07-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "First kiss! Too much love form Minami!?"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1985-07-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tatsuya's feelings are a little complex!"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1985-07-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Forget, forget-me-not!? The important memories of two people"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1985-08-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "What's that? Tatsuya's tender chance encounter!"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1985-08-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kat-chan wanted to make it to Koushien for Minami's sake"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1985-08-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Keep on playing ball! Kazuya vs. Terashima!"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1985-08-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Minami registered! She appeared!? Love's timely sudden change"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1985-09-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Almost Koushien of one person, Minami's dream of one person!"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1985-09-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Minami's longest day! Kat-chan, hurry up and come!"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1985-09-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "End of the match! However, without you..."
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1985-10-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A short summer ... Goodbye, Kat-chan!"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1985-10-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "There's no ace for the baseball team..."
+    },
+    "season": 2,
+    "number": 28,
+    "releasedAt": "1985-10-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "What? Tender Tat-chan's boxer status!?"
+    },
+    "season": 2,
+    "number": 29,
+    "releasedAt": "1985-10-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The odd circumstances how the glory of #1 came to be on his back"
+    },
+    "season": 2,
+    "number": 30,
+    "releasedAt": "1985-11-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tatsuya on the hill! Control is another story"
+    },
+    "season": 2,
+    "number": 31,
+    "releasedAt": "1985-11-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kazuya's dear wife, but the worry is about the stupid brother"
+    },
+    "season": 2,
+    "number": 32,
+    "releasedAt": "1985-11-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Birth of a rhythmic gymnastics star! Minami has a natural gift!?"
+    },
+    "season": 2,
+    "number": 33,
+    "releasedAt": "1985-11-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Good luck, Tatsuya! First game pitching makes the heart beat like a drum"
+    },
+    "season": 2,
+    "number": 34,
+    "releasedAt": "1985-12-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "One way or another you're cornered!? Current rumours of Minami!"
+    },
+    "season": 2,
+    "number": 35,
+    "releasedAt": "1985-12-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A couple! Minami & Tatsuya's dangerous night!?"
+    },
+    "season": 2,
+    "number": 36,
+    "releasedAt": "1985-12-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Aim for Koushien! The baseball club is in the middle of camp!"
+    },
+    "season": 2,
+    "number": 37,
+    "releasedAt": "1985-12-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "First round preliminaries! Strategist Tat-chan enters!?"
+    },
+    "season": 2,
+    "number": 38,
+    "releasedAt": "1985-12-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Show of competence! Cool Nitta and Tenacious Nishimura!"
+    },
+    "season": 2,
+    "number": 39,
+    "releasedAt": "1986-01-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Second round hot war! Tat-chan vs. Tenacious Nishimura"
+    },
+    "season": 2,
+    "number": 40,
+    "releasedAt": "1986-01-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "11th inning in the rain! Bases loaded with 2 outs! Batter Nishimura"
+    },
+    "season": 2,
+    "number": 41,
+    "releasedAt": "1986-01-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "One more extra inning!? The four-sided love affair about Minami"
+    },
+    "season": 2,
+    "number": 42,
+    "releasedAt": "1986-01-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shake up Tatsuya the ace! Minami & Nitta's dangerous relationship!?"
+    },
+    "season": 2,
+    "number": 43,
+    "releasedAt": "1986-02-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yuka's detective story! Where did Minami & Tatsuya go?"
+    },
+    "season": 2,
+    "number": 44,
+    "releasedAt": "1986-02-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Challenge to the ace! I'm Uesugi's rival!"
+    },
+    "season": 2,
+    "number": 45,
+    "releasedAt": "1986-02-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Rival declaration! Surpassing Uesugi Kazuya!"
+    },
+    "season": 2,
+    "number": 46,
+    "releasedAt": "1986-02-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Showdown with Sumiko! What? Pitcher Yoshida!"
+    },
+    "season": 2,
+    "number": 47,
+    "releasedAt": "1986-03-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Uesugi appears at last! Nitta, I'll be victorious!"
+    },
+    "season": 2,
+    "number": 48,
+    "releasedAt": "1986-03-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Brother, don't give up the top spot! Koushien's in sight!"
+    },
+    "season": 2,
+    "number": 49,
+    "releasedAt": "1986-03-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A date after school!? Minami & Nitta's dangerous relationship!"
+    },
+    "season": 2,
+    "number": 50,
+    "releasedAt": "1986-03-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Unacceptable!? Minami declares her love to Tatsuya!"
+    },
+    "season": 2,
+    "number": 51,
+    "releasedAt": "1986-03-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A love triangle! You're a bother!"
+    },
+    "season": 2,
+    "number": 52,
+    "releasedAt": "1986-04-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tatsuya's extracurricular lessons ... Thinking too much about love!"
+    },
+    "season": 2,
+    "number": 53,
+    "releasedAt": "1986-04-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Finally the last Koushien!"
+    },
+    "season": 2,
+    "number": 54,
+    "releasedAt": "1986-04-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Soushuuhen: Memories are too beautiful..."
+    },
+    "season": 2,
+    "number": 55,
+    "releasedAt": "1986-04-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Soushuuhen: Don't surrender the ace position to anyone!"
+    },
+    "season": 2,
+    "number": 56,
+    "releasedAt": "1986-05-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A puzzling new coach turns up!"
+    },
+    "season": 3,
+    "number": 57,
+    "releasedAt": "1986-05-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I'm Kashiwaba! I won't forgive the spoiled children!"
+    },
+    "season": 3,
+    "number": 58,
+    "releasedAt": "1986-05-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tempest at the Meisei baseball club! Another problem after Minami leaves"
+    },
+    "season": 3,
+    "number": 59,
+    "releasedAt": "1986-05-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hard-fighting new coach! Minami's still number one"
+    },
+    "season": 3,
+    "number": 60,
+    "releasedAt": "1986-06-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hey Kashiwaba! Minami is the bet in the contest!"
+    },
+    "season": 3,
+    "number": 61,
+    "releasedAt": "1986-06-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sepia-coloured couple! Minami & Nitta's beach story"
+    },
+    "season": 3,
+    "number": 62,
+    "releasedAt": "1986-06-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The secret behind the sunglasses! What kind of person is Kashiwaba?"
+    },
+    "season": 3,
+    "number": 63,
+    "releasedAt": "1986-06-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "No rules of the practice game! We're watching the demon manager"
+    },
+    "season": 3,
+    "number": 64,
+    "releasedAt": "1986-06-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Go for it, Minami. It's not suitable to give up!"
+    },
+    "season": 3,
+    "number": 65,
+    "releasedAt": "1986-07-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Minami is the student council president? An idol one way or another!"
+    },
+    "season": 3,
+    "number": 66,
+    "releasedAt": "1986-07-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Oh-oh, we're beginning to see! Coach Kashiwaba's true character!"
+    },
+    "season": 3,
+    "number": 67,
+    "releasedAt": "1986-07-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Stop Tatsuya! Yuka's forced dating strategy!"
+    },
+    "season": 3,
+    "number": 68,
+    "releasedAt": "1986-07-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Koushien dream! Don't rush your resignation!"
+    },
+    "season": 3,
+    "number": 69,
+    "releasedAt": "1986-08-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Summer is soon! How many more dropout troubles"
+    },
+    "season": 3,
+    "number": 70,
+    "releasedAt": "1986-08-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Summer camp starts! Evil coach is waiting!"
+    },
+    "season": 3,
+    "number": 71,
+    "releasedAt": "1986-08-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Scarier than the demon? Lady Yuka's cooking camp!"
+    },
+    "season": 3,
+    "number": 72,
+    "releasedAt": "1986-08-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chef Yuka! It's a long hard road to be a gourmet chef!"
+    },
+    "season": 3,
+    "number": 73,
+    "releasedAt": "1986-08-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Finally! Cooking battle between Minami & Yuka"
+    },
+    "season": 3,
+    "number": 74,
+    "releasedAt": "1986-09-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "End of the cooking trouble!? Secret taste is from Minami's spice"
+    },
+    "season": 3,
+    "number": 75,
+    "releasedAt": "1986-09-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Thinking of the floor exercise! Minami is waiting for Tatsuya!?"
+    },
+    "season": 3,
+    "number": 76,
+    "releasedAt": "1986-09-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "First match of the competition! Now summer is here!"
+    },
+    "season": 3,
+    "number": 77,
+    "releasedAt": "1986-10-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Combination 1: Asakura Minami is 18! Now is the time for youth!"
+    },
+    "season": 3,
+    "number": 78,
+    "releasedAt": "1986-10-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Combination 2: Fight Meisei! Kashiwaba doesn't scare us"
+    },
+    "season": 3,
+    "number": 79,
+    "releasedAt": "1986-10-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "First battle! We're not going to lose!"
+    },
+    "season": 4,
+    "number": 80,
+    "releasedAt": "1986-10-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "First battle is no problem! The real enemy is Kashiwaba!?"
+    },
+    "season": 4,
+    "number": 81,
+    "releasedAt": "1986-11-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I can see! Kashiwaba brother's secret"
+    },
+    "season": 4,
+    "number": 82,
+    "releasedAt": "1986-11-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "What will Tatsuya do in the second battle! Koutaro's big fix!"
+    },
+    "season": 4,
+    "number": 83,
+    "releasedAt": "1986-11-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yuka-chan in danger! Don't force the date so much"
+    },
+    "season": 4,
+    "number": 84,
+    "releasedAt": "1986-11-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Unforgettable showdown? Now he's back!"
+    },
+    "season": 4,
+    "number": 85,
+    "releasedAt": "1986-11-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I'm not going to lose the third battle. Show you the ace battle!"
+    },
+    "season": 4,
+    "number": 86,
+    "releasedAt": "1986-12-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Surprise!? Kashiwaba romance! Love this girl because she looks like Minami"
+    },
+    "season": 4,
+    "number": 87,
+    "releasedAt": "1986-12-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's not revenge!? No sign of the fourth battle!"
+    },
+    "season": 4,
+    "number": 88,
+    "releasedAt": "1986-12-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tatsuya's the ace? Under lots of pressure!?"
+    },
+    "season": 4,
+    "number": 89,
+    "releasedAt": "1986-12-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Round before the semi-finals! Meisei vs. 3 pitchers!?"
+    },
+    "season": 4,
+    "number": 90,
+    "releasedAt": "1987-01-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It's unexpected!? The game's not over yet!"
+    },
+    "season": 4,
+    "number": 91,
+    "releasedAt": "1987-01-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Distressing image pile up! Tatsuya's more than Minami expected!"
+    },
+    "season": 4,
+    "number": 92,
+    "releasedAt": "1987-01-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Here it comes!? Coach's order! Wounded heart, enduring Kashiwaba's program!"
+    },
+    "season": 4,
+    "number": 93,
+    "releasedAt": "1987-01-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "In the middle of the semi-finals! Tat-chan going for the big new record!"
+    },
+    "season": 4,
+    "number": 94,
+    "releasedAt": "1987-02-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Celebrate, victory of the finals! Our fate lies in Kashiwaba's hand!"
+    },
+    "season": 4,
+    "number": 95,
+    "releasedAt": "1987-02-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "One more to get to Koushien! Hope! Kazuya's promise"
+    },
+    "season": 4,
+    "number": 96,
+    "releasedAt": "1987-02-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Go go Meisei! Play ball to victory!"
+    },
+    "season": 4,
+    "number": 97,
+    "releasedAt": "1987-02-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Finals for whom!? Tatsuya, show you can do it!"
+    },
+    "season": 4,
+    "number": 98,
+    "releasedAt": "1987-03-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "No more chances!? It's coming! The Kashiwaba sign!"
+    },
+    "season": 4,
+    "number": 99,
+    "releasedAt": "1987-03-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Let's win Meisei! Koushien is waiting for us!"
+    },
+    "season": 4,
+    "number": 100,
+    "releasedAt": "1987-03-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "New starting line, from Uesugi Tatsuya to Asakura Minami..."
+    },
+    "season": 4,
+    "number": 101,
+    "releasedAt": "1987-03-22T00:00:00.000Z",
+    "content": {}
+  }
+]

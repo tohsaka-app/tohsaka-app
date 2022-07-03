@@ -1,0 +1,26 @@
+{
+  "slug": "shin-men",
+  "synopsis": "The spinoff is set in a parallel world known as Shin Jigen (Shin Dimension). The titular Shin-men team is composed of five heroes with supernatural powers symbolized by fire (Gou), water (Sui), wind (Hyuu), greenery (Nyoki), and iron (Kan). Together, they fight against their enemy, the evil pigs of Ton-Men.\n(Source: AniDB)",
+  "title": {
+    "jp": "Shin-Men"
+  },
+  "releasedAt": "2010-11-26T00:00:00.000Z",
+  "finishedAt": "2012-09-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5877/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5877",
+    "anidb": "8070",
+    "anilist/anime": "9799",
+    "aozora": "h2D5nQtV25",
+    "myanimelist/anime": "9799"
+  }
+}

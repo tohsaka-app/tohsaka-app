@@ -1,0 +1,28 @@
+{
+  "slug": "saiunkoku-monogatari-soushuuhen",
+  "synopsis": "Recaps of the first season of Saiunkoku Monogatari. Aired to bridge the time till the second season starts.",
+  "title": {
+    "jp": "Saiunkoku Monogatari Recaps"
+  },
+  "releasedAt": "2007-03-01T00:00:00.000Z",
+  "finishedAt": "2007-03-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1986/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "drama",
+    "fantasy",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1986",
+    "anilist/anime": "2193",
+    "aozora": "al9SFN7ayC",
+    "myanimelist/anime": "2193"
+  }
+}

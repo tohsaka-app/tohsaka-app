@@ -1,0 +1,26 @@
+{
+  "slug": "kenju-giga",
+  "synopsis": "A dog race is interrupted by a ringmaster, who attaches fish to the dog’s collars and makes them run in circles. The crowd is incensed, but the ringmaster insists that the audience is no better off than the dogs. In the end the ringmaster is assassinated and the race continues, but a single red rose sprouts from the ringmaster’s blood; a symbol of truth in a crazy world? \n-AniDB",
+  "title": {
+    "en": "Anthropo-Cynical Farce",
+    "jp": "Kenju Giga"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4917/original.jpg",
+  "categories": [
+    "parody",
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4917",
+    "anidb": "6989",
+    "anilist/anime": "7259",
+    "aozora": "JvIFFCxNXP",
+    "myanimelist/anime": "7259"
+  }
+}

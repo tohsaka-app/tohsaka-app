@@ -1,0 +1,24 @@
+{
+  "slug": "hana-no-asukagumi-2-lonely-cats-battle-royale",
+  "synopsis": "Second OVA of \"Hana no Asukagumi!\".",
+  "title": {
+    "jp": "Hana no Asukagumi! 2: Lonely Cats Battle Royale"
+  },
+  "releasedAt": "1990-03-23T00:00:00.000Z",
+  "finishedAt": "1990-03-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7612/original.jpg",
+  "categories": [
+    "adventure",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7612",
+    "anilist/anime": "17223",
+    "aozora": "FoOXXCYMXz",
+    "myanimelist/anime": "17223"
+  }
+}

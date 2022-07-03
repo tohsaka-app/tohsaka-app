@@ -1,0 +1,24 @@
+{
+  "slug": "yuki-no-hi-no-tayori",
+  "synopsis": "A music video for the song by Youko Yoda that was featured on NHK's Minna no Uta program.\nA little girl reminisces in winter of what spring will bring.",
+  "title": {
+    "jp": "Yuki no Hi no Tayori"
+  },
+  "releasedAt": "1978-02-01T00:00:00.000Z",
+  "finishedAt": "1978-02-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10628/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10628",
+    "anidb": "12601",
+    "anilist/anime": "103403",
+    "aozora": "ajI26QSExB",
+    "myanimelist/anime": "30075"
+  }
+}

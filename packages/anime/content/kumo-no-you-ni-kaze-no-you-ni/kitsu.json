@@ -1,0 +1,37 @@
+{
+  "slug": "kumo-no-you-ni-kaze-no-you-ni",
+  "synopsis": "Ginga, a small town girl sets out to become the Emperors Seihi, highest ranked wife, undaunted by the many other women who seek the same title. Her energetic and eccentric ways aid in her in meeting new people, training to be a Lady of the Emperor and dealing with the drama that ensues. \n(Source: ANN)",
+  "title": {
+    "en": "Like the Clouds, Like the Wind",
+    "jp": "Kumo no You ni Kaze no You ni"
+  },
+  "releasedAt": "1990-03-21T00:00:00.000Z",
+  "finishedAt": "1990-03-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/922/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/922/original.png",
+  "categories": [
+    "adventure",
+    "asia",
+    "china",
+    "drama",
+    "earth",
+    "historical",
+    "past",
+    "romance",
+    "samurai"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/GMEHMEJE0/Like-the-Clouds-Like-the-Wind",
+    "https://www.amazon.com/Like-Clouds-Wind-Ry%C5%8Dko-Sano/dp/B07RV1KWS4/ref=sr_1_1?crid=ZMSTJ9GEBR4U&keywords=like+the+clouds+like+the+wind&qid=1581046519&s=instant-video&sprefix=like+the+%2Cinstant-video%2C172&sr=1-1"
+  ],
+  "relations": {
+    "kitsu": "922",
+    "anidb": "502",
+    "anilist/anime": "1032",
+    "aozora": "OLWiMK6n26",
+    "myanimelist/anime": "1032"
+  }
+}

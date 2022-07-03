@@ -1,0 +1,25 @@
+{
+  "slug": "loups-garous-pilot",
+  "synopsis": "Pilot film included with the DVD release.",
+  "title": {
+    "jp": "Loups=Garous Pilot"
+  },
+  "releasedAt": "2010-08-28T00:00:00.000Z",
+  "finishedAt": "2010-08-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6798/original.jpg",
+  "categories": [
+    "mystery",
+    "science fiction",
+    "thriller"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6798",
+    "anilist/anime": "12723",
+    "aozora": "7Pi4DQ71tJ",
+    "myanimelist/anime": "12723"
+  }
+}

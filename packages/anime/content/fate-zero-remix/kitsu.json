@@ -1,0 +1,24 @@
+{
+  "slug": "fate-zero-remix",
+  "synopsis": "Two recap specials titled \"Fate/Zero Remix I\" and \"Fate/Zero Remix II\" serve to summarize the first 13 episodes of Fate/Zero.",
+  "title": {
+    "jp": "Fate/Zero Remix"
+  },
+  "releasedAt": "2012-03-25T00:00:00.000Z",
+  "finishedAt": "2012-04-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6906/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6906/original.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6906",
+    "aozora": "iJQJ3aXJm5",
+    "myanimelist/anime": "13183"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "sore-ike-anpanman-anpanman-to-oyakusoku",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Anpanman to Oyakusoku"
+  },
+  "releasedAt": "1998-02-01T00:00:00.000Z",
+  "finishedAt": "1998-03-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9605/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9605",
+    "anidb": "9938",
+    "anilist/anime": "121829",
+    "aozora": "2p1kudjepu",
+    "myanimelist/anime": "21973"
+  }
+}

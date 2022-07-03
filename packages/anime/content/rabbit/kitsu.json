@@ -1,0 +1,22 @@
+{
+  "slug": "rabbit",
+  "synopsis": "Music Video for \"Rabbit\" by LITE from \"For all the innocence\".\n\n(Source: YouTube)",
+  "title": {
+    "jp": "Rabbit"
+  },
+  "releasedAt": "2011-06-30T00:00:00.000Z",
+  "finishedAt": "2011-06-30T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14088/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14088",
+    "anilist/anime": "103788",
+    "myanimelist/anime": "36071"
+  }
+}

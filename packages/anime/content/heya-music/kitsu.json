@@ -1,0 +1,25 @@
+{
+  "slug": "heya-music",
+  "synopsis": "",
+  "title": {
+    "en": "The Room",
+    "jp": "Heya (Music)"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13823/original.jpe",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13823",
+    "anilist/anime": "110177",
+    "aozora": "gSocb7e3Af",
+    "myanimelist/anime": "34910"
+  }
+}

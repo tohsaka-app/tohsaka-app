@@ -1,0 +1,32 @@
+{
+  "slug": "hurricane-polymar-holy-blood",
+  "synopsis": "Remake of old superhero show of the same name.",
+  "title": {
+    "en": "Hurricane Polymar: Holy Blood",
+    "jp": "Shin Hurricane Polymar"
+  },
+  "releasedAt": "1996-09-21T00:00:00.000Z",
+  "finishedAt": "1997-02-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2983/original.jpg",
+  "categories": [
+    "action",
+    "detective",
+    "human enhancement",
+    "japan",
+    "martial arts",
+    "power suit",
+    "science fiction",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2983",
+    "anidb": "857",
+    "anilist/anime": "3398",
+    "aozora": "fWu56d9Tb6",
+    "myanimelist/anime": "3398"
+  }
+}

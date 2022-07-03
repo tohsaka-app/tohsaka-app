@@ -1,0 +1,26 @@
+{
+  "slug": "two-thousand-and-twenty-nyeon-ujuui-wonder-kiddy",
+  "synopsis": "",
+  "title": {
+    "en": "2020 Wonder Kiddy",
+    "jp": "2020 Nyeon Ujuui Wonder Kiddy"
+  },
+  "releasedAt": "1989-01-01T00:00:00.000Z",
+  "finishedAt": "1989-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7493/original.jpg",
+  "categories": [
+    "science fiction",
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7493",
+    "anidb": "9707",
+    "anilist/anime": "16696",
+    "aozora": "42YjscVBWn",
+    "myanimelist/anime": "16696"
+  }
+}

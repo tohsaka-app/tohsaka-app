@@ -1,0 +1,24 @@
+{
+  "slug": "face-myself",
+  "synopsis": "Graduation work of Yuki Koyama at Tama Art University.",
+  "title": {
+    "en": "face myself",
+    "jp": "face myself"
+  },
+  "releasedAt": "2015-01-01T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45923/poster_image/2314edeb642e1a3b39e715fb25e61908.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/gBJWSsWOWYU"
+  ],
+  "relations": {
+    "kitsu": "45923",
+    "anilist/anime": "145445"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "mo-jing-lieren",
+  "synopsis": "The series takes place on a fantastical world where crystals can provide great strength. Their value has led to to the rise of a unique profession: crystal hunting.",
+  "title": {
+    "en": "Armored Adventure",
+    "jp": "Mo Jing Lieren"
+  },
+  "releasedAt": "2014-08-28T00:00:00.000Z",
+  "finishedAt": "2015-02-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12619/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12619",
+    "anilist/anime": "104592",
+    "aozora": "RfgaddhpoR",
+    "myanimelist/anime": "33602"
+  }
+}

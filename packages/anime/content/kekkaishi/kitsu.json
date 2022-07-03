@@ -1,0 +1,42 @@
+{
+  "slug": "kekkaishi",
+  "synopsis": "Yoshimura Sumimura comes from a long line of \"Kekkaishi,\" individuals who have supernatural abilities and are able to destroy evil creatures called Ayakashi that venture into the human realm from time to time. The Ayakashi are demons that look to feast on the power emanating from the land of Karasumori, which also happens to be where Yoshimura's high school is located. Now, Yoshimura must fight to protect his beloved school and hometown. Although, if it were up to him, he would rather be baking cakes than fighting off the ugly characters that show up at night.\nThankfully, Yoshimura isn't the only one helping to keep the baddies at bay. His childhood friend and neighbor, Tokine Yukimura, joins him in this righteous battle. Despite the fact that they are from rival clans, these two make a fantastic team. And teamwork is something vital to fighting the evil that is closing in, as the Ayakashi attack in waves, looking to claim the land as their own, and a shadowy organization looks on, ready to pounce when the time is right...",
+  "title": {
+    "en": "Kekkaishi",
+    "jp": "Kekkaishi"
+  },
+  "releasedAt": "2006-10-16T00:00:00.000Z",
+  "finishedAt": "2008-02-05T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1445/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "comedy",
+    "contemporary fantasy",
+    "demon",
+    "earth",
+    "fantasy",
+    "japan",
+    "plot continuity",
+    "present",
+    "super power"
+  ],
+  "externals": [
+    "http://www.hulu.com/kekkaishi"
+  ],
+  "relations": {
+    "kitsu": "1445",
+    "anidb": "4574",
+    "anilist/anime": "1606",
+    "aozora": "B4SzgKE6dZ",
+    "hulu": "50000593",
+    "myanimelist/anime": "1606",
+    "thetvdb": "80921/1",
+    "thetvdb/series": "80921",
+    "trakt": "31541"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "youki-ni-utaeba",
+  "synopsis": "The Japanese version of the Mexican folk song Las Chiapanecas, believed to be composed by Bulmaro López Fernández, with lyrics later added by Juan Arozamena. The video was animated by Yoji Kuri, accompanied by Japanese male chorus group Dark Ducks.",
+  "title": {
+    "jp": "Youki ni Utaeba"
+  },
+  "releasedAt": "1964-12-11T00:00:00.000Z",
+  "finishedAt": "1964-12-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46216/poster_image/fc63ea578155f20aa10609d9d2edf4bf.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46216",
+    "myanimelist/anime": "39874"
+  }
+}

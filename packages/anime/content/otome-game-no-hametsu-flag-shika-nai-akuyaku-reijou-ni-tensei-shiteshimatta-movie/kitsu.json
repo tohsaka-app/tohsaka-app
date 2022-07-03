@@ -1,0 +1,31 @@
+{
+  "slug": "otome-game-no-hametsu-flag-shika-nai-akuyaku-reijou-ni-tensei-shiteshimatta-movie",
+  "synopsis": null,
+  "title": {
+    "en": "My Next Life as a Villainess: All Routes Lead to Doom! Movie",
+    "jp": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… Movie"
+  },
+  "releasedAt": "2023-12-31T00:00:00.000Z",
+  "finishedAt": "2023-12-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45213/poster_image/79718b5f360de9d48f72ab83065d8d79.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "josei",
+    "magic",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45213",
+    "anilist/anime": "139359",
+    "myanimelist/anime": "49842"
+  }
+}

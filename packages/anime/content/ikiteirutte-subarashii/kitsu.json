@@ -1,0 +1,23 @@
+{
+  "slug": "ikiteirutte-subarashii",
+  "synopsis": "A Toei film directed by Yabuki Kimio.",
+  "title": {
+    "jp": "Ikiteirutte Subarashii!"
+  },
+  "releasedAt": "1972-01-01T00:00:00.000Z",
+  "finishedAt": "1972-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10397/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10397",
+    "anilist/anime": "109345",
+    "aozora": "2tlpgaZcFs",
+    "myanimelist/anime": "29814"
+  }
+}

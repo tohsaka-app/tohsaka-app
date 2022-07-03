@@ -1,0 +1,43 @@
+{
+  "slug": "excel-saga",
+  "synopsis": "Hyperactive Excel does anything and everything to try to please her lord, Il Palazzo, who wants to take over the planet. Excel's misadventures takes her and her partner, the ever-dying Hyatt, all over the world, meeting several strange people as they go. Everything is bizarre and goofy, as any kind of anime or entertainment genre gets mocked and spoofed.\n(Source: ANN)",
+  "title": {
+    "en": "Excel Saga",
+    "jp": "Heppoko Jikken Animation Excel♥Saga"
+  },
+  "releasedAt": "1999-10-08T00:00:00.000Z",
+  "finishedAt": "2000-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/346/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/346/original.jpg",
+  "categories": [
+    "action",
+    "breaking the fourth wall",
+    "comedy",
+    "japan",
+    "parody",
+    "present",
+    "satire",
+    "science fiction",
+    "slapstick",
+    "stereotypes",
+    "super deformed"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/excel-saga/videos/episodes",
+    "http://www.hulu.com/excel-saga"
+  ],
+  "relations": {
+    "kitsu": "346",
+    "anidb": "25",
+    "anilist/anime": "379",
+    "aozora": "mNLPdvIiDH",
+    "hulu": "50003332",
+    "myanimelist/anime": "379",
+    "thetvdb": "72462/1",
+    "thetvdb/series": "72462",
+    "trakt": "9471"
+  }
+}

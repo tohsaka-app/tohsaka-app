@@ -1,0 +1,30 @@
+{
+  "slug": "hyouka-motsubeki-mono-wa",
+  "synopsis": "Episode 11.5, an OVA bundled with the third volume of the manga. Oreki Houtarou gets a job at a swimming pool.",
+  "title": {
+    "en": "Hyouka: What Should Be Had",
+    "jp": "Hyouka: Motsubeki Mono wa"
+  },
+  "releasedAt": "2012-07-08T00:00:00.000Z",
+  "finishedAt": "2012-07-08T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6974/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6974/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6974",
+    "anidb": "9102",
+    "anilist/anime": "13469",
+    "aozora": "ZVNDRVxRJv",
+    "myanimelist/anime": "13469"
+  }
+}

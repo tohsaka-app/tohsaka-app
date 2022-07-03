@@ -1,0 +1,24 @@
+{
+  "slug": "sket-dance-sd-character-flash-anime",
+  "synopsis": "The SD Character Flash Anime is a special addition to the anime series' official website. Each \"episode\" features a different character, drawn in a super-deformed style, set to a song sung by the character's seiyuu.",
+  "title": {
+    "jp": "SKET Dance: SD Character Flash Anime"
+  },
+  "releasedAt": "2011-03-07T00:00:00.000Z",
+  "finishedAt": "2011-10-14T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7497/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7497",
+    "anilist/anime": "16718",
+    "aozora": "zMouDbODWm",
+    "myanimelist/anime": "16718"
+  }
+}

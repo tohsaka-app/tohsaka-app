@@ -1,0 +1,24 @@
+{
+  "slug": "spiral-tones",
+  "synopsis": "MV for the song spiral tones from Morikka.\n\nRikka (Hollostars)＆ Mori Calliope (HololiveEN)",
+  "title": {
+    "en": "spiral tones",
+    "jp": "spiral tones"
+  },
+  "releasedAt": "2021-05-10T00:00:00.000Z",
+  "finishedAt": "2021-05-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44546/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=5HWCMh1ZmzE"
+  ],
+  "relations": {
+    "kitsu": "44546"
+  }
+}

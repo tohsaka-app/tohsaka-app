@@ -1,0 +1,32 @@
+{
+  "slug": "ano-hi-bokura-wa-senjou-de-shounenhei-no-kokuhaku",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Ano Hi, Bokura wa Senjou de: Shounenhei no Kokuhaku"
+  },
+  "releasedAt": "2015-08-11T00:00:00.000Z",
+  "finishedAt": "2015-08-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11693/original.jpg",
+  "categories": [
+    "asia",
+    "disaster",
+    "drama",
+    "earth",
+    "historical",
+    "japan",
+    "past",
+    "war",
+    "world war ii"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11693",
+    "anidb": "11538",
+    "aozora": "U1mIHEv5Kp",
+    "myanimelist/anime": "31563"
+  }
+}

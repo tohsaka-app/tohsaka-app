@@ -1,0 +1,25 @@
+{
+  "slug": "momotarou-no-hi-asobi-yameyou-hi-no-youjin",
+  "synopsis": "An educational \"don't play with fire\" safety video for kids featuring characters from the classic Momotarou folktale.",
+  "title": {
+    "jp": "Momotarou no Hi Asobi Yameyou! Hi no Youjin"
+  },
+  "releasedAt": "2013-01-01T00:00:00.000Z",
+  "finishedAt": "2013-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10126/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10126",
+    "aozora": "inMLDrom6l",
+    "myanimelist/anime": "28553"
+  }
+}

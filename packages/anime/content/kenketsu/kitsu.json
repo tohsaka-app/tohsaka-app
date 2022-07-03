@@ -1,0 +1,22 @@
+{
+  "slug": "kenketsu",
+  "synopsis": "A Japanese Red Cross Society commissioned work promoting blood donations by helping people overcome their fear of the process.",
+  "title": {
+    "jp": "Kenketsu"
+  },
+  "releasedAt": "2019-03-19T00:00:00.000Z",
+  "finishedAt": "2019-03-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44467/original.jpg",
+  "categories": [
+    "music",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44467",
+    "myanimelist/anime": "39564"
+  }
+}

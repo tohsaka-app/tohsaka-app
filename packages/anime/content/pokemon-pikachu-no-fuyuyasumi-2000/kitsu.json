@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-pikachu-no-fuyuyasumi-2000",
+  "synopsis": "Pikachu's Winter Vacations are three series of videos, each composed of several Pikachu shorts. All shorts deal with winter and Christmas. This is the second series and contains Winter Games &amp; Stantler's Little Helpers.",
+  "title": {
+    "en": "Pokemon: Pikachu's Winter Vacation (2000)",
+    "jp": "Pokemon: Pikachu no Fuyuyasumi (2000)"
+  },
+  "releasedAt": "1999-12-22T00:00:00.000Z",
+  "finishedAt": "1999-12-22T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6404/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6404",
+    "anidb": "3492",
+    "anilist/anime": "10916",
+    "aozora": "mNuIzNUlAA",
+    "myanimelist/anime": "10916"
+  }
+}

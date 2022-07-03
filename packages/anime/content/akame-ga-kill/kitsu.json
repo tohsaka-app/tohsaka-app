@@ -1,0 +1,40 @@
+{
+  "slug": "akame-ga-kill",
+  "synopsis": "Under the rule of a tyrannical empire, Tatsumi, a young swordsman, leaves his home to save his poverty stricken village. He meets a girl named Akame, an assassin who was bought, brainwashed and trained to kill by the Empire. Akame is a member of the secret assassin group called “Night Raid” who use special weapons called Teigu. Together, Tatsumi and the members of Night Raid confront the corrupt empire.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Akame ga Kill!",
+    "jp": "Akame ga Kill!"
+  },
+  "releasedAt": "2014-07-07T00:00:00.000Z",
+  "finishedAt": "2014-12-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8270/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8270/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "military",
+    "super power",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/akame-ga-kill",
+    "http://www.hulu.com/akame-ga-kill",
+    "https://www.hidive.com/tv/akame-ga-kill"
+  ],
+  "relations": {
+    "kitsu": "8270",
+    "anidb": "10407",
+    "anilist/anime": "20613",
+    "aozora": "67ZCxfnKFo",
+    "hulu": "50017300",
+    "myanimelist/anime": "22199",
+    "thetvdb": "280329/1",
+    "thetvdb/series": "280329",
+    "trakt": "60731"
+  }
+}

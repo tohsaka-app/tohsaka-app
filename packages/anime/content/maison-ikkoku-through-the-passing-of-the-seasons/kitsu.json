@@ -1,0 +1,32 @@
+{
+  "slug": "maison-ikkoku-through-the-passing-of-the-seasons",
+  "synopsis": "A recap of the Maison Ikkoku series that focuses on the relationship between Godai and Kyoko. The entire special is taken from footage of the TV series.",
+  "title": {
+    "jp": "Maison Ikkoku: Utsuriyuku Kisetsu no Naka de"
+  },
+  "releasedAt": "1988-12-21T00:00:00.000Z",
+  "finishedAt": "1988-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3043/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "coming of age",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "seinen",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3043",
+    "anidb": "7963",
+    "anilist/anime": "3483",
+    "aozora": "BHoxGsw3Po",
+    "myanimelist/anime": "3483"
+  }
+}

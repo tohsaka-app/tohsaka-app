@@ -1,0 +1,19 @@
+{
+  "slug": "doraemon-eigo-kyoshitsu",
+  "synopsis": "",
+  "title": {
+    "jp": "Doraemon Eigo Kyōshitsu"
+  },
+  "releasedAt": "1988-01-01T00:00:00.000Z",
+  "finishedAt": "1988-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41615/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41615",
+    "myanimelist/anime": "36287"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "black-jack-the-movie",
+  "synopsis": "Joe Carol Brane attempts to hire Dr. Black Jack on a breed of superhumans that have the strength, intellectual, athletic, and artistic skills with great excel in different fields, only to later find out that they start deteriorating after some period of time and causing an untimely death. Joe needs Dr. Black Jack's help on finding a cure. \n(Source: ANN)",
+  "title": {
+    "jp": "Black Jack the Movie"
+  },
+  "releasedAt": "1996-11-30T00:00:00.000Z",
+  "finishedAt": "1996-11-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1365/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1365/original.jpg",
+  "categories": [
+    "detective",
+    "earth",
+    "future",
+    "human enhancement",
+    "mystery"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/black-jack-the-movie"
+  ],
+  "relations": {
+    "kitsu": "1365",
+    "anidb": "686",
+    "anilist/anime": "1521",
+    "aozora": "8uRBGRh3hh",
+    "myanimelist/anime": "1521"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "jigueseo-chikyuu-no-sora-no-shita-de",
+  "synopsis": "Music video for the song Jigueseo Chikyuu no Sora no Shita de by Korean singer-songwriter and composer Yoo Hae Jun that was featured on NHK's Minna no Uta program. The video was animated by Azuru Isshiki and features photography by Ken Domon and Kim Ki-chan. It was also released on DVD by Pony Canyon that same month.",
+  "title": {
+    "jp": "Jigueseo Chikyuu no Sora no Shita de"
+  },
+  "releasedAt": "2006-04-01T00:00:00.000Z",
+  "finishedAt": "2006-04-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43135/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43135",
+    "anilist/anime": "128060",
+    "myanimelist/anime": "41656"
+  }
+}

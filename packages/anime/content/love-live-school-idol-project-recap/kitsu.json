@@ -1,0 +1,25 @@
+{
+  "slug": "love-live-school-idol-project-recap",
+  "synopsis": "Narrated recap of the Love Live! School Idol Project series included on the official  Blu-ray fandisc release.",
+  "title": {
+    "jp": "Love Live! School Idol Project Recap"
+  },
+  "releasedAt": "2013-12-25T00:00:00.000Z",
+  "finishedAt": "2013-12-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8768/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8768/original.jpg",
+  "categories": [
+    "music",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8768",
+    "aozora": "vpQodvsmHj",
+    "myanimelist/anime": "21853"
+  }
+}

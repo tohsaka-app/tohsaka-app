@@ -1,0 +1,50 @@
+{
+  "slug": "mahoromatic",
+  "synopsis": "Vesper is a secret agency fighting an army of alien invaders by using super-powerful battle androids. Mahoro is Vesper's most powerful battle android and has won many battles, but she has little operating time left and soon will cease to function. However, if she lays down her arms and conserves her remaining power, the time she has left can be prolonged to just over a year. Mahoro is given an opportunity to live the remaining time she has as a normal human. She chooses to live as a maid for Suguru, a phenomenally messy middle school student who lives by himself after his family passed away.\n(Source: ANN)",
+  "title": {
+    "en": "Mahoromatic: Automatic Maiden",
+    "jp": "Mahoromatic: Automatic Maiden"
+  },
+  "releasedAt": "2001-10-05T00:00:00.000Z",
+  "finishedAt": "2001-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/251/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/251/original.jpg",
+  "categories": [
+    "android",
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "japan",
+    "maid",
+    "mecha",
+    "middle school",
+    "military",
+    "present",
+    "romance",
+    "school life",
+    "science fiction",
+    "slapstick",
+    "slice of life",
+    "stereotypes"
+  ],
+  "externals": [
+    "http://www.hulu.com/mahoromatic-automatic-maiden",
+    "https://www.hidive.com/tv/mahoromatic-automatic-maiden"
+  ],
+  "relations": {
+    "kitsu": "251",
+    "anidb": "109",
+    "anilist/anime": "276",
+    "aozora": "ZQaJonA0a0",
+    "hulu": "50014769",
+    "myanimelist/anime": "276",
+    "thetvdb": "79035/1",
+    "thetvdb/season": "16726",
+    "thetvdb/series": "79035",
+    "trakt": "42497"
+  }
+}

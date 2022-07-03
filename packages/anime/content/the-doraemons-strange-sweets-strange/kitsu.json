@@ -1,0 +1,25 @@
+{
+  "slug": "the-doraemons-strange-sweets-strange",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "The☆Doraemons: Strange, Sweets, Strange?"
+  },
+  "releasedAt": "1999-03-06T00:00:00.000Z",
+  "finishedAt": "1999-03-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2392/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2392",
+    "anidb": "7764",
+    "anilist/anime": "2628",
+    "aozora": "ueEdFY492f",
+    "myanimelist/anime": "2628"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "aishite-aishite-aishite",
+  "synopsis": "Music video for Kikuo's Vocaloid song Aishite Aishite Aishite.",
+  "title": {
+    "en": "Love Me Love Me Love Me",
+    "jp": "Aishite Aishite Aishite"
+  },
+  "releasedAt": "2015-03-06T00:00:00.000Z",
+  "finishedAt": "2015-03-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43515/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=NTrm_idbhUk"
+  ],
+  "relations": {
+    "kitsu": "43515",
+    "anilist/anime": "136614",
+    "myanimelist/anime": "40914"
+  }
+}

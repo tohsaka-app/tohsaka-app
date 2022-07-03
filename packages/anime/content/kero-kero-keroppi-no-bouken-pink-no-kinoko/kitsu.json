@@ -1,0 +1,27 @@
+{
+  "slug": "kero-kero-keroppi-no-bouken-pink-no-kinoko",
+  "synopsis": "In search of a pink mushroom to heal a brother's sickness.",
+  "title": {
+    "en": "Keroppi in Find the Pink Mushroom",
+    "jp": "Kero Kero Keroppi no Bouken: Pink no Kinoko"
+  },
+  "releasedAt": "1993-06-21T00:00:00.000Z",
+  "finishedAt": "1993-06-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9014/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9014",
+    "anidb": "7868",
+    "anilist/anime": "18087",
+    "aozora": "Bi1EDDBF3Z",
+    "myanimelist/anime": "18087"
+  }
+}

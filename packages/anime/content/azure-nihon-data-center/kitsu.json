@@ -1,0 +1,22 @@
+{
+  "slug": "azure-nihon-data-center",
+  "synopsis": "Microsoft's promotional anime for Windows Azure featuring the OS-tan Claudia Madobe.",
+  "title": {
+    "jp": "Azure Nihon Data Center"
+  },
+  "releasedAt": "2014-02-25T00:00:00.000Z",
+  "finishedAt": "2014-02-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11699/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11699",
+    "aozora": "gVFTG6gZXk",
+    "myanimelist/anime": "32377"
+  }
+}

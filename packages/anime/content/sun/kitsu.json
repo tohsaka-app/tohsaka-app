@@ -1,0 +1,25 @@
+{
+  "slug": "sun",
+  "synopsis": "Music video directed by Kakeru Mizui for the song SUN by instrumental band tio in their 10th anniversary album \"Tiny Island Orchestra.\"",
+  "title": {
+    "en": "Sun",
+    "jp": "SUN"
+  },
+  "releasedAt": "2018-06-12T00:00:00.000Z",
+  "finishedAt": "2018-06-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43129/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=O2DkSeHYpOM"
+  ],
+  "relations": {
+    "kitsu": "43129",
+    "anilist/anime": "114126",
+    "myanimelist/anime": "39219"
+  }
+}

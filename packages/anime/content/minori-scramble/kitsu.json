@@ -1,0 +1,30 @@
+{
+  "slug": "minori-scramble",
+  "synopsis": "Tamaki is an elementary school girl. Her father Dr. Yagiyama loves penguins and his excessive lectures about penguins makes Tamaki hate them. In order to get rid of her hatred of penguins, he engineers the penguin-roid \"Minori\". Tamaki and Minori run about the neighborhood to solve troubles caused by her father.",
+  "title": {
+    "jp": "Minori Scramble!"
+  },
+  "releasedAt": "2012-02-15T00:00:00.000Z",
+  "finishedAt": "2012-02-15T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5773/original.jpg",
+  "categories": [
+    "action",
+    "android",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5773",
+    "anidb": "7960",
+    "anilist/anime": "9523",
+    "aozora": "qgU2qEDVmJ",
+    "myanimelist/anime": "9523"
+  }
+}

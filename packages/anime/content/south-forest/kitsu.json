@@ -1,0 +1,26 @@
+{
+  "slug": "south-forest",
+  "synopsis": "The Gaza Strip is at war. A little girl feeds the deprived, helpless animals in an abandoned zoo when suddenly, an air raid strikes.\n\nGraduate Work 2017, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "South Forest",
+    "jp": "South Forest"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/45051/original.jpg",
+  "categories": [
+    "anti war",
+    "psychological",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/mBANKSPCau0"
+  ],
+  "relations": {
+    "kitsu": "45051",
+    "anilist/anime": "114339"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "dr-stone-ryusui",
+  "synopsis": "A television special that is set after the second season and will center around Ryuusui Nanami.",
+  "title": {
+    "en": "Dr. STONE: Ryusui",
+    "jp": "Dr. STONE: Ryuusui"
+  },
+  "releasedAt": "2022-07-10T00:00:00.000Z",
+  "finishedAt": "2022-07-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "upcoming",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45615/poster_image/e80f90bc692c4513b1fb84792897b912.png",
+  "coverUrl": "https://media.kitsu.io/anime/45615/cover_image/444a4736eff4f41e328ec5ece2a516a0.png",
+  "categories": [
+    "adventure",
+    "comedy",
+    "science fiction",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45615",
+    "anilist/anime": "142876",
+    "myanimelist/anime": "50612"
+  }
+}

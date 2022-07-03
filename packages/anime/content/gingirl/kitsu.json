@@ -1,0 +1,22 @@
+{
+  "slug": "gingirl",
+  "synopsis": "An independent production by Rabbit MACHINE. A school girl with galaxy hair flies through space.",
+  "title": {
+    "jp": "Gingirl"
+  },
+  "releasedAt": "2016-10-28T00:00:00.000Z",
+  "finishedAt": "2016-10-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41814/original.jpg",
+  "categories": [
+    "space"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41814",
+    "anilist/anime": "104336",
+    "myanimelist/anime": "37550"
+  }
+}

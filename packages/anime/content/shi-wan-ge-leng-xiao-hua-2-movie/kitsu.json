@@ -1,0 +1,20 @@
+{
+  "slug": "shi-wan-ge-leng-xiao-hua-2-movie",
+  "synopsis": "",
+  "title": {
+    "jp": "Shi Wan Ge Leng Xiao Hua 2 (movie)"
+  },
+  "releasedAt": "2017-08-18T00:00:00.000Z",
+  "finishedAt": "2017-08-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41631/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41631",
+    "anilist/anime": "103359",
+    "myanimelist/anime": "36619"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "shuumatsu-no-valkyrie-mini-anime",
+  "synopsis": "Chibi shorts for Record of Ragnarok published on Twitter and YouTube.",
+  "title": {
+    "en": "Record of Ragnarok Mini Anime",
+    "jp": "Shuumatsu no Walküre Mini Anime"
+  },
+  "releasedAt": "2021-07-27T00:00:00.000Z",
+  "finishedAt": "2021-10-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44953/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "seinen",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44953",
+    "anilist/anime": "138106",
+    "myanimelist/anime": "49507"
+  }
+}

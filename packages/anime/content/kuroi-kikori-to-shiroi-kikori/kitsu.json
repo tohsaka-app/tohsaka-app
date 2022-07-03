@@ -1,0 +1,25 @@
+{
+  "slug": "kuroi-kikori-to-shiroi-kikori",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "en": "The Black Woodcutter and the White Woodcutter",
+    "jp": "Kuroi Kikori to Shiroi Kikori"
+  },
+  "releasedAt": "1956-07-01T00:00:00.000Z",
+  "finishedAt": "1956-07-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5022/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5022",
+    "anidb": "3599",
+    "anilist/anime": "7532",
+    "aozora": "ex6HIScN7F",
+    "myanimelist/anime": "7532"
+  }
+}

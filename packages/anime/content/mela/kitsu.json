@@ -1,0 +1,26 @@
+{
+  "slug": "mela",
+  "synopsis": "Music video for the song Mela! by Ryokuoushoku Shakai.\n\nA wolf goes out at night, and rescues a girl from some sleazy pigs. They later fall in love.",
+  "title": {
+    "en": "Mela!",
+    "jp": "Mela!"
+  },
+  "releasedAt": "2020-04-13T00:00:00.000Z",
+  "finishedAt": "2020-04-13T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44763/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44763/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/aRDURmIYBZ4"
+  ],
+  "relations": {
+    "kitsu": "44763",
+    "anilist/anime": "135722",
+    "myanimelist/anime": "43435"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "beyblade-burst-god",
+  "synopsis": "Second season of the Burst series and the ninth season of Beyblade.\n",
+  "title": {
+    "jp": "Beyblade Burst God"
+  },
+  "releasedAt": "2017-04-03T00:00:00.000Z",
+  "finishedAt": "2018-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13510/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13510",
+    "anilist/anime": "98289",
+    "aozora": "fYmpsqbUBi",
+    "myanimelist/anime": "34901"
+  }
+}

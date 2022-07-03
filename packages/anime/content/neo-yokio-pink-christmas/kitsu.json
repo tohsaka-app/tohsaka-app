@@ -1,0 +1,27 @@
+{
+  "slug": "neo-yokio-pink-christmas",
+  "synopsis": "Sing in me muse, and through me tell the story of that elegant young man who battled demons and celebrated Christmas in the greatest city in the world, Neo Yokio.\n\n(Source: Netflix)",
+  "title": {},
+  "releasedAt": "2018-12-07T00:00:00.000Z",
+  "finishedAt": "2018-12-07T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42003/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42003/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "future",
+    "mecha",
+    "robot",
+    "robot helper",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80152350"
+  ],
+  "relations": {
+    "kitsu": "42003"
+  }
+}

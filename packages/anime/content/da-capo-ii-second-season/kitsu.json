@@ -1,0 +1,36 @@
+{
+  "slug": "da-capo-ii-second-season",
+  "synopsis": "The story continues where it left off at season 1, but now we start to get to know the people we already know a little more in detail.\n(Source: ANN)",
+  "title": {
+    "jp": "D.C.II S.S.: Da Capo II Second Season"
+  },
+  "releasedAt": "2008-04-06T00:00:00.000Z",
+  "finishedAt": "2008-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3151/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "drama",
+    "earth",
+    "fantasy",
+    "harem",
+    "japan",
+    "present",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3151",
+    "anidb": "5652",
+    "anilist/anime": "3627",
+    "aozora": "TbyIRV5MbD",
+    "myanimelist/anime": "3627",
+    "thetvdb": "84371/2",
+    "thetvdb/season": "38880",
+    "thetvdb/series": "84371",
+    "trakt": "63507"
+  }
+}

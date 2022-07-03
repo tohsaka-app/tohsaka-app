@@ -1,0 +1,24 @@
+{
+  "slug": "lilt",
+  "synopsis": "Let's go, \nLet's go, \n\nLet's go to the starrrrrrrrrrrrrrrrrrrr.... \n\nLet's go. \n\n(Source: Official site)",
+  "title": {
+    "en": "Lilt",
+    "jp": "Lilt"
+  },
+  "releasedAt": "2010-02-08T00:00:00.000Z",
+  "finishedAt": "2010-02-08T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13837/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13837",
+    "anilist/anime": "103347",
+    "aozora": "Xhd2NZCwSX",
+    "myanimelist/anime": "36281"
+  }
+}

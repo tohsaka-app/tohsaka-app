@@ -1,0 +1,34 @@
+{
+  "slug": "tensei-shitara-slime-datta-ken",
+  "synopsis": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "That Time I Got Reincarnated as a Slime",
+    "jp": "Tensei shitara Slime Datta Ken"
+  },
+  "releasedAt": "2018-10-02T00:00:00.000Z",
+  "finishedAt": "2019-03-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41024/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41024/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "harem",
+    "isekai",
+    "shounen"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/that-time-i-got-reincarnated-as-a-slime",
+    "https://www.funimation.com/shows/that-time-i-got-reincarnated-as-a-slime/"
+  ],
+  "relations": {
+    "kitsu": "41024",
+    "anidb": "13871",
+    "anilist/anime": "101280",
+    "myanimelist/anime": "37430"
+  }
+}

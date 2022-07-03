@@ -1,0 +1,19 @@
+{
+  "slug": "kansatsu-pokemon-zukan",
+  "synopsis": "What kind of life do Pokemon have? Let's secretly try it!\n\n(Source: Official YouTube Channel)",
+  "title": {
+    "jp": "Kansatsu! Pokemon Zukan"
+  },
+  "releasedAt": "2020-10-23T00:00:00.000Z",
+  "finishedAt": "2020-12-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46198/poster_image/b0d710a859dc39422480def8d0d650db.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "46198",
+    "myanimelist/anime": "51888"
+  }
+}

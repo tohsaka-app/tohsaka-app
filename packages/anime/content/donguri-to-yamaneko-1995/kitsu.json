@@ -1,0 +1,25 @@
+{
+  "slug": "donguri-to-yamaneko-1995",
+  "synopsis": "A retelling of Miyazawa Kenji's story of The Acorns and the Wildcat.",
+  "title": {
+    "jp": "Donguri to Yamaneko (1995)"
+  },
+  "releasedAt": "1995-01-01T00:00:00.000Z",
+  "finishedAt": "1995-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9247/original.jpg",
+  "categories": [
+    "demon",
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9247",
+    "anilist/anime": "118675",
+    "aozora": "skjGGejE7e",
+    "myanimelist/anime": "26301"
+  }
+}

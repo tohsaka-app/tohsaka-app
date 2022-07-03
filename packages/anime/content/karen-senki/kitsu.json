@@ -1,0 +1,30 @@
+{
+  "slug": "karen-senki",
+  "synopsis": "In the post-apocalyptic aftermath of a war between machines and their creators, machines rule while humans exist in a state of servitude. Titular character Karen leads Resistance Group 11, an eclectic group of humans who find themselves fighting for their lives as they are hunted by the robots in each episode. Is this the end of humanity? Are they fighting a losing battle?\nThrough Karen, we delve into a struggle between right and wrong, between indifference and love that explores some of the deepest questions about humanity. What is the difference between a thinking machine and a human being? What is a soul?\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Karen Senki"
+  },
+  "releasedAt": "2014-09-27T00:00:00.000Z",
+  "finishedAt": "2014-12-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9100/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9100/original.png",
+  "categories": [
+    "action",
+    "gunfights",
+    "science fiction",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9100",
+    "anidb": "10832",
+    "anilist/anime": "98745",
+    "aozora": "XBWLmrerDZ",
+    "myanimelist/anime": "27503",
+    "thetvdb": "286364/1",
+    "thetvdb/series": "286364"
+  }
+}

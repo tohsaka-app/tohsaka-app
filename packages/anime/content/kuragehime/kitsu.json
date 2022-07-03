@@ -1,0 +1,39 @@
+{
+  "slug": "kuragehime",
+  "synopsis": "Tsukimi and her wallflower friends are hopeless nerds with bizarre hobbies. Their crippling social anxieties keep them from setting foot outside the all-girl apartment complex they inhabit, but a late night jellyfish rescue mission and the arrival of a “Stylish Girl” are about to turn their lives upside down!\n\n(Source: Funimation)",
+  "title": {
+    "en": "Princess Jellyfish",
+    "jp": "Kuragehime"
+  },
+  "releasedAt": "2010-10-15T00:00:00.000Z",
+  "finishedAt": "2010-12-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5204/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5204/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "josei",
+    "present",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/princess-jellyfish",
+    "http://www.funimation.com/shows/34636"
+  ],
+  "relations": {
+    "kitsu": "5204",
+    "anidb": "7531",
+    "anilist/anime": "8129",
+    "aozora": "Go7WuVQ3rM",
+    "hulu": "50002081",
+    "myanimelist/anime": "8129",
+    "thetvdb": "197731/1",
+    "thetvdb/series": "197731",
+    "trakt": "37422"
+  }
+}

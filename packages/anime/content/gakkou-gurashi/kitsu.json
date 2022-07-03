@@ -1,0 +1,47 @@
+{
+  "slug": "gakkou-gurashi",
+  "synopsis": "SCHOOL-LIVE! Focuses on the lives of 4 girls who decide to stay over at school: Yuki Takeya, Kurumi Ebisuzawa, Yuri Wakasa, and Miki Naoki. Along with the school adviser Megumi Sakura, they suddenly find themselves to be the final survivors of a zombie attack, and continue to live and survive at the school.\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "School-Live!",
+    "jp": "Gakkou Gurashi!"
+  },
+  "releasedAt": "2015-07-09T00:00:00.000Z",
+  "finishedAt": "2015-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8644/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8644/original.png",
+  "categories": [
+    "angst",
+    "disaster",
+    "epidemic",
+    "fantasy",
+    "horror",
+    "mystery",
+    "psychological",
+    "rotten world",
+    "school clubs",
+    "school life",
+    "slice of life",
+    "zombie"
+  ],
+  "externals": [
+    "hidive.com/tv/school-live",
+    "http://www.crunchyroll.com/school-live",
+    "http://www.hulu.com/schoollive",
+    "https://vrv.co/series/G609GQ4P6/SCHOOL-LIVE",
+    "https://vrv.co/series/GYQWKD47Y/School-Live"
+  ],
+  "relations": {
+    "kitsu": "8644",
+    "anidb": "10697",
+    "anilist/anime": "20754",
+    "aozora": "0osJmEKtLW",
+    "hulu": "50022786",
+    "myanimelist/anime": "24765",
+    "thetvdb": "283946/1",
+    "thetvdb/series": "283946",
+    "trakt": "79365"
+  }
+}

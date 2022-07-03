@@ -1,0 +1,30 @@
+{
+  "slug": "steven-universe-season-4",
+  "synopsis": "Season 4 of steven universe.",
+  "title": {},
+  "releasedAt": "2016-08-11T00:00:00.000Z",
+  "finishedAt": "2017-05-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13417/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13417/original.png",
+  "categories": [
+    "adventure",
+    "anime influenced",
+    "comedy",
+    "coming of age",
+    "contemporary fantasy",
+    "family",
+    "fantasy",
+    "friendship",
+    "kids",
+    "united states"
+  ],
+  "externals": [
+    "https://www.hulu.com/steven-universe"
+  ],
+  "relations": {
+    "kitsu": "13417"
+  }
+}

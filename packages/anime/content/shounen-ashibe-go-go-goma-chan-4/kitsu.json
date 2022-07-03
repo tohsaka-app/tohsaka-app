@@ -1,0 +1,26 @@
+{
+  "slug": "shounen-ashibe-go-go-goma-chan-4",
+  "synopsis": "Fourth season of Shounen Ashibe: Go! Go! Goma-chan.",
+  "title": {
+    "jp": "Shounen Ashibe: Go! Go! Goma-chan 4"
+  },
+  "releasedAt": "2019-04-02T00:00:00.000Z",
+  "finishedAt": "2019-12-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42239/original.jpg",
+  "categories": [
+    "comedy",
+    "seinen",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/shonen-ashibe-go-go-goma-chan"
+  ],
+  "relations": {
+    "kitsu": "42239",
+    "anilist/anime": "108811",
+    "myanimelist/anime": "39457"
+  }
+}

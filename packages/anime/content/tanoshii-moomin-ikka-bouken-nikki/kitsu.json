@@ -1,0 +1,32 @@
+{
+  "slug": "tanoshii-moomin-ikka-bouken-nikki",
+  "synopsis": "In the remote and mysterious Moomin Valley live the Moomin trolls, gentle and peaceful creatures. Young Moomin and his family experience many strange adventures, both magical and mundane. Based on the children's stories by Tove Jansson.\n(Source: ANN)",
+  "title": {
+    "jp": "Tanoshii Muumin Ikka Bouken Nikki"
+  },
+  "releasedAt": "1991-10-10T00:00:00.000Z",
+  "finishedAt": "1992-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4253/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4253/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4253",
+    "anidb": "1010",
+    "anilist/anime": "5712",
+    "aozora": "sPp0BTMXBB",
+    "myanimelist/anime": "5712",
+    "thetvdb": "85199/2",
+    "thetvdb/season": "96121",
+    "thetvdb/series": "85199",
+    "trakt": "62396"
+  }
+}

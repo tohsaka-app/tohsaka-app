@@ -1,0 +1,22 @@
+{
+  "slug": "din-dong-specials",
+  "synopsis": "Various animated shorts posted to Din Dong's official YouTube Channel.",
+  "title": {
+    "jp": "Din Dong Specials"
+  },
+  "releasedAt": "2010-02-24T00:00:00.000Z",
+  "finishedAt": "2011-11-21T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43143/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43143",
+    "myanimelist/anime": "38398"
+  }
+}

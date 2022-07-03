@@ -1,0 +1,27 @@
+{
+  "slug": "eikoku-koi-monogatari-emma-intermission",
+  "synopsis": "This special is a recap of the first season of Eikoku Koi Monogatari Emma: Intermission as well as a preview of the second season Eikoku Koi Monogatari Emma: Molders Hen.",
+  "title": {
+    "en": "Emma: A Victorian Romance - Intermission",
+    "jp": "Eikoku Koi Monogatari Emma: Intermission"
+  },
+  "releasedAt": "2007-04-21T00:00:00.000Z",
+  "finishedAt": "2007-04-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2283/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2283",
+    "anilist/anime": "2517",
+    "aozora": "HAkP9OUJ4B",
+    "myanimelist/anime": "2517"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "puzzle-dragons-x",
+  "synopsis": "Dorogoza Island is rich in \"Drop Energy\" that players can use on friendly monsters. Once strong enough, they can face enemies in puzzle wars. Winners reap rewards, but what happens to the losers? Only the brave can take on these monstrous challenges!\n(Source: FUNimation)",
+  "title": {
+    "en": "Puzzle & Dragons X",
+    "jp": "Puzzle & Dragons Cross"
+  },
+  "releasedAt": "2016-07-04T00:00:00.000Z",
+  "finishedAt": "2018-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11846/original.jpg",
+  "categories": [
+    "dragon",
+    "kids",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11846",
+    "anidb": "11927",
+    "anilist/anime": "21644",
+    "aozora": "utCRhz9ySq",
+    "myanimelist/anime": "32772",
+    "thetvdb": "308036",
+    "trakt": "105837"
+  }
+}

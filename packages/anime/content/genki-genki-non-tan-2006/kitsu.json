@@ -1,0 +1,24 @@
+{
+  "slug": "genki-genki-non-tan-2006",
+  "synopsis": "Direct continuation of the second season. Also labeled as episode 26-35.",
+  "title": {
+    "jp": "Genki Genki Non-tan (2006)"
+  },
+  "releasedAt": "2006-10-02T00:00:00.000Z",
+  "finishedAt": "2006-10-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9279/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9279",
+    "anidb": "10172",
+    "aozora": "FEeg2VNUCh",
+    "myanimelist/anime": "25615"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "tonari-no-seki-kun-specials",
+  "synopsis": "Two unaired episodes included in the DVD Set release of Tonari no Seki-kun series.\n\n#1. Field Trip (Rinkan Gakkou) (first volume)\n#2. Snow Playing (Yuki Asobi) (second volume)",
+  "title": {
+    "jp": "Tonari no Seki-kun Specials"
+  },
+  "releasedAt": "2014-05-28T00:00:00.000Z",
+  "finishedAt": "2014-05-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8493/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8493/original.png",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8493",
+    "anilist/anime": "20738",
+    "aozora": "XHwTl9oq8J",
+    "myanimelist/anime": "24365"
+  }
+}

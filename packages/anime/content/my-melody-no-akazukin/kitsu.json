@@ -1,0 +1,25 @@
+{
+  "slug": "my-melody-no-akazukin",
+  "synopsis": "My Melody stars in the re-created story of Little Red Riding Hood.",
+  "title": {
+    "jp": "My Melody no Akazukin"
+  },
+  "releasedAt": "1989-07-22T00:00:00.000Z",
+  "finishedAt": "1989-07-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7105/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7105",
+    "anidb": "5796",
+    "anilist/anime": "14253",
+    "aozora": "OF8uhgZcBD",
+    "myanimelist/anime": "14253"
+  }
+}

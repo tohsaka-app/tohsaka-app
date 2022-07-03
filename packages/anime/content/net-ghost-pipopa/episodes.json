@@ -1,0 +1,410 @@
+[
+  {
+    "title": {
+      "jp": "Welcome @ Net World"
+    },
+    "season": 1,
+    "number": 1,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Want to Go Home @ Can't Go Home"
+    },
+    "season": 1,
+    "number": 2,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Let's Go to @ school!"
+    },
+    "season": 1,
+    "number": 3,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hikaru @ Pudding @ Grandfather"
+    },
+    "season": 1,
+    "number": 4,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "BiBoBa @ Appear!"
+    },
+    "season": 1,
+    "number": 5,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Channel @ Wars"
+    },
+    "season": 1,
+    "number": 6,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Inn @ Yukitani's"
+    },
+    "season": 1,
+    "number": 7,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yuuta @ Company Visit"
+    },
+    "season": 1,
+    "number": 8,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Work @ Aizawa"
+    },
+    "season": 1,
+    "number": 9,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mamoru And Yuuta@"
+    },
+    "season": 1,
+    "number": 10,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Operation @ PiPoPa"
+    },
+    "season": 1,
+    "number": 11,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Net Surfer @ Yuuta"
+    },
+    "season": 1,
+    "number": 12,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hikaru @ Net Dive"
+    },
+    "season": 1,
+    "number": 13,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Star Festival @ Version Up?!"
+    },
+    "season": 1,
+    "number": 14,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Net Ghosts @ Large Gathering!"
+    },
+    "season": 1,
+    "number": 15,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hikaru @ Promise @ Summer Vacation"
+    },
+    "season": 1,
+    "number": 16,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I Love @ Juu-sama"
+    },
+    "season": 1,
+    "number": 17,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mamoru @"
+    },
+    "season": 1,
+    "number": 18,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kazushige @ Mid-Summer Dream"
+    },
+    "season": 1,
+    "number": 19,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Lost @ Lost @ Lost"
+    },
+    "season": 1,
+    "number": 20,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sweeper @ Hikaru"
+    },
+    "season": 1,
+    "number": 21,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "(Kazushige + BiBoBa)^2 @"
+    },
+    "season": 1,
+    "number": 22,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Puu @ Seiren"
+    },
+    "season": 1,
+    "number": 23,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Puu! @ Puu! @ Puu!"
+    },
+    "season": 1,
+    "number": 24,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "PiPoPa @ PiPoPaPuu!"
+    },
+    "season": 1,
+    "number": 25,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "@ I Like Everyone"
+    },
+    "season": 1,
+    "number": 26,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Net Ghost @ PiPoPaPuu?"
+    },
+    "season": 1,
+    "number": 27,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sayaka @ Transfer Student"
+    },
+    "season": 1,
+    "number": 28,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Want To Be @ A Net Idol"
+    },
+    "season": 1,
+    "number": 29,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Slump @ Poem @ Dynagon"
+    },
+    "season": 1,
+    "number": 30,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Calculation @ Pa @ Pat"
+    },
+    "season": 1,
+    "number": 31,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Hop @ Stamp @ Level Up"
+    },
+    "season": 1,
+    "number": 32,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Giga @ Panic"
+    },
+    "season": 1,
+    "number": 33,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Travel @ Trouble @ Love Love"
+    },
+    "season": 1,
+    "number": 34,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I Am @ Not Wrong"
+    },
+    "season": 1,
+    "number": 35,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "@ Net Venus"
+    },
+    "season": 1,
+    "number": 36,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mamoru @ Yuuta"
+    },
+    "season": 1,
+    "number": 37,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yuuta... @"
+    },
+    "season": 1,
+    "number": 38,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Program @ Seiren"
+    },
+    "season": 1,
+    "number": 39,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Together @ Forever"
+    },
+    "season": 1,
+    "number": 40,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Can't See You... @ Want To Meet You"
+    },
+    "season": 1,
+    "number": 41,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Legend @ Orichalcum"
+    },
+    "season": 1,
+    "number": 42,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Net @ Detectives"
+    },
+    "season": 1,
+    "number": 43,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Labyrinth @ Divine"
+    },
+    "season": 1,
+    "number": 44,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Valentine D@te"
+    },
+    "season": 1,
+    "number": 45,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Karin @ What a Strange Country"
+    },
+    "season": 1,
+    "number": 46,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Babbling @ PiPoPa"
+    },
+    "season": 1,
+    "number": 47,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Last @ Piece"
+    },
+    "season": 1,
+    "number": 48,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Adults @ Children"
+    },
+    "season": 1,
+    "number": 49,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "@ Save!!"
+    },
+    "season": 1,
+    "number": 50,
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "To the Net World @ With You!"
+    },
+    "season": 1,
+    "number": 51,
+    "content": {}
+  }
+]

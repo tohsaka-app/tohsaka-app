@@ -1,0 +1,23 @@
+{
+  "slug": "eiga-daisuki-pompo-san-special",
+  "synopsis": "An animated promotional video for the second compiled volume of the Eiga Daisuki Pompo-san manga aired for a one-week period on Tokyo MX and Sun TV.",
+  "title": {
+    "en": "Pompo: The Cinéphile",
+    "jp": "Eiga Daisuki Pompo-san"
+  },
+  "releasedAt": "2018-09-27T00:00:00.000Z",
+  "finishedAt": "2018-09-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43844/original.jpg",
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43844",
+    "myanimelist/anime": "38411"
+  }
+}

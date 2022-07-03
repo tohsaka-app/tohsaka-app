@@ -1,0 +1,23 @@
+{
+  "slug": "jubito",
+  "synopsis": "Graduation work of SUZUKI Saeko at Tama Art University.",
+  "title": {
+    "en": "Jubito",
+    "jp": "Jubito"
+  },
+  "releasedAt": "2020-01-01T00:00:00.000Z",
+  "finishedAt": "2020-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45928/poster_image/71bdd1227de321d6ce746451d4943de0.png",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/J7-EGBz3v3o"
+  ],
+  "relations": {
+    "kitsu": "45928"
+  }
+}

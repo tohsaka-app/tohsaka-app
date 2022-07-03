@@ -1,0 +1,41 @@
+{
+  "slug": "macross-delta",
+  "synopsis": "Eight years after the events of Macross F, a mysterious phenomenon known as the Var Syndrome is gradually consuming the galaxy. It's up to a new generation of highly capable Valkyrie pilots to deal with this universal menace. And if they didn't have enough on their plate already, the Aerial Knights Valkyrie fighter team from the Kingdom of Wind have come to challenge the Delta Squadron.",
+  "title": {
+    "en": "Macross Delta",
+    "jp": "Macross Δ"
+  },
+  "releasedAt": "2016-04-03T00:00:00.000Z",
+  "finishedAt": "2016-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9992/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9992/original.jpg",
+  "categories": [
+    "action",
+    "future",
+    "idol",
+    "mecha",
+    "military",
+    "music",
+    "other planet",
+    "piloted robot",
+    "robot",
+    "romance",
+    "science fiction",
+    "space",
+    "the arts",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9992",
+    "anidb": "10569",
+    "anilist/anime": "20680",
+    "aozora": "ckMYoLKZvo",
+    "myanimelist/anime": "28013",
+    "thetvdb": "304475/1",
+    "trakt": "104031"
+  }
+}

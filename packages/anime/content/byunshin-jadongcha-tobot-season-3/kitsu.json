@@ -1,0 +1,27 @@
+{
+  "slug": "byunshin-jadongcha-tobot-season-3",
+  "synopsis": "Season 3 of Tobot.\n\nNote: This was edited into Season 1 - Episodes 9 to 12.",
+  "title": {
+    "en": "Tabot Season 3"
+  },
+  "releasedAt": "2011-03-01T00:00:00.000Z",
+  "finishedAt": "2011-03-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44246/original.jpg",
+  "categories": [
+    "kids",
+    "korea",
+    "mecha",
+    "robot",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.amazon.com/Tobot/dp/B07GX7Z43J",
+    "https://www.netflix.com/title/81072571"
+  ],
+  "relations": {
+    "kitsu": "44246"
+  }
+}

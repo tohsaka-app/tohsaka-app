@@ -1,0 +1,24 @@
+{
+  "slug": "vampire-knight-special",
+  "synopsis": "Aidou has the idea to hold elections for Moon Dorm's President. The candidates are Kaname and the current president Ichijou. Who will win? ",
+  "title": {
+    "jp": "Vampire Knight: Gekiai no Portrait"
+  },
+  "releasedAt": "2008-11-26T00:00:00.000Z",
+  "finishedAt": "2008-11-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5328/original.jpg",
+  "categories": [
+    "comedy",
+    "vampire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5328",
+    "anilist/anime": "8422",
+    "aozora": "t9fc2XOaOK",
+    "myanimelist/anime": "8422"
+  }
+}

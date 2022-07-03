@@ -1,0 +1,27 @@
+{
+  "slug": "urayasu-tekkin-kazoku",
+  "synopsis": "Join the madcap adventures of the Osawagi family. Little Kotetsu, arguably the most energetic boy in the town of Urayasu, is always getting into mischief with his band of quirky friends. Features unique, well-drawn characters and fast-paced action and humor.\n(Source: TBS)",
+  "title": {
+    "jp": "Urayasu Tekkin Kazoku"
+  },
+  "releasedAt": "1998-06-30T00:00:00.000Z",
+  "finishedAt": "1998-08-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2477/original.jpg",
+  "categories": [
+    "comedy",
+    "japan",
+    "present",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2477",
+    "anidb": "1411",
+    "anilist/anime": "2716",
+    "aozora": "Y8CnWQXpn0",
+    "myanimelist/anime": "2716"
+  }
+}

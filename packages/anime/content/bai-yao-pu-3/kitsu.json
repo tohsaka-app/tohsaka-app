@@ -1,0 +1,24 @@
+{
+  "slug": "bai-yao-pu-3",
+  "synopsis": "The third season of Bai Yao Pu.",
+  "title": {
+    "en": "Fairies Albums 3"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45711/poster_image/1623571dbda607b6c82d3cbc2f13e2a8.png",
+  "categories": [
+    "action",
+    "fantasy",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45711",
+    "anilist/anime": "141866",
+    "myanimelist/anime": "50537"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "date-a-live-mayuri-judgement",
+  "synopsis": "The movie adaptation announced at the end of the final episode of Date A Live II. ",
+  "title": {
+    "jp": "Date A Live Movie: Mayuri Judgment"
+  },
+  "releasedAt": "2015-08-22T00:00:00.000Z",
+  "finishedAt": "2015-08-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8512/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8512/original.png",
+  "categories": [
+    "action",
+    "alternative present",
+    "cross dressing",
+    "disaster",
+    "ecchi",
+    "harem",
+    "henshin",
+    "present",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8512",
+    "anidb": "10688",
+    "anilist/anime": "20741",
+    "aozora": "AYvrqt5dyX",
+    "myanimelist/anime": "24655"
+  }
+}

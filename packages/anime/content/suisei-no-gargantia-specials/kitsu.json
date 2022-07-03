@@ -1,0 +1,29 @@
+{
+  "slug": "suisei-no-gargantia-specials",
+  "synopsis": "Episodes 14 and 15, released with the first and third BD/DVD volumes. ",
+  "title": {
+    "en": "Gargantia on the Verdurous Planet: Specials",
+    "jp": "Suisei no Gargantia Specials"
+  },
+  "releasedAt": "2013-08-28T00:00:00.000Z",
+  "finishedAt": "2013-10-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7872/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7872/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/gargantia-on-the-verdurous-planet"
+  ],
+  "relations": {
+    "kitsu": "7872",
+    "anilist/anime": "19211",
+    "aozora": "2PRQGS8mlY",
+    "myanimelist/anime": "19211"
+  }
+}

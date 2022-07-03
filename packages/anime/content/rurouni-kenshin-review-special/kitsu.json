@@ -1,0 +1,25 @@
+{
+  "slug": "rurouni-kenshin-review-special",
+  "synopsis": "Summary of various fighting scenes of the first half of the series and a brief overview of the Kyoto arc.",
+  "title": {
+    "jp": "Rurouni Kenshin: Review Special"
+  },
+  "releasedAt": "1997-03-26T00:00:00.000Z",
+  "finishedAt": "1997-03-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5833/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5833",
+    "anilist/anime": "9716",
+    "aozora": "IwldslS5hG",
+    "myanimelist/anime": "9716"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "pokemon-movie-minna-no-monogatari",
+  "synopsis": "",
+  "title": {
+    "en": "Pokemon: The Power of Us",
+    "jp": "Pokemon Movie 21: Minna no Monogatari"
+  },
+  "releasedAt": "2018-07-13T00:00:00.000Z",
+  "finishedAt": "2018-07-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41413/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41413/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41413",
+    "anilist/anime": "100744",
+    "myanimelist/anime": "36927"
+  }
+}

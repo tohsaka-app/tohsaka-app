@@ -1,0 +1,26 @@
+{
+  "slug": "yami-shibai-10",
+  "synopsis": "The tenth season of Yami Shibai.",
+  "title": {
+    "en": "Theatre of Darkness: Yamishibai 10",
+    "jp": "Yami Shibai 10"
+  },
+  "releasedAt": "2022-01-10T00:00:00.000Z",
+  "finishedAt": "2022-04-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45601/poster_image/151b169c5e0d9bee37794801a07e48fc.jpg",
+  "categories": [
+    "horror",
+    "supernatural"
+  ],
+  "externals": [
+    "https://beta.crunchyroll.com/series/G6WEM1V36/theatre-of-darkness-yamishibai"
+  ],
+  "relations": {
+    "kitsu": "45601",
+    "anilist/anime": "142826",
+    "myanimelist/anime": "50599"
+  }
+}

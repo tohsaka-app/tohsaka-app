@@ -1,0 +1,35 @@
+{
+  "slug": "doraemon-nobita-s-little-star-wars",
+  "synopsis": "Papi, the tiny president of a faraway planet, escapes to Earth to avoid being captured by the military forces that took over. Despite being welcomed by Doraemon, Nobita and their friends, the little alien notices that his enemies have also reached this world and doesn't want to get his human friends involved in this war. Doraemon, Nobita, Gian, Suneo, and Shizuka start a big adventure as they try to hide and protect Papi.\n(Source: ANN)",
+  "title": {
+    "en": "Doraemon the Movie: Nobita's Little Space War",
+    "jp": "Doraemon Movie 06: Nobita no Little Star Wars"
+  },
+  "releasedAt": "1985-03-16T00:00:00.000Z",
+  "finishedAt": "1985-03-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2432/original.jpg",
+  "categories": [
+    "alien",
+    "fantasy",
+    "future",
+    "humanoid alien",
+    "kids",
+    "robot",
+    "robot helper",
+    "shipboard",
+    "space",
+    "space battles",
+    "space travel"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2432",
+    "anidb": "6594",
+    "anilist/anime": "2669",
+    "aozora": "0LO5RpnvtI",
+    "myanimelist/anime": "2669"
+  }
+}

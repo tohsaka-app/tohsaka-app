@@ -1,0 +1,24 @@
+{
+  "slug": "shin-saru-kani-gassen",
+  "synopsis": "Crabs ban together to get right of an ape in their peach tree after it keeps stealing their food and hitting them with the fruits to the point where one gets severely injured.",
+  "title": {
+    "jp": "Shin Saru Kani Gassen"
+  },
+  "releasedAt": "1936-01-01T00:00:00.000Z",
+  "finishedAt": "1936-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9584/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9584",
+    "anidb": "6945",
+    "anilist/anime": "102627",
+    "aozora": "NjZATYUawc",
+    "myanimelist/anime": "30045"
+  }
+}

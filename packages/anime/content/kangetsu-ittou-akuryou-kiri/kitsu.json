@@ -1,0 +1,27 @@
+{
+  "slug": "kangetsu-ittou-akuryou-kiri",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Kangetsu Ittou: Akuryou Kiri"
+  },
+  "releasedAt": "1989-10-05T00:00:00.000Z",
+  "finishedAt": "1989-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7998/original.jpg",
+  "categories": [
+    "action",
+    "martial arts",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7998",
+    "anidb": "8267",
+    "anilist/anime": "18583",
+    "aozora": "EOOYl4OfBO",
+    "myanimelist/anime": "18583"
+  }
+}

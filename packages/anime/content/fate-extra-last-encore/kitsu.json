@@ -1,0 +1,35 @@
+{
+  "slug": "fate-extra-last-encore",
+  "synopsis": "Waking up in a strange virtual world with no recollection of the past, Hakuno finds himself forced to fight for survival in a war he does not understand for a prize beyond value; the opportunity to have one's wish granted. With only an enigmatic \"Servant\" by his side, Hakuno Kishinami will have to face both friends and foes in battles to the death in order to not only gain possession of a mysterious object known as the \"Holy Grail,\" but also to find the answer to the most important question of all: \"Who am I?\"\n\n(Source: Type-Moon Wikia)",
+  "title": {
+    "en": "Fate/Extra: Last Encore",
+    "jp": "Fate/Extra: Last Encore"
+  },
+  "releasedAt": "2018-01-28T00:00:00.000Z",
+  "finishedAt": "2018-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12006/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12006/original.jpg",
+  "categories": [
+    "action",
+    "battle royale",
+    "contemporary fantasy",
+    "fantasy",
+    "magic",
+    "romance",
+    "swordplay"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/80185145"
+  ],
+  "relations": {
+    "kitsu": "12006",
+    "anidb": "12046",
+    "anilist/anime": "21717",
+    "aozora": "p8TwLKdQvi",
+    "myanimelist/anime": "33047",
+    "thetvdb": "337018/1"
+  }
+}

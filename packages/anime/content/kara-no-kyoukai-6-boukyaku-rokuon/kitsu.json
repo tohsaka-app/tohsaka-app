@@ -1,0 +1,33 @@
+{
+  "slug": "kara-no-kyoukai-6-boukyaku-rokuon",
+  "synopsis": "January 1999: Apprentice mage Azaka Kokutou, Mikiya's younger sister, has been ordered by her mentor, Touko Aozaki, to investigate a certain incident in which fairies steal the memories of students at Azaka's school, Reien Academy. Azaka launches an investigation with the help of Shiki.\n(Source: Aniplex USA)",
+  "title": {
+    "en": "the Garden of sinners Chapter 6: Oblivion Recording",
+    "jp": "Kara no Kyoukai 6: Boukyaku Rokuon"
+  },
+  "releasedAt": "2008-12-20T00:00:00.000Z",
+  "finishedAt": "2008-12-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3983/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3983/original.jpeg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "mystery",
+    "romance",
+    "thriller"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-garden-of-sinners",
+    "https://www.amazon.com/Murder-Speculation-Part-nothing-heart/dp/B07579MDR5"
+  ],
+  "relations": {
+    "kitsu": "3983",
+    "anilist/anime": "5204",
+    "aozora": "8lLJDeA3d7",
+    "myanimelist/anime": "5204"
+  }
+}

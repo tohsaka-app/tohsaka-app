@@ -1,0 +1,26 @@
+{
+  "slug": "poka-poka-no-hoshi",
+  "synopsis": "The music video for the \"SNOW MIKU 2020\" official theme song, Poka Poka Planet featuring Hatsune Miku. This song and animation is both made by Harumaki Gohan, who also leads the team Studio Gohan in the production of this animation.\n\n(Source: AniList)",
+  "title": {
+    "en": "Poka Poka Planet",
+    "jp": "Poka Poka no Hoshi"
+  },
+  "releasedAt": "2019-12-21T00:00:00.000Z",
+  "finishedAt": "2019-12-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43972/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43972/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=LxC0kD-GuBQ"
+  ],
+  "relations": {
+    "kitsu": "43972",
+    "anilist/anime": "129050"
+  }
+}

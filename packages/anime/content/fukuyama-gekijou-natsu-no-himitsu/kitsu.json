@@ -1,0 +1,25 @@
+{
+  "slug": "fukuyama-gekijou-natsu-no-himitsu",
+  "synopsis": "Several short animated mini-stories based on the short stories and four-panel manga of Keiko Fukuyama, including My Father the Mouse, The Rabbit Brothers, Summer Secret, The Mysterious Fairy, How Very Strange, and Kuro. \n(Source: Anime Encyclopedia)",
+  "title": {
+    "jp": "Fukuyama Gekijou: Natsu no Himitsu"
+  },
+  "releasedAt": "1990-09-27T00:00:00.000Z",
+  "finishedAt": "1990-09-27T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9265/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9265",
+    "anidb": "5318",
+    "anilist/anime": "108054",
+    "aozora": "EBBCKB8b02",
+    "myanimelist/anime": "23975"
+  }
+}

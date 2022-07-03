@@ -1,0 +1,24 @@
+{
+  "slug": "uranomito",
+  "synopsis": "Music video directed by Tatsuro Ogata for the original song Uranomito by Tsukino Mito.",
+  "title": {
+    "jp": "Uranomito"
+  },
+  "releasedAt": "2021-08-11T00:00:00.000Z",
+  "finishedAt": "2021-08-11T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45361/poster_image/ed994e6dbcb4a35504db47cf9c747ab1.png",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Ndp6PhT-vlQ"
+  ],
+  "relations": {
+    "kitsu": "45361",
+    "myanimelist/anime": "50123"
+  }
+}

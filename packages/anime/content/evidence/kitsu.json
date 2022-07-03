@@ -1,0 +1,24 @@
+{
+  "slug": "evidence",
+  "synopsis": "Second single release from Daisy x Daisy featuring intro theme of anime series Fairy Tail. Includes illustrations and a DVD with music video of \"Boei Honno\".\n(Source: cdjapan.co.jp)",
+  "title": {
+    "jp": "Evidence"
+  },
+  "releasedAt": "2011-04-20T00:00:00.000Z",
+  "finishedAt": "2011-04-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6525/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6525",
+    "anidb": "8769",
+    "anilist/anime": "11511",
+    "aozora": "A9eODskjkJ",
+    "myanimelist/anime": "11511"
+  }
+}

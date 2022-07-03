@@ -1,0 +1,38 @@
+{
+  "slug": "aldnoah-zero-2",
+  "synopsis": "Seeking revenge, Count Saazbaum, a Martian, attacked the Earth. Later on, the war between the Terrans and Martians ended with Earth's Terrans gaining the victory. However, nineteen months later, the battle between them continues. Martians still continue to invade the Earth and the Terrans continue to protect it.",
+  "title": {
+    "en": "Aldnoah.Zero 2nd Season",
+    "jp": "Aldnoah.Zero 2nd Season"
+  },
+  "releasedAt": "2015-01-11T00:00:00.000Z",
+  "finishedAt": "2015-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9136/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9136/original.jpg",
+  "categories": [
+    "action",
+    "disaster",
+    "mecha",
+    "piloted robot",
+    "politics",
+    "robot",
+    "science fiction",
+    "space",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9136",
+    "anidb": "10846",
+    "anilist/anime": "20853",
+    "aozora": "vsNgikXci0",
+    "myanimelist/anime": "27655",
+    "thetvdb": "279827/1",
+    "thetvdb/season": "597845",
+    "thetvdb/series": "279827",
+    "trakt": "60763"
+  }
+}

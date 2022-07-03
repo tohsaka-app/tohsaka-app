@@ -1,0 +1,46 @@
+{
+  "slug": "aquarion-evol",
+  "synopsis": "After accidentally forming the legendary mecha \"Aquarion,\" Amata finds himself at a pilot-training academy where the girls are flirty and the boys seem more interested in exploring holes and big bangs than harnessing their Elemental superpowers. When a mysterious megalomaniac plots interplanetary disaster, the fate of the galaxy depends on whether or not the hormone-fueled coeds can come together.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Aquarion Evol",
+    "jp": "Aquarion Evol"
+  },
+  "releasedAt": "2012-01-09T00:00:00.000Z",
+  "finishedAt": "2012-06-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6185/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6185/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "drama",
+    "fantasy",
+    "future",
+    "love polygon",
+    "mecha",
+    "piloted robot",
+    "romance",
+    "science fiction",
+    "slow when it comes to love",
+    "super power",
+    "transforming craft"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/aquarion",
+    "https://www.funimation.com/shows/aquarion-evol/",
+    "https://www.hulu.com/aquarion-evol"
+  ],
+  "relations": {
+    "kitsu": "6185",
+    "anidb": "8299",
+    "anilist/anime": "10447",
+    "aozora": "72iP4sGNl3",
+    "hulu": "50012079",
+    "myanimelist/anime": "10447",
+    "thetvdb": "79886/2",
+    "thetvdb/series": "280546",
+    "trakt": "8826"
+  }
+}

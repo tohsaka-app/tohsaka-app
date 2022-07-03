@@ -1,0 +1,24 @@
+{
+  "slug": "haru-wa-kuru",
+  "synopsis": "A short promotional film for the Johnnie Walker whiskey brand, animated by STUDIO 4°C.",
+  "title": {
+    "jp": "Haru wa Kuru"
+  },
+  "releasedAt": "2012-01-27T00:00:00.000Z",
+  "finishedAt": "2012-01-27T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6925/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6925",
+    "anidb": "9029",
+    "anilist/anime": "13255",
+    "aozora": "ZrVkKUmRDm",
+    "myanimelist/anime": "13255"
+  }
+}

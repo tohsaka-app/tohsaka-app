@@ -1,0 +1,36 @@
+{
+  "slug": "kinnikuman-nisei-second-generations",
+  "synopsis": "While the New Generation Choujins are taking part in Fan Appreciation Day, The Cyborg arrives, takes Meat hostage, and challenges Mantarou to a fight inside Tokyo Tower. \n(Source: ANN)",
+  "title": {
+    "jp": "Kinnikuman II Sei: Second Generations"
+  },
+  "releasedAt": "2001-07-14T00:00:00.000Z",
+  "finishedAt": "2001-07-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4515/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "alternative present",
+    "asia",
+    "comedy",
+    "earth",
+    "humanoid alien",
+    "japan",
+    "martial arts",
+    "present",
+    "science fiction",
+    "sports",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4515",
+    "anidb": "2131",
+    "anilist/anime": "6310",
+    "aozora": "2WcIKHD6qE",
+    "myanimelist/anime": "6310"
+  }
+}

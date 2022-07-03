@@ -1,0 +1,23 @@
+{
+  "slug": "dandy-hitsuji-shitsuji",
+  "synopsis": "A girl who has trouble sleeping counts sheep (hitsuji) thanks to her butler (shitsuji) who happens to be a sheep butler (hitsuji shitsuji).\n",
+  "title": {
+    "jp": "Dandy Hitsuji Shitsuji"
+  },
+  "releasedAt": "2017-08-01T00:00:00.000Z",
+  "finishedAt": "2017-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41229/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41229",
+    "anilist/anime": "102512",
+    "myanimelist/anime": "37720"
+  }
+}

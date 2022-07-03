@@ -1,0 +1,26 @@
+{
+  "slug": "ai-no-wakakusa-monogatari-specials",
+  "synopsis": "A summary of the Ai no Wakakusa Monogatari full series aired as a TV special in 2001. ",
+  "title": {
+    "jp": "Ai no Wakakusa Monogatari Specials"
+  },
+  "releasedAt": "2001-01-01T00:00:00.000Z",
+  "finishedAt": "2001-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7281/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7281",
+    "anidb": "7150",
+    "anilist/anime": "15607",
+    "aozora": "8lqQxPJQca",
+    "myanimelist/anime": "15607"
+  }
+}

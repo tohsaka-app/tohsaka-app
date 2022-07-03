@@ -1,0 +1,32 @@
+{
+  "slug": "bishoujo-senshi-sailor-moon-eternal",
+  "synopsis": "Bishoujo Senshi Sailor Moon Eternal serves as the fourth installment in Toei Animation's reboot of Naoko Takeuchi's original magical girl manga. The sequel was announced in January 2017 as a part of the franchise's 25th anniversary and later confirmed to be a two-part anime film covering the Dream arc.\n\n(Source: MAL News)",
+  "title": {
+    "en": "Pretty Guardian Sailor Moon Eternal The Movie",
+    "jp": "Bishoujo Senshi Sailor Moon Eternal"
+  },
+  "releasedAt": "2021-01-08T00:00:00.000Z",
+  "finishedAt": "2021-01-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42429/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42429/original.jpg",
+  "categories": [
+    "demon",
+    "fantasy",
+    "magic",
+    "magical girl",
+    "romance",
+    "shoujo"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81214399"
+  ],
+  "relations": {
+    "kitsu": "42429",
+    "anidb": "12754",
+    "anilist/anime": "103713",
+    "myanimelist/anime": "40024"
+  }
+}

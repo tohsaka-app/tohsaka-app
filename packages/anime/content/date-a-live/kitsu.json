@@ -1,0 +1,45 @@
+{
+  "slug": "date-a-live",
+  "synopsis": "\"Before the world ends, kill me or kiss me.\"\nThirty years before the events of Date A Live, an enormous explosion devastates east Asia and kills 150 million people. This is the first known \"Spacequake\", an inexplicable natural disaster that has since become commonplace. Fast forward to the future. High school second year Shidou Itsuka lives alone with his cute little sister while their parents are away.\nWhat do these things have to do with each other? While rushing to save his sister from a sudden Spacequake, Shidou is caught in the blast and, in the midst of the chaos, finds a mysterious girl. It turns out that this girl is actually a Spirit, a powerful being from another world whose arrival devastates the surrounding area. Thankfully, Shidou is rescued by an anti-Spirit strike team... led by his little sister?!\nThis vicious task force is locked and loaded, ready to exterminate Spirits with extreme prejudice. But this violent method is not for Shidou. He discovers the one way to neutralize these Spirits peacefully: make them fall in love. Now, it's up to Shidou to save the world by dating those who threaten to destroy it!",
+  "title": {
+    "en": "Date A Live",
+    "jp": "Date A Live"
+  },
+  "releasedAt": "2013-04-06T00:00:00.000Z",
+  "finishedAt": "2013-06-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7278/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7278/original.jpg",
+  "categories": [
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "harem",
+    "japan",
+    "mecha",
+    "romance",
+    "school life",
+    "science fiction",
+    "special squads"
+  ],
+  "externals": [
+    "crunchyroll.com/date-a-live",
+    "https://vrv.co/series/GYEX5E1G6/Date-A-Live",
+    "https://www.funimation.com/shows/date-a-live/",
+    "https://www.hulu.com/series/date-a-live-bf768a08-8de5-4a03-94eb-01855e59bc7d"
+  ],
+  "relations": {
+    "kitsu": "7278",
+    "anidb": "8808",
+    "anilist/anime": "15583",
+    "aozora": "geIetgeAht",
+    "hulu": "50011370",
+    "myanimelist/anime": "15583",
+    "thetvdb": "264663/1",
+    "thetvdb/season": "506746",
+    "thetvdb/series": "264663",
+    "trakt": "70005"
+  }
+}

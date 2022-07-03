@@ -1,0 +1,34 @@
+{
+  "slug": "one-piece-norowareta-seiken",
+  "synopsis": "Luffy and crew go to an island searching for a legendary sword, said to be the most expensive in the world. Soon attacking marines and beautiful maidens split the crew. Zoro betrays the crew to help an old friend, Luffy and Usopp wander through a cave, and the rest help a village fight marines. When Zoro defeats Sanji he takes the sacred pearls that are the only defense against the evil sword that will plunge the world into darkness. \n(Source: ANN)",
+  "title": {
+    "en": "One Piece: The Curse of the Sacred Sword",
+    "jp": "One Piece Movie 5: Norowareta Seiken"
+  },
+  "releasedAt": "2004-03-06T00:00:00.000Z",
+  "finishedAt": "2004-03-06T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/425/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/425/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "pirate",
+    "super power",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "425",
+    "anidb": "2036",
+    "anilist/anime": "463",
+    "aozora": "RhY579yBLy",
+    "myanimelist/anime": "463"
+  }
+}

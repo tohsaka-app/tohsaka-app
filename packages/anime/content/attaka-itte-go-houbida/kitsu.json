@@ -1,0 +1,23 @@
+{
+  "slug": "attaka-itte-go-houbida",
+  "synopsis": "A short commercial made to promote McDonald Japan's new gratin croquette burger.",
+  "title": {
+    "jp": "Attakaitte, Gohoubi da."
+  },
+  "releasedAt": "2019-12-03T00:00:00.000Z",
+  "finishedAt": "2019-12-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42839/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42839/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42839",
+    "anilist/anime": "113668",
+    "myanimelist/anime": "40799"
+  }
+}

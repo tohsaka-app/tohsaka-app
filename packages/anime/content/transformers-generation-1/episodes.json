@@ -1,0 +1,686 @@
+[
+  {
+    "title": {
+      "jp": "Chikyuu e no Michi"
+    },
+    "synopsis": "In search of energy now that planet Cybertron has finally been drained, the Cybertrons (Autobots in English version) must leave Cybertron and venture to other worlds in search for energy, but to make matters worse, they are also pursued by the Destrons (Decepticons in English version), who are also seeking energy themselves if they are to win the war against the Cybertrons.",
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1985-07-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ruby Crystal no Himitsu"
+    },
+    "synopsis": "The Destrons (Decepticons in English version) continue raiding Earth's energy sources, including Sherman Dam and the Ruby Crystal Mines of Burma.",
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1985-07-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chikyuu Dasshutsu!"
+    },
+    "synopsis": "When a Cybertron (Autobot in English version) attempt to lure the Destrons (Decepticons in English version) into a holographic trap fails, the villains succeed in gathering the energy they need, leaving the Cybertrons with only one chance to stop them returning to planet Cybertron.",
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1985-07-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Space Bridge Sakusen"
+    },
+    "synopsis": "After months in hiding, the Destrons (Decepticons in US version) return and have a new method for moving energon cubes to Cybertron.",
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1985-07-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Megatron no Kikan"
+    },
+    "synopsis": "The Destrons (Decepticons in US version) seek a powerful antimatter formula, and the Cybertrons (Autobots in US version) with their new human ally Chip Chase try to stop them.",
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1985-08-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "SOS! Cybertron"
+    },
+    "synopsis": "The Cybertrons (Autobots in US version) must journey to planet Cybertron to retrieve a vital piece of technology to save the life of the critically wounded Convoy (Optimus Prime in US version).",
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1985-08-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Dinobot Tanjou!"
+    },
+    "synopsis": "The Cybertrons (Autobots in US release) has created the Dinobots, but can barely control these new powerful warriors.\n\nNote: This is originally episode 8 in US broadcast. The original episode 7 in US broadcast became episode 62 in Japanese broadcast. This was done as it featured Skyfire prominently and with his toy being of Bandai design (and not sold in Japan as a Transformer), that caused some legal concerns amongst Takara (many of Skyfire's smaller scenes in other episodes were cut entirely). Though the episodes featuring him as a main character were eventually shown, the scripts were not reworked to adjust to the new chronological placement, simply being more or less direct translations of the original English versions.",
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1985-08-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nazo no Kyodai Inseki"
+    },
+    "synopsis": "Snarl and Swoop are added to the Dinobot roster... and just in time!\n\nNote: This was originally episode 10 in US Transformers G1 broadcast. Episode 9 in US broadcast became episode 63 in Japanese broadcast. This was done as it featured Skyfire prominently and with his toy being of Bandai design (and not sold in Japan as a Transformer), that caused some legal concerns amongst Takara (many of Skyfire's smaller scenes in other episodes were cut entirely). Though the episodes featuring him as a main characters were eventually shown, the scripts were not reworked to adjust to the new chronological placement, simply being more or less direct translations of the original English versions.",
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1985-08-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Chikyuu Shoumetsu Keikaku"
+    },
+    "synopsis": "In the aftermath of Cybertron's catastrophic orbit of Earth, both sides regroup, while Starscream puts into motion a plan to destroy the planet.\n\nNote: In the original US broadcast, this was episode 14 and served as the epilogue to episodes 11-13 in US broadcast (episodes 66-68 in Japanese broadcast). The Japanese release had some reordering due to some issue with the toy of Skyfire being of Bandai design (and not sold in Japan as a Transformer), which caused some legal concerns amongst Takara. Several missing episodes that had Skyfire present as a main character were eventually shown near end of the series.",
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1985-08-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cybertron-sei no Okite"
+    },
+    "synopsis": "Megatron challenges Convoy (Optimus Prime in US version) to a one on one battle to end the war.\n\nThis episode was originally episode 16 in US Transformers G1 broadcast, while episode 15 in US broadcast became episode 64 in Japanese broadcast due to legal issues with the toy of Slyfire as noted in previous episode infos.",
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1985-09-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Frankenstein Spike"
+    },
+    "synopsis": "This was originally episode 17 in US broadcast. Japanese version reordered the episodes due to legal issues with Skyfire toys as stated previously\n\nA wounded Spike is turned into a Cybertron (an Autobot in US version) Frankenstein's monster to save his life.",
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1985-09-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Solar Energy wo Nusume!"
+    },
+    "synopsis": "This is originally episode 18 in US G1 broadcast, reason for reordering was mentioned in previous episodes. And this episode was one of the few episodes that was aired in Japan before US.\n\nIn a plot to drain the Sun for power, the Destrons (Decepticons in US version) capture and alter the grumpy Crybertron (Autobot in US version) Gears.",
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1985-09-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ligier no Uragiri"
+    },
+    "synopsis": "In the original US broadcast, this was episode 21.\n\nCould Ligier (Mirage in US version) have betrayed the Cybertrons (Autobots in US version)?",
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1985-09-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Immobilizer"
+    },
+    "synopsis": "In the original US broadcast, this was episode 22.\n\nThe Destrons steal Wheeljack's latest invention, which immobilizes stuff, and Ironhide attempts to retrieve it.",
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1985-10-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Atlantis Fujou!"
+    },
+    "synopsis": "In the original US broadcast, this was episode 24.\n\nThe Destrons ally with the undersea realm of Atlantis (Sub-Atlantica in US version). But they may be more treacherous than Megatron expected.",
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1985-10-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nightbird no Kage"
+    },
+    "synopsis": "In the original US broadcast, this was episode 26.\n\nThe Destrons captured Nightbird, a deadly ninja-bot, and turn her loose on the Cybertrons.",
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1985-11-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Taiketsu!! Dinobot PART I"
+    },
+    "synopsis": "In the original US broadcast, this was episode 30.\n\nThe Dinobots are sent to a mysterious, prehistoric island for training. But the Destrons intend to plunder its energy resources.",
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1985-11-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Taiketsu!! Dinobot PART II"
+    },
+    "synopsis": "In original US broadcast, this was episode 31.\n\nThe Destrons' plundering of Dinobot Island's resources causes instabilities in the timestream.",
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1985-11-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Master Builder"
+    },
+    "synopsis": "In original US broadcast, this was episode 32.\n\nGrapple and Hoist ally themselves with the Buildrons (Constructicons in original US version).",
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1985-11-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Insectron Syndrome"
+    },
+    "synopsis": "In original US broadcast, this was episode 29.\n\nThe Insectrons feed on a source of power which causes them to grow... and will cause them to explode if not cured.",
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1985-11-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Futari no Convoy"
+    },
+    "synopsis": "In original US broadcast, this was episode 27.\n\nMegatron creates a clone of Convoy to lure the Cybertrons to their doom.",
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1985-12-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Steel City"
+    },
+    "synopsis": "The Destrons invade New York City.",
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1985-12-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Negavator wo Ubae!"
+    },
+    "synopsis": "In US broadcast, this was episode 33.\n\nAfter having his logic circuits damaged in battle, Alert (Red Alert in U.S. version) feels rejected by the Cybertrons and allies himself with Starscream.",
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1985-12-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Micro no Kesshi Tai"
+    },
+    "synopsis": "In original U.S. broadcast, this was episode 34.\n\nPerceptor, Brawn, and Bumblebee must shrink themselves to go inside Megatron and retrieve an artifact, the Heart of Cybertron, that gives him enormous power.",
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1985-12-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 25,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 26,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 27,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 28,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 29,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 30,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 31,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 32,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 33,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 34,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 35,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 36,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 37,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 38,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 39,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 40,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 41,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 42,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 43,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 44,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 45,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 46,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 47,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 48,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 49,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 50,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 51,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 52,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 53,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 54,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 55,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 56,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 57,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 58,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 59,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 60,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 61,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 62,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 63,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 64,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 65,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 66,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 67,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 68,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 69,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 70,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 71,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 72,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 73,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 74,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 75,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 76,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 77,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 78,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 79,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 80,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 81,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 82,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 83,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 84,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 85,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 86,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 87,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 88,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 89,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 90,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 91,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 92,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 93,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 94,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 95,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 96,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 97,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": null,
+    "number": 98,
+    "content": {}
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "slug": "the-idolm-ster-cinderella-girls-2nd-anniversary-commemoration-pv",
+  "synopsis": "Promotional music video of the single \"Onegai Cinderella\" commemorating the 2nd anniversary of The iDOLM@STER: Cinderella Girls social game.",
+  "title": {
+    "en": null,
+    "jp": "The iDOLM@STER Cinderella Girls 2nd Anniversary PV"
+  },
+  "releasedAt": "2013-11-28T00:00:00.000Z",
+  "finishedAt": "2013-11-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8770/original.jpg",
+  "categories": [
+    "idol",
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8770",
+    "anidb": "10968",
+    "anilist/anime": "120122",
+    "aozora": "pGVXV0wHpP",
+    "myanimelist/anime": "21409"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "toki-no-daichi-hana-no-oukoku-no-majo",
+  "synopsis": " Based on the manga by Yama Miyuki.",
+  "title": {
+    "jp": "Toki no Daichi: Hana no Oukoku no Majo"
+  },
+  "releasedAt": "1998-12-22T00:00:00.000Z",
+  "finishedAt": "1999-03-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7603/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7603",
+    "anidb": "3992",
+    "anilist/anime": "17201",
+    "aozora": "1lKQ8Wb1z4",
+    "myanimelist/anime": "17201"
+  }
+}

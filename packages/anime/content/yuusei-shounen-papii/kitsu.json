@@ -1,0 +1,33 @@
+{
+  "slug": "yuusei-shounen-papii",
+  "synopsis": "Tells the story of a member of the Universal Peace Corps from the Planet Radion coming to Earth on a mission to determine if this world meets standards for membership in the Galactic Union of Worlds and assist its inhabitants during his stay. While on his mission Prince Planet adopts the identity of an Earth boy named Bobby and gains comrades who work together alongside him combating evil forces both alien and terrestrial. \n(Source: Wikipedia) ",
+  "title": {
+    "en": "Prince Planet",
+    "jp": "Yuusei Shounen Papii"
+  },
+  "releasedAt": "1965-06-03T00:00:00.000Z",
+  "finishedAt": "1966-05-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4566/original.jpg",
+  "categories": [
+    "action",
+    "science fiction",
+    "space",
+    "super power"
+  ],
+  "externals": [
+    "http://www.hulu.com/prince-planet"
+  ],
+  "relations": {
+    "kitsu": "4566",
+    "anidb": "4282",
+    "anilist/anime": "6448",
+    "aozora": "Eheh1PGXZP",
+    "myanimelist/anime": "6448",
+    "thetvdb": "204401/1",
+    "thetvdb/series": "204401",
+    "trakt": "31552"
+  }
+}

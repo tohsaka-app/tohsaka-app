@@ -1,0 +1,26 @@
+{
+  "slug": "renkyori-enai",
+  "synopsis": "Music video from DECO*27.",
+  "title": {
+    "jp": "Renkyori Enai"
+  },
+  "releasedAt": "2011-11-10T00:00:00.000Z",
+  "finishedAt": "2011-11-10T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8871/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8871/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8871",
+    "anidb": "8984",
+    "anilist/anime": "13153",
+    "aozora": "NhELHCEUSw",
+    "myanimelist/anime": "13153"
+  }
+}

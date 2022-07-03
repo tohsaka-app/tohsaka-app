@@ -1,0 +1,26 @@
+{
+  "slug": "shenmue-the-movie",
+  "synopsis": "Using scenes from the original SEGA Dreamcast game plus some extra made for the movie, Shenmue: the Movie details the events of the first game. After Ryo's father is murdered and a mysterious mirror taken, Ryo sets himself on a quest for revenge.",
+  "title": {
+    "jp": "Shenmue: The Movie"
+  },
+  "releasedAt": "2001-09-08T00:00:00.000Z",
+  "finishedAt": "2001-09-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3663/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3663",
+    "anidb": "1597",
+    "anilist/anime": "4524",
+    "aozora": "phv4BE9OMQ",
+    "myanimelist/anime": "4524"
+  }
+}

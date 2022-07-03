@@ -1,0 +1,26 @@
+{
+  "slug": "chuunibyou-demo-koi-ga-shitai-ren-lite",
+  "synopsis": "Short episodes aired on KyoAni's official YouTube channel.",
+  "title": {
+    "en": "Love, Chunibyo & Other Delusions!: Heart Throb Lite Shorts",
+    "jp": "Chuunibyou demo Koi ga Shitai! Ren Lite"
+  },
+  "releasedAt": "2013-12-26T00:00:00.000Z",
+  "finishedAt": "2014-03-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8154/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8154/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8154",
+    "anilist/anime": "20582",
+    "aozora": "xFDXi6TVfJ",
+    "myanimelist/anime": "21797"
+  }
+}

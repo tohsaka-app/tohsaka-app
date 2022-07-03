@@ -1,0 +1,24 @@
+{
+  "slug": "guru-guru-town-hanamaru-kun",
+  "synopsis": "Guru Guru Town Hanamaru-kun follows the life of some children in a fictional town.",
+  "title": {
+    "jp": "Guru Guru Town Hanamaru-kun"
+  },
+  "releasedAt": "1999-10-03T00:00:00.000Z",
+  "finishedAt": "2001-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5240/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5240",
+    "anidb": "4669",
+    "anilist/anime": "8195",
+    "aozora": "w04siVX8iC",
+    "myanimelist/anime": "8195"
+  }
+}

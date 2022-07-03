@@ -1,0 +1,21 @@
+{
+  "slug": "cry",
+  "synopsis": "",
+  "title": {
+    "jp": "cry"
+  },
+  "releasedAt": "2010-09-29T00:00:00.000Z",
+  "finishedAt": "2010-09-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13497/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13497/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13497"
+  }
+}

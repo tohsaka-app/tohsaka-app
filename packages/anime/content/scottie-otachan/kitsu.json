@@ -1,0 +1,23 @@
+{
+  "slug": "scottie-otachan",
+  "synopsis": "Spinoff of Otachan.",
+  "title": {
+    "en": "Scottie & Otachan"
+  },
+  "releasedAt": "2021-01-29T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44239/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44239/original.png",
+  "categories": [
+    "anime influenced",
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44239"
+  }
+}

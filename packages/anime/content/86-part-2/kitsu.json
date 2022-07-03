@@ -1,0 +1,29 @@
+{
+  "slug": "86-part-2",
+  "synopsis": "The second cour of 86: Eighty-Six.",
+  "title": {
+    "en": "86 Part 2",
+    "jp": "86 Part 2"
+  },
+  "releasedAt": "2021-10-02T00:00:00.000Z",
+  "finishedAt": "2022-03-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44398/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44398/original.png",
+  "categories": [
+    "drama",
+    "science fiction",
+    "war"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/86-eighty-six"
+  ],
+  "relations": {
+    "kitsu": "44398",
+    "anidb": "16172",
+    "anilist/anime": "131586",
+    "myanimelist/anime": "48569"
+  }
+}

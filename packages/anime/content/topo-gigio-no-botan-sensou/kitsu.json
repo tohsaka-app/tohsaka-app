@@ -1,0 +1,25 @@
+{
+  "slug": "topo-gigio-no-botan-sensou",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Topo Gigio no Botan Sensou"
+  },
+  "releasedAt": "1967-07-20T00:00:00.000Z",
+  "finishedAt": "1967-07-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10671/original.jpg",
+  "categories": [
+    "historical",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10671",
+    "anidb": "9192",
+    "aozora": "hoEPxTTpsG",
+    "myanimelist/anime": "30135"
+  }
+}

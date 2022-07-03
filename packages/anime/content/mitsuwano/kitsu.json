@@ -1,0 +1,29 @@
+{
+  "slug": "mitsuwano",
+  "synopsis": "Based on Matsumoto Itsuki's \"Mitsuwano\" light novel series.\nThe story follows a group of young girls in Kyoto who dream of becoming maiko.",
+  "title": {
+    "jp": "Mitsuwano"
+  },
+  "releasedAt": "2014-03-12T00:00:00.000Z",
+  "finishedAt": "2014-03-12T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8140/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "japan",
+    "kyoto",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8140",
+    "anidb": "10325",
+    "anilist/anime": "20576",
+    "aozora": "VaDBD8efjj",
+    "myanimelist/anime": "21649"
+  }
+}

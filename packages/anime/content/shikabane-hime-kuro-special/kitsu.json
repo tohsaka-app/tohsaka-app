@@ -1,0 +1,29 @@
+{
+  "slug": "shikabane-hime-kuro-special",
+  "synopsis": "This special follows the story of how Isaki Shuuji and Ruo Minai became Contracted Priest and Shikabane Hime.",
+  "title": {
+    "en": "Corpse Princess: Kuro - Even So",
+    "jp": "Shikabane Hime: Kuro – Soredemo, Hito to Shite"
+  },
+  "releasedAt": "2009-08-05T00:00:00.000Z",
+  "finishedAt": "2009-08-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3695/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "drama",
+    "fantasy",
+    "horror",
+    "zombie"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3695",
+    "anilist/anime": "6344",
+    "aozora": "Le43IKRX2n",
+    "myanimelist/anime": "6344"
+  }
+}

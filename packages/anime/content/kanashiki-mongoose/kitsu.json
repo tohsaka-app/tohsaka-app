@@ -1,0 +1,25 @@
+{
+  "slug": "kanashiki-mongoose",
+  "synopsis": "A music video for the song by Seiji Tanaka that was featured on NHK's Minna no Uta Program.",
+  "title": {
+    "jp": "Kanashiki Mongoose"
+  },
+  "releasedAt": "1979-12-01T00:00:00.000Z",
+  "finishedAt": "1979-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10698/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10698",
+    "anidb": "12589",
+    "anilist/anime": "102521",
+    "aozora": "il2tVDNUgd",
+    "myanimelist/anime": "30167"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "radio-wave",
+  "synopsis": "Numbers stations were prominently used during the Cold War. A boy was tuning the radio in the snow mountain and happened to tune the shortwave of codes.\n\n\n(Source: Tokyo University of the Arts)",
+  "title": {
+    "en": "Radio Wave",
+    "jp": "Radio Wave"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44476/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/Ch2g9wtLoPs"
+  ],
+  "relations": {
+    "kitsu": "44476",
+    "anilist/anime": "107970"
+  }
+}

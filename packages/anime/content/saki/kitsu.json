@@ -1,0 +1,41 @@
+{
+  "slug": "saki",
+  "synopsis": "Saki Miyanaga is a high school freshman who doesn't like mahjong. Ever since she was a child, she would lose her New Year's gift money during her family mahjong game. If she won, her parents would be upset, and if she lost, well, she lost. As a result, she's learned to play in such a way that her score differential always remains ±0: not good enough to win, but not bad enough to lose. When we meet her, she's being dragged to her school's mahjong club by an old friend. How will a girl who hates mahjong, yet has become adept at the game as a result of her upbringing, survive in this environment?\n(Sources: ANN and AniDB)",
+  "title": {
+    "jp": "Saki"
+  },
+  "releasedAt": "2009-04-06T00:00:00.000Z",
+  "finishedAt": "2009-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4235/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4235/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "plot continuity",
+    "present",
+    "school clubs",
+    "school life",
+    "slice of life",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/saki"
+  ],
+  "relations": {
+    "kitsu": "4235",
+    "anidb": "6246",
+    "anilist/anime": "5671",
+    "aozora": "FgQoOk2NzQ",
+    "myanimelist/anime": "5671",
+    "thetvdb": "87841/1",
+    "thetvdb/season": "48191",
+    "thetvdb/series": "87841",
+    "trakt": "61994"
+  }
+}

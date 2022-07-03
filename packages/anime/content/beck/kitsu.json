@@ -1,0 +1,40 @@
+{
+  "slug": "beck",
+  "synopsis": "Tanaka Yukio, better known by his nickname Koyuki, is a 14-year-old who feels disconnected from life in general. Through the act of saving a mismatched dog, he meets guitarist Minami Ryuusuke, and becomes involved in Ryuusuke's new band BECK. Koyuki's life starts to change as the band struggles toward fame. ",
+  "title": {
+    "en": "Beck: Mongolian Chop Squad",
+    "jp": "Beck"
+  },
+  "releasedAt": "2004-10-07T00:00:00.000Z",
+  "finishedAt": "2005-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/38/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/38/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "idol",
+    "japan",
+    "music",
+    "musical band",
+    "present",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/mongolian-chop-squad/"
+  ],
+  "relations": {
+    "kitsu": "38",
+    "anidb": "2320",
+    "anilist/anime": "57",
+    "aozora": "KIcf6ST3C0",
+    "hulu": "50001748",
+    "myanimelist/anime": "57",
+    "thetvdb": "82796/1",
+    "thetvdb/series": "82796",
+    "trakt": "43059"
+  }
+}

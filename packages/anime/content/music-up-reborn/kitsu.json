@@ -1,0 +1,21 @@
+{
+  "slug": "music-up-reborn",
+  "synopsis": null,
+  "title": {
+    "en": "Music Up: Reborn"
+  },
+  "releasedAt": "2020-10-01T00:00:00.000Z",
+  "finishedAt": "2020-12-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43635/original.jpg",
+  "categories": [
+    "music",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43635"
+  }
+}

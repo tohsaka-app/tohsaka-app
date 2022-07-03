@@ -1,0 +1,25 @@
+{
+  "slug": "eiyuu-kaitai",
+  "synopsis": "Uro Yamada works as part of the \"Hero Retirement and Return to Everyday Life Assistance Agency,\" which takes heroes from another world back to Earth and helps them reintegrate into everyday life.\n(Source: ANN)",
+  "title": {
+    "jp": "\"Eiyuu\" Kaitai"
+  },
+  "releasedAt": "2016-11-23T00:00:00.000Z",
+  "finishedAt": "2016-11-23T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12654/original.jpg",
+  "categories": [
+    "comedy",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12654",
+    "anidb": "12142",
+    "anilist/anime": "21829",
+    "aozora": "D8HUg5tEF5",
+    "myanimelist/anime": "33363"
+  }
+}

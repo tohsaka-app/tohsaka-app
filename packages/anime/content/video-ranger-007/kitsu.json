@@ -1,0 +1,26 @@
+{
+  "slug": "video-ranger-007",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Video Ranger 007"
+  },
+  "releasedAt": "1985-01-01T00:00:00.000Z",
+  "finishedAt": "1985-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7538/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7538",
+    "anilist/anime": "16832",
+    "aozora": "EHLLEiLFU1",
+    "myanimelist/anime": "16832"
+  }
+}

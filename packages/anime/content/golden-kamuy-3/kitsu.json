@@ -1,0 +1,33 @@
+{
+  "slug": "golden-kamuy-3",
+  "synopsis": "Season 3 of Golden Kamuy.",
+  "title": {
+    "en": "Golden Kamuy 3",
+    "jp": "Golden Kamuy 3"
+  },
+  "releasedAt": "2020-10-05T00:00:00.000Z",
+  "finishedAt": "2020-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42435/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42435/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "historical",
+    "japan",
+    "past",
+    "plot continuity",
+    "seinen",
+    "violence"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/golden-kamuy"
+  ],
+  "relations": {
+    "kitsu": "42435",
+    "anilist/anime": "110355",
+    "myanimelist/anime": "40059"
+  }
+}

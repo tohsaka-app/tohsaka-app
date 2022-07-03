@@ -1,0 +1,25 @@
+{
+  "slug": "umi-no-momotarou",
+  "synopsis": "Movie from 1932. ",
+  "title": {
+    "en": "Momotaro's Underwater Adventure",
+    "jp": "Umi no Momotarou"
+  },
+  "releasedAt": "1932-01-26T00:00:00.000Z",
+  "finishedAt": "1932-01-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4228/original.jpg",
+  "categories": [
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4228",
+    "anidb": "6612",
+    "anilist/anime": "5661",
+    "aozora": "JDLzoaGI7D",
+    "myanimelist/anime": "5661"
+  }
+}

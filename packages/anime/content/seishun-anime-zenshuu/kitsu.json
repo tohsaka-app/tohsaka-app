@@ -1,0 +1,31 @@
+{
+  "slug": "seishun-anime-zenshuu",
+  "synopsis": "A brilliant collection of beautifully animated episodes based on selected masterpieces of Japanese modern literature.\nThe aim of this series is to appeal to the viewer at large and to give him or her some idea of the variety and individuality which Japanese literature has developed over the last hundred years.\nThe authors range from Higuchi Ichiyou (Takekurabe), Mori Ougai (The Dancing Girl) and Natsume Souseki (Botchan) to Kawabata Yasunari (The Izu Dancer), Nobel laureate of 1968, and Mishima Yukio (The Sound of Waves).\n(Source: Official Website)",
+  "title": {
+    "en": "Animated Classics of Japanese Literature",
+    "jp": "Seishun Anime Zenshuu"
+  },
+  "releasedAt": "1986-04-25T00:00:00.000Z",
+  "finishedAt": "1986-12-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3762/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "past",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3762",
+    "anidb": "2427",
+    "anilist/anime": "4723",
+    "aozora": "9GqpQFq8fj",
+    "myanimelist/anime": "4723",
+    "thetvdb": "265556/1",
+    "thetvdb/series": "265556",
+    "trakt": "22210"
+  }
+}

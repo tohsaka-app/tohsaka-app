@@ -1,0 +1,24 @@
+{
+  "slug": "sonna-boku-ga-suki",
+  "synopsis": "A music video for the song by Tama that was featured on NHK's Minna no Uta program.",
+  "title": {
+    "jp": "Sonna Boku ga Suki"
+  },
+  "releasedAt": "1991-12-01T00:00:00.000Z",
+  "finishedAt": "1991-12-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10635/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10635",
+    "anilist/anime": "103436",
+    "aozora": "i0gZZRbxlF",
+    "myanimelist/anime": "30082"
+  }
+}

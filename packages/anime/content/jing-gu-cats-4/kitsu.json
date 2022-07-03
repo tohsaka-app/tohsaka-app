@@ -1,0 +1,28 @@
+{
+  "slug": "jing-gu-cats-4",
+  "synopsis": "Fourth season of Jingju Mao.\n",
+  "title": {
+    "en": "Jing-ju Cats 4"
+  },
+  "releasedAt": "2020-03-24T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43333/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43333",
+    "anilist/anime": "121201",
+    "myanimelist/anime": "42147"
+  }
+}

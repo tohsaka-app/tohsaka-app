@@ -1,0 +1,22 @@
+{
+  "slug": "opette",
+  "synopsis": "Short made by Asami Ike.",
+  "title": {
+    "jp": "Opette"
+  },
+  "releasedAt": "2009-08-26T00:00:00.000Z",
+  "finishedAt": "2009-08-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43490/original.png",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=KsTiRwgHOpI"
+  ],
+  "relations": {
+    "kitsu": "43490"
+  }
+}

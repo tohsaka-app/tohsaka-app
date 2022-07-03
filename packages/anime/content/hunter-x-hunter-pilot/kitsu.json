@@ -1,0 +1,29 @@
+{
+  "slug": "hunter-x-hunter-pilot",
+  "synopsis": "The stand-alone pilot OVA which was shown as part of the \"Jump Super Anime Tour\" of 1998.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Hunter x Hunter Pilot",
+    "jp": "Hunter x Hunter Pilot"
+  },
+  "releasedAt": "1998-01-01T00:00:00.000Z",
+  "finishedAt": "1998-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6068/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy world",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6068",
+    "anidb": "8565",
+    "anilist/anime": "10189",
+    "aozora": "QfcbN3BLFt",
+    "myanimelist/anime": "10189"
+  }
+}

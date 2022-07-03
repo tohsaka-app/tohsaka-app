@@ -1,0 +1,24 @@
+{
+  "slug": "fortissimo-bell",
+  "synopsis": "Official music video for the song Fortissimo Bell by the fictional band Irodorimidori. It is the 3rd song in the franchise and focuses on Nazuna Tennozu.",
+  "title": {
+    "jp": "Fortissimo Bell"
+  },
+  "releasedAt": "2017-02-05T00:00:00.000Z",
+  "finishedAt": "2017-02-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14098/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=eZseTqN4CHc"
+  ],
+  "relations": {
+    "kitsu": "14098",
+    "anilist/anime": "102727",
+    "myanimelist/anime": "36595"
+  }
+}

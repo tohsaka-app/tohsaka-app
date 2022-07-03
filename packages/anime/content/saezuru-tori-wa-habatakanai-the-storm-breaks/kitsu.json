@@ -1,0 +1,28 @@
+{
+  "slug": "saezuru-tori-wa-habatakanai-the-storm-breaks",
+  "synopsis": "Second movie of Saezuru Tori wa Habatakanai.",
+  "title": {
+    "en": "Twittering Birds Never Fly: The Storm Breaks",
+    "jp": "Saezuru Tori wa Habatakanai: The Storm Breaks"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43596/original.jpg",
+  "categories": [
+    "crime",
+    "drama",
+    "mafia",
+    "psychological",
+    "yaoi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43596",
+    "anidb": "14889",
+    "anilist/anime": "115566",
+    "myanimelist/anime": "41289"
+  }
+}

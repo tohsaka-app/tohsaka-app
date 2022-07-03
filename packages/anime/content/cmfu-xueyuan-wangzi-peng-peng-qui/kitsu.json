@@ -1,0 +1,26 @@
+{
+  "slug": "cmfu-xueyuan-wangzi-peng-peng-qui",
+  "synopsis": "",
+  "title": {
+    "jp": "CMFU Xueyuan: Wangzi Peng Peng Qiu"
+  },
+  "releasedAt": "2016-11-03T00:00:00.000Z",
+  "finishedAt": "2017-04-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41246/original.jpg",
+  "categories": [
+    "romance",
+    "school clubs",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41246",
+    "anidb": "13810",
+    "anilist/anime": "103334",
+    "myanimelist/anime": "37619"
+  }
+}

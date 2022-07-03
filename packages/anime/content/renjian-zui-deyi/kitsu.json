@@ -1,0 +1,20 @@
+{
+  "slug": "renjian-zui-deyi",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2021-10-27T00:00:00.000Z",
+  "finishedAt": "2022-05-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45378/poster_image/10201cb35fd31146b2677d446a86a404.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45378",
+    "anilist/anime": "137678"
+  }
+}

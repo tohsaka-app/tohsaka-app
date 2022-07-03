@@ -1,0 +1,28 @@
+{
+  "slug": "kingsglaive-final-fantasy-xv",
+  "synopsis": "The magical kingdom of Lucis is home to the hallowed Crystal, but the menacing empire of Niflheim will stop at nothing to make it theirs. War has raged between the two for as long as most can remember. King Regis of Lucis commands an elite force of soldiers dubbed the Kingsglaive. Wielding their king's magic, Nyx Ulric and his fellow glaives stand before the crown city of Insomnia, fighting to stay the inexorable advance of Niflheim's imperial army.\n(Source: ANN)",
+  "title": {
+    "en": "Kingsglaive: Final Fantasy XV",
+    "jp": "Kingsglaive: Final Fantasy XV"
+  },
+  "releasedAt": "2016-07-09T00:00:00.000Z",
+  "finishedAt": "2016-07-09T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12020/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12020/original.jpg",
+  "categories": [
+    "action",
+    "fantasy world",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12020",
+    "anidb": "12054",
+    "anilist/anime": "21729",
+    "aozora": "iz63NopfdQ",
+    "myanimelist/anime": "33082"
+  }
+}

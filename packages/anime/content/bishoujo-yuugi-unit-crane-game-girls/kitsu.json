@@ -1,0 +1,29 @@
+{
+  "slug": "bishoujo-yuugi-unit-crane-game-girls",
+  "synopsis": "The series follows three girls aspiring to become idols while also working part time at a game center. Little do they know that, in reality, they are gathered by a mysterious organization to protect the Earth from a large meteorite.\n(Source: MAL News)",
+  "title": {
+    "en": "Crane Game Girls",
+    "jp": "Bishoujo Yuugi Unit Crane Game Girls"
+  },
+  "releasedAt": "2016-04-06T00:00:00.000Z",
+  "finishedAt": "2016-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11932/original.jpg",
+  "categories": [
+    "comedy",
+    "space",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11932",
+    "anidb": "11983",
+    "anilist/anime": "21694",
+    "aozora": "o0pucZZxZ1",
+    "myanimelist/anime": "32906",
+    "thetvdb": "309151/1",
+    "trakt": "106492"
+  }
+}

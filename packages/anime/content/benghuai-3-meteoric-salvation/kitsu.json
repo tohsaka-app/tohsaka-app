@@ -1,0 +1,28 @@
+{
+  "slug": "benghuai-3-meteoric-salvation",
+  "synopsis": "Though dreadful gloom grips this endless nightI will burn like a star and give hope its light For your vows are mine and I shall make things right.",
+  "title": {
+    "en": "Honkai Impact 3rd: Meteoric Salvation",
+    "jp": "Benghuai 3: Meteoric Salvation"
+  },
+  "releasedAt": "2020-02-27T00:00:00.000Z",
+  "finishedAt": "2020-02-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43628/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43628/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "power suit",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=nbRlNQ1oZVY&ab_channel=HonkaiImpact3rd"
+  ],
+  "relations": {
+    "kitsu": "43628",
+    "anilist/anime": "129689"
+  }
+}

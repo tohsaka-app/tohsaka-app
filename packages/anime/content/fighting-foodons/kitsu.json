@@ -1,0 +1,32 @@
+{
+  "slug": "fighting-foodons",
+  "synopsis": "An 11-year old boy named Zen bands together with his younger sister, Karen, and a young boy who has a large appetite, Pitan, to battle an evil empire by using their \"Foodons\"; strange monsters that are created from various foods.\n\n(Source: ANN)",
+  "title": {
+    "en": "Fighting Foodons",
+    "jp": "Kakutō Ryōri Densetsu Bistro Recipe"
+  },
+  "releasedAt": "2001-12-11T00:00:00.000Z",
+  "finishedAt": "2002-06-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2072/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "cooking",
+    "fantasy",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2072",
+    "anidb": "4696",
+    "anilist/anime": "2287",
+    "aozora": "mxFPX60bl0",
+    "myanimelist/anime": "2287",
+    "thetvdb": "80623/1",
+    "thetvdb/series": "80623",
+    "trakt": "16028"
+  }
+}

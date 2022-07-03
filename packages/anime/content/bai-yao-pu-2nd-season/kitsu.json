@@ -1,0 +1,26 @@
+{
+  "slug": "bai-yao-pu-2nd-season",
+  "synopsis": "Second season of Bai Yao Pu",
+  "title": {
+    "en": "Fairies Albums 2"
+  },
+  "releasedAt": "2021-07-18T00:00:00.000Z",
+  "finishedAt": "2021-09-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43789/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "historical",
+    "mystery",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43789",
+    "anilist/anime": "126347",
+    "myanimelist/anime": "44067"
+  }
+}

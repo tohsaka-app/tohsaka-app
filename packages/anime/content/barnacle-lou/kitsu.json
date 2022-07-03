@@ -1,0 +1,23 @@
+{
+  "slug": "barnacle-lou",
+  "synopsis": "A lovely story of a little seagull Lou who thinks of himself as a barnacle.\n(Source: Olive Studio)",
+  "title": {
+    "jp": "Barnacle Lou"
+  },
+  "releasedAt": "2009-08-24T00:00:00.000Z",
+  "finishedAt": "2009-12-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9138/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9138",
+    "anidb": "9715",
+    "aozora": "jJx3H1uStl",
+    "myanimelist/anime": "24875"
+  }
+}

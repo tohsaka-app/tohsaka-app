@@ -1,0 +1,20 @@
+{
+  "slug": "taka-no-tsume-7-joou-heika-no-jobuubu",
+  "synopsis": "",
+  "title": {
+    "jp": "Taka no Tsume 7: Joou Heika no Jobuubu"
+  },
+  "releasedAt": "2014-04-04T00:00:00.000Z",
+  "finishedAt": "2014-04-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41729/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41729",
+    "anilist/anime": "115336",
+    "myanimelist/anime": "37115"
+  }
+}

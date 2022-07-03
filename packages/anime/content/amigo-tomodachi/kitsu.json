@@ -1,0 +1,24 @@
+{
+  "slug": "amigo-tomodachi",
+  "synopsis": "An educational film about how difficult it is learning the culture and customs of a new land. And how bullying foreigners or even Japanese people who have come back home after an extended stay in a foreign country after they picked up the customs, is the manifestation of a weak consciousness.",
+  "title": {
+    "jp": "Amigo Tomodachi"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8957/original.jpg",
+  "categories": [
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8957",
+    "anidb": "10146",
+    "aozora": "6Za6wUtBJE",
+    "myanimelist/anime": "24865"
+  }
+}

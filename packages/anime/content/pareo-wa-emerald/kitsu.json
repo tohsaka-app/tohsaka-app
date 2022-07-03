@@ -1,0 +1,23 @@
+{
+  "slug": "pareo-wa-emerald",
+  "synopsis": "Animated version of the music video of SKE48's 6th single \"Pareo wa Emerald\", which was shown on their own variety show SKE48 no Sekai Seifuku Joshi.",
+  "title": {
+    "jp": "Pareo wa Emerald"
+  },
+  "releasedAt": "2011-11-14T00:00:00.000Z",
+  "finishedAt": "2011-11-14T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10895/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10895",
+    "anilist/anime": "103985",
+    "aozora": "2V2lslr5CR",
+    "myanimelist/anime": "30576"
+  }
+}

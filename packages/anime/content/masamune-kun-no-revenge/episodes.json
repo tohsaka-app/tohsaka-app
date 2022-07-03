@@ -1,0 +1,112 @@
+[
+  {
+    "title": {
+      "jp": "Tonsoku to Yobareta Otoko"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5475/original.png",
+    "releasedAt": "2017-01-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cinderella wa Warawanai"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/5474/original.jpg",
+    "releasedAt": "2017-01-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yoshino no Magic Show"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2017-01-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Imakoso ni Aru Kiki"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2017-01-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mysterious Cat"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2017-02-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Totsugeki! Otaku Houmonsen"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2017-02-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tsunadejima Jiken"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2017-02-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kimi ja Nai n da"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2017-02-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ai to mo Koi to mo Iu keredo"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2017-03-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Giwaku no Shingakki"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2017-03-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Yasakasai no Shirayukihime"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2017-03-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Shindemo Mic wo Tebasasuna"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2017-03-23T00:00:00.000Z",
+    "content": {}
+  }
+]

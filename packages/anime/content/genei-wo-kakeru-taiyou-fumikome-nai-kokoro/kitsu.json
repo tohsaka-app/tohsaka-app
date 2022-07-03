@@ -1,0 +1,25 @@
+{
+  "slug": "genei-wo-kakeru-taiyou-fumikome-nai-kokoro",
+  "synopsis": "Unaired 14th episode of Genei wo Kakeru Taiyou, broadcast on Nico Nico and included in the 4th Blu-ray and DVD volumes. It shows Akari and Fuyuna's lives prior to the main series as well as how Luna got started as a magical girl.",
+  "title": {
+    "en": "Day Break Illusion Special",
+    "jp": "Genei wo Kakeru Taiyou: Fumikomenai Kokoro"
+  },
+  "releasedAt": "2013-11-16T00:00:00.000Z",
+  "finishedAt": "2013-11-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8181/original.png",
+  "categories": [
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8181",
+    "anilist/anime": "20187",
+    "aozora": "lf1ROm8Kst",
+    "myanimelist/anime": "20187"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "area-no-kishi",
+  "synopsis": "Kakeru and Suguru are brothers who both have a flaming passion for soccer. However, while Suguru becomes a rising star in the Japanese youth soccer system, Kakeru decides to take on a managerial role after struggling on the field. But due to a cruel twist of fate, Kakeru ends up reevaluating the role he has chosen.\nIn hopes of one day being able to enter the World Cup by becoming a member of the national team, Kakeru trains harder than anyone else. He isn’t alone in this quest for glory, though. Kakeru's childhood friend, Nana, is a soccer prodigy of her own, with the wicked nickname “Little Witch”. She is a top-ranked player and is already playing for Nadeshiko Japan, the Japanese women’s national team. Nana's success gives Kakeru the extra push he needs to reach for his goals.\nSoccer and adolescent fervor combine for an epic, emotional ride. Check it out for yourself in Area no Kishi!",
+  "title": {
+    "en": "The Knight in the Area",
+    "jp": "Area no Kishi"
+  },
+  "releasedAt": "2012-01-07T00:00:00.000Z",
+  "finishedAt": "2012-09-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6567/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6567/original.jpg",
+  "categories": [
+    "comedy",
+    "drama",
+    "japan",
+    "plot continuity",
+    "present",
+    "school life",
+    "soccer",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/the-knight-in-the-area"
+  ],
+  "relations": {
+    "kitsu": "6567",
+    "anidb": "8798",
+    "anilist/anime": "11697",
+    "aozora": "obkODbvfOC",
+    "myanimelist/anime": "11697",
+    "thetvdb": "254660/1",
+    "thetvdb/series": "254660",
+    "trakt": "44938"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "sengoku-choujuu-giga-otsu",
+  "synopsis": "Second season of Sengoku Choujuu Giga.",
+  "title": {
+    "en": "SENGOKUCHOJYUGIGA",
+    "jp": "Sengoku Choujuu Giga: Otsu"
+  },
+  "releasedAt": "2017-01-15T00:00:00.000Z",
+  "finishedAt": "2017-04-09T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13186/original.jpg",
+  "categories": [
+    "demon",
+    "fantasy",
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13186",
+    "anidb": "12718",
+    "anilist/anime": "116053",
+    "aozora": "bQpTSEGakC",
+    "myanimelist/anime": "34738"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "felicia-music",
+  "synopsis": "Music video animated by Shimada for the song Felicia by AZKi.\n\nThis is the second MV released for this song.",
+  "title": {
+    "en": "Felicia",
+    "jp": "Felicia"
+  },
+  "releasedAt": "2021-09-05T00:00:00.000Z",
+  "finishedAt": "2021-09-05T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45362/poster_image/e9d0cac8577443e9e58b09881a166139.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Lt7KxY8V4jM"
+  ],
+  "relations": {
+    "kitsu": "45362",
+    "anilist/anime": "138723",
+    "myanimelist/anime": "49768"
+  }
+}

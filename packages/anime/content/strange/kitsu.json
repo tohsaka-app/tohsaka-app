@@ -1,0 +1,36 @@
+{
+  "slug": "strange",
+  "synopsis": "Kou comes to a slum neighborhood in search of his elder brother Takumi and finds him to have become the head of a private detective firm. Kou is drafted by Takumi to do errands and chores in the detective firm, and they come to meet various interesting people...\n(Source: MAL News)",
+  "title": {
+    "jp": "Strange+"
+  },
+  "releasedAt": "2014-01-10T00:00:00.000Z",
+  "finishedAt": "2014-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8099/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8099/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "comedy",
+    "detective",
+    "parody",
+    "slapstick",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/strange"
+  ],
+  "relations": {
+    "kitsu": "8099",
+    "anidb": "10228",
+    "anilist/anime": "20490",
+    "aozora": "WSg2vGAbgA",
+    "myanimelist/anime": "21067",
+    "thetvdb": "276345/1",
+    "thetvdb/season": "570421",
+    "thetvdb/series": "276345",
+    "trakt": "74646"
+  }
+}

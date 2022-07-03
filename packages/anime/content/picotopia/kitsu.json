@@ -1,0 +1,26 @@
+{
+  "slug": "picotopia",
+  "synopsis": "RIKEN's (The Incorporated Administrative Agency Rikagaku Kenkyusho) promotional video with animation by Mirai Mizue and music by twoth.",
+  "title": {
+    "jp": "Picotopia"
+  },
+  "releasedAt": "2013-07-03T00:00:00.000Z",
+  "finishedAt": "2013-07-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8219/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8219/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8219",
+    "anidb": "11456",
+    "anilist/anime": "98567",
+    "aozora": "yYudobbazH",
+    "myanimelist/anime": "21607"
+  }
+}

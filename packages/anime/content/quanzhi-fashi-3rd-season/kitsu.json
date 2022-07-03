@@ -1,0 +1,26 @@
+{
+  "slug": "quanzhi-fashi-3rd-season",
+  "synopsis": "Third season of Quanzhi Fashi.",
+  "title": {
+    "en": "Full-Time Magister 3"
+  },
+  "releasedAt": "2018-10-12T00:00:00.000Z",
+  "finishedAt": "2018-12-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41997/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/41997/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41997",
+    "anilist/anime": "104745",
+    "myanimelist/anime": "38528"
+  }
+}

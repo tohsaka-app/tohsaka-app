@@ -1,0 +1,27 @@
+{
+  "slug": "toaru-kagaku-no-railgun-s-daiji-na-koto-wa-zenbu-sentou-ni-osowatta",
+  "synopsis": "Bundled with the official visual book.",
+  "title": {
+    "en": "A Certain Scientific Railgun S: All the Important Things I Learned in a Bathhouse",
+    "jp": "Toaru Kagaku no Railgun S: Daiji na Koto wa Zenbu Sentou ni Osowatta"
+  },
+  "releasedAt": "2014-03-25T00:00:00.000Z",
+  "finishedAt": "2014-03-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8357/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8357/original.jpg",
+  "categories": [
+    "comedy",
+    "friendship"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8357",
+    "anidb": "10453",
+    "anilist/anime": "20686",
+    "aozora": "CRmh2HdulN",
+    "myanimelist/anime": "22759"
+  }
+}

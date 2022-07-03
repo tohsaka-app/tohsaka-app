@@ -1,0 +1,34 @@
+{
+  "slug": "shin-kaitei-gunkan",
+  "synopsis": "Moments after an atomic bomb falls over Hiroshima, a secret Japanese submarine sails into battle against its American counterpart, and both are lost to history. Some fifty years later, a special UN task force sent to investigate unusual phenomena in Antarctica is threatened by a mysterious black cylinder.\n(Source: ANN)",
+  "title": {
+    "en": "Super Atragon",
+    "jp": "Shin Kaitei Gunkan"
+  },
+  "releasedAt": "1995-12-21T00:00:00.000Z",
+  "finishedAt": "1996-08-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1747/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alternative present",
+    "earth",
+    "fantasy",
+    "historical",
+    "military",
+    "navy",
+    "present",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1747",
+    "anidb": "1189",
+    "anilist/anime": "1938",
+    "aozora": "9N9U4uyrLT",
+    "myanimelist/anime": "1938"
+  }
+}

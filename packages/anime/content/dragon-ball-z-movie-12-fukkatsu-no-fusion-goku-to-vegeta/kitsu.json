@@ -1,0 +1,32 @@
+{
+  "slug": "dragon-ball-z-movie-12-fukkatsu-no-fusion-goku-to-vegeta",
+  "synopsis": "Not paying attention to his job, a young demon allows the evil cleansing machine to overflow and explode, turning the young demon into the infamous monster Janemba. Goku and Vegeta make solo attempts to defeat the monster, but realize their only option is fusion.\n(Source: ANN)",
+  "title": {
+    "en": "Dragon Ball Z Movie 12: Fusion Reborn",
+    "jp": "Dragon Ball Z Movie 12: Fukkatsu no Fusion!! Gokuu to Vegeta"
+  },
+  "releasedAt": "1995-03-04T00:00:00.000Z",
+  "finishedAt": "1995-03-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/805/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/805/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "science fiction",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "805",
+    "anidb": "1071",
+    "anilist/anime": "905",
+    "aozora": "BkXIA0viQj",
+    "myanimelist/anime": "905"
+  }
+}

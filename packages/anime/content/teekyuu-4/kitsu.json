@@ -1,0 +1,37 @@
+{
+  "slug": "teekyuu-4",
+  "synopsis": "Fourth season of Teekyuu series.",
+  "title": {
+    "en": "Teekyu 4",
+    "jp": "Teekyuu 4"
+  },
+  "releasedAt": "2015-04-07T00:00:00.000Z",
+  "finishedAt": "2015-06-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8906/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8906/original.jpg",
+  "categories": [
+    "absurdist humour",
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "sports"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/teekyu"
+  ],
+  "relations": {
+    "kitsu": "8906",
+    "anidb": "10820",
+    "anilist/anime": "20833",
+    "aozora": "CrgZf6mD4M",
+    "myanimelist/anime": "26395",
+    "thetvdb": "262856/4",
+    "thetvdb/season": "570791",
+    "thetvdb/series": "262856",
+    "trakt": "67893"
+  }
+}

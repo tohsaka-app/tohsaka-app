@@ -1,0 +1,37 @@
+{
+  "slug": "hungry-heart-wild-striker",
+  "synopsis": "Kyosuke Kano has lived under the shadow of his successful brother Seisuke all his life who is a professional soccer player. Tired of being compared and downgraded at, he abandoned playing soccer until a boy from his new highschool discovered him and asked him to join their team. Kyosuke joins it and befriends two other first year players named Rodrigo and Sakai with the dream of becomming professional soccer players themselves.\n(Source: ANN)",
+  "title": {
+    "jp": "Hungry Heart: Wild Striker"
+  },
+  "releasedAt": "2002-09-11T00:00:00.000Z",
+  "finishedAt": "2003-09-10T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "high school",
+    "japan",
+    "present",
+    "school life",
+    "slice of life",
+    "soccer",
+    "sports"
+  ],
+  "externals": [
+    "https://www.youtube.com/playlist?list=PLbfBE23aoVrtf9w8gHTMyzhz2QqbusGqW"
+  ],
+  "relations": {
+    "kitsu": "8",
+    "anidb": "612",
+    "anilist/anime": "17",
+    "aozora": "87tREGQNdT",
+    "myanimelist/anime": "17",
+    "thetvdb": "81003/1",
+    "thetvdb/series": "81003",
+    "trakt": "65625"
+  }
+}

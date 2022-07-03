@@ -1,0 +1,25 @@
+{
+  "slug": "umacha",
+  "synopsis": "Animated videos, advertising ice tea manufactured by the Asahi Beverage Company.",
+  "title": {
+    "jp": "Umacha"
+  },
+  "releasedAt": "2001-03-05T00:00:00.000Z",
+  "finishedAt": "2001-05-18T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5862/original.jpg",
+  "categories": [
+    "earth",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5862",
+    "anidb": "3682",
+    "anilist/anime": "9777",
+    "aozora": "kGKtJJbLui",
+    "myanimelist/anime": "9777"
+  }
+}

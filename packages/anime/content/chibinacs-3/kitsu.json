@@ -1,0 +1,22 @@
+{
+  "slug": "chibinacs-3",
+  "synopsis": "The 3rd and final season of Chibinacs.",
+  "title": {
+    "jp": "Chibinacs 3"
+  },
+  "releasedAt": "2008-06-03T00:00:00.000Z",
+  "finishedAt": "2008-11-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11705/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11705",
+    "aozora": "QerfEPs2ym",
+    "myanimelist/anime": "32419"
+  }
+}

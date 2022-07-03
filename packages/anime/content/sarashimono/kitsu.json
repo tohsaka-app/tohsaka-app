@@ -1,0 +1,24 @@
+{
+  "slug": "sarashimono",
+  "synopsis": "A music video for the song Sarashimono by Gen Hoshino",
+  "title": {
+    "jp": "Sarashimono"
+  },
+  "releasedAt": "2020-03-18T00:00:00.000Z",
+  "finishedAt": "2020-03-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43122/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=H6QFLov4WUA"
+  ],
+  "relations": {
+    "kitsu": "43122",
+    "anilist/anime": "139677",
+    "myanimelist/anime": "41485"
+  }
+}

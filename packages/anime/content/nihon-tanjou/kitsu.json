@@ -1,0 +1,23 @@
+{
+  "slug": "nihon-tanjou",
+  "synopsis": "A history of Japan with the main characters as animals.\n(Source: AniDB)",
+  "title": {
+    "jp": "Nippon Tanjou"
+  },
+  "releasedAt": "1970-06-10T00:00:00.000Z",
+  "finishedAt": "1970-10-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9489/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9489",
+    "anidb": "3509",
+    "aozora": "DQ8msZW9K3",
+    "myanimelist/anime": "22999"
+  }
+}

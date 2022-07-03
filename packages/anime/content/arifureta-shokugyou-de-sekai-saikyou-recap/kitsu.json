@@ -1,0 +1,28 @@
+{
+  "slug": "arifureta-shokugyou-de-sekai-saikyou-recap",
+  "synopsis": "Recap of the first five episodes of Arifureta Shokugyou de Sekai Saikyou.",
+  "title": {
+    "en": "Arifureta: From Commonplace to World's Strongest Recap",
+    "jp": "Arifureta Shokugyou de Sekai Saikyou Recap"
+  },
+  "releasedAt": "2019-08-12T00:00:00.000Z",
+  "finishedAt": "2019-08-12T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42493/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "harem",
+    "vampire"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/arifureta-from-commonplace-to-worlds-strongest/"
+  ],
+  "relations": {
+    "kitsu": "42493",
+    "myanimelist/anime": "40239"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "slug": "butazuka",
+  "synopsis": "Butazuka (Pig Mound) was born after TEI took part in designing toys for Sony Creative Products in 2003 for their virtual animation series, Vanimal Zoo. In 2005, its 3D animation was broadcast by Yahoo! JAPAN. In December that same year, a Butazuka DVD featuring 13 stories was released by VAP.\n(Source: Okosama-Star Inc.)",
+  "title": {
+    "jp": "Butazuka"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10377/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10377",
+    "aozora": "G0V4TXTqDn",
+    "myanimelist/anime": "29742"
+  }
+}

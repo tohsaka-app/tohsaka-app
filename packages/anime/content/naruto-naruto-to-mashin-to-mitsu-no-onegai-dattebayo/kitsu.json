@@ -1,0 +1,31 @@
+{
+  "slug": "naruto-naruto-to-mashin-to-mitsu-no-onegai-dattebayo",
+  "synopsis": "Naruto discovers a genie's bottle while he and the gang are at a genin grill party. When everyone finds out about the genie's ability to grant wishes, the ultimate chase begins.\n(Source: AniDB)",
+  "title": {
+    "jp": "Naruto Soyokazeden Movie: Naruto to Mashin to Mitsu no Onegai Dattebayo!!"
+  },
+  "releasedAt": "2010-07-31T00:00:00.000Z",
+  "finishedAt": "2010-07-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6282/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6282/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy world",
+    "martial arts",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6282",
+    "anidb": "8387",
+    "anilist/anime": "10659",
+    "aozora": "j84NlrEEiN",
+    "myanimelist/anime": "10659"
+  }
+}

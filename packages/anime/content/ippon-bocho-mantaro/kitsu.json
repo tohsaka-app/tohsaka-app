@@ -1,0 +1,28 @@
+{
+  "slug": "ippon-bocho-mantaro",
+  "synopsis": "Based on the manga by Big Joe (ビッグ錠).",
+  "title": {
+    "jp": "Ippon Bouchou Mantarou"
+  },
+  "releasedAt": "1991-06-21T00:00:00.000Z",
+  "finishedAt": "1991-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4542/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "cooking",
+    "earth",
+    "japan"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4542",
+    "anidb": "7463",
+    "anilist/anime": "6384",
+    "aozora": "TFAKv3AM2l",
+    "myanimelist/anime": "6384"
+  }
+}

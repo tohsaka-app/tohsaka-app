@@ -1,0 +1,23 @@
+{
+  "slug": "magical-music-train",
+  "synopsis": "A music video for Rag Fair's song \"Magical Music Train.\"",
+  "title": {
+    "jp": "Magical Music Train"
+  },
+  "releasedAt": "2009-08-06T00:00:00.000Z",
+  "finishedAt": "2009-08-06T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12573/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12573",
+    "anilist/anime": "102375",
+    "aozora": "95q8rx2OtK",
+    "myanimelist/anime": "33907"
+  }
+}

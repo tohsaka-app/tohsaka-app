@@ -1,0 +1,26 @@
+{
+  "slug": "tadaima-chibi-godzilla-season-2",
+  "synopsis": "Second season of Tadaima! Chibi Godzilla.",
+  "title": {
+    "en": "I’m home, Chibigodzilla Season 2",
+    "jp": "Tadaima! Chibi Godzilla Season 2"
+  },
+  "releasedAt": "2020-12-13T00:00:00.000Z",
+  "finishedAt": "2021-02-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45740/poster_image/a7115aac075072e1f7b8a6ddd3565a8d.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "slice of life",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45740",
+    "anilist/anime": "128019",
+    "myanimelist/anime": "45611"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "saint-elmo-hikari-no-raihousha",
+  "synopsis": "Inside Mercury, Japan builds a large-sized solar space power plant. The plant supports Earth with its large solar energy supply but suddenly there is an abnormality at the Saint Elmo plant. To pinpoint the problem, Earth sends several technicians to fix it.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Saint Elmo: Apostle of Light",
+    "jp": "Saint Elmo: Hikari no Raihousha"
+  },
+  "releasedAt": "1987-12-31T00:00:00.000Z",
+  "finishedAt": "1987-12-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5391/original.jpg",
+  "categories": [
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5391",
+    "anidb": "2413",
+    "anilist/anime": "8561",
+    "aozora": "aUrCN5J01P",
+    "myanimelist/anime": "8561"
+  }
+}

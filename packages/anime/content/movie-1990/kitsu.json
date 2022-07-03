@@ -1,0 +1,25 @@
+{
+  "slug": "movie-1990",
+  "synopsis": "A Hello Kitty theatrical version of Thumbelina.",
+  "title": {
+    "jp": "Hello Kitty no Oyayubi-hime"
+  },
+  "releasedAt": "1990-07-21T00:00:00.000Z",
+  "finishedAt": "1990-07-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13224/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13224",
+    "aozora": "2DTN7B5nx6",
+    "myanimelist/anime": "32622"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "ryo",
+  "synopsis": "Ryo is about the son of a samurai who lost his parents during the attack of English ships on a Japanese town who is given the name Ryo and becomes the bodyguard of Ryoma Sakamoto, a man who has his own plan to fight for the country.\n(Source: ANN)",
+  "title": {
+    "jp": "Ryo"
+  },
+  "releasedAt": "2013-03-02T00:00:00.000Z",
+  "finishedAt": "2013-03-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7114/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "samurai",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7114",
+    "anidb": "9251",
+    "anilist/anime": "14347",
+    "aozora": "I3dySHIJ5Y",
+    "myanimelist/anime": "14347"
+  }
+}

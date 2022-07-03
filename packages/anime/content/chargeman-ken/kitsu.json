@@ -1,0 +1,29 @@
+{
+  "slug": "chargeman-ken",
+  "synopsis": "Ken Izumi is a kid who can charge his powers from surrounding light sources and use them through a laser type gun.",
+  "title": {
+    "jp": "Chargeman Ken!"
+  },
+  "releasedAt": "1974-04-01T00:00:00.000Z",
+  "finishedAt": "1974-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4541/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/4541/cover_image/60488de78b5cf2f2cfa54da0799c33f0.jpeg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/chargeman-ken"
+  ],
+  "relations": {
+    "kitsu": "4541",
+    "anidb": "3111",
+    "anilist/anime": "6383",
+    "aozora": "Msj1Un9z5G",
+    "myanimelist/anime": "6383"
+  }
+}

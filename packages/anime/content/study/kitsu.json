@@ -1,0 +1,22 @@
+{
+  "slug": "Study",
+  "synopsis": "Short animation directed by Takashi Ohashi, featuring the song Delight by Haruka Nakamura from his album \"Afterglow.\"",
+  "title": {
+    "jp": "Study"
+  },
+  "releasedAt": "2008-10-28T00:00:00.000Z",
+  "finishedAt": "2008-10-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42836/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42836",
+    "anilist/anime": "111995",
+    "myanimelist/anime": "39294"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "baby-felix",
+  "synopsis": "A young Felix the Cat and his baby pals find fun and mischief along their travels.",
+  "title": {
+    "en": "Baby Felix",
+    "jp": "Baby Felix"
+  },
+  "releasedAt": "2000-10-08T00:00:00.000Z",
+  "finishedAt": "2001-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5251/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5251",
+    "anidb": "7082",
+    "anilist/anime": "8220",
+    "aozora": "4mLtDV5zmN",
+    "myanimelist/anime": "8220"
+  }
+}

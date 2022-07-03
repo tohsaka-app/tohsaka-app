@@ -1,0 +1,27 @@
+{
+  "slug": "urashimasakatasen-no-nichijou",
+  "synopsis": "School life -- it's an experience that everyone should have, and no one should take for granted. Of course, everyone knows that the most enviable way to spend high school is as the most popular person in class. Transfer student Urata has decided that his high school debut will be brilliant, and as he reaches nervously for the door -- it happens. In his way stand fellow high school students Shima, Sakata, and Senra! Are they enemies? Allies? Or something else entirely?!\n\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Days of Urashimasakatasen",
+    "jp": "Urashimasakatasen no Nichijou"
+  },
+  "releasedAt": "2019-10-02T00:00:00.000Z",
+  "finishedAt": "2019-12-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42546/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/days-of-urashimasakatasen"
+  ],
+  "relations": {
+    "kitsu": "42546",
+    "anilist/anime": "110811",
+    "myanimelist/anime": "40197"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "spacedev",
+  "synopsis": "",
+  "title": {
+    "jp": "SpaceDEV"
+  },
+  "releasedAt": "2012-09-20T00:00:00.000Z",
+  "finishedAt": "2012-09-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13391/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13391"
+  }
+}

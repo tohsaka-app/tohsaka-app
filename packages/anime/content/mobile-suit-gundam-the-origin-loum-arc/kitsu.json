@@ -1,0 +1,28 @@
+{
+  "slug": "mobile-suit-gundam-the-origin-loum-arc",
+  "synopsis": "The screenings of the third episode of Mobile Suit Gundam: The Origin ended with the announcement that production has been green-lit for the Loum Arc that will cover the Battle of Loum.\n\n(Source: ANN)",
+  "title": {
+    "en": "Mobile Suit Gundam: The Origin - Loum Arc",
+    "jp": "Kidou Senshi Gundam: The Origin - Loum-hen"
+  },
+  "releasedAt": "2017-11-09T00:00:00.000Z",
+  "finishedAt": "2018-05-05T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12198/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12198/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "science fiction",
+    "space"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/mobile-suit-gundam-the-origin-advent-of-the-red-comet"
+  ],
+  "relations": {
+    "kitsu": "12198"
+  }
+}

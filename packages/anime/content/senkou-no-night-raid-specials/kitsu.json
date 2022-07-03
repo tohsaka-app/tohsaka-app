@@ -1,0 +1,30 @@
+{
+  "slug": "senkou-no-night-raid-specials",
+  "synopsis": "Three un-aired episodes included on the BD/DVD volumes. See More Info for an episode list.",
+  "title": {
+    "en": "Night Raid 1931 Specials",
+    "jp": "Senkou no Night Raid Specials"
+  },
+  "releasedAt": "2010-06-23T00:00:00.000Z",
+  "finishedAt": "2010-12-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5499/original.jpg",
+  "categories": [
+    "action",
+    "historical",
+    "military",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/night-raid-1931",
+    "http://www.hulu.com/night-raid-1931"
+  ],
+  "relations": {
+    "kitsu": "5499",
+    "anilist/anime": "8800",
+    "aozora": "VRERJckWyZ",
+    "myanimelist/anime": "8800"
+  }
+}

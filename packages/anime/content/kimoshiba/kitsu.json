@@ -1,0 +1,23 @@
+{
+  "slug": "kimoshiba",
+  "synopsis": "Kimoshiba is a weird type of life form with the shape of an oversize shiba inu, loves eating curry (particularly curry breads), and works at a funeral home. Similar life forms include yamishiba and onishiba.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Kimoshiba"
+  },
+  "releasedAt": "2016-10-02T00:00:00.000Z",
+  "finishedAt": "2016-12-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12655/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12655",
+    "anidb": "12468",
+    "aozora": "SdX1swMiZE",
+    "myanimelist/anime": "34233"
+  }
+}

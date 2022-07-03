@@ -1,0 +1,24 @@
+{
+  "slug": "outsider-requiem",
+  "synopsis": "Official music video for the song Outsider:Requiem by the fictional band Irodorimidori. It is the 23rd song in the franchise and focuses on Naru Hakobe.",
+  "title": {
+    "en": "-OutsideR:RequieM-",
+    "jp": "Outsider:Requiem"
+  },
+  "releasedAt": "2018-01-23T00:00:00.000Z",
+  "finishedAt": "2018-01-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41034/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41034",
+    "anilist/anime": "102849",
+    "myanimelist/anime": "37356"
+  }
+}

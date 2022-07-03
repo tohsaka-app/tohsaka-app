@@ -1,0 +1,23 @@
+{
+  "slug": "teinenpi-shoujo-haiji",
+  "synopsis": "Commercial web animation made for Nissan Note. Despite being a commercial, the content is highly independent, starting with a little girl keep asking everyone what is \"Teinenpi\", a kanji word meaning low fuel cost. \nIt features a parody of the classic anime \"Heidi\" in 1974 but directed by Mr. Fumihara Satoshi, the director of the gag anime \"The World of Golden Eggs\".\nIt also features Mr. Koumoto Junichi playing multiple roles including: Heidi's Grandpa, Peter, Kurara and the sheep!\n(Source: news.searchina.ne.jp)",
+  "title": {
+    "jp": "Teinenpi Shoujo Haiji"
+  },
+  "releasedAt": "2009-05-01T00:00:00.000Z",
+  "finishedAt": "2010-07-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5226/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5226",
+    "anilist/anime": "8176",
+    "aozora": "eitka7JsAr",
+    "myanimelist/anime": "8176"
+  }
+}

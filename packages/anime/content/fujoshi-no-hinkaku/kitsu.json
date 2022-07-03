@@ -1,0 +1,23 @@
+{
+  "slug": "fujoshi-no-hinkaku",
+  "synopsis": "Fujyoko is a 24 year old office worker. She admires her fashionable senpai Takayo, but one day she meets her at a doujinshi event.",
+  "title": {
+    "jp": "Fujoshi no Hinkaku"
+  },
+  "releasedAt": "2010-02-26T00:00:00.000Z",
+  "finishedAt": "2010-02-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5227/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5227",
+    "anilist/anime": "8178",
+    "aozora": "MN1E2iwKmW",
+    "myanimelist/anime": "8178"
+  }
+}

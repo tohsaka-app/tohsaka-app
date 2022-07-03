@@ -1,0 +1,24 @@
+{
+  "slug": "yoakemade",
+  "synopsis": "MV for the song Until Dawn by Ryushen.",
+  "title": {
+    "en": "Until Dawn",
+    "jp": "Yoakemade"
+  },
+  "releasedAt": "2020-06-08T00:00:00.000Z",
+  "finishedAt": "2020-06-08T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43927/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Rm25dzgb4vQ&ab_channel=%E7%B7%91%E4%BB%99channel"
+  ],
+  "relations": {
+    "kitsu": "43927"
+  }
+}

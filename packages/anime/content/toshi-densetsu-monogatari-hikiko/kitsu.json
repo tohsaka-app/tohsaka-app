@@ -1,0 +1,24 @@
+{
+  "slug": "toshi-densetsu-monogatari-hikiko",
+  "synopsis": "Story: 3D CG-animated movie about Hikiko, who is a character of a Japanese urban legend. She was violently treated all the time by her parents and classmates at the elementary school and she's extremely ugly due to the constant violence. To revenge, she caught students from elementary school and drag them on the floor until they're badly mutilated.\nWhen Revsersing Hikiko's full name 森妃姫子(Mori Hikiko) gives 引き籠もり(hikikomori), which means Social Withdrawal.",
+  "title": {
+    "jp": "Toshi Densetsu Monogatari Hikiko"
+  },
+  "releasedAt": "2008-08-08T00:00:00.000Z",
+  "finishedAt": "2008-08-08T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4725/original.jpg",
+  "categories": [
+    "horror"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4725",
+    "anidb": "6268",
+    "anilist/anime": "6809",
+    "aozora": "MqAp8R5ANC",
+    "myanimelist/anime": "6809"
+  }
+}

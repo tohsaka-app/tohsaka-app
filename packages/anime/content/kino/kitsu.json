@@ -1,0 +1,23 @@
+{
+  "slug": "kino",
+  "synopsis": "A Kino Tokyo Tree Products information video and mission statement hosted on their official youtube channel.\n\nAfter WW2 many trees were taken from Tokyo's mountains to rebuild towns. New trees were replanted densely but in the 70 years it takes time for them to mature, foreign markets have brought imported trees to Japan. Now Tokyo's mountains are suffering due to unused mature lumber far too dense to support the original ecosystem of the mountains. Kino Tokyo Tree Products offers woods products, gifts, and crafts that embody traditional Japanese culture as well as responsible harvesting of the Tokyo mountain lumber.",
+  "title": {
+    "jp": "Kino"
+  },
+  "releasedAt": "2013-07-12T00:00:00.000Z",
+  "finishedAt": "2014-07-06T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40852/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40852",
+    "anilist/anime": "104348",
+    "aozora": "lPWmoqKg52",
+    "myanimelist/anime": "35981"
+  }
+}

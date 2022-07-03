@@ -1,0 +1,640 @@
+[
+  {
+    "title": {},
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/167458/original.jpg",
+    "releasedAt": "1981-03-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "It has finally landed! Spank, the dog"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44770/original.jpg",
+    "releasedAt": "1981-03-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Still has not arrived yet"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44771/original.jpg",
+    "releasedAt": "1981-03-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Wonderful life"
+    },
+    "season": 1,
+    "number": 4,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44772/original.jpg",
+    "releasedAt": "1981-03-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Could it be love? Fool!"
+    },
+    "season": 1,
+    "number": 5,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44773/original.jpg",
+    "releasedAt": "1981-03-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Duel with Nyan"
+    },
+    "season": 1,
+    "number": 6,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44774/original.jpg",
+    "releasedAt": "1981-04-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ai-chan's first love?"
+    },
+    "season": 1,
+    "number": 7,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44775/original.jpg",
+    "releasedAt": "1981-04-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "If it's for Ai-chan"
+    },
+    "season": 1,
+    "number": 8,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44776/original.jpg",
+    "releasedAt": "1981-04-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The sea is roaring! This is worrying"
+    },
+    "season": 1,
+    "number": 9,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44777/original.jpg",
+    "releasedAt": "1981-04-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gya! The yacht is burning"
+    },
+    "season": 1,
+    "number": 10,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44778/original.jpg",
+    "releasedAt": "1981-05-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I can make a telephone call"
+    },
+    "season": 1,
+    "number": 11,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44779/original.jpg",
+    "releasedAt": "1981-05-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The barbeque in which love breaks"
+    },
+    "season": 1,
+    "number": 12,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44780/original.jpg",
+    "releasedAt": "1981-05-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Goodbye, memories of the plateu"
+    },
+    "season": 1,
+    "number": 13,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44781/original.jpg",
+    "releasedAt": "1981-05-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Gallantly! I am the police dog"
+    },
+    "season": 1,
+    "number": 14,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44782/original.jpg",
+    "releasedAt": "1981-05-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Woofff...Who am I?"
+    },
+    "season": 1,
+    "number": 15,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44783/original.jpg",
+    "releasedAt": "1981-06-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "To Paris"
+    },
+    "season": 1,
+    "number": 16,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44784/original.jpg",
+    "releasedAt": "1981-06-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "My adorable friend, Baron"
+    },
+    "season": 1,
+    "number": 17,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44785/original.jpg",
+    "releasedAt": "1981-06-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "His secret"
+    },
+    "season": 1,
+    "number": 18,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44786/original.jpg",
+    "releasedAt": "1981-06-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The missing crystal"
+    },
+    "season": 1,
+    "number": 19,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44787/original.jpg",
+    "releasedAt": "1981-07-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I am a detective"
+    },
+    "season": 1,
+    "number": 20,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44788/original.jpg",
+    "releasedAt": "1981-07-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Jack and the bean-dog"
+    },
+    "season": 1,
+    "number": 21,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44789/original.jpg",
+    "releasedAt": "1981-07-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A summer holiday of victories and losses"
+    },
+    "season": 1,
+    "number": 22,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44790/original.jpg",
+    "releasedAt": "1981-07-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Saku-san's longest day"
+    },
+    "season": 1,
+    "number": 23,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44791/original.jpg",
+    "releasedAt": "1981-08-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ai-chan's part-time job"
+    },
+    "season": 1,
+    "number": 24,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44792/original.jpg",
+    "releasedAt": "1981-08-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Ai-chan's Papa"
+    },
+    "season": 1,
+    "number": 25,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44793/original.jpg",
+    "releasedAt": "1981-08-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The summer's over! It's going to be lonely"
+    },
+    "season": 1,
+    "number": 26,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44794/original.jpg",
+    "releasedAt": "1981-08-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I am a prodigy artiste"
+    },
+    "season": 1,
+    "number": 27,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44795/original.jpg",
+    "releasedAt": "1981-09-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The terrifying model test"
+    },
+    "season": 1,
+    "number": 28,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44796/original.jpg",
+    "releasedAt": "1981-09-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The model is a pig"
+    },
+    "season": 1,
+    "number": 29,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44797/original.jpg",
+    "releasedAt": "1981-09-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I am the second big star"
+    },
+    "season": 1,
+    "number": 30,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44798/original.jpg",
+    "releasedAt": "1981-09-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Woo! Uncle has a blue-eyed sweetheart?"
+    },
+    "season": 1,
+    "number": 31,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44799/original.jpg",
+    "releasedAt": "1981-10-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Adventure on the Deserted Island, Exploration, A Storm"
+    },
+    "season": 1,
+    "number": 32,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44800/original.jpg",
+    "releasedAt": "1981-10-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I don’t want to catch a cold"
+    },
+    "season": 1,
+    "number": 33,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44801/original.jpg",
+    "releasedAt": "1981-10-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Congratulations, Ka-chan!"
+    },
+    "season": 1,
+    "number": 34,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44802/original.jpg",
+    "releasedAt": "1981-10-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Eh! A love letter to Saku-san"
+    },
+    "season": 1,
+    "number": 35,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44803/original.jpg",
+    "releasedAt": "1981-10-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Baa! Good morning to you, teacher"
+    },
+    "season": 1,
+    "number": 36,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44804/original.jpg",
+    "releasedAt": "1981-11-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "KO! Baby Power"
+    },
+    "season": 1,
+    "number": 37,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44805/original.jpg",
+    "releasedAt": "1981-11-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Leave it to me! Tsuppari-kun"
+    },
+    "season": 1,
+    "number": 38,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44806/original.jpg",
+    "releasedAt": "1981-11-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Look over here! Beautiful dog Gyaru"
+    },
+    "season": 1,
+    "number": 39,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44807/original.jpg",
+    "releasedAt": "1981-11-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Love me! Fan Fan"
+    },
+    "season": 1,
+    "number": 40,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44808/original.jpg",
+    "releasedAt": "1981-12-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Commotion regarding the Audio Radio Casette"
+    },
+    "season": 1,
+    "number": 41,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44809/original.jpg",
+    "releasedAt": "1981-12-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Santa has finally arrived!"
+    },
+    "season": 1,
+    "number": 42,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44810/original.jpg",
+    "releasedAt": "1981-12-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Farewell to the bitter tears"
+    },
+    "season": 1,
+    "number": 43,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44811/original.jpg",
+    "releasedAt": "1981-12-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "New Year - New Life"
+    },
+    "season": 1,
+    "number": 44,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44812/original.jpg",
+    "releasedAt": "1982-12-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The slippery silver landscape"
+    },
+    "season": 1,
+    "number": 45,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44813/original.jpg",
+    "releasedAt": "1982-01-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Eh! Seri-chan’s Kidnapping Case"
+    },
+    "season": 1,
+    "number": 46,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44814/original.jpg",
+    "releasedAt": "1982-01-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The One Bag that I have made"
+    },
+    "season": 1,
+    "number": 47,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44815/original.jpg",
+    "releasedAt": "1982-01-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "What!? Spank, the police dog"
+    },
+    "season": 1,
+    "number": 48,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44816/original.jpg",
+    "releasedAt": "1982-02-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Wonderland’s Spank"
+    },
+    "season": 1,
+    "number": 49,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44817/original.jpg",
+    "releasedAt": "1982-02-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Cat and Dog’s Failure"
+    },
+    "season": 1,
+    "number": 50,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44818/original.jpg",
+    "releasedAt": "1982-02-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Dog that fly into the sky"
+    },
+    "season": 1,
+    "number": 51,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44819/original.jpg",
+    "releasedAt": "1982-02-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Cheer up, Spank!"
+    },
+    "season": 1,
+    "number": 52,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44820/original.jpg",
+    "releasedAt": "1982-03-06T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Spank and mother"
+    },
+    "season": 1,
+    "number": 53,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44821/original.jpg",
+    "releasedAt": "1982-03-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "To the Parents Meeting with Mother"
+    },
+    "season": 1,
+    "number": 54,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44822/original.jpg",
+    "releasedAt": "1982-03-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I Love! Hiyoko-chan"
+    },
+    "season": 1,
+    "number": 55,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44823/original.jpg",
+    "releasedAt": "1982-03-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Torayoshi and mother"
+    },
+    "season": 1,
+    "number": 56,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44824/original.jpg",
+    "releasedAt": "1982-04-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Old Amusement Park!"
+    },
+    "season": 1,
+    "number": 57,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44825/original.jpg",
+    "releasedAt": "1982-04-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Henpecked Husbands"
+    },
+    "season": 1,
+    "number": 58,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44826/original.jpg",
+    "releasedAt": "1982-04-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The true culprit is Meganezaru"
+    },
+    "season": 1,
+    "number": 59,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44827/original.jpg",
+    "releasedAt": "1982-04-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Adorable!? The imitating ape, Zaru"
+    },
+    "season": 1,
+    "number": 60,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44828/original.jpg",
+    "releasedAt": "1982-05-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "For you! Buta-inu, Wakamegge"
+    },
+    "season": 1,
+    "number": 61,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44829/original.jpg",
+    "releasedAt": "1982-05-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "What! Spank’s Journey"
+    },
+    "season": 1,
+    "number": 62,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44830/original.jpg",
+    "releasedAt": "1982-05-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "I yearn to ride on a French loaf"
+    },
+    "season": 1,
+    "number": 63,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44831/original.jpg",
+    "releasedAt": "1982-05-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Goodbye Spank, please come again!"
+    },
+    "season": 1,
+    "number": 64,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/44832/original.jpg",
+    "releasedAt": "1982-05-29T00:00:00.000Z",
+    "content": {}
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "slug": "jubei-chan-the-ninja-girl",
+  "synopsis": "Jiyu Nanohana is an ordinary schoolgirl until she runs across a scatterbrained 300 year old samurai who tells her that she is the reincarnation of Yagyu Jubei. With the help of the \"Lovely Eyepatch\" she transforms into the legendary swordsman whenever she needs to use his awesome fighting ability, which she needs to do quite often as a rival clan is dead set on conquering Yagyu to satisfy an old family grudge.\n(Source: ANN)",
+  "title": {
+    "en": "Jubei-chan the Ninja Girl: Secret of the Lovely Eyepatch",
+    "jp": "Juubee-chan: Lovely Gantai no Himitsu"
+  },
+  "releasedAt": "1999-04-06T00:00:00.000Z",
+  "finishedAt": "1999-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/589/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "samurai",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/jubei-chan-the-ninja-girl"
+  ],
+  "relations": {
+    "kitsu": "589",
+    "anidb": "76",
+    "anilist/anime": "635",
+    "aozora": "ntmJtfrHMH",
+    "myanimelist/anime": "635",
+    "thetvdb": "73703/1",
+    "thetvdb/season": "6285",
+    "thetvdb/series": "73703",
+    "trakt": "34574"
+  }
+}

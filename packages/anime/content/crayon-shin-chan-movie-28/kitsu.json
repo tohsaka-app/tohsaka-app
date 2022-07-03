@@ -1,0 +1,24 @@
+{
+  "slug": "crayon-shin-chan-movie-28",
+  "synopsis": "The film's story features a \"magical crayon,\" and centers around a floating kingdom called Rakuga Kingdom (the name is a pun on the word \"rakugaki\" meaning \"scribbling\"). The kingdom gets its energy from scribbles, but lately the scribbles are decreasing and the kingdom is in danger of collapsing. To save the country, the military start forcing humans to scribble.\n\n(Source: Anime News Network)",
+  "title": {
+    "jp": "Crayon Shin-chan Movie 28: Gekitotsu! Rakuga Kingdom to Hobo Yonin no Yuusha"
+  },
+  "releasedAt": "2020-04-24T00:00:00.000Z",
+  "finishedAt": "2020-04-24T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43052/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43052",
+    "anidb": "15060",
+    "anilist/anime": "111312",
+    "myanimelist/anime": "40329"
+  }
+}

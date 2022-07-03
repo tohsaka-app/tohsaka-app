@@ -1,0 +1,24 @@
+{
+  "slug": "dog-days-specials-special",
+  "synopsis": "Summary and commentary for each episode by the main characters. Included on the Blu-ray and DVD volumes.",
+  "title": {
+    "jp": "Dog Days'' Specials"
+  },
+  "releasedAt": "2015-03-25T00:00:00.000Z",
+  "finishedAt": "2015-08-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44386/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44386",
+    "myanimelist/anime": "35063"
+  }
+}

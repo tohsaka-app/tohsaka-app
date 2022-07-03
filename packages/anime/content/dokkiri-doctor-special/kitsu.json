@@ -1,0 +1,24 @@
+{
+  "slug": "dokkiri-doctor-special",
+  "synopsis": "Dokkiri Doctor special. Also known as Episode 27.",
+  "title": {
+    "jp": "Dokkiri Doctor Special"
+  },
+  "releasedAt": "1999-08-10T00:00:00.000Z",
+  "finishedAt": "1999-08-10T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7027/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7027",
+    "anilist/anime": "13781",
+    "aozora": "85QSXuRoK1",
+    "myanimelist/anime": "13781"
+  }
+}

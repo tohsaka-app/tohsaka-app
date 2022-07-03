@@ -1,0 +1,26 @@
+{
+  "slug": "jian-wang-3-xia-gan-yi-dan-shen-jianxin-2nd-season",
+  "synopsis": "Second season of Jian Wang 3: Xia Gan Yi Dan Shen Jianxin",
+  "title": {
+    "en": "JX3: Chivalrous Hero Shen Jianxin 2nd Season"
+  },
+  "releasedAt": "2019-12-27T00:00:00.000Z",
+  "finishedAt": "2020-04-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43811/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "historical",
+    "martial arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43811",
+    "anilist/anime": "113907",
+    "myanimelist/anime": "44078"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "kowarekake-no-orgel-special",
+  "synopsis": "Extra episode of Kowarekake no Orgel which was added to theatrical release of anime and DVD/BD.\nFlower notices that Keiichiro seems tired and decides to cook something new for him. ",
+  "title": {
+    "jp": "Kowarekake no Orgel Special"
+  },
+  "releasedAt": "2010-09-11T00:00:00.000Z",
+  "finishedAt": "2010-09-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6047/original.jpg",
+  "categories": [
+    "cooking",
+    "drama",
+    "music",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6047",
+    "anilist/anime": "10122",
+    "aozora": "0d6OnYvRPx",
+    "myanimelist/anime": "10122"
+  }
+}

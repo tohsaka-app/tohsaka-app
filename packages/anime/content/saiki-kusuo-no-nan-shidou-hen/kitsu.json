@@ -1,0 +1,30 @@
+{
+  "slug": "saiki-kusuo-no-nan-shidou-hen",
+  "synopsis": "Adaptation and conclusion of the final chapters of Saiki Kusuo no Ψ-nan, which began in the previous anime Saiki Kusuo no Ψ-nan: Kanketsu-hen.\n\n(Source: MAL)",
+  "title": {
+    "en": "The Disastrous Life of Saiki K.: Reawakened",
+    "jp": "Saiki Kusuo no Ψ-nan: Shidou-hen"
+  },
+  "releasedAt": "2019-12-30T00:00:00.000Z",
+  "finishedAt": "2019-12-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42623/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "shounen",
+    "slice of life",
+    "super power",
+    "supernatural"
+  ],
+  "externals": [
+    "https://www.netflix.com/se/title/81054849"
+  ],
+  "relations": {
+    "kitsu": "42623",
+    "anilist/anime": "112625",
+    "myanimelist/anime": "40542"
+  }
+}

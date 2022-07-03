@@ -1,0 +1,23 @@
+{
+  "slug": "kyoto-gakuen-daigaku",
+  "synopsis": "Commercials for Kyoto Gakuen University with their official mascot Uzumasa Sono.\nIncludes:\nKeizai Keiei Gakubu-hen (15 sec) and Jinbun Gakubu-hen (15 sec) share the same footage so only 1 episode will count.\nKenkou Iryou Gakubu-hen (15 sec)\nAsagi-madara no Yume (1 min 27 sec) full web release rather than the earlier (15 sec) TV spot.",
+  "title": {
+    "en": "Kyoto Gakuen University",
+    "jp": "Kyoto Gakuen Daigaku"
+  },
+  "releasedAt": "2014-07-14T00:00:00.000Z",
+  "finishedAt": "2015-11-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13092/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13092",
+    "anilist/anime": "129838",
+    "myanimelist/anime": "33939"
+  }
+}

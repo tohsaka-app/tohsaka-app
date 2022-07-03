@@ -1,0 +1,25 @@
+{
+  "slug": "onishime-otabe",
+  "synopsis": "A mother making a traditional New Year's vegetable dish for the family, and a child watching. The ingredients are animals of peas, carrots, burdock root and konjak. Enjoy the dish!\n\n1st Year Work 2011 by Yuka Imabayashi, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Fully cooked for you",
+    "jp": "Onishime Otabe"
+  },
+  "releasedAt": "2011-01-01T00:00:00.000Z",
+  "finishedAt": "2011-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44783/original.jpg",
+  "categories": [
+    "cooking",
+    "slice of life"
+  ],
+  "externals": [
+    "https://youtu.be/Q73kyyU9T1M"
+  ],
+  "relations": {
+    "kitsu": "44783",
+    "anilist/anime": "107177"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "pro-golfer-saru-super-golf-world-e-no-chousen",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Pro Golfer Saru: Super Golf World e no Chousen!!"
+  },
+  "releasedAt": "1986-03-15T00:00:00.000Z",
+  "finishedAt": "1986-03-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7638/original.jpg",
+  "categories": [
+    "kids",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7638",
+    "anidb": "7575",
+    "anilist/anime": "17317",
+    "aozora": "cRXKT6IbHE",
+    "myanimelist/anime": "17317"
+  }
+}

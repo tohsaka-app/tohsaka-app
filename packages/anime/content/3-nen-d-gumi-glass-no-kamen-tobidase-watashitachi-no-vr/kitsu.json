@@ -1,0 +1,24 @@
+{
+  "slug": "3-nen-d-gumi-glass-no-kamen-tobidase-watashitachi-no-vr",
+  "synopsis": "",
+  "title": {
+    "jp": "3-Nen D-Gumi Glass no Kamen: Tobidase! Watashitachi no Victory Road"
+  },
+  "releasedAt": "2017-07-22T00:00:00.000Z",
+  "finishedAt": "2017-07-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13335/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13335",
+    "aozora": "ZF72LAuHpv",
+    "myanimelist/anime": "35070"
+  }
+}

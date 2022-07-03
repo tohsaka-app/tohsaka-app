@@ -1,0 +1,33 @@
+{
+  "slug": "tiger-mask-w",
+  "synopsis": "Two young wrestlers face each other in a recently revived underground wrestling organization, the Tiger's Lair, which destroyed the wrestling dojo they grew up in. One took over the training facilities of Naoto Date at the foot of Mount Fuji, as well as the mask he left behind. The other dared to enter the Tiger's Lair and won a fierce competition, receiving a jet-black tiger mask. One tiger walks the path of light, while the other walks the path of shadows. Neither one knows the other's face. On the ring, they are natural enemies, but they have the same purpose—destroy the Tiger's Lair!\n(Source: MAL News)",
+  "title": {
+    "en": "Tiger Mask W",
+    "jp": "Tiger Mask W"
+  },
+  "releasedAt": "2016-10-02T00:00:00.000Z",
+  "finishedAt": "2017-07-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11966/original.png",
+  "categories": [
+    "action",
+    "drama",
+    "sports",
+    "wrestling"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/tiger-mask-w",
+    "vrv.co/series/GY8VJJ0GY/Tiger-Mask-W"
+  ],
+  "relations": {
+    "kitsu": "11966",
+    "anidb": "11971",
+    "anilist/anime": "21682",
+    "aozora": "PuXdu22MU0",
+    "myanimelist/anime": "32881",
+    "thetvdb": "315091/1",
+    "trakt": "110241"
+  }
+}

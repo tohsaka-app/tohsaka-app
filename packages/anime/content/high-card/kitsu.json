@@ -1,0 +1,22 @@
+{
+  "slug": "high-card",
+  "synopsis": "Kadokawa opened an official website for a new multimedia project titled High Card on Wednesday. The project is a collaboration between Kadokawa, pachinko developer Sammy Corporation, and animation studio TMS Entertainment, which will include an anime, manga, and novel. The title is in reference to a combination of five cards in poker with no value, the so-called \"no pair.\"\n\nKakegurui manga author Homura Kawamoto and Hikaru Muno (Kakegurui light novel) are credited as the original creator. Illustrator Ebimo will be in charge of the character designs.\n\n- MALnews.",
+  "title": {
+    "en": "High Card"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44706/original.png",
+  "categories": [
+    "card games"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44706",
+    "anilist/anime": "135778",
+    "myanimelist/anime": "49154"
+  }
+}

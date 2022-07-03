@@ -1,0 +1,27 @@
+{
+  "slug": "yao-shen-ji-3",
+  "synopsis": "Third season of Yao Shen Ji.",
+  "title": {
+    "en": "Tales of Demons and Gods 3"
+  },
+  "releasedAt": "2018-10-01T00:00:00.000Z",
+  "finishedAt": "2019-02-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42048/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "demon",
+    "fantasy",
+    "martial arts",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42048",
+    "anilist/anime": "104959",
+    "myanimelist/anime": "38435"
+  }
+}

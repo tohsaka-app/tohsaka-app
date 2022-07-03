@@ -1,0 +1,25 @@
+{
+  "slug": "haiyore-nyaruko-san-w-ova",
+  "synopsis": "Hot Spring-themed OVA of Haiyore! Nyaruko-san W.",
+  "title": {
+    "jp": "Haiyore! Nyaruko-san W OVA"
+  },
+  "releasedAt": "2014-04-01T00:00:00.000Z",
+  "finishedAt": "2014-04-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8484/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8484",
+    "anilist/anime": "20733",
+    "aozora": "nYv9Yn0JB8",
+    "myanimelist/anime": "23619"
+  }
+}

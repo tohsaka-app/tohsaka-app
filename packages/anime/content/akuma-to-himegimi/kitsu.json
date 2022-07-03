@@ -1,0 +1,23 @@
+{
+  "slug": "akuma-to-himegimi",
+  "synopsis": "Adapted from a fairy tale by Yoshida Akimi. Takahashi Ryosuke's directorial debut.\n(Source: AniDB)",
+  "title": {
+    "jp": "Akuma to Himegimi"
+  },
+  "releasedAt": "1981-03-20T00:00:00.000Z",
+  "finishedAt": "1981-03-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9187/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9187",
+    "anidb": "2248",
+    "aozora": "v1zL3KKJXm",
+    "myanimelist/anime": "23779"
+  }
+}

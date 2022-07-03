@@ -1,0 +1,23 @@
+{
+  "slug": "hatoya",
+  "synopsis": "A surreal take on The Honest Woodcutter as a promotion for DJ Shugo's \"Otoko-darake no Dai Enkai\" music event.",
+  "title": {
+    "jp": "Hatoya"
+  },
+  "releasedAt": "2012-03-28T00:00:00.000Z",
+  "finishedAt": "2012-03-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14049/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14049",
+    "anilist/anime": "103400",
+    "myanimelist/anime": "36670"
+  }
+}

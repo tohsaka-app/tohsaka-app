@@ -1,0 +1,26 @@
+{
+  "slug": "meisaku-world",
+  "synopsis": "Classic fairy tales and literary works, both western and eastern, originally aired as a part of the early morning children's program Hirake! Ponkikki before the anime was combined and released on VHS. ",
+  "title": {
+    "jp": "Meisaku World"
+  },
+  "releasedAt": "1988-04-04T00:00:00.000Z",
+  "finishedAt": "1989-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10594/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "historical",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10594",
+    "aozora": "326osII9w4",
+    "myanimelist/anime": "30027"
+  }
+}

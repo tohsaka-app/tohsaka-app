@@ -1,0 +1,30 @@
+{
+  "slug": "hitorijime-my-hero",
+  "synopsis": "Story involving Kensuke's brother, Ooshiba Kousuke and friend, Setagawa Masahiro from Hitorijime Boyfriend.\n\n(Source: MU)",
+  "title": {
+    "en": "Hitorijime My Hero",
+    "jp": "Hitorijime My Hero"
+  },
+  "releasedAt": "2017-07-08T00:00:00.000Z",
+  "finishedAt": "2017-09-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12318/original.jpg",
+  "categories": [
+    "school life",
+    "shounen ai",
+    "slice of life",
+    "yaoi"
+  ],
+  "externals": [
+    "https://www.amazon.com/Hunch-Hidden-Fragrant-Smoke/dp/B073SG8WVN"
+  ],
+  "relations": {
+    "kitsu": "12318",
+    "anilist/anime": "87494",
+    "aozora": "AdzDVHsmAg",
+    "myanimelist/anime": "33654",
+    "thetvdb": "329313/1"
+  }
+}

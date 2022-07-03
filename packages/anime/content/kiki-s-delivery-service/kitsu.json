@@ -1,0 +1,34 @@
+{
+  "slug": "kiki-s-delivery-service",
+  "synopsis": "Kiki, a 13-year-old witch-in-training, must spend a year living on her own in a distant town in order to become a full-fledged witch. Leaving her family and friends, Kiki undertakes this tradition when she flies out into the open world atop her broomstick with her black cat Jiji.\nAs she settles down in the coastal town of Koriko, Kiki struggles to adapt and ends up wandering the streets with no place to stay—until she encounters Osono, who offers Kiki boarding in exchange for making deliveries for her small bakery. Before long, Kiki decides to open her own courier service by broomstick, beginning her journey to independence. In attempting to find her place among the townsfolk, Kiki brings with her exciting new experiences and comes to understand the true meaning of responsibility.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Kiki's Delivery Service",
+    "jp": "Majo no Takkyuubin"
+  },
+  "releasedAt": "1989-07-29T00:00:00.000Z",
+  "finishedAt": "1989-07-29T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/471/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/471/original.jpg",
+  "categories": [
+    "adventure",
+    "alternative present",
+    "comedy",
+    "coming of age",
+    "earth",
+    "fantasy",
+    "magic",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "471",
+    "anidb": "286",
+    "anilist/anime": "512",
+    "aozora": "2ONF9aCZiR",
+    "myanimelist/anime": "512"
+  }
+}

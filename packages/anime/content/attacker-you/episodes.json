@@ -1,0 +1,524 @@
+[
+  {
+    "title": {
+      "jp": "A New Classmate"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "1984-04-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Blue Prince"
+    },
+    "season": 1,
+    "number": 2,
+    "releasedAt": "1984-04-20T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Escape From the Home"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "1984-04-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "First Match"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "1984-05-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Burning Defeat"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "1984-05-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Love Challenge"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "1984-05-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "First Appointment"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "1984-05-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Friendly Meeting"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "1984-06-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Love Problems"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "1984-06-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Graduation Party"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "1984-06-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Goodbye Mirko!"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "1984-06-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Powerful Wish"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "1984-07-13T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Accused Sir"
+    },
+    "season": 1,
+    "number": 13,
+    "releasedAt": "1984-07-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The New Trainer"
+    },
+    "season": 1,
+    "number": 14,
+    "releasedAt": "1984-08-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Promise Kept"
+    },
+    "season": 1,
+    "number": 15,
+    "releasedAt": "1984-08-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mila In A Crisis"
+    },
+    "season": 1,
+    "number": 16,
+    "releasedAt": "1984-08-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Difficult Decision"
+    },
+    "season": 1,
+    "number": 17,
+    "releasedAt": "1984-08-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Hard Test"
+    },
+    "season": 1,
+    "number": 18,
+    "releasedAt": "1984-08-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Slimming-course"
+    },
+    "season": 1,
+    "number": 19,
+    "releasedAt": "1984-09-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Friends But Rivals"
+    },
+    "season": 1,
+    "number": 20,
+    "releasedAt": "1984-09-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Secret Behind the Power"
+    },
+    "season": 1,
+    "number": 21,
+    "releasedAt": "1984-09-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Love Letter"
+    },
+    "season": 1,
+    "number": 22,
+    "releasedAt": "1984-09-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mr. Mila"
+    },
+    "season": 1,
+    "number": 23,
+    "releasedAt": "1984-10-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Dramatic Challenge"
+    },
+    "season": 1,
+    "number": 24,
+    "releasedAt": "1984-10-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Return of Daimon"
+    },
+    "season": 1,
+    "number": 25,
+    "releasedAt": "1984-10-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Most Desired Goal"
+    },
+    "season": 1,
+    "number": 26,
+    "releasedAt": "1984-10-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mila in the Junior Nationals"
+    },
+    "season": 1,
+    "number": 27,
+    "releasedAt": "1984-11-02T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Another Sister For Sunny"
+    },
+    "season": 1,
+    "number": 28,
+    "releasedAt": "1984-11-09T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mila's Accident"
+    },
+    "season": 1,
+    "number": 29,
+    "releasedAt": "1984-11-16T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Worst Pain"
+    },
+    "season": 1,
+    "number": 30,
+    "releasedAt": "1984-11-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "An Endured Recovery"
+    },
+    "season": 1,
+    "number": 31,
+    "releasedAt": "1984-11-30T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Supersonic Service"
+    },
+    "season": 1,
+    "number": 32,
+    "releasedAt": "1984-12-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Nami's Crisis"
+    },
+    "season": 1,
+    "number": 33,
+    "releasedAt": "1984-12-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Deciding Match"
+    },
+    "season": 1,
+    "number": 34,
+    "releasedAt": "1984-12-21T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Mila's Triumph"
+    },
+    "season": 1,
+    "number": 35,
+    "releasedAt": "1984-12-28T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Difficult Choice"
+    },
+    "season": 1,
+    "number": 36,
+    "releasedAt": "1985-01-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A New Rival"
+    },
+    "season": 1,
+    "number": 37,
+    "releasedAt": "1985-01-11T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Two Great Champions"
+    },
+    "season": 1,
+    "number": 38,
+    "releasedAt": "1985-01-18T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Passing of Yoghina"
+    },
+    "season": 1,
+    "number": 39,
+    "releasedAt": "1985-01-25T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Sweet Surprise"
+    },
+    "season": 1,
+    "number": 40,
+    "releasedAt": "1985-02-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Very Exciting Game"
+    },
+    "season": 1,
+    "number": 41,
+    "releasedAt": "1985-02-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Step Away from Nationals"
+    },
+    "season": 1,
+    "number": 42,
+    "releasedAt": "1985-02-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Sad Verdict"
+    },
+    "season": 1,
+    "number": 43,
+    "releasedAt": "1985-02-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Conspiracy Against Mila"
+    },
+    "season": 1,
+    "number": 44,
+    "releasedAt": "1985-03-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Test of Friendship"
+    },
+    "season": 1,
+    "number": 45,
+    "releasedAt": "1985-03-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "An Upsetting Discovery"
+    },
+    "season": 1,
+    "number": 46,
+    "releasedAt": "1985-03-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Search for the Truth"
+    },
+    "season": 1,
+    "number": 47,
+    "releasedAt": "1985-03-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Love Found"
+    },
+    "season": 1,
+    "number": 48,
+    "releasedAt": "1985-03-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tension at Nationals"
+    },
+    "season": 1,
+    "number": 49,
+    "releasedAt": "1985-04-19T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Departure of Mitamura"
+    },
+    "season": 1,
+    "number": 50,
+    "releasedAt": "1985-04-26T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Recollection of Doubts"
+    },
+    "season": 1,
+    "number": 51,
+    "releasedAt": "1985-05-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Laser Attack"
+    },
+    "season": 1,
+    "number": 52,
+    "releasedAt": "1985-05-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Daimon's Risk"
+    },
+    "season": 1,
+    "number": 53,
+    "releasedAt": "1985-05-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Blind Ambition"
+    },
+    "season": 1,
+    "number": 54,
+    "releasedAt": "1985-05-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Incurable Rivalry"
+    },
+    "season": 1,
+    "number": 55,
+    "releasedAt": "1985-05-31T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Tulia's Recovery"
+    },
+    "season": 1,
+    "number": 56,
+    "releasedAt": "1985-06-07T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Last Set"
+    },
+    "season": 1,
+    "number": 57,
+    "releasedAt": "1985-06-14T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Goodbye to Seoul"
+    },
+    "season": 1,
+    "number": 58,
+    "releasedAt": "1985-06-21T00:00:00.000Z",
+    "content": {}
+  }
+]

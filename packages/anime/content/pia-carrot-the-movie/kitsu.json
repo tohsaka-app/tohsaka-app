@@ -1,0 +1,31 @@
+{
+  "slug": "pia-carrot-the-movie",
+  "synopsis": "High schoolers Sayaka Takai and Akihiko Kannazuki work together at a restaurant chain \"Pia Carrot.\" Both are interested in each other, but before either could make a move Sayaka was temporarily rotated to the newly established branch at a beach resort. While waitress girls at this new location did their best to confront harassment, make new friends, and attract new customers by attending a beauty contest, Sayaka's feeling for Akihiko never stops and has become stronger and stronger.\n(Source: ANN)",
+  "title": {
+    "en": "Welcome to Pia Carrot! Sayaka's Love Story",
+    "jp": "Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari"
+  },
+  "releasedAt": "2002-10-19T00:00:00.000Z",
+  "finishedAt": "2002-10-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/192/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "waitress"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "192",
+    "anidb": "856",
+    "anilist/anime": "216",
+    "aozora": "TbaTTQWpRY",
+    "myanimelist/anime": "216"
+  }
+}

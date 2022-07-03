@@ -1,0 +1,27 @@
+{
+  "slug": "sore-ike-anpanman-gomira-no-hoshi",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Sore Ike! Anpanman: Gomira no Hoshi"
+  },
+  "releasedAt": "2001-07-14T00:00:00.000Z",
+  "finishedAt": "2001-07-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9611/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9611",
+    "anidb": "7554",
+    "anilist/anime": "121837",
+    "aozora": "S097ZJl2Rw",
+    "myanimelist/anime": "21947"
+  }
+}

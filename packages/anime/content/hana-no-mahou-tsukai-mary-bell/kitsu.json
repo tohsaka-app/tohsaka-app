@@ -1,0 +1,28 @@
+{
+  "slug": "hana-no-mahou-tsukai-mary-bell",
+  "synopsis": "Mary Bell, a magical girl who looks like a girl around five years old, comes to the human world from a magical world called \"Flower Magic World\", and helps and encourages people.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Hana no Mahoutsukai Mary Bell"
+  },
+  "releasedAt": "1992-02-03T00:00:00.000Z",
+  "finishedAt": "1993-01-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2560/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2560",
+    "anidb": "540",
+    "anilist/anime": "2804",
+    "aozora": "Q2Z312gUz5",
+    "myanimelist/anime": "2804"
+  }
+}

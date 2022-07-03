@@ -1,0 +1,24 @@
+{
+  "slug": "shinrabanshou-tenchi-shinmei-no-shou",
+  "synopsis": "The ONA produced to celebrate the 10th anniversary of Shinra Bansho Choco from Bandai.\nShinra Bansho Choco is a chocolate biscuit sandwich brand that includes a card that features characters of the Gods.\n(Source: MAL)",
+  "title": {
+    "jp": "Shinrabanshou: Tenchi Shinmei no Shou"
+  },
+  "releasedAt": "2014-06-29T00:00:00.000Z",
+  "finishedAt": "2014-06-29T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8549/original.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8549",
+    "anidb": "10690",
+    "aozora": "IwKBKP9o6W",
+    "myanimelist/anime": "24719"
+  }
+}

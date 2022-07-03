@@ -1,0 +1,23 @@
+{
+  "slug": "okusama-ga-seitokaichou-ova-okusama-gekijou",
+  "synopsis": "Comedy specials bundled with DVD of the Okusama ga Seitokaichou! OVA.",
+  "title": {
+    "jp": "Okusama ga Seitokaichou! OVA: Okusama Gekijou"
+  },
+  "releasedAt": "2016-01-27T00:00:00.000Z",
+  "finishedAt": "2016-01-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12086/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12086",
+    "anilist/anime": "102503",
+    "aozora": "BQvoVaYm9S",
+    "myanimelist/anime": "32625"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "slug": "Delete-2019-special-7",
+  "synopsis": "This is a deleted entry. The real version is here: https://kitsu.io/anime/amakage",
+  "title": {
+    "jp": "Delete"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41804/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41804",
+    "myanimelist/anime": "37545"
+  }
+}

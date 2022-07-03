@@ -1,0 +1,23 @@
+{
+  "slug": "flicker-love-no-1",
+  "synopsis": "Short animation by Keiichi Tanaami.",
+  "title": {
+    "en": null,
+    "jp": "Flicker Love No.1"
+  },
+  "releasedAt": "1971-01-01T00:00:00.000Z",
+  "finishedAt": "1971-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10578/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10578",
+    "aozora": "yaYdZ2q9kc",
+    "myanimelist/anime": "29987"
+  }
+}

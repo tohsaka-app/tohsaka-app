@@ -1,0 +1,23 @@
+{
+  "slug": "tonari-no-youkai-san",
+  "synopsis": null,
+  "title": {
+    "jp": "Tonari no Youkai-san"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46021/poster_image/c21f85f9505312950e4817eaf6ea0f00.png",
+  "categories": [
+    "countryside",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46021",
+    "anilist/anime": "146867"
+  }
+}

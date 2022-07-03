@@ -1,0 +1,29 @@
+{
+  "slug": "little-busters-sekai-no-saitou-wa-ore-ga-mamoru",
+  "synopsis": "A special unaired episode of Little Busters! sent to those who bought all 9 BD/DVD volumes of the anime. This episode includes the story about \"Mask the Saitou.\"",
+  "title": {
+    "jp": "Little Busters!: Sekai no Saitou wa Ore ga Mamoru!"
+  },
+  "releasedAt": "2013-08-28T00:00:00.000Z",
+  "finishedAt": "2013-08-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7687/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7687/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/little-busters",
+    "http://www.hulu.com/little-busters"
+  ],
+  "relations": {
+    "kitsu": "7687",
+    "anilist/anime": "17643",
+    "aozora": "lAfUfdknyQ",
+    "myanimelist/anime": "17643"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "slug": "dorei-ku-the-animation",
+  "synopsis": "What if you could enslave anyone you ever wanted? Well, this comes close. The SCM lets you enslave anyone who is also wearing an SCM, at a price. One must win over the other, at the cost of anything, in order for the other to become their slave.\n\n(Source: MU)",
+  "title": {
+    "jp": "Dorei-ku The Animation"
+  },
+  "releasedAt": "2018-04-13T00:00:00.000Z",
+  "finishedAt": "2018-06-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40960/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/40960/original.png",
+  "categories": [
+    "angst",
+    "psychological",
+    "slavery",
+    "violence"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/doreiku-the-animation"
+  ],
+  "relations": {
+    "kitsu": "40960",
+    "anilist/anime": "100251",
+    "aozora": "oQ8Xzv9PPG",
+    "myanimelist/anime": "36525"
+  }
+}

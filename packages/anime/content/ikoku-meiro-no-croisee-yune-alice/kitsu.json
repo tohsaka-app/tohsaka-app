@@ -1,0 +1,25 @@
+{
+  "slug": "ikoku-meiro-no-croisee-yune-alice",
+  "synopsis": "Each of the seven volumes of the Blu-ray &amp; DVDs will carry a short SD anime titled \"Yune &amp; Alice\".",
+  "title": {
+    "en": "La croisée dans un labyrinthe étranger: Yune & Alice",
+    "jp": "Ikoku Meiro no Croisée: Yune & Alice"
+  },
+  "releasedAt": "2011-09-21T00:00:00.000Z",
+  "finishedAt": "2012-03-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6375/original.jpg",
+  "categories": [
+    "historical",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6375",
+    "anilist/anime": "10832",
+    "aozora": "InZMFyijeG",
+    "myanimelist/anime": "10832"
+  }
+}

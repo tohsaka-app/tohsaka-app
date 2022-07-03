@@ -1,0 +1,23 @@
+{
+  "slug": "kimi-dake-no-boku-de-iru-kara",
+  "synopsis": "Music video for the opening theme from Trickster: Edogawa Ranpo \"Shounen Tanteidan\" yori.",
+  "title": {
+    "jp": "Kimi dake no Boku de Iru kara"
+  },
+  "releasedAt": "2016-11-23T00:00:00.000Z",
+  "finishedAt": "2016-11-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12969/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12969",
+    "anilist/anime": "104943",
+    "aozora": "gdgJHX7OCK",
+    "myanimelist/anime": "34366"
+  }
+}

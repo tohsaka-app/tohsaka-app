@@ -1,0 +1,23 @@
+{
+  "slug": "norasco-movie",
+  "synopsis": "Norasco movies screen for the 9th Down Town Taito International Comedy Film Festival. 6 episodes of Norasco were scheduled to show with 2 of them being new creations never previously shown before. The first episode is the boys playing old maid and the second episode Kotarou's sister Michelle makes an unannounced visit.",
+  "title": {
+    "jp": "Norasco (Movie)"
+  },
+  "releasedAt": "2016-09-17T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "current",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12887/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12887",
+    "aozora": "qvHg1Z9x41",
+    "myanimelist/anime": "34092"
+  }
+}

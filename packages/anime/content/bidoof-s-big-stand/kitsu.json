@@ -1,0 +1,27 @@
+{
+  "slug": "bidoof-s-big-stand",
+  "synopsis": "Animation from the official Pokémon Youtube to celebrate Bidoof day.",
+  "title": {
+    "en": "Bidoof’s Big Stand"
+  },
+  "releasedAt": "2022-01-11T00:00:00.000Z",
+  "finishedAt": "2022-01-11T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45744/poster_image/27d5330813d6592c93098724f6ba9f96.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=UTidwW3iLHk"
+  ],
+  "relations": {
+    "kitsu": "45744"
+  }
+}

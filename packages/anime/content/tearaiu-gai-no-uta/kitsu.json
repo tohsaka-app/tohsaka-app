@@ -1,0 +1,25 @@
+{
+  "slug": "tearaiu-gai-no-uta",
+  "synopsis": "Short MV for the Hand-washing Song, performed by Sukoya Kana and Natori Sana.",
+  "title": {
+    "en": "Hand-washing Song",
+    "jp": "Tearaiu Gai no Uta"
+  },
+  "releasedAt": "2020-06-07T00:00:00.000Z",
+  "finishedAt": "2020-06-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43938/original.jpeg",
+  "categories": [
+    "idol",
+    "kids",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=v6kxNhlDhBg&ab_channel=%E5%81%A5%E5%B1%8B%E8%8A%B1%E9%82%A3%E3%80%90%E3%81%AB%E3%81%98%E3%81%95%E3%82%93%E3%81%98%E3%80%91KanaSukoya"
+  ],
+  "relations": {
+    "kitsu": "43938"
+  }
+}

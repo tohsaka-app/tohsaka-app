@@ -1,0 +1,23 @@
+{
+  "slug": "benghuai-3-bronya",
+  "synopsis": "Did you hear Seele's calling? Wolf’s Dawn now in battle!",
+  "title": {
+    "en": "Honkai Impact 3rd: Bronya",
+    "jp": "Benghuai 3: Bronya"
+  },
+  "releasedAt": "2019-10-17T00:00:00.000Z",
+  "finishedAt": "2019-10-17T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43627/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43627/original.jpg",
+  "categories": [],
+  "externals": [
+    "https://www.youtube.com/watch?v=P909aUnspT4&ab_channel=HonkaiImpact3rd"
+  ],
+  "relations": {
+    "kitsu": "43627",
+    "anilist/anime": "129688"
+  }
+}

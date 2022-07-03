@@ -1,0 +1,26 @@
+{
+  "slug": "chuunibyou-demo-koi-ga-shitai-lite",
+  "synopsis": "Short episodes aired on KyoAni's official YouTube channel.",
+  "title": {
+    "en": "Love, Chunibyo & Other Delusions!: Chuni-Shorts",
+    "jp": "Chuunibyou demo Koi ga Shitai! Lite"
+  },
+  "releasedAt": "2012-09-27T00:00:00.000Z",
+  "finishedAt": "2012-10-31T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7293/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7293/original.jpg",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7293",
+    "anilist/anime": "15687",
+    "aozora": "rqgw5SB07I",
+    "myanimelist/anime": "15687"
+  }
+}

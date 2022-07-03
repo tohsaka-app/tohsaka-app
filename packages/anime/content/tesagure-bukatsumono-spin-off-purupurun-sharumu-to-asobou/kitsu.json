@@ -1,0 +1,28 @@
+{
+  "slug": "tesagure-bukatsumono-spin-off-purupurun-sharumu-to-asobou",
+  "synopsis": "A spin-off of the Tesagure! Bukatsumono series.",
+  "title": {
+    "jp": "Tesagure! Bukatsumono Spin-off Purupurun Sharumu to Asobou"
+  },
+  "releasedAt": "2015-04-05T00:00:00.000Z",
+  "finishedAt": "2015-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10339/original.jpg",
+  "categories": [
+    "breaking the fourth wall",
+    "comedy",
+    "parody",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10339",
+    "anidb": "10974",
+    "anilist/anime": "20988",
+    "aozora": "eZv9ocyi1l",
+    "myanimelist/anime": "28835"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "sun-set-sun",
+  "synopsis": "A music video for Yoshiharu Abe's song \"Sun Set Sun.\"",
+  "title": {
+    "jp": "Sun Set Sun"
+  },
+  "releasedAt": "2013-05-15T00:00:00.000Z",
+  "finishedAt": "2013-05-15T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12220/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12220",
+    "anilist/anime": "103547",
+    "aozora": "HjEN6nuH9u",
+    "myanimelist/anime": "32764"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "slug": "rewrite-moon-and-terra",
+  "synopsis": "The second season of the Rewrite series which adapts the Moon and Terra routes.",
+  "title": {
+    "jp": "Rewrite 2nd Season"
+  },
+  "releasedAt": "2017-01-14T00:00:00.000Z",
+  "finishedAt": "2017-03-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12861/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12861/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "contemporary fantasy",
+    "fantasy",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12861",
+    "anidb": "12429",
+    "anilist/anime": "97665",
+    "aozora": "aMvzCrdCN8",
+    "myanimelist/anime": "34126",
+    "thetvdb": "301165/2"
+  }
+}

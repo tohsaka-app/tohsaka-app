@@ -1,0 +1,27 @@
+{
+  "slug": "sos-tv-walpurgis-night-fever",
+  "synopsis": "The story of two girls on a war-torn planet known as \"Walpurgis.\"",
+  "title": {
+    "jp": "SOS TV Walpurgis Night Fever"
+  },
+  "releasedAt": "2010-03-01T00:00:00.000Z",
+  "finishedAt": "2010-08-02T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5450/original.jpg",
+  "categories": [
+    "comedy",
+    "other planet",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5450",
+    "anidb": "7567",
+    "anilist/anime": "8706",
+    "aozora": "GyOq9bOhHG",
+    "myanimelist/anime": "8706"
+  }
+}

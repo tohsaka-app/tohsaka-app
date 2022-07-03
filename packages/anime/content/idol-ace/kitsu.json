@@ -1,0 +1,26 @@
+{
+  "slug": "idol-ace",
+  "synopsis": "In summer 2005 an original promotional animation of 2.5 minutes length was produced by Shogakukan for the upcoming release of the Idol Ace manga by Adachi Mitsuru in the Weekly Young Sunday magazine.\nThe short features the main character being recorded throughout the day by a peeping pervert.\n(Source: AniDB)",
+  "title": {
+    "en": "Idol Ace",
+    "jp": "Idol Ace"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5031/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5031",
+    "anidb": "7210",
+    "anilist/anime": "7569",
+    "aozora": "VBtLtlFCpC",
+    "myanimelist/anime": "7569"
+  }
+}

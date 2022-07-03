@@ -1,0 +1,24 @@
+{
+  "slug": "mogu-mogu-yummy",
+  "synopsis": "Music video animated by Yamashita Makoto for the original song MOGU MOGU YUMMY! by Nekomata Okayu.",
+  "title": {
+    "jp": "MOGU MOGU YUMMY!"
+  },
+  "releasedAt": "2021-02-22T00:00:00.000Z",
+  "finishedAt": "2021-02-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44101/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44101/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=j6P_m6adkgc&feature=emb_title&ab_channel=OkayuCh.%E7%8C%AB%E5%8F%88%E3%81%8A%E3%81%8B%E3%82%86"
+  ],
+  "relations": {
+    "kitsu": "44101"
+  }
+}

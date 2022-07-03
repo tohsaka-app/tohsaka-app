@@ -1,0 +1,25 @@
+{
+  "slug": "kimi-wo-matsu",
+  "synopsis": "Music video for the song Kimi wo Matsu by Aimer that was on her third album \"DAWN\". It was included on DVD with the first press release of the CD. The video was directed by Gaku Kinoshita.\n",
+  "title": {
+    "jp": "Kimi wo Matsu"
+  },
+  "releasedAt": "2015-07-29T00:00:00.000Z",
+  "finishedAt": "2015-07-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43437/original.jpg",
+  "categories": [
+    "drama",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=w6hFEFzemKE"
+  ],
+  "relations": {
+    "kitsu": "43437",
+    "anilist/anime": "140865",
+    "myanimelist/anime": "42436"
+  }
+}

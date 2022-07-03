@@ -1,0 +1,29 @@
+{
+  "slug": "backkom",
+  "synopsis": "A series of animated shorts centered on the fictional polar bear and main character of the same name. \nEach three-minute episode focuses on the bear's curiosity and have many moments of slapstick. Bernard never speaks with the exception of unintelligible noises.\nBernard is accompanied in the cartoons by a few other characters: Lloyd and Eva the penguins, Zack the lizard, Goliat(h) the chihuahua, Sam the baby, Pilot the dog, Pokey the porcupine and Santa Claus.\nHe usually gets knocked unconscious or severely injured at the end of an episode, due to some calamity caused by his bumbling.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Bernard",
+    "jp": "Backkom"
+  },
+  "releasedAt": "2005-01-01T00:00:00.000Z",
+  "finishedAt": "2005-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6677/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6677",
+    "anilist/anime": "12145",
+    "aozora": "337nBSXdsS",
+    "myanimelist/anime": "12145",
+    "thetvdb": "80029/1",
+    "thetvdb/season": "17608",
+    "thetvdb/series": "80029",
+    "trakt": "6970"
+  }
+}

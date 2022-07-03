@@ -1,0 +1,42 @@
+{
+  "slug": "air-gear",
+  "synopsis": "Minami Itsuki never thought about seriously riding Air Treck motorized roller blades, until he got his butt handed to him by a street gang of Storm Riders. That day, he discovered in a locked up room, a pair of AT's and a box of stickers belonging to the Sleeping Forest street gang. One thing leads to another, and Ikki dons the wheels and begins to ride. As his reputation builds in the AT street fighting/racing world, he begins to develop his own gang and participate in more fights, gaining more and more territory.",
+  "title": {
+    "en": "Air Gear",
+    "jp": "Air Gear"
+  },
+  "releasedAt": "2006-04-05T00:00:00.000Z",
+  "finishedAt": "2006-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/759/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/759/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "japan",
+    "present",
+    "shounen",
+    "sports"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/air-gear/videos/episodes",
+    "http://www.hulu.com/air-gear"
+  ],
+  "relations": {
+    "kitsu": "759",
+    "anidb": "4196",
+    "anilist/anime": "857",
+    "aozora": "3MMs7IH0aK",
+    "hulu": "50000810",
+    "myanimelist/anime": "857",
+    "thetvdb": "79796/1",
+    "thetvdb/series": "79796",
+    "trakt": "31533"
+  }
+}

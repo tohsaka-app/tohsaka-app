@@ -1,0 +1,25 @@
+{
+  "slug": "houkago-no-ouji-sama",
+  "synopsis": "Flash anime specials bundled with the New Prince of Tennis OVA.",
+  "title": {
+    "jp": "Houkago no Ouji-sama"
+  },
+  "releasedAt": "2014-10-29T00:00:00.000Z",
+  "finishedAt": "2015-06-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8665/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8665",
+    "anilist/anime": "20942",
+    "aozora": "JQ71ehggWB",
+    "myanimelist/anime": "24457"
+  }
+}

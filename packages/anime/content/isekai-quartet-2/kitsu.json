@@ -1,0 +1,29 @@
+{
+  "slug": "isekai-quartet-2",
+  "synopsis": "Second season of Isekai Quartet.",
+  "title": {
+    "jp": "Isekai Quartet 2"
+  },
+  "releasedAt": "2020-01-14T00:00:00.000Z",
+  "finishedAt": "2020-04-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42410/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42410/original.png",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "isekai",
+    "magic",
+    "parody"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/en-gb/isekai-quartet"
+  ],
+  "relations": {
+    "kitsu": "42410",
+    "anilist/anime": "110178",
+    "myanimelist/anime": "39988"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "anime-yasei-no-sakebi",
+  "synopsis": "Based on the novel by Hatojuu Muku.",
+  "title": {
+    "en": "Call of the wild",
+    "jp": "Anime Yasei no Sakebi"
+  },
+  "releasedAt": "1982-05-05T00:00:00.000Z",
+  "finishedAt": "1982-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5260/original.jpg",
+  "categories": [
+    "adventure",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5260",
+    "anidb": "3662",
+    "anilist/anime": "8239",
+    "aozora": "TDFXBNgK9o",
+    "myanimelist/anime": "8239",
+    "thetvdb": "76266/1",
+    "thetvdb/series": "76266"
+  }
+}

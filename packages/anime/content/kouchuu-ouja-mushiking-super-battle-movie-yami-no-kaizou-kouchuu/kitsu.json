@@ -1,0 +1,25 @@
+{
+  "slug": "kouchuu-ouja-mushiking-super-battle-movie-yami-no-kaizou-kouchuu",
+  "synopsis": "N/A",
+  "title": {
+    "jp": "Kouchuu Ouja Mushiking Super Battle Movie: Yami no Kaizou Kouchuu"
+  },
+  "releasedAt": "2007-03-21T00:00:00.000Z",
+  "finishedAt": "2007-03-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1968/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1968",
+    "anidb": "4998",
+    "anilist/anime": "2173",
+    "aozora": "6ojpkge6t9",
+    "myanimelist/anime": "2173"
+  }
+}

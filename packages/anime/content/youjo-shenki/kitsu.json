@@ -1,0 +1,24 @@
+{
+  "slug": "youjo-shenki",
+  "synopsis": "A chibi parody of Youjo Senki. \n",
+  "title": {
+    "en": "Saga of Tanya the Evil Shorts",
+    "jp": "Youjo Shenki"
+  },
+  "releasedAt": "2017-01-10T00:00:00.000Z",
+  "finishedAt": "2017-04-03T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13215/original.jpg",
+  "categories": [
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13215",
+    "anilist/anime": "98186",
+    "aozora": "l0TjsGfEDU",
+    "myanimelist/anime": "34742"
+  }
+}

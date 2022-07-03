@@ -1,0 +1,25 @@
+{
+  "slug": "fate-zero-cafe",
+  "synopsis": "The story re-imagines the cast of the Fate/Zero as cute super-deformed characters who open a café, led by Saber as the manager.\n(Source: ANN)",
+  "title": {
+    "jp": "Fate/Zero Cafe"
+  },
+  "releasedAt": "2013-07-13T00:00:00.000Z",
+  "finishedAt": "2013-07-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7873/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7873",
+    "anidb": "9907",
+    "anilist/anime": "19165",
+    "aozora": "cy12FhIU0x",
+    "myanimelist/anime": "19165"
+  }
+}

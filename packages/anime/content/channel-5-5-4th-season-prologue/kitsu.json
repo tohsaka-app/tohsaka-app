@@ -1,0 +1,22 @@
+{
+  "slug": "channel-5-5-4th-season-prologue",
+  "synopsis": "Prologue episode of Channel 5.5 4th Season.",
+  "title": {
+    "jp": "Channel 5.5 4th Season Prologue"
+  },
+  "releasedAt": "2014-11-01T00:00:00.000Z",
+  "finishedAt": "2014-11-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10528/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10528",
+    "aozora": "QXAebWQGbJ",
+    "myanimelist/anime": "29862"
+  }
+}

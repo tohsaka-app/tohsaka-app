@@ -1,0 +1,20 @@
+{
+  "slug": "pedal-heart",
+  "synopsis": "",
+  "title": {
+    "jp": "Pedal Heart"
+  },
+  "releasedAt": "2011-02-28T00:00:00.000Z",
+  "finishedAt": "2011-02-28T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13366/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13366"
+  }
+}

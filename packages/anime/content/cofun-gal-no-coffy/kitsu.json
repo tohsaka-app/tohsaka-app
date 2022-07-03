@@ -1,0 +1,25 @@
+{
+  "slug": "cofun-gal-no-coffy",
+  "synopsis": "The TV adaptation of the ONA series. Unlike the ONA, which has 10 episodes, this series has 12 episodes.",
+  "title": {
+    "en": "Tumulus Gal Coffy",
+    "jp": "Cofun Gal no Coffy (TV)"
+  },
+  "releasedAt": "2006-04-06T00:00:00.000Z",
+  "finishedAt": "2006-06-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6979/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6979",
+    "anilist/anime": "13503",
+    "aozora": "UlZ4dK1S88",
+    "myanimelist/anime": "13503"
+  }
+}

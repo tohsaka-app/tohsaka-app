@@ -1,0 +1,22 @@
+{
+  "slug": "captain-yajima",
+  "synopsis": "\"Captain Yajima\" by Worthikids. A CG indie short film made with Blender that looks like a 1960s stop motion series.\n\n(Source: Catsuka)",
+  "title": {
+    "en": "Captain Yajima"
+  },
+  "releasedAt": "2021-05-01T00:00:00.000Z",
+  "finishedAt": "2021-05-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44522/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44522/original.jpg",
+  "categories": [
+    "anime influenced",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44522"
+  }
+}

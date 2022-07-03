@@ -1,0 +1,41 @@
+{
+  "slug": "log-horizon",
+  "synopsis": "In the blink of an eye, thirty thousand bewildered Japanese gamers are whisked from their everyday lives into the world of the popular MMORPG, Elder Tale, after the game's latest update—unable to log out. Among them is the socially awkward college student Shiroe, whose confusion and shock lasts only a moment as, a veteran of the game, he immediately sets out to explore the limits of his new reality.\nShiroe must learn to live in this new world, leading others and negotiating with the NPC \"natives\" in order to bring stability to the virtual city of Akihabara. He is joined by his unfortunate friend Naotsugu, having logged in for the first time in years only to find himself trapped, and Akatsuki, a petite but fierce assassin who labels Shiroe as her master. A tale of fantasy, adventure, and politics, Log Horizon explores the elements of gaming through the eyes of a master strategist who attempts to make the best of a puzzling situation.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Log Horizon",
+    "jp": "Log Horizon"
+  },
+  "releasedAt": "2013-10-05T00:00:00.000Z",
+  "finishedAt": "2014-03-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7622/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7622/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "isekai",
+    "magic",
+    "politics",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/log-horizon",
+    "http://www.hulu.com/log-horizon"
+  ],
+  "relations": {
+    "kitsu": "7622",
+    "anidb": "9677",
+    "anilist/anime": "17265",
+    "aozora": "xsGraAVUCB",
+    "hulu": "50013775",
+    "myanimelist/anime": "17265",
+    "thetvdb": "272128/1",
+    "thetvdb/season": "526516",
+    "thetvdb/series": "272128",
+    "trakt": "60403"
+  }
+}

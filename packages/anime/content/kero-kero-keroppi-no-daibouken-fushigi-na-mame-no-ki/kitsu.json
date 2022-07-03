@@ -1,0 +1,27 @@
+{
+  "slug": "kero-kero-keroppi-no-daibouken-fushigi-na-mame-no-ki",
+  "synopsis": "Sanrio's Keroppi in the classic tale of Jack and the Beanstalk.",
+  "title": {
+    "jp": "Kero Kero Keroppi no Daibouken: Fushigi na Mame no Ki"
+  },
+  "releasedAt": "1990-07-21T00:00:00.000Z",
+  "finishedAt": "1990-07-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8368/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8368",
+    "anidb": "3073",
+    "anilist/anime": "17489",
+    "aozora": "mT2O9IpR0O",
+    "myanimelist/anime": "17489"
+  }
+}

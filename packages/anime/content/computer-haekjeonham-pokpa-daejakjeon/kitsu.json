@@ -1,0 +1,26 @@
+{
+  "slug": "computer-haekjeonham-pokpa-daejakjeon",
+  "synopsis": "When evil Doctor Butler uses his Dark Energy to throw the world into the state of chaos, three heroes enter the electronic world to capture him and save humanity.",
+  "title": {
+    "en": "Savior Of The Earth",
+    "jp": "Computer Haekjeonham Pokpa Daejakjeon"
+  },
+  "releasedAt": "1983-01-01T00:00:00.000Z",
+  "finishedAt": "1983-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7520/original.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7520",
+    "anidb": "9595",
+    "anilist/anime": "16794",
+    "aozora": "NOA1dM9T32",
+    "myanimelist/anime": "16794"
+  }
+}

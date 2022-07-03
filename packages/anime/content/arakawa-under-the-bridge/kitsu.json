@@ -1,0 +1,40 @@
+{
+  "slug": "arakawa-under-the-bridge",
+  "synopsis": "Kou Ichinomiya is the son of a wealthy businessman who holds firm belief in his elite status. As such, he is determined to avoid becoming indebted to anyone; but one day, after a run-in with some mischievous kids on Arakawa Bridge, he ends up falling into the river running underneath. Luckily for him, a passerby is there to save him—but now, he owes his life to this stranger!\n\nAngered by this, Kou insists on paying her back, but this may just be the worst deal the arrogant businessman has ever made. The stranger—a stoic, tracksuit-wearing homeless girl known only as Nino—lives in a cardboard box under the bridge and wants only one thing: to fall in love. Asking Kou to be her boyfriend, he has no choice but to accept, forcing him to move out of his comfortable home and start a new life under the bridge!\n\n(Source: MAL Rewrite)",
+  "title": {
+    "en": "Arakawa Under the Bridge",
+    "jp": "Arakawa Under the Bridge"
+  },
+  "releasedAt": "2010-04-05T00:00:00.000Z",
+  "finishedAt": "2010-06-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5067/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5067/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/arakawa-under-the-bridge",
+    "http://www.hulu.com/arakawa-under-the-bridge"
+  ],
+  "relations": {
+    "kitsu": "5067",
+    "anidb": "7238",
+    "anilist/anime": "7647",
+    "aozora": "W5kTpANKzv",
+    "hulu": "50009895",
+    "myanimelist/anime": "7647",
+    "thetvdb": "143271/1",
+    "thetvdb/season": "196361",
+    "thetvdb/series": "143271",
+    "trakt": "35271"
+  }
+}

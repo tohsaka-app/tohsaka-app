@@ -1,0 +1,21 @@
+{
+  "slug": "tsubo",
+  "synopsis": "Classical animation directed by Yamamoto Sanae.",
+  "title": {
+    "jp": "Tsubo"
+  },
+  "releasedAt": "1925-01-01T00:00:00.000Z",
+  "finishedAt": "1925-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40642/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40642",
+    "anilist/anime": "101968",
+    "aozora": "XwGXT7O0fb",
+    "myanimelist/anime": "34969"
+  }
+}

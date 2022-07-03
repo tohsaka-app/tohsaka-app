@@ -1,0 +1,28 @@
+{
+  "slug": "doraemon-nobita-and-the-miracle-island-animal-adventure",
+  "synopsis": "",
+  "title": {
+    "jp": "Doraemon Movie 32: Nobita to Kiseki no Shima - Animal Adventure"
+  },
+  "releasedAt": "2012-03-03T00:00:00.000Z",
+  "finishedAt": "2012-03-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6447/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6447/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6447",
+    "anidb": "8542",
+    "anilist/anime": "11053",
+    "aozora": "0wogT1bddm",
+    "myanimelist/anime": "11053"
+  }
+}

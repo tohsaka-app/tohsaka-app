@@ -1,0 +1,24 @@
+{
+  "slug": "old-city-ward",
+  "synopsis": "An official People In The Box music video.",
+  "title": {
+    "jp": "Old City Ward"
+  },
+  "releasedAt": "2010-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8721/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8721",
+    "anilist/anime": "19239",
+    "aozora": "GRFBvNFf9T",
+    "myanimelist/anime": "19239"
+  }
+}

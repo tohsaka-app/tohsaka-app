@@ -1,0 +1,36 @@
+{
+  "slug": "archetypes-forces",
+  "synopsis": "A 20 minutes 100% CG animation presented by \"buildup\", a company that brought many japanese CG movies such as Godzilla vs Biollante, Stray Dog - Kerberos Panzer Cops, Godzilla vs King Ghidora, Kappa, Gundam Mission To The Rise and D. \nThe story takes place in the future, the year is 2124. A dangerous container is to be secretly loaded into medical transport ship which goes into the earth orbit because it's forbidden to store dangerous container on earth. \nIt's so secret that no crew members on the ship were told about the container's contents or any possible hazzards. The truth is, the container carries a dangerous living body in some form like liquid / worm which is capable of reading DNA information of other living beings and then transforms itself as an exact copy. Of course, the original object then will be killed. \n(Source: AniDB)",
+  "title": {
+    "jp": "A.F"
+  },
+  "releasedAt": "2002-09-06T00:00:00.000Z",
+  "finishedAt": "2002-09-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3856/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "drama",
+    "future",
+    "gunfights",
+    "mecha",
+    "parasite",
+    "piloted robot",
+    "power suit",
+    "science fiction",
+    "shipboard",
+    "space",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3856",
+    "anidb": "2010",
+    "anilist/anime": "4934",
+    "aozora": "QPkKARz4XZ",
+    "myanimelist/anime": "4934"
+  }
+}

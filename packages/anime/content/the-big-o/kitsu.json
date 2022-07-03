@@ -1,0 +1,44 @@
+{
+  "slug": "the-big-o",
+  "synopsis": "Paradigm City is a place without a past. 40 years ago, something happened that wiped the memories of everyone in it. Unfortunately, the people of Paradigm City were very busy before then, making Megadueses (giant robots) and monsters. People who were born after the memory wipe are gaining/recovering memories of the past and using them to build newer threats. With the help of The Big O (a faithful giant robot), his butler Norman and the android Dorothy, Roger Smith keeps Paradigm City safe. As problems mount and more memories surface, Roger's past and Paradigm's future begin to become suspect... ",
+  "title": {
+    "en": "The Big O",
+    "jp": "The Big O"
+  },
+  "releasedAt": "1999-10-13T00:00:00.000Z",
+  "finishedAt": "2003-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/524/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/524/original.jpg",
+  "categories": [
+    "action",
+    "android",
+    "angst",
+    "conspiracy",
+    "detective",
+    "dystopia",
+    "fantasy world",
+    "mecha",
+    "mystery",
+    "parody",
+    "piloted robot",
+    "post apocalypse",
+    "psychological",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/the-big-o"
+  ],
+  "relations": {
+    "kitsu": "524",
+    "anidb": "8941",
+    "anilist/anime": "567",
+    "aozora": "unh24yskMl",
+    "myanimelist/anime": "567",
+    "thetvdb": "73988/1",
+    "thetvdb/series": "73988",
+    "trakt": "18159"
+  }
+}

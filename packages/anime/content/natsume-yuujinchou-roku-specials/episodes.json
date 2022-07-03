@@ -1,0 +1,24 @@
+[
+  {
+    "title": {
+      "en": "The Stump of the Suzunaru Tree",
+      "jp": "Suzunaru no Kirikabu"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/224861/original.png",
+    "releasedAt": "2017-09-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "en": "Fragment of a Dream",
+      "jp": "Mugen no Kakera"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/224862/original.png",
+    "releasedAt": "2017-10-25T00:00:00.000Z",
+    "content": {}
+  }
+]

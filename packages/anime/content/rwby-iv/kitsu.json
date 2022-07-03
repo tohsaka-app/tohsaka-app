@@ -1,0 +1,27 @@
+{
+  "slug": "rwby-iv",
+  "synopsis": "It's been several months since the Fall of Beacon, and the world of Remnant is still recovering. Tensions are high, lives have been lost, and the members of Team RWBY... are divided. Each of our heroines now faces a journey of their own.",
+  "title": {},
+  "releasedAt": "2016-10-22T00:00:00.000Z",
+  "finishedAt": "2017-02-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12279/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12279/original.png",
+  "categories": [
+    "action",
+    "anime influenced",
+    "comedy",
+    "fantasy",
+    "fantasy world"
+  ],
+  "externals": [
+    "https://vrv.co/series/G609MWD26/RWBY",
+    "https://www.youtube.com/watch?v=IZKpkzPIRlw&list=PLUBVPK8x-XMjTV27odL3JsbL1UNO1OmI2",
+    "www.crunchyroll.com/rwby"
+  ],
+  "relations": {
+    "kitsu": "12279"
+  }
+}

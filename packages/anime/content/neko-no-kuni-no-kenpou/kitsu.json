@@ -1,0 +1,22 @@
+{
+  "slug": "neko-no-kuni-no-kenpou",
+  "synopsis": "An educational film about the formation of the Constitution of Japan simplified extremely under the guise of a country of cats meant for a young audience.",
+  "title": {
+    "en": null,
+    "jp": "Neko no Kuni no Kenpou"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "tba",
+  "rating": "g",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12829",
+    "aozora": "bWgsiI5sQC",
+    "myanimelist/anime": "33826"
+  }
+}

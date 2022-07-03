@@ -1,0 +1,22 @@
+[
+  {
+    "title": {
+      "jp": "Minna de Oiwai Shitemita."
+    },
+    "synopsis": "Everyone celebrates Christmas.",
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2016-03-23T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "PV Tsukuttemita."
+    },
+    "synopsis": "PV time.",
+    "season": 1,
+    "number": 2,
+    "releasedAt": "2016-06-22T00:00:00.000Z",
+    "content": {}
+  }
+]

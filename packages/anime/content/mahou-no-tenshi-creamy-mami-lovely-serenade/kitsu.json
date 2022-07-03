@@ -1,0 +1,28 @@
+{
+  "slug": "mahou-no-tenshi-creamy-mami-lovely-serenade",
+  "synopsis": "An anime music video with songs from the anime series.",
+  "title": {
+    "en": "Mahou no Tenshi Creamy Mami: Lovely Serenade",
+    "jp": "Mahou no Tenshi Creamy Mami: Lovely Serenade"
+  },
+  "releasedAt": "1985-01-01T00:00:00.000Z",
+  "finishedAt": "1985-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3478/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3478/original.jpg",
+  "categories": [
+    "idol",
+    "magical girl",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3478",
+    "anidb": "5109",
+    "anilist/anime": "4126",
+    "aozora": "GkjGUtQerV",
+    "myanimelist/anime": "4126"
+  }
+}

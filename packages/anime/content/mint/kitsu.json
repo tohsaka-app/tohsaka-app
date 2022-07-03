@@ -1,0 +1,22 @@
+{
+  "slug": "mint",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "Mint"
+  },
+  "releasedAt": "2018-01-01T00:00:00.000Z",
+  "finishedAt": "2018-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8098/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "8098",
+    "anidb": "10075",
+    "aozora": "UU1fQMBnx1",
+    "myanimelist/anime": "20715"
+  }
+}

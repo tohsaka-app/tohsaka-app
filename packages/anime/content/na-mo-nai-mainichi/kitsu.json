@@ -1,0 +1,22 @@
+{
+  "slug": "na-mo-nai-mainichi",
+  "synopsis": "Official music video for RAM WIRE's song Na mo Nai Mainichi.\n",
+  "title": {
+    "jp": "Na mo Nai Mainichi"
+  },
+  "releasedAt": "2012-06-04T00:00:00.000Z",
+  "finishedAt": "2012-06-04T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41249/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41249",
+    "anilist/anime": "103011",
+    "myanimelist/anime": "37602"
+  }
+}

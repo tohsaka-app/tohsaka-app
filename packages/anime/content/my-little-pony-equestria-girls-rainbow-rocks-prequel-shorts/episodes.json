@@ -1,0 +1,61 @@
+[
+  {
+    "title": {
+      "en": "Music to My Ears"
+    },
+    "season": 1,
+    "number": 1,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/301457/original.jpg",
+    "releasedAt": "2014-03-27T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "en": "Guitar Centered"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/301458/original.jpg",
+    "releasedAt": "2014-04-04T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "en": "Hamstocalypse Now"
+    },
+    "season": 1,
+    "number": 3,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/301459/original.jpg",
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 4,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 5,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 6,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 7,
+    "content": {}
+  },
+  {
+    "title": {},
+    "season": 1,
+    "number": 8,
+    "content": {}
+  }
+]

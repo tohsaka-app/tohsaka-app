@@ -1,0 +1,28 @@
+{
+  "slug": "precure-all-stars-movie-haru-no-carnival",
+  "synopsis": "New Precure All Stars movie.",
+  "title": {
+    "jp": "Precure All Stars Movie: Haru no Carnival♪"
+  },
+  "releasedAt": "2015-03-14T00:00:00.000Z",
+  "finishedAt": "2015-03-14T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10133/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "magic",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10133",
+    "anidb": "10941",
+    "anilist/anime": "21137",
+    "aozora": "6BJngOUV80",
+    "myanimelist/anime": "28511"
+  }
+}

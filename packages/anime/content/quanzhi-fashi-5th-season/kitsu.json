@@ -1,0 +1,26 @@
+{
+  "slug": "quanzhi-fashi-5th-season",
+  "synopsis": "The fifth season of Quanzhi Fashi",
+  "title": {
+    "en": "Full-Time Magister 5"
+  },
+  "releasedAt": "2021-07-28T00:00:00.000Z",
+  "finishedAt": "2021-08-25T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44956/original.png",
+  "categories": [
+    "action",
+    "fantasy",
+    "fantasy world",
+    "magic",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44956",
+    "anilist/anime": "122671",
+    "myanimelist/anime": "48941"
+  }
+}

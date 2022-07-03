@@ -1,0 +1,31 @@
+{
+  "slug": "toriko-barbarian-ivy-wo-hokaku-seyo",
+  "synopsis": "Special shown at the Jump Super Anime Tour in 2010.",
+  "title": {
+    "jp": "Toriko: Barbarian Ivy wo Hokaku Seyo!"
+  },
+  "releasedAt": "2010-10-23T00:00:00.000Z",
+  "finishedAt": "2010-10-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6600/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "cooking",
+    "earth",
+    "present",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6600",
+    "anidb": "7735",
+    "anilist/anime": "11787",
+    "aozora": "VjKmNF3LuF",
+    "myanimelist/anime": "11787"
+  }
+}

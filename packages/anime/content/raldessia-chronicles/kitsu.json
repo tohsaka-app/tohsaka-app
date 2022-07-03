@@ -1,0 +1,25 @@
+{
+  "slug": "raldessia-chronicles",
+  "synopsis": "DeNA's promotional anime video for its mobile game Raldessia Chronicles.",
+  "title": {
+    "en": "Raldessia Chronicles",
+    "jp": "Raldessia Chronicles"
+  },
+  "releasedAt": "2013-05-20T00:00:00.000Z",
+  "finishedAt": "2013-05-20T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11637/original.jpg",
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11637",
+    "anilist/anime": "102773",
+    "aozora": "4FpmMSNC8K",
+    "myanimelist/anime": "32219"
+  }
+}

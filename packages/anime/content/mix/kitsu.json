@@ -1,0 +1,32 @@
+{
+  "slug": "mix",
+  "synopsis": "A new generation steps up to the plate in a moving sequel to the 1985 baseball manga, Touch. Stepbrothers Touma and Suichirou are ace players on Meisei High School’s baseball team, and thanks to them, the team may finally have a chance at returning to nationals. But little by little, a tragic legacy unfolds as the stepbrothers follow in their fathers’ footsteps.\n\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Mix"
+  },
+  "releasedAt": "2019-04-06T00:00:00.000Z",
+  "finishedAt": "2019-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41925/original.jpg",
+  "categories": [
+    "baseball",
+    "drama",
+    "romance",
+    "school life",
+    "shounen",
+    "sports"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/mix",
+    "https://www.funimation.com/shows/mix/",
+    "https://www.hulu.com/mix"
+  ],
+  "relations": {
+    "kitsu": "41925",
+    "anidb": "14245",
+    "anilist/anime": "103555",
+    "myanimelist/anime": "38098"
+  }
+}

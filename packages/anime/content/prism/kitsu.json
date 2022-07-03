@@ -1,0 +1,22 @@
+{
+  "slug": "prism",
+  "synopsis": "Official music video for the song Prism by the fictional band Irodorimidori. It is the 24th song in the franchise and focuses on Aliciana Ogata.\n\n(Source: MAL News)",
+  "title": {
+    "jp": "Prism"
+  },
+  "releasedAt": "2018-02-19T00:00:00.000Z",
+  "finishedAt": "2018-02-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41045/original.jpeg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41045",
+    "anilist/anime": "102850",
+    "myanimelist/anime": "37357"
+  }
+}

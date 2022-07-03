@@ -1,0 +1,31 @@
+{
+  "slug": "computer-kakumei-saikyou-x-saisoku-no-zunou-tanjou",
+  "synopsis": "The anime short Computer Kakumei was aired by the Japanese public broadcaster NHK as part of a TV special. The near-future anime was conceived by Parasite Eve author Hideaki Sena, and it depicts how ubiquitous computers have transformed life's various aspects in 2020 Tokyo. The story is told through the eyes of a high school senior named Mako.",
+  "title": {
+    "jp": "Computer Kakumei: Saikyou x Saisoku no Zunou Tanjou"
+  },
+  "releasedAt": "2012-06-03T00:00:00.000Z",
+  "finishedAt": "2012-06-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7111/original.jpg",
+  "categories": [
+    "asia",
+    "earth",
+    "future",
+    "japan",
+    "plot continuity",
+    "science fiction",
+    "slice of life",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7111",
+    "anidb": "9247",
+    "anilist/anime": "14317",
+    "aozora": "NyEZ5yO1h5",
+    "myanimelist/anime": "14317"
+  }
+}

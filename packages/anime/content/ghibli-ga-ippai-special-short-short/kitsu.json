@@ -1,0 +1,22 @@
+{
+  "slug": "ghibli-ga-ippai-special-short-short",
+  "synopsis": "A DVD release with a collection of commercials and TV spots produced by Studio Ghibli or its subsidiary Studio Kajino between the years 2000 and 2005.",
+  "title": {
+    "jp": "Ghibli ga Ippai Special Short Short"
+  },
+  "releasedAt": "2005-11-16T00:00:00.000Z",
+  "finishedAt": "2005-11-16T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8794/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8794",
+    "aozora": "QrxYKZFKWs",
+    "myanimelist/anime": "24975"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "kimi-ni-todoke-2nd-season-kataomoi",
+  "synopsis": "The Kimi ni Todoke story so far, from Kurumi's point of view. ",
+  "title": {
+    "en": "Kimi ni Todoke - From Me To You Season 2 – A Crush",
+    "jp": "Kimi ni Todoke 2nd Season: Kataomoi"
+  },
+  "releasedAt": "2011-01-05T00:00:00.000Z",
+  "finishedAt": "2011-01-05T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6055/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6055/original.png",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6055",
+    "anilist/anime": "10152",
+    "aozora": "rq4un9fQt7",
+    "myanimelist/anime": "10152"
+  }
+}

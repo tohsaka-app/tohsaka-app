@@ -1,0 +1,26 @@
+{
+  "slug": "okaasan-ni-naisho",
+  "synopsis": "Music video by Sawako Kabuki.",
+  "title": {
+    "en": "Don't tell Mom",
+    "jp": "Okaasan ni Naisho"
+  },
+  "releasedAt": "2015-03-15T00:00:00.000Z",
+  "finishedAt": "2015-03-15T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11442/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11442",
+    "anidb": "11660",
+    "anilist/anime": "103369",
+    "aozora": "8Y9S4rOFRr",
+    "myanimelist/anime": "31685"
+  }
+}

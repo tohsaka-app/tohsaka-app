@@ -1,0 +1,31 @@
+{
+  "slug": "area-88-movie",
+  "synopsis": "Kazama Shin, tricked and forced into fighting for the remote country of Arslan, can only escape the hell of war by earning money for shooting down enemy planes or die trying. As the war rages on, Shin has to deal with the consequences of killing and friends dying around him as he tries to keep his mind on freeing himself from this nightmare.\n(Source: ANN)",
+  "title": {
+    "jp": "Area 88 Movie"
+  },
+  "releasedAt": "1985-07-20T00:00:00.000Z",
+  "finishedAt": "1985-07-20T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12106/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "air force",
+    "earth",
+    "middle east",
+    "military",
+    "present",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12106",
+    "anidb": "7089",
+    "anilist/anime": "98129",
+    "aozora": "DhC5CBv2FA",
+    "myanimelist/anime": "33232"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "takanashi-rikka-kai-chuunibyou-demo-koi-ga-shitai-movie-lite",
+  "synopsis": "Special episode included with the Blu-ray/DVD release of Chuunibyou demo Koi ga Shitai! Movie. ",
+  "title": {
+    "jp": "Takanashi Rikka Kai: Chuunibyou demo Koi ga Shitai! Movie Lite"
+  },
+  "releasedAt": "2014-02-19T00:00:00.000Z",
+  "finishedAt": "2014-02-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8360/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8360/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8360",
+    "anilist/anime": "20660",
+    "aozora": "Oss58TbSBG",
+    "myanimelist/anime": "22859"
+  }
+}

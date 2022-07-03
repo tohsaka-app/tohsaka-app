@@ -1,0 +1,25 @@
+{
+  "slug": "hairy-tale",
+  "synopsis": "A short revolving around the Japanese proverb: \"Hair is the heart of a woman\". Beautiful animation directed by Kazuto Nakazawa!",
+  "title": {
+    "jp": "Asience: Kami wa Onna no Inochi"
+  },
+  "releasedAt": "2007-03-01T00:00:00.000Z",
+  "finishedAt": "2007-03-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3964/original.jpg",
+  "categories": [
+    "historical",
+    "samurai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3964",
+    "anidb": "7888",
+    "anilist/anime": "5168",
+    "aozora": "QpCMHvo0u2",
+    "myanimelist/anime": "5168"
+  }
+}

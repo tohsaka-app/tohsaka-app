@@ -1,0 +1,41 @@
+{
+  "slug": "tekkaman-blade-2",
+  "synopsis": "10 years have passed since the end of the last war against the radam. A new team of Space Knights has been assembled under the lead of Aki and D-boy. The first mission of the new tekkaman is to defeat the radam but then, they have to fight against a remnent from the past.\n(Source: ANN)",
+  "title": {
+    "en": "Tekkaman Blade II",
+    "jp": "Uchuu no Kishi Tekkaman Blade II"
+  },
+  "releasedAt": "1994-07-21T00:00:00.000Z",
+  "finishedAt": "1995-04-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1310/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "cops",
+    "cyborg",
+    "earth",
+    "future",
+    "law and order",
+    "mecha",
+    "military",
+    "power suit",
+    "science fiction",
+    "shipboard",
+    "space",
+    "special squads",
+    "stereotypes",
+    "violence"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1310",
+    "anidb": "216",
+    "anilist/anime": "1460",
+    "aozora": "wj16gcZVVW",
+    "myanimelist/anime": "1460"
+  }
+}

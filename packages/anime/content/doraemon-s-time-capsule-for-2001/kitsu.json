@@ -1,0 +1,24 @@
+{
+  "slug": "doraemon-s-time-capsule-for-2001",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Doraemon: Time Machine de Oshougatsu"
+  },
+  "releasedAt": "1979-01-01T00:00:00.000Z",
+  "finishedAt": "1979-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2396/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2396",
+    "anilist/anime": "2632",
+    "aozora": "I8UJmDbfVU",
+    "myanimelist/anime": "2632"
+  }
+}

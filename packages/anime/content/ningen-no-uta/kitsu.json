@@ -1,0 +1,23 @@
+{
+  "slug": "ningen-no-uta",
+  "synopsis": "For the first time, 18 year old Mitsuko is facing discrimination as she tries to pursue a career.",
+  "title": {
+    "jp": "Ningen no Uta"
+  },
+  "releasedAt": "1988-01-01T00:00:00.000Z",
+  "finishedAt": "1988-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11083/original.jpg",
+  "categories": [
+    "drama",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11083",
+    "aozora": "LSm4Zmro0L",
+    "myanimelist/anime": "30999"
+  }
+}

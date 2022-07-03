@@ -1,0 +1,25 @@
+{
+  "slug": "kouya-no-kotobuki-hikoutai-kanzenban",
+  "synopsis": "Compilation film with new content.\n",
+  "title": {
+    "en": "The Magnificent Kotobuki",
+    "jp": "Kouya no Kotobuki Hikoutai Kanzenban"
+  },
+  "releasedAt": "2020-10-01T00:00:00.000Z",
+  "finishedAt": "2020-10-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42994/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "military"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42994",
+    "anilist/anime": "115082",
+    "myanimelist/anime": "41205"
+  }
+}

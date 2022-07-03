@@ -1,0 +1,28 @@
+{
+  "slug": "backkom-sports",
+  "synopsis": "The 3rd season of Backkom which focuses on him participating and failing at a wide variety of sports. ",
+  "title": {
+    "en": "Bernard Sports",
+    "jp": "Backkom Sports"
+  },
+  "releasedAt": "2009-01-01T00:00:00.000Z",
+  "finishedAt": "2009-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9209/original.jpg",
+  "categories": [
+    "comedy",
+    "kids",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9209",
+    "aozora": "M0rwMErV0Y",
+    "myanimelist/anime": "25967",
+    "thetvdb": "80029/2",
+    "thetvdb/season": "38578",
+    "thetvdb/series": "80029"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "itazura-post",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Itazura Post"
+  },
+  "releasedAt": "1917-07-28T00:00:00.000Z",
+  "finishedAt": "1917-07-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9348/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9348",
+    "anidb": "6913",
+    "aozora": "fZHhUAQbV9",
+    "myanimelist/anime": "23183"
+  }
+}

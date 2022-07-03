@@ -1,0 +1,42 @@
+{
+  "slug": "amagami-ss-plus",
+  "synopsis": "A continuation of Amagami SS, showing what happens after each girl's respective arc. What if Tsukasa were to run for student council president...?",
+  "title": {
+    "en": "Amagami SS+ Plus",
+    "jp": "Amagami SS+ Plus"
+  },
+  "releasedAt": "2012-01-06T00:00:00.000Z",
+  "finishedAt": "2012-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6478/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6478/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "love polygon",
+    "present",
+    "romance",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "https://www.hidive.com/tv/amagami-ss-plus/"
+  ],
+  "relations": {
+    "kitsu": "6478",
+    "anidb": "8573",
+    "anilist/anime": "11235",
+    "aozora": "xgbeIeyRtS",
+    "hulu": "50014276",
+    "myanimelist/anime": "11235",
+    "thetvdb": "172921/2",
+    "thetvdb/season": "472369",
+    "thetvdb/series": "172921",
+    "trakt": "61015"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "wei-kanjian-erduo-la-2",
+  "synopsis": "Second season of Wei, Kanjian Erduo La!.",
+  "title": {
+    "en": "Hey, Your Cat Ears Are Showing! 2",
+    "jp": "Wei, Kanjian Erduo La! 2"
+  },
+  "releasedAt": "2019-02-02T00:00:00.000Z",
+  "finishedAt": "2019-04-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42158/original.jpg",
+  "categories": [
+    "comedy",
+    "shounen ai",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42158",
+    "anilist/anime": "107984",
+    "myanimelist/anime": "39380"
+  }
+}

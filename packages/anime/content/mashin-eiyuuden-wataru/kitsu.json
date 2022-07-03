@@ -1,0 +1,36 @@
+{
+  "slug": "mashin-eiyuuden-wataru",
+  "synopsis": "A 9-year-old boy named Wataru Ikusabe is magically transported to a magical realm of the gods called Soukaizan which he is supposed to save. In his quest to save the realm, he manages to transform a clay sculpture into a somewhat autonomous (small) Super Robot.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Mashin Eiyuuden Wataru"
+  },
+  "releasedAt": "1988-04-15T00:00:00.000Z",
+  "finishedAt": "1989-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3289/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "mecha",
+    "piloted robot",
+    "plot continuity",
+    "present",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3289",
+    "anidb": "3636",
+    "anilist/anime": "3837",
+    "aozora": "84KvdwBHDn",
+    "myanimelist/anime": "3837",
+    "thetvdb": "227501/1",
+    "thetvdb/season": "410911",
+    "thetvdb/series": "227501"
+  }
+}

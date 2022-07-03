@@ -1,0 +1,42 @@
+{
+  "slug": "fushigi-yuugi-ova",
+  "synopsis": "A year after the events of Fushigi Yuugi, Tamahome is pulled back into the book and is sent on a complicated ride through illusion, confusion, and betrayal. Meanwhile, Yui is acting oddly and Miaka is heartbroken over the loss of Tamahome, while Keisuke and Tetsuya try to discover what is going on with the book.\n(Source: ANN)",
+  "title": {
+    "en": "Mysterious Play OVA",
+    "jp": "Fushigi Yuugi OVA"
+  },
+  "releasedAt": "1996-10-25T00:00:00.000Z",
+  "finishedAt": "1997-02-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/347/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "historical",
+    "magic",
+    "martial arts",
+    "past",
+    "plot continuity",
+    "romance",
+    "shoujo",
+    "super power"
+  ],
+  "externals": [
+    "https://vrv.co/series/GRWE2W42R/Fushigi-Yugi-OVA",
+    "https://www.contv.com/details-movie/1313-19726-000/fushigi-yuugi-ova-1",
+    "https://www.crunchyroll.com/fushigi-yugi-ova"
+  ],
+  "relations": {
+    "kitsu": "347",
+    "anidb": "163",
+    "anilist/anime": "380",
+    "aozora": "tz5J5ZBo6h",
+    "myanimelist/anime": "380"
+  }
+}

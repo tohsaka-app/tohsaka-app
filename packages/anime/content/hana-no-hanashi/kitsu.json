@@ -1,0 +1,25 @@
+{
+  "slug": "hana-no-hanashi",
+  "synopsis": "A short animation by Taku Furukawa.",
+  "title": {
+    "en": "Nose Tale",
+    "jp": "Hana no Hanashi"
+  },
+  "releasedAt": "2010-01-01T00:00:00.000Z",
+  "finishedAt": "2010-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10812/original.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10812",
+    "anidb": "11436",
+    "anilist/anime": "103919",
+    "aozora": "3zzkFa9uQU",
+    "myanimelist/anime": "30393"
+  }
+}

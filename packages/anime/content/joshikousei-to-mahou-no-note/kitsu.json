@@ -1,0 +1,20 @@
+{
+  "slug": "joshikousei-to-mahou-no-note",
+  "synopsis": null,
+  "title": {
+    "en": "High School Girl & the Magic Notebook",
+    "jp": "Joshikousei to Mahou no Note"
+  },
+  "releasedAt": "2022-06-30T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45221/poster_image/cc769d31e5c8be21c8fda7b2feb63794.png",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "45221",
+    "anilist/anime": "139376"
+  }
+}

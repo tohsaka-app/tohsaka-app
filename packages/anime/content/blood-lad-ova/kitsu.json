@@ -1,0 +1,34 @@
+{
+  "slug": "blood-lad-ova",
+  "synopsis": "Bundled with the tenth limited-edition volume of Blood Lad manga.",
+  "title": {
+    "en": "Blood Lad OVA",
+    "jp": "Blood Lad: Wagahai wa Neko de wa Nai"
+  },
+  "releasedAt": "2013-12-04T00:00:00.000Z",
+  "finishedAt": "2013-12-04T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7724/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "contemporary fantasy",
+    "demon",
+    "fantasy",
+    "fantasy world",
+    "vampire"
+  ],
+  "externals": [
+    "http://www.hulu.com/blood-lad"
+  ],
+  "relations": {
+    "kitsu": "7724",
+    "anidb": "9803",
+    "anilist/anime": "18441",
+    "aozora": "O6C3apjInj",
+    "myanimelist/anime": "18441",
+    "trakt": "57206"
+  }
+}

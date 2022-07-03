@@ -1,0 +1,31 @@
+{
+  "slug": "super-street-fighter-iv",
+  "synopsis": "This OVA will reveal the truth about Juri's evil eye and feature plenty of Cammy and the Dolls.\n(Source: Capcom)",
+  "title": {
+    "jp": "Super Street Fighter IV"
+  },
+  "releasedAt": "2010-04-28T00:00:00.000Z",
+  "finishedAt": "2010-04-28T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5176/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5176/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "crime",
+    "earth",
+    "martial arts",
+    "present",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5176",
+    "anidb": "7321",
+    "anilist/anime": "8026",
+    "aozora": "3qyQcGUejY",
+    "myanimelist/anime": "8026"
+  }
+}

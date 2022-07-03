@@ -1,0 +1,24 @@
+{
+  "slug": "hong-huang",
+  "synopsis": "After a disaster destroyed the planet, Jiu led a group of armed escorts and traveled around the red wasteland to find the method to heal the planet.\n\n(Source: Youtube Description)",
+  "title": {
+    "en": "R.E.D"
+  },
+  "releasedAt": "2021-07-13T00:00:00.000Z",
+  "finishedAt": "2021-11-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44932/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44932",
+    "anilist/anime": "114118",
+    "myanimelist/anime": "49205"
+  }
+}

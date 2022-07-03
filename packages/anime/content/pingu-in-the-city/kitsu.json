@@ -1,0 +1,26 @@
+{
+  "slug": "pingu-in-the-city",
+  "synopsis": "Pingu and his family move from their small village to a big city, where there are many people with many different occupations. The ever-curious Pingu tries to join them at their jobs, but his mischievous side gets the better of him and he ends up messing things up.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Pingu in the City"
+  },
+  "releasedAt": "2017-10-07T00:00:00.000Z",
+  "finishedAt": "2018-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13783/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13783",
+    "anidb": "13421",
+    "anilist/anime": "99994",
+    "myanimelist/anime": "36259",
+    "thetvdb": "336973/1"
+  }
+}

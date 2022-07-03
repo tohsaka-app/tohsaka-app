@@ -1,0 +1,111 @@
+[
+  {
+    "title": {
+      "jp": "My Girlfriend Is An Alien"
+    },
+    "season": 1,
+    "number": 1,
+    "releasedAt": "2003-04-03T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "My First Date"
+    },
+    "season": 1,
+    "number": 2,
+    "thumbUrl": "https://media.kitsu.io/episodes/thumbnails/159713/original.jpg",
+    "releasedAt": "2003-04-10T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Two's Secret Base"
+    },
+    "season": 1,
+    "number": 3,
+    "releasedAt": "2003-04-17T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Younger Big Sister"
+    },
+    "season": 1,
+    "number": 4,
+    "releasedAt": "2003-04-24T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Kanaka Goes To School"
+    },
+    "season": 1,
+    "number": 5,
+    "releasedAt": "2003-05-01T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Love Has An Impact"
+    },
+    "season": 1,
+    "number": 6,
+    "releasedAt": "2003-05-08T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Pool?! Triple Danger"
+    },
+    "season": 1,
+    "number": 7,
+    "releasedAt": "2003-05-15T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Message From Earth"
+    },
+    "season": 1,
+    "number": 8,
+    "releasedAt": "2003-05-22T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Starship In Love"
+    },
+    "season": 1,
+    "number": 9,
+    "releasedAt": "2003-05-29T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "Operation Cosplay"
+    },
+    "season": 1,
+    "number": 10,
+    "releasedAt": "2003-06-05T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "A Small Wedding"
+    },
+    "season": 1,
+    "number": 11,
+    "releasedAt": "2003-06-12T00:00:00.000Z",
+    "content": {}
+  },
+  {
+    "title": {
+      "jp": "The Night Of The Festival"
+    },
+    "season": 1,
+    "number": 12,
+    "releasedAt": "2003-06-19T00:00:00.000Z",
+    "content": {}
+  }
+]

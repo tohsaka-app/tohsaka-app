@@ -1,0 +1,35 @@
+{
+  "slug": "boku-wa-tomodachi-ga-sukunai-add-on-disc",
+  "synopsis": "Unaired 13th episode of Boku wa Tomodachi ga Sukunai.",
+  "title": {
+    "en": "Haganai: Add-on Disc",
+    "jp": "Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai"
+  },
+  "releasedAt": "2012-09-26T00:00:00.000Z",
+  "finishedAt": "2012-09-26T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7069/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7069/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "fantasy world",
+    "harem",
+    "japan",
+    "present",
+    "romance",
+    "school clubs",
+    "school life",
+    "stereotypes"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7069",
+    "anidb": "9206",
+    "anilist/anime": "14027",
+    "aozora": "Rw4itr9c4m",
+    "myanimelist/anime": "14027"
+  }
+}

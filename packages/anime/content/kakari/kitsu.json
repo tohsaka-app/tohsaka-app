@@ -1,0 +1,24 @@
+{
+  "slug": "kakari",
+  "synopsis": "A clerk has his own duty. A clerk does his own work. This is what a clerk should do.\n(Source: Official website)",
+  "title": {
+    "en": "A Clerk in Charge",
+    "jp": "Kakari"
+  },
+  "releasedAt": "2004-01-01T00:00:00.000Z",
+  "finishedAt": "2004-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10403/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10403",
+    "anilist/anime": "103432",
+    "aozora": "Qtv549W6HT",
+    "myanimelist/anime": "29906"
+  }
+}

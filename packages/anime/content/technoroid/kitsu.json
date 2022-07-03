@@ -1,0 +1,23 @@
+{
+  "slug": "technoroid",
+  "synopsis": "The story of \"wretched, beautiful androids\" is set on the entertainment tower Babel, the new source of hope for humanity after climate change has submerged the world underwater. Several unique musical units compete to rise to the top of Babel, by moving the hearts of both humans and androids with their performances.\n\n(Source: Anime News Network)",
+  "title": {
+    "en": "TECHNOROID: OVERMIND",
+    "jp": "TECHNOROID"
+  },
+  "releasedAt": "2023-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45409/poster_image/18cfcf5d38d33ad9c6464a6a523b123f.jpg",
+  "categories": [
+    "android",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45409",
+    "anilist/anime": "141062"
+  }
+}

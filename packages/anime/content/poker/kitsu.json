@@ -1,0 +1,24 @@
+{
+  "slug": "poker",
+  "synopsis": "A music video for Shugo Tokumaru animated by Mirai Mizue and Yukie Nakauchi.\nThe baby bird flies around the world to transform.",
+  "title": {
+    "jp": "Poker"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10087/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10087",
+    "anidb": "11237",
+    "anilist/anime": "102660",
+    "aozora": "UMezCViHgd",
+    "myanimelist/anime": "28687"
+  }
+}

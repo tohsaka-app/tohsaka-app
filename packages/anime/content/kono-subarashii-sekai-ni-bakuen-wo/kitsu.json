@@ -1,0 +1,27 @@
+{
+  "slug": "kono-subarashii-sekai-ni-bakuen-wo",
+  "synopsis": "A spin-off of Kono Subarashii Sekai ni Shukufuku wo! that focuses on Megumin and Yunyun taking place before their respective appearances in the main series.",
+  "title": {
+    "en": "Konosuba: An Explosion of this Wonderful World",
+    "jp": "Kono Subarashii Sekai ni Bakuen wo!"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46139/poster_image/55c0e00c8e27514262c4cf44b2c9c0d7.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "isekai",
+    "satire"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46139",
+    "anilist/anime": "150075",
+    "myanimelist/anime": "51958"
+  }
+}

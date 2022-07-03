@@ -1,0 +1,25 @@
+{
+  "slug": "terra-e-specials",
+  "synopsis": "Episode list:\n1: Episode 00 - Pilot Movie\n2: TYPE BLUE -the ORIGIN-\n3: Epilogue\nMusic video Coming Home to Terra isn't included in the entry as it doesn't contain any new scenes. Recap episode, also known as episode 6.5, is actually a fan-made picture drama; thus, it's also not included.",
+  "title": {
+    "jp": "Terra e... (TV) Specials"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3897/original.jpg",
+  "categories": [
+    "adventure",
+    "drama",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3897",
+    "anilist/anime": "5037",
+    "aozora": "3qjwAAONST",
+    "myanimelist/anime": "5037"
+  }
+}

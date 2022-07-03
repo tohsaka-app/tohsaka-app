@@ -1,0 +1,48 @@
+{
+  "slug": "sidonia-no-kishi-daikyuu-wakusei-seneki",
+  "synopsis": "Having narrowly avoided the collision with the asteroid, the Sidonia sets a course for the Lem system in order to wipe out the Gauna nest.\n(Source: Polygon Pictures)",
+  "title": {
+    "en": "Knights of Sidonia: Battle for Planet Nine",
+    "jp": "Sidonia no Kishi: Daikyuu Wakusei Seneki"
+  },
+  "releasedAt": "2015-04-11T00:00:00.000Z",
+  "finishedAt": "2015-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8670/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8670/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "disaster",
+    "future",
+    "genetic modification",
+    "human enhancement",
+    "mecha",
+    "military",
+    "piloted robot",
+    "plot continuity",
+    "robot",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space travel",
+    "violence",
+    "war"
+  ],
+  "externals": [
+    "https://www.netflix.com/id/title/70301578"
+  ],
+  "relations": {
+    "kitsu": "8670",
+    "anidb": "10713",
+    "anilist/anime": "20762",
+    "aozora": "Fvw3IUZ2rY",
+    "myanimelist/anime": "24893",
+    "thetvdb": "278154/2",
+    "thetvdb/season": "589474",
+    "thetvdb/series": "278154",
+    "trakt": "75828"
+  }
+}

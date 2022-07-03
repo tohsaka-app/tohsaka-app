@@ -1,0 +1,46 @@
+{
+  "slug": "ga-rei-zero",
+  "synopsis": "\"Will you kill someone you love because of love?\"\nThe Japanese Ministry of Defense has an anti-paranormal special forces group called the Supernatural Disaster Prevention Office. They are the ones responsible to protect Japanese soil and its people from supernatural and paranormal events. However, things didn't go so well in one of their missions...\n(Source: ANN)",
+  "title": {
+    "en": "Ga-Rei-Zero",
+    "jp": "Ga-Rei: Zero"
+  },
+  "releasedAt": "2008-10-06T00:00:00.000Z",
+  "finishedAt": "2008-12-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3763/original.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3763/original.jpg",
+  "categories": [
+    "action",
+    "angst",
+    "coming of age",
+    "drama",
+    "gunfights",
+    "horror",
+    "japan",
+    "law and order",
+    "present",
+    "special squads",
+    "super power",
+    "thriller",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/ga-rei-zero",
+    "http://www.funimation.com/shows/ga-rei-zero/videos/episodes",
+    "http://www.hulu.com/ga-rei-zero"
+  ],
+  "relations": {
+    "kitsu": "3763",
+    "anidb": "6113",
+    "anilist/anime": "4725",
+    "aozora": "cp3xQQ0Fav",
+    "hulu": "50001760",
+    "myanimelist/anime": "4725",
+    "thetvdb": "83359/1",
+    "thetvdb/series": "83359",
+    "trakt": "61156"
+  }
+}

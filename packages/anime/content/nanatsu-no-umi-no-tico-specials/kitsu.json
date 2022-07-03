@@ -1,0 +1,23 @@
+{
+  "slug": "nanatsu-no-umi-no-tico-specials",
+  "synopsis": "A summary of the Nanatsu no Umi no Tico full series aired as a TV specials. ",
+  "title": {
+    "jp": "Nanatsu no Umi no Tico Specials"
+  },
+  "releasedAt": "2001-06-01T00:00:00.000Z",
+  "finishedAt": "2001-06-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9027/original.jpg",
+  "categories": [
+    "adventure",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9027",
+    "aozora": "tEsNl0NyDZ",
+    "myanimelist/anime": "25083"
+  }
+}

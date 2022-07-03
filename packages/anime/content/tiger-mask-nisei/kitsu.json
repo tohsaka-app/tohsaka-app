@@ -1,0 +1,29 @@
+{
+  "slug": "tiger-mask-nisei",
+  "synopsis": "Second season to the original Tiger Mask, with a different cast of characters.",
+  "title": {
+    "jp": "Tiger Mask Nisei"
+  },
+  "releasedAt": "1981-04-20T00:00:00.000Z",
+  "finishedAt": "1982-01-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4294/original.jpg",
+  "categories": [
+    "action",
+    "martial arts",
+    "sports",
+    "wrestling"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4294",
+    "anidb": "863",
+    "anilist/anime": "5832",
+    "aozora": "RLIsUkdd8B",
+    "myanimelist/anime": "5832",
+    "thetvdb": "258533",
+    "trakt": "67680"
+  }
+}

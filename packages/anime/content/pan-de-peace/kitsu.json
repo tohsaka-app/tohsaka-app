@@ -1,0 +1,31 @@
+{
+  "slug": "pan-de-peace",
+  "synopsis": "The \"cute and soft bread four-panel manga\" centers around Minami, an air-headed girl who is starting high school and who loves eating bread for breakfast. Baked goods bring happiness everyday to her and her classmates the reliable Yuu, the pastry-baking Fuyumi, and the independent Noa.\n(Source: ANN)",
+  "title": {
+    "en": "Pan de Peace!",
+    "jp": "Pan de Peace!"
+  },
+  "releasedAt": "2016-04-03T00:00:00.000Z",
+  "finishedAt": "2016-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11349/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11349/original.jpeg",
+  "categories": [
+    "comedy",
+    "cooking",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11349",
+    "anidb": "11532",
+    "anilist/anime": "21315",
+    "aozora": "k2noAMR9NW",
+    "myanimelist/anime": "31498",
+    "thetvdb": "306744/1",
+    "trakt": "105218"
+  }
+}

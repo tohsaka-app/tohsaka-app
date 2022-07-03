@@ -1,0 +1,27 @@
+{
+  "slug": "don-chuck-monogatari",
+  "synopsis": "Young beaver Chuck's adventure with his little friends. When thy are in trouble, Chuck often asks his father to help them out.\n(Source: ANN)",
+  "title": {
+    "en": "Don Chuck Stories",
+    "jp": "Don Chuck Monogatari"
+  },
+  "releasedAt": "1975-04-05T00:00:00.000Z",
+  "finishedAt": "1975-09-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2340/original.jpg",
+  "categories": [
+    "adventure",
+    "kids",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2340",
+    "anidb": "3369",
+    "anilist/anime": "2575",
+    "aozora": "JJSWSzgtUT",
+    "myanimelist/anime": "2575"
+  }
+}

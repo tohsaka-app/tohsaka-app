@@ -1,0 +1,25 @@
+{
+  "slug": "meitantei-gordon",
+  "synopsis": "Gordon is a famous detective from England providing input on a murder during a dinner party.",
+  "title": {
+    "en": "Detective Gordon",
+    "jp": "Meitantei Gordon"
+  },
+  "releasedAt": "2006-06-01T00:00:00.000Z",
+  "finishedAt": "2006-06-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12453/original.jpg",
+  "categories": [
+    "comedy",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12453",
+    "anilist/anime": "103535",
+    "aozora": "DkE88RQyW7",
+    "myanimelist/anime": "33693"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "the-olympic-challenge",
+  "synopsis": "This is a story of a 13 year old girl whose only dream is to participate in the Olympic Games: Her Struggles, her victories, her failures and her willpower fascinate all who help her to become a outstanding athlete.",
+  "title": {
+    "jp": "Arisubyeon-ui Kkumnamu"
+  },
+  "releasedAt": "1987-01-01T00:00:00.000Z",
+  "finishedAt": "1987-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3716/original.jpg",
+  "categories": [
+    "drama",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3716",
+    "anilist/anime": "4621",
+    "aozora": "0Q9qGn28xF",
+    "myanimelist/anime": "4621"
+  }
+}

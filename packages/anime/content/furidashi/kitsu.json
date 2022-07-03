@@ -1,0 +1,26 @@
+{
+  "slug": "furidashi",
+  "synopsis": "Graduate Work 2016, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\nYou always stumble before reach. The glass in your hand gets chipped every time. Then everything should start again from the start. There are, however, things you can discover only through repetition. The answer resides in yourself.\n\n(Source: Geidai Animation)",
+  "title": {
+    "en": "Starting Over",
+    "jp": "Furidashi"
+  },
+  "releasedAt": "2016-01-01T00:00:00.000Z",
+  "finishedAt": "2016-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43187/original.jpg",
+  "categories": [
+    "dementia",
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/9GVZ---Idek"
+  ],
+  "relations": {
+    "kitsu": "43187",
+    "anilist/anime": "114444",
+    "myanimelist/anime": "40812"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "maoyuu-maou-yuusha-kono-monogatari-wa-daniku-dake-dewanai-no-ja",
+  "synopsis": "A recap of episodes 1-9 of Maoyuu Maou Yuusha.  ",
+  "title": {
+    "jp": "Maoyuu Maou Yuusha: Kono Monogatari wa, Daniku dake Dewanai no ja!"
+  },
+  "releasedAt": "2013-03-09T00:00:00.000Z",
+  "finishedAt": "2013-03-09T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7828/original.jpg",
+  "categories": [
+    "adventure",
+    "demon",
+    "fantasy",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7828",
+    "anilist/anime": "17743",
+    "aozora": "cb34Pu5T5S",
+    "myanimelist/anime": "17743"
+  }
+}

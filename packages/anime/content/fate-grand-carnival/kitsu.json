@@ -1,0 +1,26 @@
+{
+  "slug": "fate-grand-carnival",
+  "synopsis": "Series focused on parodies and stories based on Fate/Grand Order\n\nNote: 1st Season released June 2, 2021 while 2nd Season released August 25, 2021\nNote: The first episode of \"Season\" one was pre-aired on the Fate Project New Year's Eve TV Special 2020 program",
+  "title": {
+    "en": "Fate/Grand Carnival",
+    "jp": "Fate/Grand Carnival"
+  },
+  "releasedAt": "2020-12-31T00:00:00.000Z",
+  "finishedAt": "2021-08-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43857/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43857/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43857",
+    "anilist/anime": "127149",
+    "myanimelist/anime": "44248"
+  }
+}

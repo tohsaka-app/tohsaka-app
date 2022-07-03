@@ -1,0 +1,25 @@
+{
+  "slug": "x-maiden-specials",
+  "synopsis": "",
+  "title": {
+    "en": "",
+    "jp": "X Maiden: Izakaya Tamaki"
+  },
+  "releasedAt": "2014-03-10T00:00:00.000Z",
+  "finishedAt": "2014-06-13T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9168/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9168/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9168",
+    "anilist/anime": "21883",
+    "aozora": "jC8ROvl960",
+    "myanimelist/anime": "24839"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "amphibia-season-three",
+  "synopsis": "Season three of Amphibia",
+  "title": {},
+  "releasedAt": "2021-10-02T00:00:00.000Z",
+  "finishedAt": "2022-05-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45749/poster_image/73c65e06edf16aff83715a01edad70cb.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "fantasy",
+    "fantasy world",
+    "isekai",
+    "kids",
+    "magic",
+    "robot"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45749"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "slug": "iczer-reborn",
+  "synopsis": "In deep space a battle wages between the forces of good and evil and the fate of the Earth hangs in the balance. The evil Neos Gold dispatches her invading forces towards Earth with only one aim: the total destruction of all mankind. Now it's up to Iczer 3 (the younger sister of Iczer 1) to defend the Earth from the deadly armada of Neos Gold, with only the Earth's single remaining battle cruiser on her side. But don't count her out; what Iczer 3 lacks in experience she makes up for in all-out enthusiasm.",
+  "title": {
+    "en": "Iczer Reborn",
+    "jp": "Bouken! Iczer 3"
+  },
+  "releasedAt": "1990-09-25T00:00:00.000Z",
+  "finishedAt": "1991-02-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2077/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "alien",
+    "cyborg",
+    "future",
+    "humanoid alien",
+    "mecha",
+    "piloted robot",
+    "post apocalypse",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2077",
+    "anidb": "1275",
+    "anilist/anime": "2292",
+    "aozora": "Caqg1fcbIv",
+    "myanimelist/anime": "2292"
+  }
+}

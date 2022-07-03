@@ -1,0 +1,24 @@
+{
+  "slug": "instant-history",
+  "synopsis": "Each three-minute short features characters learning about important historical events that occurred that day. Shown on Fuji Television, it often featured photographs and film footage taken from the Mainichi Shimbun newspaper, where Ryuuichi Yokoyama's comic strip was running at the time.\n(Source: Cartoon Research)",
+  "title": {
+    "jp": "Instant History"
+  },
+  "releasedAt": "1961-05-01T00:00:00.000Z",
+  "finishedAt": "1962-02-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10113/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10113",
+    "anidb": "5035",
+    "anilist/anime": "14211",
+    "aozora": "98aOxgDqbs",
+    "myanimelist/anime": "14211"
+  }
+}

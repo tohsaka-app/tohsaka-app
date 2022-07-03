@@ -1,0 +1,22 @@
+{
+  "slug": "norakuro-compilation-ova",
+  "synopsis": "Recap compilation of the Norakuro series.",
+  "title": {
+    "jp": "Norakuro Compilation OVA"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10830/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10830",
+    "aozora": "VLWo4PTMJv",
+    "myanimelist/anime": "30305"
+  }
+}

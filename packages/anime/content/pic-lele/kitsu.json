@@ -1,0 +1,24 @@
+{
+  "slug": "pic-lele",
+  "synopsis": "Five anthropomorphic animal friends bond over their ukulele training.",
+  "title": {
+    "jp": "Pic-lele"
+  },
+  "releasedAt": "2013-12-07T00:00:00.000Z",
+  "finishedAt": "2014-03-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9923/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9923",
+    "anidb": "10311",
+    "anilist/anime": "115198",
+    "aozora": "mvizrqfQ0q",
+    "myanimelist/anime": "21981"
+  }
+}

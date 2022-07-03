@@ -1,0 +1,24 @@
+{
+  "slug": "arakure-junichi-no-namida",
+  "synopsis": "An independent production by Takashi Taniguchi.",
+  "title": {
+    "en": null,
+    "jp": "Arakure Junichi no Namida"
+  },
+  "releasedAt": "2006-08-01T00:00:00.000Z",
+  "finishedAt": "2006-08-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12269/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12269",
+    "anilist/anime": "103536",
+    "aozora": "9b6Y5172P4",
+    "myanimelist/anime": "33282"
+  }
+}

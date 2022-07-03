@@ -1,0 +1,37 @@
+{
+  "slug": "tsuyokiss",
+  "synopsis": "Sunao Konoe starts her first day at a new school and is surprised to find that there is no drama club. So, she decides to make one of her own. But between a childhood friend showing up, the crazy student body, and the arrogant student council president blocking her at every turn, it seems that actually creating the club is going to be more difficult than she thought.\n(Source: ZomgAnime)",
+  "title": {
+    "jp": "Tsuyokiss"
+  },
+  "releasedAt": "2006-07-02T00:00:00.000Z",
+  "finishedAt": "2006-09-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1077/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "performance",
+    "present",
+    "romance",
+    "school clubs",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1077",
+    "anidb": "4420",
+    "anilist/anime": "1198",
+    "aozora": "ElNsC430Aj",
+    "myanimelist/anime": "1198",
+    "thetvdb": "120211/1",
+    "thetvdb/series": "120211",
+    "trakt": "65760"
+  }
+}

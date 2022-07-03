@@ -1,0 +1,25 @@
+{
+  "slug": "glass-no-kamen-desu-ga-to-z",
+  "synopsis": "A continuation of the previous season under a new director and new name.",
+  "title": {
+    "jp": "Glass no Kamen Desu ga to Z"
+  },
+  "releasedAt": "2013-04-28T00:00:00.000Z",
+  "finishedAt": "2013-07-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9174/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9174/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9174",
+    "anilist/anime": "115758",
+    "aozora": "7uTFPpSUAh",
+    "myanimelist/anime": "27621"
+  }
+}

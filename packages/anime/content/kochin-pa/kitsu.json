@@ -1,0 +1,27 @@
+{
+  "slug": "kochin-pa",
+  "synopsis": "Anime adaptation of pachinko and slot machine parlor Island's \"Aira Project\" commercials. It follows three mascot characters: Aira, Hana, and Shima.",
+  "title": {
+    "jp": "KochinPa!"
+  },
+  "releasedAt": "2015-12-22T00:00:00.000Z",
+  "finishedAt": "2016-05-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11661/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11661/original.png",
+  "categories": [
+    "comedy",
+    "idol",
+    "super deformed"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11661",
+    "anidb": "11825",
+    "anilist/anime": "21530",
+    "aozora": "rwrw6KcZwQ",
+    "myanimelist/anime": "32400"
+  }
+}

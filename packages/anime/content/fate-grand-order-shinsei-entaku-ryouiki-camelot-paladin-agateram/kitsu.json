@@ -1,0 +1,26 @@
+{
+  "slug": "fate-grand-order-shinsei-entaku-ryouiki-camelot-paladin-agateram",
+  "synopsis": "Part two of Fate/Grand Order: Shinsei Entaku Ryouiki Camelot - Wandering; Agateram; an adaptation of the the Sixth Holy Grail War, The Sacred Round Table Realm Camelot Singularity of Fate/Grand Order.\n\n(Source: TYPE-MOON Wiki)",
+  "title": {
+    "jp": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot - Paladin; Agateram"
+  },
+  "releasedAt": "2021-05-15T00:00:00.000Z",
+  "finishedAt": "2021-05-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42271/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/42271/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42271",
+    "anilist/anime": "103277",
+    "myanimelist/anime": "38086"
+  }
+}

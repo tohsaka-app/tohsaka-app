@@ -1,0 +1,38 @@
+{
+  "slug": "mushishi-special-hihamukage",
+  "synopsis": "A 45-minute special which adapts a two-chapter manga. Ginko finds himself in a village which falls victim to a mushi that blocks out the sun; however, one villager seems to benefit from this calamity.",
+  "title": {
+    "jp": "Mushishi Special: Hihamukage"
+  },
+  "releasedAt": "2014-01-04T00:00:00.000Z",
+  "finishedAt": "2014-01-04T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8112/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8112/original.png",
+  "categories": [
+    "adventure",
+    "alternative past",
+    "asia",
+    "contemporary fantasy",
+    "countryside",
+    "earth",
+    "fantasy",
+    "historical",
+    "japan",
+    "mystery",
+    "past",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/mushi-shi"
+  ],
+  "relations": {
+    "kitsu": "8112",
+    "anidb": "10274",
+    "anilist/anime": "20526",
+    "aozora": "bCjcWN9q0G",
+    "myanimelist/anime": "21329"
+  }
+}

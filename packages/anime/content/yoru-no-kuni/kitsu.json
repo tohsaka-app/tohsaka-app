@@ -1,0 +1,27 @@
+{
+  "slug": "yoru-no-kuni",
+  "synopsis": "Welcome to the Night World. Anxiety, scary and sad things that make you think in the dark. Then more you can't sleep, the more you feel suffering. All right. You can't sleep because you're trying to find something. The night is the perfect place to find it. Let's take a break tonight. It's a dark place, but please explore it freely. You see, the night goes on.\n\n(Source: LiveChart)",
+  "title": {
+    "en": "Night World",
+    "jp": "Yoru no Kuni"
+  },
+  "releasedAt": "2021-04-16T00:00:00.000Z",
+  "finishedAt": "2021-09-12T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44391/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44391/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.youtube.com/playlist?list=PLuu6WYTrlwDunjIbYV3C82OjZC5APviAa"
+  ],
+  "relations": {
+    "kitsu": "44391",
+    "anidb": "16246",
+    "anilist/anime": "132283",
+    "myanimelist/anime": "48727"
+  }
+}

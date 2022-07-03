@@ -1,0 +1,27 @@
+{
+  "slug": "yami-shibai-5th-season",
+  "synopsis": "Fifth season of the Yami Shibai anime series.",
+  "title": {
+    "en": "Yamishibai: Japanese Ghost Stories 5",
+    "jp": "Yami Shibai 5"
+  },
+  "releasedAt": "2017-07-03T00:00:00.000Z",
+  "finishedAt": "2017-10-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13576/original.jpg",
+  "categories": [
+    "fantasy",
+    "horror"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/yamishibai-japanese-ghost-stories"
+  ],
+  "relations": {
+    "kitsu": "13576",
+    "anilist/anime": "98978",
+    "aozora": "5l7ryZsEF0",
+    "myanimelist/anime": "35714"
+  }
+}

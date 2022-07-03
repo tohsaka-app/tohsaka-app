@@ -1,0 +1,41 @@
+{
+  "slug": "ai-yori-aoshi-enishi",
+  "synopsis": "Two years after meeting Aoi, Kaoru and gang are still up to their normal habits. Kaoru now in grad school and the tenants being as rowdy as ever what will become of Aoi and Kaoru's love.\nTwo years has passed since Aoi and Kaoru were freed from the bonds of their families. They continue to live their normal lives with their usual friends in their house.",
+  "title": {
+    "en": "Ai Yori Aoshi: Enishi",
+    "jp": "Ai Yori Aoshi: Enishi"
+  },
+  "releasedAt": "2003-10-13T00:00:00.000Z",
+  "finishedAt": "2003-12-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/361/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "harem",
+    "japan",
+    "present",
+    "romance",
+    "slice of life",
+    "stereotypes"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/ai-yori-aoshi",
+    "https://tubitv.com/series/2314/ai_yori_aoshi",
+    "https://www.funimation.com/shows/ai-yori-aoshi/"
+  ],
+  "relations": {
+    "kitsu": "361",
+    "anidb": "1059",
+    "anilist/anime": "394",
+    "aozora": "JD2nR3ippX",
+    "myanimelist/anime": "394",
+    "thetvdb": "79267/2",
+    "thetvdb/season": "16231",
+    "thetvdb/series": "79267",
+    "trakt": "42343"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "utawarerumono-futari-no-hakuoro",
+  "synopsis": "After the events of Mask of Deception, the Yamato Empire is now ruled with an iron fist by a ruthless usurper who seeks to subjugate all before him. It's up to a couple of familiar faces to band together against the might of the Imperial army, and the fate of the world hangs in the balance as nations and generals must pick a side to fight with in this perilous civil war. Secrets will be revealed, friendships will be tested, and battles will be fought. Will peace and order be restored or will victory at any cost be the beginning of the end?\n\n(Source: Atlus)",
+  "title": {
+    "en": "Utawarerumono: Mask of Truth",
+    "jp": "Utawarerumono: Futari no Hakuoro"
+  },
+  "releasedAt": "2022-07-03T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "current",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/42641/poster_image/5eb2bae58b93d9ace56003304f59b2c9.png",
+  "categories": [
+    "action",
+    "drama",
+    "fantasy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42641",
+    "anilist/anime": "112640",
+    "myanimelist/anime": "40590"
+  }
+}

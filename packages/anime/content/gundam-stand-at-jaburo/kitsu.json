@@ -1,0 +1,27 @@
+{
+  "slug": "gundam-stand-at-jaburo",
+  "synopsis": "Deep in the Earth Federation's subterranean base at Jaburo, orphans Kikka, Katz, and Letz wander around the facilities after running away from the daycare center. Meanwhile, Zeon forces manage to sneak their way into the base and plant bombs to destroy the Federation's valuable GM production plant.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Gundam Stand at Jaburo"
+  },
+  "releasedAt": "2013-04-26T00:00:00.000Z",
+  "finishedAt": "2013-04-26T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42539/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "military",
+    "piloted robot",
+    "space",
+    "space battles",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "42539",
+    "animenewsnetwork": "17533"
+  }
+}

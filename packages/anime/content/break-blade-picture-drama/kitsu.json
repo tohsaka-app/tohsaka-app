@@ -1,0 +1,25 @@
+{
+  "slug": "break-blade-picture-drama",
+  "synopsis": "DVD/BD extra.",
+  "title": {
+    "en": "Broken Blade Picture Drama",
+    "jp": "Break Blade Picture Drama"
+  },
+  "releasedAt": "2010-07-23T00:00:00.000Z",
+  "finishedAt": "2011-07-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5417/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5417",
+    "anilist/anime": "8648",
+    "aozora": "ZAtvJCpOde",
+    "myanimelist/anime": "8648"
+  }
+}

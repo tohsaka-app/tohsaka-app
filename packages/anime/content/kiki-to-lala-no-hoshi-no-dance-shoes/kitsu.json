@@ -1,0 +1,25 @@
+{
+  "slug": "kiki-to-lala-no-hoshi-no-dance-shoes",
+  "synopsis": "It's dancing time for Kiki and Lala.",
+  "title": {
+    "jp": "Kiki to Lala no Hoshi no Dance Shoes"
+  },
+  "releasedAt": "1993-12-21T00:00:00.000Z",
+  "finishedAt": "1993-12-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9888/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9888",
+    "anidb": "8238",
+    "anilist/anime": "17981",
+    "aozora": "G1WJMP4HzV",
+    "myanimelist/anime": "17981"
+  }
+}

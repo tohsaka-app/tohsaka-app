@@ -1,0 +1,25 @@
+{
+  "slug": "planet-robot-thunder-a",
+  "synopsis": "In the year 2100 the Earth is once again in danger. The group of brave teenagers set out in their giant robot to save humanity.",
+  "title": {
+    "jp": "Hokseong Robot Sseondeo A"
+  },
+  "releasedAt": "1982-01-05T00:00:00.000Z",
+  "finishedAt": "1982-01-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7536/original.jpg",
+  "categories": [
+    "action",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7536",
+    "anidb": "9652",
+    "anilist/anime": "16828",
+    "aozora": "uQBG59D6dM",
+    "myanimelist/anime": "16828"
+  }
+}

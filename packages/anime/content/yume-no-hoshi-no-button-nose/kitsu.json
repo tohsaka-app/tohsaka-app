@@ -1,0 +1,27 @@
+{
+  "slug": "yume-no-hoshi-no-button-nose",
+  "synopsis": "Although Trish is her real name, everyone calls her Button Nose because of her button nose. Always happy and nice, she is always shown with strawberries because she's famous for her homemade strawberry jam.",
+  "title": {
+    "en": "Dream Star Button Nose",
+    "jp": "Yume no Hoshi no Button Nose"
+  },
+  "releasedAt": "1985-10-19T00:00:00.000Z",
+  "finishedAt": "1986-04-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3268/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3268",
+    "anidb": "2329",
+    "anilist/anime": "3812",
+    "aozora": "4FdIFKB6e9",
+    "myanimelist/anime": "3812"
+  }
+}

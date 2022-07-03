@@ -1,0 +1,30 @@
+{
+  "slug": "yuukoku-no-moriarty-2nd-season",
+  "synopsis": "Second half of Youkoku no Moriarty.",
+  "title": {
+    "en": "Moriarty the Patriot 2nd Season",
+    "jp": "Yuukoku no Moriarty 2nd Season"
+  },
+  "releasedAt": "2021-04-04T00:00:00.000Z",
+  "finishedAt": "2021-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43708/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/43708/original.png",
+  "categories": [
+    "historical",
+    "mystery",
+    "psychological",
+    "shounen"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/moriarty-the-patriot/"
+  ],
+  "relations": {
+    "kitsu": "43708",
+    "anidb": "15774",
+    "anilist/anime": "124858",
+    "myanimelist/anime": "43325"
+  }
+}

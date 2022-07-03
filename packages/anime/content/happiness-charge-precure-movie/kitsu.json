@@ -1,0 +1,27 @@
+{
+  "slug": "happiness-charge-precure-movie",
+  "synopsis": "The film's story is set in the Doll Kingdom where dolls reside. Happiness Charge PreCure are asked to help by a women named Tsumugi when the sudden appearance of Saiarks begin wrecking havoc upon the Kingdom. However all is not what it seems with the mysterious man Black Fang dwelling in the shadows.\n(Source: ANN)",
+  "title": {
+    "jp": "Happiness Charge PreCure! Movie: Ningyou no Kuni no Ballerina"
+  },
+  "releasedAt": "2014-10-11T00:00:00.000Z",
+  "finishedAt": "2014-10-11T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8417/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids",
+    "magic",
+    "magical girl"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8417",
+    "anidb": "10721",
+    "anilist/anime": "21121",
+    "aozora": "RBGIZAYgvt",
+    "myanimelist/anime": "23083"
+  }
+}

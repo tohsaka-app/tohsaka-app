@@ -1,0 +1,42 @@
+{
+  "slug": "naruto",
+  "synopsis": "Moments prior to Naruto Uzumaki's birth, a huge demon known as the Kyuubi, the Nine-Tailed Fox, attacked Konohagakure, the Hidden Leaf Village, and wreaked havoc. In order to put an end to the Kyuubi's rampage, the leader of the village, the Fourth Hokage, sacrificed his life and sealed the monstrous beast inside the newborn Naruto.\nNow, Naruto is a hyperactive and knuckle-headed ninja still living in Konohagakure. Shunned because of the Kyuubi inside him, Naruto struggles to find his place in the village, while his burning desire to become the Hokage of Konohagakure leads him not only to some great new friends, but also some deadly foes.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Naruto",
+    "jp": "Naruto"
+  },
+  "releasedAt": "2002-10-03T00:00:00.000Z",
+  "finishedAt": "2007-02-08T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/11/poster_image/4512d403727b2a19a6eb7e7a959be0c3.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy world",
+    "martial arts",
+    "ninja",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/naruto",
+    "http://www.hulu.com/naruto",
+    "https://vrv.co/series/GY9PJ5KWR/Naruto",
+    "https://www.animelab.com/shows/naruto",
+    "https://www.netflix.com/title/70205012"
+  ],
+  "relations": {
+    "kitsu": "11",
+    "anidb": "239",
+    "anilist/anime": "20",
+    "aozora": "8LEYh7Y50P",
+    "hulu": "10348",
+    "myanimelist/anime": "20",
+    "thetvdb": "78857/1",
+    "thetvdb/series": "78857",
+    "trakt": "46003"
+  }
+}

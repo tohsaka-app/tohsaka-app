@@ -1,0 +1,23 @@
+{
+  "slug": "salad-land",
+  "synopsis": "Animated short produced for SSK Foods Co., Ltd. featuring its brand mascots. It was posted directly on the website of SSK Foods.",
+  "title": {
+    "jp": "Salad Land"
+  },
+  "releasedAt": "2012-02-09T00:00:00.000Z",
+  "finishedAt": "2012-02-09T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7101/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7101",
+    "anilist/anime": "14235",
+    "aozora": "BhfmZrd6Mv",
+    "myanimelist/anime": "14235"
+  }
+}

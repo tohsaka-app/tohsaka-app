@@ -1,0 +1,24 @@
+{
+  "slug": "himitsukessha-taka-no-tsume-specials",
+  "synopsis": "Himitsukessha Taka no Tsume DVD specials. The official website lists these episodes as various \"pilots\".",
+  "title": {
+    "jp": "Himitsukessha Taka no Tsume Specials"
+  },
+  "releasedAt": "2006-09-21T00:00:00.000Z",
+  "finishedAt": "2006-12-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13118/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13118",
+    "aozora": "GIBZtYWiVk",
+    "myanimelist/anime": "34353"
+  }
+}

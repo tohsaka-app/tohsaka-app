@@ -1,0 +1,24 @@
+{
+  "slug": "twelve-sai-2nd-season",
+  "synopsis": "Second season of 12-sai.",
+  "title": {
+    "jp": "12-sai. 2nd Season"
+  },
+  "releasedAt": "2015-07-03T00:00:00.000Z",
+  "finishedAt": "2015-12-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11309/original.jpg",
+  "categories": [
+    "friendship",
+    "romance",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11309",
+    "aozora": "ySl67PLfTd",
+    "myanimelist/anime": "31319"
+  }
+}

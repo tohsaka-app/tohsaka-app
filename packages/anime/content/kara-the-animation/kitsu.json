@@ -1,0 +1,27 @@
+{
+  "slug": "kara-the-animation",
+  "synopsis": "The fictional stories will feature each of the members in a different career: Gyuri as a police officer, Seungyeon as an astronaut, Nicole as a passenger boat captain, Hara as security police for the Monaco royal family and Jiyoung as a sexy and spirited firefighter. \n(Source: ANN)",
+  "title": {
+    "jp": "Kara The Animation"
+  },
+  "releasedAt": "2013-03-01T00:00:00.000Z",
+  "finishedAt": "2013-03-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7592/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7592",
+    "anidb": "9718",
+    "anilist/anime": "17141",
+    "aozora": "5cRUy3mmaD",
+    "myanimelist/anime": "17141",
+    "thetvdb": "268026/1",
+    "thetvdb/series": "268026",
+    "trakt": "70004"
+  }
+}

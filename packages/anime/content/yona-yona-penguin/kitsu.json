@@ -1,0 +1,30 @@
+{
+  "slug": "yona-yona-penguin",
+  "synopsis": "Koko is a little girl who always wears the penguin coat her deceased father gave her. She believes that she can fly like her father told her and is often teased by the other children. One night Koko follows a strange cat and finds herself in the land of the goblins. The mystical land is in danger for the old enemy is gathering his forces. Will Koko be able to save her new friends?  ",
+  "title": {
+    "jp": "Yona Yona Penguin"
+  },
+  "releasedAt": "2009-09-12T00:00:00.000Z",
+  "finishedAt": "2009-09-12T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4939/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "present"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/yona-yona-penguin"
+  ],
+  "relations": {
+    "kitsu": "4939",
+    "anidb": "6795",
+    "anilist/anime": "7314",
+    "aozora": "J5pZRp2A6L",
+    "myanimelist/anime": "7314"
+  }
+}

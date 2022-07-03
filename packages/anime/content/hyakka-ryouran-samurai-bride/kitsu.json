@@ -1,0 +1,44 @@
+{
+  "slug": "hyakka-ryouran-samurai-bride",
+  "synopsis": "Second season of Hyakka Ryoran: Samurai Girls. ",
+  "title": {
+    "en": "Samurai Bride",
+    "jp": "Hyakka Ryouran: Samurai Bride"
+  },
+  "releasedAt": "2013-04-05T00:00:00.000Z",
+  "finishedAt": "2013-06-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7244/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7244/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "comedy",
+    "earth",
+    "ecchi",
+    "fantasy",
+    "harem",
+    "japan",
+    "martial arts",
+    "samurai",
+    "school life",
+    "swordplay"
+  ],
+  "externals": [
+    "http://www.hulu.com/samurai-bride"
+  ],
+  "relations": {
+    "kitsu": "7244",
+    "anidb": "9398",
+    "anilist/anime": "15377",
+    "aozora": "adNouqI0ae",
+    "hulu": "50011662",
+    "myanimelist/anime": "15377",
+    "thetvdb": "186911/2",
+    "thetvdb/season": "514045",
+    "thetvdb/series": "186911",
+    "trakt": "60994"
+  }
+}

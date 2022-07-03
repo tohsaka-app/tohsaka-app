@@ -1,0 +1,28 @@
+{
+  "slug": "boku-wa-robot-goshi-no-kimi-ni-koi-wo-suru",
+  "synopsis": "An animated promotional video for the novel of the same name. A short version has currently been released, previewing the longer video. The full special will debut in book stores on October 21, 2017.\n\nThe novel's story is set in the year 2060 with Tokyo's third Olympics close at hand. While a secret project using robots moves forward, notice of a terrorist threat arrives. The story's protagonist combats terrorism and aims to protect the heroine, to whom he has given his heart. Plot twists come one after another as the story unfolds to a moving conclusion.\n\n(Source: ANN)",
+  "title": {
+    "en": "I fall in love with you through a robot",
+    "jp": "Boku wa Robot-goshi no Kimi ni Koi wo Suru"
+  },
+  "releasedAt": "2017-10-21T00:00:00.000Z",
+  "finishedAt": "2017-10-21T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14009/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14009/original.jpg",
+  "categories": [
+    "android",
+    "robot",
+    "romance",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14009",
+    "anilist/anime": "119779",
+    "aozora": "Ly9UXlAYu8",
+    "myanimelist/anime": "36542"
+  }
+}

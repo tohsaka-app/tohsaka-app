@@ -1,0 +1,32 @@
+{
+  "slug": "tenshi-no-3p",
+  "synopsis": "Kyou Nukui is a first year high school student hikikomori. His hobby is making Vocaloid songs and uploading them online. One day, he receives a message from a fan asking if they could meet up with him. At the meeting place, three elementary school girls were waiting for him. The three of them want to form a band and ask for Kyou's help.",
+  "title": {
+    "en": "Angel's 3Piece!",
+    "jp": "Tenshi no 3P!"
+  },
+  "releasedAt": "2017-07-10T00:00:00.000Z",
+  "finishedAt": "2017-09-25T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12624/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12624/original.jpg",
+  "categories": [
+    "music",
+    "musical band",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/angels-3piece"
+  ],
+  "relations": {
+    "kitsu": "12624",
+    "anidb": "12451",
+    "anilist/anime": "97683",
+    "aozora": "e2ilLfAOTD",
+    "myanimelist/anime": "34177",
+    "thetvdb": "329826/1"
+  }
+}

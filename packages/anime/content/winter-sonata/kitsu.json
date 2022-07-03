@@ -1,0 +1,34 @@
+{
+  "slug": "winter-sonata",
+  "synopsis": "Based on the Korean Drama of the same name, Yoo Jin falls in love with Joon Sang as a young girl. After losing him in an accident, she decides to marry her childhood friend. However, Yoo Jin meets someone looking exactly like her lost love, putting her in a bind.  The program featured 23 members of the original Korean cast voicing the characters and was broadcast with Japanese subtitles.",
+  "title": {
+    "jp": "Winter Sonata"
+  },
+  "releasedAt": "2009-10-17T00:00:00.000Z",
+  "finishedAt": "2010-05-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3511/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/3511/original.png",
+  "categories": [
+    "coming of age",
+    "drama",
+    "france",
+    "korea",
+    "romance",
+    "school life",
+    "united states"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3511",
+    "anidb": "5855",
+    "anilist/anime": "4189",
+    "aozora": "1xc2n3K7pD",
+    "myanimelist/anime": "4189",
+    "thetvdb": "121891/1",
+    "thetvdb/series": "121891",
+    "trakt": "63295"
+  }
+}

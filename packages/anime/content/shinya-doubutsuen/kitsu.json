@@ -1,0 +1,20 @@
+{
+  "slug": "shinya-doubutsuen",
+  "synopsis": "Short film by Hirano Ryou.",
+  "title": {
+    "en": null,
+    "jp": "Shinya Doubutsuen"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "12418",
+    "aozora": "3dBlBumBwP",
+    "myanimelist/anime": "31508"
+  }
+}

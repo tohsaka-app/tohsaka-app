@@ -1,0 +1,23 @@
+{
+  "slug": "isekai-maou-to-shoukan-shoujo-no-dorei-majutsu-mini-anime",
+  "synopsis": "Mini anime of Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω released on the official Twitter account.",
+  "title": {
+    "en": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω Mini Anime",
+    "jp": "Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω Mini Anime"
+  },
+  "releasedAt": "2021-03-14T00:00:00.000Z",
+  "finishedAt": "2021-06-16T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44527/original.png",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44527",
+    "anilist/anime": "131944",
+    "myanimelist/anime": "48615"
+  }
+}

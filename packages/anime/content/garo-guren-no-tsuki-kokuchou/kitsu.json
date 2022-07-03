@@ -1,0 +1,27 @@
+{
+  "slug": "garo-guren-no-tsuki-kokuchou",
+  "synopsis": "Unaired episode of Garo: Guren no Tsuki included in the second DVD/BD set.",
+  "title": {
+    "en": "Garo: Crimson Moon - The Butterfly of Time",
+    "jp": "Garo: Guren no Tsuki Special"
+  },
+  "releasedAt": "2016-07-06T00:00:00.000Z",
+  "finishedAt": "2016-07-06T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12631/original.jpg",
+  "categories": [
+    "action",
+    "demon",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12631",
+    "anilist/anime": "102429",
+    "aozora": "QrvTHjC9SN",
+    "myanimelist/anime": "33709"
+  }
+}

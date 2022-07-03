@@ -1,0 +1,32 @@
+{
+  "slug": "panzer-world-galient",
+  "synopsis": "Set in a far flung medieval-looking world of Arst, Prince Jordy Volder takes up the fight against the ambitions of the conqueror Marder. Jordy uses the legendary giant robot \"panzer\" Galient, which is one of many panzers that have been preserved underground for thousands of years. Using an army of advanced robot panzers, Marder is conquering all of Arst in preparation of his plan for dominance of the Crescent Galaxy.\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Kikou Kai Galient"
+  },
+  "releasedAt": "1984-10-05T00:00:00.000Z",
+  "finishedAt": "1985-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3952/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "mecha",
+    "piloted robot",
+    "plot continuity",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3952",
+    "anidb": "1459",
+    "anilist/anime": "5153",
+    "aozora": "bFO17zlAEK",
+    "myanimelist/anime": "5153",
+    "thetvdb": "115141/1",
+    "thetvdb/series": "115141",
+    "trakt": "65098"
+  }
+}

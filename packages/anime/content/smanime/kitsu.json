@@ -1,0 +1,23 @@
+{
+  "slug": "smanime",
+  "synopsis": "Three shorts directed by Takeshi Koike for a SMAP concert.",
+  "title": {
+    "jp": "SMAnime"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5727/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5727",
+    "anilist/anime": "9421",
+    "aozora": "eGMsboaeMC",
+    "myanimelist/anime": "9421"
+  }
+}

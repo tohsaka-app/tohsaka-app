@@ -1,0 +1,24 @@
+{
+  "slug": "genki-ekoda-chan",
+  "synopsis": "Based on a four-panel manga, Rinshi!! Ekoda-chan is about a single woman in Tokyo who drifts through relationships and who works at various hostess clubs and the like.\n(Source: Zigguratbuilder, edited)",
+  "title": {
+    "jp": "Genki!! Ekoda-chan"
+  },
+  "releasedAt": "2011-04-13T00:00:00.000Z",
+  "finishedAt": "2011-09-14T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6232/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6232",
+    "anidb": "8326",
+    "anilist/anime": "10540",
+    "aozora": "9fMQmOgLiB",
+    "myanimelist/anime": "10540"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "zhandou-ba-geji-2",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2019-04-10T00:00:00.000Z",
+  "finishedAt": "2019-07-10T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44070/original.png",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44070",
+    "anilist/anime": "129635"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "sword-art-online-ii-debriefing",
+  "synopsis": "Recap episode of the Phantom Bullet arc, also known as Episode 14.5.",
+  "title": {
+    "en": "Sword Art Online II: Debriefing",
+    "jp": "Sword Art Online II: Debriefing"
+  },
+  "releasedAt": "2014-10-11T00:00:00.000Z",
+  "finishedAt": "2014-10-11T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9784/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9784/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "virtual reality"
+  ],
+  "externals": [
+    "crunchyroll.com/sword-art-online",
+    "https://www.funimation.com/shows/sword-art-online/?qid=7c3700f465589fe1",
+    "vrv.co/series/GR49G9VP6/Sword-Art-Online"
+  ],
+  "relations": {
+    "kitsu": "9784",
+    "aozora": "w4YT4ACCEh",
+    "myanimelist/anime": "27891",
+    "trakt": "45529"
+  }
+}

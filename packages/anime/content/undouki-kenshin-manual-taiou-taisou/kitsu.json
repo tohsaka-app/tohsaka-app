@@ -1,0 +1,23 @@
+{
+  "slug": "undouki-kenshin-manual-taiou-taisou",
+  "synopsis": "A short video illustrating different stretching postures and movements for skeletal-muscular screening purposes.",
+  "title": {
+    "jp": "Undouki Kenshin Manual Taiou Taisou"
+  },
+  "releasedAt": "2015-12-20T00:00:00.000Z",
+  "finishedAt": "2015-12-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12435/original.jpg",
+  "categories": [
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12435",
+    "anilist/anime": "103471",
+    "aozora": "9Q6snQFXp4",
+    "myanimelist/anime": "32388"
+  }
+}

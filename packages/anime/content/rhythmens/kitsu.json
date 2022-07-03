@@ -1,0 +1,20 @@
+{
+  "slug": "rhythmens",
+  "synopsis": "An animated mini web series by Korean studio VCRWORKS",
+  "title": {},
+  "releasedAt": "2021-05-28T00:00:00.000Z",
+  "finishedAt": "2021-08-30T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45980/poster_image/d3f35fa95035ec942716d93769879c32.jpg",
+  "categories": [
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45980",
+    "anilist/anime": "136779",
+    "myanimelist/anime": "50289"
+  }
+}

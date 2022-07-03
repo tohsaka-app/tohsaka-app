@@ -1,0 +1,26 @@
+{
+  "slug": "mazinger-zip",
+  "synopsis": "This is a series of animated flash-shorts produced on NTV's ZIP! television programs starting on April 8, 2013. It is set to replace ZIP!'s previous anime shorts Ohayo Ninja Tai-Gatchaman shorts based on Science Ninja Team Gatchaman.\nMazinger ZIP! features the same characters from the original series involved in a series of small comedic sketches. \n(Source: Mazinger Wiki)",
+  "title": {
+    "jp": "Mazinger ZIP!"
+  },
+  "releasedAt": "2013-04-08T00:00:00.000Z",
+  "finishedAt": "2014-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9121/original.jpg",
+  "categories": [
+    "comedy",
+    "mecha",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9121",
+    "anidb": "11549",
+    "anilist/anime": "18365",
+    "aozora": "oi5ha2WzGu",
+    "myanimelist/anime": "18365"
+  }
+}

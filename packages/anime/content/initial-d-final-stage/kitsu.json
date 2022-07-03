@@ -1,0 +1,37 @@
+{
+  "slug": "initial-d-final-stage",
+  "synopsis": "After defeating every racing team in the prefecture, everything comes down to one last race. Takumi Fujiwara has never lost a race, but when his opponent is also using an AE86, it turns into a battle of the AE86. Will Project D succeed in the final and most difficult race of Initial D?",
+  "title": {
+    "jp": "Initial D Final Stage"
+  },
+  "releasedAt": "2014-05-16T00:00:00.000Z",
+  "finishedAt": "2014-06-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8482/original.jpg",
+  "categories": [
+    "asia",
+    "drifting",
+    "earth",
+    "japan",
+    "motorsport",
+    "plot continuity",
+    "present",
+    "seinen",
+    "sports",
+    "street racing"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8482",
+    "anidb": "10486",
+    "anilist/anime": "19613",
+    "aozora": "7z3yOHZFeB",
+    "myanimelist/anime": "22507",
+    "thetvdb": "70900/6",
+    "thetvdb/season": "586232",
+    "thetvdb/series": "70900",
+    "trakt": "40239"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "slug": "rennyo-monogatari",
+  "synopsis": "A dramatization based on the novel \"The Story of Rennyo\" by Hiroyuki Itsuki.",
+  "title": {
+    "jp": "Rennyo Monogatari"
+  },
+  "releasedAt": "1998-04-25T00:00:00.000Z",
+  "finishedAt": "1998-04-25T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9556/original.jpg",
+  "categories": [
+    "buddhism",
+    "historical",
+    "japan",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9556",
+    "anidb": "7353",
+    "anilist/anime": "17721",
+    "aozora": "0JruBCD5xS",
+    "myanimelist/anime": "17721"
+  }
+}

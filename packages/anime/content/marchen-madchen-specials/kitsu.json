@@ -1,0 +1,26 @@
+{
+  "slug": "marchen-madchen-specials",
+  "synopsis": "Episodes 11 and 12 of Märchen Mädchen, included on the sixth Blu-ray/DVD volume.",
+  "title": {
+    "en": "Maerchen Maedchen Specials",
+    "jp": "Märchen Mädchen Specials"
+  },
+  "releasedAt": "2019-04-25T00:00:00.000Z",
+  "finishedAt": "2019-04-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41395/original.jpg",
+  "categories": [
+    "fantasy",
+    "magic",
+    "school life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/maerchen-maedchen"
+  ],
+  "relations": {
+    "kitsu": "41395",
+    "myanimelist/anime": "37973"
+  }
+}

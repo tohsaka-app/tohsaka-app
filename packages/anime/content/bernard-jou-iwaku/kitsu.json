@@ -1,0 +1,29 @@
+{
+  "slug": "bernard-jou-iwaku",
+  "synopsis": "The story centers around a lazy girl's love for famous literary works along with her bookworm friends. Sawako \"Miss Bernard\" Machida wants to be well-versed in literature but she doesn't actually read those books! Encounter various prominent works including the Bible, The Tale of the Heike, The Great Passage, Fermat's Last Theorem and more that she hasn't read.",
+  "title": {
+    "en": "Miss Bernard said.",
+    "jp": "Bernard-jou Iwaku."
+  },
+  "releasedAt": "2016-10-07T00:00:00.000Z",
+  "finishedAt": "2016-12-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12556/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/12556/original.png",
+  "categories": [
+    "comedy",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12556",
+    "anidb": "12226",
+    "anilist/anime": "21854",
+    "aozora": "mmkfrADGt5",
+    "myanimelist/anime": "33462",
+    "thetvdb": "316331/1",
+    "trakt": "110982"
+  }
+}

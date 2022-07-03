@@ -1,0 +1,26 @@
+{
+  "slug": "idolls",
+  "synopsis": "The anime's production will use motion capture technology to capture the movements of the voice cast while simultaneously producing voice recordings.\n\n(Source: ANN)",
+  "title": {
+    "en": "Idolls!",
+    "jp": "Idolls!"
+  },
+  "releasedAt": "2021-01-08T00:00:00.000Z",
+  "finishedAt": "2021-03-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43853/original.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/idolls"
+  ],
+  "relations": {
+    "kitsu": "43853",
+    "anilist/anime": "124555",
+    "myanimelist/anime": "42981"
+  }
+}

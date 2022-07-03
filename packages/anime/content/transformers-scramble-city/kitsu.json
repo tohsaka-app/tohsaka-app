@@ -1,0 +1,30 @@
+{
+  "slug": "transformers-scramble-city",
+  "synopsis": "Beginning with a recap of the coming of the Transformers to Earth and the story of Devastator, the OVA then gets its original story underway, as the Autobots are shown to be in the midst of constructing the powerful \"Scramble City,\" overseen by their newest arrival, Ultra Magnus. \nWhen the Decepticons learn of this, their combiner robots are deployed to attack, and a battle between them and their Autobot counterparts ensues. \n(Source: Wikipedia)",
+  "title": {
+    "jp": "Transformers: Scramble City"
+  },
+  "releasedAt": "1986-04-01T00:00:00.000Z",
+  "finishedAt": "1986-04-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4723/original.jpg",
+  "categories": [
+    "action",
+    "alien",
+    "earth",
+    "mecha",
+    "present",
+    "science fiction",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4723",
+    "anidb": "6669",
+    "anilist/anime": "6800",
+    "aozora": "E7Mf3G6yRL",
+    "myanimelist/anime": "6800"
+  }
+}

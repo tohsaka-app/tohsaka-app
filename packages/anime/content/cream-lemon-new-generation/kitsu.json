@@ -1,0 +1,24 @@
+{
+  "slug": "cream-lemon-new-generation",
+  "synopsis": "A remake of the old Cream Lemon OVA series. ",
+  "title": {
+    "jp": "Cream Lemon: New Generation"
+  },
+  "releasedAt": "2006-03-23T00:00:00.000Z",
+  "finishedAt": "2006-05-31T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3963/original.jpg",
+  "categories": [
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3963",
+    "anidb": "4198",
+    "anilist/anime": "5167",
+    "aozora": "eGWUvjzafb",
+    "myanimelist/anime": "5167"
+  }
+}

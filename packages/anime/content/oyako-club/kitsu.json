@@ -1,0 +1,25 @@
+{
+  "slug": "oyako-club",
+  "synopsis": "This anime was running almost 20 years and has over 1800 episodes.",
+  "title": {
+    "jp": "Oyako Club"
+  },
+  "releasedAt": "1994-10-03T00:00:00.000Z",
+  "finishedAt": "2013-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6720/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6720",
+    "anidb": "6657",
+    "anilist/anime": "12393",
+    "aozora": "g49Y6nIbz6",
+    "myanimelist/anime": "12393"
+  }
+}

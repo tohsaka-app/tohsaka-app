@@ -1,0 +1,29 @@
+{
+  "slug": "sorette-dakara-ne",
+  "synopsis": "Anime featuring the idol group AGC38. It is set in the classes of the Musashi Asahigaoka Girls' Academy that the girls attend.",
+  "title": {
+    "jp": "Sorette♡Dakara ne!"
+  },
+  "releasedAt": "2011-06-24T00:00:00.000Z",
+  "finishedAt": "2011-06-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6387/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6387/original.gif",
+  "categories": [
+    "asia",
+    "earth",
+    "japan",
+    "present",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6387",
+    "anidb": "8516",
+    "anilist/anime": "10859",
+    "aozora": "B6Ugjdox3z",
+    "myanimelist/anime": "10859"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "sonyeon-007-jihajeguk",
+  "synopsis": "A 1981 movie from 007 franchise.",
+  "title": {
+    "jp": "Sonyeon 007 Jihajeguk"
+  },
+  "releasedAt": "1981-01-01T00:00:00.000Z",
+  "finishedAt": "1981-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9769/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9769",
+    "anidb": "9632",
+    "anilist/anime": "18303",
+    "aozora": "XS6LQl82Wg",
+    "myanimelist/anime": "18303"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "naruto-the-cross-roads",
+  "synopsis": "This year is the 10th anniversary of Naruto's serialization start. This work will feature an episode with Team Kakashi from Naruto's youth era. It will be surprisingly different from the TV series, don't miss it‼",
+  "title": {
+    "jp": "Naruto: The Cross Roads"
+  },
+  "releasedAt": "2009-10-12T00:00:00.000Z",
+  "finishedAt": "2009-10-12T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4953/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4953/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy world",
+    "martial arts",
+    "ninja",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4953",
+    "anidb": "7228",
+    "anilist/anime": "7367",
+    "aozora": "VFhQBqgqiQ",
+    "myanimelist/anime": "7367"
+  }
+}

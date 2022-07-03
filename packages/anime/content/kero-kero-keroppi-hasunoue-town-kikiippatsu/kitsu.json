@@ -1,0 +1,26 @@
+{
+  "slug": "kero-kero-keroppi-hasunoue-town-kikiippatsu",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Kero Kero Keroppi: Hasunoue Town Kiki Ippatsu!"
+  },
+  "releasedAt": "2006-10-10T00:00:00.000Z",
+  "finishedAt": "2006-12-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9886/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9886",
+    "anidb": "7790",
+    "aozora": "Ji35N7hjxU",
+    "myanimelist/anime": "22651"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "pretty-all-friends-selection",
+  "synopsis": "10th anniversary project that brings together protaganists from the Pretty Rhythm series.",
+  "title": {
+    "jp": "Pretty All Friends Selection"
+  },
+  "releasedAt": "2021-06-06T00:00:00.000Z",
+  "finishedAt": "2021-09-19T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44761/original.jpg",
+  "categories": [
+    "comedy",
+    "magic",
+    "music",
+    "shoujo",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "44761",
+    "anilist/anime": "136206",
+    "myanimelist/anime": "48859"
+  }
+}

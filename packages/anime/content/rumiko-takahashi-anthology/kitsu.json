@@ -1,0 +1,34 @@
+{
+  "slug": "rumiko-takahashi-anthology",
+  "synopsis": "Rumic World TV (2003) consists of thirteen independent series based on short stories from 1987-2000 by Takahashi Rumiko. The episode order is not sorted based on the year the story was written. For example, the first episode \"Tragedy of P\"'s story was written in 1991 while the last episode \"Senmuno inu\"'s story was written in 1994.\n(Source: AnimeNfo)",
+  "title": {
+    "jp": "Rumiko Takahashi Anthology"
+  },
+  "releasedAt": "2003-07-06T00:00:00.000Z",
+  "finishedAt": "2003-09-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2256/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "japan",
+    "present",
+    "romance",
+    "slice of life",
+    "tokyo"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2256",
+    "anidb": "847",
+    "anilist/anime": "2486",
+    "aozora": "G7dpwhBPSz",
+    "myanimelist/anime": "2486",
+    "thetvdb": "85067/1",
+    "thetvdb/series": "85067",
+    "trakt": "61398"
+  }
+}

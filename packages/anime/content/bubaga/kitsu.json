@@ -1,0 +1,24 @@
+{
+  "slug": "bubaga",
+  "synopsis": "A bizzare exploration claymation anime about a pig with some live-action bits incorporated.",
+  "title": {
+    "en": "Bubaga",
+    "jp": "Bubaga"
+  },
+  "releasedAt": "1995-01-01T00:00:00.000Z",
+  "finishedAt": "1997-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10243/original.jpg",
+  "categories": [
+    "adventure",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10243",
+    "aozora": "5SAP7laLQC",
+    "myanimelist/anime": "29467"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "tantei-kageki-milky-holmes-td",
+  "synopsis": "There have been many cases of stolen songs happening among the idols in Yokohama District recently. Even super idol Marine Amagi's hit song \"Kiseki no Uta\" was taken away. At the request of Marine, the Milky Holmes team starts investigating the case.\n(Source: Crunchyroll)",
+  "title": {
+    "jp": "Tantei Kageki Milky Holmes TD"
+  },
+  "releasedAt": "2015-01-03T00:00:00.000Z",
+  "finishedAt": "2015-03-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9150/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/9150/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "mystery",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9150",
+    "anidb": "10841",
+    "anilist/anime": "20848",
+    "aozora": "hIxO6xcBmW",
+    "myanimelist/anime": "27629",
+    "thetvdb": "197261/4",
+    "thetvdb/season": "599656",
+    "thetvdb/series": "197261",
+    "trakt": "64894"
+  }
+}

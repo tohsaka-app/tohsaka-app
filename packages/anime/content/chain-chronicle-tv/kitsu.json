@@ -1,0 +1,30 @@
+{
+  "slug": "chain-chronicle-tv",
+  "synopsis": "This is the story of the Chain Chronicle, a book that describes everything that happens in the world. The citizens of the remote continent of Yggd once thought that there was nothing beyond their continent. The continent was divided into several regions, each with its own king. Though there were small skirmishes amongst them, a lord, chosen by the kings in conference, always maintained balance, until the evil Black Army arrived. The Volunteer Army, led by Yuri, was no match for the Black Army. During the fighting, the Lord of Black captures half of the Chain Chronicle, as well as the capital.\n\n(Source: ANN)",
+  "title": {
+    "en": "Chain Chronicle: The Light of Haecceitas",
+    "jp": "Chain Chronicle: Haecceitas no Hikari"
+  },
+  "releasedAt": "2017-01-08T00:00:00.000Z",
+  "finishedAt": "2017-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10071/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10071/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10071",
+    "anidb": "10971",
+    "anilist/anime": "20986",
+    "aozora": "IPSn0Crco0",
+    "myanimelist/anime": "28833",
+    "thetvdb": "314031/1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "frisbee",
+  "synopsis": "The official music video for BRADIO  \"Frisbee\", from their album \"The Volcanoes\".",
+  "title": {
+    "jp": "Frisbee"
+  },
+  "releasedAt": "2022-02-16T00:00:00.000Z",
+  "finishedAt": "2022-02-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46097/poster_image/188062ea3885c6f9b35ee8f2791bacc8.jpeg",
+  "coverUrl": "https://media.kitsu.io/anime/46097/cover_image/e6471f7dfdebc0e9ae49f79d6592fc2c.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://youtu.be/g0kA8-lhhuA"
+  ],
+  "relations": {
+    "kitsu": "46097"
+  }
+}

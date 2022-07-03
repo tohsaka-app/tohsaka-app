@@ -1,0 +1,27 @@
+{
+  "slug": "loveless-specials",
+  "synopsis": "DVD specials.",
+  "title": {
+    "jp": "Loveless Specials"
+  },
+  "releasedAt": "2005-11-01T00:00:00.000Z",
+  "finishedAt": "2006-04-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2756/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "josei",
+    "romance",
+    "shounen ai"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2756",
+    "anilist/anime": "3057",
+    "aozora": "XT7jCLRkxn",
+    "myanimelist/anime": "3057"
+  }
+}

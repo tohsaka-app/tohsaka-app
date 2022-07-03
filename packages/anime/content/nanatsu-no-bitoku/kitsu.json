@@ -1,0 +1,28 @@
+{
+  "slug": "nanatsu-no-bitoku",
+  "synopsis": "Set in the same timeline as Sin: Nanatsu no Taizai, Nanatsu no Bitoku follows a group of angels sent from Heaven to look for a potential \"Savior\" to counter-attack the demonic influence being spread by Lucifer and the other emissaries of Hell.\n\n(Source: Tokyo Zerostar)",
+  "title": {
+    "en": "The Seven Heavenly Virtues",
+    "jp": "Nanatsu no Bitoku"
+  },
+  "releasedAt": "2018-01-27T00:00:00.000Z",
+  "finishedAt": "2018-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14131/original.png",
+  "categories": [
+    "angel",
+    "contemporary fantasy",
+    "ecchi",
+    "fantasy"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/the-seven-heavenly-virtues"
+  ],
+  "relations": {
+    "kitsu": "14131",
+    "anilist/anime": "100644",
+    "myanimelist/anime": "36847"
+  }
+}

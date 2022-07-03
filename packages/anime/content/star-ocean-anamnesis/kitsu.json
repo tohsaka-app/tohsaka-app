@@ -1,0 +1,24 @@
+{
+  "slug": "star-ocean-anamnesis",
+  "synopsis": "An fully animated trailer for Square Enix's Star Ocean: Anamnesis RPG mobile game which launched for Android and iOS on December 5th, 2016.",
+  "title": {
+    "en": "Star Ocean: Anamnesis",
+    "jp": "Star Ocean: Anamnesis"
+  },
+  "releasedAt": "2016-11-28T00:00:00.000Z",
+  "finishedAt": "2016-11-28T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13103/original.jpg",
+  "categories": [
+    "action",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13103",
+    "aozora": "auO01Ya5IF",
+    "myanimelist/anime": "34486"
+  }
+}

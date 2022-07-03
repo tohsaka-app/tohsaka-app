@@ -1,0 +1,23 @@
+{
+  "slug": "isobe-isobee-monogatari-jump-festa-special",
+  "synopsis": "The DVD will contain the Jump Festa 2015 event anime \"Gintama-hen,\" \"Shokugeki no Souma-hen,\" and \"Haikyuu!!-hen.\"\n(Source: ANN)",
+  "title": {
+    "jp": "Isobe Isobee Monogatari Jump Festa Special"
+  },
+  "releasedAt": "2016-08-25T00:00:00.000Z",
+  "finishedAt": "2016-08-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13117/original.jpg",
+  "categories": [
+    "comedy",
+    "historical",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13117",
+    "myanimelist/anime": "34166"
+  }
+}

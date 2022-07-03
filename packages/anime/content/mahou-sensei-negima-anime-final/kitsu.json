@@ -1,0 +1,30 @@
+{
+  "slug": "mahou-sensei-negima-anime-final",
+  "synopsis": "An animated feature film based on the Negima! Magister Negi Magi manga.",
+  "title": {
+    "jp": "Mahou Sensei Negima! Anime Final"
+  },
+  "releasedAt": "2011-08-27T00:00:00.000Z",
+  "finishedAt": "2011-08-27T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4876/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "harem",
+    "magic",
+    "romance",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4876",
+    "anidb": "8274",
+    "anilist/anime": "7135",
+    "aozora": "3ayEYqUMBH",
+    "myanimelist/anime": "7135"
+  }
+}

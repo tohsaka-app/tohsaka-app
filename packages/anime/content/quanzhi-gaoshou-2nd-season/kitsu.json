@@ -1,0 +1,25 @@
+{
+  "slug": "quanzhi-gaoshou-2nd-season",
+  "synopsis": "A continuation of Quanzhi Gaoshou series.",
+  "title": {
+    "en": "The King's Avatar Season 2"
+  },
+  "releasedAt": "2020-09-25T00:00:00.000Z",
+  "finishedAt": "2020-12-04T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41358/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41358",
+    "anilist/anime": "102997",
+    "myanimelist/anime": "37932"
+  }
+}

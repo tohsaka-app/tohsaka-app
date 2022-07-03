@@ -1,0 +1,43 @@
+{
+  "slug": "ashita-no-joe-2",
+  "synopsis": "Yabuki Joe is left downhearted and hopeless after a certain tragic event. In attempt to put the past behind him, Joe leaves the gym behind and begins wandering. On his travels he comes across the likes of Wolf Kanagushi and Goromaki Gondo, men who unintentionally fan the dying embers inside him, leading him to putting his wanderings to an end. His return home puts Joe back on the path to boxing, but unknown to himself and his trainer, he now suffers deep-set issues holding him back from fighting. In attempt to quell those issues, Carlos Rivera, a world renowned boxer is invited from Venezuela to help Joe recover.",
+  "title": {
+    "en": "Rocky Joe 2",
+    "jp": "Ashita no Joe 2"
+  },
+  "releasedAt": "1980-10-13T00:00:00.000Z",
+  "finishedAt": "1981-08-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2646/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2646/original.png",
+  "categories": [
+    "action",
+    "asia",
+    "boxing",
+    "combat",
+    "drama",
+    "earth",
+    "japan",
+    "martial arts",
+    "plot continuity",
+    "present",
+    "sports",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/champion-joe-2"
+  ],
+  "relations": {
+    "kitsu": "2646",
+    "anidb": "1458",
+    "anilist/anime": "2921",
+    "aozora": "oilWMIyW3Q",
+    "myanimelist/anime": "2921",
+    "thetvdb": "81232/2",
+    "thetvdb/season": "199181",
+    "thetvdb/series": "81232",
+    "trakt": "64605"
+  }
+}

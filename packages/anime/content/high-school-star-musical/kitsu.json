@@ -1,0 +1,33 @@
+{
+  "slug": "high-school-star-musical",
+  "synopsis": "The series tells the story of the five students; Yuuta Hoshitani, Tooru Nayuki, Kaito Tsukigami, Kakeru Tengenji, and Shuu Kuga as they struggle to enter the musical department of Ayanagi Academy, a school focusing on music. They need to be accepted to the Star Frame Class, which is directly taught by the members of Kaou-kai, the most talented from the musical department who stand at the top of the pecking order within the academy. Luckily, they are spotted by Itsuki Ootori, one of Kaou-kai members.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Starmyu",
+    "jp": "Starmyu"
+  },
+  "releasedAt": "2015-10-06T00:00:00.000Z",
+  "finishedAt": "2015-12-22T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10783/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/10783/original.jpg",
+  "categories": [
+    "music",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/starmyu"
+  ],
+  "relations": {
+    "kitsu": "10783",
+    "anidb": "11144",
+    "anilist/anime": "21118",
+    "aozora": "nhjgtRCtvo",
+    "hulu": "50023691",
+    "myanimelist/anime": "30375",
+    "thetvdb": "299742/1",
+    "trakt": "101380"
+  }
+}

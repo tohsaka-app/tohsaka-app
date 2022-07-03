@@ -1,0 +1,22 @@
+{
+  "slug": "lolita-strawberry-in-summer",
+  "synopsis": "Animated music video for Tokyo Girls' Style \"LolitA☆Strawberry in Summer\"",
+  "title": {
+    "jp": "LolitA☆Strawberry in Summer"
+  },
+  "releasedAt": "2012-09-21T00:00:00.000Z",
+  "finishedAt": "2012-09-21T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8844/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8844",
+    "aozora": "s1HrBPXIE6",
+    "myanimelist/anime": "24633"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "onpu",
+  "synopsis": "An educational film about rhythm and tempo.",
+  "title": {
+    "jp": "Onpu"
+  },
+  "releasedAt": "1961-01-01T00:00:00.000Z",
+  "finishedAt": "1961-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11724/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11724",
+    "aozora": "BiY5VksLwZ",
+    "myanimelist/anime": "32225"
+  }
+}

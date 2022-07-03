@@ -1,0 +1,27 @@
+{
+  "slug": "andersen-monogatari-match-uri-no-shoujo",
+  "synopsis": "Hans Christian Andersen is a little boy with a talent for making up stories. With his skill, his friends of all species, and his positive attitude, he helps brighten the lives of the people around him.\nThis movie contains elements of many of Andersen's tales, most prominently The Red Shoes and The Little Match Girl.",
+  "title": {
+    "en": "The World of Hans Christian Andersen",
+    "jp": "Andersen Monogatari"
+  },
+  "releasedAt": "1968-03-19T00:00:00.000Z",
+  "finishedAt": "1968-03-19T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3929/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3929",
+    "anidb": "2208",
+    "anilist/anime": "5098",
+    "aozora": "qqIvqYhYVx",
+    "myanimelist/anime": "5098"
+  }
+}

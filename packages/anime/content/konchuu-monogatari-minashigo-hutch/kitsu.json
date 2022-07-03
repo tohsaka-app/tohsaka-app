@@ -1,0 +1,28 @@
+{
+  "slug": "konchuu-monogatari-minashigo-hutch",
+  "synopsis": "Hutch is a small honeybee who got separated from his mom when his home was destroyed by invading wasps, and he now desperately wants to find her back. It's the beginning of an adventure that will make him meet all kinds of friendly insects who try to help him out, but unfortunately for most of them, they will not survive the end of the episode... \n(Source: AniDB)",
+  "title": {
+    "en": "The Adventures of Hutch the Honeybee",
+    "jp": "Konchuu Monogatari Minashigo Hutch"
+  },
+  "releasedAt": "1970-04-07T00:00:00.000Z",
+  "finishedAt": "1971-12-28T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3304/original.jpg",
+  "categories": [
+    "adventure",
+    "anthropomorphism",
+    "comedy",
+    "plot continuity"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3304",
+    "anidb": "3366",
+    "anilist/anime": "3858",
+    "aozora": "tpKInph1Yc",
+    "myanimelist/anime": "3858"
+  }
+}

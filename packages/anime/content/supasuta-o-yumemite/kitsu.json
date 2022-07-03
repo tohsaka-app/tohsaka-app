@@ -1,0 +1,22 @@
+{
+  "slug": "supasuta-o-yumemite",
+  "synopsis": "A music video that aired as part of NHK's Minna no Uta program. The song is by CHIHARU.",
+  "title": {
+    "en": "Dreaming of a Superstar",
+    "jp": "Superstar wo Yumemite"
+  },
+  "releasedAt": "1993-10-01T00:00:00.000Z",
+  "finishedAt": "1993-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45263/poster_image/d58b65203f45b4eac6e9f6012fddcdac.png",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45263"
+  }
+}

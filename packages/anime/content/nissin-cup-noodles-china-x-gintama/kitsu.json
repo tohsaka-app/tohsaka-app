@@ -1,0 +1,23 @@
+{
+  "slug": "nissin-cup-noodles-china-x-gintama",
+  "synopsis": "A collaboration between Gintama and Cup Noodles.",
+  "title": {
+    "jp": "Nissin Cup Noodles China x Gintama"
+  },
+  "releasedAt": "2017-08-29T00:00:00.000Z",
+  "finishedAt": "2017-11-23T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14266/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/14266/cover_image/ce7ef76b5a824dd964f8a0559e1e72ad.png",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14266",
+    "anidb": "13263",
+    "myanimelist/anime": "36553"
+  }
+}

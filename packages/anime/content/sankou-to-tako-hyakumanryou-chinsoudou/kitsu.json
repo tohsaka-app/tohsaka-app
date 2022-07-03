@@ -1,0 +1,25 @@
+{
+  "slug": "sankou-to-tako-hyakumanryou-chinsoudou",
+  "synopsis": "Short movie from 1933.",
+  "title": {
+    "en": "Sanko and the Octopus: A Fight Over a Fortune",
+    "jp": "Sankou to Tako: Hyakumanryou Chinsoudou"
+  },
+  "releasedAt": "1933-01-01T00:00:00.000Z",
+  "finishedAt": "1933-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4315/original.jpg",
+  "categories": [
+    "action"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4315",
+    "anidb": "6693",
+    "anilist/anime": "5874",
+    "aozora": "pwOMiMOeF4",
+    "myanimelist/anime": "5874"
+  }
+}

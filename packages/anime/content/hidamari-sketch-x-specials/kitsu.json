@@ -1,0 +1,25 @@
+{
+  "slug": "hidamari-sketch-x-specials",
+  "synopsis": "Special episodes announced at Comic Market 78.",
+  "title": {
+    "jp": "Hidamari Sketch x ☆☆☆ Specials"
+  },
+  "releasedAt": "2010-10-23T00:00:00.000Z",
+  "finishedAt": "2010-10-30T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5793/original.jpg",
+  "categories": [
+    "comedy",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5793",
+    "anilist/anime": "9563",
+    "aozora": "JFNp5zVdHb",
+    "myanimelist/anime": "9563"
+  }
+}

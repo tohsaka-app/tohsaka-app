@@ -1,0 +1,26 @@
+{
+  "slug": "sore-ike-anpanman-utatte-teasobi-anpanman-to-mori-no-takara",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Sore Ike! Anpanman: Utatte Teasobi! Anpanman to Mori no Takara"
+  },
+  "releasedAt": "2011-07-02T00:00:00.000Z",
+  "finishedAt": "2011-07-02T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6291/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6291",
+    "anidb": "8330",
+    "anilist/anime": "10685",
+    "aozora": "zCZ6qZiUQb",
+    "myanimelist/anime": "10685"
+  }
+}

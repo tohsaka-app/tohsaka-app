@@ -1,0 +1,28 @@
+{
+  "slug": "seimei-no-kagaku-micro-patrol",
+  "synopsis": "The series \"Once Upon a Time... Life\" teaches about the human body and about the different systems in it with the same characters from the other \"Once Upon a Time\" seasons. \"The good Characters\" represent the body's defense mechanisms, whereas \"the bad Characters\" represent the viruses and bacteria that threaten to attack the human body.\n(Source: Wikipedia)",
+  "title": {
+    "en": "Once Upon a Time... Life",
+    "jp": "Seimei no Kagaku: Micro Patrol"
+  },
+  "releasedAt": "1986-01-01T00:00:00.000Z",
+  "finishedAt": "1986-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3148/original.jpg",
+  "categories": [
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3148",
+    "anidb": "5222",
+    "anilist/anime": "3624",
+    "aozora": "XkI5BGv6d3",
+    "myanimelist/anime": "3624",
+    "thetvdb": "79158/1",
+    "thetvdb/series": "79158",
+    "trakt": "2615"
+  }
+}

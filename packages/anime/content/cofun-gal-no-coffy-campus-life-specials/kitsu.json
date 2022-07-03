@@ -1,0 +1,22 @@
+{
+  "slug": "cofun-gal-no-coffy-campus-life-specials",
+  "synopsis": "Specials included on the DVD release of the Cofun Gal no Coffy Campus Life series.\nNOTE FOR MODS: the DVD details on seller sites list at least 4 episodes but are ambiguous as to whether \"and others\" on disc 3 means another special. So I set the ep count to 5 because its twin Himitsukessha Taka no Tsume Countdown got 5 concrete specials on its DVD release and it would be an okay assumption to think \"and others\" is an extra special making Coffy mirror Tsume.",
+  "title": {
+    "jp": "Cofun Gal no Coffy Campus Life Specials"
+  },
+  "releasedAt": "2009-12-18T00:00:00.000Z",
+  "finishedAt": "2010-03-19T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13054/original.jpg",
+  "categories": [
+    "comedy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13054",
+    "myanimelist/anime": "34370"
+  }
+}

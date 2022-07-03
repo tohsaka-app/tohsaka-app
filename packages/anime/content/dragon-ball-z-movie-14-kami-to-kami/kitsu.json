@@ -1,0 +1,31 @@
+{
+  "slug": "dragon-ball-z-movie-14-kami-to-kami",
+  "synopsis": "Dragon Ball Z Movie 14: Kami to Kami brings Gokuu, Vegeta, Piccolo and your other favorite characters back for a new revitalization of the Dragon Ball universe. Enter Beerus, the God of Destruction. Having awoken from his slumber, Beerus seeks to find an opponent worthy of challenging his power. After being shocked to learn that Frieza has been defeated by a Saiyan, Beerus sets out to analyze the legend of the Super Saiyan God in order to find his ultimate opponent. His destination: Earth, home to the few survivors of the Saiyan race. And if a Super Saiyan God is not there, the Earth's destruction will just have to do as entertainment.\nHow will Gokuu and friends fare against a god that is even feared among the other gods?",
+  "title": {
+    "en": "Dragon Ball Z: Battle of Gods",
+    "jp": "Dragon Ball Z Movie 14: Kami to Kami"
+  },
+  "releasedAt": "2013-03-30T00:00:00.000Z",
+  "finishedAt": "2013-03-30T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7176/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7176/original.png",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "martial arts",
+    "shounen",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7176",
+    "anidb": "9314",
+    "anilist/anime": "14837",
+    "aozora": "L3GQzOar0R",
+    "myanimelist/anime": "14837"
+  }
+}

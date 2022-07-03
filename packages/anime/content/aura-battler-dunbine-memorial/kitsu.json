@@ -1,0 +1,24 @@
+{
+  "slug": "aura-battler-dunbine-memorial",
+  "synopsis": "Recaps of the Aura Battler Dunbine included on the second volume of Dunbine TV series DVD Memorial Box.",
+  "title": {
+    "jp": "Seisenshi Dunbine Memorial"
+  },
+  "releasedAt": "2000-08-25T00:00:00.000Z",
+  "finishedAt": "2000-08-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8929/original.jpg",
+  "categories": [
+    "adventure",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8929",
+    "aozora": "wMu2xm4LZq",
+    "myanimelist/anime": "20975"
+  }
+}

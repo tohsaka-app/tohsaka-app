@@ -1,0 +1,44 @@
+{
+  "slug": "devil-may-cry",
+  "synopsis": "Cursed to live as both monster and man, Dante must spend his life fighting the demonic forces of darkness. Brandishing his sword, Rebellion, and his always-loaded guns, Ebony and Ivory, Dante is more than happy to send the demons back to hell—especially when there's money to be made. The wildly popular video game is now a series, and this time, there's no sympathy for the devil.\n\n(Source: Funimation)",
+  "title": {
+    "en": "Devil May Cry",
+    "jp": "Devil May Cry"
+  },
+  "releasedAt": "2007-06-14T00:00:00.000Z",
+  "finishedAt": "2007-09-06T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1547/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1547/original.jpg",
+  "categories": [
+    "action",
+    "alternative present",
+    "demon",
+    "fantasy",
+    "fantasy world",
+    "gunfights",
+    "parallel universe",
+    "present",
+    "swordplay",
+    "united states",
+    "violence"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/devil-may-cry",
+    "https://www.funimation.com/shows/devil-may-cry/",
+    "https://www.hulu.com/devil-may-cry"
+  ],
+  "relations": {
+    "kitsu": "1547",
+    "anidb": "4776",
+    "anilist/anime": "1726",
+    "aozora": "hJbRzD4jh3",
+    "hulu": "50000701",
+    "myanimelist/anime": "1726",
+    "thetvdb": "80224/1",
+    "thetvdb/series": "80224",
+    "trakt": "12522"
+  }
+}

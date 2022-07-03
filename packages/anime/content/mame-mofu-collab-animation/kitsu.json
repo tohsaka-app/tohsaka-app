@@ -1,0 +1,22 @@
+{
+  "slug": "mame-mofu-collab-animation",
+  "synopsis": "A net anime collaboration between Mameshiba and Mofu☆Mofu at a summer festival during a goldfish scoop game.",
+  "title": {
+    "jp": "Mame-Mofu Collab Animation"
+  },
+  "releasedAt": "2008-01-01T00:00:00.000Z",
+  "finishedAt": "2008-01-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12522/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12522",
+    "aozora": "fiyGvKC7c6",
+    "myanimelist/anime": "33549"
+  }
+}

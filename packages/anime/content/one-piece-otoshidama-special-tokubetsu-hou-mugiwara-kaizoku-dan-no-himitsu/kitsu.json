@@ -1,0 +1,26 @@
+{
+  "slug": "one-piece-otoshidama-special-tokubetsu-hou-mugiwara-kaizoku-dan-no-himitsu",
+  "synopsis": "A recap that aired as a New Year special. It recaps how the first seven crew members joined.",
+  "title": {
+    "en": "One Piece New Year Special: Special Report - Secret of the Straw Hat Pirates!",
+    "jp": "One Piece: Otoshidama Special - Tokubetsu Hou Mugiwara Kaizoku-dan no Himitsu!"
+  },
+  "releasedAt": "2006-01-03T00:00:00.000Z",
+  "finishedAt": "2006-01-03T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/46228/poster_image/1c2ad0deae2ea7bb81956c9e3b32e6ab.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "fantasy",
+    "pirate",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "46228",
+    "myanimelist/anime": "51162"
+  }
+}

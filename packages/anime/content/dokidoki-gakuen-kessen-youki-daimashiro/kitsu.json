@@ -1,0 +1,26 @@
+{
+  "slug": "dokidoki-gakuen-kessen-youki-daimashiro",
+  "synopsis": "Four heroes set out to rescue girls taken by ayakashi. ",
+  "title": {
+    "jp": "Dokidoki Gakuen Kessen!! Youki Daimashiro"
+  },
+  "releasedAt": "1988-09-20T00:00:00.000Z",
+  "finishedAt": "1988-09-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9818/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9818",
+    "anidb": "10203",
+    "anilist/anime": "19437",
+    "aozora": "czMQhGYtxA",
+    "myanimelist/anime": "19437"
+  }
+}

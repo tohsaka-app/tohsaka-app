@@ -1,0 +1,25 @@
+{
+  "slug": "Sayonara-Gokko",
+  "synopsis": "Music video for the song Sayonara Gokko by amazarashi.",
+  "title": {
+    "jp": "Sayonara Gokko"
+  },
+  "releasedAt": "2019-02-12T00:00:00.000Z",
+  "finishedAt": "2019-02-12T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/42862/original.jpg",
+  "categories": [
+    "dementia",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=iNMxn8Ib6jI"
+  ],
+  "relations": {
+    "kitsu": "42862",
+    "anilist/anime": "107943",
+    "myanimelist/anime": "39257"
+  }
+}

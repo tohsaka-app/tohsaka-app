@@ -1,0 +1,22 @@
+{
+  "slug": "fujinkoron-senpai",
+  "synopsis": "A short promotional video for the Fujinkoron magazine, starring employees of the editorial department.",
+  "title": {
+    "jp": "Fujinkoron-senpai"
+  },
+  "releasedAt": "2016-05-23T00:00:00.000Z",
+  "finishedAt": "2016-05-23T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12809/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12809",
+    "aozora": "WaOnrp9SBb",
+    "myanimelist/anime": "33872"
+  }
+}

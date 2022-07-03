@@ -1,0 +1,20 @@
+{
+  "slug": "jirijiri-moyou-no-ryuuryuu-tenten",
+  "synopsis": "A relaxing anime showing a convenience store as time passes in a fantasy world.",
+  "title": {
+    "jp": "Jirijiri Moyou no Ryuuryuu Tenten"
+  },
+  "releasedAt": "2012-07-07T00:00:00.000Z",
+  "finishedAt": "2012-07-07T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41807/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "41807",
+    "anilist/anime": "118060",
+    "myanimelist/anime": "37546"
+  }
+}

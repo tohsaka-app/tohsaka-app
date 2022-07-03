@@ -1,0 +1,28 @@
+{
+  "slug": "youjo-senki-movie",
+  "synopsis": "In 1926, Tanya and her battalion return home from defeating remnants of the Republic's army. However, when they arrive they receive word of a massive mobilization near the border with the Russy Federation, so the Empire's army must prepare. At the same time, a multinational army under the leadership of the Allied Kingdom moves into the Russy Federation. The enemy of an enemy is a friend, but among the Allied Kingdom army is Mary Sioux, a girl who has sworn to exact justice against the Empire for the death of her father.(Source: ANN)",
+  "title": {
+    "en": "Saga of Tanya the Evil Movie",
+    "jp": "Gekijouban Youjo Senki"
+  },
+  "releasedAt": "2019-02-08T00:00:00.000Z",
+  "finishedAt": "2019-02-08T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14173/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14173/original.png",
+  "categories": [
+    "alternative past",
+    "magic",
+    "military",
+    "war"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14173",
+    "anidb": "13717",
+    "anilist/anime": "100878",
+    "myanimelist/anime": "37055"
+  }
+}

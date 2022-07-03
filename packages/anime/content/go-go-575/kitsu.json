@@ -1,0 +1,31 @@
+{
+  "slug": "go-go-575",
+  "synopsis": "Go! Go! 575 adapts the Project 575 games for PlayStation Vita and iOS, which allow anyone to create songs using the traditional Japanese 5-7-5-syllable meter found in haiku and tanka poems.\n(Source: ANN)",
+  "title": {
+    "jp": "Go! Go! 575"
+  },
+  "releasedAt": "2014-01-10T00:00:00.000Z",
+  "finishedAt": "2014-01-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8092/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8092/original.jpg",
+  "categories": [
+    "friendship",
+    "music",
+    "slice of life",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8092",
+    "anidb": "10255",
+    "anilist/anime": "20516",
+    "aozora": "5J9vCuDKC6",
+    "myanimelist/anime": "21267",
+    "thetvdb": "275669/1",
+    "thetvdb/series": "275669",
+    "trakt": "74231"
+  }
+}

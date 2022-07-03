@@ -1,0 +1,44 @@
+{
+  "slug": "macross-ii-lovers-again",
+  "synopsis": "A.D. 2089 - 80 years have passed since Space War I changed the lives of both human and Zentraedi races. Both races are at peace on Earth when a new alien race called the \"Marduk\" appear within the Solar System. While covering the first battle between the U.N. Spacy and the Marduk fleet, SNN rookie reporter Hibiki Kanzaki discovers Ishtar, an \"Emulator\" that enhances the Marduk's combat abilities through singing. Hibiki brings Ishtar to Earth to teach her the values of life and culture. Together with ace Valkyrie pilot Silvie Gena, Hibiki and Ishtar must find a way to save Earth from total destruction at the hands of the Marduk leader Ingues.\n(Source: ANN)",
+  "title": {
+    "jp": "Macross II: Lovers Again"
+  },
+  "releasedAt": "1992-05-21T00:00:00.000Z",
+  "finishedAt": "1992-11-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1137/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1137/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "air force",
+    "alien",
+    "earth",
+    "future",
+    "humanoid alien",
+    "mecha",
+    "military",
+    "music",
+    "piloted robot",
+    "plot continuity",
+    "post apocalypse",
+    "science fiction",
+    "shipboard",
+    "space",
+    "space opera",
+    "transforming craft"
+  ],
+  "externals": [
+    "http://www.hulu.com/macross-ii"
+  ],
+  "relations": {
+    "kitsu": "1137",
+    "anidb": "501",
+    "anilist/anime": "1262",
+    "aozora": "n3eUg5Bj3O",
+    "myanimelist/anime": "1262"
+  }
+}

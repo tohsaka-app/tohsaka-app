@@ -1,0 +1,23 @@
+{
+  "slug": "inazuma-eleven-outer-code",
+  "synopsis": "A spin-off of the Inazuma Eleven soccer anime franchise. The first episode features the Fubuki brothers, and the second features the Ohisama En.",
+  "title": {
+    "jp": "Inazuma Eleven: Outer Code"
+  },
+  "releasedAt": "2016-11-04T00:00:00.000Z",
+  "finishedAt": "2017-08-22T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12718/original.png",
+  "categories": [
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12718",
+    "anilist/anime": "99059",
+    "aozora": "v8HYNfLFhg",
+    "myanimelist/anime": "34178"
+  }
+}

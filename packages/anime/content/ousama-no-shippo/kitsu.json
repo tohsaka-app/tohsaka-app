@@ -1,0 +1,24 @@
+{
+  "slug": "ousama-no-shippo",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Ousama no Shippo"
+  },
+  "releasedAt": "1949-10-01T00:00:00.000Z",
+  "finishedAt": "1949-10-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5016/original.jpg",
+  "categories": [
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5016",
+    "anidb": "6880",
+    "anilist/anime": "7526",
+    "aozora": "ikfniCvbUY",
+    "myanimelist/anime": "7526"
+  }
+}

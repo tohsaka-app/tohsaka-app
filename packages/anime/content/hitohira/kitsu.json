@@ -1,0 +1,36 @@
+{
+  "slug": "hitohira",
+  "synopsis": "A transfer student Asai Mugi is a painfully shy girl. She is so shy that she can't speak when she becomes seriously nervous. However, for some reason, she is spotted and recruited as a member of the drama club.\n(Source: AnimeNfo)",
+  "title": {
+    "jp": "Hitohira"
+  },
+  "releasedAt": "2007-03-28T00:00:00.000Z",
+  "finishedAt": "2007-06-13T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1542/original.jpg",
+  "categories": [
+    "asia",
+    "comedy",
+    "earth",
+    "high school",
+    "japan",
+    "performance",
+    "romance",
+    "school clubs",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1542",
+    "anidb": "4853",
+    "anilist/anime": "1721",
+    "aozora": "RFaPuO1BcS",
+    "myanimelist/anime": "1721",
+    "thetvdb": "83405/1",
+    "thetvdb/series": "83405",
+    "trakt": "33948"
+  }
+}

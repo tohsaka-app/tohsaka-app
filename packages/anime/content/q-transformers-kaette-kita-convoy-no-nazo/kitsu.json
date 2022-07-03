@@ -1,0 +1,27 @@
+{
+  "slug": "q-transformers-kaette-kita-convoy-no-nazo",
+  "synopsis": "Picks up after the events of Transformers 2010. Ultra Magnus goes on a solo mission through various Decepticon strongholds to find out exactly what happened to Optimus.",
+  "title": {
+    "jp": "Q Transformers: Kaette Kita Convoy no Nazo"
+  },
+  "releasedAt": "2015-01-06T00:00:00.000Z",
+  "finishedAt": "2015-03-31T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10333/original.jpg",
+  "categories": [
+    "mecha",
+    "parody",
+    "slice of life",
+    "transforming craft"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10333",
+    "anidb": "10935",
+    "anilist/anime": "20974",
+    "aozora": "HV9xBzYdD0",
+    "myanimelist/anime": "28401"
+  }
+}

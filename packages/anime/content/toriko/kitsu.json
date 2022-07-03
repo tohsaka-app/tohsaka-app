@@ -1,0 +1,39 @@
+{
+  "slug": "toriko",
+  "synopsis": "Welcome to the Gourmet Age, where happiness is measured by what you eat. In an era in which life revolves around fine cuisine, people will go to great lengths to procure special ingredients which have the power to turn a nice meal into a heavenly delight. However, since these delicious additives usually come from rare, powerful creatures, Gourmet Hunters are called upon to gather them.\nThe International Gourmet Organization has the utmost power in this world, and is responsible for maintaining the balance of the distribution of ingredients worldwide. One day, Chef Komatsu is sent on a mission to locate one of the most renowned Gourmet Hunters in existence, Toriko, and to hire him for a very special job.\nHowever, astounded by Toriko's skill and unbelievable passion, what started out as a simple mission gradually grows into a deep friendship. Combine the talents of Gourmet Hunter Toriko, who dreams of creating the ultimate Full Course meal, and Chef Komatsu, who aspires to one day become a Master Chef, and the recipe for success may just be discovered.",
+  "title": {
+    "en": "Toriko",
+    "jp": "Toriko"
+  },
+  "releasedAt": "2011-04-03T00:00:00.000Z",
+  "finishedAt": "2014-03-30T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6002/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "cooking",
+    "fantasy",
+    "martial arts",
+    "shounen",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/toriko",
+    "http://www.funimation.com/shows/toriko/videos/episodes",
+    "http://www.hulu.com/toriko"
+  ],
+  "relations": {
+    "kitsu": "6002",
+    "anidb": "8142",
+    "anilist/anime": "10033",
+    "aozora": "wUGMUxxmRP",
+    "myanimelist/anime": "10033",
+    "thetvdb": "247231/1",
+    "thetvdb/series": "247231",
+    "trakt": "38091"
+  }
+}

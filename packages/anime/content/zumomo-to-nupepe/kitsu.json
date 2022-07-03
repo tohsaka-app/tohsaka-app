@@ -1,0 +1,24 @@
+{
+  "slug": "zumomo-to-nupepe",
+  "synopsis": "No synopsis has been added for this series yet.Click here to update this information.",
+  "title": {
+    "jp": "Zumomo to Nupepe"
+  },
+  "releasedAt": "2012-04-03T00:00:00.000Z",
+  "finishedAt": "2013-02-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6969/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6969",
+    "anidb": "9100",
+    "anilist/anime": "13455",
+    "aozora": "lEy4V2SPUJ",
+    "myanimelist/anime": "13455"
+  }
+}

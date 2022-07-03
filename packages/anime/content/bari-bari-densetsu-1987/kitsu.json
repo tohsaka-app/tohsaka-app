@@ -1,0 +1,29 @@
+{
+  "slug": "bari-bari-densetsu-1987",
+  "synopsis": "The film is about 4 high-schoolers who are bike racers and illegally partake in races at night on public roads.\n(Source: AniDB)",
+  "title": {
+    "jp": "Bari Bari Densetsu (1987)"
+  },
+  "releasedAt": "1987-08-01T00:00:00.000Z",
+  "finishedAt": "1987-08-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6802/original.jpg",
+  "categories": [
+    "action",
+    "drama",
+    "japan",
+    "motorsport",
+    "sports",
+    "street racing"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6802",
+    "anidb": "4786",
+    "anilist/anime": "12745",
+    "aozora": "deHAsFj7BC",
+    "myanimelist/anime": "12745"
+  }
+}

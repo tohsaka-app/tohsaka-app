@@ -1,0 +1,24 @@
+{
+  "slug": "hage",
+  "synopsis": "An educational film about premature baldness. Specifically aimed at children balding.",
+  "title": {
+    "jp": "Hage"
+  },
+  "releasedAt": "2000-01-01T00:00:00.000Z",
+  "finishedAt": "2000-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9293/original.jpg",
+  "categories": [
+    "drama",
+    "kids",
+    "school life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9293",
+    "aozora": "64jMLQsLUW",
+    "myanimelist/anime": "26289"
+  }
+}

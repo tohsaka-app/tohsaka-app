@@ -1,0 +1,29 @@
+{
+  "slug": "mobile-suit-sd-gundam-festival",
+  "synopsis": "The movie is divided into 3 different parts:\n1) The Tale of the SD Warring States: World Peace Chapter\n2) SD Gundam Sidestory: The Legend of the Holy Machine Soldiers\n3) SD Commando War Chronicles: Gundam Force, Super G-Arms, Final Formula VS Noum Gyaza",
+  "title": {
+    "en": "Mobile Suit SD Gundam Festival",
+    "jp": "Mobile Suit SD Gundam Festival"
+  },
+  "releasedAt": "1993-03-13T00:00:00.000Z",
+  "finishedAt": "1993-03-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5602/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "fantasy",
+    "mecha",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5602",
+    "anidb": "3342",
+    "anilist/anime": "9098",
+    "aozora": "MdNmEBLymd",
+    "myanimelist/anime": "9098"
+  }
+}

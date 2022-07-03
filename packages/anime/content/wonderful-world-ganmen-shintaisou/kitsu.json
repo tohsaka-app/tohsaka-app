@@ -1,0 +1,24 @@
+{
+  "slug": "wonderful-world-ganmen-shintaisou",
+  "synopsis": "A whimsical calisthenics song about how wonderful the world is from grand things like romantic proposals to mundane things like good dental care.",
+  "title": {
+    "jp": "Wonderful World: Ganmen Shintaisou"
+  },
+  "releasedAt": "1989-10-01T00:00:00.000Z",
+  "finishedAt": "1989-10-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40935/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40935",
+    "anilist/anime": "103336",
+    "aozora": "nEtC97anbx",
+    "myanimelist/anime": "36394"
+  }
+}

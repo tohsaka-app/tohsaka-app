@@ -1,0 +1,26 @@
+{
+  "slug": "demian",
+  "synopsis": "A story about an elite government team that pilots a five into one super robot fighting force. They are called to take down their robot’s creator who is now a terrorist.\n[Source: Crunchyroll]",
+  "title": {
+    "en": "DEMIAN"
+  },
+  "releasedAt": "2011-04-04T00:00:00.000Z",
+  "finishedAt": "2011-04-04T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8254/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/8254/cover_image/a62275cdc9ce1c9ef7e9d248e563efa6.jpg",
+  "categories": [
+    "action",
+    "anime influenced",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/demian"
+  ],
+  "relations": {
+    "kitsu": "8254"
+  }
+}

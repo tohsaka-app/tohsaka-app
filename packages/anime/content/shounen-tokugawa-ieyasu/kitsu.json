@@ -1,0 +1,25 @@
+{
+  "slug": "shounen-tokugawa-ieyasu",
+  "synopsis": "A historical tale of the early life of Tokugawa Ieyasu, who would eventually become shogun and establish the Edo Period in Japan.\n(Source: AniDB)",
+  "title": {
+    "jp": "Shounen Tokugawa Ieyasu"
+  },
+  "releasedAt": "1975-04-09T00:00:00.000Z",
+  "finishedAt": "1975-09-17T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9595/original.jpg",
+  "categories": [
+    "historical",
+    "sengoku period"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9595",
+    "anidb": "1909",
+    "anilist/anime": "20223",
+    "aozora": "Bb8MJwcZFp",
+    "myanimelist/anime": "20223"
+  }
+}

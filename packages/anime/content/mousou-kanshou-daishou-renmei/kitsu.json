@@ -1,0 +1,24 @@
+{
+  "slug": "mousou-kanshou-daishou-renmei",
+  "synopsis": null,
+  "title": {
+    "en": "Delusion Sensation Compensation Federation",
+    "jp": "Mousou Kanshou Daishou Renmei"
+  },
+  "releasedAt": "2016-11-18T00:00:00.000Z",
+  "finishedAt": "2016-11-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/46154/poster_image/d7857425d19fe94e7da230b7753f6682.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=8pGRdRhjX3o&ab_channel=DECO%2a27"
+  ],
+  "relations": {
+    "kitsu": "46154",
+    "myanimelist/anime": "41022"
+  }
+}

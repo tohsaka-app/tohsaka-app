@@ -1,0 +1,24 @@
+{
+  "slug": "monhun-nikki-girigiri-airuu-mura-airuu-kiki-ippatsu-specials",
+  "synopsis": "Two unaired episodes included with the Blu-ray and the DVD.",
+  "title": {
+    "jp": "MonHun Nikki Girigiri Airou Mura: Airou Kiki Ippatsu Specials"
+  },
+  "releasedAt": "2010-11-24T00:00:00.000Z",
+  "finishedAt": "2010-11-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5875/original.jpg",
+  "categories": [
+    "action",
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5875",
+    "anilist/anime": "9797",
+    "aozora": "YUfUjWcEvv",
+    "myanimelist/anime": "9797"
+  }
+}

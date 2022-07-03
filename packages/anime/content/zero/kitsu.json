@@ -1,0 +1,24 @@
+{
+  "slug": "zero",
+  "synopsis": "This music video tells how a shy girl with a secret love and curiosity about what surrounds her works.",
+  "title": {
+    "jp": "Chiaki Kuriyama - 0"
+  },
+  "releasedAt": "2013-10-23T00:00:00.000Z",
+  "finishedAt": "2013-10-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8925/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8925",
+    "anidb": "10143",
+    "anilist/anime": "102416",
+    "aozora": "05rsC7ZCJk",
+    "myanimelist/anime": "20707"
+  }
+}

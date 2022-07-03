@@ -1,0 +1,26 @@
+{
+  "slug": "xiongmao-monogatari-taotao",
+  "synopsis": "TaoTao is an anime series about the eponymous Taotao, a small panda. In the stories, Taotao has adventures with his animal friends and listens to the stories of his mother, the mommy panda.\n(Source: AniDB)",
+  "title": {
+    "jp": "Xiongmao Monogatari TaoTao"
+  },
+  "releasedAt": "1981-12-28T00:00:00.000Z",
+  "finishedAt": "1981-12-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9695/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9695",
+    "anidb": "6562",
+    "anilist/anime": "102460",
+    "aozora": "hpWfdSBSHl",
+    "myanimelist/anime": "24603"
+  }
+}

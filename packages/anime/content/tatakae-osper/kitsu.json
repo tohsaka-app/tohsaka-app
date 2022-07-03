@@ -1,0 +1,25 @@
+{
+  "slug": "tatakae-osper",
+  "synopsis": "On a distant world, people with paranormal powers battle each other.\nBased on a story by Yamano Kouichi.\n(Source: AniDB)",
+  "title": {
+    "jp": "Tatakae! Osper"
+  },
+  "releasedAt": "1965-12-14T00:00:00.000Z",
+  "finishedAt": "1967-10-11T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9661/original.jpg",
+  "categories": [
+    "action",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9661",
+    "anidb": "5076",
+    "anilist/anime": "19989",
+    "aozora": "4kO9p37E2z",
+    "myanimelist/anime": "19989"
+  }
+}

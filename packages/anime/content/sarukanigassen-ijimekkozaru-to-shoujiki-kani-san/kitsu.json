@@ -1,0 +1,24 @@
+{
+  "slug": "sarukanigassen-ijimekkozaru-to-shoujiki-kani-san",
+  "synopsis": "An educational animation on the problems of bullying.",
+  "title": {
+    "jp": "Saru Kani Gassen: Ijimekkozaru to Shoujiki Kani-san"
+  },
+  "releasedAt": "1997-03-01T00:00:00.000Z",
+  "finishedAt": "1997-03-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9567/original.jpg",
+  "categories": [
+    "comedy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9567",
+    "anidb": "10173",
+    "aozora": "9nSyK1TqBm",
+    "myanimelist/anime": "23867"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "slug": "kotobadori-july-2019",
+  "synopsis": "Music video by Tarafu Otani for Tomoyo Harada's single Kotobadori.",
+  "title": {
+    "jp": "Kotobadori (July 2019)"
+  },
+  "releasedAt": "2019-07-22T00:00:00.000Z",
+  "finishedAt": "2019-07-22T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43660/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43660",
+    "anilist/anime": "125262",
+    "myanimelist/anime": "42854"
+  }
+}

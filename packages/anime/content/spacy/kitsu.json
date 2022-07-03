@@ -1,0 +1,23 @@
+{
+  "slug": "spacy",
+  "synopsis": "Film by Takashi Ito.",
+  "title": {
+    "jp": "Spacy"
+  },
+  "releasedAt": "1981-01-01T00:00:00.000Z",
+  "finishedAt": "1981-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11221/original.jpg",
+  "categories": [
+    "dementia"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11221",
+    "anilist/anime": "103404",
+    "aozora": "JiEg5yHvfN",
+    "myanimelist/anime": "31257"
+  }
+}

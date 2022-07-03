@@ -1,0 +1,47 @@
+{
+  "slug": "digimon-adventure",
+  "synopsis": "When a group of kids head out for summer camp, they don't expect it to snow in the middle of July. Out of nowhere, the kids receive strange devices which transport them to a very different world to begin their Digimon Adventure! Led by the plucky Taichi Yagami, the seven children must now survive in a realm far from home, filled with monsters and devoid of other humans.\nLuckily, they're not alone: each child is paired off with a companion digital monster called a Digimon. Together, the children and their new friends must overcome their insecurities, discover their inner strengths, and evolve into stronger fighters - literally.\nA force of evil is spreading through the Digital World, corrupting all the Digimon. The DigiDestined have arrived and it’s up to them to save the Digital World, if they ever want to see their home world again.",
+  "title": {
+    "en": "Digimon: Digital Monsters",
+    "jp": "Digimon Adventure"
+  },
+  "releasedAt": "1999-03-07T00:00:00.000Z",
+  "finishedAt": "2000-03-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/509/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/509/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "asia",
+    "comedy",
+    "earth",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "isekai",
+    "japan",
+    "kids",
+    "parallel universe",
+    "present",
+    "proxy battles",
+    "science fiction"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/digimon-adventure",
+    "http://www.hulu.com/digimon-adventure"
+  ],
+  "relations": {
+    "kitsu": "509",
+    "anidb": "234",
+    "anilist/anime": "552",
+    "aozora": "EOgyQbN8LQ",
+    "myanimelist/anime": "552",
+    "thetvdb": "72241",
+    "thetvdb/season": "3764",
+    "thetvdb/series": "283952",
+    "trakt": "31517"
+  }
+}

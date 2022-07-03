@@ -1,0 +1,25 @@
+{
+  "slug": "marude-dameo",
+  "synopsis": "Based on the same name manga by Morita Kenji, serialized in Weekly Shounen Magazine.",
+  "title": {
+    "jp": "Marude Dameo"
+  },
+  "releasedAt": "1991-11-02T00:00:00.000Z",
+  "finishedAt": "1992-09-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9436/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9436",
+    "anidb": "6522",
+    "anilist/anime": "19873",
+    "aozora": "NDFRD3e2nf",
+    "myanimelist/anime": "19873"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "what-s-michael",
+  "synopsis": "A series of adventures featuring the one cat apparently everyone in the world owns... Michael.",
+  "title": {
+    "jp": "What's Michael?"
+  },
+  "releasedAt": "1985-11-25T00:00:00.000Z",
+  "finishedAt": "1985-11-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6642/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6642",
+    "anidb": "5946",
+    "anilist/anime": "12005",
+    "aozora": "lwdcuiS4nh",
+    "myanimelist/anime": "12005"
+  }
+}

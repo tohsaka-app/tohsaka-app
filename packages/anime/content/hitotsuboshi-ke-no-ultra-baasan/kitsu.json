@@ -1,0 +1,26 @@
+{
+  "slug": "hitotsuboshi-ke-no-ultra-baasan",
+  "synopsis": "",
+  "title": {
+    "en": null,
+    "jp": "Hitotsuboshi-ke no Ultra Baasan"
+  },
+  "releasedAt": "1982-10-16T00:00:00.000Z",
+  "finishedAt": "1983-01-15T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9326/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9326",
+    "anidb": "6028",
+    "anilist/anime": "126437",
+    "aozora": "rrPFcR4Jv9",
+    "myanimelist/anime": "21549"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "shin-shirayuki-hime-densetsu-pretear",
+  "synopsis": "A sixteen-year-old girl is struggling to adjust to a new step-family when seven guys appear on the scene revealing that she possesses a special magical power. Shying away from the strange group, she later joins them when a monster places her friend's life in jeopardy. Without training, she must prove herself capable to take up the sacred duty of the Pretear. They must resolve their differences and work together to defeat the evil princess intent on destruction.\n(Source: FUNimation)",
+  "title": {
+    "en": "Prétear: The New Legend of Snow White",
+    "jp": "Shin Shirayuki-hime Densetsu Prétear"
+  },
+  "releasedAt": "2001-04-04T00:00:00.000Z",
+  "finishedAt": "2001-06-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/79/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/79/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "bishounen",
+    "comedy",
+    "earth",
+    "fantasy",
+    "japan",
+    "love polygon",
+    "magic",
+    "magical girl",
+    "present",
+    "reverse harem",
+    "romance",
+    "slapstick",
+    "super power"
+  ],
+  "externals": [
+    "http://www.funimation.com/shows/pretear/videos/episodes",
+    "http://www.hulu.com/pretear"
+  ],
+  "relations": {
+    "kitsu": "79",
+    "anidb": "439",
+    "anilist/anime": "100",
+    "aozora": "H2SMyfvoj3",
+    "hulu": "50008126",
+    "myanimelist/anime": "100",
+    "thetvdb": "72896/1",
+    "thetvdb/series": "72896",
+    "trakt": "42703"
+  }
+}

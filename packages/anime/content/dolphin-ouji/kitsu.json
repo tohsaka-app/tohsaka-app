@@ -1,0 +1,27 @@
+{
+  "slug": "dolphin-ouji",
+  "synopsis": "Produced as a short experimental trial series of only 3 episodes and filmed in black and white, Dolphin Prince aired on Fuji TV on Sundays at 7.30pm. The episodes featured young Dolphin Prince, his mermaid friend Neptuna and Dr. Mariner, with stories entitled \"Secret Of The Red Vortex\", \"Call Of The Sea\" and \"Attack Of The Sea-Star People\".\n(Source: Wikipedia)",
+  "title": {
+    "jp": "Dolphin Ouji"
+  },
+  "releasedAt": "1965-04-04T00:00:00.000Z",
+  "finishedAt": "1965-04-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5516/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "kids",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5516",
+    "anidb": "3576",
+    "anilist/anime": "8879",
+    "aozora": "SkbStk8qWF",
+    "myanimelist/anime": "8879"
+  }
+}

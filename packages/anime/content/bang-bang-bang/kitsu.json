@@ -1,0 +1,26 @@
+{
+  "slug": "bang-bang-bang",
+  "synopsis": "Official music video for ŹOOĻ's song \"Bang!Bang!Bang!\" for the 2019 BĻACK OR WHiTE event. The group is a rival group to IDOLiSH7.",
+  "title": {
+    "en": "Bang!Bang!Bang!",
+    "jp": "Bang!Bang!Bang!"
+  },
+  "releasedAt": "2019-12-16T00:00:00.000Z",
+  "finishedAt": "2019-12-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/45563/poster_image/b6fb5a7726cf1d1745120384687a1acb.jpg",
+  "categories": [
+    "idol",
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=Sb5TTFnhLaY"
+  ],
+  "relations": {
+    "kitsu": "45563",
+    "anilist/anime": "114922",
+    "myanimelist/anime": "40967"
+  }
+}

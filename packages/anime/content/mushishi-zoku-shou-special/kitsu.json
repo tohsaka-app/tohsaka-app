@@ -1,0 +1,30 @@
+{
+  "slug": "mushishi-zoku-shou-special",
+  "synopsis": "One hour special broadcast on August 20, 2014 and bundled with anime's third Blu-ray/DVD volume on November 26, 2014.\nAdapts \"Odoro no Michi\" (Path of Thorns) manga chapters.",
+  "title": {
+    "jp": "Mushishi Zoku Shou: Odoro no Michi"
+  },
+  "releasedAt": "2014-08-20T00:00:00.000Z",
+  "finishedAt": "2014-08-20T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8519/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8519/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "historical",
+    "mystery",
+    "slice of life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/mushi-shi/mushi-shi-the-next-passage-special-path-of-thorns-659833"
+  ],
+  "relations": {
+    "kitsu": "8519",
+    "anilist/anime": "20752",
+    "aozora": "n1Au4JhMOT",
+    "myanimelist/anime": "24687"
+  }
+}

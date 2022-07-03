@@ -1,0 +1,26 @@
+{
+  "slug": "umi-no-triton-1979",
+  "synopsis": "Note: This is a re-edition of the TV series. While two parts were made, only the first one was shown in theatres during the Uchuu Senkan Yamato Festival event. The second part was released decades later on the \"Umi no Triton Original Movie Edition\" DVD set together with the first part.\n(Source: AniDB)",
+  "title": {
+    "en": "Triton of the Sea (1979)",
+    "jp": "Umi no Triton (1979)"
+  },
+  "releasedAt": "1979-07-04T00:00:00.000Z",
+  "finishedAt": "2002-03-22T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5059/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5059",
+    "anidb": "2631",
+    "anilist/anime": "7626",
+    "aozora": "rU6j50U7nU",
+    "myanimelist/anime": "7626"
+  }
+}

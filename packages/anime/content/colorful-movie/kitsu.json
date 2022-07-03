@@ -1,0 +1,33 @@
+{
+  "slug": "colorful-movie",
+  "synopsis": "\"I\" died and was kicked out of the cycle of reincarnation because of the sin \"I\" committed. An angel told me that \"I\" won a lottery and he gave me a chance to remember the sin. My spirit possessed the body of the 14-year-old boy Makoto, who committed suicide and \"I\" tried to recollect my memory. \"I\" felt distressed by the terrible circumstances of Makoto and the fact that \"I\" was borrowing his body. \"I\" have started to realize that people are hurting each other because the world is too colorful to distinguish the true color of themselves from others.",
+  "title": {
+    "en": "Colorful The Motion Picture",
+    "jp": "Colorful (Movie)"
+  },
+  "releasedAt": "2010-08-21T00:00:00.000Z",
+  "finishedAt": "2010-08-21T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5212/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/5212/original.jpg",
+  "categories": [
+    "asia",
+    "family",
+    "japan",
+    "middle school",
+    "present",
+    "school life",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5212",
+    "anidb": "7409",
+    "anilist/anime": "8142",
+    "aozora": "Coq0j0fzNu",
+    "hulu": "50012860",
+    "myanimelist/anime": "8142"
+  }
+}

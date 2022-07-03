@@ -1,0 +1,26 @@
+{
+  "slug": "re-main",
+  "synopsis": "The anime's story centers on Minato, a boy who stopped playing water polo due to a certain incident in the winter of his third middle school year. He picks the sport back up again with a new team when he starts in high school, but the fledgling team runs into many problems.\n\n(Source: ANN)",
+  "title": {
+    "jp": "Re-Main"
+  },
+  "releasedAt": "2021-07-04T00:00:00.000Z",
+  "finishedAt": "2021-10-03T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44122/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/44122/original.png",
+  "categories": [
+    "school clubs",
+    "sports"
+  ],
+  "externals": [
+    "https://www.funimation.com/shows/re-main/"
+  ],
+  "relations": {
+    "kitsu": "44122",
+    "anilist/anime": "130549",
+    "myanimelist/anime": "48406"
+  }
+}

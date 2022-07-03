@@ -1,0 +1,25 @@
+{
+  "slug": "pororo-wa-noraehaeyo",
+  "synopsis": "Sing-A-Long with Pororo and his friends. The series features both stage singing and in-story singing similar to that of Disney films.",
+  "title": {
+    "en": "Sing-A-Long with Pororo",
+    "jp": "Pororo-wa Noraehaeyo"
+  },
+  "releasedAt": "2006-01-01T00:00:00.000Z",
+  "finishedAt": "2006-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9551/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9551",
+    "anilist/anime": "102368",
+    "aozora": "q7nWRpYEWd",
+    "myanimelist/anime": "27453"
+  }
+}

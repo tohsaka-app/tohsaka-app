@@ -1,0 +1,24 @@
+{
+  "slug": "toute-wa-sono-kotae",
+  "synopsis": "A music video for Fullkawa Honpo's song \"Toute wa Sono Kotae.\"",
+  "title": {
+    "jp": "Toute wa Sono Kotae"
+  },
+  "releasedAt": "2014-10-20T00:00:00.000Z",
+  "finishedAt": "2014-10-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12223/original.jpg",
+  "categories": [
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12223",
+    "anilist/anime": "103517",
+    "aozora": "eWdrYpX6WH",
+    "myanimelist/anime": "32758"
+  }
+}

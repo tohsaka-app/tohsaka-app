@@ -1,0 +1,25 @@
+{
+  "slug": "time-patrol-bon",
+  "synopsis": "A Japanese schoolboy, Heibon, is enlisted in the efforts of the time patrol to keep the past out of trouble. \n(Source: The Anime Encyclopedia)",
+  "title": {
+    "jp": "Time-Patrol Bon: Fujiko F. Fujio Anime Special - SF Adventure"
+  },
+  "releasedAt": "1989-10-14T00:00:00.000Z",
+  "finishedAt": "1989-10-14T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6759/original.jpg",
+  "categories": [
+    "action",
+    "adventure"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6759",
+    "anidb": "7060",
+    "anilist/anime": "12529",
+    "aozora": "bM25r90CTh",
+    "myanimelist/anime": "12529"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "chokkyuu-hyoudai-robot-anime-straight-title",
+  "synopsis": "The story of the anime is set in the year Mobile Century 8013. It has been over seven millennia since humanity was wiped out on Earth, but the surviving military robots continue to wage war with no end in sight. The war has embroiled the Rebellion Federation that controls Europe and the Principality of Shin centered in Asia. Three young robots stand up to put an end to this futile war.\n\n(Source: ANN)",
+  "title": {
+    "en": "Straight Title Robot Anime",
+    "jp": "Chokkyuu Hyoudai Robot Anime: Straight Title"
+  },
+  "releasedAt": "2013-02-06T00:00:00.000Z",
+  "finishedAt": "2013-04-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7589/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "earth",
+    "future",
+    "mecha",
+    "piloted robot",
+    "post apocalypse",
+    "science fiction",
+    "super deformed"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/straight-title-robot-anime"
+  ],
+  "relations": {
+    "kitsu": "7589",
+    "anidb": "9654",
+    "anilist/anime": "17127",
+    "aozora": "hKnXWUJWw2",
+    "myanimelist/anime": "17127",
+    "thetvdb": "266840/1",
+    "thetvdb/series": "266840",
+    "trakt": "69764"
+  }
+}

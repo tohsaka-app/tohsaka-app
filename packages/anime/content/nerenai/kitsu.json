@@ -1,0 +1,22 @@
+{
+  "slug": "nerenai",
+  "synopsis": "Official music video for PSG's song Nerenai!!!. The video style is a homage older Minna no Uta music videos.\n",
+  "title": {
+    "jp": "Nerenai!!!"
+  },
+  "releasedAt": "2011-03-20T00:00:00.000Z",
+  "finishedAt": "2011-03-20T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14076/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "14076",
+    "anilist/anime": "103768",
+    "myanimelist/anime": "36087"
+  }
+}

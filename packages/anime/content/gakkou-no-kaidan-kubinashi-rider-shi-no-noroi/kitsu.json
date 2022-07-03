@@ -1,0 +1,27 @@
+{
+  "slug": "gakkou-no-kaidan-kubinashi-rider-shi-no-noroi",
+  "synopsis": "A TV special of Gakkou no Kaidan that aired almost 5 months after the original anime. However, this event takes place before the Finale episode of the TV series.\nThe story focuses on a headless motorcycle rider. ",
+  "title": {
+    "en": "Ghost Stories: The Headless Horsemen!! Curse of Death",
+    "jp": "Gakkou no Kaidan: Kubinashi Rider!! Shi no Noroi"
+  },
+  "releasedAt": "2001-08-24T00:00:00.000Z",
+  "finishedAt": "2001-08-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11004/original.jpg",
+  "categories": [
+    "fantasy",
+    "horror",
+    "mystery"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11004",
+    "anilist/anime": "102000",
+    "aozora": "9AmBig6Rpr",
+    "hulu": "50002002",
+    "myanimelist/anime": "30825"
+  }
+}

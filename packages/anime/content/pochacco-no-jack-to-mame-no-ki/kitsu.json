@@ -1,0 +1,25 @@
+{
+  "slug": "pochacco-no-jack-to-mame-no-ki",
+  "synopsis": "Pochacco stars in a recreation of the story of Jack and the Beanstalk. ",
+  "title": {
+    "en": "Pochacco in Jack and the Beanstalk",
+    "jp": "Pochacco no Jack to Mame no Ki"
+  },
+  "releasedAt": "2001-07-20T00:00:00.000Z",
+  "finishedAt": "2001-07-20T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9539/original.jpg",
+  "categories": [
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9539",
+    "anidb": "7824",
+    "aozora": "4xH1a8oDEp",
+    "myanimelist/anime": "22493"
+  }
+}

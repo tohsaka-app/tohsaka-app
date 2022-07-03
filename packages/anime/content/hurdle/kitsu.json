@@ -1,0 +1,25 @@
+{
+  "slug": "hurdle",
+  "synopsis": "Yuuki has to move from Yokohama to a rural city and becomes the target of bullying.\n(Source: AniDB)",
+  "title": {
+    "en": "Hurdle",
+    "jp": "Hurdle"
+  },
+  "releasedAt": "2005-01-15T00:00:00.000Z",
+  "finishedAt": "2005-01-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7512/original.jpg",
+  "categories": [
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7512",
+    "anidb": "3307",
+    "anilist/anime": "16776",
+    "aozora": "cwNr6xmbRU",
+    "myanimelist/anime": "16776"
+  }
+}

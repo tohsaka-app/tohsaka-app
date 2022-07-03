@@ -1,0 +1,40 @@
+{
+  "slug": "suite-precure",
+  "synopsis": "Kanon Town is filled with music. Hibiki Houjou and Kanade Minamino have grown up in this town and have known each other since they were children. However, they no longer get along.\nOne day the fairy Hummy from the land of music, Major Land, appears before them. The evil king Mephisto of Minor Land is planning to turn the legendary Melody of Happiness into the Melody of Misfortune. To prevent this from happening, Hibiki and Kanade transform themselves into Pretty Cure.\nKanade and Hibiki have to learn to work together to collect the scattered notes of the Melody of Happiness in order to recreate the score!",
+  "title": {
+    "jp": "Suite Precure♪"
+  },
+  "releasedAt": "2011-02-06T00:00:00.000Z",
+  "finishedAt": "2012-01-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5927/original.jpg",
+  "categories": [
+    "action",
+    "asia",
+    "earth",
+    "fantasy",
+    "japan",
+    "magic",
+    "magical girl",
+    "middle school",
+    "music",
+    "plot continuity",
+    "present",
+    "school life",
+    "super power",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5927",
+    "anidb": "8173",
+    "anilist/anime": "9893",
+    "aozora": "f4I6YxMlfS",
+    "myanimelist/anime": "9893",
+    "thetvdb": "248781/1",
+    "thetvdb/series": "248781",
+    "trakt": "42828"
+  }
+}

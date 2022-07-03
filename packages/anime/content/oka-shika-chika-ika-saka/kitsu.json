@@ -1,0 +1,22 @@
+{
+  "slug": "oka-shika-chika-ika-saka",
+  "synopsis": "Music video for the song Oka Shika Chika Ika Saka by Japanese band SAKANAMON that was featured on NHK's Minna no Uta program. The video was animated by Manabu Himeda.",
+  "title": {
+    "jp": "Oka Shika Chika Ika Saka"
+  },
+  "releasedAt": "2020-04-01T00:00:00.000Z",
+  "finishedAt": "2020-04-01T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43196/original.png",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43196",
+    "myanimelist/anime": "41684"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "ninja-hattori-kun-nin-nin-ninpo-enikki-no-maki",
+  "synopsis": "Short Ninja Hattori-kun movie.\nScreened as a triple feature with Doraemon: Nobita no Daimakyou and Kaibutsu-kun: Demon no Ken.",
+  "title": {
+    "jp": "Ninja Hattori-kun: Nin Nin Ninpo Enikki no Maki"
+  },
+  "releasedAt": "1982-03-13T00:00:00.000Z",
+  "finishedAt": "1982-03-13T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9492/original.jpg",
+  "categories": [
+    "comedy",
+    "martial arts",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9492",
+    "anidb": "7564",
+    "aozora": "CFrPocFdxJ",
+    "myanimelist/anime": "21493"
+  }
+}

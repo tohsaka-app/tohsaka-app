@@ -1,0 +1,27 @@
+{
+  "slug": "baymax",
+  "synopsis": "The adventure story revolves around Hiro, a 14-year-old boy who lost his dear brother Tadashi in a mysterious accident, and Baymax, a personal healthcare companion robot developed by Tadashi. The story is set in San Fransokyo, a fictional city that combines the imagery of San Francisco and Tokyo.\n(Source: ANN)",
+  "title": {
+    "jp": "Baymax"
+  },
+  "releasedAt": "2014-11-16T00:00:00.000Z",
+  "finishedAt": "2014-11-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10099/original.jpg",
+  "categories": [
+    "drama",
+    "music",
+    "science fiction",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10099",
+    "anidb": "11421",
+    "anilist/anime": "125034",
+    "aozora": "tCvA1xmSvW",
+    "myanimelist/anime": "28433"
+  }
+}

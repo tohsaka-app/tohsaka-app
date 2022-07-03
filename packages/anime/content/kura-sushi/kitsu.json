@@ -1,0 +1,21 @@
+{
+  "slug": "kura-sushi",
+  "synopsis": "A recruitment video/commercial commissioned by Kura Corporation, a Japanese sushi restaurant chain that specializes in conveyor belt sushi. The first episode is a young man trying his best to work hard at his new full time job. The second episode focuses on teenagers working there part time (and the young man from the previous episode has now become the manager of the restaurant).",
+  "title": {
+    "jp": "Kura Sushi"
+  },
+  "releasedAt": "2014-04-27T00:00:00.000Z",
+  "finishedAt": "2016-08-26T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40845/original.jpg",
+  "categories": [],
+  "externals": [],
+  "relations": {
+    "kitsu": "40845",
+    "anilist/anime": "103725",
+    "aozora": "OUKslTkpFD",
+    "myanimelist/anime": "35858"
+  }
+}

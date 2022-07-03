@@ -1,0 +1,27 @@
+{
+  "slug": "chironup-no-kitsune",
+  "synopsis": "Based on the novel \"Chironup no Kitsune (Foxes of Chironup)\" by Hiroyuki Takahashi.",
+  "title": {
+    "jp": "Chironup no Kitsune"
+  },
+  "releasedAt": "1987-08-15T00:00:00.000Z",
+  "finishedAt": "1987-08-15T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9231/original.jpg",
+  "categories": [
+    "drama",
+    "historical",
+    "past",
+    "plot continuity"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9231",
+    "anidb": "6695",
+    "anilist/anime": "17689",
+    "aozora": "OaI0CK8yrp",
+    "myanimelist/anime": "17689"
+  }
+}

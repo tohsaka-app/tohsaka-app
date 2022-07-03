@@ -1,0 +1,26 @@
+{
+  "slug": "trust",
+  "synopsis": "Official music video for the song Trust by the fictional band Irodorimidori. It is the 16th song in the franchise and focuses on Nagi Kobotoke.",
+  "title": {
+    "en": "Trust",
+    "jp": "Trust"
+  },
+  "releasedAt": "2017-05-23T00:00:00.000Z",
+  "finishedAt": "2017-05-23T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14008/original.jpg",
+  "categories": [
+    "music",
+    "the arts"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=64GsZ6WEE1s"
+  ],
+  "relations": {
+    "kitsu": "14008",
+    "anilist/anime": "102819",
+    "myanimelist/anime": "36606"
+  }
+}

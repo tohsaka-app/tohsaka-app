@@ -1,0 +1,28 @@
+{
+  "slug": "sore-ike-anpanman-kirakira-boshi-no-namida",
+  "synopsis": "Anpanman helps the princess Nandananda to find the The Shining Star's Tear.",
+  "title": {
+    "en": "Go! Anpanman: The Shining Star's Tear",
+    "jp": "Sore Ike! Anpanman: Kirakira Boshi no Namida"
+  },
+  "releasedAt": "1989-11-03T00:00:00.000Z",
+  "finishedAt": "1989-11-03T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7381/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "kids",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7381",
+    "anidb": "5812",
+    "anilist/anime": "16163",
+    "aozora": "cUq6wnBlMc",
+    "myanimelist/anime": "16163"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "taifuu-no-noruda",
+  "synopsis": "The film takes place on a certain isolated island, at a certain middle school, and on the eve of the culture festival. A boy quits baseball after playing his whole life and has a fight with his best friend. Then, they suddenly meet a mysterious, red-eyed girl named Noruda, and a huge typhoon hits the middle school.\n(Source: ANN)",
+  "title": {
+    "jp": "Taifuu no Noruda"
+  },
+  "releasedAt": "2015-06-05T00:00:00.000Z",
+  "finishedAt": "2015-06-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10869/original.jpg",
+  "categories": [
+    "alien",
+    "asia",
+    "earth",
+    "friendship",
+    "humanoid alien",
+    "japan",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [
+    "https://www.hidive.com/movies/typhoon-noruda"
+  ],
+  "relations": {
+    "kitsu": "10869",
+    "anidb": "11186",
+    "anilist/anime": "21140",
+    "aozora": "GncHcKJHUe",
+    "myanimelist/anime": "30585"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "palme-no-ki",
+  "synopsis": "Palme is a puppet created by a man to care for his sickly wife. After her death Palme becomes paralyzed with sorrow, that is, until a woman being pursed happens to cross paths with Palme and his creator and ask them to deliver something precious to a sacred place called Tama. Palme, mistaking her for his masters late wife, accepts the request. This becomes his first step to becoming more human in order to understand his own feelings. \n(Source: ANN)",
+  "title": {
+    "en": "A Tree of Palme",
+    "jp": "Palme no Ki"
+  },
+  "releasedAt": "2003-03-16T00:00:00.000Z",
+  "finishedAt": "2003-03-16T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1022/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy",
+    "mecha",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "1022",
+    "anidb": "604",
+    "anilist/anime": "1141",
+    "aozora": "CLuk0w75zV",
+    "myanimelist/anime": "1141"
+  }
+}

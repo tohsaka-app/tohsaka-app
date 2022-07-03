@@ -1,0 +1,33 @@
+{
+  "slug": "shin-mashin-eiyuuden-wataru-majinzan",
+  "synopsis": "Set a few months after the original series, Wataru is called into action once again!",
+  "title": {
+    "jp": "Shin Mashin Eiyuuden Wataru Majinzan"
+  },
+  "releasedAt": "1989-08-05T00:00:00.000Z",
+  "finishedAt": "1989-09-05T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5722/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "mecha",
+    "parallel universe",
+    "piloted robot",
+    "science fiction",
+    "swordplay"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5722",
+    "anidb": "5795",
+    "anilist/anime": "9403",
+    "aozora": "dbnAUvXLbb",
+    "myanimelist/anime": "9403"
+  }
+}

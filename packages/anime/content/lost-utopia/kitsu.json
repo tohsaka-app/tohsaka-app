@@ -1,0 +1,26 @@
+{
+  "slug": "lost-utopia",
+  "synopsis": "The story of Adam and Eve with jazzy music. Short experimental animation without words.",
+  "title": {
+    "jp": "Lost Utopia"
+  },
+  "releasedAt": "2007-01-01T00:00:00.000Z",
+  "finishedAt": "2007-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8221/original.jpg",
+  "categories": [
+    "action",
+    "fantasy",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8221",
+    "anidb": "12211",
+    "anilist/anime": "19213",
+    "aozora": "jQmiZPpCpM",
+    "myanimelist/anime": "19213"
+  }
+}

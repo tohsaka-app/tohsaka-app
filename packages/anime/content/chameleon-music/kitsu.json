@@ -1,0 +1,23 @@
+{
+  "slug": "chameleon-music",
+  "synopsis": "A chameleon tries to catch the moon at night with his tongue and eventually turns into a beautiful shining golden color.",
+  "title": {
+    "jp": "Chameleon"
+  },
+  "releasedAt": "1984-08-01T00:00:00.000Z",
+  "finishedAt": "1984-08-01T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/40813/original.jpg",
+  "categories": [
+    "kids",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "40813",
+    "aozora": "HfyeFenxaC",
+    "myanimelist/anime": "35666"
+  }
+}

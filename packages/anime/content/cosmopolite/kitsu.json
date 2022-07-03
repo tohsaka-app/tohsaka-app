@@ -1,0 +1,24 @@
+{
+  "slug": "cosmopolite",
+  "synopsis": "Graduate Work 2017 from Rina Okada, Tokyo University of the Arts, Graduate School of Film and New Media, Department of Animation.\n\nHold up minerals and natural stones to the sunlight. Search for the shapes where light shines through and the shapes of shadows. The process of a small spot gradually finding its own form.",
+  "title": {
+    "en": "Cosmopolite",
+    "jp": "Cosmopolite"
+  },
+  "releasedAt": "2017-01-01T00:00:00.000Z",
+  "finishedAt": "2017-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/44547/original.jpg",
+  "categories": [
+    "psychological"
+  ],
+  "externals": [
+    "https://youtu.be/adnZkCuiD_E"
+  ],
+  "relations": {
+    "kitsu": "44547",
+    "anilist/anime": "113316"
+  }
+}

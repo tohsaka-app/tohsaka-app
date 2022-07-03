@@ -1,0 +1,28 @@
+{
+  "slug": "hana-no-kage",
+  "synopsis": "In ancient Japan, a princess and her lover run away from their pursuers. When it became apparent that they would be caught, they vowed to commit suicide rather than have the princess return to her former life. Both of them took their blades to end their lives but something went wrong. Now one of them seeks revenge for being abandoned.",
+  "title": {
+    "en": "Shadow of the Cherry Blossoms",
+    "jp": "Hana no Kage"
+  },
+  "releasedAt": "2006-04-01T00:00:00.000Z",
+  "finishedAt": "2006-04-01T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5377/original.jpg",
+  "categories": [
+    "demon",
+    "drama",
+    "historical",
+    "romance"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5377",
+    "anidb": "10880",
+    "anilist/anime": "8533",
+    "aozora": "yvQtZGRIC0",
+    "myanimelist/anime": "8533"
+  }
+}

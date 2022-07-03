@@ -1,0 +1,30 @@
+{
+  "slug": "mobile-suit-gundam-uc-a-phantom-world",
+  "synopsis": "The short begins when an Anaheim Electronics-manufacture Sinanju Stein unit, stolen and now affiliated with the Neo Zeon unit Sleeves, bursts through the Earth's stratosphere. The Unicorn takes off from the Nahel Argama and moves to intercept. While it engages with the Sinanju Stein, the Banshee Norn and Phenex are moving to assist.\n(Source: ANN)",
+  "title": {
+    "en": "Mobile Suit Gundam UC: A Phantom World",
+    "jp": "Mobile Suit Gundam UC: A Phantom World"
+  },
+  "releasedAt": "2016-03-26T00:00:00.000Z",
+  "finishedAt": "2016-03-26T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12095/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "piloted robot",
+    "science fiction",
+    "space",
+    "space battles"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12095",
+    "anilist/anime": "112452",
+    "aozora": "nkahfxnabF",
+    "hulu": "50035610",
+    "myanimelist/anime": "32927"
+  }
+}

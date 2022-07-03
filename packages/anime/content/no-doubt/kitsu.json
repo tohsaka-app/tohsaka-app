@@ -1,0 +1,25 @@
+{
+  "slug": "no-doubt",
+  "synopsis": "Official music video for Re:vale's song \"NO DOUBT\" from IDOLiSH7.",
+  "title": {
+    "jp": "No Doubt"
+  },
+  "releasedAt": "2017-05-29T00:00:00.000Z",
+  "finishedAt": "2017-05-29T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/13536/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/13536/original.jpg",
+  "categories": [
+    "action",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "13536",
+    "anilist/anime": "103417",
+    "aozora": "Yzrtd3niHL",
+    "myanimelist/anime": "35654"
+  }
+}

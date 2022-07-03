@@ -1,0 +1,25 @@
+{
+  "slug": "helck",
+  "synopsis": "Helck is the hero that defeated one of the Demon Kings, and in the wake of the Demon King's death, a new one must be declared. This is achieved through a fighting tournament, where the strongest becomes ruler. Vamirio, one of the Great Demon Kings, discovers that Helck is a participant for the tournament and is so far winning! What could be his motive? If a human becomes the next Demon King, what does that spell for the Demon kingdom?",
+  "title": {
+    "en": "Helck",
+    "jp": "Helck"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45876/poster_image/bc8163981eae9f201417a8d32d8833ed.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45876",
+    "anilist/anime": "145140"
+  }
+}

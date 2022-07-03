@@ -1,0 +1,26 @@
+{
+  "slug": "tekkaman-blade-ova-missing-link",
+  "synopsis": "The third, Missing Link, deals with the events between Tekkaman Blade and Tekkaman Blade II.",
+  "title": {
+    "en": "Tekkaman Blade: Missing Link",
+    "jp": "Uchuu no Kishi Tekkaman Blade OVA: Missing Link"
+  },
+  "releasedAt": "1999-11-30T00:00:00.000Z",
+  "finishedAt": "1999-11-30T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2083/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2083",
+    "anilist/anime": "2301",
+    "aozora": "GuyBMgbDI9",
+    "myanimelist/anime": "2301"
+  }
+}

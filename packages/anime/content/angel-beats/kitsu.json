@@ -1,0 +1,43 @@
+{
+  "slug": "angel-beats",
+  "synopsis": "Otonashi awakens only to learn he is dead. A rifle-toting girl named Yuri explains that they are in the afterlife, and Otonashi realizes the only thing he can remember about himself is his name. Yuri tells him that she leads the Shinda Sekai Sensen (Afterlife Battlefront) and wages war against a girl named Tenshi. Unable to believe Yuri's claims that Tenshi is evil, Otonashi attempts to speak with her, but the encounter doesn't go as he intended.\nOtonashi decides to join the SSS and battle Tenshi, but he finds himself oddly drawn to her. While trying to regain his memories and understand Tenshi, he gradually unravels the mysteries of the afterlife.\n[Written by MAL Rewrite]",
+  "title": {
+    "en": "Angel Beats!",
+    "jp": "Angel Beats!"
+  },
+  "releasedAt": "2010-04-03T00:00:00.000Z",
+  "finishedAt": "2010-06-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4604/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4604/original.png",
+  "categories": [
+    "action",
+    "comedy",
+    "contemporary fantasy",
+    "drama",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "gunfights",
+    "plot continuity",
+    "present",
+    "school life"
+  ],
+  "externals": [
+    "https://www.crunchyroll.com/angel-beats",
+    "https://www.netflix.com/title/70201870"
+  ],
+  "relations": {
+    "kitsu": "4604",
+    "anidb": "6564",
+    "anilist/anime": "6547",
+    "aozora": "2nnEUazUhz",
+    "hulu": "50005017",
+    "myanimelist/anime": "6547",
+    "thetvdb": "150471/1",
+    "thetvdb/series": "150471",
+    "trakt": "42715"
+  }
+}

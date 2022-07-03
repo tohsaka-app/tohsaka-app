@@ -1,0 +1,26 @@
+{
+  "slug": "tokyo-babylon-2021",
+  "synopsis": null,
+  "title": {
+    "jp": "Tokyo Babylon 2021"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43692/original.jpg",
+  "categories": [
+    "contemporary fantasy",
+    "drama",
+    "fantasy",
+    "shoujo",
+    "shounen ai",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43692",
+    "anidb": "15808"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "hagure-yuusha-no-estetica",
+  "synopsis": "About thirty years prior to the start of Hagure Yuusha no Aesthetica, a number of selected people from Earth were summoned to other worlds with only about half of them being able to return. One of the young people chosen was Akatsuki Ousawa, who was sent to Alayzard to defeat the Dark Lord Garius, which he did, before returning to his original world. Some of the successful chosen ones brought back little trinkets as souvenirs. Akatsuki, on the other hand, went a different route—he brought back the defeated Dark Lord's daughter, Miu, who is now posing as his long lost little sister!\nUpon returning, Akatsuki and Miu are forced to join a special school called BABEL where they must train to one day master the powers they gained in Alayzard, in hopes that they will one day be able to serve mankind. Will Akatsuki and Miu be able to keep her true identity a secret or will their plan to live peaceful lives together go up in flames?",
+  "title": {
+    "en": "Aesthetica of a Rogue Hero",
+    "jp": "Hagure Yuusha no Aesthetica"
+  },
+  "releasedAt": "2012-07-06T00:00:00.000Z",
+  "finishedAt": "2012-09-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6896/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6896/original.jpg",
+  "categories": [
+    "action",
+    "comedy",
+    "contemporary fantasy",
+    "ecchi",
+    "fantasy",
+    "isekai",
+    "romance",
+    "super power"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/aesthetica-of-a-rogue-hero",
+    "http://www.funimation.com/shows/aesthetica-of-a-rogue-hero/videos/episodes",
+    "http://www.hulu.com/aesthetica-of-a-rogue-hero",
+    "https://www.animelab.com/shows/aesthetica-of-a-rogue-hero"
+  ],
+  "relations": {
+    "kitsu": "6896",
+    "anidb": "9015",
+    "anilist/anime": "13161",
+    "aozora": "Xwfv2DMa11",
+    "hulu": "50008755",
+    "myanimelist/anime": "13161",
+    "thetvdb": "259649/1",
+    "thetvdb/series": "259649",
+    "trakt": "67011"
+  }
+}

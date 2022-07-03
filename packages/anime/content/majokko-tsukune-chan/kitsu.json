@@ -1,0 +1,28 @@
+{
+  "slug": "majokko-tsukune-chan",
+  "synopsis": "In this surreal comedy, the witch Tsukune-chan travels the countryside doling out just deserts, be they good or bad.\n(Source: AniDB)",
+  "title": {
+    "jp": "Majokko Tsukune-chan"
+  },
+  "releasedAt": "2005-08-24T00:00:00.000Z",
+  "finishedAt": "2006-01-25T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/2231/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/2231/original.jpg",
+  "categories": [
+    "comedy",
+    "magic",
+    "magical girl",
+    "slapstick"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "2231",
+    "anidb": "2583",
+    "anilist/anime": "2457",
+    "aozora": "C4Wc4GR2IE",
+    "myanimelist/anime": "2457"
+  }
+}

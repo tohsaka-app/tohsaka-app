@@ -1,0 +1,28 @@
+{
+  "slug": "pokemon-pikachu-tankentai",
+  "synopsis": "Pikachu and friends must rescue lost Togepi.\n(Source: Bulbapedia)",
+  "title": {
+    "en": "Pokemon: Pikachu's Rescue Adventure",
+    "jp": "Pokemon: Pikachu Tankentai"
+  },
+  "releasedAt": "1999-07-17T00:00:00.000Z",
+  "finishedAt": "1999-07-17T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3786/original.jpg",
+  "categories": [
+    "adventure",
+    "comedy",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3786",
+    "anidb": "6797",
+    "anilist/anime": "4792",
+    "aozora": "fult48TXuJ",
+    "myanimelist/anime": "4792"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "kenzen-robo-daimidaler-specials",
+  "synopsis": "Mini-OVA specials bundled with each Blu-ray/DVD volume of Kenzen Robo Daimidaler.",
+  "title": {
+    "jp": "Kenzen Robo Daimidaler Specials"
+  },
+  "releasedAt": "2014-07-25T00:00:00.000Z",
+  "finishedAt": "2014-12-24T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8562/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/8562/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "mecha"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8562",
+    "anilist/anime": "20803",
+    "aozora": "coNIDQ1O0g",
+    "myanimelist/anime": "23735"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "hack-legend-of-the-twilight",
+  "synopsis": "Winning the legendary characters \"Kite\" and \"Black Rose\" from an event held by the creators of the MMORPG \"The World,\" Shugo and his twin sister Rena steps into \"The World.\" Together they completed events and quests, along with their new friends Ouka, Mirelle, Hotaru, and Sanjuro. Soon after, mysterious monsters appeared, and death by these monsters caused players to slip into a coma in the real world. Only Shugo and Rena can solve this problem, but why are they being targeted, and what secrets is the game hiding?\n[Written by MAL Rewrite]",
+  "title": {
+    "en": ".hack//Legend Of The Twilight",
+    "jp": ".hack//Tasogare no Udewa Densetsu"
+  },
+  "releasedAt": "2003-01-09T00:00:00.000Z",
+  "finishedAt": "2003-03-27T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/273/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/273/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "magic",
+    "science fiction",
+    "virtual reality"
+  ],
+  "externals": [
+    "http://tubitv.com/series/2054",
+    "http://www.crunchyroll.com/hacklegend-of-the-twilight",
+    "http://www.funimation.com/shows/hacklegend-of-the-twilight/videos/episodes",
+    "http://www.hulu.com/hacklegend-of-the-twilight"
+  ],
+  "relations": {
+    "kitsu": "273",
+    "anidb": "447",
+    "anilist/anime": "298",
+    "aozora": "6P3AfJxvLN",
+    "hulu": "50019609",
+    "myanimelist/anime": "298",
+    "thetvdb": "79099/2",
+    "thetvdb/season": "481903",
+    "thetvdb/series": "79099",
+    "trakt": "8818"
+  }
+}

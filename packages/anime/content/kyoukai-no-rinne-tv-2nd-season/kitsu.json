@@ -1,0 +1,36 @@
+{
+  "slug": "kyoukai-no-rinne-tv-2nd-season",
+  "synopsis": "As a child Sakura Mamiya mysteriously disappeared in the woods behind her grandma's home. She returned safe and sound, but since then she has had the power to see ghosts. Now a teenager, she just wishes the ghosts would leave her alone! At school, the desk next to Sakura's has been empty since the start of the school year, then one day her always-absent classmate shows up, and he's far more than what he seems!\n(Source: MU)",
+  "title": {
+    "en": "RIN-NE 2nd Season",
+    "jp": "Kyoukai no Rinne (TV) 2nd Season"
+  },
+  "releasedAt": "2016-04-09T00:00:00.000Z",
+  "finishedAt": "2016-09-24T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11366/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11366/original.png",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "romance",
+    "school life"
+  ],
+  "externals": [
+    "http://www.crunchyroll.com/rin-ne",
+    "https://tubitv.com/series/2600",
+    "https://www.hidive.com/tv/rin-ne-2",
+    "https://www.hulu.com/rinne"
+  ],
+  "relations": {
+    "kitsu": "11366",
+    "anidb": "11591",
+    "anilist/anime": "21357",
+    "aozora": "trLUTurogl",
+    "myanimelist/anime": "31610",
+    "thetvdb": "289903/2",
+    "trakt": "94071"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "just-awake",
+  "synopsis": "A frenzied mad dash across a bleak landscape commences as several beings engage in a Parkour style chase amid the intense and frenetic strains of 'Just Awake.'",
+  "title": {
+    "jp": "Just Awake"
+  },
+  "releasedAt": "2012-05-07T00:00:00.000Z",
+  "finishedAt": "2012-05-07T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8840/original.jpg",
+  "categories": [
+    "action",
+    "music",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8840",
+    "anidb": "11514",
+    "anilist/anime": "99530",
+    "aozora": "10UncNTyY3",
+    "myanimelist/anime": "22049"
+  }
+}

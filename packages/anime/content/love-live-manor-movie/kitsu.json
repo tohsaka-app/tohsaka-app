@@ -1,0 +1,22 @@
+{
+  "slug": "love-live-manor-movie",
+  "synopsis": "Short videos shown in theaters before the Love Live! The School Idol Movie starts teaching basic theater manners.",
+  "title": {
+    "jp": "Love Live! The School Idol Movie: Gekijou Manner CM"
+  },
+  "releasedAt": "2015-06-13T00:00:00.000Z",
+  "finishedAt": "2015-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12011/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12011",
+    "anilist/anime": "131048",
+    "myanimelist/anime": "32476"
+  }
+}

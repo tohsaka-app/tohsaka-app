@@ -1,0 +1,22 @@
+{
+  "slug": "shoujo-kageki-revue-starlight-specials",
+  "synopsis": "Special episodes bundled with the Blu-ray volumes, they are called \"99.419 Saisun\", \"99.419 Touron\", and \"99.419 Kaien.\"",
+  "title": {
+    "jp": "Shoujo☆Kageki Revue Starlight Specials"
+  },
+  "releasedAt": "2018-10-24T00:00:00.000Z",
+  "finishedAt": "2019-02-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/41897/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "41897",
+    "anilist/anime": "103254",
+    "myanimelist/anime": "38050"
+  }
+}

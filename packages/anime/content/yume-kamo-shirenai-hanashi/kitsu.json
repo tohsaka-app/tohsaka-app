@@ -1,0 +1,24 @@
+{
+  "slug": "yume-kamo-shirenai-hanashi",
+  "synopsis": "Graduation work of Miryan Paku at Tama Art University.",
+  "title": {
+    "en": "the story that might be a dream",
+    "jp": "Yume Kamo Shirenai Hanashi"
+  },
+  "releasedAt": "2014-01-01T00:00:00.000Z",
+  "finishedAt": "2014-01-01T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45611/poster_image/f1dec099b8beae048f4783464d339fc2.png",
+  "categories": [
+    "drama"
+  ],
+  "externals": [
+    "https://youtu.be/FXb5pkmefTE"
+  ],
+  "relations": {
+    "kitsu": "45611",
+    "anilist/anime": "140624"
+  }
+}

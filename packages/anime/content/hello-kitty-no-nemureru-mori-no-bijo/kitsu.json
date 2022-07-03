@@ -1,0 +1,27 @@
+{
+  "slug": "hello-kitty-no-nemureru-mori-no-bijo",
+  "synopsis": "Hello Kitty version of Sleeping Beauty by Charles Perrault.",
+  "title": {
+    "en": "Hello Kitty in Sleeping Beauty",
+    "jp": "Hello Kitty no Nemureru Mori no Bijo"
+  },
+  "releasedAt": "2001-09-21T00:00:00.000Z",
+  "finishedAt": "2001-09-21T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9000/original.jpg",
+  "categories": [
+    "anthropomorphism",
+    "fantasy",
+    "kids"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9000",
+    "anidb": "7843",
+    "anilist/anime": "17955",
+    "aozora": "JELZacy6xq",
+    "myanimelist/anime": "17955"
+  }
+}

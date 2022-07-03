@@ -1,0 +1,24 @@
+{
+  "slug": "onee-chan-ga-kita-ova",
+  "synopsis": "This episode shows Ichika's and Tomoya's first encounter.\nEpisode 13 included with the Blu-ray release. ",
+  "title": {
+    "jp": "Oneechan ga Kita Special"
+  },
+  "releasedAt": "2014-03-22T00:00:00.000Z",
+  "finishedAt": "2014-03-22T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8343/original.jpg",
+  "categories": [
+    "comedy",
+    "slice of life"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8343",
+    "anilist/anime": "20682",
+    "aozora": "RiXEskzN9Q",
+    "myanimelist/anime": "23427"
+  }
+}

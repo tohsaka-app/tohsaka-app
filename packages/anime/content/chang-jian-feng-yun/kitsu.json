@@ -1,0 +1,22 @@
+{
+  "slug": "chang-jian-feng-yun",
+  "synopsis": null,
+  "title": {},
+  "releasedAt": "2021-01-22T00:00:00.000Z",
+  "finishedAt": "2021-03-19T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43934/original.jpg",
+  "categories": [
+    "action",
+    "drama"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43934",
+    "anidb": "16011",
+    "anilist/anime": "126392",
+    "myanimelist/anime": "45557"
+  }
+}

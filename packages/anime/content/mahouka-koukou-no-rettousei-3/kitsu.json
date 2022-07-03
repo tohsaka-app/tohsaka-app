@@ -1,0 +1,27 @@
+{
+  "slug": "mahouka-koukou-no-rettousei-3",
+  "synopsis": null,
+  "title": {
+    "en": "The Irregular at Magic High School 3",
+    "jp": "Mahouka Koukou no Rettousei 3"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45700/poster_image/6fcd834a472d2e6aee010de83745abb1.jpg",
+  "categories": [
+    "action",
+    "magic",
+    "school life",
+    "science fiction",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45700",
+    "anilist/anime": "143271",
+    "myanimelist/anime": "50713"
+  }
+}

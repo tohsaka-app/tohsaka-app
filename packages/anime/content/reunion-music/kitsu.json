@@ -1,0 +1,23 @@
+{
+  "slug": "reunion-music",
+  "synopsis": "Music video/PV for ClariS' single \"reunion.\" The song was used as the opening theme for \"Ore no Imoto ga Konna ni Kawaii Wake ga nai\" second season. Released on April 17, 2013, and was also included in the \"second story\" album.",
+  "title": {
+    "jp": "Reunion (Music)"
+  },
+  "releasedAt": "2013-04-17T00:00:00.000Z",
+  "finishedAt": "2013-04-17T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8733/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8733",
+    "anilist/anime": "19287",
+    "aozora": "ZL69FBwxzr",
+    "myanimelist/anime": "19287"
+  }
+}

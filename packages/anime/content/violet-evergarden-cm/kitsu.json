@@ -1,0 +1,26 @@
+{
+  "slug": "violet-evergarden-cm",
+  "synopsis": "Special trailer released on Youtube announcing Violet Evergarden's anime adaptation. Features all original animation not used in the series.\n",
+  "title": {
+    "jp": "Violet Evergarden CM"
+  },
+  "releasedAt": "2016-05-27T00:00:00.000Z",
+  "finishedAt": "2016-05-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43347/original.jpg",
+  "categories": [
+    "drama",
+    "fantasy",
+    "slice of life",
+    "working life"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=0CJeDetA45Q"
+  ],
+  "relations": {
+    "kitsu": "43347",
+    "myanimelist/anime": "42166"
+  }
+}

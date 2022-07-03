@@ -1,0 +1,27 @@
+{
+  "slug": "jong-tama-pong",
+  "synopsis": "The live-streamed \"Nijisanji Mahjong Cup\" tournament announced on Sunday that a \"comical\" television anime adaptation of Cat Food Studio and Yostar's free-to-play mahjong game Mahjong Soul (Jong-Tama or Jan-Tama/majsoul) has been green-lit for April. Kenshirō Morii (Anime-Gataris, BanG Dream! Girls Band Party! Pico, Grand Blues!) is directing the Jong-Tama Pong☆ anime at Scooter Films.\n\n(Source: AnimeNewsNetwork)",
+  "title": {
+    "en": "Mahjong Soul",
+    "jp": "Jong-Tama PONG☆"
+  },
+  "releasedAt": "2022-04-09T00:00:00.000Z",
+  "finishedAt": "2022-06-18T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/45737/poster_image/bff001fab5f091739785e6c7ad1e3edc.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/45737/cover_image/566dbb1d47748ea1e28efcb25490a8e4.jpeg",
+  "categories": [
+    "comedy",
+    "juujin",
+    "slice of life",
+    "supernatural"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "45737",
+    "anilist/anime": "143455",
+    "myanimelist/anime": "50789"
+  }
+}

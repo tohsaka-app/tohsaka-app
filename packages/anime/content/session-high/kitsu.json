@@ -1,0 +1,24 @@
+{
+  "slug": "session-high",
+  "synopsis": "Official music video for the song Session High⤴ by the fictional band Irodorimidori. It is the 20th song in the franchise.",
+  "title": {
+    "jp": "Session High⤴"
+  },
+  "releasedAt": "2017-10-16T00:00:00.000Z",
+  "finishedAt": "2017-10-16T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14068/original.jpg",
+  "categories": [
+    "music"
+  ],
+  "externals": [
+    "https://www.youtube.com/watch?v=1QMfcLcH56o"
+  ],
+  "relations": {
+    "kitsu": "14068",
+    "anilist/anime": "102821",
+    "myanimelist/anime": "36608"
+  }
+}

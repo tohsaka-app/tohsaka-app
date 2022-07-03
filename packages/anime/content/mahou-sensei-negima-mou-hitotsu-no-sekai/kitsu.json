@@ -1,0 +1,32 @@
+{
+  "slug": "mahou-sensei-negima-mou-hitotsu-no-sekai",
+  "synopsis": "This is a series of OVAs covering some of the Magic World manga arc by Ken Akamatsu, starting with chapters 184 through 188.",
+  "title": {
+    "jp": "Mahou Sensei Negima! Mou Hitotsu no Sekai"
+  },
+  "releasedAt": "2009-09-17T00:00:00.000Z",
+  "finishedAt": "2010-08-17T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4399/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "all girls school",
+    "comedy",
+    "ecchi",
+    "fantasy world",
+    "magic",
+    "present",
+    "shounen"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4399",
+    "anidb": "6489",
+    "anilist/anime": "6050",
+    "aozora": "3L554rccL8",
+    "myanimelist/anime": "6050"
+  }
+}

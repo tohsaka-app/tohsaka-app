@@ -1,0 +1,22 @@
+{
+  "slug": "despera",
+  "synopsis": "A sci-fi drama taking place in Tokyo in 1922. Ain, 14 year-old girl, creates elaborate devices without scientific knowledge.",
+  "title": {
+    "jp": "Despera"
+  },
+  "releasedAt": "1970-01-01T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "tba",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/4584/original.png",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/4584/original.jpg",
+  "categories": [
+    "drama",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "4584"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "bishoujo-senshi-sailor-moon-supers",
+  "synopsis": "SuperS centers heavily on Chibi-usa and the Sailor Team. A new enemy, the Dead Moon Circus, has now appeared. Their motive is to find the Golden Dream Mirror that would be used to rule the world. To do this, the enemy attacks innocent victims for their Dream Mirrors and test their energy. Chibi-usa also has a new ally on her side, Pegasus. This season also sees the Sailor Senshi obtaining new powers. ",
+  "title": {
+    "en": "Sailor Moon SuperS",
+    "jp": "Bishoujo Senshi Sailor Moon SuperS"
+  },
+  "releasedAt": "1995-03-04T00:00:00.000Z",
+  "finishedAt": "1996-03-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/1115/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/1115/original.jpg",
+  "categories": [
+    "demon",
+    "henshin",
+    "magic",
+    "magical girl",
+    "romance",
+    "shoujo"
+  ],
+  "externals": [
+    "https://www.animelab.com/shows/sailor-moon",
+    "hulu.com/series/sailor-moon-4e1c9108-f973-48fb-8824-a69280ca0438"
+  ],
+  "relations": {
+    "kitsu": "1115",
+    "anidb": "2540",
+    "anilist/anime": "1239",
+    "aozora": "gNWmenSaR6",
+    "myanimelist/anime": "1239",
+    "thetvdb": "78500/4",
+    "thetvdb/season": "15147",
+    "thetvdb/series": "78500",
+    "trakt": "3548"
+  }
+}

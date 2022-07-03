@@ -1,0 +1,24 @@
+{
+  "slug": "chi-sui-maru",
+  "synopsis": "The offensive and defensive battles between Nobuo, an office worker, and Chi-Sui Maru, a mosquito.",
+  "title": {
+    "jp": "Chi-Sui Maru"
+  },
+  "releasedAt": "2010-02-06T00:00:00.000Z",
+  "finishedAt": "2010-11-26T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5175/original.jpg",
+  "categories": [
+    "comedy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5175",
+    "anidb": "7446",
+    "anilist/anime": "8025",
+    "aozora": "EiCi5Szp2N",
+    "myanimelist/anime": "8025"
+  }
+}

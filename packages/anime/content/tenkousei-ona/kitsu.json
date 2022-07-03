@@ -1,0 +1,26 @@
+{
+  "slug": "tenkousei-ona",
+  "synopsis": "Studio Colorido has created a short, animated commercial for the GungHo Online Entertainment's popular mobile game, Puzzles &amp; Dragons.\n(Source: Crunchyroll)",
+  "title": {
+    "en": "Puzzle & Dragons CM",
+    "jp": "Puzzle & Dragons CM"
+  },
+  "releasedAt": "2015-10-12T00:00:00.000Z",
+  "finishedAt": "2016-01-24T00:00:00.000Z",
+  "kind": "ona",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/11528/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/11528/original.jpg",
+  "categories": [
+    "school life",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "11528",
+    "anilist/anime": "106498",
+    "aozora": "G1JHels7gY",
+    "myanimelist/anime": "31846"
+  }
+}

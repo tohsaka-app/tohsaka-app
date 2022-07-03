@@ -1,0 +1,27 @@
+{
+  "slug": "tottemo-luckyman",
+  "synopsis": "This gag comedy series focused on the adventures of a bizarre superhero powered by special cooking and fights against various aliens and other enemies threatening the planet Earth.",
+  "title": {
+    "jp": "Tottemo! Luckyman"
+  },
+  "releasedAt": "1994-04-06T00:00:00.000Z",
+  "finishedAt": "1995-03-23T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3184/original.jpg",
+  "categories": [
+    "comedy",
+    "science fiction",
+    "super power",
+    "superhero"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3184",
+    "anidb": "3977",
+    "anilist/anime": "3672",
+    "aozora": "8htGduStzX",
+    "myanimelist/anime": "3672"
+  }
+}

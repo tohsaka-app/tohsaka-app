@@ -1,0 +1,24 @@
+{
+  "slug": "saikano-special",
+  "synopsis": "It's  the making of  \"saikano\", intreviews with the staff and etc...",
+  "title": {
+    "en": "",
+    "jp": "Saikano Special"
+  },
+  "releasedAt": "2002-11-28T00:00:00.000Z",
+  "finishedAt": "2002-11-28T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/3744/original.jpg",
+  "categories": [
+    "drama",
+    "romance",
+    "school life",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "3744"
+  }
+}

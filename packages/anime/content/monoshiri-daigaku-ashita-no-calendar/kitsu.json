@@ -1,0 +1,23 @@
+{
+  "slug": "monoshiri-daigaku-ashita-no-calendar",
+  "synopsis": "Another continuation of Instant History with a new title. This time it was sponsored by Kirin, a brewery company in Japan.\n(Source: Cartoon Research)",
+  "title": {
+    "jp": "Monoshiri Daigaku: Ashita no Calendar"
+  },
+  "releasedAt": "1966-07-01T00:00:00.000Z",
+  "finishedAt": "1970-08-02T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9463/original.jpg",
+  "categories": [
+    "historical"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9463",
+    "anidb": "6960",
+    "aozora": "e00ZphKnZN",
+    "myanimelist/anime": "22221"
+  }
+}

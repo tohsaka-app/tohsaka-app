@@ -1,0 +1,28 @@
+{
+  "slug": "tanken-driland-1000-nen-no-mahou",
+  "synopsis": "New series of Tanken Driland with brand new casts.",
+  "title": {
+    "jp": "Tanken Driland: 1000-nen no Mahou"
+  },
+  "releasedAt": "2013-04-06T00:00:00.000Z",
+  "finishedAt": "2014-03-29T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8809/original.jpg",
+  "categories": [
+    "adventure",
+    "fantasy"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8809",
+    "anidb": "9784",
+    "anilist/anime": "17969",
+    "aozora": "fG5ajIBQ9L",
+    "myanimelist/anime": "17969",
+    "thetvdb": "260408/2",
+    "thetvdb/season": "515653",
+    "thetvdb/series": "260408"
+  }
+}

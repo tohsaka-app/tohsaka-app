@@ -1,0 +1,34 @@
+{
+  "slug": "one-piece-karakurijou-no-mecha-kyohei",
+  "synopsis": "The Straw Hat crew salvages a treasure chest from a sinking wreck, inside which they find an old lady. To get the pirates to take her home, she promises them the treasure of a golden crown on her island: Mecha Island. Upon arrival, the crew is attacked by the lord of the island but he has a change of heart and decides to seek their help to solve the mystery of the Golden Crown.\n(Source: ANN, edited)",
+  "title": {
+    "jp": "One Piece Movie 7: Karakuri-jou no Mecha Kyohei"
+  },
+  "releasedAt": "2006-03-04T00:00:00.000Z",
+  "finishedAt": "2006-03-04T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/427/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/427/original.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "comedy",
+    "fantasy",
+    "fantasy world",
+    "friendship",
+    "mecha",
+    "past",
+    "pirate",
+    "super power"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "427",
+    "anidb": "4097",
+    "anilist/anime": "465",
+    "aozora": "QPXD2QZSqW",
+    "myanimelist/anime": "465"
+  }
+}

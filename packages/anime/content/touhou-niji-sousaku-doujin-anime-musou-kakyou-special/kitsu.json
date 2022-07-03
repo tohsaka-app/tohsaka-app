@@ -1,0 +1,24 @@
+{
+  "slug": "touhou-niji-sousaku-doujin-anime-musou-kakyou-special",
+  "synopsis": "Episode 2.5 of \"A Summer Day's Dream\" series of anime shorts based on the Touhou Project shooter game series.",
+  "title": {
+    "jp": "Touhou Niji Sousaku Doujin Anime: Musou Kakyou Special"
+  },
+  "releasedAt": "2014-05-11T00:00:00.000Z",
+  "finishedAt": "2014-05-11T00:00:00.000Z",
+  "kind": "ova",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/10864/original.jpg",
+  "categories": [
+    "fantasy",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "10864",
+    "anilist/anime": "102717",
+    "aozora": "erlPm3561Y",
+    "myanimelist/anime": "30547"
+  }
+}

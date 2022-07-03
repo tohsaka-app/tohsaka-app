@@ -1,0 +1,31 @@
+{
+  "slug": "dead-space-downfall",
+  "synopsis": "Prequel Movie to the game Dead Space",
+  "title": {},
+  "releasedAt": "2008-10-28T00:00:00.000Z",
+  "finishedAt": "2008-10-28T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/14275/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/14275/original.jpg",
+  "categories": [
+    "alien",
+    "anime influenced",
+    "horror",
+    "other planet",
+    "parasite",
+    "science fiction",
+    "shipboard",
+    "space",
+    "violence"
+  ],
+  "externals": [
+    "https://tubitv.com/movies/289793/dead_space_downfall",
+    "https://www.amazon.com/gp/video/detail/B07VZP3Z2V/",
+    "https://www.youtube.com/watch?v=PQDO00IvsW0"
+  ],
+  "relations": {
+    "kitsu": "14275"
+  }
+}

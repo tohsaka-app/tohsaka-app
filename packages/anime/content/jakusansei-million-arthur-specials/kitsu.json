@@ -1,0 +1,25 @@
+{
+  "slug": "jakusansei-million-arthur-specials",
+  "synopsis": "Special episodes of Jakusansei Million Arthur released to commemorate the Playstation 4/Vita game release.",
+  "title": {
+    "jp": "Jakusansei Million Arthur Specials"
+  },
+  "releasedAt": "2016-07-06T00:00:00.000Z",
+  "finishedAt": "2016-08-25T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12486/original.jpg",
+  "categories": [
+    "comedy",
+    "ecchi",
+    "fantasy",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12486",
+    "aozora": "2bcXxS1oXS",
+    "myanimelist/anime": "33779"
+  }
+}

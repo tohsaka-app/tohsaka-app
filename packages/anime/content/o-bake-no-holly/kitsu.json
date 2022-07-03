@@ -1,0 +1,27 @@
+{
+  "slug": "o-bake-no-holly",
+  "synopsis": "Holly the Ghost is about Holly (Chocola) who wants to be a \"holly ghost\". \"Holly ghost\" is a group of \"monsters\" who spread fear. Their leader is a witch called Majoline. Together with his 4 new friends (Candy, Toreppaa, etc) he learns to be a real \"holly ghost\".",
+  "title": {
+    "jp": "O-bake no... Holly"
+  },
+  "releasedAt": "1991-01-28T00:00:00.000Z",
+  "finishedAt": "1993-04-12T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/5577/original.jpg",
+  "categories": [
+    "comedy",
+    "fantasy",
+    "kids",
+    "magic"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "5577",
+    "anidb": "4217",
+    "anilist/anime": "9015",
+    "aozora": "CNPBKZWyBJ",
+    "myanimelist/anime": "9015"
+  }
+}

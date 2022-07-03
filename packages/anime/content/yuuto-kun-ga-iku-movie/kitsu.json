@@ -1,0 +1,24 @@
+{
+  "slug": "yuuto-kun-ga-iku-movie",
+  "synopsis": "Movie of Yuuto-kun ga Iku.",
+  "title": {
+    "jp": "Yuuto-kun ga Iku Movie"
+  },
+  "releasedAt": "2014-05-31T00:00:00.000Z",
+  "finishedAt": "2014-05-31T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/8398/original.jpg",
+  "categories": [
+    "kids",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "8398",
+    "anilist/anime": "116160",
+    "aozora": "ILP5gtqc9I",
+    "myanimelist/anime": "22197"
+  }
+}

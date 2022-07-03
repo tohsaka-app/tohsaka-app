@@ -1,0 +1,30 @@
+{
+  "slug": "ojii-san-no-lamp",
+  "synopsis": "A boy finds a strange object while playing hide-and-seek. His grandfather tells him the story of his own youth, and the important role the old lamp played. This story is about the modernization of Japan and the changes that came with it.",
+  "title": {
+    "jp": "Ojiisan no Lamp"
+  },
+  "releasedAt": "2011-03-05T00:00:00.000Z",
+  "finishedAt": "2011-03-05T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6208/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/6208/cover_image/302745fc2620e60c7c5ebe8aa3a84b81.png",
+  "categories": [
+    "asia",
+    "countryside",
+    "earth",
+    "historical",
+    "japan",
+    "past"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6208",
+    "anidb": "8256",
+    "anilist/anime": "10500",
+    "aozora": "Im1QfbGIuA",
+    "myanimelist/anime": "10500"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "lolling-seutajeu",
+  "synopsis": "",
+  "title": {
+    "en": "Rolling Stars",
+    "jp": "Lolling Seutajeu"
+  },
+  "releasedAt": "2009-04-15T00:00:00.000Z",
+  "finishedAt": "2009-10-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7582/original.jpg",
+  "categories": [
+    "kids",
+    "sports"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7582",
+    "anilist/anime": "17102",
+    "aozora": "QehYIm91D7",
+    "myanimelist/anime": "17102"
+  }
+}

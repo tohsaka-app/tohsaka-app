@@ -1,0 +1,23 @@
+{
+  "slug": "alice-gear-aegis",
+  "synopsis": "Anime adaptation of the 3D smartphone shooting game Alice Gear Aegis by the developer COLOPL.",
+  "title": {
+    "jp": "Alice Gear Aegis"
+  },
+  "releasedAt": "2022-12-31T00:00:00.000Z",
+  "finishedAt": "1970-01-01T00:00:00.000Z",
+  "kind": "ova",
+  "status": "unreleased",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43845/original.jpg",
+  "categories": [
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43845",
+    "anilist/anime": "126186",
+    "myanimelist/anime": "43506"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "sayonara-zetsubou-sensei-special",
+  "synopsis": "A new special episode that was distributed to those who purchase all three Blu-ray box sets of Sayonara Zetsubou Sensei series on January 31, 2012. ",
+  "title": {
+    "jp": "Sayonara Zetsubou Sensei Special"
+  },
+  "releasedAt": "2012-01-31T00:00:00.000Z",
+  "finishedAt": "2012-01-31T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "r",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/6196/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/6196/original.png",
+  "categories": [
+    "comedy",
+    "mystery",
+    "parody"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "6196",
+    "anilist/anime": "10469",
+    "aozora": "AUdpvpstTr",
+    "myanimelist/anime": "10469"
+  }
+}

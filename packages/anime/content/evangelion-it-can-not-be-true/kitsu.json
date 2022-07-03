@@ -1,0 +1,22 @@
+{
+  "slug": "evangelion-it-can-not-be-true",
+  "synopsis": "Evangelion: It Can (Not) Be True is a promotional CG short created for OPPO's limited-edition Ace2 Eva Smartphone.",
+  "title": {
+    "jp": "EVANGELION: It Can (Not) Be True."
+  },
+  "releasedAt": "2020-06-27T00:00:00.000Z",
+  "finishedAt": "2020-06-27T00:00:00.000Z",
+  "kind": "special",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43655/original.jpg",
+  "categories": [
+    "action",
+    "mecha",
+    "science fiction"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "43655"
+  }
+}

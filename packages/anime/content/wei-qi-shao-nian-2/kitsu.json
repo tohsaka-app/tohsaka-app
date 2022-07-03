@@ -1,0 +1,25 @@
+{
+  "slug": "wei-qi-shao-nian-2",
+  "synopsis": "Jiang Liu Er has fortified his skills as a Go player over the years. He now must make the long journey to become a grandmaster.",
+  "title": {
+    "en": "Go Player 2; Go Youngsters 2; Go Boy 2",
+    "jp": "Wei Qi Shao Nian 2"
+  },
+  "releasedAt": "2009-05-01T00:00:00.000Z",
+  "finishedAt": "2009-10-01T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/9775/original.jpg",
+  "categories": [
+    "historical",
+    "virtual reality"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "9775",
+    "anilist/anime": "19839",
+    "aozora": "DpoeEHxAnc",
+    "myanimelist/anime": "19839"
+  }
+}

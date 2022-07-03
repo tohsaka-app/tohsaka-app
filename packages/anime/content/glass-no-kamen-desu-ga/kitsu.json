@@ -1,0 +1,29 @@
+{
+  "slug": "glass-no-kamen-desu-ga",
+  "synopsis": "The anime re-imagines the story with the characters Maya Kitajima and her rival Ayumi Himekawa being delinquent girls who both aspire to be the leader of the \"Crimson Goddess\" gang.",
+  "title": {
+    "jp": "Glass no Kamen Desu ga"
+  },
+  "releasedAt": "2013-04-07T00:00:00.000Z",
+  "finishedAt": "2013-04-21T00:00:00.000Z",
+  "kind": "tv",
+  "status": "finished",
+  "rating": "pg",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/7649/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/cover_images/7649/original.jpg",
+  "categories": [
+    "comedy",
+    "parody",
+    "performance",
+    "shoujo",
+    "the arts"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "7649",
+    "anidb": "9727",
+    "anilist/anime": "17707",
+    "aozora": "b9n9ipjpMZ",
+    "myanimelist/anime": "17707"
+  }
+}

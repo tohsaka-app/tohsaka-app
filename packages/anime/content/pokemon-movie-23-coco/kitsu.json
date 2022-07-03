@@ -1,0 +1,32 @@
+{
+  "slug": "pokemon-movie-23-coco",
+  "synopsis": "The new film's story is set in Okoya Forest, a Pokémon paradise protected by strict rules that forbid outsiders from setting foot inside. The film centers on Coco, a boy who was raised by Pokémon and also considers himself as one, treating the Mythical Pokémon Zarude as his father. Ash and Pikachu encounter Coco during an adventure. The film focuses on the theme of a \"human raised by Pokémon,\" instead of the previous films' focus of the \"bond between a human trainer and their Pokémon.\"\n\n(Source: ANN)",
+  "title": {
+    "en": "Pokémon the Movie: Secrets of the Jungle",
+    "jp": "Gekijouban Pocket Monsters: Coco"
+  },
+  "releasedAt": "2020-07-10T00:00:00.000Z",
+  "finishedAt": "2020-07-10T00:00:00.000Z",
+  "kind": "movie",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/43025/original.jpg",
+  "coverUrl": "https://media.kitsu.io/anime/43025/cover_image/38a6dc0d477755acab25cf4785957e83.jpg",
+  "categories": [
+    "action",
+    "adventure",
+    "family",
+    "fantasy",
+    "fantasy world",
+    "kids",
+    "proxy battles"
+  ],
+  "externals": [
+    "https://www.netflix.com/title/81346307"
+  ],
+  "relations": {
+    "kitsu": "43025",
+    "anilist/anime": "114564",
+    "myanimelist/anime": "40881"
+  }
+}
