@@ -11,7 +11,7 @@
   "status": "finished",
   "rating": "pg",
   "posterUrl": "https://media.kitsu.io/anime/44205/poster_image/634c1ae17c1673a1f6e44e1522eb0211.jpg",
-  "coverUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44205/cover_image/e9b1a3e4d456dd2b883700afb78be3ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220703%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220703T153904Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=34c9610c72a0c0bf5a866e7a11f572340344fd745d6722f6ffaf5dda3acafb28",
+  "coverUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44205/cover_image/e9b1a3e4d456dd2b883700afb78be3ec.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220703%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220703T154523Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=08ce4c1ae807ca6b6e7dce8865c35b3703243ef4df34aac042024efa65d75dc0",
   "categories": [
     "action",
     "adventure",

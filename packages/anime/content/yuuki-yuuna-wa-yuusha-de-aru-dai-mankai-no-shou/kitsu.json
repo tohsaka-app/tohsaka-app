@@ -11,7 +11,7 @@
   "status": "finished",
   "rating": "pg",
   "posterUrl": "https://media.kitsu.io/anime/poster_images/44333/original.jpg",
-  "coverUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44333/cover_image/0cf5b9835265f4e41ea0bd47f232187e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220703%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220703T153919Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=6365b0ed61d565ec697a8ff5f2ef6c0b109ff9b99ae35231a72f01a0620986b5",
+  "coverUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44333/cover_image/0cf5b9835265f4e41ea0bd47f232187e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220703%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220703T154538Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=ee6c18350b3294b50f51afca931a68ef8feda05acfaaca8f5e25185a9cdf2e53",
   "categories": [
     "action",
     "drama",
