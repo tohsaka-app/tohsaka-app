@@ -17,7 +17,7 @@ export function serializeEpisode(data: any): Episode {
 
 export function serialize(data: any): Show {
 	return {
-		slug: data.slug,
+		slug: data.slug.toLowerCase(),
 		synopsis: data.synopsis,
 		title: {
 			en: data.titles.en,

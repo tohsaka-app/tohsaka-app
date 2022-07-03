@@ -1,8 +1,3 @@
-import Kitsu from "kitsu";
-
-import { serialize } from "./serializer";
-const kitsu = new Kitsu({});
-
 export type Title = Record<"en" | "jp", string>;
 export type Resolution = 480 | 720 | 1080;
 

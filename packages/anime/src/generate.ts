@@ -1,8 +1,11 @@
 import fs from "fs/promises";
 
 import Kitsu from "kitsu";
+import ms from "ms";
 
 import { serialize, serializeEpisode } from "./serializer";
+
+import { Episode, Show } from ".";
 
 const kitsu = new Kitsu({});
 
@@ -40,29 +43,88 @@ export async function generate(slug: string) {
 }
 
 export async function generateAvailable() {
-	let idx = 0;
-	let count = Infinity;
+	const limit = 20;
 
-	while (!(idx >= count / 20)) {
-		const { data, meta } = await kitsu.get("anime", {
-			params: {
-				page: {
-					limit: 20,
-					offset: idx * 20
-				},
-				fields: {
-					anime: "slug"
+	const { meta } = await kitsu.get("anime", {});
+
+	const total = meta.count;
+	console.log(`A rough total of ${total} available shows`);
+	const startTs = performance.now();
+
+	await Promise.all(
+		new Array(Math.ceil(total / limit)).fill(1).map(async (_, idx) => {
+			await new Promise((resolve) => setTimeout(resolve, idx * 50));
+
+			const includes = ["categories", "mappings", "episodes", "streamingLinks"];
+			const { data } = await kitsu.get("anime", {
+				params: {
+					page: {
+						limit: limit,
+						offset: idx * limit
+					},
+					sort: "slug",
+					fields: {
+						anime: [
+							"slug",
+							"synopsis",
+							"titles",
+							"startDate",
+							"endDate",
+							"ageRating",
+							"subtype",
+							"status",
+							"posterImage",
+							"coverImage",
+							...includes
+						].join(),
+						categories: "title",
+						mappings: ["externalSite", "externalId"].join(),
+						episodes: [
+							"synopsis",
+							"titles",
+							"seasonNumber",
+							"number",
+							"airdate",
+							"thumbnail"
+						].join(),
+						streamingLinks: "url"
+					},
+					include: includes.join()
 				}
-			}
-		});
+			});
 
-		await generateFiles(data.map((value: any) => value.slug));
+			await Promise.all(
+				data.map(async (value: any) => {
+					await writeFile(serialize(value), value.episodes.data.map(serializeEpisode));
+				})
+			);
+		})
+	).catch((reason) => {
+		console.error(reason);
+		process.exit(-1);
+	});
 
-		count = meta.count;
-		idx++;
+	console.log(`finished in ${ms(performance.now() - startTs, { long: true })}`);
+}
 
-		console.log(idx * 20, count, `${(((idx * 20) / count) * 100).toFixed(2)}% done`);
-	}
+export async function writeFile(show: Show, episodes: Array<Episode>, override?: boolean) {
+	const slug = show.slug.toLowerCase();
+	const dirname = `./content/${slug}`;
+
+	const exists = await fs.stat(dirname).catch(() => false);
+	if (exists && !override) return console.log(`file "${slug}" already exists`);
+
+	console.log(`${exists ? "modifed" : "created new"} file "${slug}"`);
+
+	// eslint-disable-next-line @typescript-eslint/no-empty-function
+	await fs.mkdir(dirname, { recursive: true }).catch(() => {});
+
+	await Promise.all([
+		fs.writeFile(`${dirname}/kitsu.json`, JSON.stringify(show, null, 2)),
+		override
+			? Promise.resolve()
+			: fs.writeFile(`${dirname}/episodes.json`, JSON.stringify(episodes, null, 2))
+	]);
 }
 
 export async function generateFiles(slugs: Array<string>) {
@@ -77,13 +139,7 @@ export async function generateFiles(slugs: Array<string>) {
 			}
 
 			const [show, episodes] = await generate(slug);
-			console.log(`created new file "${slug}"`);
-
-			// eslint-disable-next-line @typescript-eslint/no-empty-function
-			await fs.mkdir(dirname, { recursive: true }).catch(() => {});
-
-			await fs.writeFile(`${dirname}/kitsu.json`, JSON.stringify(show, null, 2));
-			await fs.writeFile(`${dirname}/episodes.json`, JSON.stringify(episodes, null, 2));
+			await writeFile(show, episodes);
 		})
 	);
 }

@@ -1,0 +1,23 @@
+{
+  "slug": "wakuwaku-nukegake-daisakusen",
+  "synopsis": "Official music video for dorlis's mini-album CD Swingin' Party2.",
+  "title": {
+    "jp": "Wakuwaku♥Nukegake Daisakusen"
+  },
+  "releasedAt": "2007-04-18T00:00:00.000Z",
+  "finishedAt": "2007-04-18T00:00:00.000Z",
+  "kind": "music",
+  "status": "finished",
+  "rating": "g",
+  "posterUrl": "https://media.kitsu.io/anime/poster_images/12165/original.jpg",
+  "categories": [
+    "motorsport",
+    "music"
+  ],
+  "externals": [],
+  "relations": {
+    "kitsu": "12165",
+    "aozora": "aoaLG2F8E3",
+    "myanimelist/anime": "33124"
+  }
+}
