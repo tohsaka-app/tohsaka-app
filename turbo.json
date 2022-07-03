@@ -8,6 +8,9 @@
     },
     "lint": {
       "outputs": []
+    },
+    "cron:daily": {
+      "outputs": []
     }
   }
 }

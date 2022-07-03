@@ -95,7 +95,7 @@ export async function generateAvailable() {
 
 			await Promise.all(
 				data.map(async (value: any) => {
-					await writeFile(serialize(value), value.episodes.data.map(serializeEpisode));
+					await writeFile(serialize(value), value.episodes.data.map(serializeEpisode), true);
 				})
 			);
 		})

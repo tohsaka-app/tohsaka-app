@@ -10,7 +10,8 @@
     "lint": "pnpm --filter \"...[origin/main]\" exec pnpm lint",
     "bump": "pnpm --filter \"...[origin/main]\" exec pnpm version patch --no-workspaces-update --json",
     "push": "pnpm -r --no-bail release || exit 0",
-    "build": "turbo run build"
+    "build": "turbo run build",
+    "cron:daily": "turbo run cron:daily"
   },
   "keywords": [],
   "author": "",

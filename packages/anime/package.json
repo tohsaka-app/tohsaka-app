@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint ./src"
+    "lint": "eslint ./src",
+    "cron:daily": "ts-node scripts/generate.ts"
   },
   "keywords": [],
   "author": "",
