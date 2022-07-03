@@ -7,7 +7,7 @@
   "scripts": {
     "lint": "eslint ./src",
     "build": "tsc",
-    "release": "pnpm publish"
+    "release": "pnpm publish --access=public"
   },
   "keywords": [],
   "author": "",
