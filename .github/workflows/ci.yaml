@@ -42,7 +42,9 @@ jobs:
 
         - name: Release
           if: ${{ github.ref == 'refs/heads/main' && github.event_name == 'push' }}
-          run: pnpm push
+          run: |
+            pnpm bump
+            pnpm push
           env:
             NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
             NPM_CONFIG_GIT_CHECKS: false
