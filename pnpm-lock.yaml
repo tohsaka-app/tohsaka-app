@@ -142,6 +142,25 @@ importers:
       typescript: 4.7.4
       vite: 2.9.13
 
+  packages/shows:
+    specifiers:
+      '@ariesclark/eslint-config': ^1.4.0
+      '@tohsaka/torrent': workspace:*
+      '@types/fluent-ffmpeg': ^2.1.20
+      fluent-ffmpeg: ^2.1.2
+      subtitle: ^4.2.1
+      ts-node: ^10.8.1
+      typescript: ^4.7.4
+    dependencies:
+      '@tohsaka/torrent': link:../torrent
+      fluent-ffmpeg: 2.1.2
+      subtitle: 4.2.1
+    devDependencies:
+      '@ariesclark/eslint-config': 1.4.0_mu66ohdiwyrigyorzidgf4bsdu
+      '@types/fluent-ffmpeg': 2.1.20
+      ts-node: 10.8.1_typescript@4.7.4
+      typescript: 4.7.4
+
   packages/subtitles:
     specifiers:
       '@ariesclark/eslint-config': ^1.4.0
@@ -3257,7 +3276,7 @@ packages:
       eslint-import-resolver-webpack:
         optional: true
     dependencies:
-      '@typescript-eslint/parser': 5.30.3_vjep2yp2sits3sqnodefgcbnfi
+      '@typescript-eslint/parser': 5.30.3_utdtartgf6fqqgkivzeynh76la
       debug: 3.2.7
       eslint-import-resolver-node: 0.3.6
       eslint-import-resolver-typescript: 2.7.1_btspkuwbqkl4adpiufzbathtpi
@@ -3276,7 +3295,7 @@ packages:
       '@typescript-eslint/parser':
         optional: true
     dependencies:
-      '@typescript-eslint/parser': 5.30.3_vjep2yp2sits3sqnodefgcbnfi
+      '@typescript-eslint/parser': 5.30.3_utdtartgf6fqqgkivzeynh76la
       array-includes: 3.1.5
       array.prototype.flat: 1.3.0
       debug: 2.6.9
