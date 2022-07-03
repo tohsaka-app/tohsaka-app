@@ -35,13 +35,13 @@ export async function getTorrent(hash: string): Promise<Torrent> {
 	);
 }
 
-export async function getTorrentFile(hash: string) {
+export async function getTorrentFile(hash: string, idx: number = 0) {
 	const torrent = await getTorrent(hash);
 	return new Promise<TorrentFile>((resolve) => {
-		if (torrent.ready) return resolve(torrent.files[0]);
+		if (torrent.ready) return resolve(torrent.files[idx]);
 
 		torrent.on("ready", () => {
-			resolve(torrent.files[0]);
+			resolve(torrent.files[idx]);
 		});
 	});
 }

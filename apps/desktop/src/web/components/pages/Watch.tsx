@@ -8,7 +8,7 @@ export const Watch: React.FC = () => {
 	const { data: show } = useShow(slug);
 
 	return show ? (
-		<div className="flex overflow-hidden relative w-full h-screen">
+		<div className="relative flex h-screen w-full overflow-hidden">
 			<Video slug={show.slug} />
 		</div>
 	) : null;

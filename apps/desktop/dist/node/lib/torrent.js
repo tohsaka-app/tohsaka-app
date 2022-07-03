@@ -3,7 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.getTorrent = exports.client = void 0;
+exports.getTorrentFile = exports.getTorrent = exports.client = void 0;
 // eslint-disable-next-line import/no-named-as-default
 const webtorrent_1 = __importDefault(require("webtorrent"));
 // eslint-disable-next-line import/no-named-as-default
@@ -36,3 +36,14 @@ async function getTorrent(hash) {
         })));
 }
 exports.getTorrent = getTorrent;
+async function getTorrentFile(hash) {
+    const torrent = await getTorrent(hash);
+    return new Promise((resolve) => {
+        if (torrent.ready)
+            return resolve(torrent.files[0]);
+        torrent.on("ready", () => {
+            resolve(torrent.files[0]);
+        });
+    });
+}
+exports.getTorrentFile = getTorrentFile;

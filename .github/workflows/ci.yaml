@@ -1,0 +1,48 @@
+
+name: CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    types: [opened, synchronize]
+  workflow_dispatch:
+
+jobs:
+  build:
+      name: Build
+      timeout-minutes: 15
+      runs-on: ${{ matrix.os }}
+      strategy:
+        matrix:
+          os: [ubuntu-latest]
+
+      steps:
+        - name: Check out code
+          uses: actions/checkout@v2
+          with:
+            fetch-depth: 2
+
+        - uses: pnpm/action-setup@v2.0.1
+          with:
+            version: 6.32.2
+
+        - name: Setup Node.js environment
+          uses: actions/setup-node@v3
+          with:
+            node-version: 18
+            registry-url: "https://registry.npmjs.org"
+            cache: 'pnpm'
+
+        - name: Install dependencies
+          run: pnpm install
+
+        - name: Build
+          run: pnpm build
+
+        - name: Release
+          if: ${{ github.ref == 'refs/heads/main' && github.event_name == 'push' }}
+          run: pnpm push
+          env:
+            NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+            NPM_CONFIG_GIT_CHECKS: false

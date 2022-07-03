@@ -85,16 +85,16 @@ export const Discover: React.FC = () => {
 
 	return (
 		<>
-			<div className="absolute -z-30 w-full h-screen bg-neutral-900 pointer-events-none">
+			<div className="pointer-events-none absolute -z-30 h-screen w-full bg-neutral-900">
 				<div
-					className="absolute w-full h-screen bg-center bg-cover blur-lg"
+					className="absolute h-screen w-full bg-cover bg-center blur-lg"
 					style={{
 						backgroundImage: `url(https://subsplease.org${selectedShow?.poster_url})`
 					}}
 				/>
-				<div className="absolute w-full h-full bg-gradient-to-r from-black/95 via-black/80 to-transparent" />
+				<div className="absolute h-full w-full bg-gradient-to-r from-black/95 via-black/80 to-transparent" />
 			</div>
-			<div className="flex overflow-hidden w-full h-screen">
+			<div className="flex h-screen w-full overflow-hidden">
 				<aside className="flex flex-col p-8" />
 				<div className="flex flex-col gap-16 py-16">
 					{selectedShow && <ShowInfoBox slug={selectedShow.slug} />}

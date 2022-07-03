@@ -12,5 +12,5 @@ export const App: React.FC = () => {
 		}
 	}, []);
 
-	return <Outlet />
+	return <Outlet />;
 };

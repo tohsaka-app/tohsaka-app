@@ -1,54 +1,114 @@
+/* eslint-disable require-atomic-updates */
 import path from "path";
-import http from "http";
+import { PassThrough } from "stream";
 
 import { app, BrowserWindow } from "electron";
 import serve from "electron-serve";
-
-import { getTorrent } from "./lib/torrent";
 import { getType } from "mime";
+import Koa from "koa";
+import ffmpeg from "fluent-ffmpeg";
+import { parse } from "subtitle";
 
+import { client, getTorrentFile } from "./lib/torrent";
 const loadURL = serve({ directory: "dist/web" });
 
-function kill(res: http.ServerResponse, message: string) {
-	res.write(message);
-	res.end();
-}
+async function createServer(): Promise<Koa> {
+	const app = new Koa({});
 
-async function createServer(): Promise<http.Server> {
-	return http
-		.createServer(async (req, res) => {
-			if (!req.url) return kill(res, "Bad request");
-			console.log(req.url, req.headers.host);
-			const url = new URL(req.url, `http://${req.headers.host}`);
+	app.use(async (ctx) => {
+		const pathname = ctx.path.slice(1);
 
-			const hash = url.searchParams.get("hash");
-			if (!hash) return kill(res, "Didn't receive a torrent hash");
-
-			const torrent = await getTorrent(hash);
-
-			const file = torrent.files[0];
-			if (!file) return kill(res, "Torrent doesn't have any files");
-
-			const range = req.headers.range || "bytes=0-";
-
-			// eslint-disable-next-line no-mixed-operators
-			const chunkSize = 10 ** 6 * 4; // 4MB
-			const start = Number(range.replace(/\D/g, ""));
-			const end = Math.min(start + chunkSize, file.length - 1);
-
-			const headers = {
-				"Content-Range": `bytes ${start}-${end}/${file.length}`,
-				"Accept-Ranges": "bytes",
-				"Content-Length": end - start + 1,
-				"Content-Type": getType(file.name) || ""
+		if (pathname === "info") {
+			ctx.response.status = 200;
+			ctx.response.body = {
+				speed: {
+					upload: client.uploadSpeed,
+					download: client.downloadSpeed
+				}
 			};
 
-			res.writeHead(206, headers);
+			return;
+		}
 
-			const videoStream = file.createReadStream({ start, end });
-			videoStream.pipe(res);
-		})
-		.listen(17709);
+		const [hash, ext] = pathname.split(".");
+
+		if (!hash) return ctx.throw(400, "Insufficient request");
+
+		console.log(ext, hash, client.progress, client.ratio);
+
+		const file = await getTorrentFile(hash);
+
+		if (!file) return ctx.throw(400, "Bad torrent");
+
+		ctx.respond = false;
+
+		if (ext === "json") {
+			ctx.status = 200;
+
+			const subtitles: Array<any> = [];
+
+			ffmpeg()
+				.on("start", console.log)
+				.input(file.createReadStream() as any)
+				.outputOptions("-map 0:s:0")
+				.output(
+					new PassThrough()
+						.pipe(parse())
+						.on("data", (chunk) => {
+							const position = chunk.data.text.match(/\{\\an8\}/) ? "top" : "bottom";
+							const text = chunk.data.text.replace(/<[^>]+>|\{\\an8\}/g, "");
+
+							subtitles.push({
+								...chunk,
+								data: {
+									...chunk.data,
+									position,
+									text
+								}
+							});
+
+							console.log(subtitles.length);
+						})
+						.on("end", () => {
+							ctx.res.write(
+								JSON.stringify({
+									file: {
+										name: file.name
+									},
+									subtitles: subtitles.map((subtitle, idx) => ({ id: idx, ...subtitle }))
+								})
+							);
+							ctx.res.end();
+						})
+				)
+				.outputFormat("srt")
+				.run();
+
+			return;
+		}
+
+		const range = ctx.get("range") || "bytes=0-";
+
+		// eslint-disable-next-line no-mixed-operators
+		const chunkSize = 10 ** 6 * 4; // 4MB
+		const start = Number(range.replace(/\D/g, ""));
+		const end = Math.min(start + chunkSize, file.length - 1);
+
+		ctx.set({
+			"Content-Range": `bytes ${start}-${end}/${file.length}`,
+			"Accept-Ranges": "bytes",
+			"Content-Length": (end - start + 1).toString(),
+			"Content-Type": getType(file.name) || ""
+		});
+
+		ctx.status = 206;
+
+		const videoStream = file.createReadStream({ start, end });
+		videoStream.pipe(ctx.res);
+	});
+
+	app.listen(17709);
+	return app;
 }
 
 async function createWindow(): Promise<BrowserWindow> {
@@ -73,8 +133,8 @@ async function getWindow(create: boolean = true): Promise<BrowserWindow | null> 
 	return null;
 }
 
-const _server: http.Server | null = null;
-async function getServer(create: boolean = true): Promise<http.Server | null> {
+const _server: Koa | null = null;
+async function getServer(create: boolean = true): Promise<Koa | null> {
 	if (_server) return _server;
 	if (create) return createServer();
 	return null;

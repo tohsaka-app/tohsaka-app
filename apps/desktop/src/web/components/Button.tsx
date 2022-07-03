@@ -6,10 +6,10 @@ export const Button: React.FC<ButtonProps> = ({ children, secondary }) => {
 	return (
 		<button
 			type="button"
-			className={`py-2 px-3 rounded flex gap-2 items-center group ${
+			className={`group flex items-center gap-2 rounded py-2 px-3 ${
 				secondary
-					? "text-white bg-neutral-600/80 text-sm hover:bg-neutral-600"
-					: "text-black bg-neutral-200 hover:bg-white"
+					? "bg-neutral-600/80 text-sm text-white hover:bg-neutral-600"
+					: "bg-neutral-200 text-black hover:bg-white"
 			}`}
 		>
 			{children}

@@ -2,11 +2,20 @@
   "name": "tohsaka-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "workspaces": [
+    "packages/*",
+    "apps/*"
+  ],
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "pnpm --filter \"...[origin/main]\" exec pnpm lint",
+    "bump": "pnpm --filter \"...[origin/main]\" exec pnpm version patch --no-workspaces-update --json",
+    "push": "pnpm -r --no-bail release || exit 0",
+    "build": "turbo run build"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^1.3.1"
+  }
 }

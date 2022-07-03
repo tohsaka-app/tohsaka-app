@@ -20,7 +20,7 @@ export const ShowListColumn: React.FC<ShowListColumnProps> = (props) => {
 	return (
 		<div className="flex flex-col gap-2">
 			<span className="font-bebas text-4xl text-white">{props.title}</span>
-			<ul className="flex overflow-x-hidden gap-2">
+			<ul className="flex gap-2 overflow-x-hidden">
 				{items.map((show, idx) => (
 					<ShowListItem
 						key={`${show.slug}-${idx}`}

@@ -13,10 +13,10 @@ createRoot(element).render(
 	<React.StrictMode>
 		<MemoryRouter>
 			<Routes>
-				<Route path="/" element={<App />}>
-					<Route path="discover" element={<Discover />} />
+				<Route element={<App />} path="/">
+					<Route element={<Discover />} path="discover" />
 					<Route path="watch">
-						<Route path=":slug" element={<Watch />} />
+						<Route element={<Watch />} path=":slug" />
 					</Route>
 				</Route>
 			</Routes>

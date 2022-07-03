@@ -9,7 +9,7 @@ export const ShowListItem: React.FC<ShowListItemProps> = ({ show, selected }) =>
 	return (
 		<li className={`flex shrink-0 border-2 ${selected ? "border-white" : "border-transparent"}`}>
 			<a href={`/watch/${show.slug}`}>
-				<img className="w-full h-64" src={`https://subsplease.org${show.poster_url}`} />
+				<img className="h-64 w-full" src={`https://subsplease.org${show.poster_url}`} />
 			</a>
 		</li>
 	);
