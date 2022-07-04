@@ -139,26 +139,13 @@ importers:
   packages/anime:
     specifiers:
       '@ariesclark/eslint-config': ^1.4.0
-      '@tohsaka/torrent': workspace:*
-      '@types/fluent-ffmpeg': ^2.1.20
-      '@types/ms': ^0.7.31
-      fluent-ffmpeg: ^2.1.2
-      kitsu: 10.0.0-alpha.24
-      ms: ^2.1.3
-      subtitle: ^4.2.1
+      '@types/node': 18.0.1
       ts-node: ^10.8.1
       typescript: ^4.7.4
-    dependencies:
-      '@tohsaka/torrent': link:../torrent
-      fluent-ffmpeg: 2.1.2
-      kitsu: 10.0.0-alpha.24
-      ms: 2.1.3
-      subtitle: 4.2.1
     devDependencies:
       '@ariesclark/eslint-config': 1.4.0_bn3y5sn7aa6hsplivwol7ie4em
-      '@types/fluent-ffmpeg': 2.1.20
-      '@types/ms': 0.7.31
-      ts-node: 10.8.2_typescript@4.7.4
+      '@types/node': 18.0.1
+      ts-node: 10.8.2_qqrtuuv3y2pz7xoxv47yka6pmi
       typescript: 4.7.4
 
   packages/subtitles:
@@ -1863,10 +1850,6 @@ packages:
     resolution: {integrity: sha512-Jus9s4CDbqwocc5pOAnh8ShfrnMcPHuJYzVcSUU7lrh8Ni5HuIqX3oilL86p3dlTrk0LzHRCgA/GQ7uNCw6l2Q==}
     dev: true
 
-  /@types/ms/0.7.31:
-    resolution: {integrity: sha512-iiUgKzV9AuaEkZqkOLDIvlQiL6ltuZd9tGcW3gwpnX8JbuiuhFlEGmmFXEXkN50Cvq7Os88IY2v0dkDqXYWVgA==}
-    dev: true
-
   /@types/multipipe/3.0.0:
     resolution: {integrity: sha512-CbhyiQkqlGTacMjyw64y1/jIFBJr0TKPefLyUyXmIhabNv5rA8X1+60ss3TjlLoM3JsK288HVyPwTnO0nHawJA==}
     dependencies:
@@ -2523,15 +2506,6 @@ packages:
     resolution: {integrity: sha512-LVAaGp/wkkgYJcjmHsoKx4juT1aQvJyPcW09MLCjVTh3V2cc6PnyempiLMNH5iMdfIX/zdbjUx2KDjMLCTdPeA==}
     engines: {node: '>=12'}
     dev: true
-
-  /axios/0.27.2:
-    resolution: {integrity: sha512-t+yRIyySRTp/wua5xEr+z1q60QmLq8ABsS5O9Me1AsE5dfKqgnCFzwiCZZ/cGNd1lq4/7akDWMxdhVlucjmnOQ==}
-    dependencies:
-      follow-redirects: 1.15.1
-      form-data: 4.0.0
-    transitivePeerDependencies:
-      - debug
-    dev: false
 
   /axobject-query/2.2.0:
     resolution: {integrity: sha512-Td525n+iPOOyUQIeBfcASuG6uJsDOITl7Mds5gFyerkWiX7qhUTdYUBlSgNMyVqtSJqwpt1kXGLdUt6SykLMRA==}
@@ -4862,16 +4836,6 @@ packages:
       which: 1.3.1
     dev: false
 
-  /follow-redirects/1.15.1:
-    resolution: {integrity: sha512-yLAMQs+k0b2m7cVxpS1VKJVvoz7SS9Td1zss3XRwXj+ZDH00RJgnuLx7E44wx02kQLrdM3aOOy+FpzS7+8OizA==}
-    engines: {node: '>=4.0'}
-    peerDependencies:
-      debug: '*'
-    peerDependenciesMeta:
-      debug:
-        optional: true
-    dev: false
-
   /form-data-encoder/1.7.2:
     resolution: {integrity: sha512-qfqtYan3rxrnCk1VYaA4H+Ms9xdpPqvLZa6xmMgFvhO32x7/3J/ExcTd6qpxM0vH2GdMI+poehyBZvqfMTto8A==}
     dev: false
@@ -5989,22 +5953,6 @@ packages:
       get-them-args: 1.3.2
       shell-exec: 1.0.2
     dev: true
-
-  /kitsu-core/10.0.0-alpha.24:
-    resolution: {integrity: sha512-m3MkPWbJpkT+kPIdj6/2vw9NWBm3C4+uwl/E6a6eYizhWViMZe+5nd8oZ+1B7cQ0wubkGf/SZG9mMWk5H0p0tg==}
-    engines: {node: '>= 14'}
-    dev: false
-
-  /kitsu/10.0.0-alpha.24:
-    resolution: {integrity: sha512-DmhRNc7Lb8lr1zsSoH5w1QSlE7sQNlCU+K/H51zZYlk0w4ScC8zl1TfVibLb+10bbbbAqMxPOpuNoWE0oVgrPQ==}
-    engines: {node: '>= 14'}
-    dependencies:
-      axios: 0.27.2
-      kitsu-core: 10.0.0-alpha.24
-      pluralize: 8.0.0
-    transitivePeerDependencies:
-      - debug
-    dev: false
 
   /koa-compose/4.1.0:
     resolution: {integrity: sha512-8ODW8TrDuMYvXRwra/Kh7/rJo9BtOfPc6qO8eAfC80CnCvSjSl0bkRM24X6/XBBEyj0v1nRUQ1LyOy3dbqOWXw==}
@@ -7233,11 +7181,6 @@ packages:
       xmldom: 0.1.31
     dev: false
     optional: true
-
-  /pluralize/8.0.0:
-    resolution: {integrity: sha512-Nc3IT5yHzflTfbjgqWcCPpo7DaKy4FnpB0l/zCAW0Tc7jxAiuqSxHasntB3D7887LSrA93kDJ9IXovxJYxyLCA==}
-    engines: {node: '>=4'}
-    dev: false
 
   /postcss-import/14.1.0_postcss@8.4.14:
     resolution: {integrity: sha512-flwI+Vgm4SElObFVPpTIT7SU7R3qk2L7PyduMcokiaVKuWv9d/U+Gm/QAd8NDLuykTWTkcrjOeD2Pp1rMeBTGw==}
