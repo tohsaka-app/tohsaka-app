@@ -95,7 +95,28 @@ export async function generateAvailable() {
 
 			await Promise.all(
 				data.map(async (value: any) => {
-					await writeFile(serialize(value), value.episodes.data.map(serializeEpisode), true);
+					const episodes = await Promise.all(
+						value.episodes.data.map(async (data: unknown) => {
+							const episode = serializeEpisode(data);
+							const key = `${episode.season}-${episode.number}`;
+							const diskEpisodes: Array<Episode> = JSON.parse(
+								await fs
+									.readFile(`./content/${value.slug.toLowerCase()}/episodes.json`, "utf-8")
+									.catch(() => "[]")
+							);
+
+							const matchedDiskEpisode = diskEpisodes.find((diskEpisode) => {
+								const diskKey = `${diskEpisode.season}-${diskEpisode.number}`;
+								console.log({ diskKey, key });
+								return diskKey === key;
+							});
+
+							if (matchedDiskEpisode) episode.content = matchedDiskEpisode.content;
+							return episode;
+						})
+					);
+
+					await writeFiles(serialize(value), episodes, true);
 				})
 			);
 		})
@@ -107,7 +128,7 @@ export async function generateAvailable() {
 	console.log(`finished in ${ms(performance.now() - startTs, { long: true })}`);
 }
 
-export async function writeFile(show: Show, episodes: Array<Episode>, override?: boolean) {
+export async function writeFiles(show: Show, episodes: Array<Episode>, override?: boolean) {
 	const slug = show.slug.toLowerCase();
 	const dirname = `./content/${slug}`;
 
@@ -119,12 +140,8 @@ export async function writeFile(show: Show, episodes: Array<Episode>, override?:
 	// eslint-disable-next-line @typescript-eslint/no-empty-function
 	await fs.mkdir(dirname, { recursive: true }).catch(() => {});
 
-	await Promise.all([
-		fs.writeFile(`${dirname}/kitsu.json`, JSON.stringify(show, null, 2)),
-		override
-			? Promise.resolve()
-			: fs.writeFile(`${dirname}/episodes.json`, JSON.stringify(episodes, null, 2))
-	]);
+	await fs.writeFile(`${dirname}/kitsu.json`, JSON.stringify(show, null, 2));
+	await fs.writeFile(`${dirname}/episodes.json`, JSON.stringify(episodes, null, 2));
 }
 
 export async function generateFiles(slugs: Array<string>) {
@@ -139,7 +156,7 @@ export async function generateFiles(slugs: Array<string>) {
 			}
 
 			const [show, episodes] = await generate(slug);
-			await writeFile(show, episodes);
+			await writeFiles(show, episodes);
 		})
 	);
 }
