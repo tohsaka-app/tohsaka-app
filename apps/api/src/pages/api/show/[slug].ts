@@ -18,5 +18,5 @@ export async function getShow(slug: string): Promise<Show> {
 
 export default async (req: NextApiRequest, res: NextApiResponse) => {
 	const { slug } = req.query as { slug: string };
-	res.json(await get());
+	res.json(await getShow(slug));
 };
