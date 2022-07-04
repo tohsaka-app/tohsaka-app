@@ -4,8 +4,8 @@
   "private": true,
   "scripts": {
     "generate": "graphql-codegen",
-    "dev": "pnpm generate && PORT=21404 next dev",
-    "build": "pnpm generate && next build",
+    "dev": "PORT=21404 next dev",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint --fix"
   },
