@@ -1,0 +1,5 @@
+schema: https://kitsu.io/api/graphql
+generates:
+  src/utils/kitsu/graphql.ts:
+    plugins:
+      - typescript

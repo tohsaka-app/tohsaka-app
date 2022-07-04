@@ -1,13 +1,18 @@
 import { PassThrough } from "stream";
 
-import { getTorrentFile } from "@tohsaka/torrent";
+import { client, getTorrent, getTorrentFile } from "@tohsaka/torrent";
 import { parse } from "subtitle";
 import ffmpeg from "fluent-ffmpeg";
 
 import { serialize } from "./serializer";
 
 export async function generate(hash: string): Promise<Array<string>> {
+	console.log(hash);
+	const torrent = await getTorrent(hash);
+	console.log(torrent.files.map((file, idx) => `${file.name} - ${idx}`).sort());
+
 	const file = await getTorrentFile(hash);
+	console.log(file.name);
 	const subtitles: Array<string> = [];
 
 	return new Promise((resolve) => {
