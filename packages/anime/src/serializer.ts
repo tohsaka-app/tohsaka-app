@@ -2,6 +2,7 @@ import { Episode, Show } from ".";
 
 export function serializeEpisode(data: any): Episode {
 	return {
+		id: data.id,
 		title: {
 			en: data.titles.en,
 			jp: data.titles.en_jp

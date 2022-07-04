@@ -80,6 +80,7 @@ export async function generateAvailable() {
 						categories: "title",
 						mappings: ["externalSite", "externalId"].join(),
 						episodes: [
+							"id",
 							"synopsis",
 							"titles",
 							"seasonNumber",
@@ -98,7 +99,6 @@ export async function generateAvailable() {
 					const episodes = await Promise.all(
 						value.episodes.data.map(async (data: unknown) => {
 							const episode = serializeEpisode(data);
-							const key = `${episode.season}-${episode.number}`;
 							const diskEpisodes: Array<Episode> = JSON.parse(
 								await fs
 									.readFile(`./content/${value.slug.toLowerCase()}/episodes.json`, "utf-8")
@@ -106,8 +106,7 @@ export async function generateAvailable() {
 							);
 
 							const matchedDiskEpisode = diskEpisodes.find((diskEpisode) => {
-								const diskKey = `${diskEpisode.season}-${diskEpisode.number}`;
-								return diskKey === key;
+								return episode.id === diskEpisode.id;
 							});
 
 							if (matchedDiskEpisode) episode.content = matchedDiskEpisode.content;

@@ -11,6 +11,7 @@ export const Rating = ["g", "pg", "r", "r18"] as const;
 export type Rating = typeof Rating[number];
 
 export interface Episode {
+	id: string;
 	title: Partial<Title>;
 	synopsis?: string;
 	season: number;
