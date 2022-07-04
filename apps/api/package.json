@@ -14,8 +14,6 @@
     "@tohsaka/types": "workspace:*",
     "graphql": "^16.5.0",
     "graphql-request": "^4.3.0",
-    "jsdom": "^20.0.0",
-    "mime": "^3.0.0",
     "next": "12.2.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
@@ -23,8 +21,6 @@
   "devDependencies": {
     "@ariesclark/eslint-config": "^1.4.0",
     "@graphql-codegen/typescript": "^2.5.1",
-    "@types/jsdom": "^16.2.14",
-    "@types/mime": "^2.0.3",
     "@types/node": "18.0.1",
     "@types/react": "18.0.14",
     "@types/react-dom": "18.0.5",
