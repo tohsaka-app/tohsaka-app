@@ -73,71 +73,72 @@ export async function transformAnime(data: GraphqlAnime): Promise<Anime> {
 	};
 }
 
-export async function getAnime(slug: string): Promise<Anime> {
-	return transformAnime(
-		(
-			await request(
-				"https://kitsu.io/api/graphql",
-				gql`
-					query getAnime($slug: String!) {
-						findAnimeBySlug(slug: $slug) {
-							slug
-							titles {
-								canonical
-								romanized
-								original
+export async function getAnime(slug: string): Promise<Anime | null> {
+	const raw = (
+		await request(
+			"https://kitsu.io/api/graphql",
+			gql`
+				query getAnime($slug: String!) {
+					findAnimeBySlug(slug: $slug) {
+						slug
+						titles {
+							canonical
+							romanized
+							original
+						}
+						description
+						subtype
+						status
+						ageRating
+						startDate
+						endDate
+						bannerImage {
+							original {
+								url
 							}
-							description
-							subtype
-							status
-							ageRating
-							startDate
-							endDate
-							bannerImage {
-								original {
-									url
+						}
+						posterImage {
+							original {
+								url
+							}
+						}
+						categories(first: 2000) {
+							nodes {
+								title
+							}
+						}
+						streamingLinks(first: 10) {
+							nodes {
+								url
+							}
+						}
+						episodes(first: 2000) {
+							nodes {
+								id
+								titles {
+									canonical
+									romanized
+									original
 								}
-							}
-							posterImage {
-								original {
-									url
-								}
-							}
-							categories(first: 2000) {
-								nodes {
-									title
-								}
-							}
-							streamingLinks(first: 10) {
-								nodes {
-									url
-								}
-							}
-							episodes(first: 2000) {
-								nodes {
-									id
-									titles {
-										canonical
-										romanized
-										original
-									}
-									description
-									number
-									releasedAt
-									thumbnail {
-										original {
-											url
-										}
+								description
+								number
+								releasedAt
+								thumbnail {
+									original {
+										url
 									}
 								}
 							}
 						}
 					}
-				`,
-				{
-					slug
 				}
-			)
-		).findAnimeBySlug
-	);
+			`,
+			{
+				slug
+			}
+		)
+	).findAnimeBySlug;
+
+	if (!raw) return null;
+	return transformAnime(raw);
 }

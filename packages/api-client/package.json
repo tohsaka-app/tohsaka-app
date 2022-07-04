@@ -1,23 +1,23 @@
 {
-  "name": "@tohsaka/types",
+  "name": "@tohsaka/api-client",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "index.js",
   "scripts": {
     "lint": "eslint ./src",
-    "build": "tsc",
-    "release": "pnpm publish --access=public"
+    "build": "tsc"
   },
-  "files": ["dist"],
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@ariesclark/eslint-config": "^1.4.0",
-    "@tohsaka/types": "workspace:*",
+    "@types/node": "18.0.1",
+    "ts-node": "^10.8.1",
     "typescript": "^4.7.4"
   },
   "dependencies": {
+    "@tohsaka/api-server": "workspace:*",
+    "@trpc/client": "^9.25.3"
   }
 }

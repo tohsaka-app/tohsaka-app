@@ -3,7 +3,10 @@ require("@ariesclark/eslint-config/eslint-patch");
 
 module.exports = {
 	root: true,
-	extends: ["@ariesclark/eslint-config", "@ariesclark/eslint-config/dist/atoms/node"],
+	extends: [
+		"@ariesclark/eslint-config",
+		"@ariesclark/eslint-config/dist/atoms/node",
+	],
 	parserOptions: {
 		tsconfigRootDir: __dirname
 	}

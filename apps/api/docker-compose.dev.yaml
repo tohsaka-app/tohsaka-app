@@ -1,0 +1,7 @@
+services:
+  caddy:
+    environment:
+      CADDY_DOMAIN: localhost
+volumes:
+  caddyData:
+  caddyConfig:

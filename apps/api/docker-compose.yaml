@@ -1,0 +1,19 @@
+services:
+  caddy:
+    depends_on:
+      - backend
+    image: caddy
+    restart: unless-stopped
+    ports:
+      - 443:443
+    volumes:
+      - $PWD/Caddyfile:/etc/caddy/Caddyfile
+      - caddyData:/data
+      - caddyConfig:/config
+    environment:
+      CADDY_DOMAIN: api.tohsaka.app
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+volumes:
+  caddyData:
+  caddyConfig:
