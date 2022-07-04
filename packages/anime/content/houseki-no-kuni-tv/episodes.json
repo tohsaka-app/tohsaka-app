@@ -1,5 +1,6 @@
 [
   {
+    "id": "229824",
     "title": {
       "en": "Phosphophyllite",
       "jp": "Phosphophyllite"
@@ -12,6 +13,7 @@
     "content": {}
   },
   {
+    "id": "229825",
     "title": {
       "en": "Diamond",
       "jp": "Diamond"
@@ -24,6 +26,7 @@
     "content": {}
   },
   {
+    "id": "229826",
     "title": {
       "en": "Metamorphose",
       "jp": "Metamorphose"
@@ -36,6 +39,7 @@
     "content": {}
   },
   {
+    "id": "229827",
     "title": {
       "en": "Soul - Flesh - Bone",
       "jp": "Tamashii - Niku - Hone"
@@ -48,6 +52,7 @@
     "content": {}
   },
   {
+    "id": "229828",
     "title": {
       "en": "Return",
       "jp": "Kikan"
@@ -60,6 +65,7 @@
     "content": {}
   },
   {
+    "id": "229829",
     "title": {
       "en": "First Battle",
       "jp": "Uijin"
@@ -72,6 +78,7 @@
     "content": {}
   },
   {
+    "id": "229830",
     "title": {
       "en": "Hibernation",
       "jp": "Toumin"
@@ -84,6 +91,7 @@
     "content": {}
   },
   {
+    "id": "229831",
     "title": {
       "en": "Antarcticite",
       "jp": "Antarcticite"
@@ -96,6 +104,7 @@
     "content": {}
   },
   {
+    "id": "229832",
     "title": {
       "en": "Spring",
       "jp": "Haru"
@@ -108,6 +117,7 @@
     "content": {}
   },
   {
+    "id": "229833",
     "title": {
       "en": "White",
       "jp": "Shiro"
@@ -118,6 +128,7 @@
     "content": {}
   },
   {
+    "id": "229834",
     "title": {
       "jp": "Himitsu"
     },
@@ -127,6 +138,7 @@
     "content": {}
   },
   {
+    "id": "229835",
     "title": {
       "jp": "Atarashii Shigoto"
     },

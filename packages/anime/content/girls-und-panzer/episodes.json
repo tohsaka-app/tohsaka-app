@@ -1,5 +1,6 @@
 [
   {
+    "id": "101101",
     "title": {
       "jp": "Sensha-dou, Hajimemasu!"
     },
@@ -11,6 +12,7 @@
     "content": {}
   },
   {
+    "id": "101102",
     "title": {
       "jp": "Sensha, Norimasu!"
     },
@@ -22,6 +24,7 @@
     "content": {}
   },
   {
+    "id": "101103",
     "title": {
       "jp": "Shiai, Yarimasu!"
     },
@@ -33,6 +36,7 @@
     "content": {}
   },
   {
+    "id": "101104",
     "title": {
       "jp": "Taichou, Ganbarimasu!"
     },
@@ -44,6 +48,7 @@
     "content": {}
   },
   {
+    "id": "101105",
     "title": {
       "jp": "Kyougou Sherman Gundan desu!"
     },
@@ -55,6 +60,7 @@
     "content": {}
   },
   {
+    "id": "101106",
     "title": {
       "jp": "Ikkaisen, Hakunetsu Shitemasu!"
     },
@@ -66,6 +72,7 @@
     "content": {}
   },
   {
+    "id": "101107",
     "title": {
       "jp": "Tsugi wa Anzio desu!"
     },
@@ -77,6 +84,7 @@
     "content": {}
   },
   {
+    "id": "101108",
     "title": {
       "jp": "Pravda Sen desu!"
     },
@@ -88,6 +96,7 @@
     "content": {}
   },
   {
+    "id": "101109",
     "title": {
       "jp": "Zettai Zetsumei desu!"
     },
@@ -99,6 +108,7 @@
     "content": {}
   },
   {
+    "id": "101110",
     "title": {
       "jp": "Classmate desu!"
     },
@@ -110,6 +120,7 @@
     "content": {}
   },
   {
+    "id": "101111",
     "title": {
       "jp": "Gekisen desu!"
     },
@@ -121,6 +132,7 @@
     "content": {}
   },
   {
+    "id": "101112",
     "title": {
       "jp": "Ato ni wa Hikenai Tatakai desu!"
     },

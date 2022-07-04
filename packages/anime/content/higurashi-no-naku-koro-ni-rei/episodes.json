@@ -1,5 +1,6 @@
 [
   {
+    "id": "53300",
     "title": {
       "en": "Embarrassment Chapter",
       "jp": "Hajisarashi Hen"
@@ -11,6 +12,7 @@
     "content": {}
   },
   {
+    "id": "53301",
     "title": {
       "en": "Dice Killing Chapter One",
       "jp": "Saikoroshi Hen Sono Ichi"
@@ -22,6 +24,7 @@
     "content": {}
   },
   {
+    "id": "53302",
     "title": {
       "en": "Dice Killing Chapter Two",
       "jp": "Saikoroshi Hen Sono Ni"
@@ -33,6 +36,7 @@
     "content": {}
   },
   {
+    "id": "53303",
     "title": {
       "en": "Dice Killing Chapter Three",
       "jp": "Saikoroshi Hen Sono San"
@@ -44,6 +48,7 @@
     "content": {}
   },
   {
+    "id": "53304",
     "title": {
       "en": "Daybreak Chapter",
       "jp": "Hirukowashi Hen"

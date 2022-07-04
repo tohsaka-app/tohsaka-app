@@ -1,5 +1,6 @@
 [
   {
+    "id": "97420",
     "title": {
       "jp": "Acceleration"
     },
@@ -11,6 +12,7 @@
     "content": {}
   },
   {
+    "id": "97421",
     "title": {
       "jp": "Transformation"
     },
@@ -22,6 +24,7 @@
     "content": {}
   },
   {
+    "id": "97422",
     "title": {
       "jp": "Investigation"
     },
@@ -33,6 +36,7 @@
     "content": {}
   },
   {
+    "id": "97423",
     "title": {
       "jp": "Declaration"
     },
@@ -44,6 +48,7 @@
     "content": {}
   },
   {
+    "id": "97424",
     "title": {
       "jp": "Aviation"
     },
@@ -55,6 +60,7 @@
     "content": {}
   },
   {
+    "id": "97425",
     "title": {
       "jp": "Retribution"
     },
@@ -66,6 +72,7 @@
     "content": {}
   },
   {
+    "id": "97426",
     "title": {
       "jp": "Restoration"
     },
@@ -77,6 +84,7 @@
     "content": {}
   },
   {
+    "id": "97427",
     "title": {
       "jp": "Temptation"
     },
@@ -88,6 +96,7 @@
     "content": {}
   },
   {
+    "id": "97428",
     "title": {
       "jp": "Gekika"
     },
@@ -99,6 +108,7 @@
     "content": {}
   },
   {
+    "id": "97429",
     "title": {
       "jp": "Activation;Shutsugeki"
     },
@@ -110,6 +120,7 @@
     "content": {}
   },
   {
+    "id": "97430",
     "title": {
       "jp": "Obligation;Shukumei"
     },
@@ -121,6 +132,7 @@
     "content": {}
   },
   {
+    "id": "97431",
     "title": {
       "jp": "Absolution;Yousha"
     },
@@ -132,6 +144,7 @@
     "content": {}
   },
   {
+    "id": "97432",
     "title": {
       "jp": "Violation;Shinnyuu"
     },
@@ -143,6 +156,7 @@
     "content": {}
   },
   {
+    "id": "97433",
     "title": {
       "jp": "Arrestation;Sakuryaku"
     },
@@ -154,6 +168,7 @@
     "content": {}
   },
   {
+    "id": "97434",
     "title": {
       "jp": "Destruction;Houkai"
     },
@@ -165,6 +180,7 @@
     "content": {}
   },
   {
+    "id": "97435",
     "title": {
       "jp": "Imagination;Omokage"
     },
@@ -176,6 +192,7 @@
     "content": {}
   },
   {
+    "id": "97436",
     "title": {
       "jp": "Fragmentation;Bunretsu"
     },
@@ -187,6 +204,7 @@
     "content": {}
   },
   {
+    "id": "97437",
     "title": {
       "jp": "Invitation;Chousen"
     },
@@ -198,6 +216,7 @@
     "content": {}
   },
   {
+    "id": "97438",
     "title": {
       "jp": "Revolution;Hensen"
     },
@@ -209,6 +228,7 @@
     "content": {}
   },
   {
+    "id": "97439",
     "title": {
       "jp": "Domination;Shihai"
     },
@@ -220,6 +240,7 @@
     "content": {}
   },
   {
+    "id": "97440",
     "title": {
       "jp": "Insurrection;Hangyaku"
     },
@@ -231,6 +252,7 @@
     "content": {}
   },
   {
+    "id": "97441",
     "title": {
       "jp": "Determination;Ketsui"
     },
@@ -242,6 +264,7 @@
     "content": {}
   },
   {
+    "id": "97442",
     "title": {
       "jp": "Consolidation;Kizuna"
     },
@@ -253,6 +276,7 @@
     "content": {}
   },
   {
+    "id": "97443",
     "title": {
       "jp": "Reincarnation;Saisei"
     },

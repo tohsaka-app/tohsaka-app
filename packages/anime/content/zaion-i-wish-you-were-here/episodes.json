@@ -1,5 +1,6 @@
 [
   {
+    "id": "159026",
     "title": {
       "jp": "Encounter"
     },
@@ -11,6 +12,7 @@
     "content": {}
   },
   {
+    "id": "159035",
     "title": {
       "jp": "Farewell"
     },
@@ -22,6 +24,7 @@
     "content": {}
   },
   {
+    "id": "159040",
     "title": {
       "jp": "Notice"
     },
@@ -33,6 +36,7 @@
     "content": {}
   },
   {
+    "id": "159046",
     "title": {
       "jp": "Presence"
     },

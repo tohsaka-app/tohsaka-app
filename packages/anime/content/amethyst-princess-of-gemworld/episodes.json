@@ -1,5 +1,6 @@
 [
   {
+    "id": "170438",
     "title": {
       "jp": "Level 1: Your Quest"
     },
@@ -10,6 +11,7 @@
     "content": {}
   },
   {
+    "id": "170454",
     "title": {
       "jp": "Level 2: Village of the Frogs"
     },
@@ -20,6 +22,7 @@
     "content": {}
   },
   {
+    "id": "170453",
     "title": {
       "jp": "Level 3: Random Encounter"
     },
@@ -30,6 +33,7 @@
     "content": {}
   },
   {
+    "id": "170441",
     "title": {
       "jp": "Level 4: The Turquoise Cave"
     },
@@ -40,6 +44,7 @@
     "content": {}
   },
   {
+    "id": "1168",
     "title": {
       "jp": "Level 5: Battle in the Stormy Peaks"
     },
@@ -50,6 +55,7 @@
     "content": {}
   },
   {
+    "id": "1166",
     "title": {
       "jp": "Level 6: The Final Boss"
     },
@@ -60,6 +66,7 @@
     "content": {}
   },
   {
+    "id": "199331",
     "title": {},
     "season": 1,
     "number": 7,

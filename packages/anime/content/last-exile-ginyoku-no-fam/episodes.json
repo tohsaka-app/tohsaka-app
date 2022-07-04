@@ -1,5 +1,6 @@
 [
   {
+    "id": "172027",
     "title": {
       "jp": "Open File"
     },
@@ -10,6 +11,7 @@
     "content": {}
   },
   {
+    "id": "172028",
     "title": {
       "jp": "Fool's Mate"
     },
@@ -20,6 +22,7 @@
     "content": {}
   },
   {
+    "id": "172029",
     "title": {
       "jp": "Light Square"
     },
@@ -30,6 +33,7 @@
     "content": {}
   },
   {
+    "id": "172030",
     "title": {
       "jp": "Dubious Move"
     },
@@ -40,6 +44,7 @@
     "content": {}
   },
   {
+    "id": "172031",
     "title": {
       "jp": "Touch and Move"
     },
@@ -50,6 +55,7 @@
     "content": {}
   },
   {
+    "id": "172032",
     "title": {
       "jp": "Over Step"
     },
@@ -60,6 +66,7 @@
     "content": {}
   },
   {
+    "id": "172033",
     "title": {
       "jp": "Weak Square"
     },
@@ -70,6 +77,7 @@
     "content": {}
   },
   {
+    "id": "172034",
     "title": {
       "jp": "Distraction"
     },
@@ -80,6 +88,7 @@
     "content": {}
   },
   {
+    "id": "172035",
     "title": {
       "jp": "Connected Passed Pawn"
     },
@@ -90,6 +99,7 @@
     "content": {}
   },
   {
+    "id": "172036",
     "title": {
       "jp": "First Adjournment"
     },
@@ -100,6 +110,7 @@
     "content": {}
   },
   {
+    "id": "172037",
     "title": {
       "jp": "Illegal Move"
     },
@@ -110,6 +121,7 @@
     "content": {}
   },
   {
+    "id": "172038",
     "title": {
       "jp": "Backward Pawn"
     },
@@ -120,6 +132,7 @@
     "content": {}
   },
   {
+    "id": "172039",
     "title": {
       "jp": "Block"
     },
@@ -130,6 +143,7 @@
     "content": {}
   },
   {
+    "id": "172040",
     "title": {
       "jp": "Bad Move"
     },
@@ -140,6 +154,7 @@
     "content": {}
   },
   {
+    "id": "172041",
     "title": {
       "jp": "Smothered Mate"
     },
@@ -150,6 +165,7 @@
     "content": {}
   },
   {
+    "id": "172042",
     "title": {
       "jp": "Triangulation"
     },
@@ -160,6 +176,7 @@
     "content": {}
   },
   {
+    "id": "172043",
     "title": {
       "jp": "Second Adjournment"
     },
@@ -170,6 +187,7 @@
     "content": {}
   },
   {
+    "id": "172044",
     "title": {
       "jp": "Automaton"
     },
@@ -180,6 +198,7 @@
     "content": {}
   },
   {
+    "id": "172045",
     "title": {
       "jp": "Dynamic Possibilities"
     },
@@ -190,6 +209,7 @@
     "content": {}
   },
   {
+    "id": "172046",
     "title": {
       "jp": "Transposition"
     },
@@ -200,6 +220,7 @@
     "content": {}
   },
   {
+    "id": "172047",
     "title": {
       "jp": "Queening Square"
     },

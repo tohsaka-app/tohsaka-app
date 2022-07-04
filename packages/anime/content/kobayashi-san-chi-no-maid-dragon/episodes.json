@@ -1,5 +1,6 @@
 [
   {
+    "id": "191365",
     "title": {
       "en": "The Strongest Maid in History, Tohru! (Well, She is a Dragon)",
       "jp": "Shijou Saikyou no Maid, Tooru! (Maa Dragon desukara)"
@@ -11,6 +12,7 @@
     "content": {}
   },
   {
+    "id": "199251",
     "title": {
       "jp": "Dai-2 no Dragon, Kanna! (Netabare Zenkai desu ne)"
     },
@@ -20,6 +22,7 @@
     "content": {}
   },
   {
+    "id": "199252",
     "title": {
       "jp": "Shinseikatsu, Hajimaru! (Mochiron Umaku Ikimasen)"
     },
@@ -29,6 +32,7 @@
     "content": {}
   },
   {
+    "id": "199253",
     "title": {
       "jp": "Kanna, Gakkou ni Iku! (Sono Hitsuyou wa Nain Desu ga)"
     },
@@ -38,6 +42,7 @@
     "content": {}
   },
   {
+    "id": "199254",
     "title": {
       "jp": "Thor no Shakai Benkyou! (Honnin wa Dekiteru Tsumori Desu)"
     },
@@ -47,6 +52,7 @@
     "content": {}
   },
   {
+    "id": "199255",
     "title": {
       "jp": "Otaku Houmon! (Shitenai Otaku mo Arimasu) (お宅訪問!"
     },
@@ -56,6 +62,7 @@
     "content": {}
   },
   {
+    "id": "199256",
     "title": {
       "jp": "Natsu no Teiban! (Bucchake Tekoire-kai Desu ne) (夏の定番!"
     },
@@ -65,6 +72,7 @@
     "content": {}
   },
   {
+    "id": "199257",
     "title": {
       "jp": "Aratanaru Dragon, Elma! (Yatto Detekimashitaka) (新たなるドラゴン, エルマ!"
     },
@@ -74,6 +82,7 @@
     "content": {}
   },
   {
+    "id": "199258",
     "title": {
       "jp": "Undoukai! (Hineri mo Nani mo Nai Desu ne) (運動会!"
     },
@@ -83,6 +92,7 @@
     "content": {}
   },
   {
+    "id": "199259",
     "title": {
       "jp": "Gekidan Dragon, on Stage! (Gekidan-mei Attan Desu ne) (劇団ドラゴン, オンステージ!"
     },
@@ -92,6 +102,7 @@
     "content": {}
   },
   {
+    "id": "199260",
     "title": {
       "jp": "Nenmatsu Nenshi! (Komike Neta Arimasen) (年末年始!"
     },
@@ -101,6 +112,7 @@
     "content": {}
   },
   {
+    "id": "199261",
     "title": {
       "jp": "Tooru to Kobayashi, Kandou no Deai! (Jibun de Hurdle Agetemasu ne) (トールと小林, 感動の出会い!"
     },
@@ -110,6 +122,7 @@
     "content": {}
   },
   {
+    "id": "199262",
     "title": {},
     "season": 1,
     "number": 13,

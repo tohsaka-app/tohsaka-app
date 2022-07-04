@@ -1,5 +1,6 @@
 [
   {
+    "id": "201102",
     "title": {
       "jp": "Mienai Kikoenai"
     },
@@ -9,6 +10,7 @@
     "content": {}
   },
   {
+    "id": "201103",
     "title": {
       "jp": "Anata Shika Inai"
     },
@@ -18,6 +20,7 @@
     "content": {}
   },
   {
+    "id": "201104",
     "title": {
       "jp": "Itsuka Dareka ga..."
     },
@@ -27,6 +30,7 @@
     "content": {}
   },
   {
+    "id": "201105",
     "title": {
       "jp": "Watashi wo Fukaku Umete"
     },
@@ -36,6 +40,7 @@
     "content": {}
   },
   {
+    "id": "201106",
     "title": {
       "jp": "Kaze no Uta ga Kikoeru"
     },
@@ -45,6 +50,7 @@
     "content": {}
   },
   {
+    "id": "201107",
     "title": {
       "jp": "Ayaori"
     },
@@ -54,36 +60,42 @@
     "content": {}
   },
   {
+    "id": "201108",
     "title": {},
     "season": 1,
     "number": 7,
     "content": {}
   },
   {
+    "id": "201109",
     "title": {},
     "season": 1,
     "number": 8,
     "content": {}
   },
   {
+    "id": "201110",
     "title": {},
     "season": 1,
     "number": 9,
     "content": {}
   },
   {
+    "id": "201111",
     "title": {},
     "season": 1,
     "number": 10,
     "content": {}
   },
   {
+    "id": "201112",
     "title": {},
     "season": 1,
     "number": 11,
     "content": {}
   },
   {
+    "id": "201113",
     "title": {},
     "season": 1,
     "number": 12,

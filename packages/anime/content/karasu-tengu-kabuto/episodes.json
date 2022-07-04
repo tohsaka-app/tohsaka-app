@@ -1,11 +1,13 @@
 [
   {
+    "id": "170880",
     "title": {},
     "season": 1,
     "number": 1,
     "content": {}
   },
   {
+    "id": "34571",
     "title": {
       "jp": "Awaken the Youken Hiryuu"
     },
@@ -15,6 +17,7 @@
     "content": {}
   },
   {
+    "id": "34572",
     "title": {
       "jp": "The four gods appear now!"
     },
@@ -24,6 +27,7 @@
     "content": {}
   },
   {
+    "id": "34573",
     "title": {
       "jp": "Dark Palace! Onimen City"
     },
@@ -33,6 +37,7 @@
     "content": {}
   },
   {
+    "id": "34574",
     "title": {
       "jp": "Death Match! The route to Donryouzen"
     },
@@ -42,6 +47,7 @@
     "content": {}
   },
   {
+    "id": "34575",
     "title": {
       "jp": "Swords of the Extreme Dungeon"
     },
@@ -51,6 +57,7 @@
     "content": {}
   },
   {
+    "id": "34576",
     "title": {
       "jp": "Roaring Daryuuga! Reply to Jyobunshou"
     },
@@ -60,6 +67,7 @@
     "content": {}
   },
   {
+    "id": "34577",
     "title": {
       "jp": "Ship of Turtle Armor Appears"
     },
@@ -69,6 +77,7 @@
     "content": {}
   },
   {
+    "id": "34578",
     "title": {
       "jp": "Awakened Shinryuu! In Seiryuu's Hand"
     },
@@ -78,6 +87,7 @@
     "content": {}
   },
   {
+    "id": "34579",
     "title": {
       "jp": "Run Suzaku! Guardian of the South"
     },
@@ -87,6 +97,7 @@
     "content": {}
   },
   {
+    "id": "34580",
     "title": {
       "jp": "Tengu's Four Gods Gather in the Wilderness"
     },
@@ -96,6 +107,7 @@
     "content": {}
   },
   {
+    "id": "34581",
     "title": {
       "jp": "Awaken, Dragon Swastika Boat! The Long Slumber Beneath the Sea"
     },
@@ -105,6 +117,7 @@
     "content": {}
   },
   {
+    "id": "34582",
     "title": {
       "jp": "Dragon Swastika Boat Set Off"
     },
@@ -114,6 +127,7 @@
     "content": {}
   },
   {
+    "id": "34583",
     "title": {
       "jp": "Battle! Swastika vs Onimen"
     },
@@ -123,96 +137,112 @@
     "content": {}
   },
   {
+    "id": "170881",
     "title": {},
     "season": 1,
     "number": 15,
     "content": {}
   },
   {
+    "id": "170882",
     "title": {},
     "season": 2,
     "number": 16,
     "content": {}
   },
   {
+    "id": "170883",
     "title": {},
     "season": 2,
     "number": 17,
     "content": {}
   },
   {
+    "id": "170884",
     "title": {},
     "season": 2,
     "number": 18,
     "content": {}
   },
   {
+    "id": "170885",
     "title": {},
     "season": 2,
     "number": 19,
     "content": {}
   },
   {
+    "id": "170886",
     "title": {},
     "season": 2,
     "number": 20,
     "content": {}
   },
   {
+    "id": "170887",
     "title": {},
     "season": 2,
     "number": 21,
     "content": {}
   },
   {
+    "id": "170888",
     "title": {},
     "season": 2,
     "number": 22,
     "content": {}
   },
   {
+    "id": "170889",
     "title": {},
     "season": 2,
     "number": 23,
     "content": {}
   },
   {
+    "id": "170890",
     "title": {},
     "season": 2,
     "number": 24,
     "content": {}
   },
   {
+    "id": "170891",
     "title": {},
     "season": 2,
     "number": 25,
     "content": {}
   },
   {
+    "id": "170892",
     "title": {},
     "season": 2,
     "number": 26,
     "content": {}
   },
   {
+    "id": "170893",
     "title": {},
     "season": 2,
     "number": 27,
     "content": {}
   },
   {
+    "id": "170894",
     "title": {},
     "season": 2,
     "number": 28,
     "content": {}
   },
   {
+    "id": "34584",
     "title": {},
     "season": 2,
     "number": 29,
     "content": {}
   },
   {
+    "id": "170895",
     "title": {
       "jp": "Bloodied Fortress"
     },
@@ -222,6 +252,7 @@
     "content": {}
   },
   {
+    "id": "170896",
     "title": {
       "jp": "Tengu's Destiny Star Drops"
     },
@@ -231,6 +262,7 @@
     "content": {}
   },
   {
+    "id": "170897",
     "title": {
       "jp": "New Onimen City's Battle"
     },
@@ -240,6 +272,7 @@
     "content": {}
   },
   {
+    "id": "170898",
     "title": {
       "jp": "Secret of the Five Bright Stars"
     },
@@ -249,6 +282,7 @@
     "content": {}
   },
   {
+    "id": "170899",
     "title": {
       "jp": "Spirit Pirate Ship, Kuroumaru"
     },
@@ -258,6 +292,7 @@
     "content": {}
   },
   {
+    "id": "170902",
     "title": {
       "jp": "City of Thousand Burials, Death Plan"
     },
@@ -267,6 +302,7 @@
     "content": {}
   },
   {
+    "id": "170903",
     "title": {
       "jp": "Death Match. Kabuto vs. Tensou"
     },
@@ -276,6 +312,7 @@
     "content": {}
   },
   {
+    "id": "170905",
     "title": {
       "jp": "Tendou. Demon of the Wood"
     },
@@ -285,6 +322,7 @@
     "content": {}
   },
   {
+    "id": "170907",
     "title": {
       "jp": "Forest of Hell. Seigenji"
     },
@@ -294,6 +332,7 @@
     "content": {}
   },
   {
+    "id": "170909",
     "title": {
       "jp": "Nemeses!! Suzaku vs. Yashahime"
     },

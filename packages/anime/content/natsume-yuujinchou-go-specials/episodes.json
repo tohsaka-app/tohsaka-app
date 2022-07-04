@@ -1,5 +1,6 @@
 [
   {
+    "id": "200000",
     "title": {
       "en": "One Night Sake Cup",
       "jp": "Hitoyosakazuki"
@@ -12,6 +13,7 @@
     "content": {}
   },
   {
+    "id": "200001",
     "title": {
       "en": "Party of Fun and Games",
       "jp": "Yuugi no Utage"

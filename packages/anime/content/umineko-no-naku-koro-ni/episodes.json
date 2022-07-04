@@ -1,5 +1,6 @@
 [
   {
+    "id": "63871",
     "title": {
       "jp": "Opening"
     },
@@ -11,6 +12,7 @@
     "content": {}
   },
   {
+    "id": "63872",
     "title": {
       "jp": "First Move"
     },
@@ -22,6 +24,7 @@
     "content": {}
   },
   {
+    "id": "63873",
     "title": {
       "jp": "Dubious Move"
     },
@@ -33,6 +36,7 @@
     "content": {}
   },
   {
+    "id": "63874",
     "title": {
       "jp": "Blunder"
     },
@@ -44,6 +48,7 @@
     "content": {}
   },
   {
+    "id": "63875",
     "title": {
       "jp": "Fool's Mate"
     },
@@ -55,6 +60,7 @@
     "content": {}
   },
   {
+    "id": "63876",
     "title": {
       "jp": "Middle Game"
     },
@@ -66,6 +72,7 @@
     "content": {}
   },
   {
+    "id": "63877",
     "title": {
       "jp": "Early Queen Move"
     },
@@ -77,6 +84,7 @@
     "content": {}
   },
   {
+    "id": "63878",
     "title": {
       "jp": "Week Square"
     },
@@ -88,6 +96,7 @@
     "content": {}
   },
   {
+    "id": "63879",
     "title": {
       "jp": "Skewer"
     },
@@ -99,6 +108,7 @@
     "content": {}
   },
   {
+    "id": "63880",
     "title": {
       "jp": "Accept"
     },
@@ -110,6 +120,7 @@
     "content": {}
   },
   {
+    "id": "63881",
     "title": {
       "jp": "Back Rank Mate"
     },
@@ -120,6 +131,7 @@
     "content": {}
   },
   {
+    "id": "63882",
     "title": {
       "jp": "Castling"
     },
@@ -130,6 +142,7 @@
     "content": {}
   },
   {
+    "id": "63883",
     "title": {
       "jp": "Gambit"
     },
@@ -140,6 +153,7 @@
     "content": {}
   },
   {
+    "id": "63884",
     "title": {
       "jp": "Positional Play"
     },
@@ -150,6 +164,7 @@
     "content": {}
   },
   {
+    "id": "63885",
     "title": {
       "jp": "Isolated Pawn"
     },
@@ -160,6 +175,7 @@
     "content": {}
   },
   {
+    "id": "63886",
     "title": {
       "jp": "Queening Square"
     },
@@ -170,6 +186,7 @@
     "content": {}
   },
   {
+    "id": "63887",
     "title": {
       "jp": "Promotion"
     },
@@ -180,6 +197,7 @@
     "content": {}
   },
   {
+    "id": "63888",
     "title": {
       "jp": "Swindles"
     },
@@ -190,6 +208,7 @@
     "content": {}
   },
   {
+    "id": "63889",
     "title": {
       "jp": "End Game"
     },
@@ -200,6 +219,7 @@
     "content": {}
   },
   {
+    "id": "63890",
     "title": {
       "jp": "Zugzwang"
     },
@@ -210,6 +230,7 @@
     "content": {}
   },
   {
+    "id": "63891",
     "title": {
       "jp": "Prophylaxis"
     },
@@ -220,6 +241,7 @@
     "content": {}
   },
   {
+    "id": "63892",
     "title": {
       "jp": "Problem Child"
     },
@@ -230,6 +252,7 @@
     "content": {}
   },
   {
+    "id": "63893",
     "title": {
       "jp": "Breakthrough"
     },
@@ -240,6 +263,7 @@
     "content": {}
   },
   {
+    "id": "63894",
     "title": {
       "jp": "Adjourn"
     },
@@ -250,6 +274,7 @@
     "content": {}
   },
   {
+    "id": "63895",
     "title": {
       "jp": "Forced Move"
     },
@@ -260,6 +285,7 @@
     "content": {}
   },
   {
+    "id": "63896",
     "title": {
       "jp": "Sacrifice"
     },

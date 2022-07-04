@@ -1,5 +1,6 @@
 [
   {
+    "id": "38102",
     "title": {
       "jp": "His Name is Captain"
     },
@@ -11,6 +12,7 @@
     "content": {}
   },
   {
+    "id": "38103",
     "title": {
       "jp": "Soul Drive, Activate!"
     },
@@ -22,6 +24,7 @@
     "content": {}
   },
   {
+    "id": "38104",
     "title": {
       "jp": "Zero, the Flying Knight"
     },
@@ -33,6 +36,7 @@
     "content": {}
   },
   {
+    "id": "38105",
     "title": {
       "jp": "Attack the Enemy Musai! "
     },
@@ -44,6 +48,7 @@
     "content": {}
   },
   {
+    "id": "38106",
     "title": {
       "jp": "Gundam Force, Team Up!"
     },
@@ -55,6 +60,7 @@
     "content": {}
   },
   {
+    "id": "38107",
     "title": {
       "jp": "The Blazing Samurai Comes to Neotopia"
     },
@@ -66,6 +72,7 @@
     "content": {}
   },
   {
+    "id": "38108",
     "title": {
       "jp": "Go! Gunbike!"
     },
@@ -77,6 +84,7 @@
     "content": {}
   },
   {
+    "id": "38109",
     "title": {
       "jp": "A Princess, A Cake, and the Winged Knight"
     },
@@ -88,6 +96,7 @@
     "content": {}
   },
   {
+    "id": "38110",
     "title": {
       "jp": "Bakunetsumaru's Struggle"
     },
@@ -99,6 +108,7 @@
     "content": {}
   },
   {
+    "id": "38111",
     "title": {
       "jp": "Gundam Force Triple Attack!"
     },
@@ -110,6 +120,7 @@
     "content": {}
   },
   {
+    "id": "38112",
     "title": {
       "jp": "The Mystery of Lacroa Part (1): Arrival "
     },
@@ -121,6 +132,7 @@
     "content": {}
   },
   {
+    "id": "38113",
     "title": {
       "jp": "The Mystery of Lacroa Part (2): Trapped"
     },
@@ -132,6 +144,7 @@
     "content": {}
   },
   {
+    "id": "38114",
     "title": {
       "jp": "The Mystery of Lacroa Part (3): Return"
     },
@@ -143,6 +156,7 @@
     "content": {}
   },
   {
+    "id": "38115",
     "title": {
       "jp": "Undercover Mission! Learn the Gundam Force's Secrets"
     },
@@ -154,6 +168,7 @@
     "content": {}
   },
   {
+    "id": "38116",
     "title": {
       "jp": "Mach Wings: GunEagle!"
     },
@@ -165,6 +180,7 @@
     "content": {}
   },
   {
+    "id": "38117",
     "title": {
       "jp": "Masters of the Deep Sea: GunDivers!"
     },
@@ -176,6 +192,7 @@
     "content": {}
   },
   {
+    "id": "38118",
     "title": {
       "jp": "Ashuramaru: The Old Rival Returns"
     },
@@ -187,6 +204,7 @@
     "content": {}
   },
   {
+    "id": "38119",
     "title": {
       "jp": "Fly, Captain! The SDG Base Hangs by a Thread!"
     },
@@ -198,6 +216,7 @@
     "content": {}
   },
   {
+    "id": "38120",
     "title": {
       "jp": "Showdown! Bakunetsumaru vs. Ashuramaru"
     },
@@ -209,6 +228,7 @@
     "content": {}
   },
   {
+    "id": "38121",
     "title": {
       "jp": "Fenn's Disaster"
     },
@@ -220,6 +240,7 @@
     "content": {}
   },
   {
+    "id": "38122",
     "title": {
       "jp": "Awakening! Feather Dragon"
     },
@@ -231,6 +252,7 @@
     "content": {}
   },
   {
+    "id": "38123",
     "title": {
       "jp": "Attack of the Big-Zam"
     },
@@ -242,6 +264,7 @@
     "content": {}
   },
   {
+    "id": "38124",
     "title": {
       "jp": "Fire Up! Captain System"
     },
@@ -253,6 +276,7 @@
     "content": {}
   },
   {
+    "id": "38125",
     "title": {
       "jp": "Trouble! Stolen Soul Drive"
     },
@@ -264,6 +288,7 @@
     "content": {}
   },
   {
+    "id": "38126",
     "title": {
       "jp": "Neotopia's Moment of Truth"
     },
@@ -275,6 +300,7 @@
     "content": {}
   },
   {
+    "id": "38127",
     "title": {
       "jp": "The Final Battle! Commander vs. Captain"
     },
@@ -286,6 +312,7 @@
     "content": {}
   },
   {
+    "id": "170849",
     "title": {
       "jp": "Into the Dark Axis!"
     },
@@ -297,6 +324,7 @@
     "content": {}
   },
   {
+    "id": "170850",
     "title": {
       "jp": "Ways of the Warriors"
     },
@@ -308,6 +336,7 @@
     "content": {}
   },
   {
+    "id": "170851",
     "title": {
       "jp": "No More Ultimate Techniques! Terror of the Minov Boundary Sea"
     },
@@ -319,6 +348,7 @@
     "content": {}
   },
   {
+    "id": "170852",
     "title": {
       "jp": "Big Comeback! We're the Heroes"
     },
@@ -330,6 +360,7 @@
     "content": {}
   },
   {
+    "id": "170853",
     "title": {
       "jp": "Evil Sword Epyon"
     },
@@ -341,6 +372,7 @@
     "content": {}
   },
   {
+    "id": "170854",
     "title": {
       "jp": "Epyon's Assault!"
     },
@@ -352,6 +384,7 @@
     "content": {}
   },
   {
+    "id": "170855",
     "title": {
       "jp": "Rescue Operation Operation - The Cursed Princess of Lacroa"
     },
@@ -362,6 +395,7 @@
     "content": {}
   },
   {
+    "id": "170856",
     "title": {
       "jp": "Princess in a Black Dress"
     },
@@ -372,6 +406,7 @@
     "content": {}
   },
   {
+    "id": "170857",
     "title": {
       "jp": "Genkimaru, Samurai Number One!"
     },
@@ -382,6 +417,7 @@
     "content": {}
   },
   {
+    "id": "170858",
     "title": {
       "jp": "Rice Balls and the Garden of Wisdom"
     },
@@ -392,6 +428,7 @@
     "content": {}
   },
   {
+    "id": "170859",
     "title": {
       "jp": "Fierce Fight! Deathscythe the Knight of Darkness"
     },
@@ -402,6 +439,7 @@
     "content": {}
   },
   {
+    "id": "170860",
     "title": {
       "jp": "Princess Rele Revived!"
     },
@@ -412,6 +450,7 @@
     "content": {}
   },
   {
+    "id": "170861",
     "title": {
       "jp": "Gerbera's Invitation"
     },
@@ -422,6 +461,7 @@
     "content": {}
   },
   {
+    "id": "170862",
     "title": {
       "jp": "Kibaomaru's Attack!"
     },
@@ -432,6 +472,7 @@
     "content": {}
   },
   {
+    "id": "170863",
     "title": {
       "jp": "Shute and the Princess Captured"
     },
@@ -442,6 +483,7 @@
     "content": {}
   },
   {
+    "id": "170864",
     "title": {
       "jp": "War Torn Ark"
     },
@@ -452,6 +494,7 @@
     "content": {}
   },
   {
+    "id": "170865",
     "title": {
       "jp": "The Ultimate Challenge! Kibaomaru vs. Shute"
     },
@@ -462,6 +505,7 @@
     "content": {}
   },
   {
+    "id": "170866",
     "title": {
       "jp": "Bakushinmaru, Flare Up!"
     },
@@ -472,6 +516,7 @@
     "content": {}
   },
   {
+    "id": "170867",
     "title": {
       "jp": "Gundam Force Assembled!"
     },
@@ -482,6 +527,7 @@
     "content": {}
   },
   {
+    "id": "170868",
     "title": {
       "jp": "The Tears of Cobramaru"
     },
@@ -492,6 +538,7 @@
     "content": {}
   },
   {
+    "id": "170869",
     "title": {
       "jp": "Musha Daishinsho Unleashed!"
     },
@@ -502,6 +549,7 @@
     "content": {}
   },
   {
+    "id": "170870",
     "title": {
       "jp": "Tenchijo on Fire - Genkimaru's Roar!"
     },
@@ -512,6 +560,7 @@
     "content": {}
   },
   {
+    "id": "170871",
     "title": {
       "jp": "Prelude to Destruction - Gerbera's True Identity"
     },
@@ -523,6 +572,7 @@
     "content": {}
   },
   {
+    "id": "170872",
     "title": {
       "jp": "Total Annihilation! - The Threat of the General"
     },
@@ -534,6 +584,7 @@
     "content": {}
   },
   {
+    "id": "170873",
     "title": {
       "jp": "The Final Battle! - The General vs. Everyone!"
     },
@@ -545,6 +596,7 @@
     "content": {}
   },
   {
+    "id": "170874",
     "title": {
       "jp": "The Voyage Home"
     },

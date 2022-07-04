@@ -1,5 +1,6 @@
 [
   {
+    "id": "37387",
     "title": {
       "jp": "Kuroi Attache Case"
     },
@@ -10,6 +11,7 @@
     "content": {}
   },
   {
+    "id": "37388",
     "title": {
       "jp": "Bashtarle no Sangeki"
     },
@@ -20,6 +22,7 @@
     "content": {}
   },
   {
+    "id": "37389",
     "title": {
       "jp": "Hatsurei! Denji Netwire Sakusen: Shanghai ni Otsu..."
     },
@@ -30,24 +33,28 @@
     "content": {}
   },
   {
+    "id": "37390",
     "title": {},
     "season": 1,
     "number": 4,
     "content": {}
   },
   {
+    "id": "37391",
     "title": {},
     "season": 1,
     "number": 5,
     "content": {}
   },
   {
+    "id": "37392",
     "title": {},
     "season": 1,
     "number": 6,
     "content": {}
   },
   {
+    "id": "37393",
     "title": {},
     "season": 1,
     "number": 7,

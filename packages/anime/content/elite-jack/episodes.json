@@ -1,5 +1,6 @@
 [
   {
+    "id": "116374",
     "title": {
       "jp": "Hana no Koukou Seikatsu!?"
     },
@@ -10,6 +11,7 @@
     "content": {}
   },
   {
+    "id": "215237",
     "title": {
       "jp": "Hontou no Tomodachi tte!?"
     },
@@ -19,6 +21,7 @@
     "content": {}
   },
   {
+    "id": "250781",
     "title": {
       "jp": "Tensai Idol, Arawaru!?"
     },
@@ -28,6 +31,7 @@
     "content": {}
   },
   {
+    "id": "250782",
     "title": {},
     "season": 1,
     "number": 4,
@@ -35,12 +39,14 @@
     "content": {}
   },
   {
+    "id": "250783",
     "title": {},
     "season": 1,
     "number": 5,
     "content": {}
   },
   {
+    "id": "250784",
     "title": {},
     "season": 1,
     "number": 6,

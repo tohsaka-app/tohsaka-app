@@ -1,5 +1,6 @@
 [
   {
+    "id": "101657",
     "title": {
       "jp": "Koto, Shujinkou Kaku Katariki"
     },
@@ -10,6 +11,7 @@
     "content": {}
   },
   {
+    "id": "101658",
     "title": {
       "jp": "Shouko, Kagakusha Awate Kyuusu"
     },
@@ -20,18 +22,21 @@
     "content": {}
   },
   {
+    "id": "101659",
     "title": {},
     "season": 1,
     "number": 3,
     "content": {}
   },
   {
+    "id": "101660",
     "title": {},
     "season": 1,
     "number": 4,
     "content": {}
   },
   {
+    "id": "101661",
     "title": {},
     "season": 1,
     "number": 5,
