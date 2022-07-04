@@ -6,7 +6,7 @@
     "generate": "graphql-codegen",
     "dev": "PORT=21404 next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "PORT=80 next start",
     "lint": "next lint --fix"
   },
   "dependencies": {
