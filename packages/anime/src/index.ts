@@ -25,8 +25,8 @@ export interface Show {
 	title: Title;
 	synopsis: string;
 
-	releasedAt: string;
-	finishedAt: string;
+	releasedAt?: string;
+	finishedAt?: string;
 
 	kind: Kind;
 	status: Status;

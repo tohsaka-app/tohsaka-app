@@ -24,8 +24,8 @@ export function serialize(data: any): Show {
 			jp: data.titles.en_jp
 		},
 
-		releasedAt: new Date(data.startDate).toISOString(),
-		finishedAt: new Date(data.endDate).toISOString(),
+		releasedAt: data.startDate ? new Date(data.startDate).toISOString() : void 0,
+		finishedAt: data.endDate ? new Date(data.endDate).toISOString() : void 0,
 
 		kind: data.subtype.toLowerCase(),
 		status: data.status.toLowerCase(),
