@@ -7,7 +7,7 @@
   "kind": "ona",
   "status": "finished",
   "rating": "r",
-  "posterUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/43021/poster_image/ddf7d302a263f55f53bf6232ff1892d6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220703%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220703T154504Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=341d43db9ba0f4d0996374c263db8c64f2a60dc03865b2a6228c701d0d8d89f6",
+  "posterUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/43021/poster_image/ddf7d302a263f55f53bf6232ff1892d6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220704%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220704T003904Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=4dcf72e862fe9aa498c1c0641dace8a5313a623cd027d346acdd2fe5f9468556",
   "coverUrl": "https://media.kitsu.io/anime/43021/cover_image/99272632f3cdfce84bcabe1d70470a19.png",
   "categories": [
     "action",

@@ -11,7 +11,7 @@
   "status": "finished",
   "rating": "pg",
   "posterUrl": "https://media.kitsu.io/anime/44313/poster_image/3f156d3ef61a50316668e0598a1e3873.jpg",
-  "coverUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44313/cover_image/a41c2a7c588380730f13e86b48c416a4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220703%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220703T154514Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=b366db402c776b4aabc612a89615c2f67b36677a2e960055a119a02d4a753a2b",
+  "coverUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44313/cover_image/a41c2a7c588380730f13e86b48c416a4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220704%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220704T003914Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=57d5b87699b79a94720048caf4c9835b8d801b7b21f3aa3bf86eb9956860f1b4",
   "categories": [
     "action",
     "comedy",
