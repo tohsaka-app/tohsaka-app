@@ -7,7 +7,7 @@ export function serializeEpisode(data: any): Episode {
 			jp: data.titles.en_jp
 		},
 		synopsis: data.synopsis || void 0,
-		season: data.seasonNumber,
+		season: data.seasonNumber || 1,
 		number: data.number,
 		thumbUrl: data.thumbnail?.original,
 		releasedAt: data.airdate ? new Date(data.airdate).toISOString() : void 0,

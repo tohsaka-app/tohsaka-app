@@ -53,7 +53,7 @@ export async function generateAvailable() {
 
 	await Promise.all(
 		new Array(Math.ceil(total / limit)).fill(1).map(async (_, idx) => {
-			await new Promise((resolve) => setTimeout(resolve, idx * 50));
+			await new Promise((resolve) => setTimeout(resolve, idx * 100));
 
 			const includes = ["categories", "mappings", "episodes", "streamingLinks"];
 			const { data } = await kitsu.get("anime", {
