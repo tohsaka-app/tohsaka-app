@@ -151,7 +151,7 @@
   },
   {
     "title": {},
-    "season": null,
+    "season": 1,
     "number": 15,
     "content": {}
   },
@@ -193,7 +193,7 @@
   },
   {
     "title": {},
-    "season": null,
+    "season": 1,
     "number": 20,
     "content": {}
   },
@@ -235,7 +235,7 @@
   },
   {
     "title": {},
-    "season": null,
+    "season": 1,
     "number": 25,
     "content": {}
   },
@@ -277,7 +277,7 @@
   },
   {
     "title": {},
-    "season": null,
+    "season": 1,
     "number": 30,
     "content": {}
   },
@@ -319,7 +319,7 @@
   },
   {
     "title": {},
-    "season": null,
+    "season": 1,
     "number": 35,
     "content": {}
   },
@@ -361,7 +361,7 @@
   },
   {
     "title": {},
-    "season": null,
+    "season": 1,
     "number": 40,
     "content": {}
   },
@@ -403,7 +403,7 @@
   },
   {
     "title": {},
-    "season": null,
+    "season": 1,
     "number": 45,
     "content": {}
   },
@@ -445,7 +445,7 @@
   },
   {
     "title": {},
-    "season": null,
+    "season": 1,
     "number": 50,
     "content": {}
   }

@@ -10,7 +10,7 @@
   "kind": "ova",
   "status": "finished",
   "rating": "r",
-  "posterUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44834/poster_image/def4bedfad0f1d8b97ad7d7fe83e8b92.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220704%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220704T003930Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=7b80bb9009d55f9d5fb4e9858219083bfedefcf1a7efda1fccbd71d781160f7a",
+  "posterUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44834/poster_image/def4bedfad0f1d8b97ad7d7fe83e8b92.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220704%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220704T014022Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=8a0daefd201b6a9ea3b86def3ad892b2d2aad942813ac1707f6ff89f6628172a",
   "categories": [
     "action",
     "ecchi",

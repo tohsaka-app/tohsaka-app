@@ -10,7 +10,7 @@
   "kind": "tv",
   "status": "finished",
   "rating": "r",
-  "posterUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44169/poster_image/03cb061068d7f4ccfbef94b6d1c25de4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220704%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220704T003905Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=c743af4e68dd95cd6db1642c635e4ebaa40b0cbed1d315d97712d29c43571d14",
+  "posterUrl": "https://kitsu-production-media.s3.us-west-002.backblazeb2.com/anime/44169/poster_image/03cb061068d7f4ccfbef94b6d1c25de4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=002d6013655cdc00000000003%2F20220704%2Fus-west-002%2Fs3%2Faws4_request&X-Amz-Date=20220704T013932Z&X-Amz-Expires=900&X-Amz-SignedHeaders=host&X-Amz-Signature=65887961afd0c596dc5fd7cc4cd9a435b1d9ada713cab327686f088916b6cd3b",
   "coverUrl": "https://media.kitsu.io/anime/44169/cover_image/3da6b35861b63c27de9ba6862bc3a948.png",
   "categories": [
     "action",
