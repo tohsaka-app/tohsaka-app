@@ -107,7 +107,6 @@ export async function generateAvailable() {
 
 							const matchedDiskEpisode = diskEpisodes.find((diskEpisode) => {
 								const diskKey = `${diskEpisode.season}-${diskEpisode.number}`;
-								console.log({ diskKey, key });
 								return diskKey === key;
 							});
 
