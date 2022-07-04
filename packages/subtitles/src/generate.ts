@@ -3,10 +3,11 @@ import { PassThrough } from "stream";
 import { client, getTorrent, getTorrentFile } from "@tohsaka/torrent";
 import { parse } from "subtitle";
 import ffmpeg from "fluent-ffmpeg";
-
+import {getAnime} from "@tohsaka/api-client"
 import { serialize } from "./serializer";
 
 export async function generate(hash: string): Promise<Array<string>> {
+	console.log(await getAnime("hunter-x-hunter-2011"))
 	console.log(hash);
 	const torrent = await getTorrent(hash);
 	console.log(torrent.files.map((file, idx) => `${file.name} - ${idx}`).sort());

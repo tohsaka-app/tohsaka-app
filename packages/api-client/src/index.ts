@@ -1,13 +1,20 @@
-import { createTRPCClient } from "@trpc/client";
+import { Anime } from "@tohsaka/types";
+import fetch from "isomorphic-fetch";
 
-import type { AppRouter } from "@tohsaka/api-server";
-
-export interface CreateClientOptions {
-	url?: string;
+export async function getAnime(slug: string): Promise<Anime | null> {
+	const response = await fetch(`https://api.tohsaka.app/anime/${slug}`);
+	return response.ok ? response.json() : null;
 }
 
-export function createClient(options: CreateClientOptions) {
-	return createTRPCClient<AppRouter>({
-		url: options.url || "https://api.tohsaka.app"
+export async function searchAnime(title: string, count: number = 10): Promise<Array<Anime>> {
+	const query = new URLSearchParams({
+		count: count.toString(),
+		title
 	});
+
+	query.sort();
+	const url = `https://api.tohsaka.app/anime/search?${query.toString()}`;
+	const response = await fetch(url);
+
+	return response.ok ? response.json() : [];
 }

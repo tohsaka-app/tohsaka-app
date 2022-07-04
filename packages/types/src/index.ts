@@ -12,9 +12,6 @@ export type AnimeStatus = typeof AnimeStatus[number];
 
 export const AnimeRating = ["G", "PG", "R", "R18"] as const;
 export type AnimeRating = typeof AnimeRating[number];
-
-export type EpisodeResolution = 480 | 720 | 1080;
-
 export interface EpisodeContentDescriptor {
 	/** A BitTorrent magnet info hash */
 	hash: string;
@@ -25,9 +22,9 @@ export interface EpisodeContentDescriptor {
 	idx?: number;
 }
 
-export type EpisodeContent = {
-	[K in EpisodeResolution]?: Array<EpisodeContentDescriptor>;
-};
+export interface EpisodeContent {
+	[k: string]: Array<EpisodeContentDescriptor>;
+}
 
 export type AnimeContent = Array<{
 	/** The episode primary identifier */

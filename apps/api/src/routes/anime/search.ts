@@ -1,21 +1,21 @@
 import { route, method } from "18h";
 import { z } from "zod";
 
-import { getAnime } from "../../utils/anime";
+import { searchAnimeByTitle } from "../../utils/anime";
 
-export default route<{ slug: string }>({
+export default route({
 	get: method({
 		schema: {
 			request: z.null(),
 			response: z.any()
 		},
 		async handler(ctx) {
-			const anime = await getAnime(ctx.params.slug);
-			if (!anime) return ctx.throw(404);
+			const { title } = ctx.query;
+			if (typeof title !== "string") return ctx.throw(400);
 
 			return {
 				status: 200,
-				body: anime
+				body: await searchAnimeByTitle(title)
 			};
 		}
 	})
