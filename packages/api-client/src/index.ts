@@ -16,5 +16,6 @@ export async function searchAnime(title: string, count: number = 10): Promise<Ar
 	const url = `https://api.tohsaka.app/anime/search?${query.toString()}`;
 	const response = await fetch(url);
 
-	return response.ok ? response.json() : [];
+	if (!response.ok) throw new Error("Request failed");
+	return response.json();
 }

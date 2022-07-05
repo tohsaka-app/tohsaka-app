@@ -12,7 +12,6 @@ import {
 import { getGithubFile } from "./github";
 import { Anime as GraphqlAnime, Episode as GraphqlEpisode } from "./kitsu/graphql";
 import * as kitsu from "./kitsu";
-import { isFalsy } from "./isFalsy";
 
 export async function getAnimeContent(slug: string): Promise<AnimeContent> {
 	const value = await getGithubFile({
@@ -65,8 +64,8 @@ export async function transformAnime(data: GraphqlAnime): Promise<Anime> {
 		categories: data.categories.nodes!.map((node) => node!.title.en),
 		official_releases: data.streamingLinks.nodes!.map((node) => node!.url),
 		episodes: await Promise.all(
-			data.episodes.nodes!.filter(isFalsy).map((node) => {
-				const value = contents.find((cv) => cv.id === node!.id);
+			data.episodes.nodes!.map((node) => {
+				const value = contents.episodes.find((cv) => cv.id === node!.id);
 				if (!node) console.log(data);
 				return transformEpisode(node!, value?.content);
 			})

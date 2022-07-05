@@ -1,6 +1,4 @@
-import { Anime } from "@tohsaka/types";
-import { request, gql } from "graphql-request";
-import fetch from "isomorphic-fetch";
+import { gql } from "graphql-request";
 import { createClient } from "@urql/core";
 
 import { Anime as GraphqlAnime } from "./graphql";

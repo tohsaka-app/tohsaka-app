@@ -3,7 +3,10 @@ import WebTorrent, { Instance, Torrent, TorrentFile } from "webtorrent";
 // eslint-disable-next-line import/no-named-as-default
 import MagnetUri from "magnet-uri";
 
-export const client: Instance = new WebTorrent();
+// @ts-expect-error: no module types.
+import MemoryChunkStore from "memory-chunk-store";
+
+export const client: Instance = new WebTorrent({});
 
 export async function getTorrent(hash: string): Promise<Torrent> {
 	const uri = MagnetUri.encode({
@@ -30,7 +33,7 @@ export async function getTorrent(hash: string): Promise<Torrent> {
 	return (
 		client.get(uri) ||
 		(await new Promise<Torrent>((resolve) => {
-			client.add(uri, resolve);
+			client.add(uri, { store: MemoryChunkStore, destroyStoreOnDestroy: true }, resolve);
 		}))
 	);
 }
