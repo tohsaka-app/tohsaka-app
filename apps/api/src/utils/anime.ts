@@ -16,7 +16,7 @@ import * as kitsu from "./kitsu";
 export async function getAnimeContent(slug: string): Promise<AnimeContent> {
 	const value = await getGithubFile({
 		owner: "tohsaka-app/tohsaka-app",
-		pathname: `packages/anime/content/${slug}/episodes.json`,
+		pathname: `packages/anime/content/${slug}.json`,
 		branch: "main"
 	});
 
