@@ -20,7 +20,8 @@ export async function getAnimeContent(slug: string): Promise<AnimeContent> {
 		branch: "main"
 	});
 
-	return value ? JSON.parse(value) : { episodes: {} };
+	const defaultObject: AnimeContent = { episodes: [] };
+	return value ? JSON.parse(value) : defaultObject;
 }
 
 export async function transformEpisode(
