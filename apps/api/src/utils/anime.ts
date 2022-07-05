@@ -66,7 +66,7 @@ export async function transformAnime(data: GraphqlAnime): Promise<Anime> {
 		official_releases: data.streamingLinks.nodes!.map((node) => node!.url),
 		episodes: await Promise.all(
 			data.episodes
-				.nodes!.filter((node) => !node)
+				.nodes!.filter((node) => !!node)
 				.map((node) => {
 					const value = contents.episodes.find((cv) => cv.id === node!.id);
 					return transformEpisode(node!, value?.content);
