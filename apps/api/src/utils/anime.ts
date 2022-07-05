@@ -65,11 +65,12 @@ export async function transformAnime(data: GraphqlAnime): Promise<Anime> {
 		categories: data.categories.nodes!.map((node) => node!.title.en),
 		official_releases: data.streamingLinks.nodes!.map((node) => node!.url),
 		episodes: await Promise.all(
-			data.episodes.nodes!.map((node) => {
-				const value = contents.episodes.find((cv) => cv.id === node!.id);
-				if (!node) console.log(data);
-				return transformEpisode(node!, value?.content);
-			})
+			data.episodes
+				.nodes!.filter((node) => !node)
+				.map((node) => {
+					const value = contents.episodes.find((cv) => cv.id === node!.id);
+					return transformEpisode(node!, value?.content);
+				})
 		)
 	};
 }
