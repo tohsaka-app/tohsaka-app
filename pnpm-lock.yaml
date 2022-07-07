@@ -315,11 +315,12 @@ importers:
   packages/types:
     specifiers:
       '@ariesclark/eslint-config': ^1.4.0
-      '@tohsaka/types': workspace:*
       typescript: ^4.7.4
+      zod: ^3.17.3
+    dependencies:
+      zod: 3.17.3
     devDependencies:
       '@ariesclark/eslint-config': 1.4.0_typescript@4.7.4
-      '@tohsaka/types': 'link:'
       typescript: 4.7.4
 
 packages:

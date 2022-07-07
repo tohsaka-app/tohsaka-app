@@ -28,7 +28,7 @@ export async function transformEpisode(
 	data: GraphqlEpisode,
 	content: EpisodeContent = {}
 ): Promise<Episode> {
-	return {
+	return Episode.parseAsync({
 		id: data.id,
 		titles: {
 			canonical: data.titles.canonical,
@@ -40,14 +40,14 @@ export async function transformEpisode(
 		released_at: data.releasedAt ? new Date(data.releasedAt).toISOString() : null,
 		thumbnail_url: data.thumbnail?.original?.url || null,
 		content
-	};
+	});
 }
 
 export async function transformAnime(data: GraphqlAnime): Promise<Anime> {
 	const slug = data.slug.toLowerCase();
 	const contents = await getAnimeContent(slug);
 
-	return {
+	return Anime.parseAsync({
 		slug,
 		titles: {
 			canonical: data.titles.canonical,
@@ -72,7 +72,7 @@ export async function transformAnime(data: GraphqlAnime): Promise<Anime> {
 					return transformEpisode(node!, value?.content);
 				})
 		)
-	};
+	});
 }
 
 export async function getAnime(slug: string): Promise<Anime | null> {

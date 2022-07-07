@@ -115,9 +115,9 @@ void (async () => {
 		const anime = animes[animeIdx];
 		const filename = `${dirname}/${anime.slug.toLowerCase()}.json`;
 
-		const { episodes: diskEpisodes } = JSON.parse(
-			await fs.readFile(filename, "utf-8").catch(() => JSON.stringify({ episodes: {} }))
-		) as AnimeContent;
+		const { episodes: diskEpisodes } = await AnimeContent.parseAsync(
+			JSON.parse(await fs.readFile(filename, "utf-8").catch(() => JSON.stringify({ episodes: {} })))
+		);
 
 		const { infoHash } = decodeMagnet(node.magnet);
 
@@ -137,30 +137,32 @@ void (async () => {
 			})
 		);
 
-		const { correctEpisodeOrder } = await prompts({
-			name: "correctEpisodeOrder",
-			type: "confirm",
-			message: "Is the correct episode order?",
-			initial: true
-		});
+		if (!torrent.name.match(/subsplease/i)) {
+			const { correctEpisodeOrder } = await prompts({
+				name: "correctEpisodeOrder",
+				type: "confirm",
+				message: "Is the correct episode order?",
+				initial: true
+			});
 
-		if (!correctEpisodeOrder) {
-			for (const episodeIdx of Object.keys(episodeFileMap)) {
-				const episode = anime.episodes[Number.parseInt(episodeIdx, 10)];
+			if (!correctEpisodeOrder) {
+				for (const episodeIdx of Object.keys(episodeFileMap)) {
+					const episode = anime.episodes[Number.parseInt(episodeIdx, 10)];
 
-				const { episodeFileIdx } = await prompts({
-					name: "episodeFileIdx",
-					type: "select",
-					message: `Choose the ${link(
-						`${episode.number}th episode`,
-						`https://kitsu.io/anime/${anime.slug}/episodes/${episode.number}`
-					)}."`,
-					choices: torrent.files.map((file) => ({
-						title: file.name
-					}))
-				});
+					const { episodeFileIdx } = await prompts({
+						name: "episodeFileIdx",
+						type: "select",
+						message: `Choose the ${link(
+							`${episode.number}th episode`,
+							`https://kitsu.io/anime/${anime.slug}/episodes/${episode.number}`
+						)}."`,
+						choices: torrent.files.map((file) => ({
+							title: file.name
+						}))
+					});
 
-				episodeFileMap[Number.parseInt(episodeIdx, 10)] = episodeFileIdx;
+					episodeFileMap[Number.parseInt(episodeIdx, 10)] = episodeFileIdx;
+				}
 			}
 		}
 

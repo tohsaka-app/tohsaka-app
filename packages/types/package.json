@@ -9,7 +9,9 @@
     "build": "tsc",
     "release": "pnpm publish --access=public"
   },
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -18,5 +20,6 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
+    "zod": "^3.17.3"
   }
 }
