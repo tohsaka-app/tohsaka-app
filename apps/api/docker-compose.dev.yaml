@@ -2,6 +2,11 @@ services:
   caddy:
     environment:
       CADDY_DOMAIN: localhost
+  backend:
+    command: /app/node_modules/.bin/tsc-watch --noClear --onSuccess "node /app/dist/index.js"
+    volumes:
+      - ./tsconfig.json:/app/tsconfig.json:ro
+      - ./src/:/app/src/:ro
 volumes:
   caddyData:
   caddyConfig:

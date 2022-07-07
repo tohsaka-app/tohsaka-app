@@ -12,8 +12,10 @@ services:
       - caddyConfig:/config
     environment:
       CADDY_DOMAIN: api.tohsaka.app
-    extra_hosts:
-      - "host.docker.internal:host-gateway"
+  backend:
+    build:
+      dockerfile: ./Dockerfile
+      context: ./dist
 volumes:
   caddyData:
   caddyConfig:
