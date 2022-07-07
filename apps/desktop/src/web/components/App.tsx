@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import { Outlet, useLocation, useNavigate, useOutlet } from "react-router-dom";
+import { Outlet, useNavigate, useOutlet } from "react-router-dom";
 import "../styles/tailwind.css";
 
 export const App: React.FC = () => {
@@ -10,7 +10,7 @@ export const App: React.FC = () => {
 		if (outlet === null) {
 			navigate("/discover");
 		}
-	}, []);
+	}, [outlet, navigate]);
 
 	return <Outlet />;
 };

@@ -1,3 +1,4 @@
+import { Anime, Episode } from "@tohsaka/types";
 import { IconType } from "react-icons";
 import {
 	MdForward10,
@@ -15,7 +16,6 @@ import {
 	MdVolumeUp
 } from "react-icons/md";
 
-import { Quality, Show, ShowEpisode } from "../../lib/api";
 import { clamp } from "../../lib/clamp";
 
 const IconButton: React.FC<{ Icon: IconType; onClick: () => void }> = ({ Icon, onClick }) => {
@@ -27,19 +27,17 @@ const IconButton: React.FC<{ Icon: IconType; onClick: () => void }> = ({ Icon, o
 };
 
 const QualityDropdown: React.FC<{
-	quality: Quality;
-	setQuality: React.Dispatch<React.SetStateAction<Quality>>;
-}> = ({ quality, setQuality }) => {
+	quality: string;
+	setQuality: React.Dispatch<React.SetStateAction<string>>;
+	content: Episode["content"];
+}> = ({ quality, setQuality, content }) => {
 	return (
 		<div className="absolute -mt-32 flex flex-col gap-1 bg-black/80 text-white opacity-0 group-hover:opacity-100">
-			{Object.entries(Quality)
-				.filter(([, resolution]) => !isNaN(parseInt(resolution as string)))
-				.map(([name, resolution]) => (
-					<div className="flex justify-between gap-4" key={resolution}>
-						<span>{name}</span>
-						<span>{resolution}p</span>
-					</div>
-				))}
+			{Object.keys(content).map((resolution) => (
+				<div className="flex justify-between gap-4" key={resolution}>
+					<span>{`${resolution}p`}</span>
+				</div>
+			))}
 		</div>
 	);
 };
@@ -49,16 +47,16 @@ export interface VideoControlListProps {
 	setFullscreen: React.Dispatch<React.SetStateAction<boolean>>;
 	playing: boolean;
 	updatePlaying: React.Dispatch<React.SetStateAction<boolean>>;
-	quality: Quality;
-	setQuality: React.Dispatch<React.SetStateAction<Quality>>;
+	quality: string;
+	setQuality: React.Dispatch<React.SetStateAction<string>>;
 	volume: number;
 	updateVolume: React.Dispatch<React.SetStateAction<number>>;
 	currentTime: number;
 	updateCurrentTime: React.Dispatch<React.SetStateAction<number>>;
 	setEpisodeIdx: React.Dispatch<React.SetStateAction<number>>;
 
-	show: Show;
-	episode: ShowEpisode;
+	anime: Anime;
+	episode: Episode;
 }
 
 export const VideoControlList: React.FC<VideoControlListProps> = (props) => {
@@ -86,15 +84,15 @@ export const VideoControlList: React.FC<VideoControlListProps> = (props) => {
 				</div>
 			</div>
 			<div className="pointer-events-none absolute flex w-full items-center justify-center gap-4 text-white">
-				<span className="font-bold">{props.show.title}</span>
-				<span>{props.episode.name}</span>
+				<span className="font-bold">{props.anime.titles.canonical}</span>
+				<span>{props.episode.titles.canonical}</span>
 			</div>
 			<div className="flex gap-2">
 				<IconButton
 					Icon={MdSkipNext}
 					onClick={() =>
 						props.setEpisodeIdx((episodeIdx) =>
-							clamp(episodeIdx + 1, 0, props.show.episodes.length)
+							clamp(episodeIdx + 1, 0, props.anime.episodes.length)
 						)
 					}
 				/>
@@ -104,7 +102,11 @@ export const VideoControlList: React.FC<VideoControlListProps> = (props) => {
 				/>
 				<div className="group flex items-center gap-1">
 					<IconButton Icon={MdHighQuality} onClick={() => {}} />
-					<QualityDropdown quality={props.quality} setQuality={props.setQuality} />
+					<QualityDropdown
+						content={props.episode.content}
+						quality={props.quality}
+						setQuality={props.setQuality}
+					/>
 				</div>
 				<IconButton Icon={MdSpeed} onClick={() => {}} />
 				<IconButton

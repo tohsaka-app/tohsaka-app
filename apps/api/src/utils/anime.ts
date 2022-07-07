@@ -1,6 +1,9 @@
+import { parse } from "path";
+
 /* eslint-disable @typescript-eslint/no-non-null-assertion */
 import {
 	Anime,
+	AnimeArray,
 	AnimeContent,
 	AnimeRating,
 	AnimeStatus,
@@ -9,7 +12,7 @@ import {
 	EpisodeContent
 } from "@tohsaka/types";
 
-import { getGithubFile } from "./github";
+import { getGithubContents, getGithubFile } from "./github";
 import { Anime as GraphqlAnime, Episode as GraphqlEpisode } from "./kitsu/graphql";
 import * as kitsu from "./kitsu";
 
@@ -22,6 +25,24 @@ export async function getAnimeContent(slug: string): Promise<AnimeContent> {
 
 	const defaultObject: AnimeContent = { episodes: [] };
 	return value ? JSON.parse(value) : defaultObject;
+}
+
+export async function getAvailableAnime(): Promise<AnimeArray> {
+	const contents = await getGithubContents({
+		owner: "tohsaka-app/tohsaka-app",
+		pathname: `packages/anime/content`,
+		branch: "main"
+	});
+
+	return (
+		await Promise.all(
+			contents.map(async (node) => {
+				const slug = parse(node.name).name;
+				console.log(slug);
+				return getAnime(slug);
+			})
+		)
+	).filter((node) => !!node) as AnimeArray;
 }
 
 export async function transformEpisode(

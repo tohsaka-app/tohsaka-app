@@ -1,15 +1,15 @@
 import { useParams } from "react-router-dom";
 
-import { useShow } from "../../hooks/useShow";
+import { useAnime } from "../../hooks/useAnime";
 import { Video } from "../Video";
 
 export const Watch: React.FC = () => {
 	const { slug } = useParams();
-	const { data: show } = useShow(slug);
+	const { data: anime } = useAnime(slug);
 
-	return show ? (
+	return anime ? (
 		<div className="relative flex h-screen w-full overflow-hidden">
-			<Video slug={show.slug} />
+			<Video slug={anime.slug} />
 		</div>
 	) : null;
 };

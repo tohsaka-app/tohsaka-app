@@ -1,20 +1,19 @@
+import { Episode } from "@tohsaka/types";
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { MdPlayArrow } from "react-icons/md";
 import { VscLoading } from "react-icons/vsc";
 import { useNavigate } from "react-router-dom";
 import { twMerge } from "tailwind-merge";
+import { useAnime } from "../../hooks/useAnime";
 
 import { useInterval } from "../../hooks/useInterval";
 import { useKeydown } from "../../hooks/useKeydown";
-import { useShow } from "../../hooks/useShow";
 import { useVideoMetadata } from "../../hooks/useVideoMetadata";
-import { Quality, ShowEpisode } from "../../lib/api";
 import { clamp } from "../../lib/clamp";
 import { LOCAL_API_URL } from "../../lib/config";
 
 import { VideoControlList } from "./VideoControlList";
 import { VideoProgress } from "./VideoProgress";
-import { VideoProgressBar } from "./VideoProgressBar";
 import { VideoSubtitles } from "./VideoSubtitles";
 import { VideoTorrentMetadata } from "./VideoTorrentMetadata";
 
@@ -24,7 +23,7 @@ export const Video: React.FC<{
 	slug: string;
 }> = ({ slug }) => {
 	const navigate = useNavigate();
-	const { data: show } = useShow(slug);
+	const { data: anime } = useAnime(slug);
 
 	const rootElementRef = useRef<HTMLDivElement | null>(null);
 	const videoElementRef = useRef<HTMLVideoElement | null>(null);
@@ -32,7 +31,7 @@ export const Video: React.FC<{
 	const [controlsVisible, setControlsVisible] = useState(true);
 	const [episodeIdx, setEpisodeIdx] = useState(0);
 
-	const [quality, setQuality] = useState(Quality.HIGH);
+	const [quality, setQuality] = useState("");
 	const [playing, setPlaying] = useState(false);
 	const [fullscreen, setFullscreen] = useState(false);
 
@@ -42,8 +41,8 @@ export const Video: React.FC<{
 	const [currentTime, setCurrentTime] = useState(0);
 	const [duration, setDuration] = useState(0);
 
-	const episode: ShowEpisode | null = show?.episodes[episodeIdx] || null;
-	const hash = episode?.content[quality];
+	const episode: Episode | null = anime?.episodes[episodeIdx] || null;
+	const hash = episode?.content[Object.keys(episode?.content || {})[0]][0];
 
 	const { data: metadata } = useVideoMetadata(hash);
 
@@ -168,7 +167,7 @@ export const Video: React.FC<{
 		"Escape",
 		useCallback(() => {
 			setPlaying((playing) => {
-				if (!playing) navigate("/discover", { state: { show: slug } });
+				if (!playing) navigate("/discover", { state: { anime: slug } });
 				return true;
 			});
 		}, [navigate, slug])
@@ -227,7 +226,7 @@ export const Video: React.FC<{
 
 	const video_url = `${LOCAL_API_URL}/${hash}.mkv`;
 
-	return show && episode ? (
+	return anime && episode ? (
 		<div className="relative flex w-full items-center justify-center bg-black" ref={rootElementRef}>
 			<div className="pointer-events-none absolute z-50 flex h-full w-full items-center justify-center">
 				{loading ? (
@@ -264,7 +263,7 @@ export const Video: React.FC<{
 								setFullscreen,
 								updatePlaying,
 								setQuality,
-								show,
+								anime,
 								updateCurrentTime,
 								updateVolume,
 								volume
