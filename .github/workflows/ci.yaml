@@ -46,3 +46,6 @@ jobs:
           env:
             NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
             NPM_CONFIG_GIT_CHECKS: false
+          
+        - name: publish changes
+          uses: stefanzweifel/git-auto-commit-action@v4

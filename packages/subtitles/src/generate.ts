@@ -6,8 +6,11 @@ import ffmpeg from "fluent-ffmpeg";
 import Spinnies from "spinnies";
 import chalk from "chalk";
 import ms from "ms";
+import FFMPEG_PATH from "ffmpeg-static";
 
 import { serialize } from "./serializer";
+
+process.env.FFMPEG_PATH = FFMPEG_PATH;
 
 export async function generate(
 	hash: string,
