@@ -21,7 +21,11 @@ export const AnimeListColumn: React.FC<AnimeListColumnProps> = (props) => {
 			<span className="font-bebas text-4xl text-white">{props.title}</span>
 			<ul className="flex gap-2 overflow-x-hidden">
 				{items.map((anime, idx) => (
-					<AnimeListItem anime={anime} key={anime.slug} selected={props.selected && idx === 0} />
+					<AnimeListItem
+						anime={anime}
+						key={anime.slug}
+						selected={props.selected && idx === props.selectedAnimeIdx}
+					/>
 				))}
 			</ul>
 		</div>

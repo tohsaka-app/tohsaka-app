@@ -27,12 +27,8 @@ export const AnimeInfoBox: React.FC<AnimeInfoBoxProps> = ({ slug, detailed }) =>
 						{anime?.titles.romanized}
 					</Span>
 				</div>
-				<Span className="max-w-[48ch] text-white" placeholder={{ length: 256, loading: !anime }}>
-					{`Sed iaculis arcu arcu, et semper sem lobortis eget. Donec in mauris a quam ullamcorper accumsan. Mauris convallis consequat auctor. In auctor, neque sed dictum porttitor, libero odio pretium nisl, nec malesuada metus nibh ut augue. Phasellus sodales nunc nec justo euismod, non aliquet justo laoreet. Integer scelerisque nec augue eget aliquet. Cras efficitur, nisi facilisis aliquet vulputate, est quam gravida mauris, a lacinia dui ex ac felis. In tincidunt sed ipsum eu feugiat. Nullam et dictum dolor.`.slice(
-						0,
-						256
-					)}
-					...
+				<Span className="max-w-[64ch] text-white" placeholder={{ length: 256, loading: !anime }}>
+					{anime?.description}
 				</Span>
 			</div>
 			{detailed ? (

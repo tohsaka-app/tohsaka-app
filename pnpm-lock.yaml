@@ -34,7 +34,7 @@ importers:
       '@ariesclark/eslint-config': 1.4.0_typescript@4.7.4
       '@graphql-codegen/cli': 2.6.4_kqlgh3qfz56lumowe57ujqqtt4
       '@graphql-codegen/typescript': 2.5.1_graphql@16.5.0
-      '@tohsaka/types': file:packages/types
+      '@tohsaka/types': link:../../packages/types
       '@trpc/server': 9.25.3
       '@types/express': 4.17.13
       '@types/isomorphic-fetch': 0.0.36
@@ -51,9 +51,6 @@ importers:
       tsc-watch: 5.0.3_typescript@4.7.4
       typescript: 4.7.4
       zod: 3.17.3
-    dependenciesMeta:
-      '@tohsaka/types':
-        injected: true
 
   apps/desktop:
     specifiers:
@@ -207,23 +204,35 @@ importers:
       '@ariesclark/eslint-config': ^1.4.0
       '@tohsaka/api-client': workspace:*
       '@tohsaka/torrent': workspace:*
+      '@tohsaka/types': workspace:*
       '@types/fluent-ffmpeg': ^2.1.20
+      '@types/ms': ^0.7.31
       '@types/prompts': ^2.0.14
+      '@types/spinnies': ^0.5.0
+      chalk: '4'
       fluent-ffmpeg: ^2.1.2
+      ms: ^2.1.3
       prompts: ^2.4.2
+      spinnies: ^0.5.1
       subtitle: ^4.2.1
       ts-node: ^10.8.1
       typescript: ^4.7.4
     dependencies:
       '@tohsaka/api-client': link:../api-client
       '@tohsaka/torrent': link:../torrent
+      '@tohsaka/types': link:../types
+      chalk: 4.1.2
       fluent-ffmpeg: 2.1.2
+      ms: 2.1.3
       prompts: 2.4.2
+      spinnies: 0.5.1
       subtitle: 4.2.1
     devDependencies:
       '@ariesclark/eslint-config': 1.4.0_bn3y5sn7aa6hsplivwol7ie4em
       '@types/fluent-ffmpeg': 2.1.20
+      '@types/ms': 0.7.31
       '@types/prompts': 2.0.14
+      '@types/spinnies': 0.5.0
       ts-node: 10.8.2_typescript@4.7.4
       typescript: 4.7.4
 
@@ -1753,6 +1762,10 @@ packages:
     resolution: {integrity: sha512-Jus9s4CDbqwocc5pOAnh8ShfrnMcPHuJYzVcSUU7lrh8Ni5HuIqX3oilL86p3dlTrk0LzHRCgA/GQ7uNCw6l2Q==}
     dev: true
 
+  /@types/ms/0.7.31:
+    resolution: {integrity: sha512-iiUgKzV9AuaEkZqkOLDIvlQiL6ltuZd9tGcW3gwpnX8JbuiuhFlEGmmFXEXkN50Cvq7Os88IY2v0dkDqXYWVgA==}
+    dev: true
+
   /@types/multipipe/3.0.0:
     resolution: {integrity: sha512-CbhyiQkqlGTacMjyw64y1/jIFBJr0TKPefLyUyXmIhabNv5rA8X1+60ss3TjlLoM3JsK288HVyPwTnO0nHawJA==}
     dependencies:
@@ -1954,7 +1967,6 @@ packages:
       typescript: 4.7.4
     transitivePeerDependencies:
       - supports-color
-    dev: true
 
   /@typescript-eslint/parser/5.30.5_4x5o4skxv6sl53vpwefgt23khm:
     resolution: {integrity: sha512-zj251pcPXI8GO9NDKWWmygP6+UjwWmrdf9qMW/L/uQJBM/0XbU2inxe5io/234y/RCvwpKEYjZ6c1YrXERkK4Q==}
@@ -1981,7 +1993,6 @@ packages:
     dependencies:
       '@typescript-eslint/types': 5.30.4
       '@typescript-eslint/visitor-keys': 5.30.4
-    dev: true
 
   /@typescript-eslint/scope-manager/5.30.5:
     resolution: {integrity: sha512-NJ6F+YHHFT/30isRe2UTmIGGAiXKckCyMnIV58cE3JkHmaD6e5zyEYm5hBDv0Wbin+IC0T1FWJpD3YqHUG/Ydg==}
@@ -2030,7 +2041,6 @@ packages:
   /@typescript-eslint/types/5.30.4:
     resolution: {integrity: sha512-NTEvqc+Vvu8Q6JeAKryHk2eqLKqsr2St3xhIjhOjQv5wQUBhaTuix4WOSacqj0ONWfKVU12Eug3LEAB95GBkMA==}
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
-    dev: true
 
   /@typescript-eslint/types/5.30.5:
     resolution: {integrity: sha512-kZ80w/M2AvsbRvOr3PjaNh6qEW1LFqs2pLdo2s5R38B2HYXG8Z0PP48/4+j1QHJFL3ssHIbJ4odPRS8PlHrFfw==}
@@ -2055,7 +2065,6 @@ packages:
       typescript: 4.7.4
     transitivePeerDependencies:
       - supports-color
-    dev: true
 
   /@typescript-eslint/typescript-estree/5.30.5_typescript@4.7.4:
     resolution: {integrity: sha512-qGTc7QZC801kbYjAr4AgdOfnokpwStqyhSbiQvqGBLixniAKyH+ib2qXIVo4P9NgGzwyfD9I0nlJN7D91E1VpQ==}
@@ -2118,7 +2127,6 @@ packages:
     dependencies:
       '@typescript-eslint/types': 5.30.4
       eslint-visitor-keys: 3.3.0
-    dev: true
 
   /@typescript-eslint/visitor-keys/5.30.5:
     resolution: {integrity: sha512-D+xtGo9HUMELzWIUqcQc0p2PO4NyvTrgIOK/VnSH083+8sq0tiLozNRKuLarwHYGRuA6TVBQSuuLwJUDWd3aaA==}
@@ -3956,7 +3964,7 @@ packages:
     dependencies:
       debug: 4.3.4
       eslint: 8.19.0
-      eslint-plugin-import: 2.26.0_6o2fuefo7gfpbr7nbqwgu7w4mq
+      eslint-plugin-import: 2.26.0_zf34lwsfz2dqvffrfeinwsscpe
       glob: 7.2.3
       is-glob: 4.0.3
       resolve: 1.22.1
@@ -3989,7 +3997,6 @@ packages:
       find-up: 2.1.0
     transitivePeerDependencies:
       - supports-color
-    dev: true
 
   /eslint-module-utils/2.7.3_ngc5pgxzrdnldt43xbcfncn6si:
     resolution: {integrity: sha512-088JEC7O3lDZM9xGe0RerkOMd0EjFl+Yvd1jPWIkMT5u3H9+HC34mWWPnqPrN13gieT9pBOO+Qt07Nb/6TresQ==}
@@ -4076,7 +4083,6 @@ packages:
       - eslint-import-resolver-typescript
       - eslint-import-resolver-webpack
       - supports-color
-    dev: true
 
   /eslint-plugin-prettier/4.2.1_7uxdfn2xinezdgvmbammh6ev5i:
     resolution: {integrity: sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ==}
@@ -8823,6 +8829,8 @@ packages:
       node-pre-gyp: 0.13.0
     optionalDependencies:
       domexception: 1.0.1
+    transitivePeerDependencies:
+      - supports-color
     dev: false
     bundledDependencies:
       - node-pre-gyp
@@ -9026,13 +9034,4 @@ packages:
     dependencies:
       react: 18.2.0
       use-sync-external-store: 1.1.0_react@18.2.0
-    dev: false
-
-  file:packages/types:
-    resolution: {directory: packages/types, type: directory}
-    name: '@tohsaka/types'
-    version: 1.0.0
-    dependencies:
-      tslib: 2.4.0
-      zod: 3.17.3
     dev: false

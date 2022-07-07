@@ -101,6 +101,13 @@ export async function getAnime(slug: string): Promise<Anime | null> {
 	return transformAnime(raw);
 }
 
+export async function getAnimeSubtitles(slug: string): Promise<Anime | null> {
+	const raw = await kitsu.getAnime(slug);
+
+	if (!raw) return null;
+	return transformAnime(raw);
+}
+
 export interface AnimeMedia {
 	banner_url: string | null;
 	poster_url: string | null;

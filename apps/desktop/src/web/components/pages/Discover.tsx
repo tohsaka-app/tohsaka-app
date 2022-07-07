@@ -7,7 +7,6 @@ import { getAvailableAnime } from "../../lib/api";
 import { API_URL } from "../../lib/config";
 import { AnimeInfoBox } from "../AnimeInfoBox";
 import { AnimeListColumn } from "../AnimeListColumn";
-import { Button } from "../Button";
 
 export const Discover: React.FC = () => {
 	const navigate = useNavigate();
@@ -15,8 +14,8 @@ export const Discover: React.FC = () => {
 	const { data: availableAnime } = useSWR("availableAnime", () => getAvailableAnime());
 	const [selectedAnimeIdx, setSelectedAnimeIdx] = useState<number>(0);
 
-	const selectedAnime: Anime | null =
-		availableAnime && selectedAnimeIdx ? availableAnime[selectedAnimeIdx] : null;
+	const selectedAnime: Anime | null = availableAnime ? availableAnime[selectedAnimeIdx] : null;
+	console.log(selectedAnimeIdx, selectedAnime);
 
 	useEffect(() => {
 		function onKeyDown(event: KeyboardEvent) {
@@ -29,13 +28,13 @@ export const Discover: React.FC = () => {
 					navigate(`/watch/${selectedAnime.slug}`);
 					break;
 
-				case "ArrowUp":
+				case "ArrowLeft":
 					setSelectedAnimeIdx((selectedAnimeIdx) => {
 						const newIdx = (selectedAnimeIdx - 1) % availableAnime.length;
 						return newIdx < 0 ? availableAnime.length - 1 : newIdx;
 					});
 					break;
-				case "ArrowDown":
+				case "ArrowRight":
 					setSelectedAnimeIdx((selectedAnimeIdx) => (selectedAnimeIdx + 1) % availableAnime.length);
 					break;
 			}
@@ -45,6 +44,8 @@ export const Discover: React.FC = () => {
 			document.removeEventListener("keydown", onKeyDown);
 		};
 	}, [navigate, availableAnime, selectedAnimeIdx, selectedAnime]);
+
+	console.log(availableAnime);
 
 	return (
 		<>

@@ -4,17 +4,17 @@ import { NodeCue } from "subtitle";
 
 import { Subtitle } from ".";
 
-export const SUBTITLE_SEPERATOR = "\n\u0000";
+export const SUBTITLE_SEPERATOR = "\u0000\n";
 
 export function serialize({ data }: NodeCue): string {
 	const text = data.text.replace(/<[^>]+>|{\\an?\d}/g, "");
-	const pos = Number.parseInt(data.text.match(/{\\an?(\d)}/)?.[1] || "2", 10);
+	const position = Number.parseInt(data.text.match(/{\\an?(\d)}/)?.[1] || "2", 10);
 
-	return `${data.start},${data.end},${pos},${text}`;
+	return `${data.start},${data.end},${position},${text}`;
 }
 
-export function serializeFile(values: Array<string>): Buffer {
-	return brotliCompressSync(values.join(SUBTITLE_SEPERATOR));
+export function serializeFile(values: Array<string>): string {
+	return values.join(SUBTITLE_SEPERATOR);
 }
 
 export function deserialize(value: string): Subtitle {
@@ -27,9 +27,6 @@ export function deserialize(value: string): Subtitle {
 	};
 }
 
-export function deserializeFile(value: Buffer): Array<Subtitle> {
-	return brotliDecompressSync(value)
-		.toString("utf8")
-		.split(SUBTITLE_SEPERATOR)
-		.map((entry) => deserialize(entry));
+export function deserializeFile(value: string): Array<Subtitle> {
+	return value.split(SUBTITLE_SEPERATOR).map((entry) => deserialize(entry));
 }

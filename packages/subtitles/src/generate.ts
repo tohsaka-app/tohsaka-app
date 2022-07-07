@@ -1,20 +1,26 @@
 import { PassThrough } from "stream";
 
-import { client, getTorrent, getTorrentFile } from "@tohsaka/torrent";
+import { getTorrentFile } from "@tohsaka/torrent";
 import { parse } from "subtitle";
 import ffmpeg from "fluent-ffmpeg";
-import {getAnime} from "@tohsaka/api-client"
+import Spinnies from "spinnies";
+import chalk from "chalk";
+import ms from "ms";
+
 import { serialize } from "./serializer";
 
-export async function generate(hash: string): Promise<Array<string>> {
-	console.log(await getAnime("hunter-x-hunter-2011"))
-	console.log(hash);
-	const torrent = await getTorrent(hash);
-	console.log(torrent.files.map((file, idx) => `${file.name} - ${idx}`).sort());
-
-	const file = await getTorrentFile(hash);
-	console.log(file.name);
+export async function generate(
+	hash: string,
+	fileIdx: number,
+	animeSlug: string,
+	episodeId: string,
+	spins: Spinnies
+): Promise<Array<string>> {
+	const file = await getTorrentFile(hash, fileIdx);
 	const subtitles: Array<string> = [];
+
+	console.log(file.name);
+	const startTime = performance.now();
 
 	return new Promise((resolve) => {
 		ffmpeg()
@@ -26,6 +32,11 @@ export async function generate(hash: string): Promise<Array<string>> {
 					.pipe(parse())
 					.on("data", (chunk) => {
 						subtitles.push(serialize(chunk));
+						spins.update(`anime-${animeSlug}-${episodeId}`, {
+							text: `Episode: ${chalk.yellow(episodeId)} — ${(file.progress * 100).toFixed(
+								2
+							)}% — ${ms(performance.now() - startTime, { long: true })}`
+						});
 					})
 					.on("end", () => {
 						resolve(subtitles);
