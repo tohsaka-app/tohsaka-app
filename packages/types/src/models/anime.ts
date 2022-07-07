@@ -28,7 +28,6 @@ export const Anime = z.object({
 	rating: AnimeRating,
 	released_at: Date.nullable(),
 	finished_at: Date.nullable(),
-	banner_url: z.string().url().nullable(),
 	categories: z.array(z.string()),
 	official_releases: z.array(z.string()),
 	episodes: z.array(Episode)

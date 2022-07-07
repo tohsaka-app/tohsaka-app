@@ -79,6 +79,36 @@ export async function getAnime(slug: string): Promise<GraphqlAnime | null> {
 	return data.findAnimeBySlug || null;
 }
 
+export async function getAnimeMedia(
+	slug: string
+): Promise<Pick<GraphqlAnime, "bannerImage" | "posterImage"> | null> {
+	const { data } = await client
+		.query(
+			gql`
+				query getAnimeMedia($slug: String!) {
+					findAnimeBySlug(slug: $slug) {
+						bannerImage {
+							original {
+								url
+							}
+						}
+						posterImage {
+							original {
+								url
+							}
+						}
+					}
+				}
+			`,
+			{
+				slug
+			}
+		)
+		.toPromise();
+
+	return data.findAnimeBySlug || null;
+}
+
 export async function searchAnimeByTitle(
 	title: string,
 	first: number = 10

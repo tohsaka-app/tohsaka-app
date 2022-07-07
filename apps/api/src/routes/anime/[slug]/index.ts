@@ -1,7 +1,7 @@
 import { route, method } from "18h";
 import { z } from "zod";
 
-import { getAnime } from "../../utils/anime";
+import { getAnime } from "../../../utils/anime";
 
 export default route<{ slug: string }>({
 	get: method({

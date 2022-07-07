@@ -60,8 +60,6 @@ export async function transformAnime(data: GraphqlAnime): Promise<Anime> {
 		rating: (data.ageRating?.toUpperCase() as AnimeRating) || "G",
 		released_at: data.startDate ? new Date(data.startDate).toISOString() : null,
 		finished_at: data.endDate ? new Date(data.endDate).toISOString() : null,
-		banner_url: data.bannerImage?.original?.url || null,
-		poster_url: data.posterImage?.original?.url || null,
 		categories: data.categories.nodes!.map((node) => node!.title.en),
 		official_releases: data.streamingLinks.nodes!.map((node) => node!.url),
 		episodes: await Promise.all(
@@ -80,6 +78,19 @@ export async function getAnime(slug: string): Promise<Anime | null> {
 
 	if (!raw) return null;
 	return transformAnime(raw);
+}
+
+export interface AnimeMedia {
+	banner_url: string | null;
+	poster_url: string | null;
+}
+
+export async function getAnimeMedia(slug: string, kind: string): Promise<string | null> {
+	const raw = await kitsu.getAnimeMedia(slug);
+
+	if (kind === "banner") return raw?.bannerImage?.original?.url || null;
+	if (kind === "poster") return raw?.posterImage?.original?.url || null;
+	return null;
 }
 
 export async function searchAnimeByTitle(title: string, first: number = 10): Promise<Array<Anime>> {
