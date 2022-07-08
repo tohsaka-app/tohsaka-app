@@ -5,16 +5,16 @@ import { MdPlayArrow } from "react-icons/md";
 import { Video } from "../components/Video";
 import { Footer } from "../components/Footer";
 import { Header } from "../components/Header";
+import { PosterGallery } from "../components/PosterGallery";
 
 import type { NextPage } from "next";
-import { PosterGallery } from "../components/PosterGallery";
 
 const RootIndexPage: NextPage = () => {
 	return (
 		<>
 			<Header />
 			<div className="flex flex-col items-center justify-center">
-			<PosterGallery/>
+				<PosterGallery />
 				<div className="container flex flex-col items-center justify-center gap-16 p-8 md:min-h-screen md:flex-row">
 					<div className="flex max-w-2xl flex-col gap-8">
 						<span className="text-4xl font-bold md:text-5xl">
@@ -42,7 +42,7 @@ const RootIndexPage: NextPage = () => {
 							</Link>
 						</div>
 					</div>
-					<div className="grow"/>
+					<div className="grow" />
 				</div>
 			</div>
 			<Footer />

@@ -6,7 +6,7 @@ import { FooterSection } from "./FooterSection";
 export const Footer: React.FC = () => {
 	return (
 		<footer className="flex items-center justify-center">
-			<div className="container p-8 flex gap-16">
+			<div className="container flex flex-col gap-16 p-8 md:flex-row">
 				<FooterSection name="Tohsaka">
 					<div className="flex flex-col gap-4">
 						<span className="max-w-sm text-zinc-300">

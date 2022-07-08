@@ -11,7 +11,7 @@ export default function Document() {
 					rel="stylesheet"
 				/>
 			</Head>
-			<body className="bg-zinc-900 text-white font-lato">
+			<body className="text-white font-lato">
 				<Main />
 				<NextScript />
 			</body>
