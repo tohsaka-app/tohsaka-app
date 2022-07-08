@@ -5,9 +5,15 @@ const PosterItem: React.FC<{ anime: Anime }> = ({ anime }) => {
 	const url = `https://api.tohsaka.app/anime/${anime.slug}/media/poster`;
 
 	return (
-		<div className="relative flex grow brightness-[.2] saturate-50">
-			<div className="w-full absolute top-0 left-0 bg-black/40 blur-[3px] h-[10px] transform -translate-y-1/2" />
-			<div className="w-[10px] absolute top-0 left-full bg-black/40 blur-[3px] h-full transform -translate-x-1/2" />
+		<div className="relative flex grow brightness-[.2] saturate-50 sepia">
+			{/* add's a blurred border to the right of the screen  */}
+			<div className="w-full h-[3px] absolute top-0 left-0 bg-gray-200 mix-blend-difference blur-[3px] transform -translate-y-1/2" />
+			<div className="w-full h-[1.5px] absolute top-0 left-0 bg-gray-500 blur-[1.5px] transform -translate-y-1/2" />
+
+			{/* add's a blurred border to the left screen */}
+			<div className="w-[3px] h-full absolute top-0 left-0 bg-gray-200 mix-blend-difference blur-[3px] transform -translate-x-1/2" />
+			<div className="w-[1.5px] h-full absolute top-0 left-0 bg-gray-500 blur-[1.5px] transform -translate-x-1/2" />
+
 			<div
 				className="h-screen w-full grow bg-cover bg-center md:h-96 md:w-64"
 				style={{
