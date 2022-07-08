@@ -8,8 +8,8 @@ import { getType } from "mime";
 import Koa from "koa";
 import ffmpeg from "fluent-ffmpeg";
 import { parse } from "subtitle";
+import { client, getTorrentFile } from "@tohsaka/torrent";
 
-import { client, getTorrentFile } from "./lib/torrent";
 const loadURL = serve({ directory: "dist/web" });
 
 async function createServer(): Promise<Koa> {
@@ -33,11 +33,11 @@ async function createServer(): Promise<Koa> {
 		const [hash, ext] = pathname.split(".");
 
 		if (!hash) return ctx.throw(400, "Insufficient request");
-
 		console.log(ext, hash, client.progress, client.ratio);
 
-		const file = await getTorrentFile(hash);
+		const [fileHash, fileIdx] = hash.split("/");
 
+		const file = await getTorrentFile(fileHash, Number.parseInt(fileIdx, 10));
 		if (!file) return ctx.throw(400, "Bad torrent");
 
 		ctx.respond = false;

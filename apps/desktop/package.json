@@ -36,6 +36,7 @@
     "vite": "^2.9.13"
   },
   "dependencies": {
+    "@tohsaka/torrent": "workspace:*",
     "@tohsaka/types": "workspace:*",
     "electron-serve": "^1.1.0",
     "fluent-ffmpeg": "^2.1.2",
