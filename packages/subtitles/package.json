@@ -6,7 +6,7 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "lint": "eslint ./src",
-    "build": "ts-node scripts/generate.ts"
+    "build": "tsc"
   },
   "files": [
     "dist"

@@ -1,4 +1,3 @@
-import Link from "next/link";
 import { HiOutlineDownload, HiArrowNarrowRight } from "react-icons/hi";
 import { MdPlayArrow } from "react-icons/md";
 
@@ -6,6 +5,7 @@ import { Video } from "../components/Video";
 import { Footer } from "../components/Footer";
 import { Header } from "../components/Header";
 import { PosterGallery } from "../components/PosterGallery";
+import { Link } from "../components/Link";
 
 import type { NextPage } from "next";
 
@@ -34,15 +34,16 @@ const RootIndexPage: NextPage = () => {
 								<span>Download</span>
 								<HiOutlineDownload className="h-5 w-5" />
 							</button>
-							<Link href="">
-								<a className="flex items-center gap-2">
-									<span>Learn more</span>
-									<HiArrowNarrowRight />
-								</a>
+							<Link className="flex items-center gap-2" href="">
+								<span>Learn more</span>
+								<HiArrowNarrowRight />
 							</Link>
 						</div>
 					</div>
-					<div className="grow" />
+					<div className="grow">
+						{/* eslint-disable-next-line @next/next/no-img-element */}
+						<img alt="Desktop screenshot" src="/images/desktop-screenshot-1.png" />
+					</div>
 				</div>
 			</div>
 			<Footer />

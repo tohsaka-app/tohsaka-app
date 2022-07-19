@@ -9,6 +9,7 @@ import Koa from "koa";
 import ffmpeg from "fluent-ffmpeg";
 import { parse } from "subtitle";
 import { client, getTorrentFile } from "@tohsaka/torrent";
+import { parse as parseSubtitleChunk, Subtitle } from "@tohsaka/subtitles";
 
 const loadURL = serve({ directory: "dist/web" });
 
@@ -33,7 +34,7 @@ async function createServer(): Promise<Koa> {
 		const [hash, ext] = pathname.split(".");
 
 		if (!hash) return ctx.throw(400, "Insufficient request");
-		console.log(ext, hash, client.progress, client.ratio);
+		console.log(ext, hash);
 
 		const [fileHash, fileIdx] = hash.split("/");
 
@@ -45,7 +46,7 @@ async function createServer(): Promise<Koa> {
 		if (ext === "json") {
 			ctx.status = 200;
 
-			const subtitles: Array<any> = [];
+			const subtitles: Array<Subtitle> = [];
 
 			ffmpeg()
 				.on("start", console.log)
@@ -55,18 +56,7 @@ async function createServer(): Promise<Koa> {
 					new PassThrough()
 						.pipe(parse())
 						.on("data", (chunk) => {
-							const position = chunk.data.text.match(/\{\\an8\}/) ? "top" : "bottom";
-							const text = chunk.data.text.replace(/<[^>]+>|\{\\an8\}/g, "");
-
-							subtitles.push({
-								...chunk,
-								data: {
-									...chunk.data,
-									position,
-									text
-								}
-							});
-
+							subtitles.push(parseSubtitleChunk(chunk));
 							console.log(subtitles.length);
 						})
 						.on("end", () => {
@@ -84,6 +74,8 @@ async function createServer(): Promise<Koa> {
 				.outputFormat("srt")
 				.run();
 
+			ctx.res.write(JSON.stringify({ subtitles }));
+			ctx.res.end();
 			return;
 		}
 
@@ -104,7 +96,7 @@ async function createServer(): Promise<Koa> {
 		ctx.status = 206;
 
 		const videoStream = file.createReadStream({ start, end });
-		videoStream.pipe(ctx.res);
+		videoStream.pipe(ctx.res, {});
 	});
 
 	app.listen(17709);

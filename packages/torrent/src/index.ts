@@ -33,7 +33,7 @@ export async function getTorrent(hash: string): Promise<Torrent> {
 	return (
 		client.get(uri) ||
 		(await new Promise<Torrent>((resolve) => {
-			client.add(uri, { store: MemoryChunkStore, destroyStoreOnDestroy: true }, resolve);
+			client.add(uri, { destroyStoreOnDestroy: true }, resolve);
 		}))
 	);
 }

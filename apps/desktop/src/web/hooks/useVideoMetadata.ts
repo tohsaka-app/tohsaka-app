@@ -1,3 +1,4 @@
+import { Subtitle } from "@tohsaka/subtitles";
 import useSWR from "swr";
 
 import { LOCAL_API_URL } from "../lib/config";
@@ -6,16 +7,7 @@ export interface VideoMetadata {
 	file: {
 		name: string;
 	};
-	subtitles: Array<{
-		id: number;
-		type: string;
-		data: {
-			start: number;
-			end: number;
-			position: "top" | "bottom";
-			text: string;
-		};
-	}>;
+	subtitles: Array<Subtitle & { id: number }>;
 }
 
 export function useVideoMetadata(hash?: string) {

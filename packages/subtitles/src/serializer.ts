@@ -1,32 +1,31 @@
-import { brotliCompressSync, brotliDecompressSync } from "zlib";
-
 import { NodeCue } from "subtitle";
 
-import { Subtitle } from ".";
+import { convertLegacyAlignment, Subtitle, SubtitleAlignment, SubtitleLegacyAlignment } from ".";
 
-export const SUBTITLE_SEPERATOR = "\u0000\n";
+function parseLegacyAlignment(
+	value: string
+): SubtitleLegacyAlignment[keyof SubtitleLegacyAlignment] | null {
+	return (Number.parseInt(value.match(/{\\a(\d)}/)?.[1] || "", 10) ||
+		null) as SubtitleLegacyAlignment[keyof SubtitleLegacyAlignment];
+}
 
-export function serialize({ data }: NodeCue): string {
+export function parseAlignment(value: string): SubtitleAlignment[keyof SubtitleAlignment] {
+	const legacyAlignment = parseLegacyAlignment(value);
+	if (legacyAlignment) return convertLegacyAlignment(legacyAlignment);
+
+	return (Number.parseInt(value.match(/{\\an(\d)}/)?.[1] || "", 10) ||
+		SubtitleAlignment.BOTTOM_CENTER) as SubtitleAlignment[keyof SubtitleAlignment];
+}
+
+export function parse({ data }: NodeCue): Subtitle {
 	const text = data.text.replace(/<[^>]+>|{\\an?\d}/g, "");
-	const position = Number.parseInt(data.text.match(/{\\an?(\d)}/)?.[1] || "2", 10);
+	const align = parseAlignment(data.text);
 
-	return `${data.start},${data.end},${position},${text}`;
-}
-
-export function serializeFile(values: Array<string>): string {
-	return values.join(SUBTITLE_SEPERATOR);
-}
-
-export function deserialize(value: string): Subtitle {
-	const [start, end, position, ...text] = value.split(",");
+	console.log(align, data.text);
 
 	return {
-		ts: [Number.parseInt(start, 10), Number.parseInt(end, 10)],
-		position: Number.parseInt(position, 10),
-		text: text.join(",")
+		align,
+		ts: [data.start, data.end],
+		text
 	};
-}
-
-export function deserializeFile(value: string): Array<Subtitle> {
-	return value.split(SUBTITLE_SEPERATOR).map((entry) => deserialize(entry));
 }

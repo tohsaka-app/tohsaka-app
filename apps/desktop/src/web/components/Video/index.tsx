@@ -4,10 +4,11 @@ import { MdPlayArrow } from "react-icons/md";
 import { VscLoading } from "react-icons/vsc";
 import { useNavigate } from "react-router-dom";
 import { twMerge } from "tailwind-merge";
-import { useAnime } from "../../hooks/useAnime";
 
+import { useAnime } from "../../hooks/useAnime";
 import { useInterval } from "../../hooks/useInterval";
 import { useKeydown } from "../../hooks/useKeydown";
+import { useKeydownEvent } from "../../hooks/useKeydownEvent";
 import { useVideoMetadata } from "../../hooks/useVideoMetadata";
 import { clamp } from "../../lib/clamp";
 import { LOCAL_API_URL } from "../../lib/config";
@@ -53,7 +54,7 @@ export const Video: React.FC<{
 		() =>
 			metadata?.subtitles.filter((value) => {
 				const currentTimeMs = currentTime * 1000;
-				return currentTimeMs >= value.data.start && currentTimeMs <= value.data.end;
+				return currentTimeMs >= value.ts[0] && currentTimeMs <= value.ts[1];
 			}) || [],
 		[currentTime, metadata?.subtitles]
 	);
@@ -163,64 +164,47 @@ export const Video: React.FC<{
 			: void document.exitFullscreen();
 	}, [fullscreen]);
 
-	useKeydown(
-		"Escape",
-		useCallback(() => {
-			setPlaying((playing) => {
-				if (!playing) navigate("/discover", { state: { anime: slug } });
-				return true;
-			});
-		}, [navigate, slug])
-	);
-
-	useKeydown(
-		" ",
-		useCallback(() => {
-			setPlaying((playing) => !playing);
-		}, [])
-	);
-
-	useKeydown(
-		"ArrowLeft",
+	useKeydownEvent(
 		useCallback(
 			(ev) => {
-				updateCurrentTime((currentTime) => currentTime - 10);
-				ev.preventDefault();
-			},
-			[updateCurrentTime]
-		)
-	);
+				switch (ev.key) {
+					case "Escape":
+						setFullscreen(false);
+						updatePlaying((playing) => {
+							if (!playing) navigate("/discover", { state: { anime: slug } });
+							return true;
+						});
+						ev.preventDefault();
 
-	useKeydown(
-		"ArrowRight",
-		useCallback(
-			(ev) => {
-				updateCurrentTime((currentTime) => currentTime + 10);
-				ev.preventDefault();
-			},
-			[updateCurrentTime]
-		)
-	);
+						break;
+					case " ":
+						updatePlaying((playing) => !playing);
+						ev.preventDefault();
 
-	useKeydown(
-		"ArrowUp",
-		useCallback(
-			(ev) => {
-				updateVolume((volume) => volume + 10);
-				ev.preventDefault();
+						break;
+					case "f":
+						setFullscreen((fullscreen) => !fullscreen);
+						ev.preventDefault();
+						break;
+					case "ArrowLeft":
+						updateCurrentTime((currentTime) => currentTime - 10);
+						ev.preventDefault();
+						break;
+					case "ArrowRight":
+						updateCurrentTime((currentTime) => currentTime + 10);
+						ev.preventDefault();
+						break;
+					case "ArrowUp":
+						updateVolume((volume) => volume + 10);
+						ev.preventDefault();
+						break;
+					case "ArrowDown":
+						updateVolume((volume) => volume - 10);
+						ev.preventDefault();
+						break;
+				}
 			},
-			[updateVolume]
-		)
-	);
-
-	useKeydown(
-		"ArrowDown",
-		useCallback(
-			(ev) => {
-				updateVolume((volume) => volume - 10);
-				ev.preventDefault();
-			},
-			[updateVolume]
+			[slug, navigate, updatePlaying, updateCurrentTime, updateVolume]
 		)
 	);
 

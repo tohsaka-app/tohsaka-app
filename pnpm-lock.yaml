@@ -55,12 +55,14 @@ importers:
   apps/desktop:
     specifiers:
       '@ariesclark/eslint-config': ^1.4.0
+      '@tohsaka/subtitles': workspace:*
       '@tohsaka/torrent': workspace:*
       '@tohsaka/types': workspace:*
       '@types/fluent-ffmpeg': ^2.1.20
       '@types/koa': ^2.13.4
       '@types/magnet-uri': ^5.1.3
       '@types/mime': ^2.0.3
+      '@types/node': 18.0.1
       '@types/react': ^18.0.15
       '@types/react-dom': ^18.0.6
       '@types/stream-fork': ^1.0.1
@@ -68,6 +70,7 @@ importers:
       '@vitejs/plugin-react': ^1.3.2
       autoprefixer: ^10.4.7
       chokidar-cli: ^3.0.0
+      ebml-stream: ^1.0.3
       electron: ^19.0.8
       electron-serve: ^1.1.0
       eslint: ^8.19.0
@@ -76,6 +79,7 @@ importers:
       koa: ^2.13.4
       lru-cache: ^7.12.0
       magnet-uri: ^6.2.0
+      matroska-subtitles: ^3.3.2
       mime: ^3.0.0
       postcss: ^8.4.14
       react: ^18.2.0
@@ -95,13 +99,16 @@ importers:
       webtorrent-hybrid: ^5.0.2
       zustand: 4.0.0-rc.1
     dependencies:
+      '@tohsaka/subtitles': link:../../packages/subtitles
       '@tohsaka/torrent': link:../../packages/torrent
       '@tohsaka/types': link:../../packages/types
+      ebml-stream: 1.0.3
       electron-serve: 1.1.0
       fluent-ffmpeg: 2.1.2
       koa: 2.13.4
       lru-cache: 7.12.0
       magnet-uri: 6.2.0
+      matroska-subtitles: 3.3.2
       mime: 3.0.0
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
@@ -121,6 +128,7 @@ importers:
       '@types/koa': 2.13.4
       '@types/magnet-uri': 5.1.3
       '@types/mime': 2.0.3
+      '@types/node': 18.0.1
       '@types/react': 18.0.15
       '@types/react-dom': 18.0.6
       '@types/stream-fork': 1.0.1
@@ -153,6 +161,7 @@ importers:
       react-dom: ^18.2.0
       react-icons: ^4.4.0
       swr: ^1.3.0
+      tailwind-merge: ^1.3.0
       tailwindcss: ^3.1.4
       typescript: 4.7.4
     dependencies:
@@ -163,6 +172,7 @@ importers:
       react-dom: 18.2.0_react@18.2.0
       react-icons: 4.4.0_react@18.2.0
       swr: 1.3.0_react@18.2.0
+      tailwind-merge: 1.3.0
     devDependencies:
       '@types/node': 18.0.1
       '@types/react': 18.0.15
@@ -1939,7 +1949,7 @@ packages:
   /@types/keyv/3.1.4:
     resolution: {integrity: sha512-BQ5aZNSCpj7D6K2ksrRCTmKRLEpnPvWDiLPfoGyhZ++8YtiK9d/3DBKPJgry359X/P1PfruyYwvnvwFjuEiEIg==}
     dependencies:
-      '@types/node': 16.11.43
+      '@types/node': 18.0.3
 
   /@types/koa-compose/3.2.5:
     resolution: {integrity: sha512-B8nG/OoE1ORZqCkBVsup/AKcvjdgoHnfi4pZMn5UwAPCbhk/96xyv284eBYW8JlQbQ7zDmnpFr68I/40mFoIBQ==}
@@ -2013,6 +2023,7 @@ packages:
 
   /@types/node/16.11.43:
     resolution: {integrity: sha512-GqWykok+3uocgfAJM8imbozrqLnPyTrpFlrryURQlw1EesPUCx5XxTiucWDSFF9/NUEXDuD4bnvHm8xfVGWTpQ==}
+    dev: true
 
   /@types/node/18.0.1:
     resolution: {integrity: sha512-CmR8+Tsy95hhwtZBKJBs0/FFq4XX7sDZHlGGf+0q+BRZfMbOTkzkj0AFAuTyXbObDIoanaBBW0+KEW+m3N16Wg==}
@@ -2075,7 +2086,7 @@ packages:
   /@types/responselike/1.0.0:
     resolution: {integrity: sha512-85Y2BjiufFzaMIlvJDvTTB8Fxl2xfLo4HgmHzVBz08w4wDePCTjYw66PdrolO0kzli3yam/YCgRufyo1DdQVTA==}
     dependencies:
-      '@types/node': 16.11.43
+      '@types/node': 18.0.3
 
   /@types/scheduler/0.16.2:
     resolution: {integrity: sha512-hppQEBDmlwhFAXKJX2KnWLYu5yMfi91yazPb2l+lbJiwW+wdo1gNeRA+3RgNSO39WYX2euey41KEwnqesU2Jew==}
@@ -3853,6 +3864,11 @@ packages:
 
   /duplexer3/0.1.4:
     resolution: {integrity: sha512-CEj8FwwNA4cVH2uFCoHUrmojhYh1vmCdOaneKJXwkeY1i9jnlslVo9dx+hQ5Hl9GnH/Bwy/IjxAyOePyPKYnzA==}
+
+  /ebml-stream/1.0.3:
+    resolution: {integrity: sha512-A+jCBY5NNAH/CQlcjLWN9txgv3uNiz+UAmMqDHPxFxoMNnuerV0RLhkE0YI9aNhdS3JVfcEQ9jFWq39fAR2W5g==}
+    engines: {node: '>= 10.10.0'}
+    dev: false
 
   /ecdsa-sig-formatter/1.0.11:
     resolution: {integrity: sha512-nagl3RYrbNv6kQkeJIpt6NJZy8twLB/2vtz6yN9Z4vRKHN4/QZJIEbqohALSgwKdnksuY3k5Addp5lg8sVoVcQ==}
@@ -6237,6 +6253,14 @@ packages:
     dev: true
     optional: true
 
+  /matroska-subtitles/3.3.2:
+    resolution: {integrity: sha512-W71TxqhFVqc9txAfvur/p6DakyN2ZjWhTF8zBNNf6nbZQjHrPxm+vjYQNRFrgSjQzZDLhx2qnkYx7y6c45nlZw==}
+    dependencies:
+      ebml-stream: 1.0.3
+      pako: 2.0.4
+      readable-stream: 3.6.0
+    dev: false
+
   /mdns-js-packet/0.2.0:
     resolution: {integrity: sha512-+0FV+YXgmt4cxAHY1HtmZFVzVbhWAIuABtxhHuZ9uQGIg3opmK2kg5V62DGntWyfgqA9ZywaTPi4w8ummYDdHA==}
     engines: {node: '>= 4.1.0'}
@@ -6970,6 +6994,10 @@ packages:
       registry-auth-token: 4.2.2
       registry-url: 5.1.0
       semver: 6.3.0
+    dev: false
+
+  /pako/2.0.4:
+    resolution: {integrity: sha512-v8tweI900AUkZN6heMU/4Uy4cXRc2AYNRggVmTR+dEncawDJgCdLMximOVA2p4qO57WMynangsfGRb5WD6L1Bg==}
     dev: false
 
   /param-case/3.0.4:
